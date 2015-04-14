@@ -1,0 +1,184 @@
+#define EVENTS_MASK ExposureMask | KeyPressMask | KeyReleaseMask | ButtonPressMask | ButtonReleaseMask | PointerMotionMask
+
+bool Interface::create_wnd(const char *title, int w, int h)
+{
+    this->m_dpy = XOpenDisplay(NULL);
+    if (this->m_dpy == NULL)
+    {
+        ERROR_MESSAGE("Interface: Cannot connect to X-server\n");
+        return false;
+    }
+
+#ifndef USE_OPENGL
+    this->m_egl_dpy = eglGetDisplay(this->m_dpy);
+    if (!this->m_egl_dpy)
+    {
+        ERROR_MESSAGE("Interface: eglGetDisplay() failed\n");
+        return false;
+    }
+
+    EGLint egl_major, egl_minor;
+    if (!eglInitialize(this->m_egl_dpy, &egl_major, &egl_minor))
+    {
+        ERROR_MESSAGE("Interface: eglInitialize() failed\n");
+        return false;
+    }
+#endif
+
+    this->m_root = DefaultRootWindow(this->m_dpy);
+
+#ifndef USE_OPENGL
+    EGLConfig config;
+    EGLint num_configs;
+    if (!eglChooseConfig(this->m_egl_dpy, attribs, &config, 1, &num_configs))
+    {
+        ERROR_MESSAGE("Interface: couldn't get an EGL visual config\n");
+        return false;
+    }
+
+    EGLint vid;
+    if (!eglGetConfigAttrib(this->m_egl_dpy, config, EGL_NATIVE_VISUAL_ID, &vid))
+    {
+        ERROR_MESSAGE("Interface: eglGetConfigAttrib() failed\n");
+        return false;
+    }
+#endif
+
+#ifdef USE_OPENGL
+    this->m_vi = glXChooseVisual(this->m_dpy, 0, this->m_att);
+#else
+    int num_visuals;
+    XVisualInfo visTemplate;
+    visTemplate.visualid = vid;
+    this->m_vi = XGetVisualInfo(this->m_dpy, VisualIDMask, &visTemplate, &num_visuals);
+#endif
+    if (!this->m_vi)
+    {
+        ERROR_MESSAGE("Interface: couldn't get X visual\n");
+        return false;
+    }
+
+    this->m_cmap = XCreateColormap(this->m_dpy, this->m_root, this->m_vi->visual, AllocNone);
+
+    this->m_swa.colormap = this->m_cmap;
+    this->m_swa.event_mask = EVENTS_MASK;
+    this->m_swa.background_pixel = 0;
+    this->m_swa.border_pixel = 0;
+    this->m_swa.win_gravity = CenterGravity;
+    unsigned long mask = CWBackPixel | CWBorderPixel | CWColormap | CWEventMask | CWCursor;
+    this->m_win = XCreateWindow(this->m_dpy, this->m_root, 0, 0, w, h, 0, this->m_vi->depth, InputOutput, this->m_vi->visual, mask, &this->m_swa);
+    XAllowEvents(this->m_dpy, SyncPointer, CurrentTime);
+
+#ifdef USE_OPENGL
+    //eglBindAPI(EGL_OPENGL_API);
+    this->m_glc = glXCreateContext(this->m_dpy, this->m_vi, NULL, GL_TRUE);
+    glXMakeCurrent(this->m_dpy, this->m_win, this->m_glc);
+#else
+    eglBindAPI(EGL_OPENGL_ES_API);
+    this->m_glc = eglCreateContext(this->m_egl_dpy, this->m_vi, EGL_NO_CONTEXT, ctx_attribs);
+
+    /*this->m_surf = eglCreateWindowSurface(this->m_egl_dpy, config, this->m_win, NULL);
+    if (!this->m_surf) {
+        ERROR_MESSAGE("Interface: eglCreateWindowSurface() failed\n");
+        return false;
+    }*/
+
+    if (!eglMakeCurrent(this->m_egl_dpy, this->m_surf, this->m_surf, this->m_glc))
+    {
+        ERROR_MESSAGE("Interface: eglMakeCurrent() failed\n");
+        return false;
+    }
+#endif
+
+    //XFree(this->m_vi);
+    XMapWindow(this->m_dpy, this->m_win);
+    int screen_num = DefaultScreen(this->m_dpy);
+    int p_h = (DisplayHeight(this->m_dpy, screen_num) - h) / 2;
+    int p_w = (DisplayWidth(this->m_dpy, screen_num) - w) / 2;
+    XMoveWindow(this->m_dpy, this->m_win, p_w, p_h);
+    XStoreName(this->m_dpy, this->m_win, title);
+
+    return true;
+}
+
+void Interface::kill_wnd()
+{
+#ifdef USE_OPENGL
+    glXMakeCurrent(this->m_dpy, None, NULL);
+    glXDestroyContext(this->m_dpy, this->m_glc);
+#else
+    eglDestroyContext(this->m_dpy, this->m_glc);
+    eglDestroySurface(this->m_dpy, this->m_glc);
+    eglTerminate(this->m_dpy);
+#endif
+    XDestroyWindow(this->m_dpy, this->m_win);
+    XCloseDisplay(this->m_dpy);
+}
+
+void Interface::wnd_proc()
+{
+    while(1)
+    {
+
+        if (XCheckWindowEvent(this->m_dpy, this->m_win, EVENTS_MASK, &this->m_xev))
+        {
+            switch (this->m_xev.type)
+            {
+                case Expose:
+                    XGetWindowAttributes(this->m_dpy, this->m_win, &this->m_gwa);
+                    this->resize_gl(this->m_gwa.width, this->m_gwa.height);
+                    break;
+                case KeyPress:
+                    if (this->m_xev.xkey.keycode == XKeysymToKeycode(this->m_dpy, XK_Escape))
+                    {
+                        return;
+                    }
+                case KeyRelease:
+                    break;
+                case ButtonRelease:
+                    switch (this->m_xev.xbutton.button)
+                    {
+                        case 1:
+                            this->m_pointer.left_presed = false;
+                            break;
+                        case 3:
+                            this->m_pointer.rigth_presed = false;
+                            break;
+                    }
+                    this->m_pointer.x = (this->m_xev.xbutton.x * 1.) / this->m_width;
+                    this->m_pointer.y = (this->m_xev.xbutton.y * 1.) / this->m_height;
+                    break;
+                case ButtonPress:
+                    switch (this->m_xev.xbutton.button)
+                    {
+                        case 1:
+                            this->m_pointer.left_presed = true;
+                            break;
+                        case 3:
+                            this->m_pointer.rigth_presed = true;
+                            break;
+                    }
+                    this->m_pointer.x = (this->m_xev.xbutton.x * 1.) / this->m_width;
+                    this->m_pointer.y = (this->m_xev.xbutton.y * 1.) / this->m_height;
+                    break;
+                case EnterNotify:
+                case MotionNotify:
+                case LeaveNotify:
+                    this->m_pointer.x = (this->m_xev.xmotion.x * 1.) / this->m_width;
+                    this->m_pointer.y = (this->m_xev.xmotion.y * 1.) / this->m_height;
+                    break;
+            }
+        }
+
+        global.engine->events_proc();
+        //printf("%f %f\n", this->m_pointer.x, this->m_pointer.y);
+        if (!global.menu->proc(&this->m_pointer))
+        {
+            return;
+        }
+        this->draw();
+
+        if (global.menu->get_state() == MENU_INIT)
+            global.menu->next_state(-1);
+    }
+}

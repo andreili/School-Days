@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="SD" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Release/SD" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="bin/Release/SD" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-march=core2" />
+					<Add option="-Wall" />
+					<Add option="-pg" />
+					<Add option="-g" />
+				</Compiler>
+				<ResourceCompiler>
+					<Add directory="res" />
+				</ResourceCompiler>
+				<Linker>
+					<Add option="-pg" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/SD" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="bin/Release/SD" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Linker>
+			<Add option="-lz  -lpng" />
+			<Add option="-lGL -lGLU" />
+			<Add option="-lopenal" />
+			<Add option="-lvorbisfile -lvorbis -logg" />
+			<Add option="-lX11" />
+			<Add option="-lavformat -lavcodec -lavutil" />
+		</Linker>
+		<Unit filename="cmap_conv.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="defines.h" />
+		<Unit filename="fs.cpp" />
+		<Unit filename="fs.h" />
+		<Unit filename="game.cpp" />
+		<Unit filename="game.h" />
+		<Unit filename="gpk.cpp" />
+		<Unit filename="gpk.h" />
+		<Unit filename="interface.cpp" />
+		<Unit filename="interface.h" />
+		<Unit filename="interface_unix" />
+		<Unit filename="interface_win" />
+		<Unit filename="main.cpp" />
+		<Unit filename="menu.cpp" />
+		<Unit filename="menu.h" />
+		<Unit filename="parser.cpp" />
+		<Unit filename="parser.h" />
+		<Unit filename="script_engine.cpp" />
+		<Unit filename="script_engine.h" />
+		<Unit filename="settings.cpp" />
+		<Unit filename="settings.h" />
+		<Unit filename="sound.cpp" />
+		<Unit filename="sound.h" />
+		<Unit filename="sound_stream.cpp" />
+		<Unit filename="sound_stream.h" />
+		<Unit filename="stream.cpp" />
+		<Unit filename="stream.h" />
+		<Unit filename="video.cpp" />
+		<Unit filename="video.h" />
+		<Unit filename="video_stream.cpp" />
+		<Unit filename="video_stream.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+			<envvars />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

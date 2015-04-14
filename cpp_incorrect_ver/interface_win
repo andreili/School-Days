@@ -1,0 +1,345 @@
+LRESULT	CALLBACK WndProc(HWND, UINT, WPARAM, LPARAM);
+
+bool Interface::create_wnd(const char *title, int w, int h)
+{
+    GLuint		PixelFormat;			// Holds The Results After Searching For A Match
+    WNDCLASSEX	wc;						// Windows Class Structure
+    DWORD		dwExStyle;				// Window Extended Style
+    DWORD		dwStyle;				// Window Style
+    RECT		WindowRect;				// Grabs Rectangle Upper Left / Lower Right Values
+    WindowRect.left=(long)0;			// Set Left Value To 0
+    WindowRect.right=(long)w;		// Set Right Value To Requested Width
+    WindowRect.top=(long)0;				// Set Top Value To 0
+    WindowRect.bottom=(long)h;		// Set Bottom Value To Requested Height
+
+    this->m_instance	= GetModuleHandle(NULL);				// Grab An Instance For Our Window
+
+    memset(&wc, 0, sizeof(wc));
+    wc.cbSize           = sizeof(wc);
+    wc.hInstance		= this->m_instance;
+    wc.hCursor			= LoadCursor(NULL, IDC_ARROW);
+    wc.hbrBackground	= NULL;
+    wc.style			= 0;
+    wc.hIcon			= LoadIcon(NULL, IDI_WINLOGO);
+    wc.lpfnWndProc		= (WNDPROC) WndProc;
+    wc.lpszClassName	= "OpenGL";
+
+    if (!RegisterClassEx(&wc))									// Attempt To Register The Window Class
+    {
+        ERROR_MESSAGE("Interface: Failed To Register The Window Class.");
+        return false;											// Return FALSE
+    }
+
+    if (this->m_fullscreen)										// Attempt Fullscreen Mode?
+    {
+        DEVMODE dmScreenSettings;								// Device Mode
+        memset(&dmScreenSettings,0,sizeof(dmScreenSettings));	// Makes Sure Memory's Cleared
+        dmScreenSettings.dmSize=sizeof(dmScreenSettings);		// Size Of The Devmode Structure
+        dmScreenSettings.dmPelsWidth	= w;				    // Selected Screen Width
+        dmScreenSettings.dmPelsHeight	= h;				    // Selected Screen Height
+        dmScreenSettings.dmBitsPerPel	= SCR_BITS;				// Selected Bits Per Pixel
+        dmScreenSettings.dmFields=DM_BITSPERPEL|DM_PELSWIDTH|DM_PELSHEIGHT;
+
+        // Try To Set Selected Mode And Get Results.  NOTE: CDS_FULLSCREEN Gets Rid Of Start Bar.
+        if (ChangeDisplaySettings(&dmScreenSettings,CDS_FULLSCREEN)!=DISP_CHANGE_SUCCESSFUL)
+        {
+            // If The Mode Fails, Offer Two Options.  Quit Or Use Windowed Mode.
+            if (MessageBox(NULL,"Interface: The Requested Fullscreen Mode Is Not Supported By\nYour Video Card. Use Windowed Mode Instead?","NeHe GL",MB_YESNO|MB_ICONEXCLAMATION)==IDYES)
+            {
+                this->m_fullscreen=false;	// Windowed Mode Selected.  Fullscreen = FALSE
+            }
+            else
+            {
+                // Pop Up A Message Box Letting User Know The Program Is Closing.
+                ERROR_MESSAGE("Interface: Program Will Now Close.\n");
+                return false;									// Return FALSE
+            }
+        }
+    }
+
+    if (this->m_fullscreen)										// Are We Still In Fullscreen Mode?
+    {
+        dwExStyle=WS_EX_APPWINDOW;								// Window Extended Style
+        dwStyle=WS_POPUP;										// Windows Style
+        ShowCursor(false);										// Hide Mouse Pointer
+    }
+    else
+    {
+        dwExStyle=WS_EX_APPWINDOW | WS_EX_WINDOWEDGE;			// Window Extended Style
+        dwStyle=WS_OVERLAPPEDWINDOW;							// Windows Style
+    }
+
+    AdjustWindowRectEx(&WindowRect, dwStyle, false, dwExStyle);		// Adjust Window To True Requested Size
+
+    // Create The Window
+    if (!(this->m_wnd=CreateWindow("OpenGL",					    	// Class Name
+                                   title,								// Window Title
+                                   dwStyle |							// Defined Window Style
+                                   WS_VISIBLE,
+                                   0, 0,								// Window Position
+                                   WindowRect.right-WindowRect.left,    // Calculate Window Width
+                                   WindowRect.bottom-WindowRect.top,    // Calculate Window Height
+                                   NULL,								// No Parent Window
+                                   NULL,								// No Menu
+                                   this->m_instance,					// Instance
+                                   NULL)))
+    {
+        ERROR_MESSAGE("Window Creation Error.");
+        this->kill_wnd();							// Reset The Display
+        return false;								// Return FALSE
+    }
+
+    static	PIXELFORMATDESCRIPTOR pfd=				// pfd Tells Windows How We Want Things To Be
+    {
+        sizeof(PIXELFORMATDESCRIPTOR),				// Size Of This Pixel Format Descriptor
+        1,											// Version Number
+        PFD_DRAW_TO_WINDOW |						// Format Must Support Window
+        PFD_SUPPORT_OPENGL |						// Format Must Support OpenGL
+        PFD_DOUBLEBUFFER,							// Must Support Double Buffering
+        PFD_TYPE_RGBA,								// Request An RGBA Format
+        SCR_BITS,									// Select Our Color Depth
+        0, 0, 0, 0, 0, 0,							// Color Bits Ignored
+        0,											// No Alpha Buffer
+        0,											// Shift Bit Ignored
+        0,											// No Accumulation Buffer
+        0, 0, 0, 0,									// Accumulation Bits Ignored
+        16,											// 16Bit Z-Buffer (Depth Buffer)
+        0,											// No Stencil Buffer
+        0,											// No Auxiliary Buffer
+        PFD_MAIN_PLANE,								// Main Drawing Layer
+        0,											// Reserved
+        0, 0, 0										// Layer Masks Ignored
+    };
+
+    if (!(this->m_dc=GetDC(this->m_wnd)))			// Did We Get A Device Context?
+    {
+        ERROR_MESSAGE("Interface: Can't Create A GL Device Context.\n");
+        this->kill_wnd();							// Reset The Display
+        return false;								// Return FALSE
+    }
+
+    if (!(PixelFormat=ChoosePixelFormat(this->m_dc,&pfd)))	// Did Windows Find A Matching Pixel Format?
+    {
+        ERROR_MESSAGE("Interface: Can't Find A Suitable PixelFormat.\n");
+        this->kill_wnd();							// Reset The Display
+        return false;								// Return FALSE
+    }
+
+    if(!SetPixelFormat(this->m_dc,PixelFormat,&pfd))// Are We Able To Set The Pixel Format?
+    {
+        ERROR_MESSAGE("Interface: Can't Set The PixelFormat.\n");
+        this->kill_wnd();							// Reset The Display
+        return false;								// Return FALSE
+    }
+
+    if (!(this->m_rc=wglCreateContext(this->m_dc)))	// Are We Able To Get A Rendering Context?
+    {
+        this->kill_wnd();							// Reset The Display
+        ERROR_MESSAGE("Interface: Can't Create A GL Rendering Context.\n");
+        return false;								// Return FALSE
+    }
+
+    if(!wglMakeCurrent(this->m_dc,this->m_rc))		// Try To Activate The Rendering Context
+    {
+        this->kill_wnd();							// Reset The Display
+        ERROR_MESSAGE("Interface: Can't Activate The GL Rendering Context.\n");
+        return false;								// Return FALSE
+    }
+
+    ShowWindow(this->m_wnd,SW_SHOW);				// Show The Window
+    SetForegroundWindow(this->m_wnd);				// Slightly Higher Priority
+    SetFocus(this->m_wnd);							// Sets Keyboard Focus To The Window
+    this->resize_gl(w, h);
+
+    return true;
+}
+
+void Interface::kill_wnd()
+{
+    if (this->m_fullscreen)								// Are We In Fullscreen Mode?
+    {
+        ChangeDisplaySettings(NULL,0);					// If So Switch Back To The Desktop
+        ShowCursor(TRUE);								// Show Mouse Pointer
+    }
+
+    if (this->m_rc)											// Do We Have A Rendering Context?
+    {
+        if (!wglMakeCurrent(NULL,NULL))					// Are We Able To Release The DC And RC Contexts?
+        {
+            ERROR_MESSAGE("Interface: Release Of DC And RC Failed.\n");
+        }
+
+        if (!wglDeleteContext(this->m_rc))						// Are We Able To Delete The RC?
+        {
+            ERROR_MESSAGE("Interface: Release Rendering Context Failed.\n");
+        }
+        this->m_rc=NULL;										// Set RC To NULL
+    }
+
+    if (this->m_dc && !ReleaseDC(this->m_wnd,this->m_dc))	// Are We Able To Release The DC
+    {
+        ERROR_MESSAGE("Interface: Release Device Context Failed.\n");
+        this->m_dc=NULL;								// Set DC To NULL
+    }
+
+    if (this->m_wnd && !DestroyWindow(this->m_wnd))		// Are We Able To Destroy The Window?
+    {
+        ERROR_MESSAGE("Interface: Could Not Release hWnd.\n");
+        this->m_wnd=NULL;								// Set hWnd To NULL
+    }
+
+    if (!UnregisterClass("OpenGL", this->m_instance))	// Are We Able To Unregister Class
+    {
+        ERROR_MESSAGE("Interface: Could Not Unregister Class.\n");
+        this->m_instance=NULL;							// Set hInstance To NULL
+    }
+}
+
+bool active = false;
+bool	keys[256];
+int32_t x, y;
+
+LRESULT CALLBACK WndProc(	HWND	hWnd,			// Handle For This Window
+                            UINT	uMsg,			// Message For This Window
+                            WPARAM	wParam,			// Additional Message Information
+                            LPARAM	lParam)			// Additional Message Information
+{
+    x = -1;
+	switch (uMsg)									// Check For Windows Messages
+	{
+		case WM_ACTIVATE:							// Watch For Window Activate Message
+		{
+			if (!HIWORD(wParam))					// Check Minimization State
+			{
+				active=true;						// Program Is Active
+			}
+			else
+			{
+				active=false;						// Program Is No Longer Active
+			}
+
+			return 0;								// Return To The Message Loop
+		}
+
+		case WM_SYSCOMMAND:							// Intercept System Commands
+		{
+			switch (wParam)							// Check System Calls
+			{
+				case SC_SCREENSAVE:					// Screensaver Trying To Start?
+				case SC_MONITORPOWER:				// Monitor Trying To Enter Powersave?
+				return 0;							// Prevent From Happening
+			}
+			break;									// Exit
+		}
+
+		case WM_CLOSE:								// Did We Receive A Close Message?
+		{
+			PostQuitMessage(0);						// Send A Quit Message
+			return 0;								// Jump Back
+		}
+
+		case WM_KEYDOWN:							// Is A Key Being Held Down?
+		{
+			keys[wParam] = TRUE;					// If So, Mark It As TRUE
+			return 0;								// Jump Back
+		}
+
+		case WM_KEYUP:								// Has A Key Been Released?
+		{
+			keys[wParam] = FALSE;					// If So, Mark It As FALSE
+			return 0;								// Jump Back
+		}
+
+		case WM_SIZE:								// Resize The OpenGL Window
+		{
+			global._interface->resize_gl(LOWORD(lParam),HIWORD(lParam));  // LoWord=Width, HiWord=Height
+			return 0;								// Jump Back
+		}
+
+		case WM_MOUSEMOVE:
+		{
+            x = LOWORD(lParam);
+            y = HIWORD(lParam);
+            return 0;
+		}
+
+		case WM_LBUTTONUP:
+        {
+            keys[VK_LBUTTON] = true;
+            return 0;
+		}
+
+		case WM_RBUTTONUP:
+        {
+            keys[VK_RBUTTON] = true;
+            return 0;
+		}
+	}
+
+    return DefWindowProc(hWnd,uMsg,wParam,lParam);
+}
+
+void Interface::wnd_proc()
+{
+    MSG		msg;
+    while(1)
+    {
+        if (PeekMessage(&msg,NULL,0,0,PM_REMOVE))	// Is There A Message Waiting?
+		{
+			if (msg.message==WM_QUIT)				// Have We Received A Quit Message?
+			{
+				return;							// If So done=TRUE
+			}
+			else									// If Not, Deal With Window Messages
+			{
+				TranslateMessage(&msg);				// Translate The Message
+				DispatchMessage(&msg);				// Dispatch The Message
+			}
+		}
+		else										// If There Are No Messages
+		{
+			// Draw The Scene.  Watch For ESC Key And Quit Messages From DrawGLScene()
+			if (active)								// Program Active?
+			{
+                this->m_pointer.left_presed = keys[VK_LBUTTON];
+                this->m_pointer.rigth_presed = keys[VK_RBUTTON];
+                keys[VK_LBUTTON] = keys[VK_RBUTTON] = false;
+				if (keys[VK_ESCAPE])				// Was ESC Pressed?
+				{
+					return;						// ESC Signalled A Quit
+				}
+				else								// Not Time To Quit, Update Screen
+				{
+					this->draw();					// Draw The Scene
+				}
+
+				if (x>=0)
+				{
+                    this->m_pointer.x = (x * 1.) / this->m_width;
+                    this->m_pointer.y = (y * 1.) / this->m_height;
+				}
+			}
+
+			/*if (keys[VK_F1])						// Is F1 Being Pressed?
+			{
+				keys[VK_F1]=FALSE;					// If So Make Key FALSE
+				KillGLWindow();						// Kill Our Current Window
+				fullscreen=!fullscreen;				// Toggle Fullscreen / Windowed Mode
+				// Recreate Our OpenGL Window
+				if (!CreateGLWindow("NeHe's OpenGL Framework",640,480,16,fullscreen))
+				{
+					return 0;						// Quit If Window Was Not Created
+				}
+			}*/
+		}
+        global.engine->events_proc();
+        if (!global.menu->proc(&this->m_pointer))
+        {
+            return;
+        }
+        this->draw();
+
+        if (global.menu->get_state() == MENU_INIT)
+            global.menu->next_state(-1);
+    }
+}
