@@ -13,8 +13,21 @@ TEMPLATE = app
 
 
 SOURCES += main.cpp\
-        mainwindow.cpp
+        mainwindow.cpp \
+    ../classes/qfilesystem.cpp \
+    ../classes/qgpk.cpp \
+    ../classes/qgpkfile.cpp \
+    ../classes/qscript.cpp \
+    ../classes/qscriptaction.cpp
 
-HEADERS  += mainwindow.h
+HEADERS  += mainwindow.h \
+    ../classes/qfilesystem.h \
+    ../classes/qgpk.h \
+    ../classes/qgpkfile.h \
+    ../classes/qscript.h \
+    ../classes/qscriptaction.h
 
 FORMS    += mainwindow.ui
+
+OTHER_FILES += \
+    ../game/game.json
