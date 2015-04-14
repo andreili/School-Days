@@ -2,7 +2,10 @@
 
 int convert_time(QString time)
 {
-    return 0;
+    QStringList times = time.split(':');
+    return (times[0].toInt() * 60 +         // minutes
+            times[1].toInt()) * 1000 +      //seconds
+           (times[2].toFloat() * 16.6667);  // milliseconds
 }
 
 QScriptAction::QScriptAction(Action action, QStringList *params, QObject *parent) :
