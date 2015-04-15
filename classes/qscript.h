@@ -2,6 +2,7 @@
 #define QSCRIPT_H
 
 #include <QList>
+#include <QTimer>
 #include <QObject>
 #include <QStringList>
 #include "qscriptaction.h"
@@ -18,9 +19,11 @@ public:
     QString serialize();
 
     void export_txt(QString file_name);
+    void import_txt(QString file_name);
 
 private:
     QList<QScriptAction*> actions;
+    QList<QTimer*> timers;
 
     void add_action_by_ors(QString action, QStringList params);
 

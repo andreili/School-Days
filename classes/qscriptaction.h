@@ -2,6 +2,7 @@
 #define QSCRIPTACTION_H
 
 #include <QObject>
+#include <QTime>
 #include <QStringList>
 
 class QScriptAction : public QObject
@@ -31,13 +32,24 @@ public:
     explicit QScriptAction(Action action, QStringList *params, QObject *parent = 0);
 
     Action getAction() { return this->action; }
+
     QString getText() { return this->text; }
+    void setText(QString new_text) { this->text = new_text; }
+
+    QString getPersona() { return this->persona; }
+    void setPersona(QString new_persons) { this->persona = new_persons; }
+
     QString getAnswer1() { return this->answer1; }
+    void setAnswer1(QString new_answer) { this->answer1 = new_answer; }
     QString getAnswer2() { return this->answer2; }
+    void setAnswer2(QString new_answer) { this->answer2 = new_answer; }
+
+    QString toString();
 
 signals:
 
 public slots:
+    void execute();
 
 private:
     Action action;

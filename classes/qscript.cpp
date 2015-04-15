@@ -15,6 +15,10 @@ QScript::~QScript()
     {
         delete action;
     }
+    foreach(QTimer* timer, timers)
+    {
+        delete timer;
+    }
 }
 
 void QScript::load_from_ORS(QIODevice *io)
@@ -27,7 +31,7 @@ void QScript::load_from_ORS(QIODevice *io)
             continue;
 
         this->add_action_by_ors(line.split('\t')[0].split(QRegExp("[:=\\[\\];]"), QString::SkipEmptyParts)[0],
-                line.split(QRegExp("[=\\[\\]\\t;]"), QString::SkipEmptyParts));
+                line.split('\t', QString::SkipEmptyParts));
     }
 }
 
@@ -49,6 +53,7 @@ void QScript::export_txt(QString file_name)
         switch (action->getAction())
         {
         case QScriptAction::PrintText:
+            text_stream << action->getPersona() << endl;
             text_stream << action->getText() << endl;
             break;
         case QScriptAction::SetSELECT:
@@ -64,6 +69,9 @@ void QScript::export_txt(QString file_name)
         case QScriptAction::PlaySe:
         case QScriptAction::PlayVoice:
         case QScriptAction::Next:
+        case QScriptAction::EndBGM:
+        case QScriptAction::EndRoll:
+        case QScriptAction::MoveSom:
             break;
         }
     }
@@ -72,66 +80,55 @@ void QScript::export_txt(QString file_name)
     text.close();
 }
 
+void QScript::import_txt(QString file_name)
+{
+    QFile text(file_name);
+    QTextStream text_stream(&text);
+    if (!text.open(QFile::ReadOnly))
+        return;
+
+    QFile ors(file_name + ".ORS");
+    QTextStream ors_stream(&ors);
+    if (!ors.open(QFile::WriteOnly))
+        return;
+
+    foreach(QScriptAction* action, actions)
+    {
+        switch (action->getAction())
+        {
+        case QScriptAction::PrintText:
+            action->setPersona(text_stream.readLine());
+            action->setText(text_stream.readLine());
+            break;
+        case QScriptAction::SetSELECT:
+            action->setAnswer1(text_stream.readLine());
+            action->setAnswer2(text_stream.readLine());
+            break;
+        case QScriptAction::SkipFRAME:
+        case QScriptAction::CreateBG:
+        case QScriptAction::BlackFade:
+        case QScriptAction::WhiteFade:
+        case QScriptAction::PlayMovie:
+        case QScriptAction::PlayBgm:
+        case QScriptAction::PlaySe:
+        case QScriptAction::PlayVoice:
+        case QScriptAction::Next:
+        case QScriptAction::EndBGM:
+        case QScriptAction::EndRoll:
+        case QScriptAction::MoveSom:
+            break;
+        }
+
+        ors_stream << action->toString();
+    }
+
+    text.close();
+    ors_stream.flush();
+    ors.close();
+}
+
 void QScript::add_action_by_ors(QString action, QStringList params)
 {
     QMetaEnum en = QScriptAction::staticMetaObject.enumerator(0);
     actions.append(new QScriptAction((QScriptAction::Action)en.keyToValue(action.toStdString().c_str()), &params, this));
-    /*qDebug() << en.valueToKey(QScriptAction::PrintText);
-    if (action.compare("CreateBG") == 0)
-    {
-        actions.append(new QScriptAction(QScriptAction::CreateBG, &params, this));
-    }
-    else if (action.compare("PlayMovie") == 0)
-    {
-        actions.append(new QScriptAction(QScriptAction::PlayMovie, &params, this));
-    }
-    else if (action.compare("PlaySe") == 0)
-    {
-        actions.append(new QScriptAction(QScriptAction::PlaySe, &params, this));
-    }
-    else if (action.compare("PrintText") == 0)
-    {
-        actions.append(new QScriptAction(QScriptAction::PrintText, &params, this));
-    }
-    else if (action.compare("BlackFade") == 0)
-    {
-        actions.append(new QScriptAction(QScriptAction::BlackFade, &params, this));
-    }
-    else if (action.compare("WhiteFade") == 0)
-    {
-        actions.append(new QScriptAction(QScriptAction::WhiteFade, &params, this));
-    }
-    else if (action.compare("PlayVoice") == 0)
-    {
-        actions.append(new QScriptAction(QScriptAction::PlayVoice, &params, this));
-    }
-    else if (action.compare("PlayBgm") == 0)
-    {
-        actions.append(new QScriptAction(QScriptAction::PlayBgm, &params, this));
-    }
-    else if (action.compare("SkipFRAME") == 0)
-    {
-        actions.append(new QScriptAction(QScriptAction::SkipFRAME, &params, this));
-    }
-    else if (action.compare("SetSELECT") == 0)
-    {
-        actions.append(new QScriptAction(QScriptAction::SetSELECT, &params, this));
-    }
-    else if (action.compare("Next") == 0)
-    {
-        actions.append(new QScriptAction(QScriptAction::Next, &params, this));
-    }
-    else if (action.compare("EndBGM") == 0)
-    {
-        actions.append(new QScriptAction(QScriptAction::EndBGM, &params, this));
-    }
-    else if (action.compare("EndRoll") == 0)
-    {
-        actions.append(new QScriptAction(QScriptAction::EndRoll, &params, this));
-    }
-    else if (action.compare("MoveSom") == 0)
-    {
-        actions.append(new QScriptAction(QScriptAction::MoveSom, &params, this));
-    }
-    else qDebug() << "Unknown action: " << action;*/
 }

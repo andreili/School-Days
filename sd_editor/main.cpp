@@ -26,17 +26,22 @@ int main(int argc, char *argv[])
             continue;
 
         QDir files_dir(path + "/" + folder);
-        files_dir.setNameFilters(QStringList() << "*.ORS");
+        files_dir.setNameFilters(QStringList() << "*.ENG.ORS");
         files_dir.setFilter(QDir::Files | QDir::Hidden | QDir::NoSymLinks);
         QStringList files = files_dir.entryList();
         foreach (QString file, files)
         {
+            qDebug() << file;
             QScript* script = new QScript();
             QFile scr(path + "/" + folder + "/" + file);
             if (scr.open(QFile::ReadOnly))
             {
+                qDebug() << "open";
                 script->load_from_ORS(&scr);
+                qDebug() << "export";
                 script->export_txt(path + "/" + folder + "/" + file + ".txt");
+                qDebug() << "import";
+                script->import_txt(path + "/" + folder + "/" + file + ".txt");
             }
             else
                 qDebug() << scr.errorString();
