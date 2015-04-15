@@ -7,6 +7,7 @@
 class QScriptAction : public QObject
 {
     Q_OBJECT
+    Q_ENUMS(Action)
 public:
 
     enum Action

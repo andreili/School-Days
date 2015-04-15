@@ -15,8 +15,8 @@ int main(int argc, char *argv[])
     if (argc < 1)
         return 1;
 
-    //QString path = "/media/work/Dev/Games/SD/_/Script/ENGLISH";
-    QString path = argv[1];
+    QString path = "/media/work/Dev/Games/SD/_/Script/ENGLISH";
+    //QString path = argv[1];
     QDir dirs(path);
     dirs.setFilter(QDir::Dirs);
     QStringList folders = dirs.entryList();

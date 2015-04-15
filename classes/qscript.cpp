@@ -1,6 +1,7 @@
 #include "qscript.h"
 #include <QTextStream>
 #include <QFile>
+#include <QMetaEnum>
 #include <QDebug>
 
 QScript::QScript(QObject *parent) :
@@ -73,6 +74,9 @@ void QScript::export_txt(QString file_name)
 
 void QScript::add_action_by_ors(QString action, QStringList params)
 {
+    QMetaEnum en = QScriptAction::staticMetaObject.enumerator(0);
+    actions.append(new QScriptAction((QScriptAction::Action)en.keyToValue(action.toStdString().c_str()), &params, this));
+    /*qDebug() << en.valueToKey(QScriptAction::PrintText);
     if (action.compare("CreateBG") == 0)
     {
         actions.append(new QScriptAction(QScriptAction::CreateBG, &params, this));
@@ -129,5 +133,5 @@ void QScript::add_action_by_ors(QString action, QStringList params)
     {
         actions.append(new QScriptAction(QScriptAction::MoveSom, &params, this));
     }
-    else qDebug() << "Unknown action: " << action;
+    else qDebug() << "Unknown action: " << action;*/
 }

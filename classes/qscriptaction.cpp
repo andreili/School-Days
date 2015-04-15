@@ -1,4 +1,8 @@
 #include "qscriptaction.h"
+#include <QMetaEnum>
+#ifdef QT_DEBUG
+#include <QDebug>
+#endif
 
 int convert_time(QString time)
 {
@@ -92,6 +96,12 @@ QScriptAction::QScriptAction(Action action, QStringList *params, QObject *parent
         this->start = convert_time(params->at(1));
         this->layer = params->at(2).toInt();
         this->end = convert_time(params->at(3));
+        break;
+    default:
+#ifdef QT_DEBUG
+        QMetaEnum en = QScriptAction::staticMetaObject.enumerator(0);
+        qDebug() << "Unknown action: " << en.valueToKey(action);
+#endif
         break;
     }
 }

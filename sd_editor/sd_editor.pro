@@ -14,12 +14,12 @@ TEMPLATE = app
 
 
 SOURCES += main.cpp\
-#        mainwindow.cpp \
     ../classes/qfilesystem.cpp \
     ../classes/qgpk.cpp \
     ../classes/qgpkfile.cpp \
     ../classes/qscript.cpp \
     ../classes/qscriptaction.cpp
+#        mainwindow.cpp \
 
 HEADERS  += ../classes/qfilesystem.h \
     ../classes/qgpk.h \
