@@ -1,0 +1,45 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 5000,
+        "file": "SysSe/SE_all/gaya/kyousitu_rouka",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event05/05-A0/05-A0-H01/05-A0-H01-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 183,
+        "text": "Да.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice05/05-A0/05-A0-H01/05-A0-H01-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 183
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Нанами",
+        "start": 3116,
+        "text": "Так и знала.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice05/05-A0/05-A0-H01/05-A0-H01-0050",
+        "layer": 0,
+        "persona": "nan",
+        "start": 3116
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 20000,
+        "file": "BGM/SD_BGM/sdbgm33",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event03/03-KA/03-KA-F02/03-KA-F02-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-KA/03-KA-F06/03-KA-F06-0030",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Макото",
+        "start": 2016,
+        "text": "Да и ладно. «Я хочу большего от наших отношений». И так сойдет.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice03/03-KA/03-KA-F06/03-KA-F06-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2016
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Макото",
+        "start": 7066,
+        "text": "«Отправить»^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice03/03-KA/03-KA-F06/03-KA-F06-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 7066
+    },
+    {
+        "action": "CreateBG",
+        "end": 20000,
+        "file": "Event03/03-KA/03-KA-F06/03-KA-F06-003",
+        "start": 9016
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Макото",
+        "start": 9116,
+        "text": "Не слишком-то у нас с Котонохой продвигается...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice03/03-KA/03-KA-F06/03-KA-F06-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 9116
+    },
+    {
+        "action": "PrintText",
+        "end": 19000,
+        "persona": "Макото",
+        "start": 17316,
+        "text": "Нужно выспаться...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 19000,
+        "file": "Voice03/03-KA/03-KA-F06/03-KA-F06-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 17316
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 20000,
+        "start": 19016
+    }
+]

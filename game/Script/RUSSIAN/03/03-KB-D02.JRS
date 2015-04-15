@@ -1,0 +1,131 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 11000,
+        "file": "BGM/SD_BGM/sdbgm12",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 6000,
+        "file": "Event03/03-KB/03-KB-D02/03-KB-D02-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Со мной посоветоваться?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-KB/03-KB-D02/03-KB-D02-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Таисукэ",
+        "start": 1116,
+        "text": "Да.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice03/03-KB/03-KB-D02/03-KB-D02-0040",
+        "layer": 1,
+        "persona": "tai",
+        "start": 1116
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Макото",
+        "start": 2350,
+        "text": "Я слушаю.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice03/03-KB/03-KB-D02/03-KB-D02-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2350
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Таисукэ",
+        "start": 4050,
+        "text": "Ну, дело в том...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice03/03-KB/03-KB-D02/03-KB-D02-0060",
+        "layer": 1,
+        "persona": "tai",
+        "start": 4050
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Макото",
+        "start": 6000,
+        "text": "Ага.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice03/03-KB/03-KB-D02/03-KB-D02-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 6000
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event03/03-KB/03-KB-D01/03-KB-D01-005",
+        "start": 6266
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Таисукэ",
+        "start": 6266,
+        "text": "Есть одна девушка, которая мне нравится.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice03/03-KB/03-KB-D02/03-KB-D02-0080",
+        "layer": 1,
+        "persona": "tai",
+        "start": 6266
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event03/03-KB/03-KB-D02/03-KB-D02-003",
+        "start": 10366
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Макото",
+        "start": 10366,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice03/03-KB/03-KB-D02/03-KB-D02-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 10366
+    }
+]

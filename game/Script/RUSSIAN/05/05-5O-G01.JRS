@@ -1,0 +1,159 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 18000,
+        "file": "SysSe/SE_all/gaya/kyousitu_rouka",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 6000,
+        "file": "Event05/05-5O/05-5O-G01/05-5O-G01-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 100,
+        "text": "Прекрати...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice05/05-5O/05-5O-G01/05-5O-G01-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 100
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Отомэ",
+        "start": 1133,
+        "text": "Э?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice05/05-5O/05-5O-G01/05-5O-G01-0040",
+        "layer": 0,
+        "persona": "oto",
+        "start": 1133
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Макото",
+        "start": 2116,
+        "text": "Я не в том положении, чтобы ты мне такое говорила.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice05/05-5O/05-5O-G01/05-5O-G01-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2116
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event05/05-5O/05-5O-G01/05-5O-G01-002",
+        "start": 6166
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Отомэ",
+        "start": 6183,
+        "text": "Причём тут это вообще?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice05/05-5O/05-5O-G01/05-5O-G01-0060",
+        "layer": 0,
+        "persona": "oto",
+        "start": 6183
+    },
+    {
+        "action": "CreateBG",
+        "end": 16000,
+        "file": "Event05/05-5O/05-5O-G01/05-5O-G01-003",
+        "start": 9366
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Макото",
+        "start": 10000,
+        "text": "Прости.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice05/05-5O/05-5O-G01/05-5O-G01-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 10000
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Отомэ",
+        "start": 11133,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice05/05-5O/05-5O-G01/05-5O-G01-0080",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 11133
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Макото",
+        "start": 13066,
+        "text": "Я, конечно, рад твоим чувствам, но...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice05/05-5O/05-5O-G01/05-5O-G01-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 13066
+    },
+    {
+        "action": "CreateBG",
+        "end": 18000,
+        "file": "Event05/05-5O/05-5O-G01/05-5O-G01-004",
+        "start": 16000
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Отомэ",
+        "start": 16066,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice05/05-5O/05-5O-G01/05-5O-G01-0100",
+        "layer": 0,
+        "persona": "oto",
+        "start": 16066
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 18000,
+        "start": 17033
+    }
+]

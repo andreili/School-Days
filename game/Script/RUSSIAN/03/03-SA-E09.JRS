@@ -1,0 +1,85 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 18000,
+        "file": "BGM/SD_BGM/sdbgm07",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 18000,
+        "file": "Se03/03-SA/03-SA-E09/SE03-SA-E09-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event03/03-SA/03-SA-E09/03-SA-E09-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event03/03-SA/03-SA-E09/03-SA-E09-002",
+        "start": 2000
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Макото",
+        "start": 2000,
+        "text": "Скоро танцы начнутся...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice03/03-SA/03-SA-E09/03-SA-E09-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2000
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Макото",
+        "start": 4050,
+        "text": "Но если пойти туда сейчас, заставят с подготовкой помогать... Что-то неохота...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice03/03-SA/03-SA-E09/03-SA-E09-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 4050
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Макото",
+        "start": 9350,
+        "text": "Хм...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice03/03-SA/03-SA-E09/03-SA-E09-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 9350
+    },
+    {
+        "action": "CreateBG",
+        "end": 18000,
+        "file": "Event03/03-SA/03-SA-E09/03-SA-E09-003",
+        "start": 9366
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Всё-таки пойти.^",
+        "answer2": "NULL",
+        "end": 17000,
+        "start": 12000
+    }
+]

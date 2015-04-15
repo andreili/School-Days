@@ -1,0 +1,98 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 42000,
+        "file": "BGM/SD_BGM/sdbgm20",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event01/01-00/01-00-A00/01-00-A00-003",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 12000,
+        "file": "Se01/01-00/01-00-A00/SE01-00-A00-001",
+        "layer": 1,
+        "start": 200
+    },
+    {
+        "action": "PlayMovie",
+        "end": 8000,
+        "file": "Movie01/01-00/01-00-A00/01-00-A00-002",
+        "start": 3116
+    },
+    {
+        "action": "CreateBG",
+        "end": 21000,
+        "file": "Event01/01-00/01-00-A00/01-00-A00-003",
+        "start": 8366
+    },
+    {
+        "action": "PlayMovie",
+        "end": 22000,
+        "file": "Movie01/01-00/01-00-A00/01-00-A00-001",
+        "start": 21050
+    },
+    {
+        "action": "PlayMovie",
+        "end": 24000,
+        "file": "Movie01/01-00/01-00-A00/01-00-A00-004",
+        "start": 22116
+    },
+    {
+        "action": "PlaySe",
+        "end": 25000,
+        "file": "Se01/01-00/01-00-A00/SE01-00-A00-002",
+        "layer": 2,
+        "start": 21050
+    },
+    {
+        "action": "CreateBG",
+        "end": 32000,
+        "file": "Event01/01-00/01-00-A00/01-00-A00-005",
+        "start": 24366
+    },
+    {
+        "action": "PlaySe",
+        "end": 32000,
+        "file": "Se01/01-00/01-00-A00/SE01-00-A00-003",
+        "layer": 2,
+        "start": 32033
+    },
+    {
+        "action": "PlayMovie",
+        "end": 35000,
+        "file": "Movie01/01-00/01-00-A00/01-00-A00-006",
+        "start": 32033
+    },
+    {
+        "action": "CreateBG",
+        "end": 42000,
+        "file": "Event01/01-00/01-00-A00/01-00-A00-008",
+        "start": 35316
+    },
+    {
+        "action": "PrintText",
+        "end": 40000,
+        "persona": "Сэкаи",
+        "start": 39233,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 40000,
+        "file": "Voice01/01-00/01-00-A00/01-00-A00-0130",
+        "layer": 0,
+        "persona": "sek",
+        "start": 39233
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 42000,
+        "start": 41183
+    }
+]

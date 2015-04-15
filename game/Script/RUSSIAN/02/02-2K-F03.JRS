@@ -1,0 +1,85 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 11000,
+        "file": "BGM/SD_BGM/sdbgm15",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 11000,
+        "file": "Se01/01-00/01-00-E00/SE01-00-E00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event02/02-2K/02-2K-F03/02-2K-F03-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Котоноха",
+        "start": 0,
+        "text": "Послушай...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice02/02-2K/02-2K-F03/02-2K-F03-0030",
+        "layer": 0,
+        "persona": "kot",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event02/02-2K/02-2K-F03/02-2K-F03-002",
+        "start": 2066
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Макото",
+        "start": 2266,
+        "text": "Да?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice02/02-2K/02-2K-F03/02-2K-F03-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2266
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event02/02-2K/02-2K-F03/02-2K-F03-003",
+        "start": 3266
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Котоноха",
+        "start": 3333,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice02/02-2K/02-2K-F03/02-2K-F03-0060",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 3333
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Извини!^",
+        "answer2": " Что-то не так?^",
+        "end": 10000,
+        "start": 5250
+    }
+]

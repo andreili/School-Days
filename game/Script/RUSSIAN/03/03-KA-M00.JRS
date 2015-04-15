@@ -1,0 +1,86 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 18000,
+        "file": "BGM/SD_BGM/sdbgm06",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event03/03-KA/03-KA-M00/03-KA-M00-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Постепенно начинаю её забывать...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-KA/03-KA-M00/03-KA-M00-0030",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Макото",
+        "start": 2250,
+        "text": "Почему так происходит?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice03/03-KA/03-KA-M00/03-KA-M00-0040",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 2250
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Макото",
+        "start": 5200,
+        "text": "Неужели мои чувства к ней настолько поверхностны?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice03/03-KA/03-KA-M00/03-KA-M00-0050",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 5200
+    },
+    {
+        "action": "CreateBG",
+        "end": 18000,
+        "file": "Event03/03-KA/03-KA-M00/03-KA-M00-002",
+        "start": 10083
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Макото",
+        "start": 10350,
+        "text": "Почему мне приходят в голову такие мрачные мысли?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice03/03-KA/03-KA-M00/03-KA-M00-0060",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 10350
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 18000,
+        "start": 17100
+    }
+]

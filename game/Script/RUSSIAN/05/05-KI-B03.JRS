@@ -1,0 +1,120 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 17000,
+        "file": "SysSe/SE_all/gaya/kyousitu_rouka",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event05/05-KB/05-KB-B03/05-KB-B03-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Отомэ",
+        "start": 0,
+        "text": "Кацура.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice05/05-KB/05-KB-B03/05-KB-B03-0040",
+        "layer": 0,
+        "persona": "oto",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event05/05-KB/05-KB-B03/05-KB-B03-002",
+        "start": 2133
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Котоноха",
+        "start": 2200,
+        "text": "Да?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice05/05-KB/05-KB-B03/05-KB-B03-0050",
+        "layer": 0,
+        "persona": "kot",
+        "start": 2200
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event05/05-KB/05-KB-B03/05-KB-B03-003",
+        "start": 3300
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Отомэ",
+        "start": 3383,
+        "text": "На полу ещё крошки остались.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice05/05-KB/05-KB-B03/05-KB-B03-0060",
+        "layer": 0,
+        "persona": "oto",
+        "start": 3383
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Куми",
+        "start": 7266,
+        "text": "Собери уже этот мусор.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice05/05-KB/05-KB-B03/05-KB-B03-0070",
+        "layer": 0,
+        "persona": "kum",
+        "start": 7266
+    },
+    {
+        "action": "CreateBG",
+        "end": 12000,
+        "file": "Event05/05-KB/05-KB-B03/05-KB-B03-004",
+        "start": 9333
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Котоноха",
+        "start": 10000,
+        "text": "Извините! Сейчас!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice05/05-KB/05-KB-B03/05-KB-B03-0080",
+        "layer": 0,
+        "persona": "kot",
+        "start": 10000
+    },
+    {
+        "action": "CreateBG",
+        "end": 17000,
+        "file": "Event05/05-KB/05-KB-B03/05-KB-B03-005",
+        "start": 12333
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 17000,
+        "start": 17133
+    }
+]

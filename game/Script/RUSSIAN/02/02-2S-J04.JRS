@@ -1,0 +1,41 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 7000,
+        "file": "BGM/SD_BGM/sdbgm07",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event02/02-2S/02-2S-J04/02-2S-J04-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Котоноха",
+        "start": 350,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice02/02-2S/02-2S-J04/02-2S-J04-0050",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 350
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event02/02-2S/02-2S-J04/02-2S-J04-002",
+        "start": 2366
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 7000,
+        "start": 6033
+    }
+]

@@ -1,0 +1,236 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 13000,
+        "file": "BGM/SD_BGM/sdbgm12",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Радио",
+        "start": 0,
+        "text": "Сегодня 24 декабря и, как вы знаете, завтра Рождество.^"
+    },
+    {
+        "action": "PlaySe",
+        "end": 4000,
+        "file": "Voice05/05-SB/05-SB-A01/05-SB-A01-0040",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 13000,
+        "file": "Event05/05-SB/05-SB-A01/05-SB-A01-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Радио",
+        "start": 5150,
+        "text": "У вас наверняка уже есть план как и с кем его встретить. Волнуетесь, всё ли пройдет успешно?^"
+    },
+    {
+        "action": "PlaySe",
+        "end": 10000,
+        "file": "Voice05/05-SB/05-SB-A01/05-SB-A01-0041",
+        "layer": 1,
+        "start": 5150
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Радио",
+        "start": 10166,
+        "text": "Как раз для вас мы продолжаем нашу программу гороскопом на сегодня.^"
+    },
+    {
+        "action": "PlaySe",
+        "end": 13000,
+        "file": "Voice05/05-SB/05-SB-A01/05-SB-A01-0042",
+        "layer": 1,
+        "start": 10166
+    },
+    {
+        "action": "CreateBG",
+        "end": 19000,
+        "file": "Event05/05-SB/05-SB-A01/05-SB-A01-002",
+        "start": 13333
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Ёко",
+        "start": 13383,
+        "text": "Сэкаи, вставай! Уже утро!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice05/05-SB/05-SB-A01/05-SB-A01-0050",
+        "layer": 0,
+        "persona": "yko",
+        "start": 13383
+    },
+    {
+        "action": "PlayBgm",
+        "end": 46000,
+        "file": "BGM/SD_BGM/sdbgm20",
+        "start": 14383
+    },
+    {
+        "action": "PrintText",
+        "end": 19000,
+        "persona": "Сэкаи",
+        "start": 17150,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 19000,
+        "file": "Voice05/05-SB/05-SB-A01/05-SB-A01-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 17150
+    },
+    {
+        "action": "PrintText",
+        "end": 21000,
+        "persona": "Ёко",
+        "start": 19100,
+        "text": "Если сейчас не встанешь, опоздаешь ведь!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 21000,
+        "file": "Voice05/05-SB/05-SB-A01/05-SB-A01-0070",
+        "layer": 0,
+        "persona": "yko",
+        "start": 19100
+    },
+    {
+        "action": "CreateBG",
+        "end": 30000,
+        "file": "Event05/05-SB/05-SB-A01/05-SB-A01-003",
+        "start": 19133
+    },
+    {
+        "action": "PrintText",
+        "end": 26000,
+        "persona": "Сэкаи",
+        "start": 21283,
+        "text": "Я плохо себя чувствую... Не пойду сегодня.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 26000,
+        "file": "Voice05/05-SB/05-SB-A01/05-SB-A01-0080",
+        "layer": 0,
+        "persona": "sek",
+        "start": 21283
+    },
+    {
+        "action": "PrintText",
+        "end": 28000,
+        "persona": "Ёко",
+        "start": 26333,
+        "text": "Правда плохо?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 28000,
+        "file": "Voice05/05-SB/05-SB-A01/05-SB-A01-0090",
+        "layer": 0,
+        "persona": "yko",
+        "start": 26333
+    },
+    {
+        "action": "PrintText",
+        "end": 30000,
+        "persona": "Сэкаи",
+        "start": 29000,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 30000,
+        "file": "Voice05/05-SB/05-SB-A01/05-SB-A01-0100",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 29000
+    },
+    {
+        "action": "PrintText",
+        "end": 39000,
+        "persona": "Ёко",
+        "start": 30016,
+        "text": "Когда Сэцуна перевелась, ты сколько дней пропустила, забыла? Учитель ведь говорил, что ещё напропускаешь, на второй год оставить могут!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 39000,
+        "file": "Voice05/05-SB/05-SB-A01/05-SB-A01-0110",
+        "layer": 0,
+        "persona": "yko",
+        "start": 30016
+    },
+    {
+        "action": "CreateBG",
+        "end": 44000,
+        "file": "Event05/05-SB/05-SB-A01/05-SB-A01-004",
+        "start": 30033
+    },
+    {
+        "action": "PrintText",
+        "end": 40000,
+        "persona": "Сэкаи",
+        "start": 39266,
+        "text": "Говорил...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 40000,
+        "file": "Voice05/05-SB/05-SB-A01/05-SB-A01-0120",
+        "layer": 0,
+        "persona": "sek",
+        "start": 39266
+    },
+    {
+        "action": "PrintText",
+        "end": 44000,
+        "persona": "Ёко",
+        "start": 41000,
+        "text": "Ну вот и иди на учёбу, не помрёшь ведь.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 44000,
+        "file": "Voice05/05-SB/05-SB-A01/05-SB-A01-0130",
+        "layer": 0,
+        "persona": "yko",
+        "start": 41000
+    },
+    {
+        "action": "CreateBG",
+        "end": 46000,
+        "file": "Event03/03-A0/03-A0-C00/03-A0-C00-003",
+        "start": 44150
+    },
+    {
+        "action": "PrintText",
+        "end": 45000,
+        "persona": "Сэкаи",
+        "start": 44166,
+        "text": "Угу.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 45000,
+        "file": "Voice05/05-SB/05-SB-A01/05-SB-A01-0140",
+        "layer": 0,
+        "persona": "sek",
+        "start": 44166
+    }
+]

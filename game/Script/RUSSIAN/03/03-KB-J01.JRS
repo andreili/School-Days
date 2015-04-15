@@ -1,0 +1,112 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 9000,
+        "file": "BGM/SD_BGM/sdbgm14",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 1000,
+        "file": "SysSe/SE_all/footsteps/asioto_out_run",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 4000,
+        "file": "Movie03/03-KB/03-KB-J01/03-KB-J01-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice03/03-KB/03-KB-J01/03-KB-J01-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 4000,
+        "file": "SysSe/SE_all/footsteps/asioto_out_run",
+        "layer": 2,
+        "start": 1116
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 4000,
+        "start": 3350
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event03/03-KB/03-KB-J01/03-KB-J01-002",
+        "start": 4150
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Макото",
+        "start": 4150,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice03/03-KB/03-KB-J01/03-KB-J01-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 4150
+    },
+    {
+        "action": "BlackFade",
+        "dir": "IN",
+        "end": 4000,
+        "start": 4150
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 5200,
+        "text": "Я уверен, она пошла сюда...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice03/03-KB/03-KB-J01/03-KB-J01-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 5200
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Макото",
+        "start": 7283,
+        "text": "Или она в здании на другой стороне?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice03/03-KB/03-KB-J01/03-KB-J01-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 7283
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 9000,
+        "start": 9150
+    }
+]

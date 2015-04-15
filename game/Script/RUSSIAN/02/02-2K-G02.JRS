@@ -1,0 +1,60 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 6000,
+        "file": "Se01/01-00/01-00-E00/SE01-00-E00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 6000,
+        "file": "Event02/02-2K/02-2K-G02/02-2K-G02-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Да, верно.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice02/02-2K/02-2K-G02/02-2K-G02-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Котоноха",
+        "start": 1033,
+        "text": "Хорошо, давай приберёмся тут и пойдем.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice02/02-2K/02-2K-G02/02-2K-G02-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 1033
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Макото",
+        "start": 4166,
+        "text": "Ладно...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice02/02-2K/02-2K-G02/02-2K-G02-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 4166
+    }
+]

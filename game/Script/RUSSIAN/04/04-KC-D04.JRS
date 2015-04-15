@@ -1,0 +1,126 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 20000,
+        "file": "BGM/SD_BGM/sdbgm19",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 20000,
+        "file": "SysSe/SE_all/station_train/train_in",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 4000,
+        "file": "Movie04/04-KC/04-KC-D04/04-KC-D04-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 6000,
+        "file": "Event04/04-KC/04-KC-D04/04-KC-D04-002",
+        "start": 4250
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Котоноха",
+        "start": 4283,
+        "text": "Макото...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice04/04-KC/04-KC-D04/04-KC-D04-0030",
+        "layer": 0,
+        "persona": "kot",
+        "start": 4283
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event04/04-KC/04-KC-D04/04-KC-D04-003",
+        "start": 6366
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Таисукэ",
+        "start": 7000,
+        "text": "В классе слухи ходят о том, что они встречаются...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice04/04-KC/04-KC-D04/04-KC-D04-0050",
+        "layer": 1,
+        "persona": "tai",
+        "start": 7000
+    },
+    {
+        "action": "CreateBG",
+        "end": 17000,
+        "file": "Event04/04-KC/04-KC-D04/04-KC-D04-002",
+        "start": 11166
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Котоноха",
+        "start": 12283,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice04/04-KC/04-KC-D04/04-KC-D04-0070",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 12283
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Котоноха",
+        "start": 14116,
+        "text": "Быть того не может...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice04/04-KC/04-KC-D04/04-KC-D04-0080",
+        "layer": 0,
+        "persona": "kot",
+        "start": 14116
+    },
+    {
+        "action": "PlayMovie",
+        "end": 20000,
+        "file": "Movie04/04-KC/04-KC-D04/04-KC-D04-001",
+        "start": 17300
+    },
+    {
+        "action": "PrintText",
+        "end": 19000,
+        "persona": "Котоноха",
+        "start": 17300,
+        "text": "Не может...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 19000,
+        "file": "Voice04/04-KC/04-KC-D04/04-KC-D04-0090",
+        "layer": 0,
+        "persona": "kot",
+        "start": 17300
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 20000,
+        "start": 19283
+    }
+]

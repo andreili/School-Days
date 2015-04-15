@@ -1,0 +1,87 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 23000,
+        "file": "BGM/SD_BGM/sdbgm28",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event01/01-1K/01-1K-C00/01-1K-C00-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 6000,
+        "file": "Event01/01-00/01-00-N05/01-00-N05-001",
+        "start": 3300
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event01/01-1S/01-1S-H00/01-1S-H00-003",
+        "start": 6233
+    },
+    {
+        "action": "CreateBG",
+        "end": 15000,
+        "file": "Event01/01-1S/01-1S-H00/01-1S-H00-004",
+        "start": 10366
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Макото",
+        "start": 11050,
+        "text": "Да я её только за руку хотел взять...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice01/01-1S/01-1S-H00/01-1S-H00-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 11050
+    },
+    {
+        "action": "CreateBG",
+        "end": 19000,
+        "file": "Event01/01-00/01-00-N00/01-00-N00-001",
+        "start": 15050
+    },
+    {
+        "action": "PlaySe",
+        "end": 17000,
+        "file": "Voice01/01-1S/01-1S-H00/01-1S-H00-0080",
+        "layer": 1,
+        "start": 16066
+    },
+    {
+        "action": "CreateBG",
+        "end": 23000,
+        "file": "Event01/01-00/01-00-N00/01-00-N00-002",
+        "start": 19016
+    },
+    {
+        "action": "PrintText",
+        "end": 21000,
+        "persona": "Макото",
+        "start": 19266,
+        "text": "Чёрт...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 21000,
+        "file": "Voice01/01-1S/01-1S-H00/01-1S-H00-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 19266
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 23000,
+        "start": 22216
+    }
+]

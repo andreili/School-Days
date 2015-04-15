@@ -1,0 +1,75 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 15000,
+        "file": "BGM/SD_BGM/sdbgm20",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event01/01-00/01-00-O00/01-00-O00-001",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 7000,
+        "file": "SysSe/SE_all/footsteps/asioto_room",
+        "layer": 1,
+        "start": 2300
+    },
+    {
+        "action": "PlayMovie",
+        "end": 7000,
+        "file": "Movie01/01-00/01-00-O01/01-00-O01-002",
+        "start": 2300
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Котоноха",
+        "start": 6300,
+        "text": "А?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice01/01-00/01-00-O01/01-00-O01-0050",
+        "layer": 0,
+        "persona": "kot",
+        "start": 6300
+    },
+    {
+        "action": "PlayMovie",
+        "end": 9000,
+        "file": "Movie01/01-00/01-00-O01/01-00-O01-003",
+        "start": 7266
+    },
+    {
+        "action": "PlayMovie",
+        "end": 15000,
+        "file": "Movie01/01-00/01-00-O01/01-00-O01-004",
+        "start": 9333
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Котоноха",
+        "start": 10033,
+        "text": "Он мне звонил...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice01/01-00/01-00-O01/01-00-O01-0070",
+        "layer": 0,
+        "persona": "kot",
+        "start": 10033
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 15000,
+        "start": 14133
+    }
+]

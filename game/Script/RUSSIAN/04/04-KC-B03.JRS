@@ -1,0 +1,116 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 10000,
+        "file": "BGM/SD_BGM/sdbgm01",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event04/04-KB/04-KB-B03/04-KB-B03-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 100,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice04/04-KB/04-KB-B03/04-KB-B03-0030",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 100
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event04/04-KB/04-KB-B03/04-KB-B03-002",
+        "start": 1100
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Сэкаи",
+        "start": 1100,
+        "text": "Если я буду грустить, Сэцуна тоже расстроится...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice04/04-KB/04-KB-B03/04-KB-B03-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 1100
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Макото",
+        "start": 5116,
+        "text": "Это уж точно.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice04/04-KB/04-KB-B03/04-KB-B03-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 5116
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Сэкаи",
+        "start": 6166,
+        "text": "Надо крепиться!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice04/04-KB/04-KB-B03/04-KB-B03-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 6166
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event04/04-KB/04-KB-B03/04-KB-B03-003",
+        "start": 7333
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Макото",
+        "start": 7333,
+        "text": "Ага!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice04/04-KB/04-KB-B03/04-KB-B03-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 7333
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Сэкаи",
+        "start": 8183,
+        "text": "Спасибо, Макото.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice04/04-KB/04-KB-B03/04-KB-B03-0080",
+        "layer": 0,
+        "persona": "sek",
+        "start": 8183
+    }
+]

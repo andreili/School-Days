@@ -1,0 +1,952 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 149000,
+        "file": "BGM/SD_BGM/sdbgm03",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 33000,
+        "file": "SysSe/SE_all/gaya/kyousitu_rouka",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event04/04-SG/04-SG-B00/04-SG-B00-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event04/04-SG/04-SG-B00/04-SG-B00-001B",
+        "start": 1066
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Сэкаи",
+        "start": 1083,
+        "text": "Доброе утро.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice04/04-SG/04-SG-B00/04-SG-B00-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 1083
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event04/04-SG/04-SG-B00/04-SG-B00-001C",
+        "start": 2150
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Макото",
+        "start": 2200,
+        "text": "Доброе...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice04/04-SG/04-SG-B00/04-SG-B00-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2200
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Сэкаи",
+        "start": 4216,
+        "text": "Погодка сегодня - загляденье. Прохладно, правда.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice04/04-SG/04-SG-B00/04-SG-B00-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 4216
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Макото",
+        "start": 8283,
+        "text": "Ага...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice04/04-SG/04-SG-B00/04-SG-B00-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 8283
+    },
+    {
+        "action": "CreateBG",
+        "end": 16000,
+        "file": "Event04/04-SG/04-SG-B00/04-SG-B00-002",
+        "start": 11216
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Сэкаи",
+        "start": 11283,
+        "text": "Так вот... Пообедаем сегодня вместе?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice04/04-SG/04-SG-B00/04-SG-B00-0080",
+        "layer": 0,
+        "persona": "sek",
+        "start": 11283
+    },
+    {
+        "action": "CreateBG",
+        "end": 18000,
+        "file": "Event04/04-SG/04-SG-B00/04-SG-B00-003",
+        "start": 16050
+    },
+    {
+        "action": "PrintText",
+        "end": 18000,
+        "persona": "Макото",
+        "start": 16050,
+        "text": "Давай. Почему бы и нет?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 18000,
+        "file": "Voice04/04-SG/04-SG-B00/04-SG-B00-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 16050
+    },
+    {
+        "action": "CreateBG",
+        "end": 25000,
+        "file": "Event04/04-SG/04-SG-B00/04-SG-B00-004",
+        "start": 18116
+    },
+    {
+        "action": "PrintText",
+        "end": 21000,
+        "persona": "Сэкаи",
+        "start": 18200,
+        "text": "Ты сегодня опять с булками?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 21000,
+        "file": "Voice04/04-SG/04-SG-B00/04-SG-B00-0100",
+        "layer": 0,
+        "persona": "sek",
+        "start": 18200
+    },
+    {
+        "action": "PrintText",
+        "end": 25000,
+        "persona": "Макото",
+        "start": 21033,
+        "text": "Неа, проспал. Собирался здесь уже купить.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 25000,
+        "file": "Voice04/04-SG/04-SG-B00/04-SG-B00-0110",
+        "layer": 1,
+        "persona": "mak",
+        "start": 21033
+    },
+    {
+        "action": "CreateBG",
+        "end": 28000,
+        "file": "Event04/04-SG/04-SG-B00/04-SG-B00-005",
+        "start": 25050
+    },
+    {
+        "action": "PrintText",
+        "end": 27000,
+        "persona": "Сэкаи",
+        "start": 25133,
+        "text": "Давай тогда в классе поедим.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 27000,
+        "file": "Voice04/04-SG/04-SG-B00/04-SG-B00-0120",
+        "layer": 0,
+        "persona": "sek",
+        "start": 25133
+    },
+    {
+        "action": "PrintText",
+        "end": 28000,
+        "persona": "Макото",
+        "start": 27316,
+        "text": "Хорошо.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 28000,
+        "file": "Voice04/04-SG/04-SG-B00/04-SG-B00-0130",
+        "layer": 1,
+        "persona": "mak",
+        "start": 27316
+    },
+    {
+        "action": "CreateBG",
+        "end": 30000,
+        "file": "Event04/04-SG/04-SG-B00/04-SG-B00-006",
+        "start": 28150
+    },
+    {
+        "action": "PrintText",
+        "end": 29000,
+        "persona": "Сэкаи",
+        "start": 28233,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 29000,
+        "file": "Voice04/04-SG/04-SG-B00/04-SG-B00-0140",
+        "layer": 0,
+        "persona": "sek",
+        "start": 28233
+    },
+    {
+        "action": "PrintText",
+        "end": 30000,
+        "persona": "Макото",
+        "start": 29383,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 30000,
+        "file": "Voice04/04-SG/04-SG-B00/04-SG-B00-0150",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 29383
+    },
+    {
+        "action": "CreateBG",
+        "end": 32000,
+        "file": "Event04/04-SG/04-SG-B00/04-SG-B00-007",
+        "start": 30350
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 32000,
+        "start": 32066
+    },
+    {
+        "action": "CreateBG",
+        "end": 34000,
+        "file": "System/Screen/Black",
+        "start": 32266
+    },
+    {
+        "action": "CreateBG",
+        "end": 48000,
+        "file": "Event04/04-SG/04-SG-B00/04-SG-B00-008",
+        "start": 34033
+    },
+    {
+        "action": "BlackFade",
+        "dir": "IN",
+        "end": 34000,
+        "start": 34033
+    },
+    {
+        "action": "PrintText",
+        "end": 42000,
+        "persona": "Учитель",
+        "start": 35100,
+        "text": "Мы рассмотрим эту задачу с шестью дисками, но для простоты вычисления, начнём с двух.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 42000,
+        "file": "Voice04/04-SG/04-SG-B00/04-SG-B00-0200",
+        "layer": 1,
+        "persona": "suu",
+        "start": 35100
+    },
+    {
+        "action": "PrintText",
+        "end": 48000,
+        "persona": "Учитель",
+        "start": 42016,
+        "text": "Итак, загляните в распечатки и давайте рассчитаем сколько потребуется ходов для выполнения задания... Киора.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 48000,
+        "file": "Voice04/04-SG/04-SG-B00/04-SG-B00-0201",
+        "layer": 1,
+        "persona": "suu",
+        "start": 42016
+    },
+    {
+        "action": "CreateBG",
+        "end": 61000,
+        "file": "Event04/04-SG/04-SG-B00/04-SG-B00-009",
+        "start": 48066
+    },
+    {
+        "action": "PrintText",
+        "end": 61000,
+        "persona": "Сэцуна",
+        "start": 48183,
+        "text": "Так... Для двух дисков задача решается в три хода. Для трёх дисков требуется уже семь ходов. С четыремя... пятьнадцать ходов. И с пятью дисками...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 61000,
+        "file": "Voice04/04-SG/04-SG-B00/04-SG-B00-0210",
+        "layer": 0,
+        "persona": "set",
+        "start": 48183
+    },
+    {
+        "action": "CreateBG",
+        "end": 64000,
+        "file": "Event04/04-SG/04-SG-B00/04-SG-B00-010",
+        "start": 61050
+    },
+    {
+        "action": "PrintText",
+        "end": 64000,
+        "persona": "Учитель",
+        "start": 61050,
+        "text": "Да, с пятью дисками вычисление становится уже труднее.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 64000,
+        "file": "Voice04/04-SG/04-SG-B00/04-SG-B00-0220",
+        "layer": 1,
+        "persona": "suu",
+        "start": 61050
+    },
+    {
+        "action": "CreateBG",
+        "end": 66000,
+        "file": "Event04/04-SG/04-SG-B00/04-SG-B00-011",
+        "start": 64250
+    },
+    {
+        "action": "PrintText",
+        "end": 70000,
+        "persona": "Сэцуна",
+        "start": 64250,
+        "text": "Когда дисков пять - задача решается за тридцать один ход. Для 6 дисков...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 70000,
+        "file": "Voice04/04-SG/04-SG-B00/04-SG-B00-0230",
+        "layer": 0,
+        "persona": "set",
+        "start": 64250
+    },
+    {
+        "action": "CreateBG",
+        "end": 68000,
+        "file": "Event04/04-SG/04-SG-B00/04-SG-B00-012",
+        "start": 66250
+    },
+    {
+        "action": "CreateBG",
+        "end": 70000,
+        "file": "Event04/04-SG/04-SG-B00/04-SG-B00-013",
+        "start": 68000
+    },
+    {
+        "action": "PlayVoice",
+        "end": 69000,
+        "file": "Voice04/04-SG/04-SG-B00/04-SG-B00-0260",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 68000
+    },
+    {
+        "action": "PlaySe",
+        "end": 87000,
+        "file": "SysSe/SE_all/school/chime",
+        "layer": 1,
+        "start": 69050
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 70000,
+        "start": 69150
+    },
+    {
+        "action": "CreateBG",
+        "end": 72000,
+        "file": "System/Screen/Black",
+        "start": 70183
+    },
+    {
+        "action": "CreateBG",
+        "end": 74000,
+        "file": "Event04/04-SG/04-SG-B00/04-SG-B00-014",
+        "start": 72316
+    },
+    {
+        "action": "BlackFade",
+        "dir": "IN",
+        "end": 73000,
+        "start": 72316
+    },
+    {
+        "action": "PlaySe",
+        "end": 149000,
+        "file": "SysSe/SE_all/gaya/kyousitu_rouka",
+        "layer": 2,
+        "start": 73033
+    },
+    {
+        "action": "CreateBG",
+        "end": 76000,
+        "file": "Event04/04-SG/04-SG-B00/04-SG-B00-015",
+        "start": 74166
+    },
+    {
+        "action": "PrintText",
+        "end": 75000,
+        "persona": "Макото",
+        "start": 74166,
+        "text": "Ну, я пойду.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 75000,
+        "file": "Voice04/04-SG/04-SG-B00/04-SG-B00-0300",
+        "layer": 1,
+        "persona": "mak",
+        "start": 74166
+    },
+    {
+        "action": "PrintText",
+        "end": 76000,
+        "persona": "Сэкаи",
+        "start": 75216,
+        "text": "Угу!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 76000,
+        "file": "Voice04/04-SG/04-SG-B00/04-SG-B00-0310",
+        "layer": 0,
+        "persona": "sek",
+        "start": 75216
+    },
+    {
+        "action": "CreateBG",
+        "end": 82000,
+        "file": "Event04/04-SG/04-SG-B00/04-SG-B00-016",
+        "start": 76216
+    },
+    {
+        "action": "PrintText",
+        "end": 82000,
+        "persona": "Хикари",
+        "start": 77116,
+        "text": "Эх... В итоге Сэкаи-таки стала встречаться с Ито...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 82000,
+        "file": "Voice04/04-SG/04-SG-B00/04-SG-B00-0330",
+        "layer": 0,
+        "persona": "hik",
+        "start": 77116
+    },
+    {
+        "action": "CreateBG",
+        "end": 85000,
+        "file": "Event04/04-SG/04-SG-B00/04-SG-B00-017",
+        "start": 82233
+    },
+    {
+        "action": "PrintText",
+        "end": 85000,
+        "persona": "Сэцуна",
+        "start": 82283,
+        "text": "Сказала Хикари, успокоившись.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 85000,
+        "file": "Voice04/04-SG/04-SG-B00/04-SG-B00-0340",
+        "layer": 0,
+        "persona": "set",
+        "start": 82283
+    },
+    {
+        "action": "CreateBG",
+        "end": 89000,
+        "file": "Event04/04-SG/04-SG-B00/04-SG-B00-018",
+        "start": 85133
+    },
+    {
+        "action": "PrintText",
+        "end": 89000,
+        "persona": "Нанами",
+        "start": 85183,
+        "text": "И впрямь. В душе ведь только рада, что так вышло?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 89000,
+        "file": "Voice04/04-SG/04-SG-B00/04-SG-B00-0350",
+        "layer": 0,
+        "persona": "nan",
+        "start": 85183
+    },
+    {
+        "action": "CreateBG",
+        "end": 91000,
+        "file": "Event04/04-SG/04-SG-B00/04-SG-B00-019",
+        "start": 89050
+    },
+    {
+        "action": "PrintText",
+        "end": 91000,
+        "persona": "Хикари",
+        "start": 89083,
+        "text": "О... О чём вы?!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 91000,
+        "file": "Voice04/04-SG/04-SG-B00/04-SG-B00-0360",
+        "layer": 0,
+        "persona": "hik",
+        "start": 89083
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 91000,
+        "start": 91233
+    },
+    {
+        "action": "CreateBG",
+        "end": 96000,
+        "file": "Event04/04-SG/04-SG-B00/04-SG-B00-020",
+        "start": 91350
+    },
+    {
+        "action": "BlackFade",
+        "dir": "IN",
+        "end": 92000,
+        "start": 91350
+    },
+    {
+        "action": "PrintText",
+        "end": 94000,
+        "persona": "Котоноха",
+        "start": 92300,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 94000,
+        "file": "Voice04/04-SG/04-SG-B00/04-SG-B00-0410",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 92300
+    },
+    {
+        "action": "PrintText",
+        "end": 99000,
+        "persona": "Минами",
+        "start": 94283,
+        "text": "О... Отомэ, так ты в Аквапарке была?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 99000,
+        "file": "Voice04/04-SG/04-SG-B00/04-SG-B00-0440",
+        "layer": 0,
+        "persona": "min",
+        "start": 94283
+    },
+    {
+        "action": "CreateBG",
+        "end": 98000,
+        "file": "Event04/04-SG/04-SG-B00/04-SG-B00-022",
+        "start": 96316
+    },
+    {
+        "action": "CreateBG",
+        "end": 101000,
+        "file": "Event04/04-SG/04-SG-B00/04-SG-B00-023",
+        "start": 98383
+    },
+    {
+        "action": "PrintText",
+        "end": 101000,
+        "persona": "Отомэ",
+        "start": 99033,
+        "text": "Вроде того.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 101000,
+        "file": "Voice04/04-SG/04-SG-B00/04-SG-B00-0450",
+        "layer": 0,
+        "persona": "oto",
+        "start": 99033
+    },
+    {
+        "action": "CreateBG",
+        "end": 104000,
+        "file": "Event04/04-SG/04-SG-B00/04-SG-B00-024",
+        "start": 101016
+    },
+    {
+        "action": "PrintText",
+        "end": 103000,
+        "persona": "Куми",
+        "start": 101050,
+        "text": "Везёт же некоторым!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 103000,
+        "file": "Voice04/04-SG/04-SG-B00/04-SG-B00-0460",
+        "layer": 0,
+        "persona": "kum",
+        "start": 101050
+    },
+    {
+        "action": "PrintText",
+        "end": 104000,
+        "persona": "Нацуми",
+        "start": 103183,
+        "text": "И с кем ходила?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 104000,
+        "file": "Voice04/04-SG/04-SG-B00/04-SG-B00-0470",
+        "layer": 0,
+        "persona": "nat",
+        "start": 103183
+    },
+    {
+        "action": "CreateBG",
+        "end": 108000,
+        "file": "Event04/04-SG/04-SG-B00/04-SG-B00-025",
+        "start": 104350
+    },
+    {
+        "action": "PrintText",
+        "end": 108000,
+        "persona": "Отомэ",
+        "start": 104366,
+        "text": "Ну... Как сказать...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 108000,
+        "file": "Voice04/04-SG/04-SG-B00/04-SG-B00-0480",
+        "layer": 0,
+        "persona": "oto",
+        "start": 104366
+    },
+    {
+        "action": "CreateBG",
+        "end": 109000,
+        "file": "Event04/04-SG/04-SG-B00/04-SG-B00-026",
+        "start": 108000
+    },
+    {
+        "action": "PrintText",
+        "end": 109000,
+        "persona": "Куми",
+        "start": 108016,
+        "text": "Что, неужто, с парнем?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 109000,
+        "file": "Voice04/04-SG/04-SG-B00/04-SG-B00-0490",
+        "layer": 0,
+        "persona": "kum",
+        "start": 108016
+    },
+    {
+        "action": "CreateBG",
+        "end": 110000,
+        "file": "Event04/04-SG/04-SG-B00/04-SG-B00-027",
+        "start": 109366
+    },
+    {
+        "action": "PrintText",
+        "end": 111000,
+        "persona": "Отомэ",
+        "start": 109383,
+        "text": "Э?!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 111000,
+        "file": "Voice04/04-SG/04-SG-B00/04-SG-B00-0500",
+        "layer": 0,
+        "persona": "oto",
+        "start": 109383
+    },
+    {
+        "action": "CreateBG",
+        "end": 115000,
+        "file": "Event04/04-SG/04-SG-B00/04-SG-B00-028",
+        "start": 110383
+    },
+    {
+        "action": "PrintText",
+        "end": 116000,
+        "persona": "Нацуми",
+        "start": 111000,
+        "text": "Судя по реакции, нет. Да и нет у неё никакого парня.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 116000,
+        "file": "Voice04/04-SG/04-SG-B00/04-SG-B00-0510",
+        "layer": 0,
+        "persona": "nat",
+        "start": 111000
+    },
+    {
+        "action": "CreateBG",
+        "end": 119000,
+        "file": "Event04/04-SG/04-SG-B00/04-SG-B00-029",
+        "start": 115383
+    },
+    {
+        "action": "PrintText",
+        "end": 119000,
+        "persona": "Отомэ",
+        "start": 116033,
+        "text": "Ну... А может быть и есть... Мало ли...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 119000,
+        "file": "Voice04/04-SG/04-SG-B00/04-SG-B00-0520",
+        "layer": 0,
+        "persona": "oto",
+        "start": 116033
+    },
+    {
+        "action": "CreateBG",
+        "end": 122000,
+        "file": "Event04/04-SG/04-SG-B00/04-SG-B00-030",
+        "start": 119300
+    },
+    {
+        "action": "PrintText",
+        "end": 122000,
+        "persona": "Нацуми",
+        "start": 119350,
+        "text": "Ну, тогда выкладывай, с кем ходила?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 122000,
+        "file": "Voice04/04-SG/04-SG-B00/04-SG-B00-0530",
+        "layer": 0,
+        "persona": "nat",
+        "start": 119350
+    },
+    {
+        "action": "CreateBG",
+        "end": 127000,
+        "file": "Event04/04-SG/04-SG-B00/04-SG-B00-031",
+        "start": 122066
+    },
+    {
+        "action": "PrintText",
+        "end": 127000,
+        "persona": "Отомэ",
+        "start": 122150,
+        "text": "С кузиной и сестрой... Втроём...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 127000,
+        "file": "Voice04/04-SG/04-SG-B00/04-SG-B00-0540",
+        "layer": 0,
+        "persona": "oto",
+        "start": 122150
+    },
+    {
+        "action": "CreateBG",
+        "end": 133000,
+        "file": "Event04/04-SG/04-SG-B00/04-SG-B00-032",
+        "start": 127216
+    },
+    {
+        "action": "PrintText",
+        "end": 128000,
+        "persona": "Нацуми",
+        "start": 127250,
+        "text": "Вот.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 128000,
+        "file": "Voice04/04-SG/04-SG-B00/04-SG-B00-0550",
+        "layer": 0,
+        "persona": "nat",
+        "start": 127250
+    },
+    {
+        "action": "PrintText",
+        "end": 133000,
+        "persona": "Минами",
+        "start": 128300,
+        "text": "Но всё равно! Завидно! Там ведь столько разных бассейнов!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 133000,
+        "file": "Voice04/04-SG/04-SG-B00/04-SG-B00-0560",
+        "layer": 0,
+        "persona": "min",
+        "start": 128300
+    },
+    {
+        "action": "CreateBG",
+        "end": 137000,
+        "file": "Event04/04-SG/04-SG-B00/04-SG-B00-033",
+        "start": 133150
+    },
+    {
+        "action": "PrintText",
+        "end": 137000,
+        "persona": "Отомэ",
+        "start": 133166,
+        "text": "Угу! Водная горка просто нечто!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 137000,
+        "file": "Voice04/04-SG/04-SG-B00/04-SG-B00-0570",
+        "layer": 0,
+        "persona": "oto",
+        "start": 133166
+    },
+    {
+        "action": "CreateBG",
+        "end": 142000,
+        "file": "Event04/04-SG/04-SG-B00/04-SG-B00-034",
+        "start": 137183
+    },
+    {
+        "action": "PrintText",
+        "end": 140000,
+        "persona": "Куми",
+        "start": 137200,
+        "text": "Эх!.. Завидно!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 140000,
+        "file": "Voice04/04-SG/04-SG-B00/04-SG-B00-0580",
+        "layer": 0,
+        "persona": "kum",
+        "start": 137200
+    },
+    {
+        "action": "PrintText",
+        "end": 142000,
+        "persona": "Нацуми",
+        "start": 140216,
+        "text": "Ты сегодня в столовку, Отомэ?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 142000,
+        "file": "Voice04/04-SG/04-SG-B00/04-SG-B00-0590",
+        "layer": 0,
+        "persona": "nat",
+        "start": 140216
+    },
+    {
+        "action": "CreateBG",
+        "end": 145000,
+        "file": "Event04/04-SG/04-SG-B00/04-SG-B00-035",
+        "start": 142116
+    },
+    {
+        "action": "PrintText",
+        "end": 144000,
+        "persona": "Отомэ",
+        "start": 142200,
+        "text": "Угу. Пойдёмте?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 144000,
+        "file": "Voice04/04-SG/04-SG-B00/04-SG-B00-0600",
+        "layer": 0,
+        "persona": "oto",
+        "start": 142200
+    },
+    {
+        "action": "PrintText",
+        "end": 145000,
+        "persona": "Минами",
+        "start": 144000,
+        "text": "Пойдём!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 145000,
+        "file": "Voice04/04-SG/04-SG-B00/04-SG-B00-0610",
+        "layer": 0,
+        "persona": "min",
+        "start": 144000
+    },
+    {
+        "action": "CreateBG",
+        "end": 149000,
+        "file": "Event04/04-SG/04-SG-B00/04-SG-B00-036",
+        "start": 145133
+    },
+    {
+        "action": "PrintText",
+        "end": 146000,
+        "persona": "Котоноха",
+        "start": 145283,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 146000,
+        "file": "Voice04/04-SG/04-SG-B00/04-SG-B00-0630",
+        "layer": 0,
+        "persona": "kot",
+        "start": 145283
+    }
+]

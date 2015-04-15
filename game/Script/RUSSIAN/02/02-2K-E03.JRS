@@ -1,0 +1,175 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 34000,
+        "file": "BGM/SD_BGM/sdbgm20",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event01/01-00/01-00-C00/01-00-C00-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Учитель",
+        "start": 1050,
+        "text": "Итак, давайте рассмотрим подробнее противопоставление и самоанализ, например...^"
+    },
+    {
+        "action": "PlaySe",
+        "end": 8000,
+        "file": "Voice02/02-2K/02-2K-E03/02-2K-E03-0040",
+        "layer": 1,
+        "start": 50
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event02/02-2K/02-2K-E03/02-2K-E03-002",
+        "start": 3000
+    },
+    {
+        "action": "CreateBG",
+        "end": 8000,
+        "file": "Event02/02-2K/02-2K-E03/02-2K-E03-003",
+        "start": 5183
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "OUT",
+        "end": 8000,
+        "start": 7233
+    },
+    {
+        "action": "CreateBG",
+        "end": 12000,
+        "file": "Event02/02-2K/02-2K-E03/02-2K-E03-004",
+        "start": 8033
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "IN",
+        "end": 8000,
+        "start": 8033
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Хикари",
+        "start": 8233,
+        "text": "Слушай, ты знаешь Кацуру? Такую тихую девушку из 4 группы?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice02/02-2K/02-2K-E03/02-2K-E03-0100",
+        "layer": 0,
+        "persona": "hik",
+        "start": 8233
+    },
+    {
+        "action": "CreateBG",
+        "end": 13000,
+        "file": "Event02/02-2K/02-2K-E03/02-2K-E03-005",
+        "start": 12050
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Хикари",
+        "start": 12266,
+        "text": "Ты представляешь, я сегодня такое видела...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice02/02-2K/02-2K-E03/02-2K-E03-0140",
+        "layer": 0,
+        "persona": "hik",
+        "start": 12266
+    },
+    {
+        "action": "CreateBG",
+        "end": 24000,
+        "file": "Event02/02-2K/02-2K-E03/02-2K-E03-004",
+        "start": 13383
+    },
+    {
+        "action": "PrintText",
+        "end": 24000,
+        "persona": "Хикари",
+        "start": 17000,
+        "text": "Похоже, твой Макото к ней приставал, и она на него рассердилась!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 24000,
+        "file": "Voice02/02-2K/02-2K-E03/02-2K-E03-0180",
+        "layer": 0,
+        "persona": "hik",
+        "start": 17000
+    },
+    {
+        "action": "CreateBG",
+        "end": 31000,
+        "file": "Event02/02-2K/02-2K-E03/02-2K-E03-007",
+        "start": 24200
+    },
+    {
+        "action": "PrintText",
+        "end": 30000,
+        "persona": "Хикари",
+        "start": 24383,
+        "text": "Я не слышала, что они говорили, но похоже, эти двое серьёзно поссорились!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 30000,
+        "file": "Voice02/02-2K/02-2K-E03/02-2K-E03-0220",
+        "layer": 0,
+        "persona": "hik",
+        "start": 24383
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "OUT",
+        "end": 31000,
+        "start": 30283
+    },
+    {
+        "action": "CreateBG",
+        "end": 34000,
+        "file": "Event02/02-2K/02-2K-E03/02-2K-E03-008",
+        "start": 31083
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "IN",
+        "end": 31000,
+        "start": 31083
+    },
+    {
+        "action": "PrintText",
+        "end": 33000,
+        "persona": "Сэкаи",
+        "start": 31383,
+        "text": "Макото...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 33000,
+        "file": "Voice02/02-2K/02-2K-E03/02-2K-E03-0240",
+        "layer": 0,
+        "persona": "sek",
+        "start": 31383
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 34000,
+        "start": 33216
+    }
+]

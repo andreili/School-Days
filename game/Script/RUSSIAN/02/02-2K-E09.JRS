@@ -1,0 +1,54 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 11000,
+        "file": "BGM/SD_BGM/sdbgm20",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event02/02-2K/02-2K-E09/02-2K-E09-001",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 5000,
+        "file": "SysSe/SE_all/keitai/keitai_vib",
+        "layer": 1,
+        "start": 50
+    },
+    {
+        "action": "CreateBG",
+        "end": 8000,
+        "file": "Event02/02-2K/02-2K-E09/02-2K-E09-002",
+        "start": 5000
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event02/02-2K/02-2K-E09/02-2K-E09-003",
+        "start": 8133
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Сэкаи",
+        "start": 8366,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice02/02-2K/02-2K-E09/02-2K-E09-0050",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 8366
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 11000,
+        "start": 10350
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 8000,
+        "file": "Se01/01-00/01-00-E00/SE01-00-E00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event02/02-2S/02-2S-I05/02-2S-I05-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 8000,
+        "file": "Event02/02-2S/02-2S-I05/02-2S-I05-002",
+        "start": 3183
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Котоноха",
+        "start": 3316,
+        "text": "Тебе налить лимонада?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice02/02-2S/02-2S-I05/02-2S-I05-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 3316
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 6183,
+        "text": "Давай.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice02/02-2S/02-2S-I05/02-2S-I05-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 6183
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 8000,
+        "start": 7166
+    }
+]

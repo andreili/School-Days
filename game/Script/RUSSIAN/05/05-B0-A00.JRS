@@ -1,0 +1,56 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 14000,
+        "file": "BGM/SD_BGM/sdbgm20",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event05/05-B0/05-B0-A00/05-B0-A00-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 14000,
+        "file": "Event05/05-B0/05-B0-A00/05-B0-A00-002",
+        "start": 3000
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Котоноха",
+        "start": 3050,
+        "text": "Макото... Макото...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice05/05-B0/05-B0-A00/05-B0-A00-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 3050
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Котоноха",
+        "start": 7150,
+        "text": "Макото... Макото... Макото...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice05/05-B0/05-B0-A00/05-B0-A00-0050",
+        "layer": 0,
+        "persona": "kot",
+        "start": 7150
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 14000,
+        "start": 13300
+    }
+]

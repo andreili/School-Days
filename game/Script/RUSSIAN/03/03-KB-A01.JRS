@@ -1,0 +1,76 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 9000,
+        "file": "BGM/SD_BGM/sdbgm19",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 9000,
+        "file": "Se03/03-KB/03-KB-A01/SE03-KB-A01-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event03/03-KB/03-KB-A01/03-KB-A01-001A",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 1150,
+        "text": "А...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice03/03-KB/03-KB-A01/03-KB-A01-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 1150
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event03/03-KB/03-KB-A01/03-KB-A01-001B",
+        "start": 1166
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event03/03-KB/03-KB-A01/03-KB-A01-001C",
+        "start": 2000
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Котоноха",
+        "start": 2000,
+        "text": "А...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice03/03-KB/03-KB-A01/03-KB-A01-0060",
+        "layer": 0,
+        "persona": "kot",
+        "start": 2000
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event03/03-KB/03-KB-A01/03-KB-A01-002",
+        "start": 3016
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Здравствуй.^",
+        "answer2": "Как поживаешь?^",
+        "end": 8000,
+        "start": 3050
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 9000,
+        "file": "Se03/03-KA/03-KA-N00/SE03-KA-N00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event03/03-KA/03-KA-N00/03-KA-N00-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event03/03-KA/03-KA-N00/03-KA-N00-002",
+        "start": 3000
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Котоноха",
+        "start": 3333,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice03/03-KA/03-KA-N00/03-KA-N00-0040",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 3333
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event03/03-KA/03-KA-N00/03-KA-N00-003",
+        "start": 5316
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Макото",
+        "start": 6000,
+        "text": "Прости, я опоздал.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice03/03-KA/03-KA-N00/03-KA-N00-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 6000
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event03/03-KA/03-KA-N00/03-KA-N00-004",
+        "start": 7083
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice03/03-KA/03-KA-N00/03-KA-N00-0060",
+        "layer": -1,
+        "persona": "",
+        "start": 7150
+    }
+]

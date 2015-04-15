@@ -1,0 +1,165 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 16000,
+        "file": "BGM/SD_BGM/sdbgm19",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event01/01-1K/01-1K-D00/01-1K-D00-001",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 0,
+        "file": "SysSe/SE_all/keitai/keitai_sousa",
+        "layer": 1,
+        "start": 150
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Сэкаи",
+        "start": 1083,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice01/01-1K/01-1K-D00/01-1K-D00-0040",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 1083
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Сэцуна",
+        "start": 2133,
+        "text": "Сэкаи?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice01/01-1K/01-1K-D00/01-1K-D00-0050",
+        "layer": 0,
+        "persona": "set",
+        "start": 2133
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event01/01-1K/01-1K-D00/01-1K-D00-002",
+        "start": 3116
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Сэкаи",
+        "start": 3116,
+        "text": "Да... Ничего...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice01/01-1K/01-1K-D00/01-1K-D00-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 3116
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Сэцуна",
+        "start": 5283,
+        "text": "Это ведь Ито звонил?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice01/01-1K/01-1K-D00/01-1K-D00-0070",
+        "layer": 0,
+        "persona": "set",
+        "start": 5283
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event01/01-1K/01-1K-D00/01-1K-D00-003",
+        "start": 7283
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Сэкаи",
+        "start": 7283,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice01/01-1K/01-1K-D00/01-1K-D00-0080",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 7283
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Сэцуна",
+        "start": 9016,
+        "text": "Ясно...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice01/01-1K/01-1K-D00/01-1K-D00-0090",
+        "layer": 0,
+        "persona": "set",
+        "start": 9016
+    },
+    {
+        "action": "CreateBG",
+        "end": 16000,
+        "file": "Event01/01-1K/01-1K-D00/01-1K-D00-002",
+        "start": 9383
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Сэкаи",
+        "start": 9383,
+        "text": "Что тебе ясно?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice01/01-1K/01-1K-D00/01-1K-D00-0100",
+        "layer": 0,
+        "persona": "sek",
+        "start": 9383
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Сэкаи",
+        "start": 13133,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice01/01-1K/01-1K-D00/01-1K-D00-0120",
+        "layer": 0,
+        "persona": "sek",
+        "start": 13133
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 16000,
+        "start": 15050
+    }
+]

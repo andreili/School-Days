@@ -1,0 +1,122 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 20000,
+        "file": "BGM/SD_BGM/sdbgm12",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event04/04-SA/04-SA-Q01/04-SA-Q01-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Котоноха",
+        "start": 0,
+        "text": "Вот, Макото.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice04/04-SA/04-SA-Q01/04-SA-Q01-0030",
+        "layer": 0,
+        "persona": "kot",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Макото",
+        "start": 1333,
+        "text": "Спасибо.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice04/04-SA/04-SA-Q01/04-SA-Q01-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 1333
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Таисукэ",
+        "start": 4083,
+        "text": "Что такое, Макото?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice04/04-SA/04-SA-Q01/04-SA-Q01-0060",
+        "layer": 1,
+        "persona": "tai",
+        "start": 4083
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event04/04-SA/04-SA-Q01/04-SA-Q01-002",
+        "start": 5000
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Хикари",
+        "start": 6116,
+        "text": "У тебя билет другой?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice04/04-SA/04-SA-Q01/04-SA-Q01-0070",
+        "layer": 0,
+        "persona": "hik",
+        "start": 6116
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Макото",
+        "start": 8166,
+        "text": "А... Ну... Народу ведь на 1 человек больше набралось.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice04/04-SA/04-SA-Q01/04-SA-Q01-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 8166
+    },
+    {
+        "action": "CreateBG",
+        "end": 15000,
+        "file": "Event04/04-SA/04-SA-Q01/04-SA-Q01-003",
+        "start": 10000
+    },
+    {
+        "action": "PrintText",
+        "end": 18000,
+        "persona": "Котоноха",
+        "start": 13150,
+        "text": "У папы связи здесь есть, и я попросила его 1 билетик нам достать.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 18000,
+        "file": "Voice04/04-SA/04-SA-Q01/04-SA-Q01-0090",
+        "layer": 0,
+        "persona": "kot",
+        "start": 13150
+    },
+    {
+        "action": "CreateBG",
+        "end": 20000,
+        "file": "Event04/04-SA/04-SA-Q01/04-SA-Q01-004",
+        "start": 15000
+    }
+]

@@ -1,0 +1,267 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 26000,
+        "file": "SysSe/SE_all/gaya/kyousitu_rouka",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event05/05-SE/05-SE-C07/05-SE-C07-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 8000,
+        "file": "Event05/05-SE/05-SE-C07/05-SE-C07-002",
+        "start": 3283
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Макото",
+        "start": 3283,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice05/05-SE/05-SE-O00/05-SE-O00-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 3283
+    },
+    {
+        "action": "CreateBG",
+        "end": 13000,
+        "file": "Event05/05-SE/05-SE-O00/05-SE-O00-003",
+        "start": 8000
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Таисукэ",
+        "start": 8000,
+        "text": "Макото!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice05/05-SE/05-SE-O00/05-SE-O00-0040",
+        "layer": 1,
+        "persona": "tai",
+        "start": 8000
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Макото",
+        "start": 9166,
+        "text": "Привет, Таисукэ.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice05/05-SE/05-SE-O00/05-SE-O00-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 9166
+    },
+    {
+        "action": "CreateBG",
+        "end": 19000,
+        "file": "Event05/05-SE/05-SE-O00/05-SE-O00-004",
+        "start": 13200
+    },
+    {
+        "action": "PrintText",
+        "end": 15000,
+        "persona": "Таисукэ",
+        "start": 13300,
+        "text": "Ты чего такой сонный?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 15000,
+        "file": "Voice05/05-SE/05-SE-O00/05-SE-O00-0060",
+        "layer": 1,
+        "persona": "tai",
+        "start": 13300
+    },
+    {
+        "action": "PrintText",
+        "end": 19000,
+        "persona": "Макото",
+        "start": 15283,
+        "text": "Да чувство такое... Будто ночь пахал...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 19000,
+        "file": "Voice05/05-SE/05-SE-O00/05-SE-O00-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 15283
+    },
+    {
+        "action": "CreateBG",
+        "end": 23000,
+        "file": "Event05/05-SE/05-SE-O00/05-SE-O00-005",
+        "start": 19316
+    },
+    {
+        "action": "PrintText",
+        "end": 21000,
+        "persona": "Таисукэ",
+        "start": 19350,
+        "text": "Ну и ладно, ты в курсе уже?!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 21000,
+        "file": "Voice05/05-SE/05-SE-O00/05-SE-O00-0080",
+        "layer": 1,
+        "persona": "tai",
+        "start": 19350
+    },
+    {
+        "action": "PrintText",
+        "end": 23000,
+        "persona": "Макото",
+        "start": 21316,
+        "text": "О чём?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 23000,
+        "file": "Voice05/05-SE/05-SE-O00/05-SE-O00-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 21316
+    },
+    {
+        "action": "CreateBG",
+        "end": 26000,
+        "file": "Event05/05-SE/05-SE-O00/05-SE-O00-006",
+        "start": 23116
+    },
+    {
+        "action": "PrintText",
+        "end": 25000,
+        "persona": "Таисукэ",
+        "start": 23116,
+        "text": "Сэкаи... Школу бросила.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 25000,
+        "file": "Voice05/05-SE/05-SE-O00/05-SE-O00-0100",
+        "layer": 1,
+        "persona": "tai",
+        "start": 23116
+    },
+    {
+        "action": "CreateBG",
+        "end": 30000,
+        "file": "Event05/05-SE/05-SE-O00/05-SE-O00-007",
+        "start": 26016
+    },
+    {
+        "action": "PrintText",
+        "end": 26000,
+        "persona": "Макото",
+        "start": 26050,
+        "text": "Э?!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 26000,
+        "file": "Voice05/05-SE/05-SE-O00/05-SE-O00-0110",
+        "layer": 1,
+        "persona": "mak",
+        "start": 26050
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 30000,
+        "start": 27183
+    },
+    {
+        "action": "PlayMovie",
+        "end": 43000,
+        "file": "Movie05/05-SE/05-SE-O00/05-SE-O00-008_011",
+        "start": 30183
+    },
+    {
+        "action": "PrintText",
+        "end": 35000,
+        "persona": "Макото",
+        "start": 30366,
+        "text": "Сэкаи, сразу как только бросила школу, ушла из дома и пропала.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 35000,
+        "file": "Voice05/05-SE/05-SE-O00/05-SE-O00-0130",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 30366
+    },
+    {
+        "action": "PrintText",
+        "end": 43000,
+        "persona": "Макото",
+        "start": 37000,
+        "text": "Я, понятное дело, никому ничего не стал рассказывать...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 43000,
+        "file": "Voice05/05-SE/05-SE-O00/05-SE-O00-0140",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 37000
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 43000,
+        "start": 43183
+    },
+    {
+        "action": "PlayMovie",
+        "end": 51000,
+        "file": "Movie05/05-SE/05-SE-O00/05-SE-O00-012",
+        "start": 43383
+    },
+    {
+        "action": "BlackFade",
+        "dir": "IN",
+        "end": 44000,
+        "start": 43383
+    },
+    {
+        "action": "PrintText",
+        "end": 48000,
+        "persona": "Макото",
+        "start": 44166,
+        "text": "Она ушла из нашей жизни.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 48000,
+        "file": "Voice05/05-SE/05-SE-O00/05-SE-O00-0150",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 44166
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 51000,
+        "start": 48033
+    }
+]

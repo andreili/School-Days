@@ -1,0 +1,26 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 4000,
+        "file": "BGM/SD_BGM/sdbgm06",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event01/01-00/01-00-C01/01-00-C01-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 4000,
+        "file": "Event01/01-00/01-00-B00/01-00-B00-003",
+        "start": 2000
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 4000,
+        "start": 3000
+    }
+]

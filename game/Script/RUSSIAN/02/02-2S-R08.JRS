@@ -1,0 +1,447 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 70000,
+        "file": "BGM/SD_BGM/sdbgm06",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 70000,
+        "file": "Se01/01-00/01-00-B00/SE01-00-B00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event02/02-2S/02-2S-R08/02-2S-R08-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Отомэ",
+        "start": 0,
+        "text": "Кацура!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice02/02-2S/02-2S-R08/02-2S-R08-0050",
+        "layer": 0,
+        "persona": "oto",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Котоноха",
+        "start": 1016,
+        "text": "Да?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice02/02-2S/02-2S-R08/02-2S-R08-0060",
+        "layer": 0,
+        "persona": "kot",
+        "start": 1016
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event02/02-2S/02-2S-R08/02-2S-R08-002",
+        "start": 1316
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Отомэ",
+        "start": 1366,
+        "text": "Разговор к тебе есть, насчёт школьного фестиваля.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice02/02-2S/02-2S-R08/02-2S-R08-0070",
+        "layer": 0,
+        "persona": "oto",
+        "start": 1366
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Котоноха",
+        "start": 6000,
+        "text": "А?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice02/02-2S/02-2S-R08/02-2S-R08-0080",
+        "layer": 0,
+        "persona": "kot",
+        "start": 6000
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Отомэ",
+        "start": 6250,
+        "text": "Мы Комнату ужасов будем строить.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice02/02-2S/02-2S-R08/02-2S-R08-0090",
+        "layer": 0,
+        "persona": "oto",
+        "start": 6250
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Котоноха",
+        "start": 9033,
+        "text": "Прости, но...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice02/02-2S/02-2S-R08/02-2S-R08-0100",
+        "layer": 0,
+        "persona": "kot",
+        "start": 9033
+    },
+    {
+        "action": "CreateBG",
+        "end": 31000,
+        "file": "Event02/02-2S/02-2S-R08/02-2S-R08-003",
+        "start": 11083
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Отомэ",
+        "start": 11083,
+        "text": "Что?! У тебя какое-то важное дело?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice02/02-2S/02-2S-R08/02-2S-R08-0110",
+        "layer": 0,
+        "persona": "oto",
+        "start": 11083
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Котоноха",
+        "start": 14066,
+        "text": "Да... Давай потом?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice02/02-2S/02-2S-R08/02-2S-R08-0120",
+        "layer": 0,
+        "persona": "kot",
+        "start": 14066
+    },
+    {
+        "action": "PrintText",
+        "end": 18000,
+        "persona": "Минами",
+        "start": 16166,
+        "text": "Неужели это что-то настолько важное?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 18000,
+        "file": "Voice02/02-2S/02-2S-R08/02-2S-R08-0130",
+        "layer": 0,
+        "persona": "min",
+        "start": 16166
+    },
+    {
+        "action": "PrintText",
+        "end": 20000,
+        "persona": "Котоноха",
+        "start": 18383,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 20000,
+        "file": "Voice02/02-2S/02-2S-R08/02-2S-R08-0140",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 18383
+    },
+    {
+        "action": "PrintText",
+        "end": 25000,
+        "persona": "Куми",
+        "start": 20200,
+        "text": "Ты же вроде просто на обед собиралась?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 25000,
+        "file": "Voice02/02-2S/02-2S-R08/02-2S-R08-0150",
+        "layer": 0,
+        "persona": "kum",
+        "start": 20200
+    },
+    {
+        "action": "PrintText",
+        "end": 30000,
+        "persona": "Нацуми",
+        "start": 25216,
+        "text": "Так тебе значит что: поесть важнее, чем с нами поговорить?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 30000,
+        "file": "Voice02/02-2S/02-2S-R08/02-2S-R08-0160",
+        "layer": 0,
+        "persona": "nat",
+        "start": 25216
+    },
+    {
+        "action": "PrintText",
+        "end": 31000,
+        "persona": "Минами",
+        "start": 30166,
+        "text": "У тебя парень что ли есть?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 31000,
+        "file": "Voice02/02-2S/02-2S-R08/02-2S-R08-0170",
+        "layer": 0,
+        "persona": "min",
+        "start": 30166
+    },
+    {
+        "action": "CreateBG",
+        "end": 53000,
+        "file": "Event02/02-2S/02-2S-R08/02-2S-R08-004",
+        "start": 31133
+    },
+    {
+        "action": "PrintText",
+        "end": 33000,
+        "persona": "Котоноха",
+        "start": 31133,
+        "text": "Нет, послушайте...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 33000,
+        "file": "Voice02/02-2S/02-2S-R08/02-2S-R08-0180",
+        "layer": 0,
+        "persona": "kot",
+        "start": 31133
+    },
+    {
+        "action": "PrintText",
+        "end": 35000,
+        "persona": "Куми",
+        "start": 33200,
+        "text": "Парень?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 35000,
+        "file": "Voice02/02-2S/02-2S-R08/02-2S-R08-0200",
+        "layer": 0,
+        "persona": "kum",
+        "start": 33200
+    },
+    {
+        "action": "PrintText",
+        "end": 36000,
+        "persona": "Минами",
+        "start": 35066,
+        "text": "Он тебя, наверное, уже ждёт?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 36000,
+        "file": "Voice02/02-2S/02-2S-R08/02-2S-R08-0210",
+        "layer": 0,
+        "persona": "min",
+        "start": 35066
+    },
+    {
+        "action": "PrintText",
+        "end": 41000,
+        "persona": "Нацуми",
+        "start": 36366,
+        "text": "Так вот почему ты с нами разговаривать не хочешь!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 41000,
+        "file": "Voice02/02-2S/02-2S-R08/02-2S-R08-0220",
+        "layer": 0,
+        "persona": "nat",
+        "start": 36366
+    },
+    {
+        "action": "PrintText",
+        "end": 43000,
+        "persona": "Минами",
+        "start": 41066,
+        "text": "А с кем ты встречаешься?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 43000,
+        "file": "Voice02/02-2S/02-2S-R08/02-2S-R08-0230",
+        "layer": 0,
+        "persona": "min",
+        "start": 41066
+    },
+    {
+        "action": "PrintText",
+        "end": 47000,
+        "persona": "Нацуми",
+        "start": 44000,
+        "text": "Так она тебе и ответит!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 47000,
+        "file": "Voice02/02-2S/02-2S-R08/02-2S-R08-0240",
+        "layer": 0,
+        "persona": "nat",
+        "start": 44000
+    },
+    {
+        "action": "PrintText",
+        "end": 53000,
+        "persona": "Минами",
+        "start": 47266,
+        "text": "Да, тут ты права. И всё-таки интересно, кто бы это мог быть? Наверное...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 53000,
+        "file": "Voice02/02-2S/02-2S-R08/02-2S-R08-0250",
+        "layer": 0,
+        "persona": "min",
+        "start": 47266
+    },
+    {
+        "action": "CreateBG",
+        "end": 64000,
+        "file": "Event02/02-2S/02-2S-R08/02-2S-R08-005",
+        "start": 53216
+    },
+    {
+        "action": "PrintText",
+        "end": 59000,
+        "persona": "Отомэ",
+        "start": 53216,
+        "text": "Кацура, это правда? Значит, тебе свидание важнее классных дел?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 59000,
+        "file": "Voice02/02-2S/02-2S-R08/02-2S-R08-0260",
+        "layer": 0,
+        "persona": "oto",
+        "start": 53216
+    },
+    {
+        "action": "PrintText",
+        "end": 62000,
+        "persona": "Котоноха",
+        "start": 59183,
+        "text": "Я... Я этого не говорила.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 62000,
+        "file": "Voice02/02-2S/02-2S-R08/02-2S-R08-0270",
+        "layer": 0,
+        "persona": "kot",
+        "start": 59183
+    },
+    {
+        "action": "PrintText",
+        "end": 64000,
+        "persona": "Отомэ",
+        "start": 62266,
+        "text": "Ну и отлично.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 64000,
+        "file": "Voice02/02-2S/02-2S-R08/02-2S-R08-0280",
+        "layer": 0,
+        "persona": "oto",
+        "start": 62266
+    },
+    {
+        "action": "CreateBG",
+        "end": 70000,
+        "file": "Event02/02-2S/02-2S-R08/02-2S-R08-002",
+        "start": 64033
+    },
+    {
+        "action": "PrintText",
+        "end": 65000,
+        "persona": "Котоноха",
+        "start": 64033,
+        "text": "Да...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 65000,
+        "file": "Voice02/02-2S/02-2S-R08/02-2S-R08-0290",
+        "layer": 0,
+        "persona": "kot",
+        "start": 64033
+    },
+    {
+        "action": "PrintText",
+        "end": 68000,
+        "persona": "Отомэ",
+        "start": 65333,
+        "text": "Придётся тебе встречу отменить, ты ведь не возражаешь?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 68000,
+        "file": "Voice02/02-2S/02-2S-R08/02-2S-R08-0300",
+        "layer": 0,
+        "persona": "oto",
+        "start": 65333
+    },
+    {
+        "action": "PrintText",
+        "end": 69000,
+        "persona": "Котоноха",
+        "start": 68150,
+        "text": "Нет...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 69000,
+        "file": "Voice02/02-2S/02-2S-R08/02-2S-R08-0310",
+        "layer": 0,
+        "persona": "kot",
+        "start": 68150
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 70000,
+        "start": 69383
+    }
+]

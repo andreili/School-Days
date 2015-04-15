@@ -1,0 +1,84 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 9000,
+        "file": "BGM/SD_BGM/sdbgm01",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 9000,
+        "file": "SysSe/SE_all/station_train/train_in",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 4000,
+        "file": "Movie00/00-00/00-00-A00/00-00-A00-006",
+        "start": 16
+    },
+    {
+        "action": "CreateBG",
+        "end": 6000,
+        "file": "Event05/05-KB/05-KB-F00/05-KB-F00-002",
+        "start": 4000
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Котоноха",
+        "start": 4033,
+        "text": "Макото.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice05/05-KB/05-KB-F00/05-KB-F00-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 4033
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Макото",
+        "start": 5300,
+        "text": "А, привет.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice05/05-KB/05-KB-F00/05-KB-F00-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 5300
+    },
+    {
+        "action": "CreateBG",
+        "end": 8000,
+        "file": "Event05/05-KB/05-KB-F00/05-KB-F00-004",
+        "start": 6133
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event05/05-KB/05-KB-F00/05-KB-F00-005",
+        "start": 8216
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Котоноха",
+        "start": 8283,
+        "text": "Привет.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice05/05-KB/05-KB-F00/05-KB-F00-0060",
+        "layer": 0,
+        "persona": "kot",
+        "start": 8283
+    }
+]

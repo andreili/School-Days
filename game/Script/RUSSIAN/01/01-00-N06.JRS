@@ -1,0 +1,65 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 13000,
+        "file": "BGM/SD_BGM/sdbgm07",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event01/01-00/01-00-N00/01-00-N00-002",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 216,
+        "text": "Поговорю с ней завтра.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice01/01-00/01-00-N06/01-00-N06-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 216
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Макото",
+        "start": 2350,
+        "text": "Может быть, у Кацуры настроение будет получше.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice01/01-00/01-00-N06/01-00-N06-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2350
+    },
+    {
+        "action": "CreateBG",
+        "end": 13000,
+        "file": "Event01/01-00/01-00-N05/01-00-N05-001",
+        "start": 9350
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Макото",
+        "start": 11066,
+        "text": "А сегодня нужно выспаться...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice01/01-00/01-00-N06/01-00-N06-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 11066
+    }
+]

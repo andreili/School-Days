@@ -1,0 +1,248 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 37000,
+        "file": "SysSe/SE_all/station_train/gakuenmae_yuugata",
+        "layer": 3,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event04/04-SB/04-SB-C04/04-SB-C04-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Кончай дурить уже!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice04/04-SB/04-SB-C04/04-SB-C04-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Таисукэ",
+        "start": 1183,
+        "text": "Э?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice04/04-SB/04-SB-C04/04-SB-C04-0040",
+        "layer": 1,
+        "persona": "tai",
+        "start": 1183
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Макото",
+        "start": 2033,
+        "text": "Не видишь, что ли, она против.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice04/04-SB/04-SB-C04/04-SB-C04-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2033
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Таисукэ",
+        "start": 4383,
+        "text": "О-он ведь... ошибается?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice04/04-SB/04-SB-C04/04-SB-C04-0060",
+        "layer": 1,
+        "persona": "tai",
+        "start": 4383
+    },
+    {
+        "action": "CreateBG",
+        "end": 13000,
+        "file": "Event04/04-SB/04-SB-C04/04-SB-C04-002",
+        "start": 5000
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Котоноха",
+        "start": 7266,
+        "text": "Ну... Правда... Я не могу...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice04/04-SB/04-SB-C04/04-SB-C04-0070",
+        "layer": 0,
+        "persona": "kot",
+        "start": 7266
+    },
+    {
+        "action": "CreateBG",
+        "end": 19000,
+        "file": "Event04/04-SB/04-SB-C04/04-SB-C04-003",
+        "start": 13083
+    },
+    {
+        "action": "PrintText",
+        "end": 19000,
+        "persona": "Таисукэ",
+        "start": 13083,
+        "text": "Да, действительно... Ты прости... Ещё и посторонние рядом...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 19000,
+        "file": "Voice04/04-SB/04-SB-C04/04-SB-C04-0080",
+        "layer": 1,
+        "persona": "tai",
+        "start": 13083
+    },
+    {
+        "action": "CreateBG",
+        "end": 24000,
+        "file": "Event04/04-SB/04-SB-C01/04-SB-C01-006",
+        "start": 19200
+    },
+    {
+        "action": "PrintText",
+        "end": 20000,
+        "persona": "Макото",
+        "start": 19200,
+        "text": "Именно!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 20000,
+        "file": "Voice04/04-SB/04-SB-C04/04-SB-C04-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 19200
+    },
+    {
+        "action": "PrintText",
+        "end": 24000,
+        "persona": "Таисукэ",
+        "start": 20300,
+        "text": "Ну, в следующий раз, будем там, где нас никто не увидит!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 24000,
+        "file": "Voice04/04-SB/04-SB-C04/04-SB-C04-0100",
+        "layer": 1,
+        "persona": "tai",
+        "start": 20300
+    },
+    {
+        "action": "PrintText",
+        "end": 27000,
+        "persona": "Таисукэ",
+        "start": 24333,
+        "text": "Ну, Кацура, до завтра!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 27000,
+        "file": "Voice04/04-SB/04-SB-C04/04-SB-C04-0120",
+        "layer": 1,
+        "persona": "tai",
+        "start": 24333
+    },
+    {
+        "action": "PlaySe",
+        "end": 28000,
+        "file": "SysSe/SE_all/station_train/train_stpo",
+        "layer": 1,
+        "start": 24350
+    },
+    {
+        "action": "CreateBG",
+        "end": 28000,
+        "file": "Event04/04-SB/04-SB-C04/04-SB-C04-005",
+        "start": 24350
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 28000,
+        "start": 27116
+    },
+    {
+        "action": "PrintText",
+        "end": 28000,
+        "persona": "Котоноха",
+        "start": 27183,
+        "text": "До завтра...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 28000,
+        "file": "Voice04/04-SB/04-SB-C04/04-SB-C04-0130",
+        "layer": 0,
+        "persona": "kot",
+        "start": 27183
+    },
+    {
+        "action": "PlaySe",
+        "end": 37000,
+        "file": "SysSe/SE_all/station_train/train_start",
+        "layer": 2,
+        "start": 28116
+    },
+    {
+        "action": "PlayMovie",
+        "end": 35000,
+        "file": "Movie00/00-00/00-00-L00/00-00-L00-024",
+        "start": 28116
+    },
+    {
+        "action": "BlackFade",
+        "dir": "IN",
+        "end": 29000,
+        "start": 28116
+    },
+    {
+        "action": "CreateBG",
+        "end": 36000,
+        "file": "Event04/04-SB/04-SB-C04/04-SB-C04-006A",
+        "start": 35000
+    },
+    {
+        "action": "PrintText",
+        "end": 36000,
+        "persona": "Макото",
+        "start": 35066,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 36000,
+        "file": "Voice04/04-SB/04-SB-C04/04-SB-C04-0150",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 35066
+    },
+    {
+        "action": "CreateBG",
+        "end": 37000,
+        "file": "Event04/04-SB/04-SB-C04/04-SB-C04-007",
+        "start": 36100
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 16000,
+        "file": "BGM/SD_BGM/sdbgm20",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 7000,
+        "file": "Se01/01-00/01-00-P00/SE01-00-P00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 2000,
+        "file": "Movie01/01-00/01-00-P00/01-00-P00-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 12000,
+        "file": "Event01/01-00/01-00-P00/01-00-P00-002",
+        "start": 2383
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Котоноха",
+        "start": 3016,
+        "text": "Ох...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice01/01-00/01-00-P00/01-00-P00-0050",
+        "layer": 0,
+        "persona": "kot",
+        "start": 3016
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Котоноха",
+        "start": 5033,
+        "text": "Теперь Макото думает, что я странная...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice01/01-00/01-00-P00/01-00-P00-0060",
+        "layer": 0,
+        "persona": "kot",
+        "start": 5033
+    },
+    {
+        "action": "PlaySe",
+        "end": 14000,
+        "file": "Se01/01-00/01-00-P00/SE01-00-P00-001",
+        "layer": 2,
+        "start": 7100
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Котоноха",
+        "start": 9083,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice01/01-00/01-00-P00/01-00-P00-0070",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 9083
+    },
+    {
+        "action": "PlayMovie",
+        "end": 16000,
+        "file": "Movie01/01-00/01-00-P00/01-00-P00-003",
+        "start": 12216
+    },
+    {
+        "action": "PrintText",
+        "end": 15000,
+        "persona": "Котоноха",
+        "start": 12216,
+        "text": "Наверное, я ему больше не нравлюсь.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 15000,
+        "file": "Voice01/01-00/01-00-P00/01-00-P00-0080",
+        "layer": 0,
+        "persona": "kot",
+        "start": 12216
+    },
+    {
+        "action": "PlaySe",
+        "end": 16000,
+        "file": "Se01/01-00/01-00-P00/SE01-00-P00-001",
+        "layer": 1,
+        "start": 14100
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Котоноха",
+        "start": 15050,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice01/01-00/01-00-P00/01-00-P00-0090",
+        "layer": 0,
+        "persona": "kot",
+        "start": 15050
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 16000,
+        "start": 15383
+    }
+]

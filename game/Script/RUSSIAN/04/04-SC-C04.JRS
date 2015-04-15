@@ -1,0 +1,93 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 13000,
+        "file": "SysSe/SE_all/gaya/kyousitu_rouka",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event04/04-SC/04-SC-C04/04-SC-C04-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event04/04-SC/04-SC-C04/04-SC-C04-002",
+        "start": 1133
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Нанами",
+        "start": 1166,
+        "text": "И о чём только Кацура думает...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice04/04-SC/04-SC-C04/04-SC-C04-0040",
+        "layer": 0,
+        "persona": "nan",
+        "start": 1166
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event04/04-SC/04-SC-C04/04-SC-C04-003",
+        "start": 5033
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Хикари",
+        "start": 5083,
+        "text": "И не говори. Сэцуна тоже говорила не гнать коней...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice04/04-SC/04-SC-C04/04-SC-C04-0050",
+        "layer": 0,
+        "persona": "hik",
+        "start": 5083
+    },
+    {
+        "action": "CreateBG",
+        "end": 13000,
+        "file": "Event04/04-SC/04-SC-C04/04-SC-C04-004",
+        "start": 9216
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Сэкаи",
+        "start": 9266,
+        "text": "Сэцуна?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice04/04-SC/04-SC-C04/04-SC-C04-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 9266
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Хикари",
+        "start": 10383,
+        "text": "Да. Слушай...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice04/04-SC/04-SC-C04/04-SC-C04-0070",
+        "layer": 0,
+        "persona": "hik",
+        "start": 10383
+    }
+]

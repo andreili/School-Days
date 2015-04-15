@@ -1,0 +1,77 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 16000,
+        "file": "BGM/SD_BGM/sdbgm06",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 4000,
+        "file": "Event03/03-KA/03-KA-L06/03-KA-L06-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 100,
+        "text": "Я так хочу её к себе прижать...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-KA/03-KA-L06/03-KA-L06-0030",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 100
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Макото",
+        "start": 2066,
+        "text": "Почувствовать, какая она мягкая и тёплая под моими ладонями...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice03/03-KA/03-KA-L06/03-KA-L06-0040",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 2066
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event03/03-KA/03-KA-L06/03-KA-L06-002",
+        "start": 4100
+    },
+    {
+        "action": "CreateBG",
+        "end": 16000,
+        "file": "Event03/03-KA/03-KA-L06/03-KA-L06-003",
+        "start": 9250
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Макото",
+        "start": 9283,
+        "text": "Все мысли только об этом...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice03/03-KA/03-KA-L06/03-KA-L06-0050",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 9283
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 16000,
+        "start": 15100
+    }
+]

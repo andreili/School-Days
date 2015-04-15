@@ -1,0 +1,56 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 11000,
+        "file": "BGM/SD_BGM/sdbgm20",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event03/03-A0/03-A0-B01/03-A0-B01-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Как-то нехорошо получилось...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice03/03-A0/03-A0-B01/03-A0-B01-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 9000,
+        "file": "Movie03/03-A0/03-A0-B01/03-A0-B01-002",
+        "start": 5000
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event03/03-A0/03-A0-B01/03-A0-B01-003",
+        "start": 9383
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Макото",
+        "start": 10066,
+        "text": "Ну и ладно.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice03/03-A0/03-A0-B01/03-A0-B01-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 10066
+    }
+]

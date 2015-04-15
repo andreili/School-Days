@@ -1,0 +1,165 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 23000,
+        "file": "BGM/SD_BGM/sdbgm03",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 23000,
+        "file": "Se01/01-00/01-00-E00/SE01-00-E00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event01/01-00/01-00-E04/01-00-E04-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Котоноха",
+        "start": 200,
+        "text": "Ты что, с Саиёндзи поссорился?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice01/01-00/01-00-E04/01-00-E04-0030",
+        "layer": 0,
+        "persona": "kot",
+        "start": 200
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Макото",
+        "start": 3350,
+        "text": "Нет, просто последнее время она какая-то странная.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice01/01-00/01-00-E04/01-00-E04-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 3350
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Котоноха",
+        "start": 8283,
+        "text": "Странная?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice01/01-00/01-00-E04/01-00-E04-0050",
+        "layer": 0,
+        "persona": "kot",
+        "start": 8283
+    },
+    {
+        "action": "CreateBG",
+        "end": 17000,
+        "file": "Event01/01-00/01-00-E04/01-00-E04-002",
+        "start": 9300
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Макото",
+        "start": 9333,
+        "text": "Отказалась с нами обедать. Может, на меня обиделась?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice01/01-00/01-00-E04/01-00-E04-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 9333
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Котоноха",
+        "start": 14083,
+        "text": "Вы ведь не ссорились?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice01/01-00/01-00-E04/01-00-E04-0070",
+        "layer": 0,
+        "persona": "kot",
+        "start": 14083
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Макото",
+        "start": 16200,
+        "text": "Вроде нет...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice01/01-00/01-00-E04/01-00-E04-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 16200
+    },
+    {
+        "action": "CreateBG",
+        "end": 21000,
+        "file": "Event01/01-00/01-00-E04/01-00-E04-003",
+        "start": 17266
+    },
+    {
+        "action": "PrintText",
+        "end": 20000,
+        "persona": "Котоноха",
+        "start": 17350,
+        "text": "Саиёндзи, наверное...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 20000,
+        "file": "Voice01/01-00/01-00-E04/01-00-E04-0090",
+        "layer": 0,
+        "persona": "kot",
+        "start": 17350
+    },
+    {
+        "action": "CreateBG",
+        "end": 23000,
+        "file": "Event01/01-00/01-00-E04/01-00-E04-004",
+        "start": 21166
+    },
+    {
+        "action": "PrintText",
+        "end": 22000,
+        "persona": "Макото",
+        "start": 21166,
+        "text": "Что?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 22000,
+        "file": "Voice01/01-00/01-00-E04/01-00-E04-0110",
+        "layer": 1,
+        "persona": "mak",
+        "start": 21166
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 23000,
+        "start": 22283
+    }
+]

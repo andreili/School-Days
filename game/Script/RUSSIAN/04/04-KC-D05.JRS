@@ -1,0 +1,78 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 24000,
+        "file": "BGM/SD_BGM/sdbgm19",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 24000,
+        "file": "SysSe/SE_all/station_train/train_in",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 10000,
+        "file": "Movie04/04-KC/04-KC-D05/04-KC-D05-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Котоноха",
+        "start": 1283,
+        "text": "Слухи эти берутся... Оттого, что мы с Макото на настоящую пару не похожи...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice04/04-KC/04-KC-D05/04-KC-D05-0030",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 1283
+    },
+    {
+        "action": "CreateBG",
+        "end": 24000,
+        "file": "Event04/04-KC/04-KC-D05/04-KC-D05-002",
+        "start": 10183
+    },
+    {
+        "action": "PrintText",
+        "end": 19000,
+        "persona": "Котоноха",
+        "start": 13083,
+        "text": "Всё-таки... Надо вести себя так, чтобы все про нас знали...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 19000,
+        "file": "Voice04/04-KC/04-KC-D05/04-KC-D05-0040",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 13083
+    },
+    {
+        "action": "PrintText",
+        "end": 21000,
+        "persona": "Котоноха",
+        "start": 19383,
+        "text": "Нас с Макото...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 21000,
+        "file": "Voice04/04-KC/04-KC-D05/04-KC-D05-0050",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 19383
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 24000,
+        "start": 23050
+    }
+]

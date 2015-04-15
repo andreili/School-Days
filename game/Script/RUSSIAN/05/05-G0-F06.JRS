@@ -1,0 +1,127 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 19000,
+        "file": "BGM/SD_BGM/sdbgm01",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 19000,
+        "file": "SysSe/SE_all/station_train/train_in",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event05/05-KB/05-KB-F06/05-KB-F06-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Котоноха в гости заходила...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice05/05-KB/05-KB-F06/05-KB-F06-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event05/05-KB/05-KB-F06/05-KB-F06-002",
+        "start": 3000
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Нанами",
+        "start": 3000,
+        "text": "Э?!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice05/05-KB/05-KB-F06/05-KB-F06-0040",
+        "layer": 0,
+        "persona": "nan",
+        "start": 3000
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 3166,
+        "text": "А, нет, в смысле...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice05/05-KB/05-KB-F06/05-KB-F06-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 3166
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event05/05-KB/05-KB-F06/05-KB-F06-003",
+        "start": 3350
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event05/05-KB/05-KB-F06/05-KB-F06-004",
+        "start": 7266
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Нанами",
+        "start": 7266,
+        "text": "В гости... Вечером... О...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice05/05-KB/05-KB-F06/05-KB-F06-0060",
+        "layer": 0,
+        "persona": "nan",
+        "start": 7266
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Макото",
+        "start": 9283,
+        "text": "Да не в том смысле!..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice05/05-KB/05-KB-F06/05-KB-F06-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 9283
+    },
+    {
+        "action": "CreateBG",
+        "end": 19000,
+        "file": "Event05/05-KB/05-KB-F06/05-KB-F06-005",
+        "start": 10066
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Я её прогнал!^",
+        "answer2": "NULL",
+        "end": 17000,
+        "start": 12350
+    }
+]

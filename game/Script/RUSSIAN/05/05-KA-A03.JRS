@@ -1,0 +1,122 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 16000,
+        "file": "BGM/SD_BGM/sdbgm19",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event05/05-KA/05-KA-A03/05-KA-A03-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Хорошая, да.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice05/05-KA/05-KA-A03/05-KA-A03-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Мать Макото",
+        "start": 1033,
+        "text": "Я тоже так думаю.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice05/05-KA/05-KA-A03/05-KA-A03-0040",
+        "layer": 0,
+        "persona": "mkm",
+        "start": 1033
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Макото",
+        "start": 2200,
+        "text": "И столько всего... ради меня...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice05/05-KA/05-KA-A03/05-KA-A03-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2200
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Мать Макото",
+        "start": 6233,
+        "text": "Вот-вот! Будь ей благодарен!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice05/05-KA/05-KA-A03/05-KA-A03-0060",
+        "layer": 0,
+        "persona": "mkm",
+        "start": 6233
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event05/05-KA/05-KA-A03/05-KA-A03-002",
+        "start": 9200
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Макото",
+        "start": 9200,
+        "text": "Ага.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice05/05-KA/05-KA-A03/05-KA-A03-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 9200
+    },
+    {
+        "action": "CreateBG",
+        "end": 16000,
+        "file": "Event05/05-KA/05-KA-A03/05-KA-A03-003",
+        "start": 10316
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Макото",
+        "start": 10316,
+        "text": "Поэтому-то мне так тяжело...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice05/05-KA/05-KA-A03/05-KA-A03-0100",
+        "layer": 1,
+        "persona": "mak",
+        "start": 10316
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 16000,
+        "start": 14066
+    }
+]

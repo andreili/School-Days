@@ -1,0 +1,62 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 11000,
+        "file": "BGM/SD_BGM/sdbgm33",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event03/03-KA/03-KA-F01/03-KA-F01-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Спокойной ночи...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice03/03-KA/03-KA-F01/03-KA-F01-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 5000,
+        "file": "Movie03/03-KA/03-KA-F01/03-KA-F01-002",
+        "start": 2366
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event03/03-KA/03-KA-F01/03-KA-F01-003",
+        "start": 5183
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Макото",
+        "start": 5233,
+        "text": "Хех, что-то такая каша заварилась...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice03/03-KA/03-KA-F01/03-KA-F01-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 5233
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 11000,
+        "start": 10183
+    }
+]

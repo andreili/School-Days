@@ -1,0 +1,98 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 32000,
+        "file": "BGM/SD_BGM/sdbgm06",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 4000,
+        "file": "Event02/02-2K/02-2K-N00/02-2K-N00-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Котоноха",
+        "start": 2066,
+        "text": "Ой! Я проболталась...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice02/02-2S/02-2S-L05/02-2S-L05-0050",
+        "layer": 0,
+        "persona": "kot",
+        "start": 2066
+    },
+    {
+        "action": "CreateBG",
+        "end": 17000,
+        "file": "Event02/02-2S/02-2S-L05/02-2S-L05-002",
+        "start": 4166
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Котоноха",
+        "start": 6366,
+        "text": "Наверное, стоило промолчать... Думаю, Макото хотел бы пока сохранить наши отношения в тайне.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice02/02-2S/02-2S-L05/02-2S-L05-0060",
+        "layer": 0,
+        "persona": "kot",
+        "start": 6366
+    },
+    {
+        "action": "CreateBG",
+        "end": 28000,
+        "file": "Event02/02-2S/02-2S-L05/02-2S-L05-003",
+        "start": 17200
+    },
+    {
+        "action": "PrintText",
+        "end": 27000,
+        "persona": "Котоноха",
+        "start": 17200,
+        "text": "Ну и ладно! Мы ведь вместе, думаю, Макото всё поймёт.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 27000,
+        "file": "Voice02/02-2S/02-2S-L05/02-2S-L05-0080",
+        "layer": 0,
+        "persona": "kot",
+        "start": 17200
+    },
+    {
+        "action": "CreateBG",
+        "end": 32000,
+        "file": "Event02/02-2S/02-2S-L05/02-2S-L05-004",
+        "start": 28283
+    },
+    {
+        "action": "PrintText",
+        "end": 31000,
+        "persona": "Котоноха",
+        "start": 28350,
+        "text": "Ладно, пойду сделаю распечатки.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 31000,
+        "file": "Voice02/02-2S/02-2S-L05/02-2S-L05-0090",
+        "layer": 0,
+        "persona": "kot",
+        "start": 28350
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 32000,
+        "start": 31383
+    }
+]

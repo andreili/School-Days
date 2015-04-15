@@ -1,0 +1,174 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 15000,
+        "file": "BGM/SD_BGM/sdbgm16",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 15000,
+        "file": "Se03/03-BK/03-BK-J00/SE03-BK-J00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event03/03-BK/03-BK-J00/03-BK-J00-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event03/03-BK/03-BK-J00/03-BK-J00-002",
+        "start": 3000
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Таисукэ",
+        "start": 3000,
+        "text": "Ладно, увидимся в школе.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice03/03-BK/03-BK-J00/03-BK-J00-0030",
+        "layer": 1,
+        "persona": "tai",
+        "start": 3000
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Макото",
+        "start": 3300,
+        "text": "Ага.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice03/03-BK/03-BK-J00/03-BK-J00-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 3300
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Таисукэ",
+        "start": 4216,
+        "text": "Мы сегодня классно провели время, верно?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice03/03-BK/03-BK-J00/03-BK-J00-0050",
+        "layer": 1,
+        "persona": "tai",
+        "start": 4216
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Сэкаи",
+        "start": 6116,
+        "text": "Да!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice03/03-BK/03-BK-J00/03-BK-J00-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 6116
+    },
+    {
+        "action": "CreateBG",
+        "end": 15000,
+        "file": "Event03/03-BK/03-BK-J00/03-BK-J00-003",
+        "start": 7250
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Котоноха",
+        "start": 7250,
+        "text": "Угу...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice03/03-BK/03-BK-J00/03-BK-J00-0070",
+        "layer": 0,
+        "persona": "kot",
+        "start": 7250
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Таисукэ",
+        "start": 8350,
+        "text": "Ладно, мы пошли.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice03/03-BK/03-BK-J00/03-BK-J00-0080",
+        "layer": 1,
+        "persona": "tai",
+        "start": 8350
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Макото",
+        "start": 10216,
+        "text": "Ага, пока.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice03/03-BK/03-BK-J00/03-BK-J00-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 10216
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Таисукэ",
+        "start": 11383,
+        "text": "Пока.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice03/03-BK/03-BK-J00/03-BK-J00-0100",
+        "layer": 1,
+        "persona": "tai",
+        "start": 11383
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Сэкаи",
+        "start": 12316,
+        "text": "До завтра.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice03/03-BK/03-BK-J00/03-BK-J00-0110",
+        "layer": 0,
+        "persona": "sek",
+        "start": 12316
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 15000,
+        "start": 14116
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 3000,
+        "file": "BGM/SD_BGM/sdbgm14",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 3000,
+        "file": "SysSe/SE_all/footsteps/asioto_out_run",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event02/02-2K/02-2K-E10/02-2K-E10-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Котоноха.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice05/05-KB/05-KB-H01/05-KB-H01-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    }
+]

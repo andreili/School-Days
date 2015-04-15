@@ -1,0 +1,135 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 24000,
+        "file": "BGM/SD_BGM/sdbgm12",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 24000,
+        "file": "Se01/01-00/01-00-K00/SE01-00-K00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event01/01-00/01-00-K00/01-00-K00-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 6000,
+        "file": "Event01/01-00/01-00-K00/01-00-K00-002",
+        "start": 3133
+    },
+    {
+        "action": "PlayMovie",
+        "end": 13000,
+        "file": "Movie01/01-00/01-00-K00/01-00-K00-003",
+        "start": 6000
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Хикари",
+        "start": 6050,
+        "text": "И ты представляешь, Нанами призналась своему парню...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice01/01-00/01-00-K00/01-00-K00-0050",
+        "layer": 0,
+        "persona": "hik",
+        "start": 6050
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Сэкаи",
+        "start": 10116,
+        "text": "Угу...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice01/01-00/01-00-K00/01-00-K00-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 10116
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Хикари",
+        "start": 11316,
+        "text": "И знаешь, что он ответил?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice01/01-00/01-00-K00/01-00-K00-0070",
+        "layer": 0,
+        "persona": "hik",
+        "start": 11316
+    },
+    {
+        "action": "CreateBG",
+        "end": 16000,
+        "file": "Event01/01-00/01-00-K00/01-00-K00-004",
+        "start": 13133
+    },
+    {
+        "action": "CreateBG",
+        "end": 24000,
+        "file": "Event01/01-00/01-00-K00/01-00-K00-005",
+        "start": 16150
+    },
+    {
+        "action": "PrintText",
+        "end": 19000,
+        "persona": "Сэкаи",
+        "start": 16150,
+        "text": "Слушай, прости, у меня тут срочное дело.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 19000,
+        "file": "Voice01/01-00/01-00-K00/01-00-K00-0100",
+        "layer": 0,
+        "persona": "sek",
+        "start": 16150
+    },
+    {
+        "action": "PrintText",
+        "end": 21000,
+        "persona": "Хикари",
+        "start": 19133,
+        "text": "Сэкаи?!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 21000,
+        "file": "Voice01/01-00/01-00-K00/01-00-K00-0110",
+        "layer": 0,
+        "persona": "hik",
+        "start": 19133
+    },
+    {
+        "action": "PrintText",
+        "end": 24000,
+        "persona": "Сэкаи",
+        "start": 21033,
+        "text": "Извини, мне надо бежать. До завтра!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 24000,
+        "file": "Voice01/01-00/01-00-K00/01-00-K00-0120",
+        "layer": 0,
+        "persona": "sek",
+        "start": 21033
+    }
+]

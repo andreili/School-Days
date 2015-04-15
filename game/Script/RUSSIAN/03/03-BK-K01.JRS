@@ -1,0 +1,180 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 23000,
+        "file": "BGM/SD_BGM/sdbgm18",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 23000,
+        "file": "Se03/03-BK/03-BK-K01/SE03-BK-K01-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event03/03-BK/03-BK-K01/03-BK-K01-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Я просто...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice03/03-BK/03-BK-K01/03-BK-K01-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Котоноха",
+        "start": 2183,
+        "text": "Э?!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice03/03-BK/03-BK-K01/03-BK-K01-0050",
+        "layer": 0,
+        "persona": "kot",
+        "start": 2183
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Макото",
+        "start": 3000,
+        "text": "Прости!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice03/03-BK/03-BK-K01/03-BK-K01-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 3000
+    },
+    {
+        "action": "CreateBG",
+        "end": 6000,
+        "file": "Event03/03-BK/03-BK-K01/03-BK-K01-002",
+        "start": 3250
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Котоноха",
+        "start": 3250,
+        "text": "Э?! Макото?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice03/03-BK/03-BK-K01/03-BK-K01-0080",
+        "layer": 0,
+        "persona": "kot",
+        "start": 3250
+    },
+    {
+        "action": "CreateBG",
+        "end": 18000,
+        "file": "Event03/03-BK/03-BK-K01/03-BK-K01-003",
+        "start": 6233
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Макото",
+        "start": 6233,
+        "text": "Я больше не могу молчать, притворяться!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice03/03-BK/03-BK-K01/03-BK-K01-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 6233
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Котоноха",
+        "start": 10116,
+        "text": "Притворяться?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice03/03-BK/03-BK-K01/03-BK-K01-0100",
+        "layer": 0,
+        "persona": "kot",
+        "start": 10116
+    },
+    {
+        "action": "PrintText",
+        "end": 18000,
+        "persona": "Макото",
+        "start": 13150,
+        "text": "О том, что я чувствую... И о том, кого по-настоящему люблю.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 18000,
+        "file": "Voice03/03-BK/03-BK-K01/03-BK-K01-0110",
+        "layer": 1,
+        "persona": "mak",
+        "start": 13150
+    },
+    {
+        "action": "CreateBG",
+        "end": 23000,
+        "file": "Event03/03-BK/03-BK-K01/03-BK-K01-004",
+        "start": 18083
+    },
+    {
+        "action": "PrintText",
+        "end": 19000,
+        "persona": "Котоноха",
+        "start": 18083,
+        "text": "Что?!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 19000,
+        "file": "Voice03/03-BK/03-BK-K01/03-BK-K01-0120",
+        "layer": 0,
+        "persona": "kot",
+        "start": 18083
+    },
+    {
+        "action": "PrintText",
+        "end": 20000,
+        "persona": "Макото",
+        "start": 18366,
+        "text": "Прости меня... Мне так жаль...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 20000,
+        "file": "Voice03/03-BK/03-BK-K01/03-BK-K01-0130",
+        "layer": 1,
+        "persona": "mak",
+        "start": 18366
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 23000,
+        "start": 22233
+    }
+]

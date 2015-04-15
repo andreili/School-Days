@@ -1,0 +1,41 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 10000,
+        "file": "BGM/SD_BGM/sdbgm26",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event02/02-2K/02-2K-K03/02-2K-K03-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 8000,
+        "file": "Event02/02-2K/02-2K-K03/02-2K-K03-002",
+        "start": 3000
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event02/02-2K/02-2K-K00/02-2K-K00-002",
+        "start": 8000
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Макото",
+        "start": 8100,
+        "text": "Чёрт!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice02/02-2K/02-2K-K03/02-2K-K03-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 8100
+    }
+]

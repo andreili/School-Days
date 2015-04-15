@@ -1,0 +1,87 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 12000,
+        "file": "BGM/SD_BGM/sdbgm19",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 12000,
+        "file": "Se03/03-KB/03-KB-A09/SE03-KB-A09-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 6000,
+        "file": "Event03/03-KB/03-KB-A09/03-KB-A09-001A",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Мы стали совсем чужими друг другу...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice03/03-KB/03-KB-A09/03-KB-A09-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Макото",
+        "start": 3116,
+        "text": "Да, вот так... Ничего не поделаешь.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice03/03-KB/03-KB-A09/03-KB-A09-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 3116
+    },
+    {
+        "action": "CreateBG",
+        "end": 12000,
+        "file": "Event03/03-KB/03-KB-A09/03-KB-A09-001B",
+        "start": 6216
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Макото",
+        "start": 6350,
+        "text": "Наверное, мы просто не подходим друг для друга.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice03/03-KB/03-KB-A09/03-KB-A09-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 6350
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Макото",
+        "start": 11183,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice03/03-KB/03-KB-A09/03-KB-A09-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 11183
+    }
+]

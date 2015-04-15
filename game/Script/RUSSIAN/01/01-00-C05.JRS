@@ -1,0 +1,162 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 23000,
+        "file": "BGM/SD_BGM/sdbgm06",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event01/01-00/01-00-C05/01-00-C05-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 200,
+        "text": "Ничего не выйдет.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice01/01-00/01-00-C05/01-00-C05-0030",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 200
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "OUT",
+        "end": 2000,
+        "start": 1333
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event01/01-00/01-00-C05/01-00-C05-002",
+        "start": 2133
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "IN",
+        "end": 2000,
+        "start": 2133
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Макото",
+        "start": 3016,
+        "text": "У меня ведь уже есть Кацура, а Сэкаи свела нас.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice01/01-00/01-00-C05/01-00-C05-0040",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 3016
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "OUT",
+        "end": 5000,
+        "start": 4366
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event01/01-00/01-00-C05/01-00-C05-003",
+        "start": 5066
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "IN",
+        "end": 5000,
+        "start": 5066
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "OUT",
+        "end": 7000,
+        "start": 7233
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event01/01-00/01-00-C04/01-00-C04-003",
+        "start": 7333
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "IN",
+        "end": 8000,
+        "start": 7333
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "OUT",
+        "end": 10000,
+        "start": 10100
+    },
+    {
+        "action": "CreateBG",
+        "end": 13000,
+        "file": "Event01/01-00/01-00-C05/01-00-C05-005",
+        "start": 10200
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "IN",
+        "end": 10000,
+        "start": 10200
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "OUT",
+        "end": 13000,
+        "start": 12250
+    },
+    {
+        "action": "CreateBG",
+        "end": 23000,
+        "file": "Event01/01-00/01-00-C05/01-00-C05-001",
+        "start": 13050
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "IN",
+        "end": 13000,
+        "start": 13050
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Макото",
+        "start": 13383,
+        "text": "Что со мной?^"
+    },
+    {
+        "action": "PrintText",
+        "end": 22000,
+        "persona": "Макото",
+        "start": 15050,
+        "text": "Почему я думаю о Сэкаи, когда мне нравится Кацура?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 22000,
+        "file": "Voice01/01-00/01-00-C05/01-00-C05-0050",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 13383
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 23000,
+        "start": 22283
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 11000,
+        "file": "BGM/SD_BGM/sdbgm01",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 11000,
+        "file": "SysSe/SE_all/station_train/train_in",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event05/05-KB/05-KB-F04/05-KB-F04-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Нанами",
+        "start": 0,
+        "text": "Ито, ты ящик вчера смотрел?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice05/05-KB/05-KB-F04/05-KB-F04-0030",
+        "layer": 0,
+        "persona": "nan",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event05/05-KB/05-KB-F04/05-KB-F04-002",
+        "start": 2166
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Макото",
+        "start": 2166,
+        "text": "А вчера разве что интересного показывали?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice05/05-KB/05-KB-F04/05-KB-F04-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2166
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Нанами",
+        "start": 8050,
+        "text": "Показывали!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice05/05-KB/05-KB-F04/05-KB-F04-0050",
+        "layer": 0,
+        "persona": "nan",
+        "start": 8050
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Макото",
+        "start": 9283,
+        "text": "Например?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice05/05-KB/05-KB-F04/05-KB-F04-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 9283
+    }
+]

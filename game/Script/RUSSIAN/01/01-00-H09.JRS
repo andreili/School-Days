@@ -1,0 +1,112 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 18000,
+        "file": "BGM/SD_BGM/sdbgm06",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 18000,
+        "file": "Se01/01-00/01-00-E00/SE01-00-E00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 18000,
+        "file": "SysSe/SE_all/school/chime",
+        "layer": 2,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event01/01-00/01-00-H09/01-00-H09-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Сэкаи",
+        "start": 4216,
+        "text": "Перемена закончилась...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice01/01-00/01-00-H09/01-00-H09-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 4216
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event01/01-00/01-00-H09/01-00-H09-002",
+        "start": 7066
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Макото",
+        "start": 7066,
+        "text": "Пора возвращаться в класс.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice01/01-00/01-00-H09/01-00-H09-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 7066
+    },
+    {
+        "action": "CreateBG",
+        "end": 12000,
+        "file": "Event01/01-00/01-00-H09/01-00-H09-003",
+        "start": 10033
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Котоноха",
+        "start": 10100,
+        "text": "Да.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice01/01-00/01-00-H09/01-00-H09-0060",
+        "layer": 0,
+        "persona": "kot",
+        "start": 10100
+    },
+    {
+        "action": "CreateBG",
+        "end": 14000,
+        "file": "Event01/01-00/01-00-H09/01-00-H09-004",
+        "start": 12283
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Сэкаи",
+        "start": 13150,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice01/01-00/01-00-H09/01-00-H09-0080",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 13150
+    },
+    {
+        "action": "CreateBG",
+        "end": 18000,
+        "file": "Event01/01-00/01-00-H09/01-00-H09-005",
+        "start": 14250
+    }
+]

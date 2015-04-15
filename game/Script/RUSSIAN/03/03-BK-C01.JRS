@@ -1,0 +1,93 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 21000,
+        "file": "BGM/SD_BGM/sdbgm25",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 5000,
+        "file": "Se03/03-BK/03-BK-C01/SE03-BK-C01-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event03/03-BK/03-BK-C01/03-BK-C01-001",
+        "start": 0
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice03/03-BK/03-BK-C01/03-BK-C01-0030",
+        "layer": -1,
+        "persona": "",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 7000,
+        "file": "Se03/03-BK/03-BK-C01/SE03-BK-C01-001",
+        "layer": 2,
+        "start": 5133
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Макото",
+        "start": 7183,
+        "text": "Теперь... Я знаю...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice03/03-BK/03-BK-C01/03-BK-C01-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 7183
+    },
+    {
+        "action": "CreateBG",
+        "end": 21000,
+        "file": "Event03/03-BK/03-BK-C01/03-BK-C01-002",
+        "start": 7200
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Макото",
+        "start": 13083,
+        "text": "Кто мне действительно дорог...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice03/03-BK/03-BK-C01/03-BK-C01-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 13083
+    },
+    {
+        "action": "PrintText",
+        "end": 20000,
+        "persona": "Макото",
+        "start": 17066,
+        "text": "Кого я по-настоящему люблю...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 20000,
+        "file": "Voice03/03-BK/03-BK-C01/03-BK-C01-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 17066
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 21000,
+        "start": 20083
+    }
+]

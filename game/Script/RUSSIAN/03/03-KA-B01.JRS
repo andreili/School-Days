@@ -1,0 +1,81 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 12000,
+        "file": "Se03/03-KA/03-KA-B01/SE03-KA-B01-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 12000,
+        "file": "Event03/03-KA/03-KA-B01/03-KA-B01-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Если бы это была Сэкаи, она бы...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice03/03-KA/03-KA-B01/03-KA-B01-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Макото",
+        "start": 4100,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice03/03-KA/03-KA-B01/03-KA-B01-0040",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 4100
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Макото",
+        "start": 6050,
+        "text": "И почему я так о ней тоскую...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice03/03-KA/03-KA-B01/03-KA-B01-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 6050
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Макото",
+        "start": 10216,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice03/03-KA/03-KA-B01/03-KA-B01-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 10216
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 12000,
+        "start": 11283
+    }
+]

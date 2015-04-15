@@ -1,0 +1,335 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 61000,
+        "file": "BGM/SD_BGM/sdbgm03",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 61000,
+        "file": "Se01/01-00/01-00-E00/SE01-00-E00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event01/01-00/01-00-H09/01-00-H09-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 8000,
+        "file": "Event01/01-00/01-00-S00/01-00-S00-002",
+        "start": 2300
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Сэкаи",
+        "start": 3016,
+        "text": "Похоже, Котоноха не придёт.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice01/01-00/01-00-S00/01-00-S00-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 3016
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 4216,
+        "text": "Может, она заболела?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice01/01-00/01-00-S00/01-00-S00-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 4216
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Сэкаи",
+        "start": 7000,
+        "text": "Ты её утром видел?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice01/01-00/01-00-S00/01-00-S00-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 7000
+    },
+    {
+        "action": "CreateBG",
+        "end": 21000,
+        "file": "Event01/01-00/01-00-S00/01-00-S00-003",
+        "start": 8000
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Макото",
+        "start": 8000,
+        "text": "Нет, утром мы не виделись.^"
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Макото",
+        "start": 10350,
+        "text": "Я ещё подумал: может, она проспала.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice01/01-00/01-00-S00/01-00-S00-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 8000
+    },
+    {
+        "action": "PrintText",
+        "end": 19000,
+        "persona": "Сэкаи",
+        "start": 13350,
+        "text": "Вот почему ты утром сразу спросил, не проспала ли я.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 19000,
+        "file": "Voice01/01-00/01-00-S00/01-00-S00-0080",
+        "layer": 0,
+        "persona": "sek",
+        "start": 13350
+    },
+    {
+        "action": "PrintText",
+        "end": 21000,
+        "persona": "Макото",
+        "start": 19283,
+        "text": "Ну да, в общем.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 21000,
+        "file": "Voice01/01-00/01-00-S00/01-00-S00-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 19283
+    },
+    {
+        "action": "PrintText",
+        "end": 24000,
+        "persona": "Сэкаи",
+        "start": 21000,
+        "text": "М... Что будем делать? Поедим?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 24000,
+        "file": "Voice01/01-00/01-00-S00/01-00-S00-0100",
+        "layer": 0,
+        "persona": "sek",
+        "start": 21000
+    },
+    {
+        "action": "CreateBG",
+        "end": 24000,
+        "file": "Event01/01-00/01-00-S00/01-00-S00-002",
+        "start": 21016
+    },
+    {
+        "action": "CreateBG",
+        "end": 28000,
+        "file": "Event01/01-00/01-00-S00/01-00-S00-005",
+        "start": 24333
+    },
+    {
+        "action": "PrintText",
+        "end": 28000,
+        "persona": "Макото",
+        "start": 24333,
+        "text": "Ну, я ещё хочу немножко подождать, а ты начинай.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 28000,
+        "file": "Voice01/01-00/01-00-S00/01-00-S00-0110",
+        "layer": 1,
+        "persona": "mak",
+        "start": 24333
+    },
+    {
+        "action": "PrintText",
+        "end": 33000,
+        "persona": "Сэкаи",
+        "start": 28166,
+        "text": "Нет, я что-то не очень голодна. Но...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 33000,
+        "file": "Voice01/01-00/01-00-S00/01-00-S00-0120",
+        "layer": 0,
+        "persona": "sek",
+        "start": 28166
+    },
+    {
+        "action": "CreateBG",
+        "end": 31000,
+        "file": "Event01/01-00/01-00-S00/01-00-S00-002",
+        "start": 28183
+    },
+    {
+        "action": "CreateBG",
+        "end": 33000,
+        "file": "Event01/01-00/01-00-S00/01-00-S00-007",
+        "start": 31266
+    },
+    {
+        "action": "CreateBG",
+        "end": 36000,
+        "file": "Event01/01-00/01-00-S00/01-00-S00-008",
+        "start": 33283
+    },
+    {
+        "action": "PrintText",
+        "end": 36000,
+        "persona": "Макото",
+        "start": 33283,
+        "text": "М? Да ладно тебе, приступай.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 36000,
+        "file": "Voice01/01-00/01-00-S00/01-00-S00-0130",
+        "layer": 1,
+        "persona": "mak",
+        "start": 33283
+    },
+    {
+        "action": "CreateBG",
+        "end": 41000,
+        "file": "Event01/01-00/01-00-S00/01-00-S00-002",
+        "start": 36183
+    },
+    {
+        "action": "PrintText",
+        "end": 40000,
+        "persona": "Сэкаи",
+        "start": 36183,
+        "text": "Нет, я не о том. Слушай, а можно я немного посплю?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 40000,
+        "file": "Voice01/01-00/01-00-S00/01-00-S00-0140",
+        "layer": 0,
+        "persona": "sek",
+        "start": 36183
+    },
+    {
+        "action": "PrintText",
+        "end": 41000,
+        "persona": "Макото",
+        "start": 41000,
+        "text": "Что?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 41000,
+        "file": "Voice01/01-00/01-00-S00/01-00-S00-0150",
+        "layer": 1,
+        "persona": "mak",
+        "start": 41000
+    },
+    {
+        "action": "PrintText",
+        "end": 49000,
+        "persona": "Сэкаи",
+        "start": 41216,
+        "text": "Я же ночью совсем не спала. И хоть в классе всё утро дремала, всё равно меня вырубает.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 49000,
+        "file": "Voice01/01-00/01-00-S00/01-00-S00-0160",
+        "layer": 0,
+        "persona": "sek",
+        "start": 41216
+    },
+    {
+        "action": "CreateBG",
+        "end": 49000,
+        "file": "Event01/01-00/01-00-S00/01-00-S00-010",
+        "start": 41233
+    },
+    {
+        "action": "CreateBG",
+        "end": 61000,
+        "file": "Event01/01-00/01-00-S00/01-00-S00-011",
+        "start": 49050
+    },
+    {
+        "action": "PrintText",
+        "end": 53000,
+        "persona": "Макото",
+        "start": 49050,
+        "text": "Сегодня погода хорошая, да и тепло.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 53000,
+        "file": "Voice01/01-00/01-00-S00/01-00-S00-0170",
+        "layer": 1,
+        "persona": "mak",
+        "start": 49050
+    },
+    {
+        "action": "PrintText",
+        "end": 54000,
+        "persona": "Сэкаи",
+        "start": 53250,
+        "text": "Ну я и говорю!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 54000,
+        "file": "Voice01/01-00/01-00-S00/01-00-S00-0180",
+        "layer": 0,
+        "persona": "sek",
+        "start": 53250
+    },
+    {
+        "action": "PrintText",
+        "end": 55000,
+        "persona": "Макото",
+        "start": 54266,
+        "text": "Ну...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 55000,
+        "file": "Voice01/01-00/01-00-S00/01-00-S00-0190",
+        "layer": 1,
+        "persona": "mak",
+        "start": 54266
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Нет!",
+        "answer2": "Ладно...",
+        "end": 60000,
+        "start": 55000
+    }
+]

@@ -1,0 +1,117 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 17000,
+        "file": "BGM/SD_BGM/sdbgm06",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event03/03-KA/03-KA-L02/03-KA-L02-003A",
+        "start": 0
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "OUT",
+        "end": 2000,
+        "start": 2033
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event03/03-KA/03-KA-L03/03-KA-L03-001",
+        "start": 2250
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "IN",
+        "end": 3000,
+        "start": 2250
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Макото",
+        "start": 2350,
+        "text": "Котоноха мне...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice03/03-KA/03-KA-L03/03-KA-L03-0030",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 2350
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Макото",
+        "start": 4266,
+        "text": "Нравится...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice03/03-KA/03-KA-L03/03-KA-L03-0040",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 4266
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 6083,
+        "text": "Даже нет...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice03/03-KA/03-KA-L03/03-KA-L03-0050",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 6083
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "OUT",
+        "end": 7000,
+        "start": 6366
+    },
+    {
+        "action": "CreateBG",
+        "end": 17000,
+        "file": "Event03/03-KA/03-KA-L03/03-KA-L03-003",
+        "start": 7200
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "IN",
+        "end": 8000,
+        "start": 7200
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Макото",
+        "start": 7350,
+        "text": "Больше! Я хочу...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice03/03-KA/03-KA-L03/03-KA-L03-0060",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 7350
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Её обнять.^",
+        "answer2": "Её увидеть.^",
+        "end": 15000,
+        "start": 10350
+    }
+]

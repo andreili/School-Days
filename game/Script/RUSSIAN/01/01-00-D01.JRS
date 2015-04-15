@@ -1,0 +1,129 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 15000,
+        "file": "BGM/SD_BGM/sdbgm06",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 15000,
+        "file": "Se01/01-00/01-00-B00/SE01-00-B00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event01/01-00/01-00-D00/01-00-D00-008",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 200,
+        "text": "Пошли вместе!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice01/01-00/01-00-D01/01-00-D01-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 200
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Сэкаи",
+        "start": 1350,
+        "text": "Ты меня что, не слушал?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice01/01-00/01-00-D01/01-00-D01-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 1350
+    },
+    {
+        "action": "CreateBG",
+        "end": 4000,
+        "file": "Event01/01-00/01-00-D01/01-00-D01-002",
+        "start": 3266
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Макото",
+        "start": 3283,
+        "text": "Да ладно тебе!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice01/01-00/01-00-D01/01-00-D01-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 3283
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Сэкаи",
+        "start": 4150,
+        "text": "Перестань!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice01/01-00/01-00-D01/01-00-D01-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 4150
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event01/01-00/01-00-D01/01-00-D01-003",
+        "start": 4350
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Макото",
+        "start": 6383,
+        "text": "Без тебя... Я даже не знаю, о чём с ней говорить!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice01/01-00/01-00-D01/01-00-D01-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 6383
+    },
+    {
+        "action": "CreateBG",
+        "end": 15000,
+        "file": "Event01/01-00/01-00-B06/01-00-B06-001",
+        "start": 10316
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Сэкаи",
+        "start": 10316,
+        "text": "Ладно-ладно, опять ты меня тащишь!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice01/01-00/01-00-D01/01-00-D01-0080",
+        "layer": 0,
+        "persona": "sek",
+        "start": 10316
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 6000,
+        "file": "BGM/SD_BGM/sdbgm08",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 4000,
+        "file": "Event04/04-SA/04-SA-O01/04-SA-O01-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Она у тебя красивая.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice04/04-SA/04-SA-O01/04-SA-O01-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Сэкаи",
+        "start": 1233,
+        "text": "Думаешь?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice04/04-SA/04-SA-O01/04-SA-O01-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 1233
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Макото",
+        "start": 2383,
+        "text": "Вы с ней очень похожи.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice04/04-SA/04-SA-O01/04-SA-O01-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2383
+    },
+    {
+        "action": "CreateBG",
+        "end": 6000,
+        "file": "Event04/04-SA/04-SA-O01/04-SA-O01-002",
+        "start": 4150
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Сэкаи",
+        "start": 4233,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice04/04-SA/04-SA-O01/04-SA-O01-0060",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 4233
+    }
+]

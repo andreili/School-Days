@@ -1,0 +1,117 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 11000,
+        "file": "Se01/01-00/01-00-B00/SE01-00-B00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 4000,
+        "file": "Event01/01-00/01-00-B03/01-00-B03-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Сэкаи",
+        "start": 1083,
+        "text": "Что случилось? Ты чего вдруг замолчал?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice01/01-00/01-00-B03/01-00-B03-0030",
+        "layer": 0,
+        "persona": "sek",
+        "start": 1083
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Макото",
+        "start": 3350,
+        "text": "Да нет, ничего...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice01/01-00/01-00-B03/01-00-B03-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 3350
+    },
+    {
+        "action": "CreateBG",
+        "end": 8000,
+        "file": "Event01/01-00/01-00-B03/01-00-B03-002",
+        "start": 4300
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Сэкаи",
+        "start": 4316,
+        "text": "Говори!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice01/01-00/01-00-B03/01-00-B03-0050",
+        "layer": 0,
+        "persona": "sek",
+        "start": 4316
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 5383,
+        "text": "Вчера...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice01/01-00/01-00-B03/01-00-B03-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 5383
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Сэкаи",
+        "start": 7100,
+        "text": "Вчера?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice01/01-00/01-00-B03/01-00-B03-0070",
+        "layer": 0,
+        "persona": "sek",
+        "start": 7100
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event01/01-00/01-00-B03/01-00-B03-003",
+        "start": 8100
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Макото",
+        "start": 8133,
+        "text": "Мы ведь целовались...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice01/01-00/01-00-B03/01-00-B03-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 8133
+    }
+]

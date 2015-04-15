@@ -1,0 +1,86 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 12000,
+        "file": "BGM/SD_BGM/sdbgm01",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event04/04-KB/04-KB-B06/04-KB-B06-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Просто грудь у тебя большая такая...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice04/04-KB/04-KB-B06/04-KB-B06-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Котоноха",
+        "start": 2250,
+        "text": "Э?!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice04/04-KB/04-KB-B06/04-KB-B06-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 2250
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event04/04-KB/04-KB-B06/04-KB-B06-002",
+        "start": 2266
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 3283,
+        "text": "Вот бы и сейчас, как на фестивале...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice04/04-KB/04-KB-B06/04-KB-B06-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 3283
+    },
+    {
+        "action": "PlayMovie",
+        "end": 12000,
+        "file": "Movie04/04-KA/04-KB-B06/04-KB-B06-003",
+        "start": 7083
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Котоноха",
+        "start": 11000,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice04/04-KB/04-KB-B06/04-KB-B06-0070",
+        "layer": 0,
+        "persona": "kot",
+        "start": 11000
+    }
+]

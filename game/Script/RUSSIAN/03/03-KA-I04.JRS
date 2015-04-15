@@ -1,0 +1,165 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 18000,
+        "file": "BGM/SD_BGM/sdbgm03",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 18000,
+        "file": "Se03/03-KA/03-KA-I04/SE03-KA-I04-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event03/03-KA/03-KA-I04/03-KA-I04-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-KA/03-KA-I04/03-KA-I04-0030",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Котоноха",
+        "start": 1200,
+        "text": "Макото...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice03/03-KA/03-KA-I04/03-KA-I04-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 1200
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Сэцуна",
+        "start": 2350,
+        "text": "Ито?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice03/03-KA/03-KA-I04/03-KA-I04-0050",
+        "layer": 0,
+        "persona": "set",
+        "start": 2350
+    },
+    {
+        "action": "CreateBG",
+        "end": 12000,
+        "file": "Event03/03-KA/03-KA-I04/03-KA-I04-002",
+        "start": 3383
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Макото",
+        "start": 4000,
+        "text": "Что же делать?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice03/03-KA/03-KA-I04/03-KA-I04-0060",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 4000
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Учитель",
+        "start": 7383,
+        "text": "Эй! Кто-нибудь из девятых классов, нужно с мебелью помочь!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice03/03-KA/03-KA-I04/03-KA-I04-0070",
+        "layer": 0,
+        "persona": "jin",
+        "start": 7383
+    },
+    {
+        "action": "CreateBG",
+        "end": 13000,
+        "file": "Event03/03-KA/03-KA-I04/03-KA-I04-004",
+        "start": 12016
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Макото",
+        "start": 12016,
+        "text": "Да, я сейчас!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice03/03-KA/03-KA-I04/03-KA-I04-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 12016
+    },
+    {
+        "action": "CreateBG",
+        "end": 18000,
+        "file": "Event03/03-KA/03-KA-I04/03-KA-I04-004",
+        "start": 13366
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Котоноха",
+        "start": 14016,
+        "text": "А...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice03/03-KA/03-KA-I04/03-KA-I04-0100",
+        "layer": 0,
+        "persona": "kot",
+        "start": 14016
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Сэцуна",
+        "start": 15016,
+        "text": "Бу... Убежал.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice03/03-KA/03-KA-I04/03-KA-I04-0110",
+        "layer": 0,
+        "persona": "set",
+        "start": 15016
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 18000,
+        "start": 17250
+    }
+]

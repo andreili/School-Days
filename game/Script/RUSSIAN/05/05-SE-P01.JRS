@@ -1,0 +1,81 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 10000,
+        "file": "SysSe/SE_all/gaya/kyousitu_rouka",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event05/05-SE/05-SE-C08/05-SE-C08-003",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice05/05-SE/05-SE-P01/05-SE-P01-0030",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Сэкаи",
+        "start": 1200,
+        "text": "Макото...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice05/05-SE/05-SE-P01/05-SE-P01-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 1200
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Макото",
+        "start": 3066,
+        "text": "Ничего-ничего.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice05/05-SE/05-SE-P01/05-SE-P01-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 3066
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Сэкаи",
+        "start": 8100,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice05/05-SE/05-SE-P01/05-SE-P01-0060",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 8100
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 10000,
+        "start": 9166
+    }
+]

@@ -1,0 +1,164 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 31000,
+        "file": "SysSe/SE_all/gaya/syoutengai",
+        "layer": 2,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event04/04-SA/04-SA-J00/04-SA-J00-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 0,
+        "persona": "Макото",
+        "start": 100,
+        "text": "А.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 0,
+        "file": "Voice04/04-SA/04-SA-J00/04-SA-J00-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 100
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Макото",
+        "start": 333,
+        "text": "Надо же Итару подарок купить!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice04/04-SA/04-SA-J00/04-SA-J00-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 333
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 5000,
+        "start": 4266
+    },
+    {
+        "action": "PlaySe",
+        "end": 6000,
+        "file": "SysSe/SE_all/other/register",
+        "layer": 1,
+        "start": 5083
+    },
+    {
+        "action": "CreateBG",
+        "end": 8000,
+        "file": "Event04/04-SA/04-SA-J00/04-SA-J00-002",
+        "start": 5083
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Продавец",
+        "start": 6166,
+        "text": "Спасибо за покупку!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice04/04-SA/04-SA-J00/04-SA-J00-0060",
+        "layer": 0,
+        "persona": "ten",
+        "start": 6166
+    },
+    {
+        "action": "CreateBG",
+        "end": 18000,
+        "file": "Event04/04-SA/04-SA-J00/04-SA-J00-003B",
+        "start": 8000
+    },
+    {
+        "action": "BlackFade",
+        "dir": "IN",
+        "end": 8000,
+        "start": 8000
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Макото",
+        "start": 9033,
+        "text": "Ну и цены...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice04/04-SA/04-SA-J00/04-SA-J00-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 9033
+    },
+    {
+        "action": "PrintText",
+        "end": 18000,
+        "persona": "Макото",
+        "start": 11033,
+        "text": "Так... Осталось... 2000 йен.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 18000,
+        "file": "Voice04/04-SA/04-SA-J00/04-SA-J00-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 11033
+    },
+    {
+        "action": "CreateBG",
+        "end": 31000,
+        "file": "Event04/04-SA/04-SA-J00/04-SA-J00-004",
+        "start": 18050
+    },
+    {
+        "action": "PrintText",
+        "end": 22000,
+        "persona": "Макото",
+        "start": 18183,
+        "text": "Сколько там билет в бассейн стоит?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 22000,
+        "file": "Voice04/04-SA/04-SA-J00/04-SA-J00-0100",
+        "layer": 1,
+        "persona": "mak",
+        "start": 18183
+    },
+    {
+        "action": "PrintText",
+        "end": 25000,
+        "persona": "Макото",
+        "start": 22166,
+        "text": "Не хватало ещё, чтобы денег не хватило...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 25000,
+        "file": "Voice04/04-SA/04-SA-J00/04-SA-J00-0110",
+        "layer": 1,
+        "persona": "mak",
+        "start": 22166
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Проверить.",
+        "answer2": "NULL",
+        "end": 30000,
+        "start": 25366
+    }
+]

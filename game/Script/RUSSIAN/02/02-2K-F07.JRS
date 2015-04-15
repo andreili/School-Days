@@ -1,0 +1,51 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 2000,
+        "file": "Se01/01-00/01-00-E00/SE01-00-E00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event02/02-2K/02-2K-F07/02-2K-F07-001A",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 0,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Прости...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 0,
+        "file": "Voice02/02-2K/02-2K-F07/02-2K-F07-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event02/02-2K/02-2K-F07/02-2K-F07-001B",
+        "start": 1033
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Котоноха",
+        "start": 1116,
+        "text": "Ничего...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice02/02-2K/02-2K-F07/02-2K-F07-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 1116
+    }
+]

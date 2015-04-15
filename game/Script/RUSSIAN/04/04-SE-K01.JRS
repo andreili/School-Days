@@ -1,0 +1,179 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 10000,
+        "file": "BGM/SD_BGM/sdbgm19",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 6000,
+        "file": "Event04/04-SE/04-SE-K01/04-SE-K01-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Не понимаю...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice04/04-SE/04-SE-K01/04-SE-K01-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Котоноха",
+        "start": 1100,
+        "text": "Э?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice04/04-SE/04-SE-K01/04-SE-K01-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 1100
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Макото",
+        "start": 2066,
+        "text": "Мне уже... Собственных чувств не понять...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice04/04-SE/04-SE-K01/04-SE-K01-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2066
+    },
+    {
+        "action": "CreateBG",
+        "end": 14000,
+        "file": "Event04/04-SE/04-SE-K01/04-SE-K01-002",
+        "start": 6100
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Котоноха",
+        "start": 6116,
+        "text": "Ну, тогда со мной!..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice04/04-SE/04-SE-K01/04-SE-K01-0060",
+        "layer": 0,
+        "persona": "kot",
+        "start": 6116
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Макото",
+        "start": 8100,
+        "text": "Нет. Сейчас... Я не буду ни с кем встречаться.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice04/04-SE/04-SE-K01/04-SE-K01-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 8100
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Котоноха",
+        "start": 12350,
+        "text": "Но...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice04/04-SE/04-SE-K01/04-SE-K01-0080",
+        "layer": 0,
+        "persona": "kot",
+        "start": 12350
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Макото",
+        "start": 14100,
+        "text": "Надо успокоиться. И всё обдумать.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice04/04-SE/04-SE-K01/04-SE-K01-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 14100
+    },
+    {
+        "action": "EndBGM",
+        "end": 144000,
+        "file": "BGM/Vocal/SDV04",
+        "start": 14100
+    },
+    {
+        "action": "CreateBG",
+        "end": 16000,
+        "file": "Event04/04-SE/04-SE-K01/04-SE-K01-003",
+        "start": 14116
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Котоноха",
+        "start": 16133,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice04/04-SE/04-SE-K01/04-SE-K01-0100",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 16133
+    },
+    {
+        "action": "CreateBG",
+        "end": 21000,
+        "file": "Event04/04-SE/04-SE-K01/04-SE-K01-001",
+        "start": 16166
+    },
+    {
+        "action": "PrintText",
+        "end": 19000,
+        "persona": "Сэкаи",
+        "start": 17166,
+        "text": "Макото...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 19000,
+        "file": "Voice04/04-SE/04-SE-K01/04-SE-K01-0110",
+        "layer": 0,
+        "persona": "sek",
+        "start": 17166
+    },
+    {
+        "action": "EndRoll",
+        "end": 146000,
+        "file": "Movie04/ENDROLL/05-22",
+        "start": 21166
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 6000,
+        "file": "SysSe/SE_all/gaya/kyousitu_rouka",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 6000,
+        "file": "Event05/05-5O/05-5O-F04/05-5O-F04-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Макото",
+        "start": 1033,
+        "text": "И идти никуда не хочется...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice05/05-5O/05-5O-F04/05-5O-F04-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 1033
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Макото",
+        "start": 4266,
+        "text": "Эх...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice05/05-5O/05-5O-F04/05-5O-F04-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 4266
+    }
+]

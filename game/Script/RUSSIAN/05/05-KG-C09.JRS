@@ -1,0 +1,101 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 18000,
+        "file": "BGM/SD_BGM/sdbgm06",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event05/05-KG/05-KG-C09/05-KG-C09-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Котоноха",
+        "start": 0,
+        "text": "П-привет...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice05/05-KG/05-KG-C09/05-KG-C09-0030",
+        "layer": 0,
+        "persona": "kot",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Макото",
+        "start": 2016,
+        "text": "Что-то не так?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice05/05-KG/05-KG-C09/05-KG-C09-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2016
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Котоноха",
+        "start": 4000,
+        "text": "Я тут просто... Пришла вас пригласить...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice05/05-KG/05-KG-C09/05-KG-C09-0050",
+        "layer": 0,
+        "persona": "kot",
+        "start": 4000
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event05/05-KG/05-KG-C09/05-KG-C09-002",
+        "start": 5166
+    },
+    {
+        "action": "CreateBG",
+        "end": 18000,
+        "file": "Event05/05-KG/05-KG-C09/05-KG-C09-003",
+        "start": 10133
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Сэкаи",
+        "start": 10133,
+        "text": "Э?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice05/05-KG/05-KG-C09/05-KG-C09-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 10133
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Котоноха",
+        "start": 11200,
+        "text": "Может, вы не будете против вновь, как и прежде, втроём пообедать...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice05/05-KG/05-KG-C09/05-KG-C09-0070",
+        "layer": 0,
+        "persona": "kot",
+        "start": 11200
+    }
+]

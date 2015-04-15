@@ -1,0 +1,102 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 17000,
+        "file": "BGM/SD_BGM/sdbgm01",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 3000,
+        "file": "Se01/01-00/01-00-Q01/SE01-00-Q01-005",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 17000,
+        "file": "Se01/01-00/01-00-L00/SE01-00-L00-001",
+        "layer": 3,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event01/01-00/01-00-Q02/01-00-Q02-001",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 17000,
+        "file": "Se01/01-00/01-00-Q01/SE01-00-Q01-007",
+        "layer": 2,
+        "start": 2116
+    },
+    {
+        "action": "PlayMovie",
+        "end": 8000,
+        "file": "Movie01/01-00/01-00-Q02/01-00-Q02-002",
+        "start": 3016
+    },
+    {
+        "action": "PlayMovie",
+        "end": 12000,
+        "file": "Movie01/01-00/01-00-Q02/01-00-Q02-003",
+        "start": 8050
+    },
+    {
+        "action": "PlayMovie",
+        "end": 15000,
+        "file": "Movie01/01-00/01-00-Q02/01-00-Q02-004",
+        "start": 12083
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Котоноха",
+        "start": 12283,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice01/01-00/01-00-Q02/01-00-Q02-0040",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 12283
+    },
+    {
+        "action": "PlaySe",
+        "end": 17000,
+        "file": "Se01/01-00/01-00-Q00/SE01-00-Q00-002",
+        "layer": 4,
+        "start": 15016
+    },
+    {
+        "action": "PlayMovie",
+        "end": 17000,
+        "file": "Movie01/01-00/01-00-Q02/01-00-Q02-005",
+        "start": 15016
+    },
+    {
+        "action": "PrintText",
+        "end": 15000,
+        "persona": "Макото",
+        "start": 15050,
+        "text": "А...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 15000,
+        "file": "Voice01/01-00/01-00-Q02/01-00-Q02-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 15050
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 17000,
+        "start": 16150
+    }
+]

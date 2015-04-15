@@ -1,0 +1,138 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 18000,
+        "file": "BGM/SD_BGM/sdbgm20",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 18000,
+        "file": "Se03/03-BK/03-BK-D03/SE03-BK-D03-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 8000,
+        "file": "Event03/03-BK/03-BK-D03/03-BK-D03-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Ну что ж, поздравляю.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-BK/03-BK-D03/03-BK-D03-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Таисукэ",
+        "start": 366,
+        "text": "Ой, да перестань! Мне даже неловко...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice03/03-BK/03-BK-D03/03-BK-D03-0040",
+        "layer": 1,
+        "persona": "tai",
+        "start": 366
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Макото",
+        "start": 4183,
+        "text": "Я думаю, из вас получится прекрасная пара.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice03/03-BK/03-BK-D03/03-BK-D03-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 4183
+    },
+    {
+        "action": "CreateBG",
+        "end": 18000,
+        "file": "Event03/03-BK/03-BK-D03/03-BK-D03-002",
+        "start": 8383
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Таисукэ",
+        "start": 8383,
+        "text": "Да? Мы, в общем-то, поэтому и решили встречаться. Правда?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice03/03-BK/03-BK-D03/03-BK-D03-0060",
+        "layer": 1,
+        "persona": "tai",
+        "start": 8383
+    },
+    {
+        "action": "PrintText",
+        "end": 15000,
+        "persona": "Сэкаи",
+        "start": 13366,
+        "text": "Ага...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 15000,
+        "file": "Voice03/03-BK/03-BK-D03/03-BK-D03-0070",
+        "layer": 0,
+        "persona": "sek",
+        "start": 13366
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Макото",
+        "start": 15116,
+        "text": "Понятно.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice03/03-BK/03-BK-D03/03-BK-D03-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 15116
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Сэкаи",
+        "start": 16250,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice03/03-BK/03-BK-D03/03-BK-D03-0090",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 16250
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 18000,
+        "start": 17200
+    }
+]

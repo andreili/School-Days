@@ -1,0 +1,159 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 18000,
+        "file": "BGM/SD_BGM/sdbgm06",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 18000,
+        "file": "Se01/01-00/01-00-B00/SE01-00-B00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event02/02-2S/02-2S-C01/02-2S-C01-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Всё рассказать!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice02/02-2S/02-2S-C01/02-2S-C01-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Сэкаи",
+        "start": 2133,
+        "text": "Да, я тоже так думаю.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice02/02-2S/02-2S-C01/02-2S-C01-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 2133
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Макото",
+        "start": 3133,
+        "text": "Котоноха наверняка расстроится, но мы не можем её так обманывать.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice02/02-2S/02-2S-C01/02-2S-C01-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 3133
+    },
+    {
+        "action": "CreateBG",
+        "end": 8000,
+        "file": "Event02/02-2S/02-2S-C01/02-2S-C01-002",
+        "start": 5266
+    },
+    {
+        "action": "CreateBG",
+        "end": 15000,
+        "file": "Event02/02-2S/02-2S-C01/02-2S-C01-003",
+        "start": 8200
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Сэкаи",
+        "start": 8200,
+        "text": "Мы вместе всё расскажем!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice02/02-2S/02-2S-C01/02-2S-C01-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 8200
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Макото",
+        "start": 10216,
+        "text": "Сэкаи.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice02/02-2S/02-2S-C01/02-2S-C01-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 10216
+    },
+    {
+        "action": "PrintText",
+        "end": 15000,
+        "persona": "Сэкаи",
+        "start": 11200,
+        "text": "Прости, я всю эту кашу заварила... Если бы я вас не познакомила...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 15000,
+        "file": "Voice02/02-2S/02-2S-C01/02-2S-C01-0080",
+        "layer": 0,
+        "persona": "sek",
+        "start": 11200
+    },
+    {
+        "action": "CreateBG",
+        "end": 18000,
+        "file": "Event01/01-00/01-00-D00/01-00-D00-008",
+        "start": 15333
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Макото",
+        "start": 15333,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice02/02-2S/02-2S-C01/02-2S-C01-0090",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 15333
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Сэкаи",
+        "start": 16383,
+        "text": "Ты согласен?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice02/02-2S/02-2S-C01/02-2S-C01-0100",
+        "layer": 0,
+        "persona": "sek",
+        "start": 16383
+    }
+]

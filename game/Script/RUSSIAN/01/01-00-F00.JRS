@@ -1,0 +1,101 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 14000,
+        "file": "Se01/01-00/01-00-B00/SE01-00-B00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event01/01-00/01-00-F00/01-00-F00-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event01/01-00/01-00-F00/01-00-F00-002",
+        "start": 2100
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Сэкаи",
+        "start": 2150,
+        "text": "Привет!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice01/01-00/01-00-F00/01-00-F00-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 2150
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Макото",
+        "start": 3166,
+        "text": "Привет...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice01/01-00/01-00-F00/01-00-F00-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 3166
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Сэкаи",
+        "start": 4133,
+        "text": "Ну, как прошёл романтический обед-на-двоих?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice01/01-00/01-00-F00/01-00-F00-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 4133
+    },
+    {
+        "action": "CreateBG",
+        "end": 14000,
+        "file": "Event01/01-00/01-00-F00/01-00-F00-003",
+        "start": 7333
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Макото",
+        "start": 8000,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice01/01-00/01-00-F00/01-00-F00-0070",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 8000
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Макото",
+        "start": 8200,
+        "text": "Это было^"
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Всё было классно!^",
+        "answer2": "Завтра ты тоже приходи!^",
+        "end": 13000,
+        "start": 8200
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 11000,
+        "file": "BGM/SD_BGM/sdbgm21",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 6000,
+        "file": "Event05/05-SA/05-SA-H04/05-SA-H04-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 150,
+        "text": "Я люблю Сэкаи!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice05/05-SA/05-SA-H04/05-SA-H04-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 150
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Котоноха",
+        "start": 2150,
+        "text": "А...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice05/05-SA/05-SA-H04/05-SA-H04-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 2150
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Макото",
+        "start": 4333,
+        "text": "Прости...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice05/05-SA/05-SA-H04/05-SA-H04-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 4333
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event05/05-SA/05-SA-H04/05-SA-H04-002",
+        "start": 6316
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Котоноха",
+        "start": 7066,
+        "text": "Почему?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice05/05-SA/05-SA-H04/05-SA-H04-0060",
+        "layer": 0,
+        "persona": "kot",
+        "start": 7066
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Макото",
+        "start": 8166,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice05/05-SA/05-SA-H04/05-SA-H04-0070",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 8166
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 11000,
+        "start": 11116
+    }
+]

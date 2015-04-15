@@ -1,0 +1,160 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 25000,
+        "file": "BGM/SD_BGM/sdbgm03",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 25000,
+        "file": "Se01/01-00/01-00-E00/SE01-00-E00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 4000,
+        "file": "Event02/02-2S/02-2S-H01/02-2S-H01-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Ничего не говорить?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice02/02-2S/02-2S-H01/02-2S-H01-0030",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 3383,
+        "text": "Зачем портить ей настроение?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice02/02-2S/02-2S-H01/02-2S-H01-0040",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 3383
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event02/02-2S/02-2S-H01/02-2S-H01-002",
+        "start": 4266
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Котоноха",
+        "start": 7366,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice02/02-2S/02-2S-H01/02-2S-H01-0050",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 7366
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Макото",
+        "start": 8333,
+        "text": "Что?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice02/02-2S/02-2S-H01/02-2S-H01-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 8333
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Котоноха",
+        "start": 10316,
+        "text": "Ничего...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice02/02-2S/02-2S-H01/02-2S-H01-0080",
+        "layer": 0,
+        "persona": "kot",
+        "start": 10316
+    },
+    {
+        "action": "PrintText",
+        "end": 15000,
+        "persona": "Макото",
+        "start": 11250,
+        "text": "Чёрт... Может, она до сих пор сердится...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 15000,
+        "file": "Voice02/02-2S/02-2S-H01/02-2S-H01-0090",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 11250
+    },
+    {
+        "action": "CreateBG",
+        "end": 25000,
+        "file": "Event01/01-00/01-00-E00/01-00-E00-006",
+        "start": 11266
+    },
+    {
+        "action": "PrintText",
+        "end": 18000,
+        "persona": "Макото",
+        "start": 15050,
+        "text": "Или она уже про нас с Сэкаи догадалась?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 18000,
+        "file": "Voice02/02-2S/02-2S-H01/02-2S-H01-0100",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 15050
+    },
+    {
+        "action": "PrintText",
+        "end": 21000,
+        "persona": "Макото",
+        "start": 19183,
+        "text": "Надо что-то сказать...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 21000,
+        "file": "Voice02/02-2S/02-2S-H01/02-2S-H01-0110",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 19183
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Лимонад очень вкусный.",
+        "answer2": "Нам надо поговорить...^",
+        "end": 24000,
+        "start": 19183
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 4000,
+        "file": "BGM/SD_BGM/sdbgm07",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 4000,
+        "file": "Se03/03-SB/03-SB-C02/SE03-SB-C02-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 1000,
+        "file": "Movie03/03-SB/03-SB-C02/03-SB-C02-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Котоноха",
+        "start": 0,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-SB/03-SB-C02/03-SB-C02-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event03/03-SB/03-SB-C02/03-SB-C02-003",
+        "start": 1266
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 1266,
+        "text": "Угу.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice03/03-SB/03-SB-C02/03-SB-C02-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 1266
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Котоноха",
+        "start": 2100,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice03/03-SB/03-SB-C02/03-SB-C02-0060",
+        "layer": 0,
+        "persona": "kot",
+        "start": 2100
+    },
+    {
+        "action": "CreateBG",
+        "end": 4000,
+        "file": "Event03/03-SB/03-SB-C02/03-SB-C03-001",
+        "start": 2133
+    }
+]

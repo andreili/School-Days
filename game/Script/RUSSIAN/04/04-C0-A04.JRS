@@ -1,0 +1,156 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 14000,
+        "file": "BGM/SD_BGM/sdbgm20",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 17000,
+        "file": "Se04/04-C0/04-C0-A04/SE04-C0-A04-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event04/04-C0/04-C0-A04/04-C0-A04-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Я люблю Сэкаи.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice04/04-C0/04-C0-A04/04-C0-A04-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Котоноха",
+        "start": 1283,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice04/04-C0/04-C0-A04/04-C0-A04-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 1283
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event04/04-C0/04-C0-A04/04-C0-A04-002",
+        "start": 3033
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Макото",
+        "start": 3033,
+        "text": "Прости... Я скрывал это от тебя, но... Мы с Сэкаи...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice04/04-C0/04-C0-A04/04-C0-A04-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 3033
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Котоноха",
+        "start": 8316,
+        "text": "Замолчи!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice04/04-C0/04-C0-A04/04-C0-A04-0060",
+        "layer": 0,
+        "persona": "kot",
+        "start": 8316
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Макото",
+        "start": 9333,
+        "text": "Котоноха...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice04/04-C0/04-C0-A04/04-C0-A04-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 9333
+    },
+    {
+        "action": "CreateBG",
+        "end": 12000,
+        "file": "Event04/04-C0/04-C0-A04/04-C0-A04-003",
+        "start": 11016
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Котоноха",
+        "start": 11033,
+        "text": "Ничего не хочу слышать! Совсем ничего!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice04/04-C0/04-C0-A04/04-C0-A04-0080",
+        "layer": 0,
+        "persona": "kot",
+        "start": 11033
+    },
+    {
+        "action": "CreateBG",
+        "end": 17000,
+        "file": "Event04/04-C0/04-C0-A04/04-C0-A04-004",
+        "start": 12250
+    },
+    {
+        "action": "EndBGM",
+        "end": 144000,
+        "file": "BGM/Vocal/SDV04",
+        "start": 13216
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Макото",
+        "start": 14033,
+        "text": "Прости меня...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice04/04-C0/04-C0-A04/04-C0-A04-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 14033
+    },
+    {
+        "action": "EndRoll",
+        "end": 146000,
+        "file": "Movie04/ENDROLL/05-1",
+        "start": 17100
+    }
+]

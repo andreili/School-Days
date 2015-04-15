@@ -1,0 +1,153 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 26000,
+        "file": "BGM/SD_BGM/sdbgm08",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event04/04-SA/04-SA-I05/04-SA-I05-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 83,
+        "text": "Погоди минутку, Итару.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice04/04-SA/04-SA-I05/04-SA-I05-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 83
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Итару",
+        "start": 2216,
+        "text": "Угу!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice04/04-SA/04-SA-I05/04-SA-I05-0040",
+        "layer": 0,
+        "persona": "ita",
+        "start": 2216
+    },
+    {
+        "action": "CreateBG",
+        "end": 16000,
+        "file": "Event04/04-SA/04-SA-I05/04-SA-I05-002",
+        "start": 3083
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Макото",
+        "start": 3216,
+        "text": "Слушаю.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice04/04-SA/04-SA-I05/04-SA-I05-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 3216
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Котоноха",
+        "start": 4083,
+        "text": "Это... Кацура.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice04/04-SA/04-SA-I05/04-SA-I05-0060",
+        "layer": 0,
+        "persona": "kot",
+        "start": 4083
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 6366,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice04/04-SA/04-SA-I05/04-SA-I05-0070",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 6366
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Котоноха",
+        "start": 7350,
+        "text": "Извини, что так поздно звоню. Не разбудила?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice04/04-SA/04-SA-I05/04-SA-I05-0080",
+        "layer": 0,
+        "persona": "kot",
+        "start": 7350
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Макото",
+        "start": 12266,
+        "text": "Рано ещё спать ложиться. Сижу в комнате своей, отдыхаю.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice04/04-SA/04-SA-I05/04-SA-I05-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 12266
+    },
+    {
+        "action": "CreateBG",
+        "end": 26000,
+        "file": "Event04/04-SA/04-SA-I05/04-SA-I05-003",
+        "start": 16350
+    },
+    {
+        "action": "PrintText",
+        "end": 19000,
+        "persona": "Котоноха",
+        "start": 17183,
+        "text": "Можешь сейчас говорить?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 19000,
+        "file": "Voice04/04-SA/04-SA-I05/04-SA-I05-0100",
+        "layer": 0,
+        "persona": "kot",
+        "start": 17183
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Могу.",
+        "answer2": "NULL",
+        "end": 24000,
+        "start": 19383
+    }
+]

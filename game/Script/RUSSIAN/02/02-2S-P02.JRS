@@ -1,0 +1,73 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 13000,
+        "file": "BGM/SD_BGM/sdbgm19",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 13000,
+        "file": "Se02/02-2K/02-2K-R00/SE02-2K-R00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 13000,
+        "file": "Event02/02-2S/02-2S-P02/02-2S-P02-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Котоноха...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice02/02-2S/02-2S-P02/02-2S-P02-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Сэкаи",
+        "start": 1183,
+        "text": "А...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice02/02-2S/02-2S-P02/02-2S-P02-0050",
+        "layer": 0,
+        "persona": "sek",
+        "start": 1183
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Макото",
+        "start": 2283,
+        "text": "Котоноха... Я...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice02/02-2S/02-2S-P02/02-2S-P02-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2283
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Я совсем запутался в своих чувствах...^",
+        "answer2": "Котоноха мне нравится, но я люблю тебя, Сэкаи!^",
+        "end": 13000,
+        "start": 8300
+    }
+]

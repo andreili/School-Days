@@ -1,0 +1,76 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 16000,
+        "file": "BGM/SD_BGM/sdbgm03",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 16000,
+        "file": "SysSe/SE_all/gaya/kyousitu_rouka",
+        "layer": 2,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 12000,
+        "file": "Event05/05-SA/05-SA-C01/05-SA-C01-001",
+        "start": 0
+    },
+    {
+        "action": "BlackFade",
+        "dir": "IN",
+        "end": 1000,
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 15000,
+        "file": "SysSe/SE_all/school/chime",
+        "layer": 1,
+        "start": 1333
+    },
+    {
+        "action": "CreateBG",
+        "end": 14000,
+        "file": "Event05/05-SA/05-SA-C01/05-SA-C01-002",
+        "start": 12100
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Сэкаи",
+        "start": 12133,
+        "text": "Ну пошли.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice05/05-SA/05-SA-C01/05-SA-C01-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 12133
+    },
+    {
+        "action": "CreateBG",
+        "end": 16000,
+        "file": "Event05/05-SA/05-SA-C01/05-SA-C01-003",
+        "start": 14050
+    },
+    {
+        "action": "PrintText",
+        "end": 15000,
+        "persona": "Макото",
+        "start": 14116,
+        "text": "Ага.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 15000,
+        "file": "Voice05/05-SA/05-SA-C01/05-SA-C01-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 14116
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 12000,
+        "file": "BGM/SD_BGM/sdbgm20",
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 2000,
+        "file": "Movie01/01-00/01-00-O02/01-00-O02-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Котоноха",
+        "start": 200,
+        "text": "Аллё?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice01/01-00/01-00-O02/01-00-O02-0050",
+        "layer": 0,
+        "persona": "kot",
+        "start": 200
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 1150,
+        "text": "Кацура?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice01/01-00/01-00-O02/01-00-O02-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 1150
+    },
+    {
+        "action": "CreateBG",
+        "end": 12000,
+        "file": "Event01/01-00/01-00-O02/01-00-O02-004",
+        "start": 2150
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Котоноха",
+        "start": 2150,
+        "text": "Да.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice01/01-00/01-00-O02/01-00-O02-0070",
+        "layer": 0,
+        "persona": "kot",
+        "start": 2150
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Макото",
+        "start": 3166,
+        "text": "Я... Это...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice01/01-00/01-00-O02/01-00-O02-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 3166
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Прости меня...^",
+        "answer2": "Сегодня ты что-то мне хотела сказать?^",
+        "end": 12000,
+        "start": 4000
+    }
+]

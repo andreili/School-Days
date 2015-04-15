@@ -1,0 +1,143 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 28000,
+        "file": "BGM/SD_BGM/sdbgm20",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event05/05-KB/05-KB-D03/05-KB-D03-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice05/05-KB/05-KB-D03/05-KB-D03-0030",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Мать Макото",
+        "start": 2266,
+        "text": "Чего молчишь? Не хотел, чтобы мама прознала?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice05/05-KB/05-KB-D03/05-KB-D03-0040",
+        "layer": 0,
+        "persona": "mkm",
+        "start": 2266
+    },
+    {
+        "action": "CreateBG",
+        "end": 18000,
+        "file": "Event05/05-KB/05-KB-D03/05-KB-D03-002",
+        "start": 7166
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Макото",
+        "start": 7166,
+        "text": "А... Ага... Вроде того...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice05/05-KB/05-KB-D03/05-KB-D03-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 7166
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Мать Макото",
+        "start": 11233,
+        "text": "Я её в гостинную пустила, иди туда.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice05/05-KB/05-KB-D03/05-KB-D03-0060",
+        "layer": 0,
+        "persona": "mkm",
+        "start": 11233
+    },
+    {
+        "action": "PrintText",
+        "end": 18000,
+        "persona": "Макото",
+        "start": 14033,
+        "text": "Да нет, она скоро уже уйдёт.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 18000,
+        "file": "Voice05/05-KB/05-KB-D03/05-KB-D03-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 14033
+    },
+    {
+        "action": "CreateBG",
+        "end": 25000,
+        "file": "Event05/05-KB/05-KB-D03/05-KB-D03-003",
+        "start": 18016
+    },
+    {
+        "action": "PrintText",
+        "end": 25000,
+        "persona": "Мать Макото",
+        "start": 18050,
+        "text": "Я бы сказала вам не торопиться... но особо не засиживайтесь, чтобы и её родители не беспокоились.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 25000,
+        "file": "Voice05/05-KB/05-KB-D03/05-KB-D03-0080",
+        "layer": 0,
+        "persona": "mkm",
+        "start": 18050
+    },
+    {
+        "action": "CreateBG",
+        "end": 28000,
+        "file": "Event05/05-KB/05-KB-D03/05-KB-D03-004",
+        "start": 25316
+    },
+    {
+        "action": "PrintText",
+        "end": 27000,
+        "persona": "Макото",
+        "start": 25366,
+        "text": "Ага.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 27000,
+        "file": "Voice05/05-KB/05-KB-D03/05-KB-D03-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 25366
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 28000,
+        "start": 28000
+    }
+]

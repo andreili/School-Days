@@ -1,0 +1,138 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 12000,
+        "file": "BGM/SD_BGM/sdbgm19",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 12000,
+        "file": "SysSe/SE_all/station_train/train_in",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event04/04-KC/04-KC-H03/04-KC-H03-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Не могу... Не здесь же...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice04/04-KC/04-KC-H03/04-KC-H03-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Сэкаи",
+        "start": 3000,
+        "text": "А...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice04/04-KC/04-KC-H03/04-KC-H03-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 3000
+    },
+    {
+        "action": "PlayMovie",
+        "end": 7000,
+        "file": "Movie04/04-KC/04-KC-H03/04-KC-H03-002",
+        "start": 3200
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Сэкаи",
+        "start": 3200,
+        "text": "Ну да... Точно...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice04/04-KC/04-KC-H03/04-KC-H03-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 3200
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 6333,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice04/04-KC/04-KC-H03/04-KC-H03-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 6333
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Сэкаи",
+        "start": 7233,
+        "text": "Прости!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice04/04-KC/04-KC-H03/04-KC-H03-0090",
+        "layer": 0,
+        "persona": "sek",
+        "start": 7233
+    },
+    {
+        "action": "PlayMovie",
+        "end": 12000,
+        "file": "Movie04/04-KC/04-KC-H03/04-KC-H03-003",
+        "start": 7266
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Макото",
+        "start": 8300,
+        "text": "Да ничего...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice04/04-KC/04-KC-H03/04-KC-H03-0100",
+        "layer": 1,
+        "persona": "mak",
+        "start": 8300
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Сэкаи",
+        "start": 9283,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice04/04-KC/04-KC-H03/04-KC-H03-0110",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 9283
+    }
+]

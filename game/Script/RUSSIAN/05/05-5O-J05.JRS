@@ -1,0 +1,474 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 99000,
+        "file": "SysSe/SE_all/station_train/train_in",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 3000,
+        "file": "Movie03/03-BK/03-BK-B03/03-BK-B03-009",
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 12000,
+        "file": "Movie05/05-5O/05-5O-J05/05-5O-J05-009",
+        "start": 3033
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Хикари",
+        "start": 3066,
+        "text": "Слушай...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice05/05-5O/05-5O-J05/05-5O-J05-0050",
+        "layer": 0,
+        "persona": "hik",
+        "start": 3066
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Таисукэ",
+        "start": 4083,
+        "text": "Что?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice05/05-5O/05-5O-J05/05-5O-J05-0060",
+        "layer": 1,
+        "persona": "tai",
+        "start": 4083
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Хикари",
+        "start": 4383,
+        "text": "Ты ведь с Ито разговаривал по дороге?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice05/05-5O/05-5O-J05/05-5O-J05-0070",
+        "layer": 0,
+        "persona": "hik",
+        "start": 4383
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Таисукэ",
+        "start": 8133,
+        "text": "Ага.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice05/05-5O/05-5O-J05/05-5O-J05-0080",
+        "layer": 1,
+        "persona": "tai",
+        "start": 8133
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Хикари",
+        "start": 9050,
+        "text": "О чём?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice05/05-5O/05-5O-J05/05-5O-J05-0090",
+        "layer": 0,
+        "persona": "hik",
+        "start": 9050
+    },
+    {
+        "action": "PrintText",
+        "end": 15000,
+        "persona": "Таисукэ",
+        "start": 11033,
+        "text": "А. О том же, о чём и ты переживаешь...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 15000,
+        "file": "Voice05/05-5O/05-5O-J05/05-5O-J05-0100",
+        "layer": 1,
+        "persona": "tai",
+        "start": 11033
+    },
+    {
+        "action": "PlayMovie",
+        "end": 15000,
+        "file": "Movie03/03-BK/03-BK-B03/03-BK-B03-009",
+        "start": 12100
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Хикари",
+        "start": 15083,
+        "text": "О Сэкаи?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice05/05-5O/05-5O-J05/05-5O-J05-0110",
+        "layer": 0,
+        "persona": "hik",
+        "start": 15083
+    },
+    {
+        "action": "CreateBG",
+        "end": 24000,
+        "file": "Event05/05-5O/05-5O-J05/05-5O-J05-006",
+        "start": 15100
+    },
+    {
+        "action": "PrintText",
+        "end": 24000,
+        "persona": "Таисукэ",
+        "start": 16366,
+        "text": "И о ней, и о Кацуре тоже... Я-то обеих знаю... Вот и...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 24000,
+        "file": "Voice05/05-5O/05-5O-J05/05-5O-J05-0120",
+        "layer": 1,
+        "persona": "tai",
+        "start": 16366
+    },
+    {
+        "action": "CreateBG",
+        "end": 28000,
+        "file": "Event05/05-5O/05-5O-J05/05-5O-J05-007",
+        "start": 24200
+    },
+    {
+        "action": "PrintText",
+        "end": 27000,
+        "persona": "Хикари",
+        "start": 24216,
+        "text": "Ты знаком с Кацурой?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 27000,
+        "file": "Voice05/05-5O/05-5O-J05/05-5O-J05-0130",
+        "layer": 0,
+        "persona": "hik",
+        "start": 24216
+    },
+    {
+        "action": "PlayMovie",
+        "end": 47000,
+        "file": "Movie05/05-5O/05-5O-J05/05-5O-J05-008",
+        "start": 28016
+    },
+    {
+        "action": "PrintText",
+        "end": 38000,
+        "persona": "Таисукэ",
+        "start": 28033,
+        "text": "Мы с Макото вместе с ними в бассейн ходили... Впрочем, они-то обе на Макото целились... А я так... для массовки.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 38000,
+        "file": "Voice05/05-5O/05-5O-J05/05-5O-J05-0140",
+        "layer": 1,
+        "persona": "tai",
+        "start": 28033
+    },
+    {
+        "action": "PrintText",
+        "end": 39000,
+        "persona": "Хикари",
+        "start": 38066,
+        "text": "Изменщик.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 39000,
+        "file": "Voice05/05-5O/05-5O-J05/05-5O-J05-0150",
+        "layer": 0,
+        "persona": "hik",
+        "start": 38066
+    },
+    {
+        "action": "PrintText",
+        "end": 47000,
+        "persona": "Таисукэ",
+        "start": 39383,
+        "text": "Да нет же! Это ещё до того, как мы с тобой встречаться начали было! Да и сама подумай, не пошла бы Кацура со мной одним!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 47000,
+        "file": "Voice05/05-5O/05-5O-J05/05-5O-J05-0160",
+        "layer": 1,
+        "persona": "tai",
+        "start": 39383
+    },
+    {
+        "action": "PlayMovie",
+        "end": 56000,
+        "file": "Movie05/05-5O/05-5O-J05/05-5O-J05-009",
+        "start": 47233
+    },
+    {
+        "action": "PrintText",
+        "end": 48000,
+        "persona": "Хикари",
+        "start": 47233,
+        "text": "Кто ж вас знает...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 48000,
+        "file": "Voice05/05-5O/05-5O-J05/05-5O-J05-0170",
+        "layer": 0,
+        "persona": "hik",
+        "start": 47233
+    },
+    {
+        "action": "PrintText",
+        "end": 51000,
+        "persona": "Таисукэ",
+        "start": 48316,
+        "text": "Я серьёзно! Поверь мне!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 51000,
+        "file": "Voice05/05-5O/05-5O-J05/05-5O-J05-0180",
+        "layer": 1,
+        "persona": "tai",
+        "start": 48316
+    },
+    {
+        "action": "PrintText",
+        "end": 56000,
+        "persona": "Хикари",
+        "start": 51166,
+        "text": "Ладно... Но... Она вон какая красивая, да и фигурка что надо...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 56000,
+        "file": "Voice05/05-5O/05-5O-J05/05-5O-J05-0190",
+        "layer": 0,
+        "persona": "hik",
+        "start": 51166
+    },
+    {
+        "action": "CreateBG",
+        "end": 60000,
+        "file": "Event05/05-5O/05-5O-J05/05-5O-J05-012",
+        "start": 56233
+    },
+    {
+        "action": "PrintText",
+        "end": 60000,
+        "persona": "Таисукэ",
+        "start": 56266,
+        "text": "А грудь-то... Всех, кто в бассейне был, обескуражила.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 60000,
+        "file": "Voice05/05-5O/05-5O-J05/05-5O-J05-0200",
+        "layer": 1,
+        "persona": "tai",
+        "start": 56266
+    },
+    {
+        "action": "CreateBG",
+        "end": 64000,
+        "file": "Event05/05-5O/05-5O-J05/05-5O-J05-013",
+        "start": 60300
+    },
+    {
+        "action": "PrintText",
+        "end": 64000,
+        "persona": "Хикари",
+        "start": 60316,
+        "text": "Вот ведь!.. Изменщик!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 64000,
+        "file": "Voice05/05-5O/05-5O-J05/05-5O-J05-0210",
+        "layer": 0,
+        "persona": "hik",
+        "start": 60316
+    },
+    {
+        "action": "CreateBG",
+        "end": 68000,
+        "file": "Event05/05-5O/05-5O-J05/05-5O-J05-012",
+        "start": 64050
+    },
+    {
+        "action": "PrintText",
+        "end": 68000,
+        "persona": "Таисукэ",
+        "start": 64050,
+        "text": "Д-да нет же! Ты для меня лучшая! Кроме тебя мне никого не надо!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 68000,
+        "file": "Voice05/05-5O/05-5O-J05/05-5O-J05-0220",
+        "layer": 1,
+        "persona": "tai",
+        "start": 64050
+    },
+    {
+        "action": "CreateBG",
+        "end": 73000,
+        "file": "Event05/05-5O/05-5O-J05/05-5O-J05-015",
+        "start": 68133
+    },
+    {
+        "action": "PrintText",
+        "end": 72000,
+        "persona": "Хикари",
+        "start": 68150,
+        "text": "Вот что мне с тобой делать?.. Ладно, прощаю.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 72000,
+        "file": "Voice05/05-5O/05-5O-J05/05-5O-J05-0230",
+        "layer": 0,
+        "persona": "hik",
+        "start": 68150
+    },
+    {
+        "action": "PrintText",
+        "end": 72000,
+        "persona": "Таисукэ",
+        "start": 72100,
+        "text": "Уф...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 72000,
+        "file": "Voice05/05-5O/05-5O-J05/05-5O-J05-0240",
+        "layer": 1,
+        "persona": "tai",
+        "start": 72100
+    },
+    {
+        "action": "PlayMovie",
+        "end": 86000,
+        "file": "Movie05/05-5O/05-5O-J05/05-5O-J05-014",
+        "start": 73033
+    },
+    {
+        "action": "PrintText",
+        "end": 79000,
+        "persona": "Хикари",
+        "start": 73033,
+        "text": "Но... Что, интересно, Ито думает?.. Сейчас уже у Сэкаи, наверное?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 79000,
+        "file": "Voice05/05-5O/05-5O-J05/05-5O-J05-0250",
+        "layer": 0,
+        "persona": "hik",
+        "start": 73033
+    },
+    {
+        "action": "PrintText",
+        "end": 83000,
+        "persona": "Таисукэ",
+        "start": 79000,
+        "text": "Как услышал, что она его ждёт, так тут же умчался..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 83000,
+        "file": "Voice05/05-5O/05-5O-J05/05-5O-J05-0260",
+        "layer": 1,
+        "persona": "tai",
+        "start": 79000
+    },
+    {
+        "action": "PrintText",
+        "end": 86000,
+        "persona": "Хикари",
+        "start": 83216,
+        "text": "Угу... Вот и чёрт пойми, что думать...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 86000,
+        "file": "Voice05/05-5O/05-5O-J05/05-5O-J05-0270",
+        "layer": 0,
+        "persona": "hik",
+        "start": 83216
+    },
+    {
+        "action": "CreateBG",
+        "end": 95000,
+        "file": "Event05/05-5O/05-5O-J05/05-5O-J05-017",
+        "start": 86333
+    },
+    {
+        "action": "PrintText",
+        "end": 95000,
+        "persona": "Таисукэ",
+        "start": 86350,
+        "text": "Ну, кого бы он ни выбрал... Ту он значит и любит по-настоящему. Мы тут ему ничем ни помочь, ни сделать ничего не сможем.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 95000,
+        "file": "Voice05/05-5O/05-5O-J05/05-5O-J05-0280",
+        "layer": 1,
+        "persona": "tai",
+        "start": 86350
+    },
+    {
+        "action": "PrintText",
+        "end": 98000,
+        "persona": "Хикари",
+        "start": 95050,
+        "text": "Да уж...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 98000,
+        "file": "Voice05/05-5O/05-5O-J05/05-5O-J05-0290",
+        "layer": 0,
+        "persona": "hik",
+        "start": 95050
+    },
+    {
+        "action": "CreateBG",
+        "end": 99000,
+        "file": "Event05/05-5O/05-5O-J05/05-5O-J05-018",
+        "start": 95066
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 99000,
+        "start": 98033
+    }
+]

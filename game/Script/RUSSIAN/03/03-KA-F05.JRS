@@ -1,0 +1,156 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 33000,
+        "file": "BGM/SD_BGM/sdbgm33",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event03/03-KA/03-KA-F05/03-KA-F05-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "«Я хочу, чтобы мы...»^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice03/03-KA/03-KA-F05/03-KA-F05-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 13000,
+        "file": "Event03/03-KA/03-KA-F03/03-KA-F03-001",
+        "start": 3350
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Макото",
+        "start": 4200,
+        "text": "Наверное, не стоит писать в подробностях, чего именно я хочу, только испугаю её.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice03/03-KA/03-KA-F05/03-KA-F05-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 4200
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Макото",
+        "start": 10233,
+        "text": "«занялись любовью!»^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice03/03-KA/03-KA-F05/03-KA-F05-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 10233
+    },
+    {
+        "action": "PlayMovie",
+        "end": 16000,
+        "file": "Movie03/03-KA/03-KA-F05/03-KA-F05-003",
+        "start": 13333
+    },
+    {
+        "action": "PrintText",
+        "end": 15000,
+        "persona": "Макото",
+        "start": 13366,
+        "text": "«Отправить»^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 15000,
+        "file": "Voice03/03-KA/03-KA-F05/03-KA-F05-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 13366
+    },
+    {
+        "action": "CreateBG",
+        "end": 28000,
+        "file": "Event03/03-KA/03-KA-F05/03-KA-F05-004",
+        "start": 16333
+    },
+    {
+        "action": "PrintText",
+        "end": 20000,
+        "persona": "Макото",
+        "start": 17000,
+        "text": "Быть рядом с такой потрясающей девушкой^"
+    },
+    {
+        "action": "PrintText",
+        "end": 23000,
+        "persona": "Макото",
+        "start": 20000,
+        "text": "и не иметь возможности к ней прикоснуться, это просто пытка.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 23000,
+        "file": "Voice03/03-KA/03-KA-F05/03-KA-F05-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 17000
+    },
+    {
+        "action": "PrintText",
+        "end": 27000,
+        "persona": "Макото",
+        "start": 24283,
+        "text": "Стоит только представить её большую...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 27000,
+        "file": "Voice03/03-KA/03-KA-F05/03-KA-F05-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 24283
+    },
+    {
+        "action": "PlayMovie",
+        "end": 33000,
+        "file": "Movie03/03-KA/03-KA-F05/03-KA-F05-005",
+        "start": 28266
+    },
+    {
+        "action": "PrintText",
+        "end": 32000,
+        "persona": "Макото",
+        "start": 28266,
+        "text": "Блин, лучше пойду-ка я спать...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 32000,
+        "file": "Voice03/03-KA/03-KA-F05/03-KA-F05-0100",
+        "layer": 1,
+        "persona": "mak",
+        "start": 28266
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 33000,
+        "start": 32250
+    }
+]

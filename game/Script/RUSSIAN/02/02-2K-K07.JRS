@@ -1,0 +1,65 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 8000,
+        "file": "BGM/SD_BGM/sdbgm07",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 4000,
+        "file": "Event02/02-2K/02-2K-K04/02-2K-K04-003",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice02/02-2K/02-2K-K07/02-2K-K07-0030",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Котоноха",
+        "start": 3033,
+        "text": "Макото?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice02/02-2K/02-2K-K07/02-2K-K07-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 3033
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 4066,
+        "text": "Ничего, извини! Спокойной ночи.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice02/02-2K/02-2K-K07/02-2K-K07-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 4066
+    },
+    {
+        "action": "CreateBG",
+        "end": 8000,
+        "file": "Event02/02-2K/02-2K-K00/02-2K-K00-002",
+        "start": 4083
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 20000,
+        "file": "BGM/SD_BGM/sdbgm01",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 4000,
+        "file": "Se03/03-BK/03-BK-B00/SE03-BK-B00-002",
+        "layer": 2,
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 2000,
+        "file": "Movie03/03-BK/03-BK-B00/03-BK-B00-001",
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 4000,
+        "file": "Movie03/03-BK/03-BK-B04/03-BK-B04-005",
+        "start": 2000
+    },
+    {
+        "action": "PlaySe",
+        "end": 12000,
+        "file": "Se03/03-BK/03-BK-B00/SE03-BK-B00-001",
+        "layer": 1,
+        "start": 4000
+    },
+    {
+        "action": "PlayMovie",
+        "end": 12000,
+        "file": "Movie03/03-BK/03-BK-B00/03-BK-B00-003",
+        "start": 4000
+    },
+    {
+        "action": "CreateBG",
+        "end": 14000,
+        "file": "Event03/03-BK/03-BK-B00/03-BK-B00-004",
+        "start": 12200
+    },
+    {
+        "action": "PlaySe",
+        "end": 20000,
+        "file": "Se03/03-BK/03-BK-B00/SE03-BK-B00-002",
+        "layer": 2,
+        "start": 14183
+    },
+    {
+        "action": "CreateBG",
+        "end": 16000,
+        "file": "Event03/03-BK/03-BK-B00/03-BK-B00-005",
+        "start": 14183
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Котоноха",
+        "start": 14233,
+        "text": "Доброе утро!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice03/03-BK/03-BK-B00/03-BK-B00-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 14233
+    },
+    {
+        "action": "CreateBG",
+        "end": 17000,
+        "file": "Event03/03-BK/03-BK-B00/03-BK-B00-006",
+        "start": 16050
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Макото",
+        "start": 16066,
+        "text": "Привет!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice03/03-BK/03-BK-B00/03-BK-B00-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 16066
+    },
+    {
+        "action": "PlayMovie",
+        "end": 20000,
+        "file": "Movie03/03-BK/03-BK-B00/03-BK-B00-007",
+        "start": 17166
+    },
+    {
+        "action": "PrintText",
+        "end": 18000,
+        "persona": "Котоноха",
+        "start": 17200,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 18000,
+        "file": "Voice03/03-BK/03-BK-B00/03-BK-B00-0060",
+        "layer": 0,
+        "persona": "kot",
+        "start": 17200
+    },
+    {
+        "action": "PrintText",
+        "end": 19000,
+        "persona": "Макото",
+        "start": 18150,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 19000,
+        "file": "Voice03/03-BK/03-BK-B00/03-BK-B00-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 18150
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 20000,
+        "start": 19383
+    }
+]

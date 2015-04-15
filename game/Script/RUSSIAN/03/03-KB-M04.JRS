@@ -1,0 +1,42 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 11000,
+        "file": "BGM/SD_BGM/sdbgm28",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 11000,
+        "file": "Se03/03-KB/03-KB-M04/SE03-KB-M04-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 6000,
+        "file": "Event03/03-KB/03-KB-M04/03-KB-M04-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event03/03-KB/03-KB-M04/03-KB-M04-002",
+        "start": 6066
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Сэцуна",
+        "start": 6066,
+        "text": "Что бы они без меня делали...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice03/03-KB/03-KB-M04/03-KB-M04-0040",
+        "layer": 0,
+        "persona": "set",
+        "start": 6066
+    }
+]

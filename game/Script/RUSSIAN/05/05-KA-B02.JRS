@@ -1,0 +1,141 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 20000,
+        "file": "SysSe/SE_all/gaya/kyousitu_rouka",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event05/05-KA/05-KA-B02/05-KA-B02-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice05/05-KA/05-KA-B02/05-KA-B02-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Сэкаи",
+        "start": 2016,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice05/05-KA/05-KA-B02/05-KA-B02-0060",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 2016
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 3000,
+        "start": 2383
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event05/05-KA/05-KA-B02/05-KA-B02-002",
+        "start": 3183
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event05/05-KA/05-KA-B02/05-KA-B02-003",
+        "start": 5233
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Макото",
+        "start": 5233,
+        "text": "Пожевать бы чего...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice05/05-KA/05-KA-B02/05-KA-B02-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 5233
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event05/05-KA/05-KA-B02/05-KA-B02-004",
+        "start": 9283
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Сэкаи",
+        "start": 9283,
+        "text": "Макото.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice05/05-KA/05-KA-B02/05-KA-B02-0100",
+        "layer": 0,
+        "persona": "sek",
+        "start": 9283
+    },
+    {
+        "action": "CreateBG",
+        "end": 17000,
+        "file": "Event05/05-KA/05-KA-B02/05-KA-B02-005",
+        "start": 11016
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Макото",
+        "start": 11016,
+        "text": "А, Сэкаи. Где сегодня есть будем? Я не завтракал, голодный как волк.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice05/05-KA/05-KA-B02/05-KA-B02-0110",
+        "layer": 1,
+        "persona": "mak",
+        "start": 11016
+    },
+    {
+        "action": "CreateBG",
+        "end": 20000,
+        "file": "Event05/05-KA/05-KA-B02/05-KA-B02-006",
+        "start": 17350
+    },
+    {
+        "action": "PrintText",
+        "end": 19000,
+        "persona": "Сэкаи",
+        "start": 17350,
+        "text": "Разговор есть один к тебе...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 19000,
+        "file": "Voice05/05-KA/05-KA-B02/05-KA-B02-0130",
+        "layer": 0,
+        "persona": "sek",
+        "start": 17350
+    }
+]

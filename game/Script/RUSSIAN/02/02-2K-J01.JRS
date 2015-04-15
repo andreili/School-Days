@@ -1,0 +1,86 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 9000,
+        "file": "BGM/SD_BGM/sdbgm07",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 9000,
+        "file": "Se01/01-1K/01-1K-F00/SE01-1K-F00-001",
+        "layer": 2,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event02/02-2K/02-2K-D01/02-2K-D01-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "А почему ты сегодня так рано?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice02/02-2K/02-2K-J01/02-2K-J01-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Котоноха",
+        "start": 1266,
+        "text": "Я хотела с тобой вместе...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice02/02-2K/02-2K-J01/02-2K-J01-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 1266
+    },
+    {
+        "action": "PlaySe",
+        "end": 4000,
+        "file": "Voice02/02-2K/02-2K-J01/02-2K-J01-0050",
+        "layer": 1,
+        "start": 4050
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event02/02-2K/02-2K-J01/02-2K-J01-003",
+        "start": 5000
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Макото",
+        "start": 5000,
+        "text": "Понятно...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice02/02-2K/02-2K-J01/02-2K-J01-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 5000
+    },
+    {
+        "action": "PlaySe",
+        "end": 8000,
+        "file": "Voice02/02-2K/02-2K-J01/02-2K-J01-0070",
+        "layer": 1,
+        "start": 8033
+    }
+]

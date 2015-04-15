@@ -1,0 +1,162 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 24000,
+        "file": "BGM/SD_BGM/sdbgm01",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event04/04-KB/04-KB-B09/04-KB-B09-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Сэкаи",
+        "start": 0,
+        "text": "Со мной можешь и поделиться.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice04/04-KB/04-KB-B09/04-KB-B09-0030",
+        "layer": 0,
+        "persona": "sek",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Макото",
+        "start": 2266,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice04/04-KB/04-KB-B09/04-KB-B09-0040",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 2266
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Сэкаи",
+        "start": 3150,
+        "text": "Ты ведь сказал... Что поддержишь меня.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice04/04-KB/04-KB-B09/04-KB-B09-0050",
+        "layer": 0,
+        "persona": "sek",
+        "start": 3150
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Макото",
+        "start": 7133,
+        "text": "Ага.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice04/04-KB/04-KB-B09/04-KB-B09-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 7133
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Сэкаи",
+        "start": 8083,
+        "text": "А значит и я тебя не брошу.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice04/04-KB/04-KB-B09/04-KB-B09-0070",
+        "layer": 0,
+        "persona": "sek",
+        "start": 8083
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Макото",
+        "start": 11350,
+        "text": "Сэкаи...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice04/04-KB/04-KB-B09/04-KB-B09-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 11350
+    },
+    {
+        "action": "CreateBG",
+        "end": 24000,
+        "file": "Event04/04-KB/04-KB-B09/04-KB-B09-002",
+        "start": 11366
+    },
+    {
+        "action": "PrintText",
+        "end": 15000,
+        "persona": "Сэкаи",
+        "start": 13000,
+        "text": "Не зазнаюсь?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 15000,
+        "file": "Voice04/04-KB/04-KB-B09/04-KB-B09-0090",
+        "layer": 0,
+        "persona": "sek",
+        "start": 13000
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Макото",
+        "start": 15383,
+        "text": "Нет.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice04/04-KB/04-KB-B09/04-KB-B09-0100",
+        "layer": 1,
+        "persona": "mak",
+        "start": 15383
+    },
+    {
+        "action": "PrintText",
+        "end": 18000,
+        "persona": "Сэкаи",
+        "start": 16300,
+        "text": "Ну тогда рассказывай.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 18000,
+        "file": "Voice04/04-KB/04-KB-B09/04-KB-B09-0110",
+        "layer": 0,
+        "persona": "sek",
+        "start": 16300
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Поделиться.",
+        "answer2": "NULL",
+        "end": 23000,
+        "start": 18300
+    }
+]

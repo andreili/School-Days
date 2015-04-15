@@ -1,0 +1,94 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 11000,
+        "file": "BGM/SD_BGM/sdbgm06",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 11000,
+        "file": "Se03/03-KA/03-KA-G04/SE03-KA-G04-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event03/03-KA/03-KA-G04/03-KA-G04-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Сэцуна",
+        "start": 0,
+        "text": "Это Кацура?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-KA/03-KA-G04/03-KA-G04-0030",
+        "layer": 0,
+        "persona": "set",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 1066,
+        "text": "Э?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-KA/03-KA-G04/03-KA-G04-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 1066
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event03/03-KA/03-KA-G04/03-KA-G04-002A",
+        "start": 2033
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Сэцуна",
+        "start": 2083,
+        "text": "Это с ней ты договорился встретиться?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice03/03-KA/03-KA-G04/03-KA-G04-0050",
+        "layer": 0,
+        "persona": "set",
+        "start": 2083
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Макото",
+        "start": 3383,
+        "text": "М...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice03/03-KA/03-KA-G04/03-KA-G04-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 3383
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Нет!^",
+        "answer2": "NULL",
+        "end": 10000,
+        "start": 5066
+    }
+]

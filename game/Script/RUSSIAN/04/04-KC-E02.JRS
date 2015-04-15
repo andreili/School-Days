@@ -1,0 +1,122 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 32000,
+        "file": "BGM/SD_BGM/sdbgm19",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event04/04-KB/04-KB-E02/04-KB-E02-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event04/04-KB/04-KB-E02/04-KB-E02-002",
+        "start": 2100
+    },
+    {
+        "action": "PlayMovie",
+        "end": 10000,
+        "file": "Movie04/04-KB/04-KB-E02/04-KB-E02-003",
+        "start": 5100
+    },
+    {
+        "action": "CreateBG",
+        "end": 13000,
+        "file": "Event04/04-KB/04-KB-E02/04-KB-E02-005",
+        "start": 10300
+    },
+    {
+        "action": "CreateBG",
+        "end": 18000,
+        "file": "Event04/04-KB/04-KB-E02/04-KB-E02-006",
+        "start": 13116
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Сэкаи",
+        "start": 15050,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice04/04-KB/04-KB-E02/04-KB-E02-0040",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 15050
+    },
+    {
+        "action": "CreateBG",
+        "end": 21000,
+        "file": "Event04/04-KB/04-KB-E02/04-KB-E02-007",
+        "start": 18066
+    },
+    {
+        "action": "CreateBG",
+        "end": 40000,
+        "file": "Event04/04-KB/04-KB-E02/04-KB-E02-008",
+        "start": 21383
+    },
+    {
+        "action": "PrintText",
+        "end": 26000,
+        "persona": "Сэкаи",
+        "start": 25016,
+        "text": "Как я могу забыть?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 26000,
+        "file": "Voice04/04-KB/04-KB-E02/04-KB-E02-0080",
+        "layer": 0,
+        "persona": "sek",
+        "start": 25016
+    },
+    {
+        "action": "PrintText",
+        "end": 31000,
+        "persona": "Сэкаи",
+        "start": 27200,
+        "text": "Не говори... Что всё прошло...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 31000,
+        "file": "Voice04/04-KB/04-KB-E02/04-KB-E02-0090",
+        "layer": 0,
+        "persona": "sek",
+        "start": 27200
+    },
+    {
+        "action": "PrintText",
+        "end": 37000,
+        "persona": "Сэкаи",
+        "start": 32233,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 37000,
+        "file": "Voice04/04-KB/04-KB-E02/04-KB-E02-0100",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 32233
+    },
+    {
+        "action": "EndBGM",
+        "end": 163000,
+        "file": "BGM/Vocal/SDV04",
+        "start": 32250
+    },
+    {
+        "action": "EndRoll",
+        "end": 163000,
+        "file": "Movie04/ENDROLL/05-10",
+        "start": 40100
+    }
+]

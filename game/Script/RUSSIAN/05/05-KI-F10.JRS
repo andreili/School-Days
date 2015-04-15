@@ -1,0 +1,194 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 21000,
+        "file": "BGM/SD_BGM/sdbgm01",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 14000,
+        "file": "SysSe/SE_all/station_train/train_in",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event05/05-KB/05-KB-F10/05-KB-F10-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice05/05-KB/05-KB-F10/05-KB-F10-0030",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Нанами",
+        "start": 3216,
+        "text": "Э?! Стоп?! Ты это чего покраснел?!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice05/05-KB/05-KB-F10/05-KB-F10-0040",
+        "layer": 0,
+        "persona": "nan",
+        "start": 3216
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event05/05-KB/05-KB-F10/05-KB-F10-002",
+        "start": 3233
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Макото",
+        "start": 6100,
+        "text": "Н-н-ничего я не краснел!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice05/05-KB/05-KB-F10/05-KB-F10-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 6100
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Хикари",
+        "start": 9300,
+        "text": "Что, извращались вместе?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice05/05-KB/05-KB-F10/05-KB-F10-0070",
+        "layer": 0,
+        "persona": "hik",
+        "start": 9300
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event05/05-KB/05-KB-F10/05-KB-F10-003",
+        "start": 9316
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Макото",
+        "start": 11133,
+        "text": "Д-д-да нет же!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice05/05-KB/05-KB-F10/05-KB-F10-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 11133
+    },
+    {
+        "action": "PlayMovie",
+        "end": 21000,
+        "file": "Movie05/05-KB/05-KB-F10/05-KB-F10-004",
+        "start": 11150
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Нанами",
+        "start": 13000,
+        "text": "Ито!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice05/05-KB/05-KB-F10/05-KB-F10-0090",
+        "layer": 0,
+        "persona": "nan",
+        "start": 13000
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Макото",
+        "start": 13150,
+        "text": "Отвяньте!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice05/05-KB/05-KB-F10/05-KB-F10-0100",
+        "layer": 1,
+        "persona": "mak",
+        "start": 13150
+    },
+    {
+        "action": "PlaySe",
+        "end": 21000,
+        "file": "Se05/05-KB/05-KB-F10/SE05-KB-F10-001",
+        "layer": 2,
+        "start": 13366
+    },
+    {
+        "action": "PlayVoice",
+        "end": 18000,
+        "file": "Voice05/05-KB/05-KB-F10/05-KB-F10-0110",
+        "layer": -1,
+        "persona": "",
+        "start": 16233
+    },
+    {
+        "action": "PlaySe",
+        "end": 17000,
+        "file": "Se05/05-KB/05-KB-F10/SE05-KB-F10-002",
+        "layer": 3,
+        "start": 16350
+    },
+    {
+        "action": "PlaySe",
+        "end": 18000,
+        "file": "Se05/05-KB/05-KB-F10/SE05-KB-F10-003",
+        "layer": 1,
+        "start": 17383
+    },
+    {
+        "action": "PrintText",
+        "end": 21000,
+        "persona": "Котоноха",
+        "start": 19166,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 21000,
+        "file": "Voice05/05-KB/05-KB-F10/05-KB-F10-0120",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 19166
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 21000,
+        "start": 21100
+    }
+]

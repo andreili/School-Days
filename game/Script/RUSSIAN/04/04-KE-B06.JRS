@@ -1,0 +1,96 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 8000,
+        "file": "BGM/SD_BGM/sdbgm20",
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 1000,
+        "file": "Movie04/04-KE/04-KE-B06/04-KE-B06-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice04/04-KE/04-KE-B06/04-KE-B06-0030",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event04/04-KE/04-KE-B06/04-KE-B06-002",
+        "start": 1100
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event04/04-KE/04-KE-B06/04-KE-B06-003",
+        "start": 2216
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Котоноха",
+        "start": 3216,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice04/04-KE/04-KE-B06/04-KE-B06-0050",
+        "layer": 0,
+        "persona": "kot",
+        "start": 3216
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event04/04-KE/04-KE-B06/04-KE-B06-004",
+        "start": 3266
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Макото",
+        "start": 4333,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice04/04-KE/04-KE-B06/04-KE-B06-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 4333
+    },
+    {
+        "action": "CreateBG",
+        "end": 6000,
+        "file": "Event04/04-KE/04-KE-B06/04-KE-B06-005",
+        "start": 5066
+    },
+    {
+        "action": "PlaySe",
+        "end": 8000,
+        "file": "SysSe/SE_all/h/h_02",
+        "layer": 1,
+        "start": 6116
+    },
+    {
+        "action": "PlayMovie",
+        "end": 8000,
+        "file": "Movie04/04-KE/04-KE-B06/H4-KE-B06-006",
+        "start": 6116
+    }
+]

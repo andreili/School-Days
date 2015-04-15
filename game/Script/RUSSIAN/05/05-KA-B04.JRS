@@ -1,0 +1,69 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 7000,
+        "file": "BGM/SD_BGM/sdbgm19",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 7000,
+        "file": "SysSe/SE_all/gaya/kyousitu_rouka",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event05/05-KA/05-KA-B04/05-KA-B04-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event05/05-KA/05-KA-B04/05-KA-B04-002",
+        "start": 1033
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 1150,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice05/05-KA/05-KA-B04/05-KA-B04-0040",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 1150
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event05/05-KA/05-KA-B04/05-KA-B04-003",
+        "start": 3300
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Макото",
+        "start": 4300,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice05/05-KA/05-KA-B04/05-KA-B04-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 4300
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 7000,
+        "start": 6083
+    }
+]

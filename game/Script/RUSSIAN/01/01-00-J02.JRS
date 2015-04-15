@@ -1,0 +1,171 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 21000,
+        "file": "BGM/SD_BGM/sdbgm07",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 21000,
+        "file": "Se01/01-00/01-00-B00/SE01-00-B00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event01/01-00/01-00-J02/01-00-J02-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 0,
+        "persona": "Макото",
+        "start": 100,
+        "text": "Прости!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 0,
+        "file": "Voice01/01-00/01-00-J02/01-00-J02-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 100
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Котоноха",
+        "start": 333,
+        "text": "А?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice01/01-00/01-00-J02/01-00-J02-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 333
+    },
+    {
+        "action": "CreateBG",
+        "end": 4000,
+        "file": "Event01/01-00/01-00-J02/01-00-J02-002",
+        "start": 1333
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Макото",
+        "start": 1366,
+        "text": "Прости меня, я виноват!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice01/01-00/01-00-J02/01-00-J02-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 1366
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event01/01-00/01-00-J02/01-00-J02-003",
+        "start": 4233
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Котоноха",
+        "start": 4316,
+        "text": "Я не понимаю...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice01/01-00/01-00-J02/01-00-J02-0060",
+        "layer": 0,
+        "persona": "kot",
+        "start": 4316
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Макото",
+        "start": 7083,
+        "text": "Извини, что задержал, и... спасибо!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice01/01-00/01-00-J02/01-00-J02-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 7083
+    },
+    {
+        "action": "CreateBG",
+        "end": 17000,
+        "file": "Event01/01-00/01-00-J00/01-00-J00-009",
+        "start": 11150
+    },
+    {
+        "action": "PrintText",
+        "end": 15000,
+        "persona": "Котоноха",
+        "start": 11150,
+        "text": "Ито, подожди! Что это значит?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 15000,
+        "file": "Voice01/01-00/01-00-J02/01-00-J02-0080",
+        "layer": 0,
+        "persona": "kot",
+        "start": 11150
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Макото",
+        "start": 15266,
+        "text": "Пока!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice01/01-00/01-00-J02/01-00-J02-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 15266
+    },
+    {
+        "action": "CreateBG",
+        "end": 21000,
+        "file": "Event01/01-00/01-00-J02/01-00-J02-005",
+        "start": 17150
+    },
+    {
+        "action": "PrintText",
+        "end": 18000,
+        "persona": "Котоноха",
+        "start": 17216,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 18000,
+        "file": "Voice01/01-00/01-00-J02/01-00-J02-0110",
+        "layer": 0,
+        "persona": "kot",
+        "start": 17216
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 21000,
+        "start": 20183
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 15000,
+        "file": "SysSe/SE_all/gaya/kyousitu_rouka",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event05/05-SA/05-SA-D00/05-SA-D00-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Что, из школы выходить придётся?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice05/05-SA/05-SA-D00/05-SA-D00-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 4000,
+        "file": "Event05/05-SA/05-SA-D00/05-SA-D00-002",
+        "start": 1000
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event05/05-SA/05-SA-D00/05-SA-D00-003",
+        "start": 4116
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Сэкаи",
+        "start": 4116,
+        "text": "Цыц! Никто ничего не заподозрит, если притворимся, что до магазина пошли.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice05/05-SA/05-SA-D00/05-SA-D00-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 4116
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Макото",
+        "start": 9350,
+        "text": "А мы значит не туда?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice05/05-SA/05-SA-D00/05-SA-D00-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 9350
+    },
+    {
+        "action": "CreateBG",
+        "end": 15000,
+        "file": "Event05/05-SA/05-SA-D00/05-SA-D00-004",
+        "start": 9366
+    },
+    {
+        "action": "PrintText",
+        "end": 15000,
+        "persona": "Сэкаи",
+        "start": 14133,
+        "text": "Давай за мной.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 15000,
+        "file": "Voice05/05-SA/05-SA-D00/05-SA-D00-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 14133
+    }
+]

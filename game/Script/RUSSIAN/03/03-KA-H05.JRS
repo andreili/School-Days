@@ -1,0 +1,93 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 8000,
+        "file": "BGM/SD_BGM/sdbgm07",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 8000,
+        "file": "Se03/03-KA/03-KA-H05/SE03-KA-H05-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event03/03-KA/03-KA-H05/03-KA-H05-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Не твоё дело!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-KA/03-KA-H05/03-KA-H05-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Сэцуна",
+        "start": 1283,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice03/03-KA/03-KA-H05/03-KA-H05-0040",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 1283
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Макото",
+        "start": 2150,
+        "text": "Что-то не так?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice03/03-KA/03-KA-H05/03-KA-H05-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2150
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Сэцуна",
+        "start": 3383,
+        "text": "Нет, ничего...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice03/03-KA/03-KA-H05/03-KA-H05-0060",
+        "layer": 0,
+        "persona": "set",
+        "start": 3383
+    },
+    {
+        "action": "CreateBG",
+        "end": 8000,
+        "file": "Event03/03-KA/03-KA-H05/03-KA-H05-002",
+        "start": 5000
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 8000,
+        "start": 7283
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 14000,
+        "file": "BGM/SD_BGM/sdbgm01",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 14000,
+        "file": "Se03/03-A1/03-A1-B04/SE03-A1-B04-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 14000,
+        "file": "Se03/03-A1/03-A1-B04/SE03-A1-B04-002",
+        "layer": 2,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event03/03-A1/03-A1-B04/03-A1-B04-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 133,
+        "text": "Я же вижу!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-A1/03-A1-B04/03-A1-B04-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 133
+    },
+    {
+        "action": "CreateBG",
+        "end": 6000,
+        "file": "Event03/03-A1/03-A1-B04/03-A1-B04-002",
+        "start": 1100
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Котоноха",
+        "start": 1100,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice03/03-A1/03-A1-B04/03-A1-B04-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 1100
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Макото",
+        "start": 1383,
+        "text": "Ладно, ничего...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice03/03-A1/03-A1-B04/03-A1-B04-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 1383
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Котоноха",
+        "start": 4133,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice03/03-A1/03-A1-B04/03-A1-B04-0070",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 4133
+    },
+    {
+        "action": "CreateBG",
+        "end": 14000,
+        "file": "Event03/03-A1/03-A1-B04/03-A1-B04-003",
+        "start": 6200
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 6250,
+        "text": "Проехали...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice03/03-A1/03-A1-B04/03-A1-B04-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 6250
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Макото",
+        "start": 8100,
+        "text": "Поэтому...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice03/03-A1/03-A1-B04/03-A1-B04-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 8100
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Я не буду больше тебя трогать!^",
+        "answer2": "NULL",
+        "end": 13000,
+        "start": 8333
+    }
+]

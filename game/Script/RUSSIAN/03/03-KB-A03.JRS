@@ -1,0 +1,135 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 10000,
+        "file": "BGM/SD_BGM/sdbgm19",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 10000,
+        "file": "Se03/03-KB/03-KB-A03/SE03-KB-A03-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event03/03-KB/03-KB-A03/03-KB-A03-001A",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 183,
+        "text": "Как поживаешь?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-KB/03-KB-A03/03-KB-A03-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 183
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event03/03-KB/03-KB-A03/03-KB-A03-001B",
+        "start": 1150
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Котоноха",
+        "start": 1150,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-KB/03-KB-A03/03-KB-A03-0040",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 1150
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event03/03-KB/03-KB-A03/03-KB-A03-001C",
+        "start": 1350
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Макото",
+        "start": 1350,
+        "text": "Наверное, я и спрашивать права теперь не имею...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice03/03-KB/03-KB-A03/03-KB-A03-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 1350
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Котоноха",
+        "start": 5016,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice03/03-KB/03-KB-A03/03-KB-A03-0060",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 5016
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 6366,
+        "text": "Извини.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice03/03-KB/03-KB-A03/03-KB-A03-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 6366
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event03/03-KB/03-KB-A03/03-KB-A03-002A",
+        "start": 7300
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event03/03-KB/03-KB-A03/03-KB-A03-002B",
+        "start": 9016
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Котоноха",
+        "start": 9016,
+        "text": "А...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice03/03-KB/03-KB-A03/03-KB-A03-0090",
+        "layer": 0,
+        "persona": "kot",
+        "start": 9016
+    }
+]

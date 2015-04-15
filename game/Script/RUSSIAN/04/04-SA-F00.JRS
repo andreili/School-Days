@@ -1,0 +1,169 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 31000,
+        "file": "SysSe/SE_all/gaya/kyousitu_rouka",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event04/04-SA/04-SA-F00/04-SA-F00-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Сэкаи",
+        "start": 166,
+        "text": "Может, выберемся куда-нибудь на днях?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice04/04-SA/04-SA-F00/04-SA-F00-0030",
+        "layer": 0,
+        "persona": "sek",
+        "start": 166
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Макото",
+        "start": 2300,
+        "text": "А...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice04/04-SA/04-SA-F00/04-SA-F00-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2300
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Сэкаи",
+        "start": 3183,
+        "text": "Ты не подумай, не на свидание... Хотя... На свидание... Но не... Э...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice04/04-SA/04-SA-F00/04-SA-F00-0050",
+        "layer": 0,
+        "persona": "sek",
+        "start": 3183
+    },
+    {
+        "action": "CreateBG",
+        "end": 17000,
+        "file": "Event04/04-SA/04-SA-F00/04-SA-F00-002",
+        "start": 10383
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Макото",
+        "start": 11083,
+        "text": "А поконкретнее?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice04/04-SA/04-SA-F00/04-SA-F00-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 11083
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Сэкаи",
+        "start": 12083,
+        "text": "Друзей позовём и вчетвером куда-нибудь...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice04/04-SA/04-SA-F00/04-SA-F00-0070",
+        "layer": 0,
+        "persona": "sek",
+        "start": 12083
+    },
+    {
+        "action": "PrintText",
+        "end": 18000,
+        "persona": "Макото",
+        "start": 16150,
+        "text": "Я, ты и?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 18000,
+        "file": "Voice04/04-SA/04-SA-F00/04-SA-F00-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 16150
+    },
+    {
+        "action": "CreateBG",
+        "end": 31000,
+        "file": "Event04/04-SA/04-SA-F00/04-SA-F00-003",
+        "start": 17383
+    },
+    {
+        "action": "PrintText",
+        "end": 20000,
+        "persona": "Сэкаи",
+        "start": 18100,
+        "text": "Ну... Саванага, например.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 20000,
+        "file": "Voice04/04-SA/04-SA-F00/04-SA-F00-0090",
+        "layer": 0,
+        "persona": "sek",
+        "start": 18100
+    },
+    {
+        "action": "PrintText",
+        "end": 22000,
+        "persona": "Макото",
+        "start": 20350,
+        "text": "Таисукэ?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 22000,
+        "file": "Voice04/04-SA/04-SA-F00/04-SA-F00-0100",
+        "layer": 1,
+        "persona": "mak",
+        "start": 20350
+    },
+    {
+        "action": "PrintText",
+        "end": 24000,
+        "persona": "Сэкаи",
+        "start": 22150,
+        "text": "Я тоже подругу приведу.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 24000,
+        "file": "Voice04/04-SA/04-SA-F00/04-SA-F00-0110",
+        "layer": 0,
+        "persona": "sek",
+        "start": 22150
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Какую?^",
+        "answer2": "Куроду?^",
+        "end": 29000,
+        "start": 24383
+    }
+]

@@ -1,0 +1,103 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 19000,
+        "file": "SysSe/SE_all/gaya/kyousitu_rouka",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event04/04-SA/04-SA-F06/04-SA-F06-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Макото",
+        "start": 83,
+        "text": "Ничего не поделаешь... Придётся рассказать.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice04/04-SA/04-SA-F06/04-SA-F06-0030",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 83
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Сэкаи",
+        "start": 3150,
+        "text": "Так что там с Таисукэ?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice04/04-SA/04-SA-F06/04-SA-F06-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 3150
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Макото",
+        "start": 5000,
+        "text": "Но, блин, нельзя же это в лицо Куроде говорить...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice04/04-SA/04-SA-F06/04-SA-F06-0050",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 5000
+    },
+    {
+        "action": "CreateBG",
+        "end": 19000,
+        "file": "Event04/04-SA/04-SA-F06/04-SA-F06-002",
+        "start": 9016
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Хикари",
+        "start": 9250,
+        "text": "Чего молчишь-то?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice04/04-SA/04-SA-F06/04-SA-F06-0060",
+        "layer": 0,
+        "persona": "hik",
+        "start": 9250
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Макото",
+        "start": 11266,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice04/04-SA/04-SA-F06/04-SA-F06-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 11266
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Рассказать только Сэкаи.",
+        "answer2": "NULL",
+        "end": 18000,
+        "start": 13050
+    }
+]

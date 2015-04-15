@@ -1,0 +1,92 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 17000,
+        "file": "BGM/SD_BGM/sdbgm12",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event04/04-SA/04-SA-L00/04-SA-L00-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event04/04-SA/04-SA-L00/04-SA-L00-002",
+        "start": 1100
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Сэкаи",
+        "start": 1100,
+        "text": "А вот и мы!.. Э, Кацура?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice04/04-SA/04-SA-L00/04-SA-L00-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 1100
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event04/04-SA/04-SA-L00/04-SA-L00-003",
+        "start": 2250
+    },
+    {
+        "action": "CreateBG",
+        "end": 17000,
+        "file": "Event04/04-SA/04-SA-L00/04-SA-L00-004",
+        "start": 5250
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Котоноха",
+        "start": 5250,
+        "text": "Привет. Давно не виделись.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice04/04-SA/04-SA-L00/04-SA-L00-0050",
+        "layer": 0,
+        "persona": "kot",
+        "start": 5250
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Сэкаи",
+        "start": 8050,
+        "text": "Так это Таисукэ тебя позвал!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice04/04-SA/04-SA-L00/04-SA-L00-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 8050
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Котоноха",
+        "start": 12250,
+        "text": "Да. Сказал что и ты с Макото тут будешь...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice04/04-SA/04-SA-L00/04-SA-L00-0070",
+        "layer": 0,
+        "persona": "kot",
+        "start": 12250
+    }
+]

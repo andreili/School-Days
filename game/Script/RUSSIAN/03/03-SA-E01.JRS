@@ -1,0 +1,136 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 16000,
+        "file": "BGM/SD_BGM/sdbgm07",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 16000,
+        "file": "Se03/03-SA/03-SA-E01/SE03-SA-E01-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event03/03-SA/03-SA-E01/03-SA-E01-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 4000,
+        "file": "Event03/03-SA/03-SA-E01/03-SA-E01-002",
+        "start": 2000
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Отомэ",
+        "start": 3000,
+        "text": "А, Ито.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice03/03-SA/03-SA-E01/03-SA-E01-0040",
+        "layer": 0,
+        "persona": "oto",
+        "start": 3000
+    },
+    {
+        "action": "CreateBG",
+        "end": 4000,
+        "file": "Event03/03-SA/03-SA-E01/03-SA-E01-003",
+        "start": 4100
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Макото",
+        "start": 4100,
+        "text": "Привет.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice03/03-SA/03-SA-E01/03-SA-E01-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 4100
+    },
+    {
+        "action": "CreateBG",
+        "end": 16000,
+        "file": "Event03/03-SA/03-SA-E01/03-SA-E01-004",
+        "start": 4383
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Отомэ",
+        "start": 4383,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice03/03-SA/03-SA-E01/03-SA-E01-0060",
+        "layer": 0,
+        "persona": "oto",
+        "start": 4383
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 6083,
+        "text": "Что?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice03/03-SA/03-SA-E01/03-SA-E01-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 6083
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Отомэ",
+        "start": 7033,
+        "text": "У тебя уже есть планы на вечер?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice03/03-SA/03-SA-E01/03-SA-E01-0080",
+        "layer": 0,
+        "persona": "oto",
+        "start": 7033
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Макото",
+        "start": 10083,
+        "text": "Э?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice03/03-SA/03-SA-E01/03-SA-E01-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 10083
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Да.^",
+        "answer2": "Нет.^",
+        "end": 15000,
+        "start": 10316
+    }
+]

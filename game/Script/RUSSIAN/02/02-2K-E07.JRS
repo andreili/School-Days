@@ -1,0 +1,67 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 28000,
+        "file": "BGM/SD_BGM/sdbgm20",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event01/01-00/01-00-C00/01-00-C00-001",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 15000,
+        "file": "Voice02/02-2K/02-2K-E07/02-2K-E07-0040",
+        "layer": 1,
+        "start": 3000
+    },
+    {
+        "action": "CreateBG",
+        "end": 15000,
+        "file": "Event02/02-2K/02-2K-E07/02-2K-E07-002",
+        "start": 3000
+    },
+    {
+        "action": "PlayMovie",
+        "end": 19000,
+        "file": "Movie02/02-2K/02-2K-E07/02-2K-E07-003",
+        "start": 15266
+    },
+    {
+        "action": "CreateBG",
+        "end": 25000,
+        "file": "Event02/02-2K/02-2K-E07/02-2K-E07-004",
+        "start": 19233
+    },
+    {
+        "action": "PlayVoice",
+        "end": 24000,
+        "file": "Voice02/02-2K/02-2K-E07/02-2K-E07-0040A",
+        "layer": 1,
+        "persona": "",
+        "start": 20150
+    },
+    {
+        "action": "CreateBG",
+        "end": 28000,
+        "file": "Event02/02-2K/02-2K-E07/02-2K-E07-005",
+        "start": 25183
+    },
+    {
+        "action": "PlayVoice",
+        "end": 26000,
+        "file": "Voice02/02-2K/02-2K-E07/02-2K-E07-0060",
+        "layer": 0,
+        "persona": "",
+        "start": 25316
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 28000,
+        "start": 27133
+    }
+]

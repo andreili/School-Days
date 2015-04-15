@@ -1,0 +1,123 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 10000,
+        "file": "SysSe/SE_all/gaya/syoutengai",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event04/04-SA/04-SA-M06/04-SA-M06-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event04/04-SA/04-SA-M06/04-SA-M06-002",
+        "start": 1166
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Таисукэ",
+        "start": 1200,
+        "text": "Ну, по домам.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice04/04-SA/04-SA-M06/04-SA-M06-0040",
+        "layer": 1,
+        "persona": "tai",
+        "start": 1200
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event04/04-SA/04-SA-M06/04-SA-M06-003",
+        "start": 2283
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Котоноха",
+        "start": 2366,
+        "text": "Да...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice04/04-SA/04-SA-M06/04-SA-M06-0050",
+        "layer": 0,
+        "persona": "kot",
+        "start": 2366
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Хикари",
+        "start": 4116,
+        "text": "Пока.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice04/04-SA/04-SA-M06/04-SA-M06-0060",
+        "layer": 0,
+        "persona": "hik",
+        "start": 4116
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event04/04-SA/04-SA-M06/04-SA-M06-004",
+        "start": 5166
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Таисукэ",
+        "start": 5316,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice04/04-SA/04-SA-M06/04-SA-M06-0080",
+        "layer": 1,
+        "persona": "tai",
+        "start": 5316
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Котоноха",
+        "start": 7166,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice04/04-SA/04-SA-M06/04-SA-M06-0090",
+        "layer": 0,
+        "persona": "kot",
+        "start": 7166
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Хикари",
+        "start": 8316,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice04/04-SA/04-SA-M06/04-SA-M06-0100",
+        "layer": 0,
+        "persona": "hik",
+        "start": 8316
+    }
+]

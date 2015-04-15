@@ -1,0 +1,115 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 20000,
+        "file": "BGM/SD_BGM/sdbgm06",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 20000,
+        "file": "Se01/01-00/01-00-E00/SE01-00-E00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event01/01-00/01-00-H03/01-00-H03-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Сэкаи",
+        "start": 100,
+        "text": "Ты чего молчишь?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice01/01-00/01-00-H03/01-00-H03-0030",
+        "layer": 0,
+        "persona": "sek",
+        "start": 100
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 3183,
+        "text": "Ой... Что-то я задумался....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice01/01-00/01-00-H03/01-00-H03-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 3183
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event01/01-00/01-00-H03/01-00-H03-002",
+        "start": 7316
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Сэкаи",
+        "start": 7316,
+        "text": "Что это с тобой?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice01/01-00/01-00-H03/01-00-H03-0050",
+        "layer": 0,
+        "persona": "sek",
+        "start": 7316
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Макото",
+        "start": 9033,
+        "text": "Отвали!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice01/01-00/01-00-H03/01-00-H03-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 9033
+    },
+    {
+        "action": "CreateBG",
+        "end": 20000,
+        "file": "Event01/01-00/01-00-H03/01-00-H03-003",
+        "start": 10266
+    },
+    {
+        "action": "PrintText",
+        "end": 15000,
+        "persona": "Сэкаи",
+        "start": 10266,
+        "text": "Если у вас всё хорошо, о чём тут думать?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 15000,
+        "file": "Voice01/01-00/01-00-H03/01-00-H03-0070",
+        "layer": 0,
+        "persona": "sek",
+        "start": 10266
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Всё отлично!",
+        "answer2": "NULL",
+        "end": 19000,
+        "start": 14333
+    }
+]

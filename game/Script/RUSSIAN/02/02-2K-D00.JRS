@@ -1,0 +1,269 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 50000,
+        "file": "BGM/SD_BGM/sdbgm15",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 26000,
+        "file": "Se01/01-1K/01-1K-F00/SE01-1K-F00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 3000,
+        "file": "Movie02/02-2K/02-2K-D00/02-2K-D00-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Макото",
+        "start": 3000,
+        "text": "Классное кино!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice02/02-2K/02-2K-D00/02-2K-D00-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 3000
+    },
+    {
+        "action": "PlayMovie",
+        "end": 26000,
+        "file": "Movie02/02-2K/02-2K-D00/02-2K-D00-002",
+        "start": 3016
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Котоноха",
+        "start": 5316,
+        "text": "Да, мне тоже понравилось.^"
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Котоноха",
+        "start": 7833,
+        "text": "Я думала - это обычный фильм про любовь...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice02/02-2K/02-2K-D00/02-2K-D00-0050",
+        "layer": 0,
+        "persona": "kot",
+        "start": 5316
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Макото",
+        "start": 10250,
+        "text": "Да, точно! А там и про шпионов, и страшные моменты есть.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice02/02-2K/02-2K-D00/02-2K-D00-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 10250
+    },
+    {
+        "action": "PrintText",
+        "end": 21000,
+        "persona": "Котоноха",
+        "start": 14283,
+        "text": "Это же вроде ремейк? Надо будет оригинальный фильм посмотреть.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 21000,
+        "file": "Voice02/02-2K/02-2K-D00/02-2K-D00-0070",
+        "layer": 0,
+        "persona": "kot",
+        "start": 14283
+    },
+    {
+        "action": "PrintText",
+        "end": 26000,
+        "persona": "Макото",
+        "start": 21233,
+        "text": "Можно взять на диске.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 26000,
+        "file": "Voice02/02-2K/02-2K-D00/02-2K-D00-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 21233
+    },
+    {
+        "action": "PlaySe",
+        "end": 50000,
+        "file": "Se01/01-1K/01-1K-F00/SE01-1K-F00-001",
+        "layer": 2,
+        "start": 26100
+    },
+    {
+        "action": "PrintText",
+        "end": 29000,
+        "persona": "Котоноха",
+        "start": 26150,
+        "text": "Давай тогда вместе посмотрим?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 29000,
+        "file": "Voice02/02-2K/02-2K-D00/02-2K-D00-0090",
+        "layer": 0,
+        "persona": "kot",
+        "start": 26150
+    },
+    {
+        "action": "CreateBG",
+        "end": 37000,
+        "file": "Event02/02-2K/02-2K-D00/02-2K-D00-003",
+        "start": 26166
+    },
+    {
+        "action": "PrintText",
+        "end": 30000,
+        "persona": "Макото",
+        "start": 29233,
+        "text": "Конечно, давай!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 30000,
+        "file": "Voice02/02-2K/02-2K-D00/02-2K-D00-0100",
+        "layer": 1,
+        "persona": "mak",
+        "start": 29233
+    },
+    {
+        "action": "PrintText",
+        "end": 33000,
+        "persona": "Котоноха",
+        "start": 30366,
+        "text": "Тогда я диск возьму, у меня и посмотрим.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 33000,
+        "file": "Voice02/02-2K/02-2K-D00/02-2K-D00-0110",
+        "layer": 0,
+        "persona": "kot",
+        "start": 30366
+    },
+    {
+        "action": "PrintText",
+        "end": 35000,
+        "persona": "Макото",
+        "start": 33333,
+        "text": "В cмысле - у тебя дома?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 35000,
+        "file": "Voice02/02-2K/02-2K-D00/02-2K-D00-0120",
+        "layer": 1,
+        "persona": "mak",
+        "start": 33333
+    },
+    {
+        "action": "PrintText",
+        "end": 37000,
+        "persona": "Котоноха",
+        "start": 35300,
+        "text": "Ну да... А ты не хочешь?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 37000,
+        "file": "Voice02/02-2K/02-2K-D00/02-2K-D00-0130",
+        "layer": 0,
+        "persona": "kot",
+        "start": 35300
+    },
+    {
+        "action": "PlayMovie",
+        "end": 48000,
+        "file": "Movie02/02-2K/02-2K-D00/02-2K-D00-004",
+        "start": 37116
+    },
+    {
+        "action": "PrintText",
+        "end": 43000,
+        "persona": "Макото",
+        "start": 37116,
+        "text": "Нет, просто я у тебя дома раньше не был, буду волноваться, наверное...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 43000,
+        "file": "Voice02/02-2K/02-2K-D00/02-2K-D00-0140",
+        "layer": 1,
+        "persona": "mak",
+        "start": 37116
+    },
+    {
+        "action": "PrintText",
+        "end": 44000,
+        "persona": "Котоноха",
+        "start": 43016,
+        "text": "Правда?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 44000,
+        "file": "Voice02/02-2K/02-2K-D00/02-2K-D00-0150",
+        "layer": 0,
+        "persona": "kot",
+        "start": 43016
+    },
+    {
+        "action": "PrintText",
+        "end": 48000,
+        "persona": "Макото",
+        "start": 44233,
+        "text": "Но всё равно жду с нетерпением!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 48000,
+        "file": "Voice02/02-2K/02-2K-D00/02-2K-D00-0160",
+        "layer": 1,
+        "persona": "mak",
+        "start": 44233
+    },
+    {
+        "action": "PlayMovie",
+        "end": 50000,
+        "file": "Movie02/02-2K/02-2K-D00/02-2K-D00-005",
+        "start": 48083
+    },
+    {
+        "action": "PrintText",
+        "end": 49000,
+        "persona": "Котоноха",
+        "start": 48116,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 49000,
+        "file": "Voice02/02-2K/02-2K-D00/02-2K-D00-0170",
+        "layer": 0,
+        "persona": "kot",
+        "start": 48116
+    }
+]

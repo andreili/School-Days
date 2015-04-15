@@ -1,0 +1,136 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 15000,
+        "file": "BGM/SD_BGM/sdbgm06",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 15000,
+        "file": "Se01/01-00/01-00-E00/SE01-00-E00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event01/01-00/01-00-H02/01-00-H02-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 100,
+        "text": "Да так... Не очень.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice01/01-00/01-00-H02/01-00-H02-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 100
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Котоноха",
+        "start": 1283,
+        "text": "Что?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice01/01-00/01-00-H02/01-00-H02-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 1283
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event01/01-00/01-00-H02/01-00-H02-002",
+        "start": 2200
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Макото",
+        "start": 2266,
+        "text": "Ну, в смысле...^"
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Макото",
+        "start": 4383,
+        "text": "Мы же только один раз на свидание сходили.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice01/01-00/01-00-H02/01-00-H02-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2266
+    },
+    {
+        "action": "CreateBG",
+        "end": 12000,
+        "file": "Event01/01-00/01-00-E00/01-00-E00-006",
+        "start": 9266
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Сэкаи",
+        "start": 9266,
+        "text": "Что ты несёшь!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice01/01-00/01-00-H02/01-00-H02-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 9266
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Макото",
+        "start": 11166,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice01/01-00/01-00-H02/01-00-H02-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 11166
+    },
+    {
+        "action": "CreateBG",
+        "end": 15000,
+        "file": "Event01/01-00/01-00-H02/01-00-H02-004",
+        "start": 12266
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Котоноха",
+        "start": 13016,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice01/01-00/01-00-H02/01-00-H02-0080",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 13016
+    }
+]

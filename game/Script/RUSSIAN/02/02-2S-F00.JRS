@@ -1,0 +1,76 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 17000,
+        "file": "BGM/SD_BGM/sdbgm06",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 17000,
+        "file": "Se01/01-00/01-00-B00/SE01-00-B00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 17000,
+        "file": "SysSe/SE_all/school/chime",
+        "layer": 2,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event02/02-2K/02-2K-E04/02-2K-E04-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 13000,
+        "file": "Event01/01-00/01-00-D00/01-00-D00-008",
+        "start": 10000
+    },
+    {
+        "action": "CreateBG",
+        "end": 17000,
+        "file": "Event02/02-2S/02-2S-F00/02-2S-F00-003",
+        "start": 13016
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Сэкаи",
+        "start": 13083,
+        "text": "Идём?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice02/02-2S/02-2S-F00/02-2S-F00-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 13083
+    },
+    {
+        "action": "PrintText",
+        "end": 15000,
+        "persona": "Макото",
+        "start": 14166,
+        "text": "Угу...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 15000,
+        "file": "Voice02/02-2S/02-2S-F00/02-2S-F00-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 14166
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 17000,
+        "start": 16133
+    }
+]

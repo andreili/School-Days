@@ -1,0 +1,138 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 25000,
+        "file": "BGM/SD_BGM/sdbgm06",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event01/01-00/01-00-C01/01-00-C01-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 200,
+        "text": "Наверное, я всё-таки...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice01/01-00/01-00-C02/01-00-C02-0030",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 200
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Макото",
+        "start": 3316,
+        "text": "Люблю Сэкаи...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice01/01-00/01-00-C02/01-00-C02-0040",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 3316
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "OUT",
+        "end": 7000,
+        "start": 6316
+    },
+    {
+        "action": "CreateBG",
+        "end": 13000,
+        "file": "Event01/01-00/01-00-C02/01-00-C02-002",
+        "start": 7116
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "IN",
+        "end": 7000,
+        "start": 7116
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Макото",
+        "start": 7350,
+        "text": "Она всегда мне так помогала...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice01/01-00/01-00-C02/01-00-C02-0050",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 7350
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "OUT",
+        "end": 13000,
+        "start": 12350
+    },
+    {
+        "action": "CreateBG",
+        "end": 18000,
+        "file": "Event01/01-00/01-00-B00/01-00-B00-003",
+        "start": 13150
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "IN",
+        "end": 13000,
+        "start": 13150
+    },
+    {
+        "action": "PrintText",
+        "end": 18000,
+        "persona": "Макото",
+        "start": 14033,
+        "text": "Но как мне тогда поступить?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 18000,
+        "file": "Voice01/01-00/01-00-C02/01-00-C02-0060",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 14033
+    },
+    {
+        "action": "CreateBG",
+        "end": 25000,
+        "file": "Event01/01-00/01-00-C02/01-00-C02-004",
+        "start": 18266
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Мне нужна!",
+        "answer2": "NULL",
+        "end": 23000,
+        "start": 18266
+    },
+    {
+        "action": "PrintText",
+        "end": 23000,
+        "persona": "Макото",
+        "start": 18266,
+        "text": "Она...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 20000,
+        "file": "Voice01/01-00/01-00-C02/01-00-C02-0070",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 19383
+    }
+]

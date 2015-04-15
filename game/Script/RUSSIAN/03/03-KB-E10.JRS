@@ -1,0 +1,132 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 15000,
+        "file": "BGM/SD_BGM/sdbgm12",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event03/03-KB/03-KB-E10/03-KB-E10-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Таисукэ",
+        "start": 0,
+        "text": "Ты ужасный человек!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice03/03-KB/03-KB-E10/03-KB-E10-0030",
+        "layer": 1,
+        "persona": "tai",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Макото",
+        "start": 2033,
+        "text": "Таисукэ...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice03/03-KB/03-KB-E10/03-KB-E10-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2033
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Таисукэ",
+        "start": 3116,
+        "text": "Я всё равно завтра Саиёндзи приглашу!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice03/03-KB/03-KB-E10/03-KB-E10-0050",
+        "layer": 1,
+        "persona": "tai",
+        "start": 3116
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Макото",
+        "start": 5316,
+        "text": "Подожди! Я же сказал тебе...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice03/03-KB/03-KB-E10/03-KB-E10-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 5316
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Таисукэ",
+        "start": 9016,
+        "text": "Пока.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice03/03-KB/03-KB-E10/03-KB-E10-0070",
+        "layer": 1,
+        "persona": "tai",
+        "start": 9016
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Макото",
+        "start": 9350,
+        "text": "Что это с ним?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice03/03-KB/03-KB-E10/03-KB-E10-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 9350
+    },
+    {
+        "action": "PlaySe",
+        "end": 10000,
+        "file": "SysSe/SE_all/keitai/keitai_sousa",
+        "layer": 1,
+        "start": 9366
+    },
+    {
+        "action": "CreateBG",
+        "end": 15000,
+        "file": "Event03/03-KB/03-KB-E10/03-KB-E10-002",
+        "start": 9366
+    },
+    {
+        "action": "PrintText",
+        "end": 15000,
+        "persona": "Макото",
+        "start": 14300,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 15000,
+        "file": "Voice03/03-KB/03-KB-E10/03-KB-E10-0100",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 14300
+    }
+]

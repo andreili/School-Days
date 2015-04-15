@@ -1,0 +1,108 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 23000,
+        "file": "BGM/SD_BGM/sdbgm07",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event02/02-2S/02-2S-J03/02-2S-J03-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Сэкаи",
+        "start": 216,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice02/02-2S/02-2S-J03/02-2S-J03-0040",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 216
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event02/02-2S/02-2S-J03/02-2S-J03-002",
+        "start": 2283
+    },
+    {
+        "action": "CreateBG",
+        "end": 8000,
+        "file": "Event01/01-00/01-00-B00/01-00-B00-003",
+        "start": 5083
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event02/02-2S/02-2S-J01/02-2S-J01-004A",
+        "start": 8033
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Сэкаи",
+        "start": 8100,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice02/02-2S/02-2S-J03/02-2S-J03-0070",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 8100
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event02/02-2S/02-2S-J01/02-2S-J01-004B",
+        "start": 9000
+    },
+    {
+        "action": "CreateBG",
+        "end": 12000,
+        "file": "Event02/02-2S/02-2S-J03/02-2S-J03-004C",
+        "start": 10200
+    },
+    {
+        "action": "CreateBG",
+        "end": 14000,
+        "file": "Event02/02-2S/02-2S-J03/02-2S-J03-005",
+        "start": 12200
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Макото",
+        "start": 12300,
+        "text": "Думаешь, так легко ответить?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice02/02-2S/02-2S-J03/02-2S-J03-0110",
+        "layer": 1,
+        "persona": "mak",
+        "start": 12300
+    },
+    {
+        "action": "CreateBG",
+        "end": 23000,
+        "file": "Event02/02-2S/02-2S-J03/02-2S-J03-006",
+        "start": 14316
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Сэкаи, я тебя люблю!^",
+        "answer2": "Сэкаи, я люблю тебя больше всех!^",
+        "end": 22000,
+        "start": 17100
+    }
+]

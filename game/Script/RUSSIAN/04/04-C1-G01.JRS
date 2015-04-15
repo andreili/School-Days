@@ -1,0 +1,243 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 25000,
+        "file": "BGM/SD_BGM/sdbgm20",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 25000,
+        "file": "Se04/04-C1/04-C1-G01/SE04-C1-G01-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 23000,
+        "file": "Se04/04-C1/04-C1-G01/SE04-C1-G01-002",
+        "layer": 2,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event04/04-C1/04-C1-G01/04-C1-G01-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 0,
+        "persona": "Макото",
+        "start": 0,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 0,
+        "file": "Voice04/04-C1/04-C1-G01/04-C1-G01-0040",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Сэкаи",
+        "start": 383,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice04/04-C1/04-C1-G01/04-C1-G01-0050",
+        "layer": 0,
+        "persona": "sek",
+        "start": 383
+    },
+    {
+        "action": "PlayMovie",
+        "end": 7000,
+        "file": "Movie04/04-C1/04-C1-G01/04-C1-G01-002",
+        "start": 2216
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Макото",
+        "start": 2216,
+        "text": "Я позвоню вечером...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice04/04-C1/04-C1-G01/04-C1-G01-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2216
+    },
+    {
+        "action": "PlaySe",
+        "end": 7000,
+        "file": "SysSe/SE_all/station_train/train_door_close",
+        "layer": 3,
+        "start": 3033
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Сэкаи",
+        "start": 5000,
+        "text": "Угу...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice04/04-C1/04-C1-G01/04-C1-G01-0070",
+        "layer": 0,
+        "persona": "sek",
+        "start": 5000
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event04/04-C1/04-C1-G01/04-C1-G01-004",
+        "start": 7150
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Макото",
+        "start": 7183,
+        "text": "Сэкаи, во даёт...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice04/04-C1/04-C1-G01/04-C1-G01-0100",
+        "layer": 1,
+        "persona": "mak",
+        "start": 7183
+    },
+    {
+        "action": "PlaySe",
+        "end": 25000,
+        "file": "SysSe/SE_all/station_train/train_start",
+        "layer": 3,
+        "start": 8133
+    },
+    {
+        "action": "CreateBG",
+        "end": 13000,
+        "file": "Event04/04-C1/04-C1-G01/04-C1-G01-005",
+        "start": 10333
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Котоноха",
+        "start": 11133,
+        "text": "Макото...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice04/04-C1/04-C1-G01/04-C1-G01-0120",
+        "layer": 0,
+        "persona": "kot",
+        "start": 11133
+    },
+    {
+        "action": "CreateBG",
+        "end": 14000,
+        "file": "Event04/04-C1/04-C1-G01/04-C1-G01-007",
+        "start": 13300
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Котоноха",
+        "start": 13333,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice04/04-C1/04-C1-G01/04-C1-G01-0140",
+        "layer": 0,
+        "persona": "kot",
+        "start": 13333
+    },
+    {
+        "action": "CreateBG",
+        "end": 23000,
+        "file": "Event04/04-C1/04-C1-G01/04-C1-G01-008",
+        "start": 14200
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Хикари",
+        "start": 14266,
+        "text": "Ты извини, конечно, но кончай за Ито бегать.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice04/04-C1/04-C1-G01/04-C1-G01-0150",
+        "layer": 0,
+        "persona": "hik",
+        "start": 14266
+    },
+    {
+        "action": "PrintText",
+        "end": 19000,
+        "persona": "Котоноха",
+        "start": 17366,
+        "text": "Бегать?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 19000,
+        "file": "Voice04/04-C1/04-C1-G01/04-C1-G01-0160",
+        "layer": 0,
+        "persona": "kot",
+        "start": 17366
+    },
+    {
+        "action": "PrintText",
+        "end": 23000,
+        "persona": "Хикари",
+        "start": 19216,
+        "text": "Сама ведь видела. Ито с Сэкаи встречается.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 23000,
+        "file": "Voice04/04-C1/04-C1-G01/04-C1-G01-0170",
+        "layer": 0,
+        "persona": "hik",
+        "start": 19216
+    },
+    {
+        "action": "CreateBG",
+        "end": 25000,
+        "file": "Event04/04-C1/04-C1-G01/04-C1-G01-009",
+        "start": 23133
+    },
+    {
+        "action": "PrintText",
+        "end": 25000,
+        "persona": "Котоноха",
+        "start": 23266,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 25000,
+        "file": "Voice04/04-C1/04-C1-G01/04-C1-G01-0190",
+        "layer": 0,
+        "persona": "kot",
+        "start": 23266
+    }
+]

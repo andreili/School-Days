@@ -1,0 +1,111 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 10000,
+        "file": "Se03/03-SB/03-SB-I08/SE03-SB-I08-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event03/03-SB/03-SB-I08/03-SB-I08-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Ты такая красивая...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-SB/03-SB-I08/03-SB-I08-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Сэкаи",
+        "start": 1100,
+        "text": "Что?!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-SB/03-SB-I08/03-SB-I08-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 1100
+    },
+    {
+        "action": "PlayMovie",
+        "end": 10000,
+        "file": "Movie03/03-SB/03-SB-I08/03-SB-I08-002",
+        "start": 1116
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Макото",
+        "start": 1316,
+        "text": "Да. Очень милая.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice03/03-SB/03-SB-I08/03-SB-I08-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 1316
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Сэкаи",
+        "start": 3216,
+        "text": "Ой, да перестань!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice03/03-SB/03-SB-I08/03-SB-I08-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 3216
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Макото",
+        "start": 6066,
+        "text": "Да, кстати, Сэкаи...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice03/03-SB/03-SB-I08/03-SB-I08-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 6066
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Сэкаи",
+        "start": 9316,
+        "text": "Да?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice03/03-SB/03-SB-I08/03-SB-I08-0090",
+        "layer": 0,
+        "persona": "sek",
+        "start": 9316
+    }
+]

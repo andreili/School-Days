@@ -1,0 +1,58 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 10000,
+        "file": "BGM/SD_BGM/sdbgm20",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 10000,
+        "file": "Se01/01-00/01-00-E00/SE01-00-E00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event02/02-2K/02-2K-G00/02-2K-G00-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Котоноха",
+        "start": 0,
+        "text": "По-пойдём, наверное, обратно в класс.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice02/02-2K/02-2K-G00/02-2K-G00-0030",
+        "layer": 0,
+        "persona": "kot",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Макото",
+        "start": 4183,
+        "text": "Что?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice02/02-2K/02-2K-G00/02-2K-G00-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 4183
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Время же ещё есть!^",
+        "answer2": "Хорошо, пошли...^",
+        "end": 9000,
+        "start": 4283
+    }
+]

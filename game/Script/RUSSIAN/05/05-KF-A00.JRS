@@ -1,0 +1,682 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 123000,
+        "file": "BGM/SD_BGM/sdbgm25",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 50000,
+        "file": "SysSe/SE_all/station_train/station",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 6000,
+        "file": "Event05/05-KF/05-KF-A00/05-KF-A00-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Я тоже тебя люблю, Сэкаи!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice05/05-KF/05-KF-A00/05-KF-A00-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Сэкаи",
+        "start": 5183,
+        "text": "Правда?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice05/05-KF/05-KF-A00/05-KF-A00-0050",
+        "layer": 0,
+        "persona": "sek",
+        "start": 5183
+    },
+    {
+        "action": "CreateBG",
+        "end": 18000,
+        "file": "Event05/05-KF/05-KF-B00/05-KF-B00-003",
+        "start": 6216
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Макото",
+        "start": 6283,
+        "text": "Да... Я хочу быть с тобой.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice05/05-KF/05-KF-A00/05-KF-A00-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 6283
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Сэкаи",
+        "start": 12100,
+        "text": "И я...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice05/05-KF/05-KF-A00/05-KF-A00-0070",
+        "layer": 0,
+        "persona": "sek",
+        "start": 12100
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Макото",
+        "start": 13233,
+        "text": "Сэкаи...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice05/05-KF/05-KF-A00/05-KF-A00-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 13233
+    },
+    {
+        "action": "PrintText",
+        "end": 18000,
+        "persona": "Сэкаи",
+        "start": 16100,
+        "text": "Но ты... уверен?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 18000,
+        "file": "Voice05/05-KF/05-KF-A00/05-KF-A00-0090",
+        "layer": 0,
+        "persona": "sek",
+        "start": 16100
+    },
+    {
+        "action": "PrintText",
+        "end": 20000,
+        "persona": "Макото",
+        "start": 18250,
+        "text": "Э?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 20000,
+        "file": "Voice05/05-KF/05-KF-A00/05-KF-A00-0100",
+        "layer": 1,
+        "persona": "mak",
+        "start": 18250
+    },
+    {
+        "action": "CreateBG",
+        "end": 27000,
+        "file": "Event05/05-KF/05-KF-A00/05-KF-A00-003",
+        "start": 18266
+    },
+    {
+        "action": "PrintText",
+        "end": 22000,
+        "persona": "Сэкаи",
+        "start": 20283,
+        "text": "Кацура ведь...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 22000,
+        "file": "Voice05/05-KF/05-KF-A00/05-KF-A00-0110",
+        "layer": 0,
+        "persona": "sek",
+        "start": 20283
+    },
+    {
+        "action": "PrintText",
+        "end": 27000,
+        "persona": "Макото",
+        "start": 22066,
+        "text": "У самой-то Таисукэ...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 27000,
+        "file": "Voice05/05-KF/05-KF-A00/05-KF-A00-0120",
+        "layer": 1,
+        "persona": "mak",
+        "start": 22066
+    },
+    {
+        "action": "CreateBG",
+        "end": 35000,
+        "file": "Event05/05-KF/05-KF-A00/05-KF-A00-004",
+        "start": 27366
+    },
+    {
+        "action": "PrintText",
+        "end": 30000,
+        "persona": "Сэкаи",
+        "start": 27366,
+        "text": "Я с ним завтра... поговорю.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 30000,
+        "file": "Voice05/05-KF/05-KF-A00/05-KF-A00-0130",
+        "layer": 0,
+        "persona": "sek",
+        "start": 27366
+    },
+    {
+        "action": "PrintText",
+        "end": 32000,
+        "persona": "Макото",
+        "start": 30266,
+        "text": "С Таисукэ?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 32000,
+        "file": "Voice05/05-KF/05-KF-A00/05-KF-A00-0140",
+        "layer": 1,
+        "persona": "mak",
+        "start": 30266
+    },
+    {
+        "action": "PrintText",
+        "end": 35000,
+        "persona": "Сэкаи",
+        "start": 32300,
+        "text": "Угу. Скажу, что расстаёмся.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 35000,
+        "file": "Voice05/05-KF/05-KF-A00/05-KF-A00-0150",
+        "layer": 0,
+        "persona": "sek",
+        "start": 32300
+    },
+    {
+        "action": "CreateBG",
+        "end": 45000,
+        "file": "Event05/05-KF/05-KF-A00/05-KF-A00-005",
+        "start": 35016
+    },
+    {
+        "action": "PrintText",
+        "end": 37000,
+        "persona": "Макото",
+        "start": 35016,
+        "text": "Ясно...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 37000,
+        "file": "Voice05/05-KF/05-KF-A00/05-KF-A00-0160",
+        "layer": 1,
+        "persona": "mak",
+        "start": 35016
+    },
+    {
+        "action": "PrintText",
+        "end": 38000,
+        "persona": "Сэкаи",
+        "start": 37250,
+        "text": "А ты?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 38000,
+        "file": "Voice05/05-KF/05-KF-A00/05-KF-A00-0170",
+        "layer": 0,
+        "persona": "sek",
+        "start": 37250
+    },
+    {
+        "action": "PrintText",
+        "end": 43000,
+        "persona": "Макото",
+        "start": 38300,
+        "text": "Я тоже... Поговорю.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 43000,
+        "file": "Voice05/05-KF/05-KF-A00/05-KF-A00-0180",
+        "layer": 1,
+        "persona": "mak",
+        "start": 38300
+    },
+    {
+        "action": "PrintText",
+        "end": 44000,
+        "persona": "Сэкаи",
+        "start": 43216,
+        "text": "Правда?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 44000,
+        "file": "Voice05/05-KF/05-KF-A00/05-KF-A00-0190",
+        "layer": 0,
+        "persona": "sek",
+        "start": 43216
+    },
+    {
+        "action": "PrintText",
+        "end": 46000,
+        "persona": "Макото",
+        "start": 44200,
+        "text": "Да...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 46000,
+        "file": "Voice05/05-KF/05-KF-A00/05-KF-A00-0200",
+        "layer": 1,
+        "persona": "mak",
+        "start": 44200
+    },
+    {
+        "action": "CreateBG",
+        "end": 56000,
+        "file": "Event05/05-KF/05-KF-A00/05-KF-A00-006",
+        "start": 45383
+    },
+    {
+        "action": "PrintText",
+        "end": 52000,
+        "persona": "Сэкаи",
+        "start": 46083,
+        "text": "Не надо, если не хочешь... Меня устроит и как прежде...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 52000,
+        "file": "Voice05/05-KF/05-KF-A00/05-KF-A00-0210",
+        "layer": 0,
+        "persona": "sek",
+        "start": 46083
+    },
+    {
+        "action": "PlaySe",
+        "end": 66000,
+        "file": "SysSe/SE_all/station_train/station",
+        "layer": 2,
+        "start": 49133
+    },
+    {
+        "action": "PrintText",
+        "end": 55000,
+        "persona": "Макото",
+        "start": 52233,
+        "text": "Не говори так!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 55000,
+        "file": "Voice05/05-KF/05-KF-A00/05-KF-A00-0220",
+        "layer": 1,
+        "persona": "mak",
+        "start": 52233
+    },
+    {
+        "action": "PrintText",
+        "end": 56000,
+        "persona": "Сэкаи",
+        "start": 55266,
+        "text": "Но...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 56000,
+        "file": "Voice05/05-KF/05-KF-A00/05-KF-A00-0230",
+        "layer": 0,
+        "persona": "sek",
+        "start": 55266
+    },
+    {
+        "action": "CreateBG",
+        "end": 66000,
+        "file": "Event05/05-KF/05-KF-A00/05-KF-A00-005",
+        "start": 56166
+    },
+    {
+        "action": "PrintText",
+        "end": 60000,
+        "persona": "Макото",
+        "start": 56233,
+        "text": "Я с ней расстанусь. Обязательно.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 60000,
+        "file": "Voice05/05-KF/05-KF-A00/05-KF-A00-0240",
+        "layer": 1,
+        "persona": "mak",
+        "start": 56233
+    },
+    {
+        "action": "PrintText",
+        "end": 61000,
+        "persona": "Сэкаи",
+        "start": 60250,
+        "text": "Угу...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 61000,
+        "file": "Voice05/05-KF/05-KF-A00/05-KF-A00-0250",
+        "layer": 0,
+        "persona": "sek",
+        "start": 60250
+    },
+    {
+        "action": "PrintText",
+        "end": 66000,
+        "persona": "Макото",
+        "start": 61300,
+        "text": "Ведь я люблю тебя, Сэкаи.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 66000,
+        "file": "Voice05/05-KF/05-KF-A00/05-KF-A00-0260",
+        "layer": 1,
+        "persona": "mak",
+        "start": 61300
+    },
+    {
+        "action": "PrintText",
+        "end": 70000,
+        "persona": "Сэкаи",
+        "start": 66050,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 70000,
+        "file": "Voice05/05-KF/05-KF-A00/05-KF-A00-0290",
+        "layer": 0,
+        "persona": "sek",
+        "start": 66050
+    },
+    {
+        "action": "PlaySe",
+        "end": 75000,
+        "file": "SysSe/SE_all/h/h_01",
+        "layer": 1,
+        "start": 66066
+    },
+    {
+        "action": "CreateBG",
+        "end": 72000,
+        "file": "Event05/05-KF/05-KF-A00/05-KF-A00-008",
+        "start": 66066
+    },
+    {
+        "action": "PrintText",
+        "end": 75000,
+        "persona": "Сэкаи",
+        "start": 70266,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 75000,
+        "file": "Voice05/05-KF/05-KF-A00/05-KF-A00-0310",
+        "layer": 0,
+        "persona": "sek",
+        "start": 70266
+    },
+    {
+        "action": "CreateBG",
+        "end": 76000,
+        "file": "Event05/05-KF/05-KF-A00/05-KF-A00-010",
+        "start": 72066
+    },
+    {
+        "action": "PlaySe",
+        "end": 80000,
+        "file": "SysSe/SE_all/h/h_02",
+        "layer": 2,
+        "start": 72150
+    },
+    {
+        "action": "PrintText",
+        "end": 81000,
+        "persona": "Сэкаи",
+        "start": 75100,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 81000,
+        "file": "Voice05/05-KF/05-KF-A00/05-KF-A00-0330",
+        "layer": 0,
+        "persona": "sek",
+        "start": 75100
+    },
+    {
+        "action": "PlayMovie",
+        "end": 87000,
+        "file": "Movie05/05-KF/05-KF-A00/05-KF-A00-011",
+        "start": 76366
+    },
+    {
+        "action": "PlaySe",
+        "end": 105000,
+        "file": "SysSe/SE_all/h/h_03",
+        "layer": 1,
+        "start": 77300
+    },
+    {
+        "action": "PrintText",
+        "end": 84000,
+        "persona": "Сэкаи",
+        "start": 81150,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 84000,
+        "file": "Voice05/05-KF/05-KF-A00/05-KF-A00-0350",
+        "layer": 0,
+        "persona": "sek",
+        "start": 81150
+    },
+    {
+        "action": "PrintText",
+        "end": 88000,
+        "persona": "Сэкаи",
+        "start": 84166,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 88000,
+        "file": "Voice05/05-KF/05-KF-A00/05-KF-A00-0370",
+        "layer": 0,
+        "persona": "sek",
+        "start": 84166
+    },
+    {
+        "action": "PlayMovie",
+        "end": 102000,
+        "file": "Movie05/05-KF/05-KF-A00/H5-KF-A00-012",
+        "start": 87366
+    },
+    {
+        "action": "PrintText",
+        "end": 92000,
+        "persona": "Сэкаи",
+        "start": 88033,
+        "text": "От руки... Макото...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 92000,
+        "file": "Voice05/05-KF/05-KF-A00/05-KF-A00-0380",
+        "layer": 0,
+        "persona": "sek",
+        "start": 88033
+    },
+    {
+        "action": "PlaySe",
+        "end": 105000,
+        "file": "SysSe/SE_all/h/h_04",
+        "layer": 2,
+        "start": 88100
+    },
+    {
+        "action": "PrintText",
+        "end": 95000,
+        "persona": "Сэкаи",
+        "start": 92383,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 95000,
+        "file": "Voice05/05-KF/05-KF-A00/05-KF-A00-0390",
+        "layer": 0,
+        "persona": "sek",
+        "start": 92383
+    },
+    {
+        "action": "PrintText",
+        "end": 99000,
+        "persona": "Сэкаи",
+        "start": 95283,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 99000,
+        "file": "Voice05/05-KF/05-KF-A00/05-KF-A00-0410",
+        "layer": 0,
+        "persona": "sek",
+        "start": 95283
+    },
+    {
+        "action": "PrintText",
+        "end": 105000,
+        "persona": "Сэкаи",
+        "start": 99316,
+        "text": "Макото!..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 105000,
+        "file": "Voice05/05-KF/05-KF-A00/05-KF-A00-0420",
+        "layer": 0,
+        "persona": "sek",
+        "start": 99316
+    },
+    {
+        "action": "CreateBG",
+        "end": 109000,
+        "file": "Event05/05-KF/05-KF-A00/05-KF-A00-013",
+        "start": 102350
+    },
+    {
+        "action": "PrintText",
+        "end": 109000,
+        "persona": "Сэкаи",
+        "start": 105250,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 109000,
+        "file": "Voice05/05-KF/05-KF-A00/05-KF-A00-0440",
+        "layer": 0,
+        "persona": "sek",
+        "start": 105250
+    },
+    {
+        "action": "CreateBG",
+        "end": 115000,
+        "file": "Event05/05-KF/05-KF-A00/05-KF-A00-014",
+        "start": 109150
+    },
+    {
+        "action": "PrintText",
+        "end": 111000,
+        "persona": "Сэкаи",
+        "start": 109216,
+        "text": "Макото……^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 111000,
+        "file": "Voice05/05-KF/05-KF-A00/05-KF-A00-0460",
+        "layer": 0,
+        "persona": "sek",
+        "start": 109216
+    },
+    {
+        "action": "PrintText",
+        "end": 115000,
+        "persona": "Сэкаи",
+        "start": 111300,
+        "text": "Опять... Вся испачкалась...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 115000,
+        "file": "Voice05/05-KF/05-KF-A00/05-KF-A00-0480",
+        "layer": 0,
+        "persona": "sek",
+        "start": 111300
+    },
+    {
+        "action": "PlayMovie",
+        "end": 123000,
+        "file": "Movie05/05-KF/05-KF-A00/05-KF-A00-015",
+        "start": 115383
+    },
+    {
+        "action": "PlayVoice",
+        "end": 118000,
+        "file": "Voice05/05-KF/05-KF-A00/05-KF-A00-0490",
+        "layer": -1,
+        "persona": "",
+        "start": 117233
+    },
+    {
+        "action": "PrintText",
+        "end": 123000,
+        "persona": "Сэкаи",
+        "start": 120016,
+        "text": "Люблю...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 123000,
+        "file": "Voice05/05-KF/05-KF-A00/05-KF-A00-0500",
+        "layer": 0,
+        "persona": "sek",
+        "start": 120016
+    }
+]

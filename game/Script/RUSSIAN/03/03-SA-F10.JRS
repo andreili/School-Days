@@ -1,0 +1,154 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 30000,
+        "file": "Se03/03-SA/03-SA-F10/SE03-SA-F10-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event03/03-SA/03-SA-F10/03-SA-F10-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-SA/03-SA-F10/03-SA-F10-0030",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Котоноха",
+        "start": 1033,
+        "text": "Макото!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice03/03-SA/03-SA-F10/03-SA-F10-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 1033
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Нацуми",
+        "start": 2150,
+        "text": "Макото, что ты здесь делаешь? Мимо проходил?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice03/03-SA/03-SA-F10/03-SA-F10-0050",
+        "layer": 0,
+        "persona": "nat",
+        "start": 2150
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Котоноха",
+        "start": 5116,
+        "text": "Конечно же нет!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice03/03-SA/03-SA-F10/03-SA-F10-0060",
+        "layer": 0,
+        "persona": "kot",
+        "start": 5116
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Нацуми",
+        "start": 7033,
+        "text": "Не тебя спрашивают!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice03/03-SA/03-SA-F10/03-SA-F10-0070",
+        "layer": 0,
+        "persona": "nat",
+        "start": 7033
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Котоноха",
+        "start": 8283,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice03/03-SA/03-SA-F10/03-SA-F10-0080",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 8283
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Нацуми",
+        "start": 9200,
+        "text": "Итак?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice03/03-SA/03-SA-F10/03-SA-F10-0090",
+        "layer": 0,
+        "persona": "nat",
+        "start": 9200
+    },
+    {
+        "action": "CreateBG",
+        "end": 20000,
+        "file": "Event03/03-SA/03-SA-F10/03-SA-F10-002",
+        "start": 10000
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Макото",
+        "start": 10250,
+        "text": "Я...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice03/03-SA/03-SA-F10/03-SA-F10-0100",
+        "layer": 1,
+        "persona": "mak",
+        "start": 10250
+    },
+    {
+        "action": "CreateBG",
+        "end": 30000,
+        "file": "Event03/03-SA/03-SA-F10/03-SA-F10-003",
+        "start": 20000
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Да, я просто мимо проходил...^",
+        "answer2": "Я пришёл к Котонохе!^",
+        "end": 28000,
+        "start": 23333
+    }
+]

@@ -1,0 +1,165 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 23000,
+        "file": "SysSe/SE_all/station_train/train_in",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event04/04-KB/04-KB-D00/04-KB-D00-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 8000,
+        "file": "Event04/04-KB/04-KB-D00/04-KB-D00-002",
+        "start": 2200
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Макото",
+        "start": 2200,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice04/04-KB/04-KB-D00/04-KB-D00-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2200
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Котоноха",
+        "start": 3250,
+        "text": "Саиёндзи немного развеселилась...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice04/04-KB/04-KB-D00/04-KB-D00-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 3250
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Макото",
+        "start": 7116,
+        "text": "Ага.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice04/04-KB/04-KB-D00/04-KB-D00-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 7116
+    },
+    {
+        "action": "CreateBG",
+        "end": 12000,
+        "file": "Event04/04-KB/04-KB-D00/04-KB-D00-003",
+        "start": 8250
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Котоноха",
+        "start": 8250,
+        "text": "Она тебе, похоже, очень доверяет.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice04/04-KB/04-KB-D00/04-KB-D00-0060",
+        "layer": 0,
+        "persona": "kot",
+        "start": 8250
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Макото",
+        "start": 10350,
+        "text": "Думаешь?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice04/04-KB/04-KB-D00/04-KB-D00-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 10350
+    },
+    {
+        "action": "CreateBG",
+        "end": 18000,
+        "file": "Event04/04-KB/04-KB-D00/04-KB-D00-004",
+        "start": 12016
+    },
+    {
+        "action": "PrintText",
+        "end": 18000,
+        "persona": "Котоноха",
+        "start": 12016,
+        "text": "Да... Я даже ревную немного. Хоть и понимаю, что между вами ничего нет.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 18000,
+        "file": "Voice04/04-KB/04-KB-D00/04-KB-D00-0080",
+        "layer": 0,
+        "persona": "kot",
+        "start": 12016
+    },
+    {
+        "action": "CreateBG",
+        "end": 20000,
+        "file": "Event04/04-KB/04-KB-D00/04-KB-D00-005",
+        "start": 18300
+    },
+    {
+        "action": "PrintText",
+        "end": 19000,
+        "persona": "Макото",
+        "start": 18300,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 19000,
+        "file": "Voice04/04-KB/04-KB-D00/04-KB-D00-0090",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 18300
+    },
+    {
+        "action": "PlayMovie",
+        "end": 23000,
+        "file": "Movie04/04-KB/04-KB-D00/04-KB-D00-006",
+        "start": 20200
+    },
+    {
+        "action": "PrintText",
+        "end": 21000,
+        "persona": "Котоноха",
+        "start": 20200,
+        "text": "Макото?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 21000,
+        "file": "Voice04/04-KB/04-KB-D00/04-KB-D00-0100",
+        "layer": 0,
+        "persona": "kot",
+        "start": 20200
+    }
+]

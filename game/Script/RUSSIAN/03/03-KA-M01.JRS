@@ -1,0 +1,107 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 30000,
+        "file": "BGM/SD_BGM/sdbgm06",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 8000,
+        "file": "Event03/03-KA/03-KA-M01/03-KA-M01-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Я её хочу...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-KA/03-KA-M01/03-KA-M01-0030",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Макото",
+        "start": 2016,
+        "text": "Ведь это и означает любить, верно?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice03/03-KA/03-KA-M01/03-KA-M01-0040",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 2016
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Макото",
+        "start": 7233,
+        "text": "Я совсем запутался.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice03/03-KA/03-KA-M01/03-KA-M01-0050",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 7233
+    },
+    {
+        "action": "CreateBG",
+        "end": 21000,
+        "file": "Event03/03-KA/03-KA-M01/03-KA-M01-002",
+        "start": 8350
+    },
+    {
+        "action": "PrintText",
+        "end": 18000,
+        "persona": "Макото",
+        "start": 9250,
+        "text": "Но где-то глубоко в груди мне тепло просто от того, что я говорю с ней.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 18000,
+        "file": "Voice03/03-KA/03-KA-M01/03-KA-M01-0060",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 9250
+    },
+    {
+        "action": "PrintText",
+        "end": 28000,
+        "persona": "Макото",
+        "start": 19216,
+        "text": "Только от мысли, что после уроков мы встретимся, моё сердце начинает биться быстрее.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 28000,
+        "file": "Voice03/03-KA/03-KA-M01/03-KA-M01-0070",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 19216
+    },
+    {
+        "action": "CreateBG",
+        "end": 30000,
+        "file": "Event03/03-KA/03-KA-M01/03-KA-M01-003",
+        "start": 21383
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 30000,
+        "start": 29183
+    }
+]

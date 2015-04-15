@@ -1,0 +1,204 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 26000,
+        "file": "BGM/SD_BGM/sdbgm01",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 26000,
+        "file": "Se03/03-BK/03-BK-D00/SE03-BK-D00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event03/03-BK/03-BK-D00/03-BK-D00-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 6000,
+        "file": "Event03/03-BK/03-BK-D00/03-BK-D00-002",
+        "start": 3000
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event03/03-BK/03-BK-D00/03-BK-D00-003",
+        "start": 6000
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 6000,
+        "text": "Доброе утро.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice03/03-BK/03-BK-D00/03-BK-D00-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 6000
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event03/03-BK/03-BK-D00/03-BK-D00-004A",
+        "start": 7033
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Таисукэ",
+        "start": 7033,
+        "text": "Макото! А я тебя как раз поджидаю!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice03/03-BK/03-BK-D00/03-BK-D00-0050",
+        "layer": 1,
+        "persona": "tai",
+        "start": 7033
+    },
+    {
+        "action": "CreateBG",
+        "end": 16000,
+        "file": "Event03/03-BK/03-BK-D00/03-BK-D00-004B",
+        "start": 9333
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Макото",
+        "start": 9333,
+        "text": "О, Таисукэ? Я смотрю, ты с утра бодрячком.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice03/03-BK/03-BK-D00/03-BK-D00-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 9333
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Таисукэ",
+        "start": 13333,
+        "text": "Слушай, мне тут одно дело обсудить надо.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice03/03-BK/03-BK-D00/03-BK-D00-0070",
+        "layer": 1,
+        "persona": "tai",
+        "start": 13333
+    },
+    {
+        "action": "CreateBG",
+        "end": 20000,
+        "file": "Event03/03-BK/03-BK-D00/03-BK-D00-005",
+        "start": 16016
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Макото",
+        "start": 16016,
+        "text": "Со мной?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice03/03-BK/03-BK-D00/03-BK-D00-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 16016
+    },
+    {
+        "action": "PrintText",
+        "end": 18000,
+        "persona": "Таисукэ",
+        "start": 16366,
+        "text": "Да, пошли поговорим.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 18000,
+        "file": "Voice03/03-BK/03-BK-D00/03-BK-D00-0090",
+        "layer": 1,
+        "persona": "tai",
+        "start": 16366
+    },
+    {
+        "action": "PrintText",
+        "end": 20000,
+        "persona": "Макото",
+        "start": 18166,
+        "text": "Ты об уборке что ли?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 20000,
+        "file": "Voice03/03-BK/03-BK-D00/03-BK-D00-0100",
+        "layer": 1,
+        "persona": "mak",
+        "start": 18166
+    },
+    {
+        "action": "PrintText",
+        "end": 21000,
+        "persona": "Таисукэ",
+        "start": 20150,
+        "text": "Это не займёт много времени.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 21000,
+        "file": "Voice03/03-BK/03-BK-D00/03-BK-D00-0110",
+        "layer": 1,
+        "persona": "tai",
+        "start": 20150
+    },
+    {
+        "action": "CreateBG",
+        "end": 21000,
+        "file": "Event03/03-BK/03-BK-D00/03-BK-D00-006",
+        "start": 20166
+    },
+    {
+        "action": "PrintText",
+        "end": 25000,
+        "persona": "Макото",
+        "start": 21316,
+        "text": "Хорошо, хорошо! Блин, да не тащи ты меня!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 25000,
+        "file": "Voice03/03-BK/03-BK-D00/03-BK-D00-0120",
+        "layer": 1,
+        "persona": "mak",
+        "start": 21316
+    },
+    {
+        "action": "CreateBG",
+        "end": 26000,
+        "file": "Event03/03-BK/03-BK-D00/03-BK-D00-007",
+        "start": 21333
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 26000,
+        "start": 25300
+    }
+]

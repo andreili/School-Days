@@ -1,0 +1,44 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 5000,
+        "file": "BGM/SD_BGM/sdbgm19",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event05/05-SB/05-SB-H01/05-SB-H01-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Да.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice05/05-SB/05-SB-H01/05-SB-H01-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Нанами",
+        "start": 2100,
+        "text": "Так и знала.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice05/05-SB/05-SB-H01/05-SB-H01-0040",
+        "layer": 0,
+        "persona": "nan",
+        "start": 2100
+    }
+]

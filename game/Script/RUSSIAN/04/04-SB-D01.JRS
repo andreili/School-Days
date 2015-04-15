@@ -1,0 +1,51 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 5000,
+        "file": "SysSe/SE_all/station_train/train_in",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 5000,
+        "file": "Movie04/04-SB/04-SB-D01/04-SB-D01-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 133,
+        "text": "Прости...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice04/04-SB/04-SB-D01/04-SB-D01-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 133
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Котоноха",
+        "start": 1200,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice04/04-SB/04-SB-D01/04-SB-D01-0040",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 1200
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 5000,
+        "start": 4000
+    }
+]

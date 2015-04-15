@@ -1,0 +1,149 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 23000,
+        "file": "BGM/SD_BGM/sdbgm09",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 6000,
+        "file": "Event05/05-5H/05-5H-C00/05-5H-C00-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Макото",
+        "start": 3066,
+        "text": "Привет!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice05/05-5H/05-5H-C00/05-5H-C00-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 3066
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Хикари",
+        "start": 4183,
+        "text": "П-привет!..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice05/05-5H/05-5H-C00/05-5H-C00-0050",
+        "layer": 0,
+        "persona": "hik",
+        "start": 4183
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event05/05-5H/05-5H-C00/05-5H-C00-001B",
+        "start": 6233
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Котоноха",
+        "start": 6250,
+        "text": "И вам. Заходите.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice05/05-5H/05-5H-C00/05-5H-C00-0060",
+        "layer": 0,
+        "persona": "kot",
+        "start": 6250
+    },
+    {
+        "action": "CreateBG",
+        "end": 13000,
+        "file": "Event05/05-5H/05-5H-C00/05-5H-C00-002",
+        "start": 9116
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Котоноха",
+        "start": 9266,
+        "text": "Сегодня у меня дома никого.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice05/05-5H/05-5H-C00/05-5H-C00-0080",
+        "layer": 0,
+        "persona": "kot",
+        "start": 9266
+    },
+    {
+        "action": "CreateBG",
+        "end": 20000,
+        "file": "Event05/05-5H/05-5H-C00/05-5H-C00-003",
+        "start": 13366
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Макото",
+        "start": 14050,
+        "text": "Ага.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice05/05-5H/05-5H-C00/05-5H-C00-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 14050
+    },
+    {
+        "action": "PrintText",
+        "end": 20000,
+        "persona": "Котоноха",
+        "start": 15150,
+        "text": "Ну, поднимайтесь на 2 этаж. Саванага там ждёт.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 20000,
+        "file": "Voice05/05-5H/05-5H-C00/05-5H-C00-0100",
+        "layer": 0,
+        "persona": "kot",
+        "start": 15150
+    },
+    {
+        "action": "CreateBG",
+        "end": 23000,
+        "file": "Event05/05-5H/05-5H-C00/05-5H-C00-004",
+        "start": 20183
+    },
+    {
+        "action": "PrintText",
+        "end": 22000,
+        "persona": "Хикари",
+        "start": 20316,
+        "text": "У-угу!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 22000,
+        "file": "Voice05/05-5H/05-5H-C00/05-5H-C00-0110",
+        "layer": 0,
+        "persona": "hik",
+        "start": 20316
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 23000,
+        "start": 22083
+    }
+]

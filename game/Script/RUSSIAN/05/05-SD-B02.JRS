@@ -1,0 +1,56 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 9000,
+        "file": "BGM/SD_BGM/sdbgm20",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event05/05-SD/05-SD-B02/05-SD-B02-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 6000,
+        "file": "Event05/05-SD/05-SD-B02/05-SD-B02-002",
+        "start": 3066
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Сэкаи",
+        "start": 4066,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice05/05-SD/05-SD-B02/05-SD-B02-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 4066
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event05/05-SD/05-SD-B02/05-SD-B02-003",
+        "start": 6016
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Сэкаи",
+        "start": 6183,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice05/05-SD/05-SD-B02/05-SD-B02-0040",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 6183
+    }
+]

@@ -1,0 +1,81 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 14000,
+        "file": "SysSe/SE_all/gaya/kyousitu_rouka",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event05/05-A0/05-A0-H02/05-A0-H02-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Нанами",
+        "start": 0,
+        "text": "Не можешь ответить?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice05/05-A0/05-A0-H03/05-A0-H03-0040",
+        "layer": 0,
+        "persona": "nan",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Макото",
+        "start": 1250,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice05/05-A0/05-A0-H03/05-A0-H03-0050",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 1250
+    },
+    {
+        "action": "CreateBG",
+        "end": 14000,
+        "file": "Event05/05-A0/05-A0-H02/05-A0-H02-002",
+        "start": 5000
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Нанами",
+        "start": 5083,
+        "text": "Ну так молчание тоже вполне сойдёт за ответ.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice05/05-A0/05-A0-H03/05-A0-H03-0060",
+        "layer": 0,
+        "persona": "nan",
+        "start": 5083
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Макото",
+        "start": 9250,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice05/05-A0/05-A0-H03/05-A0-H03-0070",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 9250
+    }
+]

@@ -1,0 +1,124 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 15000,
+        "file": "BGM/SD_BGM/sdbgm06",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 15000,
+        "file": "Se04/04-KA/04-KA-G00/SE04-KA-G00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event04/04-KA/04-KA-F09/04-KA-F09-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Таисукэ",
+        "start": 33,
+        "text": "Макото...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice04/04-KA/04-KA-F09/04-KA-F09-0040",
+        "layer": 1,
+        "persona": "tai",
+        "start": 33
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 1100,
+        "text": "Что?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice04/04-KA/04-KA-F09/04-KA-F09-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 1100
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Таисукэ",
+        "start": 2100,
+        "text": "На вечеринку пойдёшь?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice04/04-KA/04-KA-F09/04-KA-F09-0060",
+        "layer": 1,
+        "persona": "tai",
+        "start": 2100
+    },
+    {
+        "action": "CreateBG",
+        "end": 15000,
+        "file": "Event04/04-KA/04-KA-F09/04-KA-F09-002",
+        "start": 3166
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 3216,
+        "text": "На ту, про которую ты утром говорил?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice04/04-KA/04-KA-F09/04-KA-F09-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 3216
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Таисукэ",
+        "start": 7050,
+        "text": "Ну так как?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice04/04-KA/04-KA-F09/04-KA-F09-0080",
+        "layer": 1,
+        "persona": "tai",
+        "start": 7050
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Макото",
+        "start": 8150,
+        "text": "Дай-ка подумать...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice04/04-KA/04-KA-F09/04-KA-F09-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 8150
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Пойду.^",
+        "answer2": "Не пойду.^",
+        "end": 14000,
+        "start": 9283
+    }
+]

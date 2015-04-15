@@ -1,0 +1,63 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 12000,
+        "file": "BGM/SD_BGM/sdbgm14",
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 5000,
+        "file": "Movie03/03-B1/03-B1-C00/03-B1-C00-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Объявление",
+        "start": 0,
+        "text": "Приготовления к вечерней части фестиваля закончены.^"
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Объявление",
+        "start": 4000,
+        "text": "Желающие принять участие, пожалуйста, собирайтесь в школьном дворе.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice03/03-B1/03-B1-C00/03-B1-C00-0050",
+        "layer": 1,
+        "persona": "kou",
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 12000,
+        "file": "Movie03/03-B1/03-B1-C00/03-B1-C00-002",
+        "start": 5283
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Макото",
+        "start": 9250,
+        "text": "В актовом зале...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice03/03-B1/03-B1-C00/03-B1-C00-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 9250
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 12000,
+        "start": 11016
+    }
+]

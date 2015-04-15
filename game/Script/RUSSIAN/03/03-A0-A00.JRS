@@ -1,0 +1,131 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 22000,
+        "file": "BGM/SD_BGM/sdbgm07",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 22000,
+        "file": "Se03/03-A0/03-A0-A00/SE03-A0-A00-001",
+        "layer": 3,
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 6000,
+        "file": "Movie02/02-2K/02-2K-J05/02-2K-J05-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 100,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-A0/03-A0-A00/03-A0-A00-0040",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 100
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Котоноха",
+        "start": 2033,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice03/03-A0/03-A0-A00/03-A0-A00-0060",
+        "layer": 0,
+        "persona": "kot",
+        "start": 2033
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 4250,
+        "text": "Извините, вы не могли бы подвинуться?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice03/03-A0/03-A0-A00/03-A0-A00-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 4250
+    },
+    {
+        "action": "PlayMovie",
+        "end": 22000,
+        "file": "Movie03/03-A0/03-A0-A00/03-A0-A00-002",
+        "start": 6250
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Котоноха",
+        "start": 9250,
+        "text": "Спасибо!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice03/03-A0/03-A0-A00/03-A0-A00-0100",
+        "layer": 0,
+        "persona": "kot",
+        "start": 6250
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Макото",
+        "start": 11233,
+        "text": "Ничего.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice03/03-A0/03-A0-A00/03-A0-A00-0110",
+        "layer": 1,
+        "persona": "mak",
+        "start": 11233
+    },
+    {
+        "action": "PlaySe",
+        "end": 14000,
+        "file": "Voice03/03-A0/03-A0-A00/03-A0-A00-0130",
+        "layer": 1,
+        "start": 12250
+    },
+    {
+        "action": "PlaySe",
+        "end": 15000,
+        "file": "Voice03/03-A0/03-A0-A00/03-A0-A00-0150",
+        "layer": 2,
+        "start": 14366
+    },
+    {
+        "action": "PlayVoice",
+        "end": 18000,
+        "file": "Voice03/03-A0/03-A0-A00/03-A0-A00-0160",
+        "layer": -1,
+        "persona": "",
+        "start": 15350
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Убрать руку.^",
+        "answer2": "Немного потискать.^",
+        "end": 21000,
+        "start": 16116
+    }
+]

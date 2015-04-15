@@ -1,0 +1,378 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 57000,
+        "file": "BGM/SD_BGM/sdbgm07",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 71000,
+        "file": "Se02/02-2K/02-2K-R00/SE02-2K-R00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event02/02-2K/02-2K-R00/02-2K-R00-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Да, припозднились мы...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice02/02-2K/02-2K-R00/02-2K-R00-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event02/02-2K/02-2K-R00/02-2K-R00-002",
+        "start": 2266
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Сэкаи",
+        "start": 2266,
+        "text": "А тебя мама не хватится?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice02/02-2K/02-2K-R00/02-2K-R00-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 2266
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event02/02-2K/02-2K-R00/02-2K-R00-003",
+        "start": 5016
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 5016,
+        "text": "К счастью, она сегодня тоже работает в ночную смену.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice02/02-2K/02-2K-R00/02-2K-R00-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 5016
+    },
+    {
+        "action": "CreateBG",
+        "end": 12000,
+        "file": "Event02/02-2K/02-2K-R00/02-2K-R00-004",
+        "start": 7200
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Сэкаи",
+        "start": 7200,
+        "text": "Ух-ты! Ух-ты! Значит, мы могли и к тебе пойти?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice02/02-2K/02-2K-R00/02-2K-R00-0080",
+        "layer": 0,
+        "persona": "sek",
+        "start": 7200
+    },
+    {
+        "action": "PrintText",
+        "end": 22000,
+        "persona": "Макото",
+        "start": 12333,
+        "text": "Наверное... Тогда был бы мой черёд говорить: «Я ничего такого не планировал!»^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 22000,
+        "file": "Voice02/02-2K/02-2K-R00/02-2K-R00-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 12333
+    },
+    {
+        "action": "CreateBG",
+        "end": 22000,
+        "file": "Event02/02-2K/02-2K-R00/02-2K-R00-003",
+        "start": 12350
+    },
+    {
+        "action": "PlaySe",
+        "end": 31000,
+        "file": "SysSe/SE_all/station_train/train_stopping",
+        "layer": 2,
+        "start": 14216
+    },
+    {
+        "action": "CreateBG",
+        "end": 23000,
+        "file": "Event02/02-2K/02-2K-R00/02-2K-R00-006",
+        "start": 22066
+    },
+    {
+        "action": "PlayVoice",
+        "end": 23000,
+        "file": "Voice02/02-2K/02-2K-R00/02-2K-R00-0100",
+        "layer": 0,
+        "persona": "sek",
+        "start": 22083
+    },
+    {
+        "action": "PlayMovie",
+        "end": 31000,
+        "file": "Movie02/02-2K/02-2K-R00/02-2K-R00-007",
+        "start": 23333
+    },
+    {
+        "action": "PrintText",
+        "end": 24000,
+        "persona": "Макото",
+        "start": 24066,
+        "text": "Ладно, я поехал.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 24000,
+        "file": "Voice02/02-2K/02-2K-R00/02-2K-R00-0120",
+        "layer": 1,
+        "persona": "mak",
+        "start": 24066
+    },
+    {
+        "action": "PrintText",
+        "end": 27000,
+        "persona": "Сэкаи",
+        "start": 25200,
+        "text": "Ага, бай-бай!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 27000,
+        "file": "Voice02/02-2K/02-2K-R00/02-2K-R00-0130",
+        "layer": 0,
+        "persona": "sek",
+        "start": 25200
+    },
+    {
+        "action": "PrintText",
+        "end": 28000,
+        "persona": "Макото",
+        "start": 27233,
+        "text": "Спокойной ночи.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 28000,
+        "file": "Voice02/02-2K/02-2K-R00/02-2K-R00-0140",
+        "layer": 1,
+        "persona": "mak",
+        "start": 27233
+    },
+    {
+        "action": "CreateBG",
+        "end": 35000,
+        "file": "Event02/02-2K/02-2K-R00/02-2K-R00-008",
+        "start": 31083
+    },
+    {
+        "action": "PrintText",
+        "end": 32000,
+        "persona": "Сэкаи",
+        "start": 31166,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 32000,
+        "file": "Voice02/02-2K/02-2K-R00/02-2K-R00-0150",
+        "layer": 0,
+        "persona": "sek",
+        "start": 31166
+    },
+    {
+        "action": "PrintText",
+        "end": 33000,
+        "persona": "Макото",
+        "start": 32200,
+        "text": "Да?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 33000,
+        "file": "Voice02/02-2K/02-2K-R00/02-2K-R00-0160",
+        "layer": 1,
+        "persona": "mak",
+        "start": 32200
+    },
+    {
+        "action": "PlaySe",
+        "end": 35000,
+        "file": "SysSe/SE_all/station_train/train_door_open",
+        "layer": 3,
+        "start": 33050
+    },
+    {
+        "action": "PrintText",
+        "end": 34000,
+        "persona": "Сэкаи",
+        "start": 33283,
+        "text": "Слушай...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 34000,
+        "file": "Voice02/02-2K/02-2K-R00/02-2K-R00-0170",
+        "layer": 0,
+        "persona": "sek",
+        "start": 33283
+    },
+    {
+        "action": "CreateBG",
+        "end": 38000,
+        "file": "Event02/02-2K/02-2K-R00/02-2K-R00-009",
+        "start": 35083
+    },
+    {
+        "action": "PrintText",
+        "end": 38000,
+        "persona": "Макото",
+        "start": 35133,
+        "text": "Что случилось? Поезд уже подошёл!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 38000,
+        "file": "Voice02/02-2K/02-2K-R00/02-2K-R00-0180",
+        "layer": 1,
+        "persona": "mak",
+        "start": 35133
+    },
+    {
+        "action": "CreateBG",
+        "end": 43000,
+        "file": "Event02/02-2K/02-2K-R00/02-2K-R00-010",
+        "start": 38250
+    },
+    {
+        "action": "PrintText",
+        "end": 43000,
+        "persona": "Сэкаи",
+        "start": 38250,
+        "text": "Я Кацуре ничего не скажу.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 43000,
+        "file": "Voice02/02-2K/02-2K-R00/02-2K-R00-0200",
+        "layer": 0,
+        "persona": "sek",
+        "start": 38250
+    },
+    {
+        "action": "PlaySe",
+        "end": 45000,
+        "file": "SysSe/SE_all/station_train/start_bell",
+        "layer": 2,
+        "start": 41083
+    },
+    {
+        "action": "CreateBG",
+        "end": 44000,
+        "file": "Event02/02-2K/02-2K-R00/02-2K-R00-011",
+        "start": 43200
+    },
+    {
+        "action": "PrintText",
+        "end": 44000,
+        "persona": "Макото",
+        "start": 43266,
+        "text": "?!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 44000,
+        "file": "Voice02/02-2K/02-2K-R00/02-2K-R00-0210",
+        "layer": 1,
+        "persona": "mak",
+        "start": 43266
+    },
+    {
+        "action": "CreateBG",
+        "end": 49000,
+        "file": "Event02/02-2K/02-2K-R00/02-2K-R00-012",
+        "start": 44383
+    },
+    {
+        "action": "PrintText",
+        "end": 48000,
+        "persona": "Сэкаи",
+        "start": 44383,
+        "text": "Так что на этом тренировка окончена! Спокойной ночи!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 48000,
+        "file": "Voice02/02-2K/02-2K-R00/02-2K-R00-0220",
+        "layer": 0,
+        "persona": "sek",
+        "start": 44383
+    },
+    {
+        "action": "PlaySe",
+        "end": 66000,
+        "file": "SysSe/SE_all/station_train/train_start",
+        "layer": 2,
+        "start": 48100
+    },
+    {
+        "action": "PlayMovie",
+        "end": 68000,
+        "file": "Movie02/02-2K/02-2K-R00/02-2K-R00-013",
+        "start": 49066
+    },
+    {
+        "action": "EndBGM",
+        "end": 193000,
+        "file": "BGM/Vocal/SDV05A",
+        "start": 57000
+    },
+    {
+        "action": "CreateBG",
+        "end": 74000,
+        "file": "Event02/02-2K/02-2K-R00/02-2K-R00-015",
+        "start": 68000
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 74000,
+        "start": 73116
+    },
+    {
+        "action": "EndRoll",
+        "end": 191000,
+        "file": "Movie02/ENDROLL/03-2",
+        "start": 74116
+    }
+]

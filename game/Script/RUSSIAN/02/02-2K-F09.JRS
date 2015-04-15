@@ -1,0 +1,60 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 7000,
+        "file": "Se01/01-00/01-00-E00/SE01-00-E00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event02/02-2K/02-2K-F09/02-2K-F09-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice02/02-2K/02-2K-F09/02-2K-F09-0030",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Котоноха",
+        "start": 1100,
+        "text": "Извини, всё-таки я ещё не привыкла.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice02/02-2K/02-2K-F09/02-2K-F09-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 1100
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Макото",
+        "start": 5266,
+        "text": "Ничего...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice02/02-2K/02-2K-F09/02-2K-F09-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 5266
+    }
+]

@@ -1,0 +1,405 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 61000,
+        "file": "BGM/SD_BGM/sdbgm01",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 61000,
+        "file": "SysSe/SE_all/station_train/haramasu",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 0,
+        "file": "Movie00/00-00/00-00-A00/00-00-A00-016",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Котоноха",
+        "start": 316,
+        "text": "Доброе утро!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice04/04-SA/04-SA-S00/04-SA-S00-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 316
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event04/04-SA/04-SA-S00/04-SA-S00-002",
+        "start": 333
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event04/04-SA/04-SA-S00/04-SA-S00-003",
+        "start": 2083
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Макото",
+        "start": 2083,
+        "text": "Доброе!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice04/04-SA/04-SA-S00/04-SA-S00-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2083
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Котоноха",
+        "start": 3116,
+        "text": "Я тебя искала.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice04/04-SA/04-SA-S00/04-SA-S00-0060",
+        "layer": 0,
+        "persona": "kot",
+        "start": 3116
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 6183,
+        "text": "Ждала?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice04/04-SA/04-SA-S00/04-SA-S00-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 6183
+    },
+    {
+        "action": "PrintText",
+        "end": 15000,
+        "persona": "Котоноха",
+        "start": 7266,
+        "text": "Совсем немного. Я же не знаю в какое время ты выходишь. А идея мне посреди ночи в голову пришла...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 15000,
+        "file": "Voice04/04-SA/04-SA-S00/04-SA-S00-0080",
+        "layer": 0,
+        "persona": "kot",
+        "start": 7266
+    },
+    {
+        "action": "CreateBG",
+        "end": 15000,
+        "file": "Event04/04-SA/04-SA-S00/04-SA-S00-004",
+        "start": 7283
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Макото",
+        "start": 15150,
+        "text": "Идея?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice04/04-SA/04-SA-S00/04-SA-S00-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 15150
+    },
+    {
+        "action": "CreateBG",
+        "end": 16000,
+        "file": "Event04/04-SA/04-SA-S00/04-SA-S00-005",
+        "start": 15166
+    },
+    {
+        "action": "CreateBG",
+        "end": 23000,
+        "file": "Event04/04-SA/04-SA-S00/04-SA-S00-006",
+        "start": 16266
+    },
+    {
+        "action": "PrintText",
+        "end": 22000,
+        "persona": "Котоноха",
+        "start": 16266,
+        "text": "Так вот... Ты, если занят, конечно, то не надо...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 22000,
+        "file": "Voice04/04-SA/04-SA-S00/04-SA-S00-0100",
+        "layer": 0,
+        "persona": "kot",
+        "start": 16266
+    },
+    {
+        "action": "PrintText",
+        "end": 23000,
+        "persona": "Макото",
+        "start": 22100,
+        "text": "Что?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 23000,
+        "file": "Voice04/04-SA/04-SA-S00/04-SA-S00-0110",
+        "layer": 1,
+        "persona": "mak",
+        "start": 22100
+    },
+    {
+        "action": "CreateBG",
+        "end": 26000,
+        "file": "Event04/04-SA/04-SA-S00/04-SA-S00-007",
+        "start": 23000
+    },
+    {
+        "action": "PrintText",
+        "end": 26000,
+        "persona": "Котоноха",
+        "start": 23000,
+        "text": "Может... Пообедаем сегодня вместе?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 26000,
+        "file": "Voice04/04-SA/04-SA-S00/04-SA-S00-0120",
+        "layer": 0,
+        "persona": "kot",
+        "start": 23000
+    },
+    {
+        "action": "CreateBG",
+        "end": 32000,
+        "file": "Event04/04-SA/04-SA-S00/04-SA-S00-008",
+        "start": 26300
+    },
+    {
+        "action": "PrintText",
+        "end": 27000,
+        "persona": "Макото",
+        "start": 26300,
+        "text": "А...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 27000,
+        "file": "Voice04/04-SA/04-SA-S00/04-SA-S00-0130",
+        "layer": 1,
+        "persona": "mak",
+        "start": 26300
+    },
+    {
+        "action": "PrintText",
+        "end": 31000,
+        "persona": "Котоноха",
+        "start": 27166,
+        "text": "Не вдвоём, все вместе, кто вчера был.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 31000,
+        "file": "Voice04/04-SA/04-SA-S00/04-SA-S00-0140",
+        "layer": 0,
+        "persona": "kot",
+        "start": 27166
+    },
+    {
+        "action": "PrintText",
+        "end": 32000,
+        "persona": "Макото",
+        "start": 31150,
+        "text": "С Таисукэ?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 32000,
+        "file": "Voice04/04-SA/04-SA-S00/04-SA-S00-0150",
+        "layer": 1,
+        "persona": "mak",
+        "start": 31150
+    },
+    {
+        "action": "PrintText",
+        "end": 35000,
+        "persona": "Котоноха",
+        "start": 32333,
+        "text": "Да! Не против?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 35000,
+        "file": "Voice04/04-SA/04-SA-S00/04-SA-S00-0160",
+        "layer": 0,
+        "persona": "kot",
+        "start": 32333
+    },
+    {
+        "action": "CreateBG",
+        "end": 35000,
+        "file": "Event04/04-SA/04-SA-S00/04-SA-S00-009",
+        "start": 32366
+    },
+    {
+        "action": "CreateBG",
+        "end": 37000,
+        "file": "Event04/04-SA/04-SA-S00/04-SA-S00-010",
+        "start": 35133
+    },
+    {
+        "action": "PrintText",
+        "end": 37000,
+        "persona": "Макото",
+        "start": 35133,
+        "text": "Ага...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 37000,
+        "file": "Voice04/04-SA/04-SA-S00/04-SA-S00-0170",
+        "layer": 1,
+        "persona": "mak",
+        "start": 35133
+    },
+    {
+        "action": "CreateBG",
+        "end": 44000,
+        "file": "Event04/04-SA/04-SA-S00/04-SA-S00-011",
+        "start": 37016
+    },
+    {
+        "action": "PrintText",
+        "end": 44000,
+        "persona": "Котоноха",
+        "start": 37016,
+        "text": "Вот и славно. Я большой термос принесла, чтобы всем чая хватило!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 44000,
+        "file": "Voice04/04-SA/04-SA-S00/04-SA-S00-0180",
+        "layer": 0,
+        "persona": "kot",
+        "start": 37016
+    },
+    {
+        "action": "PrintText",
+        "end": 44000,
+        "persona": "Макото",
+        "start": 44016,
+        "text": "Чёрный?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 44000,
+        "file": "Voice04/04-SA/04-SA-S00/04-SA-S00-0190",
+        "layer": 1,
+        "persona": "mak",
+        "start": 44016
+    },
+    {
+        "action": "PrintText",
+        "end": 52000,
+        "persona": "Котоноха",
+        "start": 44333,
+        "text": "Да. Тёплый. Сегодня вообще день тёплый задался...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 52000,
+        "file": "Voice04/04-SA/04-SA-S00/04-SA-S00-0200",
+        "layer": 0,
+        "persona": "kot",
+        "start": 44333
+    },
+    {
+        "action": "CreateBG",
+        "end": 52000,
+        "file": "Event04/04-SA/04-SA-S00/04-SA-S00-002",
+        "start": 44383
+    },
+    {
+        "action": "CreateBG",
+        "end": 55000,
+        "file": "Event04/04-SA/04-SA-S00/04-SA-S00-013",
+        "start": 52183
+    },
+    {
+        "action": "PrintText",
+        "end": 55000,
+        "persona": "Макото",
+        "start": 52183,
+        "text": "Последние дни всё только холодало...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 55000,
+        "file": "Voice04/04-SA/04-SA-S00/04-SA-S00-0210",
+        "layer": 1,
+        "persona": "mak",
+        "start": 52183
+    },
+    {
+        "action": "CreateBG",
+        "end": 59000,
+        "file": "Event04/04-SA/04-SA-S00/04-SA-S00-014",
+        "start": 55316
+    },
+    {
+        "action": "PrintText",
+        "end": 59000,
+        "persona": "Котоноха",
+        "start": 55333,
+        "text": "Но раз сегодня тепло, то и на крыше пообедать можно будет.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 59000,
+        "file": "Voice04/04-SA/04-SA-S00/04-SA-S00-0220",
+        "layer": 0,
+        "persona": "kot",
+        "start": 55333
+    },
+    {
+        "action": "CreateBG",
+        "end": 61000,
+        "file": "Event04/04-SA/04-SA-S00/04-SA-S00-015",
+        "start": 59183
+    },
+    {
+        "action": "PrintText",
+        "end": 60000,
+        "persona": "Макото",
+        "start": 59183,
+        "text": "И то верно.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 60000,
+        "file": "Voice04/04-SA/04-SA-S00/04-SA-S00-0230",
+        "layer": 1,
+        "persona": "mak",
+        "start": 59183
+    }
+]

@@ -1,0 +1,303 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 53000,
+        "file": "BGM/SD_BGM/sdbgm06",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 53000,
+        "file": "Se00/00-00/00-00-J00/SE00-00-J00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event00/00-00/00-00-J00/00-00-J00-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Сэкаи",
+        "start": 100,
+        "text": "У тебя получилось!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice00/00-00/00-00-J00/00-00-J00-0030",
+        "layer": 0,
+        "persona": "sek",
+        "start": 100
+    },
+    {
+        "action": "CreateBG",
+        "end": 4000,
+        "file": "Event00/00-00/00-00-J00/00-00-J00-002",
+        "start": 1216
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Макото",
+        "start": 1233,
+        "text": "Да, правда совсем ненадолго. У неё собрание до вечера.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice00/00-00/00-00-J00/00-00-J00-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 1233
+    },
+    {
+        "action": "CreateBG",
+        "end": 22000,
+        "file": "Event00/00-00/00-00-J00/00-00-J00-003",
+        "start": 4100
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Сэкаи",
+        "start": 6083,
+        "text": "Для первого свидания это даже к лучшему!^"
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Сэкаи",
+        "start": 8183,
+        "text": "Целый день ты бы не продержался.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice00/00-00/00-00-J00/00-00-J00-0050",
+        "layer": 0,
+        "persona": "sek",
+        "start": 6083
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Макото",
+        "start": 11083,
+        "text": "Не говори так... Ладно, может, ты и права.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice00/00-00/00-00-J00/00-00-J00-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 11083
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Сэкаи",
+        "start": 15066,
+        "text": "Вы после уроков в школе встретитесь?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice00/00-00/00-00-J00/00-00-J00-0070",
+        "layer": 0,
+        "persona": "sek",
+        "start": 15066
+    },
+    {
+        "action": "PrintText",
+        "end": 19000,
+        "persona": "Макото",
+        "start": 17150,
+        "text": "Нет, на станции.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 19000,
+        "file": "Voice00/00-00/00-00-J00/00-00-J00-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 17150
+    },
+    {
+        "action": "PrintText",
+        "end": 22000,
+        "persona": "Сэкаи",
+        "start": 19033,
+        "text": "Ну, поздравляю с первым свиданием!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 22000,
+        "file": "Voice00/00-00/00-00-J00/00-00-J00-0090",
+        "layer": 0,
+        "persona": "sek",
+        "start": 19033
+    },
+    {
+        "action": "CreateBG",
+        "end": 36000,
+        "file": "Event00/00-00/00-00-J00/00-00-J00-004",
+        "start": 22016
+    },
+    {
+        "action": "PrintText",
+        "end": 27000,
+        "persona": "Макото",
+        "start": 22083,
+        "text": "Хотелось бы сказать, что это было легко.^"
+    },
+    {
+        "action": "PrintText",
+        "end": 30000,
+        "persona": "Макото",
+        "start": 27183,
+        "text": "Ты отправила ей СМС, что будешь занята^"
+    },
+    {
+        "action": "PrintText",
+        "end": 35000,
+        "persona": "Макото",
+        "start": 30100,
+        "text": "и не сможешь сегодня пойти. Спасибо, ты меня очень выручила.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 35000,
+        "file": "Voice00/00-00/00-00-J00/00-00-J00-0100",
+        "layer": 1,
+        "persona": "mak",
+        "start": 22083
+    },
+    {
+        "action": "PrintText",
+        "end": 36000,
+        "persona": "Сэкаи",
+        "start": 35133,
+        "text": "Не за что.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 36000,
+        "file": "Voice00/00-00/00-00-J00/00-00-J00-0110",
+        "layer": 0,
+        "persona": "sek",
+        "start": 35133
+    },
+    {
+        "action": "CreateBG",
+        "end": 39000,
+        "file": "Event00/00-00/00-00-J00/00-00-J00-005",
+        "start": 36200
+    },
+    {
+        "action": "PrintText",
+        "end": 40000,
+        "persona": "Макото",
+        "start": 36316,
+        "text": "Что бы я без тебя делал, Сэкаи.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 40000,
+        "file": "Voice00/00-00/00-00-J00/00-00-J00-0120",
+        "layer": 1,
+        "persona": "mak",
+        "start": 36316
+    },
+    {
+        "action": "PrintText",
+        "end": 45000,
+        "persona": "Сэкаи",
+        "start": 39366,
+        "text": "Может, мне с тобой и на свидание пойти?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 45000,
+        "file": "Voice00/00-00/00-00-J00/00-00-J00-0130",
+        "layer": 0,
+        "persona": "sek",
+        "start": 39366
+    },
+    {
+        "action": "CreateBG",
+        "end": 53000,
+        "file": "Event00/00-00/00-00-A04/00-00-A04-001A",
+        "start": 39383
+    },
+    {
+        "action": "PrintText",
+        "end": 47000,
+        "persona": "Макото",
+        "start": 45233,
+        "text": "А ты хочешь?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 47000,
+        "file": "Voice00/00-00/00-00-J00/00-00-J00-0140",
+        "layer": 1,
+        "persona": "mak",
+        "start": 45233
+    },
+    {
+        "action": "PrintText",
+        "end": 48000,
+        "persona": "Сэкаи",
+        "start": 47383,
+        "text": "Идиот!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 48000,
+        "file": "Voice00/00-00/00-00-J00/00-00-J00-0150",
+        "layer": 0,
+        "persona": "sek",
+        "start": 47383
+    },
+    {
+        "action": "PrintText",
+        "end": 52000,
+        "persona": "Макото",
+        "start": 48316,
+        "text": "Я пошутил! Всё будет отлично!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 52000,
+        "file": "Voice00/00-00/00-00-J00/00-00-J00-0160",
+        "layer": 1,
+        "persona": "mak",
+        "start": 48316
+    },
+    {
+        "action": "PrintText",
+        "end": 53000,
+        "persona": "Сэкаи",
+        "start": 52016,
+        "text": "Ладно.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 53000,
+        "file": "Voice00/00-00/00-00-J00/00-00-J00-0170",
+        "layer": 0,
+        "persona": "sek",
+        "start": 52016
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 53000,
+        "start": 52283
+    }
+]

@@ -1,0 +1,108 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 7000,
+        "file": "BGM/SD_BGM/sdbgm16",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 7000,
+        "file": "Se03/03-SA/03-SA-D02/SE03-SA-D02-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event03/03-SA/03-SA-D02/03-SA-D02-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Конечно. Где?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-SA/03-SA-D02/03-SA-D02-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Сэкаи",
+        "start": 1233,
+        "text": "В астрономическом кружке.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice03/03-SA/03-SA-D02/03-SA-D02-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 1233
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event03/03-SA/03-SA-E00/03-SA-E00-002",
+        "start": 2200
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Макото",
+        "start": 2200,
+        "text": "Астрономический кружок? У нас в школе он разве есть?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice03/03-SA/03-SA-D02/03-SA-D02-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2200
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event03/03-SA/03-SA-D02/03-SA-D02-003",
+        "start": 5250
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Сэкаи",
+        "start": 5250,
+        "text": "Ага. Приходи.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice03/03-SA/03-SA-D02/03-SA-D02-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 5250
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 7000,
+        "text": "Хорошо.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice03/03-SA/03-SA-D02/03-SA-D02-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 7000
+    }
+]

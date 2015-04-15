@@ -1,0 +1,188 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 36000,
+        "file": "BGM/SD_BGM/sdbgm06",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event03/03-KA/03-KA-L04/03-KA-L04-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 100,
+        "text": "Сегодняшнее совещание...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-KA/03-KA-L04/03-KA-L04-0030",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 100
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Макото",
+        "start": 2050,
+        "text": "Мне понравилось. Было интересно готовиться к празднику.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice03/03-KA/03-KA-L04/03-KA-L04-0040",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 2050
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event03/03-KA/03-KA-L04/03-KA-L04-002",
+        "start": 3383
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 5000,
+        "start": 5233
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event03/03-KA/03-KA-L04/03-KA-L04-003",
+        "start": 5333
+    },
+    {
+        "action": "BlackFade",
+        "dir": "IN",
+        "end": 6000,
+        "start": 5333
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Макото",
+        "start": 6050,
+        "text": "А молчаливая Киора вдруг показала себя с неожиданной стороны.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice03/03-KA/03-KA-L04/03-KA-L04-0050",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 6050
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 10000,
+        "start": 10266
+    },
+    {
+        "action": "CreateBG",
+        "end": 13000,
+        "file": "Event03/03-KA/03-KA-L04/03-KA-L04-004",
+        "start": 10366
+    },
+    {
+        "action": "BlackFade",
+        "dir": "IN",
+        "end": 11000,
+        "start": 10366
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 13000,
+        "start": 13066
+    },
+    {
+        "action": "CreateBG",
+        "end": 19000,
+        "file": "Event03/03-KA/03-KA-L04/03-KA-L04-005",
+        "start": 13166
+    },
+    {
+        "action": "BlackFade",
+        "dir": "IN",
+        "end": 13000,
+        "start": 13166
+    },
+    {
+        "action": "PrintText",
+        "end": 19000,
+        "persona": "Макото",
+        "start": 13266,
+        "text": "Я к фестивалю без интереса относился, а она все организовала, чтобы было как следует.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 19000,
+        "file": "Voice03/03-KA/03-KA-L04/03-KA-L04-0051",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 13266
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 19000,
+        "start": 19183
+    },
+    {
+        "action": "CreateBG",
+        "end": 36000,
+        "file": "Event03/03-KA/03-KA-L04/03-KA-L04-006",
+        "start": 19283
+    },
+    {
+        "action": "BlackFade",
+        "dir": "IN",
+        "end": 19000,
+        "start": 19283
+    },
+    {
+        "action": "PrintText",
+        "end": 26000,
+        "persona": "Макото",
+        "start": 20200,
+        "text": "И вдруг вся эта работа перестала быть такой уж нудной и скучной.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 26000,
+        "file": "Voice03/03-KA/03-KA-L04/03-KA-L04-0060",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 20200
+    },
+    {
+        "action": "PrintText",
+        "end": 34000,
+        "persona": "Макото",
+        "start": 27116,
+        "text": "Кажется, сегодня я впервые начал по-настоящему ждать школьный фестиваль.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 34000,
+        "file": "Voice03/03-KA/03-KA-L04/03-KA-L04-0070",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 27116
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 36000,
+        "start": 35183
+    }
+]

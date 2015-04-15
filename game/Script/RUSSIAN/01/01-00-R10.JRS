@@ -1,0 +1,92 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 21000,
+        "file": "BGM/SD_BGM/sdbgm06",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 9000,
+        "file": "Voice01/01-00/01-00-R00/01-00-R00-0057",
+        "layer": 2,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event01/01-00/01-00-B00/01-00-B00-003",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event01/01-00/01-00-R10/01-00-R10-002",
+        "start": 1200
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Макото",
+        "start": 3000,
+        "text": "Не говори ерунды!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice01/01-00/01-00-R10/01-00-R10-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 3000
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event01/01-00/01-00-R10/01-00-R10-003",
+        "start": 5050
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event01/01-00/01-00-R10/01-00-R10-004",
+        "start": 7200
+    },
+    {
+        "action": "CreateBG",
+        "end": 12000,
+        "file": "Event01/01-00/01-00-R10/01-00-R10-005",
+        "start": 10016
+    },
+    {
+        "action": "PlaySe",
+        "end": 20000,
+        "file": "Voice01/01-00/01-00-R00/01-00-R00-0058",
+        "layer": 3,
+        "start": 10216
+    },
+    {
+        "action": "PlaySe",
+        "end": 12000,
+        "file": "Voice01/01-00/01-00-R10/01-00-R10-0040A",
+        "layer": 1,
+        "start": 10300
+    },
+    {
+        "action": "CreateBG",
+        "end": 17000,
+        "file": "Event01/01-00/01-00-R10/01-00-R10-006",
+        "start": 12200
+    },
+    {
+        "action": "CreateBG",
+        "end": 21000,
+        "file": "Event01/01-00/01-00-R10/01-00-R10-007",
+        "start": 17283
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 21000,
+        "start": 20266
+    }
+]

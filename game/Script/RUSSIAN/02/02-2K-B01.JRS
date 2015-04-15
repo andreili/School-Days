@@ -1,0 +1,42 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 10000,
+        "file": "Se01/01-00/01-00-E00/SE01-00-E00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event02/02-2K/02-2K-B01/02-2K-B01-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event02/02-2K/02-2K-B01/02-2K-B01-002",
+        "start": 2183
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Котоноха",
+        "start": 3383,
+        "text": "Макото сегодня опаздывает...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice02/02-2K/02-2K-B01/02-2K-B01-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 3383
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 10000,
+        "start": 9133
+    }
+]

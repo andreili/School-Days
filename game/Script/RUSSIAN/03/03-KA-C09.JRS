@@ -1,0 +1,169 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 23000,
+        "file": "BGM/SD_BGM/sdbgm06",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 23000,
+        "file": "Se03/03-KA/03-KA-C09/SE03-KA-C09-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event03/03-KA/03-KA-C09/03-KA-C09-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 4000,
+        "file": "Event03/03-KA/03-KA-C09/03-KA-C09-002",
+        "start": 2300
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Макото",
+        "start": 3166,
+        "text": "Фух... Так, пора идти.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice03/03-KA/03-KA-C09/03-KA-C09-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 3166
+    },
+    {
+        "action": "CreateBG",
+        "end": 6000,
+        "file": "Event03/03-KA/03-KA-C09/03-KA-C09-003",
+        "start": 4316
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event03/03-KA/03-KA-C09/03-KA-C09-004",
+        "start": 6216
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Сэцуна",
+        "start": 6216,
+        "text": "Ито.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice03/03-KA/03-KA-C09/03-KA-C09-0060",
+        "layer": 0,
+        "persona": "set",
+        "start": 6216
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event03/03-KA/03-KA-C09/03-KA-C09-005",
+        "start": 7166
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Макото",
+        "start": 7166,
+        "text": "Что?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice03/03-KA/03-KA-C09/03-KA-C09-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 7166
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Сэцуна",
+        "start": 8133,
+        "text": "Давай поговорим.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice03/03-KA/03-KA-C09/03-KA-C09-0080",
+        "layer": 0,
+        "persona": "set",
+        "start": 8133
+    },
+    {
+        "action": "CreateBG",
+        "end": 12000,
+        "file": "Event03/03-KA/03-KA-C09/03-KA-C09-006",
+        "start": 10100
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Макото",
+        "start": 10100,
+        "text": "Прямо сейчас? У меня обед, знаешь ли.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice03/03-KA/03-KA-C09/03-KA-C09-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 10100
+    },
+    {
+        "action": "CreateBG",
+        "end": 23000,
+        "file": "Event03/03-KA/03-KA-C09/03-KA-C09-007",
+        "start": 12350
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Сэцуна",
+        "start": 12350,
+        "text": "После обеда будут уроки, а после уроков собрание школьного совета.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice03/03-KA/03-KA-C09/03-KA-C09-0100",
+        "layer": 0,
+        "persona": "set",
+        "start": 12350
+    },
+    {
+        "action": "PrintText",
+        "end": 18000,
+        "persona": "Макото",
+        "start": 16200,
+        "text": "Верно, но...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 18000,
+        "file": "Voice03/03-KA/03-KA-C09/03-KA-C09-0110",
+        "layer": 1,
+        "persona": "mak",
+        "start": 16200
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Убежать.^",
+        "answer2": "У меня встреча...^",
+        "end": 22000,
+        "start": 17316
+    }
+]

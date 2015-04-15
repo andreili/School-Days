@@ -1,0 +1,105 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 17000,
+        "file": "BGM/SD_BGM/sdbgm06",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 17000,
+        "file": "Se03/03-KA/03-KA-J02/SE03-KA-J02-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event03/03-KA/03-KA-J02/03-KA-J02-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 6000,
+        "file": "Event03/03-KA/03-KA-J02/03-KA-J02-002",
+        "start": 3000
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Учитель",
+        "start": 3016,
+        "text": "Всем спасибо за работу.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice03/03-KA/03-KA-J02/03-KA-J02-0030",
+        "layer": 0,
+        "persona": "jin",
+        "start": 3016
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Макото",
+        "start": 4266,
+        "text": "Спасибо...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice03/03-KA/03-KA-J02/03-KA-J02-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 4266
+    },
+    {
+        "action": "CreateBG",
+        "end": 13000,
+        "file": "Event03/03-KA/03-KA-J02/03-KA-J02-003",
+        "start": 6300
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Макото",
+        "start": 6333,
+        "text": "Фух... Даже вместе с ребятами из десятых классов не получилось до вечера закончить.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice03/03-KA/03-KA-J02/03-KA-J02-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 6333
+    },
+    {
+        "action": "CreateBG",
+        "end": 16000,
+        "file": "Event03/03-KA/03-KA-J02/03-KA-J02-004A",
+        "start": 13166
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Макото",
+        "start": 13266,
+        "text": "Пойду-ка я домой.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice03/03-KA/03-KA-J02/03-KA-J02-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 13266
+    },
+    {
+        "action": "CreateBG",
+        "end": 17000,
+        "file": "Event03/03-KA/03-KA-J02/03-KA-J02-004B",
+        "start": 16066
+    }
+]

@@ -1,0 +1,222 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 31000,
+        "file": "BGM/SD_BGM/sdbgm21",
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 3000,
+        "file": "Movie05/05-SA/05-SA-G04/05-SA-G04-001",
+        "start": 0
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice05/05-SA/05-SA-G04/05-SA-G04-0030",
+        "layer": 1,
+        "persona": "ana",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 13000,
+        "file": "SysSe/SE_all/station_train/train_in",
+        "layer": 1,
+        "start": 66
+    },
+    {
+        "action": "CreateBG",
+        "end": 16000,
+        "file": "Event05/05-SA/05-SA-G04/05-SA-G04-002",
+        "start": 3350
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Котоноха",
+        "start": 3350,
+        "text": "Макото.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice05/05-SA/05-SA-G04/05-SA-G04-0050",
+        "layer": 0,
+        "persona": "kot",
+        "start": 3350
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Макото",
+        "start": 5000,
+        "text": "Да, моя вина... Что эта фотка объявилась...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice05/05-SA/05-SA-G04/05-SA-G04-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 5000
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Котоноха",
+        "start": 12066,
+        "text": "Объявилась?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice05/05-SA/05-SA-G04/05-SA-G04-0070",
+        "layer": 0,
+        "persona": "kot",
+        "start": 12066
+    },
+    {
+        "action": "PlaySe",
+        "end": 14000,
+        "file": "SysSe/SE_all/station_train/train_door_open",
+        "layer": 2,
+        "start": 12316
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Макото",
+        "start": 14100,
+        "text": "Но я...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice05/05-SA/05-SA-G04/05-SA-G04-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 14100
+    },
+    {
+        "action": "PlaySe",
+        "end": 22000,
+        "file": "SysSe/SE_all/station_train/start_bell",
+        "layer": 1,
+        "start": 14366
+    },
+    {
+        "action": "CreateBG",
+        "end": 17000,
+        "file": "Event05/05-SA/05-SA-G04/05-SA-G04-003",
+        "start": 16183
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Котоноха",
+        "start": 16183,
+        "text": "Макото...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice05/05-SA/05-SA-G04/05-SA-G04-0090",
+        "layer": 0,
+        "persona": "kot",
+        "start": 16183
+    },
+    {
+        "action": "PrintText",
+        "end": 20000,
+        "persona": "Макото",
+        "start": 17300,
+        "text": "Я правда!..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 20000,
+        "file": "Voice05/05-SA/05-SA-G04/05-SA-G04-0100",
+        "layer": 1,
+        "persona": "mak",
+        "start": 17300
+    },
+    {
+        "action": "CreateBG",
+        "end": 24000,
+        "file": "Event05/05-SA/05-SA-G04/05-SA-G04-004",
+        "start": 17316
+    },
+    {
+        "action": "PrintText",
+        "end": 23000,
+        "persona": "Макото",
+        "start": 20200,
+        "text": "Люблю Сэкаи!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 23000,
+        "file": "Voice05/05-SA/05-SA-G04/05-SA-G04-0110",
+        "layer": 1,
+        "persona": "mak",
+        "start": 20200
+    },
+    {
+        "action": "PrintText",
+        "end": 24000,
+        "persona": "Котоноха",
+        "start": 23200,
+        "text": "А...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 24000,
+        "file": "Voice05/05-SA/05-SA-G04/05-SA-G04-0130",
+        "layer": 0,
+        "persona": "kot",
+        "start": 23200
+    },
+    {
+        "action": "PlayMovie",
+        "end": 27000,
+        "file": "Movie04/04-KC/04-KC-D05/04-KC-D05-001",
+        "start": 24200
+    },
+    {
+        "action": "PlaySe",
+        "end": 28000,
+        "file": "SysSe/SE_all/station_train/train_door_close",
+        "layer": 1,
+        "start": 24283
+    },
+    {
+        "action": "PlaySe",
+        "end": 31000,
+        "file": "SysSe/SE_all/station_train/train_start",
+        "layer": 2,
+        "start": 26333
+    },
+    {
+        "action": "CreateBG",
+        "end": 31000,
+        "file": "Event05/05-SA/05-SA-G04/05-SA-G04-006",
+        "start": 27000
+    },
+    {
+        "action": "PrintText",
+        "end": 27000,
+        "persona": "Котоноха",
+        "start": 27000,
+        "text": "Дурак.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 27000,
+        "file": "Voice05/05-SA/05-SA-G04/05-SA-G04-0170",
+        "layer": 0,
+        "persona": "kot",
+        "start": 27000
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 3000,
+        "file": "SysSe/SE_all/gaya/kyousitu_rouka",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event05/05-5O/05-5O-F03/05-5O-F03-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Сэцуна",
+        "start": 83,
+        "text": "Ито.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice05/05-5O/05-5O-F03/05-5O-F03-0030",
+        "layer": 0,
+        "persona": "set",
+        "start": 83
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 1216,
+        "text": "Знаю я.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice05/05-5O/05-5O-F03/05-5O-F03-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 1216
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Сэцуна",
+        "start": 2383,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice05/05-5O/05-5O-F03/05-5O-F03-0050",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 2383
+    }
+]

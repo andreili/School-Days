@@ -1,0 +1,85 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 20000,
+        "file": "BGM/SD_BGM/sdbgm16",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 20000,
+        "file": "Se03/03-KB/03-KB-I00/SE03-KB-I00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event03/03-KB/03-KB-I00/03-KB-I00-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Сэцуна",
+        "start": 4300,
+        "text": "Приготовления в целом закончены...^"
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Сэцуна",
+        "start": 9300,
+        "text": "Когда будете уходить, обязательно дождитесь вашего сменщика.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice03/03-KB/03-KB-I00/03-KB-I00-0050",
+        "layer": 0,
+        "persona": "set",
+        "start": 4300
+    },
+    {
+        "action": "CreateBG",
+        "end": 17000,
+        "file": "Event03/03-KB/03-KB-I00/03-KB-I00-002",
+        "start": 7366
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Сэцуна",
+        "start": 14300,
+        "text": "Ну и желаю всем удачи сегодня.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice03/03-KB/03-KB-I00/03-KB-I00-0060",
+        "layer": 0,
+        "persona": "set",
+        "start": 14300
+    },
+    {
+        "action": "CreateBG",
+        "end": 20000,
+        "file": "Event03/03-KB/03-KB-I00/03-KB-I00-003",
+        "start": 17250
+    },
+    {
+        "action": "PrintText",
+        "end": 19000,
+        "persona": "Макото",
+        "start": 17250,
+        "text": "Таисукэ, слушай...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 19000,
+        "file": "Voice03/03-KB/03-KB-I00/03-KB-I00-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 17250
+    }
+]

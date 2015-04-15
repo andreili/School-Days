@@ -1,0 +1,631 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 115000,
+        "file": "BGM/SD_BGM/sdbgm28",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event03/03-AS/03-AS-C00/03-AS-C00-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 6000,
+        "file": "Event03/03-AS/03-AS-C00/03-AS-C00-002",
+        "start": 3000
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "OUT",
+        "end": 6000,
+        "start": 5200
+    },
+    {
+        "action": "CreateBG",
+        "end": 19000,
+        "file": "Event03/03-AS/03-AS-C00/03-AS-C00-003",
+        "start": 6000
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Сэкаи",
+        "start": 6000,
+        "text": "Поздравляю! Тебя выбрали в совет! Среди девочек борьба была напряжённой...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice03/03-AS/03-AS-C00/03-AS-C00-0110",
+        "layer": 0,
+        "persona": "sek",
+        "start": 6000
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "IN",
+        "end": 6000,
+        "start": 6000
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Сэцуна",
+        "start": 11083,
+        "text": "Не то чтобы мне очень уж этого хотелось...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice03/03-AS/03-AS-C00/03-AS-C00-0120",
+        "layer": 0,
+        "persona": "set",
+        "start": 11083
+    },
+    {
+        "action": "PrintText",
+        "end": 19000,
+        "persona": "Сэкаи",
+        "start": 14200,
+        "text": "Что?! Ты ведь сама говорила...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 19000,
+        "file": "Voice03/03-AS/03-AS-C00/03-AS-C00-0130",
+        "layer": 0,
+        "persona": "sek",
+        "start": 14200
+    },
+    {
+        "action": "PrintText",
+        "end": 20000,
+        "persona": "Сэцуна",
+        "start": 19033,
+        "text": "Не говорила.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 20000,
+        "file": "Voice03/03-AS/03-AS-C00/03-AS-C00-0140",
+        "layer": 0,
+        "persona": "set",
+        "start": 19033
+    },
+    {
+        "action": "CreateBG",
+        "end": 31000,
+        "file": "Event03/03-AS/03-AS-C00/03-AS-C00-004",
+        "start": 19050
+    },
+    {
+        "action": "PrintText",
+        "end": 23000,
+        "persona": "Сэкаи",
+        "start": 20050,
+        "text": "Говорила! Ты же хотела стать членом школьного совета!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 23000,
+        "file": "Voice03/03-AS/03-AS-C00/03-AS-C00-0150",
+        "layer": 0,
+        "persona": "sek",
+        "start": 20050
+    },
+    {
+        "action": "PrintText",
+        "end": 28000,
+        "persona": "Сэцуна",
+        "start": 23316,
+        "text": "Просто кое-кто сказал, что мне бы эта работа подошла.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 28000,
+        "file": "Voice03/03-AS/03-AS-C00/03-AS-C00-0160",
+        "layer": 0,
+        "persona": "set",
+        "start": 23316
+    },
+    {
+        "action": "PrintText",
+        "end": 29000,
+        "persona": "Сэкаи",
+        "start": 28166,
+        "text": "Кто сказал?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 29000,
+        "file": "Voice03/03-AS/03-AS-C00/03-AS-C00-0170",
+        "layer": 0,
+        "persona": "sek",
+        "start": 28166
+    },
+    {
+        "action": "PrintText",
+        "end": 30000,
+        "persona": "Сэцуна",
+        "start": 29250,
+        "text": "Да так...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 30000,
+        "file": "Voice03/03-AS/03-AS-C00/03-AS-C00-0180",
+        "layer": 0,
+        "persona": "set",
+        "start": 29250
+    },
+    {
+        "action": "PrintText",
+        "end": 31000,
+        "persona": "Сэкаи",
+        "start": 30300,
+        "text": "Правда?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 31000,
+        "file": "Voice03/03-AS/03-AS-C00/03-AS-C00-0190",
+        "layer": 0,
+        "persona": "sek",
+        "start": 30300
+    },
+    {
+        "action": "CreateBG",
+        "end": 37000,
+        "file": "Event03/03-AS/03-AS-C00/03-AS-C00-005",
+        "start": 31283
+    },
+    {
+        "action": "PrintText",
+        "end": 32000,
+        "persona": "Макото",
+        "start": 31300,
+        "text": "Привет!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 32000,
+        "file": "Voice03/03-AS/03-AS-C00/03-AS-C00-0210",
+        "layer": 1,
+        "persona": "mak",
+        "start": 31300
+    },
+    {
+        "action": "PrintText",
+        "end": 35000,
+        "persona": "Сэкаи",
+        "start": 32233,
+        "text": "А, Ито...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 35000,
+        "file": "Voice03/03-AS/03-AS-C00/03-AS-C00-0220",
+        "layer": 0,
+        "persona": "sek",
+        "start": 32233
+    },
+    {
+        "action": "PrintText",
+        "end": 37000,
+        "persona": "Макото",
+        "start": 35200,
+        "text": "Поздравляю с выборами в совет!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 37000,
+        "file": "Voice03/03-AS/03-AS-C00/03-AS-C00-0240",
+        "layer": 1,
+        "persona": "mak",
+        "start": 35200
+    },
+    {
+        "action": "CreateBG",
+        "end": 39000,
+        "file": "Event03/03-AS/03-AS-C00/03-AS-C00-006",
+        "start": 37050
+    },
+    {
+        "action": "PrintText",
+        "end": 39000,
+        "persona": "Сэцуна",
+        "start": 37083,
+        "text": "А... Да...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 39000,
+        "file": "Voice03/03-AS/03-AS-C00/03-AS-C00-0250",
+        "layer": 0,
+        "persona": "set",
+        "start": 37083
+    },
+    {
+        "action": "CreateBG",
+        "end": 47000,
+        "file": "Event03/03-AS/03-AS-C00/03-AS-C00-005",
+        "start": 39200
+    },
+    {
+        "action": "PrintText",
+        "end": 43000,
+        "persona": "Макото",
+        "start": 39233,
+        "text": "Как и обещал, я отдал свой голос за тебя. Удачи тебе!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 43000,
+        "file": "Voice03/03-AS/03-AS-C00/03-AS-C00-0270",
+        "layer": 1,
+        "persona": "mak",
+        "start": 39233
+    },
+    {
+        "action": "PrintText",
+        "end": 45000,
+        "persona": "Сэцуна",
+        "start": 43233,
+        "text": "Я постараюсь!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 45000,
+        "file": "Voice03/03-AS/03-AS-C00/03-AS-C00-0280",
+        "layer": 0,
+        "persona": "set",
+        "start": 43233
+    },
+    {
+        "action": "PrintText",
+        "end": 47000,
+        "persona": "Макото",
+        "start": 45150,
+        "text": "Пока девчонки.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 46000,
+        "file": "Voice03/03-AS/03-AS-C00/03-AS-C00-0290",
+        "layer": 1,
+        "persona": "mak",
+        "start": 45150
+    },
+    {
+        "action": "CreateBG",
+        "end": 48000,
+        "file": "Event03/03-AS/03-AS-C00/03-AS-C00-008",
+        "start": 47016
+    },
+    {
+        "action": "CreateBG",
+        "end": 57000,
+        "file": "Event03/03-AS/03-AS-C00/03-AS-C00-009",
+        "start": 48216
+    },
+    {
+        "action": "PrintText",
+        "end": 51000,
+        "persona": "Сэкаи",
+        "start": 48216,
+        "text": "Ух ты! Ито...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 51000,
+        "file": "Voice03/03-AS/03-AS-C00/03-AS-C00-0320",
+        "layer": 0,
+        "persona": "sek",
+        "start": 48216
+    },
+    {
+        "action": "PrintText",
+        "end": 51000,
+        "persona": "Сэцуна",
+        "start": 51116,
+        "text": "Угу.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 51000,
+        "file": "Voice03/03-AS/03-AS-C00/03-AS-C00-0330",
+        "layer": 0,
+        "persona": "set",
+        "start": 51116
+    },
+    {
+        "action": "PrintText",
+        "end": 56000,
+        "persona": "Сэкаи",
+        "start": 52050,
+        "text": "А что за обещание? Ты вообще когда с ним подружиться успела?!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 56000,
+        "file": "Voice03/03-AS/03-AS-C00/03-AS-C00-0340",
+        "layer": 0,
+        "persona": "sek",
+        "start": 52050
+    },
+    {
+        "action": "CreateBG",
+        "end": 74000,
+        "file": "Event03/03-AS/03-AS-C00/03-AS-C00-003",
+        "start": 57000
+    },
+    {
+        "action": "PrintText",
+        "end": 62000,
+        "persona": "Сэцуна",
+        "start": 57066,
+        "text": "Ничего такого, он просто за меня проголосовал.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 62000,
+        "file": "Voice03/03-AS/03-AS-C00/03-AS-C00-0350",
+        "layer": 0,
+        "persona": "set",
+        "start": 57066
+    },
+    {
+        "action": "PrintText",
+        "end": 69000,
+        "persona": "Сэкаи",
+        "start": 62250,
+        "text": "Вот как, я так перепугалась, когда Ито к нам подошёл.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 69000,
+        "file": "Voice03/03-AS/03-AS-C00/03-AS-C00-0360",
+        "layer": 0,
+        "persona": "sek",
+        "start": 62250
+    },
+    {
+        "action": "PrintText",
+        "end": 73000,
+        "persona": "Сэкаи",
+        "start": 69216,
+        "text": "Думала, он узнал про то, что я сделала сегодня утром.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 73000,
+        "file": "Voice03/03-AS/03-AS-C00/03-AS-C00-0361",
+        "layer": 0,
+        "persona": "sek",
+        "start": 69216
+    },
+    {
+        "action": "CreateBG",
+        "end": 94000,
+        "file": "Event03/03-AS/03-AS-C00/03-AS-C00-011",
+        "start": 74016
+    },
+    {
+        "action": "PrintText",
+        "end": 75000,
+        "persona": "Сэцуна",
+        "start": 74083,
+        "text": "А что ты сделала?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 75000,
+        "file": "Voice03/03-AS/03-AS-C00/03-AS-C00-0370",
+        "layer": 0,
+        "persona": "set",
+        "start": 74083
+    },
+    {
+        "action": "PrintText",
+        "end": 78000,
+        "persona": "Сэкаи",
+        "start": 76033,
+        "text": "Я его сфотографировала!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 78000,
+        "file": "Voice03/03-AS/03-AS-C00/03-AS-C00-0380",
+        "layer": 0,
+        "persona": "sek",
+        "start": 76033
+    },
+    {
+        "action": "PrintText",
+        "end": 80000,
+        "persona": "Сэцуна",
+        "start": 79050,
+        "text": "Сфотографировала?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 80000,
+        "file": "Voice03/03-AS/03-AS-C00/03-AS-C00-0390",
+        "layer": 0,
+        "persona": "set",
+        "start": 79050
+    },
+    {
+        "action": "PrintText",
+        "end": 84000,
+        "persona": "Сэкаи",
+        "start": 80133,
+        "text": "Ну ты что, не знаешь что ли, про любовный талисман?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 84000,
+        "file": "Voice03/03-AS/03-AS-C00/03-AS-C00-0400",
+        "layer": 0,
+        "persona": "sek",
+        "start": 80133
+    },
+    {
+        "action": "PrintText",
+        "end": 87000,
+        "persona": "Сэцуна",
+        "start": 84300,
+        "text": "Если поставить на заставку и три недели никому не показывать,^"
+    },
+    {
+        "action": "PrintText",
+        "end": 89000,
+        "persona": "Сэцуна",
+        "start": 87000,
+        "text": "мальчик в тебя влюбится!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 89000,
+        "file": "Voice03/03-AS/03-AS-C00/03-AS-C00-0410",
+        "layer": 0,
+        "persona": "set",
+        "start": 84300
+    },
+    {
+        "action": "PrintText",
+        "end": 97000,
+        "persona": "Сэкаи",
+        "start": 89116,
+        "text": "Да! Сегодня утром я Ито встретила, и сфотографировала его тайком!^"
+    },
+    {
+        "action": "PrintText",
+        "end": 99000,
+        "persona": "Сэкаи",
+        "start": 97000,
+        "text": "Классная фотка, правда?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 99000,
+        "file": "Voice03/03-AS/03-AS-C00/03-AS-C00-0420",
+        "layer": 0,
+        "persona": "sek",
+        "start": 89116
+    },
+    {
+        "action": "CreateBG",
+        "end": 107000,
+        "file": "Event03/03-AS/03-AS-C00/03-AS-C00-012",
+        "start": 94050
+    },
+    {
+        "action": "PrintText",
+        "end": 102000,
+        "persona": "Сэцуна",
+        "start": 99033,
+        "text": "Её же никому показывать нельзя...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 102000,
+        "file": "Voice03/03-AS/03-AS-C00/03-AS-C00-0430",
+        "layer": 0,
+        "persona": "set",
+        "start": 99033
+    },
+    {
+        "action": "PrintText",
+        "end": 108000,
+        "persona": "Сэкаи",
+        "start": 102350,
+        "text": "Ничего, я тебе копию дам, сейчас отправлю.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 108000,
+        "file": "Voice03/03-AS/03-AS-C00/03-AS-C00-0440",
+        "layer": 0,
+        "persona": "sek",
+        "start": 102350
+    },
+    {
+        "action": "CreateBG",
+        "end": 112000,
+        "file": "Event03/03-AS/03-AS-C00/03-AS-C00-013",
+        "start": 107150
+    },
+    {
+        "action": "PrintText",
+        "end": 110000,
+        "persona": "Сэцуна",
+        "start": 108366,
+        "text": "Хорошо.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 110000,
+        "file": "Voice03/03-AS/03-AS-C00/03-AS-C00-0450",
+        "layer": 0,
+        "persona": "set",
+        "start": 108366
+    },
+    {
+        "action": "PrintText",
+        "end": 112000,
+        "persona": "Сэкаи",
+        "start": 111000,
+        "text": "Хе-хе!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 112000,
+        "file": "Voice03/03-AS/03-AS-C00/03-AS-C00-0460",
+        "layer": 0,
+        "persona": "sek",
+        "start": 111000
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "OUT",
+        "end": 112000,
+        "start": 112016
+    },
+    {
+        "action": "CreateBG",
+        "end": 115000,
+        "file": "Event03/03-AS/03-AS-C00/03-As-C00-014",
+        "start": 112216
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "IN",
+        "end": 113000,
+        "start": 112216
+    },
+    {
+        "action": "PrintText",
+        "end": 114000,
+        "persona": "Сэцуна",
+        "start": 113250,
+        "text": "Сэкаи…^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 114000,
+        "file": "Voice03/03-AS/03-AS-C00/03-AS-C00-0510",
+        "layer": 0,
+        "persona": "set",
+        "start": 113250
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 115000,
+        "start": 114350
+    }
+]

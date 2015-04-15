@@ -1,0 +1,231 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 30000,
+        "file": "Se01/01-00/01-00-B00/SE01-00-B00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event02/02-2K/02-2K-E02/02-2K-E02-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 4000,
+        "file": "Event01/01-00/01-00-B05/01-00-B05-003",
+        "start": 3000
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Сэкаи",
+        "start": 4300,
+        "text": "Доброе утро!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice02/02-2K/02-2K-E02/02-2K-E02-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 4300
+    },
+    {
+        "action": "CreateBG",
+        "end": 6000,
+        "file": "Event02/02-2K/02-2K-E02/02-2K-E02-002B",
+        "start": 4316
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event02/02-2K/02-2K-E02/02-2K-E02-002C",
+        "start": 6000
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 6000,
+        "text": "Привет...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice02/02-2K/02-2K-E02/02-2K-E02-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 6000
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event02/02-2K/02-2K-E02/02-2K-E02-003",
+        "start": 7100
+    },
+    {
+        "action": "CreateBG",
+        "end": 13000,
+        "file": "Event02/02-2K/02-2K-E02/02-2K-E02-004",
+        "start": 10000
+    },
+    {
+        "action": "CreateBG",
+        "end": 14000,
+        "file": "Event02/02-2K/02-2K-E02/02-2K-E02-005",
+        "start": 13000
+    },
+    {
+        "action": "CreateBG",
+        "end": 17000,
+        "file": "Event02/02-2K/02-2K-E02/02-2K-E02-006",
+        "start": 14200
+    },
+    {
+        "action": "PrintText",
+        "end": 15000,
+        "persona": "Хикари",
+        "start": 14200,
+        "text": "Доброе утро!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 15000,
+        "file": "Voice02/02-2K/02-2K-E02/02-2K-E02-0070",
+        "layer": 0,
+        "persona": "hik",
+        "start": 14200
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Сэкаи",
+        "start": 15200,
+        "text": "А, Хикари, привет...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice02/02-2K/02-2K-E02/02-2K-E02-0080",
+        "layer": 0,
+        "persona": "sek",
+        "start": 15200
+    },
+    {
+        "action": "CreateBG",
+        "end": 20000,
+        "file": "Event02/02-2K/02-2K-E02/02-2K-E02-007",
+        "start": 17233
+    },
+    {
+        "action": "PrintText",
+        "end": 19000,
+        "persona": "Хикари",
+        "start": 17233,
+        "text": "Сэкаи, слушай!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 19000,
+        "file": "Voice02/02-2K/02-2K-E02/02-2K-E02-0090",
+        "layer": 0,
+        "persona": "hik",
+        "start": 17233
+    },
+    {
+        "action": "PrintText",
+        "end": 20000,
+        "persona": "Сэкаи",
+        "start": 19083,
+        "text": "Что случилось?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 20000,
+        "file": "Voice02/02-2K/02-2K-E02/02-2K-E02-0100",
+        "layer": 0,
+        "persona": "sek",
+        "start": 19083
+    },
+    {
+        "action": "CreateBG",
+        "end": 26000,
+        "file": "Event02/02-2K/02-2K-E02/02-2K-E02-008",
+        "start": 20300
+    },
+    {
+        "action": "PrintText",
+        "end": 23000,
+        "persona": "Хикари",
+        "start": 20300,
+        "text": "Пошли, надо поговорить!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 23000,
+        "file": "Voice02/02-2K/02-2K-E02/02-2K-E02-0110",
+        "layer": 0,
+        "persona": "hik",
+        "start": 20300
+    },
+    {
+        "action": "PrintText",
+        "end": 25000,
+        "persona": "Сэкаи",
+        "start": 23083,
+        "text": "Сейчас Ямамото придёт!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 25000,
+        "file": "Voice02/02-2K/02-2K-E02/02-2K-E02-0120",
+        "layer": 0,
+        "persona": "sek",
+        "start": 23083
+    },
+    {
+        "action": "PrintText",
+        "end": 27000,
+        "persona": "Хикари",
+        "start": 25033,
+        "text": "Я только на пару слов. Ну, давай!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 27000,
+        "file": "Voice02/02-2K/02-2K-E02/02-2K-E02-0130",
+        "layer": 0,
+        "persona": "hik",
+        "start": 25033
+    },
+    {
+        "action": "CreateBG",
+        "end": 30000,
+        "file": "Event02/02-2K/02-2K-E02/02-2K-E02-009",
+        "start": 26150
+    },
+    {
+        "action": "PrintText",
+        "end": 29000,
+        "persona": "Сэкаи",
+        "start": 27200,
+        "text": "Ладно, идём.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 29000,
+        "file": "Voice02/02-2K/02-2K-E02/02-2K-E02-0140",
+        "layer": 0,
+        "persona": "sek",
+        "start": 27200
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 30000,
+        "start": 29350
+    }
+]

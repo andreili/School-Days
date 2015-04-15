@@ -1,0 +1,87 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 8000,
+        "file": "BGM/SD_BGM/sdbgm07",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 8000,
+        "file": "Se01/01-1K/01-1K-F00/SE01-1K-F00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event02/02-2K/02-2K-D01/02-2K-D01-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Так что же ты и сегодня в библиотеку не пошла?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice02/02-2K/02-2K-J02/02-2K-J02-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 8000,
+        "file": "Event02/02-2K/02-2K-J02/02-2K-J02-001B",
+        "start": 2016
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Котоноха",
+        "start": 2016,
+        "text": "Но я...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice02/02-2K/02-2K-J02/02-2K-J02-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 2016
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Макото",
+        "start": 3100,
+        "text": "Что?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice02/02-2K/02-2K-J02/02-2K-J02-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 3100
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Котоноха",
+        "start": 4033,
+        "text": "Нет, ничего...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice02/02-2K/02-2K-J02/02-2K-J02-0060",
+        "layer": 0,
+        "persona": "kot",
+        "start": 4033
+    }
+]

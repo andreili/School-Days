@@ -1,0 +1,214 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 25000,
+        "file": "BGM/SD_BGM/sdbgm20",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event03/03-KA/03-KA-K01/03-KA-K01-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event03/03-KA/03-KA-K01/03-KA-K01-002",
+        "start": 3000
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Сэцуна",
+        "start": 3033,
+        "text": "Сэкаи...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice03/03-KA/03-KA-K01/03-KA-K01-0040",
+        "layer": 0,
+        "persona": "set",
+        "start": 3033
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Сэкаи",
+        "start": 4150,
+        "text": "Да?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice03/03-KA/03-KA-K01/03-KA-K01-0050",
+        "layer": 0,
+        "persona": "sek",
+        "start": 4150
+    },
+    {
+        "action": "CreateBG",
+        "end": 12000,
+        "file": "Event03/03-KA/03-KA-K01/03-KA-K01-003",
+        "start": 5116
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Сэцуна",
+        "start": 5133,
+        "text": "У тебя сегодня в обед что-то случилось?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice03/03-KA/03-KA-K01/03-KA-K01-0060",
+        "layer": 0,
+        "persona": "set",
+        "start": 5133
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Сэкаи",
+        "start": 8100,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice03/03-KA/03-KA-K01/03-KA-K01-0070",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 8100
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Сэцуна",
+        "start": 9066,
+        "text": "Я тебе смс-ку послала, но ты так и не пришла.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice03/03-KA/03-KA-K01/03-KA-K01-0080",
+        "layer": 0,
+        "persona": "set",
+        "start": 9066
+    },
+    {
+        "action": "CreateBG",
+        "end": 17000,
+        "file": "Event03/03-KA/03-KA-K01/03-KA-K01-004A",
+        "start": 12133
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Сэкаи",
+        "start": 12216,
+        "text": "Мне просто захотелось по улице пройтись...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice03/03-KA/03-KA-K01/03-KA-K01-0090",
+        "layer": 0,
+        "persona": "sek",
+        "start": 12216
+    },
+    {
+        "action": "PrintText",
+        "end": 18000,
+        "persona": "Сэцуна",
+        "start": 15050,
+        "text": "А Ито без тебя было одиноко.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 18000,
+        "file": "Voice03/03-KA/03-KA-K01/03-KA-K01-0100",
+        "layer": 0,
+        "persona": "set",
+        "start": 15050
+    },
+    {
+        "action": "CreateBG",
+        "end": 19000,
+        "file": "Event03/03-KA/03-KA-K01/03-KA-K01-004B",
+        "start": 17350
+    },
+    {
+        "action": "PlayVoice",
+        "end": 18000,
+        "file": "Voice03/03-KA/03-KA-K01/03-KA-K01-0110",
+        "layer": -1,
+        "persona": "",
+        "start": 17383
+    },
+    {
+        "action": "CreateBG",
+        "end": 21000,
+        "file": "Event03/03-KA/03-KA-K01/03-KA-K01-003",
+        "start": 19150
+    },
+    {
+        "action": "PrintText",
+        "end": 21000,
+        "persona": "Сэцуна",
+        "start": 19183,
+        "text": "Жаль, что ты не пришла.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 21000,
+        "file": "Voice03/03-KA/03-KA-K01/03-KA-K01-0120",
+        "layer": 0,
+        "persona": "set",
+        "start": 19183
+    },
+    {
+        "action": "CreateBG",
+        "end": 25000,
+        "file": "Event03/03-KA/03-KA-K01/03-KA-K01-002",
+        "start": 21116
+    },
+    {
+        "action": "PrintText",
+        "end": 22000,
+        "persona": "Сэкаи",
+        "start": 21233,
+        "text": "Да ерунда!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 22000,
+        "file": "Voice03/03-KA/03-KA-K01/03-KA-K01-0130",
+        "layer": 0,
+        "persona": "sek",
+        "start": 21233
+    },
+    {
+        "action": "PrintText",
+        "end": 23000,
+        "persona": "Сэцуна",
+        "start": 23050,
+        "text": "Правда?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 23000,
+        "file": "Voice03/03-KA/03-KA-K01/03-KA-K01-0140",
+        "layer": 0,
+        "persona": "set",
+        "start": 23050
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 25000,
+        "start": 24216
+    }
+]

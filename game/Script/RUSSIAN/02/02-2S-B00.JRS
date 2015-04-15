@@ -1,0 +1,201 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 24000,
+        "file": "BGM/SD_BGM/sdbgm01",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 24000,
+        "file": "Se01/01-1K/01-1K-F00/SE01-1K-F00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 2000,
+        "file": "Movie02/02-2S/02-2S-B00/02-2S-B00-001",
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 3000,
+        "file": "Movie02/02-2S/02-2S-B00/02-2S-B00-002",
+        "start": 2383
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Сэцуна",
+        "start": 3000,
+        "text": "Сэкаи...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice02/02-2S/02-2S-B00/02-2S-B00-0050",
+        "layer": 0,
+        "persona": "set",
+        "start": 3000
+    },
+    {
+        "action": "PlayMovie",
+        "end": 7000,
+        "file": "Movie02/02-2S/02-2S-B00/02-2S-B00-003",
+        "start": 3383
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Сэкаи",
+        "start": 3383,
+        "text": "М?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice02/02-2S/02-2S-B00/02-2S-B00-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 3383
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Сэцуна",
+        "start": 5050,
+        "text": "Рада, что у тебя всё получилось.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice02/02-2S/02-2S-B00/02-2S-B00-0070",
+        "layer": 0,
+        "persona": "set",
+        "start": 5050
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Сэкаи",
+        "start": 6050,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice02/02-2S/02-2S-B00/02-2S-B00-0080",
+        "layer": 0,
+        "persona": "sek",
+        "start": 6050
+    },
+    {
+        "action": "CreateBG",
+        "end": 15000,
+        "file": "Event02/02-2S/02-2S-B00/02-2S-B00-005",
+        "start": 7000
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Сэцуна",
+        "start": 7100,
+        "text": "У вас ведь теперь всё хорошо?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice02/02-2S/02-2S-B00/02-2S-B00-0090",
+        "layer": 0,
+        "persona": "set",
+        "start": 7100
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Сэкаи",
+        "start": 8366,
+        "text": "Ну... Наверное...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice02/02-2S/02-2S-B00/02-2S-B00-0100",
+        "layer": 0,
+        "persona": "sek",
+        "start": 8366
+    },
+    {
+        "action": "PrintText",
+        "end": 15000,
+        "persona": "Сэцуна",
+        "start": 11383,
+        "text": "Ты мне ничего не рассказываешь, и я начала беспокоиться.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 15000,
+        "file": "Voice02/02-2S/02-2S-B00/02-2S-B00-0110",
+        "layer": 0,
+        "persona": "set",
+        "start": 11383
+    },
+    {
+        "action": "CreateBG",
+        "end": 24000,
+        "file": "Event02/02-2S/02-2S-B00/02-2S-B00-005",
+        "start": 15250
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Сэкаи",
+        "start": 16033,
+        "text": "Прости...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice02/02-2S/02-2S-B00/02-2S-B00-0120",
+        "layer": 0,
+        "persona": "sek",
+        "start": 16033
+    },
+    {
+        "action": "PrintText",
+        "end": 21000,
+        "persona": "Сэцуна",
+        "start": 17083,
+        "text": "Это ничего. Главное, чтобы ты каждый день была такой же счастливой как сегодня.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 21000,
+        "file": "Voice02/02-2S/02-2S-B00/02-2S-B00-0130",
+        "layer": 0,
+        "persona": "set",
+        "start": 17083
+    },
+    {
+        "action": "PrintText",
+        "end": 22000,
+        "persona": "Сэкаи",
+        "start": 21316,
+        "text": "Спасибо...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 22000,
+        "file": "Voice02/02-2S/02-2S-B00/02-2S-B00-0140",
+        "layer": 0,
+        "persona": "sek",
+        "start": 21316
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 24000,
+        "start": 23083
+    }
+]

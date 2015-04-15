@@ -1,0 +1,82 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 18000,
+        "file": "Se01/01-00/01-00-B00/SE01-00-B00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event02/02-2S/02-2S-L01/02-2S-L01-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event02/02-2S/02-2S-L01/02-2S-L01-001B",
+        "start": 1250
+    },
+    {
+        "action": "CreateBG",
+        "end": 4000,
+        "file": "Event02/02-2S/02-2S-L01/02-2S-L01-001C",
+        "start": 3116
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event02/02-2S/02-2S-L01/02-2S-L01-002",
+        "start": 4333
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event02/02-2S/02-2S-L01/02-2S-L01-003",
+        "start": 7333
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Котоноха",
+        "start": 7333,
+        "text": "Макото! Ты долго ждёшь?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice02/02-2S/02-2S-L01/02-2S-L01-0050",
+        "layer": 0,
+        "persona": "kot",
+        "start": 7333
+    },
+    {
+        "action": "CreateBG",
+        "end": 18000,
+        "file": "Event02/02-2S/02-2S-L01/02-2S-L01-004",
+        "start": 11316
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Макото",
+        "start": 11316,
+        "text": "Ага...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice02/02-2S/02-2S-L01/02-2S-L01-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 11316
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Я хотел у Киоры кое-что спросить...^",
+        "answer2": "Давай я тебя провожу?",
+        "end": 17000,
+        "start": 12116
+    }
+]

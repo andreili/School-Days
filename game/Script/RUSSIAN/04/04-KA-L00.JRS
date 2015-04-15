@@ -1,0 +1,2220 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 56000,
+        "file": "SysSe/SE_all/gaya/kyousitu_rouka",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event04/04-KA/04-KA-L00/04-KA-L00-001",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 3000,
+        "file": "SysSe/SE_all/door/door_kyousitu",
+        "layer": 2,
+        "start": 1100
+    },
+    {
+        "action": "CreateBG",
+        "end": 18000,
+        "file": "Event04/04-KA/04-KA-L00/04-KA-L00-002",
+        "start": 2050
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Сэкаи",
+        "start": 3166,
+        "text": "Вам видеокласс отдали?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0050",
+        "layer": 0,
+        "persona": "sek",
+        "start": 3166
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Нанами",
+        "start": 5216,
+        "text": "Ну так мы же волейбольная команда! А в раздевалке места слишком мало, вот и договорились.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0060",
+        "layer": 0,
+        "persona": "nan",
+        "start": 5216
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Сэкаи",
+        "start": 10116,
+        "text": "О...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0070",
+        "layer": 0,
+        "persona": "sek",
+        "start": 10116
+    },
+    {
+        "action": "PrintText",
+        "end": 19000,
+        "persona": "Нанами",
+        "start": 11183,
+        "text": "Ответственному сказали, что для парней вход воспрещён и попросили не приходить. Оттого и гостей рады встречать.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 19000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0080",
+        "layer": 0,
+        "persona": "nan",
+        "start": 11183
+    },
+    {
+        "action": "CreateBG",
+        "end": 53000,
+        "file": "Event04/04-KA/04-KA-L00/04-KA-L00-003A",
+        "start": 18383
+    },
+    {
+        "action": "PrintText",
+        "end": 25000,
+        "persona": "Сэкаи",
+        "start": 18383,
+        "text": "Ага. Я вижу, девчонки из 3-го тут тоже есть. Кто там у вас ответственный-то?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 25000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0090",
+        "layer": 0,
+        "persona": "sek",
+        "start": 18383
+    },
+    {
+        "action": "PrintText",
+        "end": 26000,
+        "persona": "Нанами",
+        "start": 25033,
+        "text": "Ноги, математик.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 26000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0100",
+        "layer": 0,
+        "persona": "nan",
+        "start": 25033
+    },
+    {
+        "action": "PrintText",
+        "end": 30000,
+        "persona": "Сэкаи",
+        "start": 26133,
+        "text": "А... У него вечно такое лицо, будто бы сейчас расплачется.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 30000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0110",
+        "layer": 0,
+        "persona": "sek",
+        "start": 26133
+    },
+    {
+        "action": "PrintText",
+        "end": 36000,
+        "persona": "Нанами",
+        "start": 29366,
+        "text": "Ага. Потому, стоит нам сделать лица посуровее да завести разговор, как он практически всегда соглашается.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 36000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0120",
+        "layer": 0,
+        "persona": "nan",
+        "start": 29366
+    },
+    {
+        "action": "PrintText",
+        "end": 38000,
+        "persona": "Сэкаи",
+        "start": 36066,
+        "text": "Ну даёте.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 38000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0130",
+        "layer": 0,
+        "persona": "sek",
+        "start": 36066
+    },
+    {
+        "action": "PrintText",
+        "end": 43000,
+        "persona": "Нанами",
+        "start": 38216,
+        "text": "Но зато, мы и на тренировки все ходим, и матчи не проигрываем.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 43000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0140",
+        "layer": 0,
+        "persona": "nan",
+        "start": 38216
+    },
+    {
+        "action": "PrintText",
+        "end": 52000,
+        "persona": "Сэкаи",
+        "start": 43100,
+        "text": "Да уж... Вам палец в рот не клади - по локоть откусите... О, что-то показывать будут? Вроде проектор готовят...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 52000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0150",
+        "layer": 0,
+        "persona": "sek",
+        "start": 43100
+    },
+    {
+        "action": "PrintText",
+        "end": 54000,
+        "persona": "Нанами",
+        "start": 52100,
+        "text": "И впрямь. Чего это они?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 54000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0160",
+        "layer": 0,
+        "persona": "nan",
+        "start": 52100
+    },
+    {
+        "action": "PlayMovie",
+        "end": 55000,
+        "file": "Movie04/04-KA/04-KA-L00/04-KA-L00-003B",
+        "start": 53150
+    },
+    {
+        "action": "PrintText",
+        "end": 56000,
+        "persona": "Сэкаи",
+        "start": 54283,
+        "text": "А? Что такое?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 56000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0200",
+        "layer": 0,
+        "persona": "sek",
+        "start": 54283
+    },
+    {
+        "action": "CreateBG",
+        "end": 59000,
+        "file": "Event04/04-KA/04-KA-L00/04-KA-L00-003C",
+        "start": 55150
+    },
+    {
+        "action": "PrintText",
+        "end": 59000,
+        "persona": "Нанами",
+        "start": 56166,
+        "text": "Не знаю... Отомэ, слушай...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 59000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0210",
+        "layer": 0,
+        "persona": "nan",
+        "start": 56166
+    },
+    {
+        "action": "PlayBgm",
+        "end": 179000,
+        "file": "BGM/SD_BGM/sdbgm21",
+        "start": 57183
+    },
+    {
+        "action": "CreateBG",
+        "end": 76000,
+        "file": "Event04/04-KA/04-KA-L00/04-KA-L00-004",
+        "start": 59150
+    },
+    {
+        "action": "PrintText",
+        "end": 60000,
+        "persona": "Отомэ",
+        "start": 59150,
+        "text": "Нанами?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 60000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0220",
+        "layer": 0,
+        "persona": "oto",
+        "start": 59150
+    },
+    {
+        "action": "PrintText",
+        "end": 62000,
+        "persona": "Нанами",
+        "start": 60266,
+        "text": "Вроде ведь вечеринку устроить собирались?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 62000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0230",
+        "layer": 0,
+        "persona": "nan",
+        "start": 60266
+    },
+    {
+        "action": "PrintText",
+        "end": 66000,
+        "persona": "Отомэ",
+        "start": 62000,
+        "text": "Она и будет... Только они на фоне решили какое-то видео пустить.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 66000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0240",
+        "layer": 0,
+        "persona": "oto",
+        "start": 62000
+    },
+    {
+        "action": "PrintText",
+        "end": 68000,
+        "persona": "Нанами",
+        "start": 67016,
+        "text": "Видео?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 68000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0250",
+        "layer": 0,
+        "persona": "nan",
+        "start": 67016
+    },
+    {
+        "action": "PrintText",
+        "end": 71000,
+        "persona": "Отомэ",
+        "start": 67316,
+        "text": "Насколько я поняла, это Асикага снимала на фестивале...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 71000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0260",
+        "layer": 0,
+        "persona": "oto",
+        "start": 67316
+    },
+    {
+        "action": "PrintText",
+        "end": 73000,
+        "persona": "Нанами",
+        "start": 71383,
+        "text": "Да?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 73000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0270",
+        "layer": 0,
+        "persona": "nan",
+        "start": 71383
+    },
+    {
+        "action": "PrintText",
+        "end": 76000,
+        "persona": "Отомэ",
+        "start": 72283,
+        "text": "Подробностей не знаю. Проектор Муги с Рукой готовили...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 76000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0280",
+        "layer": 0,
+        "persona": "oto",
+        "start": 72283
+    },
+    {
+        "action": "CreateBG",
+        "end": 94000,
+        "file": "Event04/04-KA/04-KA-L00/04-KA-L00-005",
+        "start": 76316
+    },
+    {
+        "action": "PrintText",
+        "end": 78000,
+        "persona": "Нанами",
+        "start": 76333,
+        "text": "Они?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 78000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0290",
+        "layer": 0,
+        "persona": "nan",
+        "start": 76333
+    },
+    {
+        "action": "PrintText",
+        "end": 79000,
+        "persona": "Сэкаи",
+        "start": 78233,
+        "text": "Ну как?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 79000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0300",
+        "layer": 0,
+        "persona": "sek",
+        "start": 78233
+    },
+    {
+        "action": "PrintText",
+        "end": 81000,
+        "persona": "Нанами",
+        "start": 79200,
+        "text": "Вроде как запись с фестиваля.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 81000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0310",
+        "layer": 0,
+        "persona": "nan",
+        "start": 79200
+    },
+    {
+        "action": "PrintText",
+        "end": 84000,
+        "persona": "Сэкаи",
+        "start": 81250,
+        "text": "О... Вписывается в антураж.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 84000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0320",
+        "layer": 0,
+        "persona": "sek",
+        "start": 81250
+    },
+    {
+        "action": "PrintText",
+        "end": 86000,
+        "persona": "Нанами",
+        "start": 84083,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 86000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0330",
+        "layer": 0,
+        "persona": "nan",
+        "start": 84083
+    },
+    {
+        "action": "PrintText",
+        "end": 87000,
+        "persona": "Сэкаи",
+        "start": 86116,
+        "text": "Что-то не так?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 87000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0340",
+        "layer": 0,
+        "persona": "sek",
+        "start": 86116
+    },
+    {
+        "action": "PrintText",
+        "end": 94000,
+        "persona": "Нанами",
+        "start": 87200,
+        "text": "Да просто... Не самый приятный мне человек ... Не по себе что-то...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 94000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0350",
+        "layer": 0,
+        "persona": "nan",
+        "start": 87200
+    },
+    {
+        "action": "PrintText",
+        "end": 94000,
+        "persona": "Сэкаи",
+        "start": 93233,
+        "text": "Понятно...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 94000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0360",
+        "layer": 0,
+        "persona": "sek",
+        "start": 93233
+    },
+    {
+        "action": "CreateBG",
+        "end": 97000,
+        "file": "Event04/04-KA/04-KA-L00/04-KA-L00-006",
+        "start": 94300
+    },
+    {
+        "action": "PrintText",
+        "end": 96000,
+        "persona": "Нанами",
+        "start": 94300,
+        "text": "Да ерунда, не переживай.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 96000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0370",
+        "layer": 0,
+        "persona": "nan",
+        "start": 94300
+    },
+    {
+        "action": "PrintText",
+        "end": 97000,
+        "persona": "Сэкаи",
+        "start": 97016,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 97000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0380",
+        "layer": 0,
+        "persona": "sek",
+        "start": 97016
+    },
+    {
+        "action": "CreateBG",
+        "end": 130000,
+        "file": "Event04/04-KA/04-KA-L00/04-KA-L00-007",
+        "start": 97350
+    },
+    {
+        "action": "PrintText",
+        "end": 103000,
+        "persona": "Асикага",
+        "start": 98000,
+        "text": "Итак, дамы! Всех с завершением фестиваля!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 103000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0390",
+        "layer": 0,
+        "persona": "tie",
+        "start": 98000
+    },
+    {
+        "action": "PrintText",
+        "end": 109000,
+        "persona": "Асикага",
+        "start": 103100,
+        "text": "Особая благодарнасть тем из вас, кто тайком от учителей посещал наши комнаты отдыха!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 109000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0410",
+        "layer": 0,
+        "persona": "tie",
+        "start": 103100
+    },
+    {
+        "action": "PrintText",
+        "end": 116000,
+        "persona": "Асикага",
+        "start": 109366,
+        "text": "Для всех вас у меня есть сюрприз! Мы втайне установили во всех комнатах видеокамеры!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 116000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0430",
+        "layer": 0,
+        "persona": "tie",
+        "start": 109366
+    },
+    {
+        "action": "PrintText",
+        "end": 122000,
+        "persona": "Асикага",
+        "start": 116366,
+        "text": "И тайный просмотр всего того, что мы наснимали - главная тема нашей сегодняшней встречи!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 122000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0431",
+        "layer": 0,
+        "persona": "tie",
+        "start": 116366
+    },
+    {
+        "action": "PrintText",
+        "end": 131000,
+        "persona": "Асикага",
+        "start": 123050,
+        "text": "Те, у кого есть парни, могут придаться сладким воспоминаниям, те же, у кого парней нет - отлично провести время!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 131000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0450",
+        "layer": 0,
+        "persona": "tie",
+        "start": 123050
+    },
+    {
+        "action": "CreateBG",
+        "end": 147000,
+        "file": "Event04/04-KA/04-KA-L00/04-KA-L00-008",
+        "start": 130316
+    },
+    {
+        "action": "PrintText",
+        "end": 137000,
+        "persona": "Нанами",
+        "start": 130316,
+        "text": "П-постой-ка! В-вы что, собрались показывать, что в комнатах происходило?!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 137000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0460",
+        "layer": 0,
+        "persona": "nan",
+        "start": 130316
+    },
+    {
+        "action": "PrintText",
+        "end": 138000,
+        "persona": "Асикага",
+        "start": 136316,
+        "text": "О, Канродзи!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 138000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0470",
+        "layer": 0,
+        "persona": "tie",
+        "start": 136316
+    },
+    {
+        "action": "PrintText",
+        "end": 139000,
+        "persona": "Нанами",
+        "start": 138166,
+        "text": "Так или нет?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 139000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0480",
+        "layer": 0,
+        "persona": "nan",
+        "start": 138166
+    },
+    {
+        "action": "PrintText",
+        "end": 144000,
+        "persona": "Асикага",
+        "start": 139116,
+        "text": "Твои сладостные всхлипы о любимом «братике» записаны в лучшем виде!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 144000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0490",
+        "layer": 0,
+        "persona": "tie",
+        "start": 139116
+    },
+    {
+        "action": "PrintText",
+        "end": 145000,
+        "persona": "Нанами",
+        "start": 144083,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 145000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0510",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 144083
+    },
+    {
+        "action": "PrintText",
+        "end": 147000,
+        "persona": "Отомэ",
+        "start": 145333,
+        "text": "Асикага...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 147000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0520",
+        "layer": 0,
+        "persona": "oto",
+        "start": 145333
+    },
+    {
+        "action": "CreateBG",
+        "end": 150000,
+        "file": "Event04/04-KA/04-KA-L00/04-KA-L00-009",
+        "start": 147050
+    },
+    {
+        "action": "PrintText",
+        "end": 150000,
+        "persona": "Сэкаи",
+        "start": 147050,
+        "text": "Кто она такая-то?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 150000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0530",
+        "layer": 0,
+        "persona": "sek",
+        "start": 147050
+    },
+    {
+        "action": "CreateBG",
+        "end": 163000,
+        "file": "Event04/04-KA/04-KA-L00/04-KA-L00-010",
+        "start": 150216
+    },
+    {
+        "action": "PrintText",
+        "end": 158000,
+        "persona": "Отомэ",
+        "start": 150216,
+        "text": "Она, не являясь капитаном команды, обладает определённым весом и вечно этим кичится. Особенно достаётся девчонкам, у которых есть парни.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 158000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0540",
+        "layer": 0,
+        "persona": "oto",
+        "start": 150216
+    },
+    {
+        "action": "PrintText",
+        "end": 161000,
+        "persona": "Сэкаи",
+        "start": 158250,
+        "text": "Вот стерва...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 161000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0550",
+        "layer": 0,
+        "persona": "sek",
+        "start": 158250
+    },
+    {
+        "action": "PrintText",
+        "end": 163000,
+        "persona": "Отомэ",
+        "start": 161116,
+        "text": "Да уж, та ещё.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 163000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0560",
+        "layer": 0,
+        "persona": "oto",
+        "start": 161116
+    },
+    {
+        "action": "CreateBG",
+        "end": 172000,
+        "file": "Event04/04-KA/04-KA-L00/04-KA-L00-003C",
+        "start": 163033
+    },
+    {
+        "action": "PrintText",
+        "end": 170000,
+        "persona": "Асикага",
+        "start": 163050,
+        "text": "Что ж дамы, прошу, наслаждайтесь! Только, постарайтесь не вспоминать об этом при парнях.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 170000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0580",
+        "layer": 0,
+        "persona": "tie",
+        "start": 163050
+    },
+    {
+        "action": "PrintText",
+        "end": 172000,
+        "persona": "Отомэ",
+        "start": 170150,
+        "text": "Ты, значит, ходила...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 172000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0590",
+        "layer": 0,
+        "persona": "oto",
+        "start": 170150
+    },
+    {
+        "action": "CreateBG",
+        "end": 178000,
+        "file": "Event04/04-KA/04-KA-L00/04-KA-L00-012",
+        "start": 172216
+    },
+    {
+        "action": "PrintText",
+        "end": 175000,
+        "persona": "Нанами",
+        "start": 172216,
+        "text": "В комнату 4-го класса со своим...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 175000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0600",
+        "layer": 0,
+        "persona": "nan",
+        "start": 172216
+    },
+    {
+        "action": "PrintText",
+        "end": 178000,
+        "persona": "Отомэ",
+        "start": 175133,
+        "text": "А что за «братик»-то?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 178000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0610",
+        "layer": 0,
+        "persona": "oto",
+        "start": 175133
+    },
+    {
+        "action": "CreateBG",
+        "end": 179000,
+        "file": "Event04/04-KA/04-KA-L00/04-KA-L00-013",
+        "start": 178116
+    },
+    {
+        "action": "PrintText",
+        "end": 179000,
+        "persona": "Нанами",
+        "start": 178200,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 179000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0620",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 178200
+    },
+    {
+        "action": "PlayBgm",
+        "end": 425000,
+        "file": "BGM/SD_BGM/sdbgm26",
+        "start": 179183
+    },
+    {
+        "action": "CreateBG",
+        "end": 181000,
+        "file": "System/Screen/Black",
+        "start": 179366
+    },
+    {
+        "action": "PrintText",
+        "end": 181000,
+        "persona": "Сэкаи",
+        "start": 180033,
+        "text": "Нанами...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 181000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0630",
+        "layer": 0,
+        "persona": "sek",
+        "start": 180033
+    },
+    {
+        "action": "PlayMovie",
+        "end": 219000,
+        "file": "Movie04/04-KA/04-KA-L00/04-KA-L00-015",
+        "start": 181233
+    },
+    {
+        "action": "PrintText",
+        "end": 184000,
+        "persona": "Отомэ",
+        "start": 181316,
+        "text": "С Нанами начали...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 184000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0670",
+        "layer": 0,
+        "persona": "oto",
+        "start": 181316
+    },
+    {
+        "action": "PrintText",
+        "end": 185000,
+        "persona": "Сэкаи",
+        "start": 184266,
+        "text": "Э?!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 185000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0680",
+        "layer": 0,
+        "persona": "sek",
+        "start": 184266
+    },
+    {
+        "action": "PrintText",
+        "end": 186000,
+        "persona": "Нанами",
+        "start": 185083,
+        "text": "Милый!..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 186000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0710",
+        "layer": 0,
+        "persona": "nan",
+        "start": 185083
+    },
+    {
+        "action": "PrintText",
+        "end": 189000,
+        "persona": "Нанами",
+        "start": 187083,
+        "text": "Хорошо как...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 189000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0720",
+        "layer": 0,
+        "persona": "nan",
+        "start": 187083
+    },
+    {
+        "action": "PrintText",
+        "end": 190000,
+        "persona": "Касаноин",
+        "start": 189266,
+        "text": "Нанами.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 190000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0730",
+        "layer": 1,
+        "persona": "kas",
+        "start": 189266
+    },
+    {
+        "action": "PrintText",
+        "end": 192000,
+        "persona": "Нанами",
+        "start": 190050,
+        "text": "Не переживай так, тут можно расслабиться!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 192000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0740",
+        "layer": 0,
+        "persona": "nan",
+        "start": 190050
+    },
+    {
+        "action": "PrintText",
+        "end": 198000,
+        "persona": "Касаноин",
+        "start": 192350,
+        "text": "Не знал, что у нас в школе такое место есть... И любишь же ты у нас, однако, это дело.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 198000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0750",
+        "layer": 1,
+        "persona": "kas",
+        "start": 192350
+    },
+    {
+        "action": "PrintText",
+        "end": 199000,
+        "persona": "Нанами",
+        "start": 198133,
+        "text": "Да ладно...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 199000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0760",
+        "layer": 0,
+        "persona": "nan",
+        "start": 198133
+    },
+    {
+        "action": "PrintText",
+        "end": 201000,
+        "persona": "Касаноин",
+        "start": 199150,
+        "text": "Возьми в рот.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 201000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0770",
+        "layer": 1,
+        "persona": "kas",
+        "start": 199150
+    },
+    {
+        "action": "PrintText",
+        "end": 202000,
+        "persona": "Нанами",
+        "start": 201233,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 202000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0790",
+        "layer": 0,
+        "persona": "nan",
+        "start": 201233
+    },
+    {
+        "action": "MoveSom",
+        "end": 219000,
+        "start": 201316
+    },
+    {
+        "action": "PrintText",
+        "end": 203000,
+        "persona": "Сэкаи",
+        "start": 202133,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 203000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0820",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 202133
+    },
+    {
+        "action": "PrintText",
+        "end": 205000,
+        "persona": "Нанами",
+        "start": 203016,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 205000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0830",
+        "layer": 0,
+        "persona": "nan",
+        "start": 203016
+    },
+    {
+        "action": "PrintText",
+        "end": 209000,
+        "persona": "Касаноин",
+        "start": 204266,
+        "text": "Знаешь как надо... Нанами...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 209000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0840",
+        "layer": 1,
+        "persona": "kas",
+        "start": 204266
+    },
+    {
+        "action": "PrintText",
+        "end": 211000,
+        "persona": "Нанами",
+        "start": 210033,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 211000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0850",
+        "layer": 0,
+        "persona": "nan",
+        "start": 210033
+    },
+    {
+        "action": "PrintText",
+        "end": 212000,
+        "persona": "Касаноин",
+        "start": 211133,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 212000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0860",
+        "layer": 1,
+        "persona": "kas",
+        "start": 211133
+    },
+    {
+        "action": "PrintText",
+        "end": 212000,
+        "persona": "Нанами",
+        "start": 211250,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 212000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0870",
+        "layer": 0,
+        "persona": "nan",
+        "start": 211250
+    },
+    {
+        "action": "PrintText",
+        "end": 216000,
+        "persona": "Касаноин",
+        "start": 213033,
+        "text": "Нанами... Давай как обычно...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 216000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0880",
+        "layer": 1,
+        "persona": "kas",
+        "start": 213033
+    },
+    {
+        "action": "PrintText",
+        "end": 217000,
+        "persona": "Нанами",
+        "start": 216316,
+        "text": "Э?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 217000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0890",
+        "layer": 0,
+        "persona": "nan",
+        "start": 216316
+    },
+    {
+        "action": "PrintText",
+        "end": 218000,
+        "persona": "Касаноин",
+        "start": 217100,
+        "text": "Говори...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 218000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0900",
+        "layer": 1,
+        "persona": "kas",
+        "start": 217100
+    },
+    {
+        "action": "PrintText",
+        "end": 218000,
+        "persona": "Нанами",
+        "start": 218083,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 218000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0910",
+        "layer": 0,
+        "persona": "nan",
+        "start": 218083
+    },
+    {
+        "action": "CreateBG",
+        "end": 235000,
+        "file": "System/Screen/Black",
+        "start": 219016
+    },
+    {
+        "action": "PrintText",
+        "end": 220000,
+        "persona": "Касаноин",
+        "start": 219116,
+        "text": "Раздвинь ноги.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 220000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0920",
+        "layer": 1,
+        "persona": "kas",
+        "start": 219116
+    },
+    {
+        "action": "PrintText",
+        "end": 221000,
+        "persona": "Нанами",
+        "start": 220366,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 221000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0940",
+        "layer": 0,
+        "persona": "nan",
+        "start": 220366
+    },
+    {
+        "action": "PrintText",
+        "end": 226000,
+        "persona": "Касаноин",
+        "start": 221200,
+        "text": "Там тоже раздвинь... Чтобы я всё видел...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 226000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0950",
+        "layer": 1,
+        "persona": "kas",
+        "start": 221200
+    },
+    {
+        "action": "PrintText",
+        "end": 228000,
+        "persona": "Нанами",
+        "start": 226283,
+        "text": "Так?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 228000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0960",
+        "layer": 0,
+        "persona": "nan",
+        "start": 226283
+    },
+    {
+        "action": "PrintText",
+        "end": 230000,
+        "persona": "Касаноин",
+        "start": 227300,
+        "text": "Возбудилась больше обычного...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 230000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0970",
+        "layer": 1,
+        "persona": "kas",
+        "start": 227300
+    },
+    {
+        "action": "PrintText",
+        "end": 235000,
+        "persona": "Нанами",
+        "start": 231050,
+        "text": "В школе ведь... Офигенно просто...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 235000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0980",
+        "layer": 0,
+        "persona": "nan",
+        "start": 231050
+    },
+    {
+        "action": "MoveSom",
+        "end": 276000,
+        "start": 235000
+    },
+    {
+        "action": "PrintText",
+        "end": 237000,
+        "persona": "Касаноин",
+        "start": 235116,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 237000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-0990",
+        "layer": 1,
+        "persona": "kas",
+        "start": 235116
+    },
+    {
+        "action": "PlayMovie",
+        "end": 326000,
+        "file": "Movie04/04-KA/04-KA-L00/04-KA-L00-017",
+        "start": 235133
+    },
+    {
+        "action": "PrintText",
+        "end": 238000,
+        "persona": "Нанами",
+        "start": 237166,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 238000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1000",
+        "layer": 0,
+        "persona": "nan",
+        "start": 237166
+    },
+    {
+        "action": "PrintText",
+        "end": 243000,
+        "persona": "Касаноин",
+        "start": 238133,
+        "text": "Договорились же?.. Зови меня братиком!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 243000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1010",
+        "layer": 1,
+        "persona": "kas",
+        "start": 238133
+    },
+    {
+        "action": "PrintText",
+        "end": 249000,
+        "persona": "Нанами",
+        "start": 243283,
+        "text": "Братик... Сделай мне... Хорошо...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 249000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1020",
+        "layer": 0,
+        "persona": "nan",
+        "start": 243283
+    },
+    {
+        "action": "PrintText",
+        "end": 250000,
+        "persona": "Касаноин",
+        "start": 249266,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 250000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1030",
+        "layer": 1,
+        "persona": "kas",
+        "start": 249266
+    },
+    {
+        "action": "PrintText",
+        "end": 254000,
+        "persona": "Нанами",
+        "start": 250083,
+        "text": "Милый... Силь...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 254000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1040",
+        "layer": 0,
+        "persona": "nan",
+        "start": 250083
+    },
+    {
+        "action": "PlaySe",
+        "end": 298000,
+        "file": "SysSe/SE_all/h/h_03_sichoukaku",
+        "layer": 1,
+        "start": 250100
+    },
+    {
+        "action": "PrintText",
+        "end": 256000,
+        "persona": "Касаноин",
+        "start": 254216,
+        "text": "Братик...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 256000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1050",
+        "layer": 1,
+        "persona": "kas",
+        "start": 254216
+    },
+    {
+        "action": "PrintText",
+        "end": 262000,
+        "persona": "Нанами",
+        "start": 256033,
+        "text": "Д-да... Б-братик!.. Х-хорошо!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 262000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1060",
+        "layer": 0,
+        "persona": "nan",
+        "start": 256033
+    },
+    {
+        "action": "PrintText",
+        "end": 265000,
+        "persona": "Касаноин",
+        "start": 262233,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 265000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1070",
+        "layer": 1,
+        "persona": "kas",
+        "start": 262233
+    },
+    {
+        "action": "PrintText",
+        "end": 270000,
+        "persona": "Нанами",
+        "start": 266100,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 270000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1080",
+        "layer": 0,
+        "persona": "nan",
+        "start": 266100
+    },
+    {
+        "action": "PrintText",
+        "end": 273000,
+        "persona": "Касаноин",
+        "start": 270100,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 273000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1090",
+        "layer": 1,
+        "persona": "kas",
+        "start": 270100
+    },
+    {
+        "action": "PrintText",
+        "end": 276000,
+        "persona": "Нанами",
+        "start": 273183,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 276000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1100",
+        "layer": 0,
+        "persona": "nan",
+        "start": 273183
+    },
+    {
+        "action": "MoveSom",
+        "end": 298000,
+        "start": 276100
+    },
+    {
+        "action": "PrintText",
+        "end": 278000,
+        "persona": "Касаноин",
+        "start": 276316,
+        "text": "Нанами...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 278000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1110",
+        "layer": 1,
+        "persona": "kas",
+        "start": 276316
+    },
+    {
+        "action": "PrintText",
+        "end": 281000,
+        "persona": "Нанами",
+        "start": 277350,
+        "text": "Б-братик!.. Так хорошо!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 281000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1120",
+        "layer": 0,
+        "persona": "nan",
+        "start": 277350
+    },
+    {
+        "action": "PrintText",
+        "end": 284000,
+        "persona": "Касаноин",
+        "start": 282016,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 284000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1130",
+        "layer": 1,
+        "persona": "kas",
+        "start": 282016
+    },
+    {
+        "action": "PrintText",
+        "end": 287000,
+        "persona": "Нанами",
+        "start": 284033,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 287000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1140",
+        "layer": 0,
+        "persona": "nan",
+        "start": 284033
+    },
+    {
+        "action": "PrintText",
+        "end": 290000,
+        "persona": "Касаноин",
+        "start": 287350,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 290000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1150",
+        "layer": 1,
+        "persona": "kas",
+        "start": 287350
+    },
+    {
+        "action": "PrintText",
+        "end": 292000,
+        "persona": "Нанами",
+        "start": 289100,
+        "text": "Больше...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 292000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1160",
+        "layer": 0,
+        "persona": "nan",
+        "start": 289100
+    },
+    {
+        "action": "PrintText",
+        "end": 293000,
+        "persona": "Касаноин",
+        "start": 292266,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 293000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1170",
+        "layer": 1,
+        "persona": "kas",
+        "start": 292266
+    },
+    {
+        "action": "PrintText",
+        "end": 298000,
+        "persona": "Нанами",
+        "start": 293133,
+        "text": "Б-братик!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 298000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1180",
+        "layer": 0,
+        "persona": "nan",
+        "start": 293133
+    },
+    {
+        "action": "PrintText",
+        "end": 302000,
+        "persona": "Нанами",
+        "start": 299216,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 302000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1200",
+        "layer": 0,
+        "persona": "nan",
+        "start": 299216
+    },
+    {
+        "action": "PrintText",
+        "end": 306000,
+        "persona": "Касаноин",
+        "start": 301300,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 306000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1210",
+        "layer": 1,
+        "persona": "kas",
+        "start": 301300
+    },
+    {
+        "action": "PrintText",
+        "end": 309000,
+        "persona": "Нанами",
+        "start": 305350,
+        "text": "Ну как... Понравилось?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 309000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1220",
+        "layer": 0,
+        "persona": "nan",
+        "start": 305350
+    },
+    {
+        "action": "PrintText",
+        "end": 310000,
+        "persona": "Касаноин",
+        "start": 308366,
+        "text": "Ещё как...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 310000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1230",
+        "layer": 1,
+        "persona": "kas",
+        "start": 308366
+    },
+    {
+        "action": "PrintText",
+        "end": 312000,
+        "persona": "Нанами",
+        "start": 311133,
+        "text": "Я...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 312000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1240",
+        "layer": 0,
+        "persona": "nan",
+        "start": 311133
+    },
+    {
+        "action": "PrintText",
+        "end": 316000,
+        "persona": "Касаноин",
+        "start": 313333,
+        "text": "В следующий раз будешь служанкой.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 316000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1250",
+        "layer": 1,
+        "persona": "kas",
+        "start": 313333
+    },
+    {
+        "action": "PrintText",
+        "end": 317000,
+        "persona": "Нанами",
+        "start": 316300,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 317000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1260",
+        "layer": 0,
+        "persona": "nan",
+        "start": 316300
+    },
+    {
+        "action": "PrintText",
+        "end": 320000,
+        "persona": "Касаноин",
+        "start": 317083,
+        "text": "Со следующей зарплаты куплю форму...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 320000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1270",
+        "layer": 1,
+        "persona": "kas",
+        "start": 317083
+    },
+    {
+        "action": "PrintText",
+        "end": 321000,
+        "persona": "Нанами",
+        "start": 320266,
+        "text": "Э?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 321000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1280",
+        "layer": 0,
+        "persona": "nan",
+        "start": 320266
+    },
+    {
+        "action": "PrintText",
+        "end": 322000,
+        "persona": "Касаноин",
+        "start": 321300,
+        "text": "Не нравится?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 322000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1290",
+        "layer": 1,
+        "persona": "kas",
+        "start": 321300
+    },
+    {
+        "action": "PrintText",
+        "end": 324000,
+        "persona": "Нанами",
+        "start": 323116,
+        "text": "Хозяин!..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 324000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1310",
+        "layer": 0,
+        "persona": "nan",
+        "start": 323116
+    },
+    {
+        "action": "PrintText",
+        "end": 326000,
+        "persona": "Касаноин",
+        "start": 324233,
+        "text": "Ну ты!..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 326000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1320",
+        "layer": 1,
+        "persona": "kas",
+        "start": 324233
+    },
+    {
+        "action": "PlayMovie",
+        "end": 350000,
+        "file": "Movie04/04-KA/04-KA-L00/04-KA-L00-018",
+        "start": 326150
+    },
+    {
+        "action": "PrintText",
+        "end": 334000,
+        "persona": "Нанами",
+        "start": 326150,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 334000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1340",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 326150
+    },
+    {
+        "action": "PrintText",
+        "end": 336000,
+        "persona": "Отомэ",
+        "start": 334383,
+        "text": "Нанами...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 336000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1360",
+        "layer": 0,
+        "persona": "oto",
+        "start": 334383
+    },
+    {
+        "action": "PrintText",
+        "end": 340000,
+        "persona": "Сэкаи",
+        "start": 336283,
+        "text": "Нанами... Пошли уже?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 340000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1370",
+        "layer": 0,
+        "persona": "sek",
+        "start": 336283
+    },
+    {
+        "action": "PrintText",
+        "end": 342000,
+        "persona": "Нанами",
+        "start": 340300,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 342000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1380",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 340300
+    },
+    {
+        "action": "PrintText",
+        "end": 347000,
+        "persona": "Отомэ",
+        "start": 343033,
+        "text": "Нанами, она права. Лучше уйти.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 347000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1390",
+        "layer": 0,
+        "persona": "oto",
+        "start": 343033
+    },
+    {
+        "action": "PrintText",
+        "end": 351000,
+        "persona": "Нанами",
+        "start": 347250,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 351000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1410",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 347250
+    },
+    {
+        "action": "CreateBG",
+        "end": 374000,
+        "file": "Event04/04-KA/04-KA-L00/04-KA-L00-007",
+        "start": 350033
+    },
+    {
+        "action": "PlayVoice",
+        "end": 376000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1450",
+        "layer": 0,
+        "persona": "kot",
+        "start": 351283
+    },
+    {
+        "action": "PrintText",
+        "end": 355000,
+        "persona": "Нацуки",
+        "start": 352100,
+        "text": "Уф. Во даёт!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 355000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1470",
+        "layer": 0,
+        "persona": "bue",
+        "start": 352100
+    },
+    {
+        "action": "PrintText",
+        "end": 358000,
+        "persona": "Рока",
+        "start": 355016,
+        "text": "Это среди первогодок такая?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 358000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1480",
+        "layer": 0,
+        "persona": "rok",
+        "start": 355016
+    },
+    {
+        "action": "PrintText",
+        "end": 361000,
+        "persona": "Рука",
+        "start": 358150,
+        "text": "Ну и вымя!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 361000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1490",
+        "layer": 0,
+        "persona": "buc",
+        "start": 358150
+    },
+    {
+        "action": "PrintText",
+        "end": 364000,
+        "persona": "Муги",
+        "start": 361116,
+        "text": "Она из 4-го, кажется.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 364000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1500",
+        "layer": 0,
+        "persona": "bud",
+        "start": 361116
+    },
+    {
+        "action": "PrintText",
+        "end": 366000,
+        "persona": "Нацуки",
+        "start": 364000,
+        "text": "Да? И парень?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 366000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1510",
+        "layer": 0,
+        "persona": "bue",
+        "start": 364000
+    },
+    {
+        "action": "PrintText",
+        "end": 369000,
+        "persona": "Рока",
+        "start": 366116,
+        "text": "Парень... Из 3-го.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 369000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1520",
+        "layer": 0,
+        "persona": "rok",
+        "start": 366116
+    },
+    {
+        "action": "PrintText",
+        "end": 373000,
+        "persona": "Рука",
+        "start": 369200,
+        "text": "Так это же тот, которого Рока нахваливала!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 373000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1530",
+        "layer": 0,
+        "persona": "buc",
+        "start": 369200
+    },
+    {
+        "action": "PrintText",
+        "end": 376000,
+        "persona": "Рока",
+        "start": 372333,
+        "text": "Ужас. У него подруга, значит, была.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 376000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1540",
+        "layer": 0,
+        "persona": "rok",
+        "start": 372333
+    },
+    {
+        "action": "PlayMovie",
+        "end": 386000,
+        "file": "Movie04/04-KA/04-KA-L00/H4-KA-L00-020",
+        "start": 374266
+    },
+    {
+        "action": "PrintText",
+        "end": 379000,
+        "persona": "Нацуки",
+        "start": 376166,
+        "text": "Ну и поцелуйчики у них!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 379000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1550",
+        "layer": 0,
+        "persona": "bue",
+        "start": 376166
+    },
+    {
+        "action": "MoveSom",
+        "end": 397000,
+        "start": 376300
+    },
+    {
+        "action": "PlaySe",
+        "end": 387000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1450",
+        "layer": 1,
+        "start": 376383
+    },
+    {
+        "action": "PrintText",
+        "end": 382000,
+        "persona": "Рока",
+        "start": 379066,
+        "text": "Блин! Глаза бы мои этого не видели!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 382000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1560",
+        "layer": 0,
+        "persona": "rok",
+        "start": 379066
+    },
+    {
+        "action": "PrintText",
+        "end": 383000,
+        "persona": "Муги",
+        "start": 382050,
+        "text": "Да ладно.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 383000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1570",
+        "layer": 0,
+        "persona": "bud",
+        "start": 382050
+    },
+    {
+        "action": "PrintText",
+        "end": 386000,
+        "persona": "Нацуки",
+        "start": 383083,
+        "text": "Ну так что, кто этот твой уже экс-возлюбленный?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 386000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1580",
+        "layer": 0,
+        "persona": "bue",
+        "start": 383083
+    },
+    {
+        "action": "PlayMovie",
+        "end": 399000,
+        "file": "Movie04/04-KA/04-KA-L00/04-KA-L00-021",
+        "start": 386233
+    },
+    {
+        "action": "PrintText",
+        "end": 391000,
+        "persona": "Рока",
+        "start": 386316,
+        "text": "Да какой там возлюбленный... Хотя да, не ожидала...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 391000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1590",
+        "layer": 0,
+        "persona": "rok",
+        "start": 386316
+    },
+    {
+        "action": "PlaySe",
+        "end": 425000,
+        "file": "SysSe/SE_all/h/h_03_sichoukaku",
+        "layer": 2,
+        "start": 388250
+    },
+    {
+        "action": "PlaySe",
+        "end": 425000,
+        "file": "Se04/04-KA/04-KA-L00/SE04-KA-L00-001",
+        "layer": 1,
+        "start": 389383
+    },
+    {
+        "action": "PrintText",
+        "end": 396000,
+        "persona": "Рука",
+        "start": 391033,
+        "text": "Кажется... Да, да, точно! Ито из 3-го!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 396000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1600",
+        "layer": 0,
+        "persona": "buc",
+        "start": 391033
+    },
+    {
+        "action": "PrintText",
+        "end": 397000,
+        "persona": "Сэкаи",
+        "start": 396150,
+        "text": "Э?!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 397000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1610",
+        "layer": 0,
+        "persona": "sek",
+        "start": 396150
+    },
+    {
+        "action": "PrintText",
+        "end": 399000,
+        "persona": "Сэкаи",
+        "start": 398033,
+        "text": "Макото?!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 399000,
+        "file": "Voice04/04-KA/04-KA-L00/04-KA-L00-1640",
+        "layer": 0,
+        "persona": "sek",
+        "start": 398033
+    },
+    {
+        "action": "PlayMovie",
+        "end": 420000,
+        "file": "Movie04/04-KA/04-KA-L00/04-KA-L00-022",
+        "start": 399133
+    },
+    {
+        "action": "PlayMovie",
+        "end": 425000,
+        "file": "Movie04/04-KA/04-KA-L00/04-KA-L00-023",
+        "start": 420033
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 425000,
+        "start": 423133
+    }
+]

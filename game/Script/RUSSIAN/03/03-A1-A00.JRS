@@ -1,0 +1,271 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 33000,
+        "file": "BGM/SD_BGM/sdbgm01",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 6000,
+        "file": "Se03/03-A1/03-A1-A00/SE03-A1-A00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 3000,
+        "file": "Voice03/03-A1/03-A1-A00/03-A1-A00-0040",
+        "layer": 2,
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 6000,
+        "file": "Movie00/00-00/00-00-A00/00-00-A00-006",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 32000,
+        "file": "Se03/03-A1/03-A1-A00/SE03-A1-A00-002",
+        "layer": 2,
+        "start": 6083
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event03/03-A1/03-A1-A00/03-A1-A00-002",
+        "start": 6083
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 6083,
+        "text": "Доброе утро.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice03/03-A1/03-A1-A00/03-A1-A00-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 6083
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Котоноха",
+        "start": 7100,
+        "text": "Здравствуй.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice03/03-A1/03-A1-A00/03-A1-A00-0080",
+        "layer": 0,
+        "persona": "kot",
+        "start": 7100
+    },
+    {
+        "action": "CreateBG",
+        "end": 14000,
+        "file": "Event03/03-A1/03-A1-A00/03-A1-A00-003",
+        "start": 10250
+    },
+    {
+        "action": "PlaySe",
+        "end": 12000,
+        "file": "Voice03/03-A1/03-A1-A00/03-A1-A00-0090",
+        "layer": 1,
+        "start": 10350
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Макото",
+        "start": 11366,
+        "text": "Что-то случилось?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice03/03-A1/03-A1-A00/03-A1-A00-0100",
+        "layer": 1,
+        "persona": "mak",
+        "start": 11366
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Котоноха",
+        "start": 13000,
+        "text": "Ничего...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice03/03-A1/03-A1-A00/03-A1-A00-0110",
+        "layer": 0,
+        "persona": "kot",
+        "start": 13000
+    },
+    {
+        "action": "CreateBG",
+        "end": 18000,
+        "file": "Event03/03-A1/03-A1-A00/03-A1-A00-004",
+        "start": 14283
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Макото",
+        "start": 16233,
+        "text": "Котоноха?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice03/03-A1/03-A1-A00/03-A1-A00-0120",
+        "layer": 1,
+        "persona": "mak",
+        "start": 16233
+    },
+    {
+        "action": "CreateBG",
+        "end": 21000,
+        "file": "Event03/03-A1/03-A1-A00/03-A1-A00-005",
+        "start": 18066
+    },
+    {
+        "action": "PrintText",
+        "end": 19000,
+        "persona": "Котоноха",
+        "start": 18200,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 19000,
+        "file": "Voice03/03-A1/03-A1-A00/03-A1-A00-0140",
+        "layer": 0,
+        "persona": "kot",
+        "start": 18200
+    },
+    {
+        "action": "PrintText",
+        "end": 20000,
+        "persona": "Макото",
+        "start": 19283,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 20000,
+        "file": "Voice03/03-A1/03-A1-A00/03-A1-A00-0160",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 19283
+    },
+    {
+        "action": "PlayMovie",
+        "end": 28000,
+        "file": "Movie03/03-A1/03-A1-A00/03-A1-A00-006",
+        "start": 21033
+    },
+    {
+        "action": "PrintText",
+        "end": 22000,
+        "persona": "Котоноха",
+        "start": 21133,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 22000,
+        "file": "Voice03/03-A1/03-A1-A00/03-A1-A00-0170",
+        "layer": 0,
+        "persona": "kot",
+        "start": 21133
+    },
+    {
+        "action": "PrintText",
+        "end": 23000,
+        "persona": "Макото",
+        "start": 22200,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 23000,
+        "file": "Voice03/03-A1/03-A1-A00/03-A1-A00-0180",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 22200
+    },
+    {
+        "action": "PrintText",
+        "end": 28000,
+        "persona": "Котоноха",
+        "start": 23283,
+        "text": "Макото, послушай...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 28000,
+        "file": "Voice03/03-A1/03-A1-A00/03-A1-A00-0190",
+        "layer": 0,
+        "persona": "kot",
+        "start": 23283
+    },
+    {
+        "action": "PlayMovie",
+        "end": 33000,
+        "file": "Movie03/03-A1/03-A1-A00/03-A1-A00-007",
+        "start": 28133
+    },
+    {
+        "action": "PrintText",
+        "end": 29000,
+        "persona": "Макото",
+        "start": 28266,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 29000,
+        "file": "Voice03/03-A1/03-A1-A00/03-A1-A00-0210",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 28266
+    },
+    {
+        "action": "PrintText",
+        "end": 31000,
+        "persona": "Котоноха",
+        "start": 30033,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 31000,
+        "file": "Voice03/03-A1/03-A1-A00/03-A1-A00-0220",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 30033
+    },
+    {
+        "action": "PlaySe",
+        "end": 33000,
+        "file": "Se03/03-A1/03-A1-A00/SE03-A1-A00-002",
+        "layer": 1,
+        "start": 32150
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 33000,
+        "start": 32200
+    }
+]

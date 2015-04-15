@@ -1,0 +1,131 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 26000,
+        "file": "BGM/SD_BGM/sdbgm20",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 8000,
+        "file": "Se01/01-00/01-00-M03/SE01-00-M03-002",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 12000,
+        "file": "Event02/02-2K/02-2K-J06/02-2K-J06-001",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 10000,
+        "file": "Voice02/02-2K/02-2K-J06/02-2K-J06-0030",
+        "layer": 2,
+        "start": 7233
+    },
+    {
+        "action": "CreateBG",
+        "end": 17000,
+        "file": "Event02/02-2K/02-2K-J06/02-2K-J06-005",
+        "start": 12133
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Котоноха",
+        "start": 12250,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice02/02-2K/02-2K-J09/02-2K-J09-0030",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 12250
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 17000,
+        "start": 16250
+    },
+    {
+        "action": "PlaySe",
+        "end": 26000,
+        "file": "Se01/01-1K/01-1K-F00/SE01-1K-F00-001",
+        "layer": 1,
+        "start": 17050
+    },
+    {
+        "action": "PlayMovie",
+        "end": 23000,
+        "file": "Movie01/01-1K/01-1K-F00/01-1K-F00-001",
+        "start": 17050
+    },
+    {
+        "action": "BlackFade",
+        "dir": "IN",
+        "end": 17000,
+        "start": 17050
+    },
+    {
+        "action": "PrintText",
+        "end": 20000,
+        "persona": "Макото",
+        "start": 18083,
+        "text": "Какие они у неё большие...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 20000,
+        "file": "Voice02/02-2K/02-2K-J09/02-2K-J09-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 18083
+    },
+    {
+        "action": "PrintText",
+        "end": 22000,
+        "persona": "Макото",
+        "start": 21150,
+        "text": "и...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 22000,
+        "file": "Voice02/02-2K/02-2K-J09/02-2K-J09-0100",
+        "layer": 1,
+        "persona": "mak",
+        "start": 21150
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 23000,
+        "start": 22300
+    },
+    {
+        "action": "CreateBG",
+        "end": 26000,
+        "file": "System/Screen/Black",
+        "start": 23300
+    },
+    {
+        "action": "PrintText",
+        "end": 26000,
+        "persona": "Макото",
+        "start": 24066,
+        "text": "очень мягкие.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 26000,
+        "file": "Voice02/02-2K/02-2K-J09/02-2K-J09-0110",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 24066
+    }
+]

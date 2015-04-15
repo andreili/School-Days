@@ -1,0 +1,138 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 14000,
+        "file": "BGM/SD_BGM/sdbgm20",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event05/05-5O/05-5O-E02/05-5O-E02-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 233,
+        "text": "Нет.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice05/05-5O/05-5O-E02/05-5O-E02-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 233
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Сэцуна",
+        "start": 2083,
+        "text": "Почему?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice05/05-5O/05-5O-E02/05-5O-E02-0040",
+        "layer": 0,
+        "persona": "set",
+        "start": 2083
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Макото",
+        "start": 3150,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice05/05-5O/05-5O-E02/05-5O-E02-0050",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 3150
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event05/05-5O/05-5O-E02/05-5O-E02-002",
+        "start": 3383
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Сэцуна",
+        "start": 3383,
+        "text": "Сэкаи будет тебя ждать.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice05/05-5O/05-5O-E02/05-5O-E02-0060",
+        "layer": 0,
+        "persona": "set",
+        "start": 3383
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 6366,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice05/05-5O/05-5O-E02/05-5O-E02-0070",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 6366
+    },
+    {
+        "action": "CreateBG",
+        "end": 14000,
+        "file": "Event05/05-5O/05-5O-E02/05-5O-E02-003",
+        "start": 7150
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Сэцуна",
+        "start": 7200,
+        "text": "Сходи.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice05/05-5O/05-5O-E02/05-5O-E02-0080",
+        "layer": 0,
+        "persona": "set",
+        "start": 7200
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Макото",
+        "start": 8100,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice05/05-5O/05-5O-E02/05-5O-E02-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 8100
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Ладно.",
+        "answer2": "Нет!^",
+        "end": 13000,
+        "start": 8266
+    }
+]

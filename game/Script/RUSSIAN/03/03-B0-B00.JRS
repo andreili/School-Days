@@ -1,0 +1,274 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 42000,
+        "file": "BGM/SD_BGM/sdbgm20",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 42000,
+        "file": "Se03/03-B0/03-B0-B00/SE03-B0-B00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event03/03-B0/03-B0-B00/03-B0-B00-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Объявление",
+        "start": 0,
+        "text": "Приготовления к вечерней части фестиваля закончены.^"
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Объявление",
+        "start": 4000,
+        "text": "Желающие принять участие, пожалуйста, собирайтесь в школьном дворе.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice03/03-B0/03-B0-B00/03-B0-B00-0040",
+        "layer": 1,
+        "persona": "kou",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 25000,
+        "file": "Event03/03-B0/03-B0-B00/03-B0-B00-006",
+        "start": 9016
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Хикари",
+        "start": 9016,
+        "text": "Ну что, пошли на танцы!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice03/03-B0/03-B0-B00/03-B0-B00-0060",
+        "layer": 0,
+        "persona": "hik",
+        "start": 9016
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Сэцуна",
+        "start": 11100,
+        "text": "Да, и ты, Сэкаи, тоже с нами.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice03/03-B0/03-B0-B00/03-B0-B00-0070",
+        "layer": 0,
+        "persona": "set",
+        "start": 11100
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Сэкаи",
+        "start": 14000,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice03/03-B0/03-B0-B00/03-B0-B00-0090",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 14000
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Хикари",
+        "start": 15000,
+        "text": "Сэкаи! Ну что с тобой? Пойдем!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice03/03-B0/03-B0-B00/03-B0-B00-0100",
+        "layer": 0,
+        "persona": "hik",
+        "start": 15000
+    },
+    {
+        "action": "PrintText",
+        "end": 19000,
+        "persona": "Сэкаи",
+        "start": 17283,
+        "text": "Я пас...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 19000,
+        "file": "Voice03/03-B0/03-B0-B00/03-B0-B00-0110",
+        "layer": 0,
+        "persona": "sek",
+        "start": 17283
+    },
+    {
+        "action": "PrintText",
+        "end": 23000,
+        "persona": "Хикари",
+        "start": 19366,
+        "text": "Что? Пошли! Мы же все так этого ждали!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 23000,
+        "file": "Voice03/03-B0/03-B0-B00/03-B0-B00-0120",
+        "layer": 0,
+        "persona": "hik",
+        "start": 19366
+    },
+    {
+        "action": "PrintText",
+        "end": 25000,
+        "persona": "Сэкаи",
+        "start": 23200,
+        "text": "Нет, я домой.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 25000,
+        "file": "Voice03/03-B0/03-B0-B00/03-B0-B00-0130",
+        "layer": 0,
+        "persona": "sek",
+        "start": 23200
+    },
+    {
+        "action": "CreateBG",
+        "end": 33000,
+        "file": "Event03/03-B0/03-B0-B00/03-B0-B00-003",
+        "start": 25233
+    },
+    {
+        "action": "PrintText",
+        "end": 29000,
+        "persona": "Хикари",
+        "start": 25233,
+        "text": "Ну ладно тогда...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 29000,
+        "file": "Voice03/03-B0/03-B0-B00/03-B0-B00-0140",
+        "layer": 0,
+        "persona": "hik",
+        "start": 25233
+    },
+    {
+        "action": "PrintText",
+        "end": 30000,
+        "persona": "Сэкаи",
+        "start": 29050,
+        "text": "Извини...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 30000,
+        "file": "Voice03/03-B0/03-B0-B00/03-B0-B00-0150",
+        "layer": 0,
+        "persona": "sek",
+        "start": 29050
+    },
+    {
+        "action": "PrintText",
+        "end": 32000,
+        "persona": "Сэцуна",
+        "start": 30033,
+        "text": "Сэкаи, пойдем поговорим?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 32000,
+        "file": "Voice03/03-B0/03-B0-B00/03-B0-B00-0160",
+        "layer": 0,
+        "persona": "set",
+        "start": 30033
+    },
+    {
+        "action": "CreateBG",
+        "end": 35000,
+        "file": "Event03/03-B0/03-B0-B00/03-B0-B00-004",
+        "start": 33000
+    },
+    {
+        "action": "PrintText",
+        "end": 35000,
+        "persona": "Сэкаи",
+        "start": 33000,
+        "text": "Сэцуна... Прости, давай потом?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 35000,
+        "file": "Voice03/03-B0/03-B0-B00/03-B0-B00-0170",
+        "layer": 0,
+        "persona": "sek",
+        "start": 33000
+    },
+    {
+        "action": "CreateBG",
+        "end": 39000,
+        "file": "Event03/03-B0/03-B0-B00/03-B0-B00-005",
+        "start": 35333
+    },
+    {
+        "action": "PrintText",
+        "end": 38000,
+        "persona": "Сэцуна",
+        "start": 36000,
+        "text": "Угу...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 38000,
+        "file": "Voice03/03-B0/03-B0-B00/03-B0-B00-0180",
+        "layer": 0,
+        "persona": "set",
+        "start": 36000
+    },
+    {
+        "action": "CreateBG",
+        "end": 42000,
+        "file": "Event03/03-B0/03-B0-B00/03-B0-B00-006",
+        "start": 39200
+    },
+    {
+        "action": "PrintText",
+        "end": 41000,
+        "persona": "Сэцуна",
+        "start": 40000,
+        "text": "Сэкаи...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 41000,
+        "file": "Voice03/03-B0/03-B0-B00/03-B0-B00-0200",
+        "layer": 0,
+        "persona": "set",
+        "start": 40000
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 42000,
+        "start": 41250
+    }
+]

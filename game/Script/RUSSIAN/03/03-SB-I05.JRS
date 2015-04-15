@@ -1,0 +1,558 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 68000,
+        "file": "BGM/SD_BGM/sdbgm13",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 68000,
+        "file": "Se03/03-SB/03-SB-I05/SE03-SB-I05-001",
+        "layer": 3,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event03/03-SB/03-SB-I05/03-SB-I05-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Нанами",
+        "start": 200,
+        "text": "Д-да погоди ты минутку!.. Скоро уже!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice03/03-SB/03-SB-I05/03-SB-I05-0030",
+        "layer": 0,
+        "persona": "nan",
+        "start": 200
+    },
+    {
+        "action": "PlaySe",
+        "end": 5000,
+        "file": "Se03/03-SB/03-SB-I05/SE03-SB-I05-002",
+        "layer": 1,
+        "start": 3250
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Макото",
+        "start": 3250,
+        "text": "Скоро?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice03/03-SB/03-SB-I05/03-SB-I05-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 3250
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event03/03-SB/03-SB-I05/03-SB-I05-002",
+        "start": 3266
+    },
+    {
+        "action": "PlaySe",
+        "end": 7000,
+        "file": "Se03/03-SB/03-SB-I05/SE03-SB-I05-003",
+        "layer": 2,
+        "start": 5183
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Сэкаи",
+        "start": 6200,
+        "text": "Извини! Пока я этот салат нашла, кучу времени потеряла!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice03/03-SB/03-SB-I05/03-SB-I05-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 6200
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event03/03-SB/03-SB-I05/03-SB-I05-003",
+        "start": 7383
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Макото",
+        "start": 10266,
+        "text": "Сэкаи...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice03/03-SB/03-SB-I05/03-SB-I05-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 10266
+    },
+    {
+        "action": "CreateBG",
+        "end": 15000,
+        "file": "Event03/03-SB/03-SB-I05/03-SB-I05-004",
+        "start": 10283
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Сэкаи",
+        "start": 11283,
+        "text": "Макото?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice03/03-SB/03-SB-I05/03-SB-I05-0080",
+        "layer": 0,
+        "persona": "sek",
+        "start": 11283
+    },
+    {
+        "action": "PrintText",
+        "end": 15000,
+        "persona": "Нанами",
+        "start": 12250,
+        "text": "Наконец-то!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 15000,
+        "file": "Voice03/03-SB/03-SB-I05/03-SB-I05-0090",
+        "layer": 0,
+        "persona": "nan",
+        "start": 12250
+    },
+    {
+        "action": "PrintText",
+        "end": 18000,
+        "persona": "Сэкаи",
+        "start": 15050,
+        "text": "Прости, правда. Задержалась...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 18000,
+        "file": "Voice03/03-SB/03-SB-I05/03-SB-I05-0100",
+        "layer": 0,
+        "persona": "sek",
+        "start": 15050
+    },
+    {
+        "action": "CreateBG",
+        "end": 20000,
+        "file": "Event03/03-SB/03-SB-I05/03-SB-I05-005",
+        "start": 15066
+    },
+    {
+        "action": "PrintText",
+        "end": 20000,
+        "persona": "Нанами",
+        "start": 18100,
+        "text": "Д-да ничего страшного.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 20000,
+        "file": "Voice03/03-SB/03-SB-I05/03-SB-I05-0110",
+        "layer": 0,
+        "persona": "nan",
+        "start": 18100
+    },
+    {
+        "action": "CreateBG",
+        "end": 27000,
+        "file": "Event03/03-SB/03-SB-I05/03-SB-I05-006",
+        "start": 20383
+    },
+    {
+        "action": "PrintText",
+        "end": 24000,
+        "persona": "Макото",
+        "start": 20383,
+        "text": "Что ж, у меня всё равно перерыв, так что я пойду.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 24000,
+        "file": "Voice03/03-SB/03-SB-I05/03-SB-I05-0120",
+        "layer": 1,
+        "persona": "mak",
+        "start": 20383
+    },
+    {
+        "action": "PrintText",
+        "end": 25000,
+        "persona": "Нанами",
+        "start": 24200,
+        "text": "Погоди!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 25000,
+        "file": "Voice03/03-SB/03-SB-I05/03-SB-I05-0130",
+        "layer": 0,
+        "persona": "nan",
+        "start": 24200
+    },
+    {
+        "action": "PrintText",
+        "end": 27000,
+        "persona": "Макото",
+        "start": 25183,
+        "text": "Что ещё?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 27000,
+        "file": "Voice03/03-SB/03-SB-I05/03-SB-I05-0140",
+        "layer": 1,
+        "persona": "mak",
+        "start": 25183
+    },
+    {
+        "action": "CreateBG",
+        "end": 38000,
+        "file": "Event03/03-SB/03-SB-I05/03-SB-I05-007",
+        "start": 27383
+    },
+    {
+        "action": "PrintText",
+        "end": 28000,
+        "persona": "Нанами",
+        "start": 27383,
+        "text": "Сэкаи.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 28000,
+        "file": "Voice03/03-SB/03-SB-I05/03-SB-I05-0150",
+        "layer": 0,
+        "persona": "nan",
+        "start": 27383
+    },
+    {
+        "action": "PrintText",
+        "end": 29000,
+        "persona": "Сэкаи",
+        "start": 28350,
+        "text": "Да?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 29000,
+        "file": "Voice03/03-SB/03-SB-I05/03-SB-I05-0160",
+        "layer": 0,
+        "persona": "sek",
+        "start": 28350
+    },
+    {
+        "action": "PrintText",
+        "end": 33000,
+        "persona": "Нанами",
+        "start": 29300,
+        "text": "У тебя ведь тоже сейчас дел нет?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 33000,
+        "file": "Voice03/03-SB/03-SB-I05/03-SB-I05-0170",
+        "layer": 0,
+        "persona": "nan",
+        "start": 29300
+    },
+    {
+        "action": "PrintText",
+        "end": 34000,
+        "persona": "Сэкаи",
+        "start": 33016,
+        "text": "Да.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 34000,
+        "file": "Voice03/03-SB/03-SB-I05/03-SB-I05-0180",
+        "layer": 0,
+        "persona": "sek",
+        "start": 33016
+    },
+    {
+        "action": "PrintText",
+        "end": 38000,
+        "persona": "Нанами",
+        "start": 34100,
+        "text": "Ну и вот, сходили бы вместе, погуляли.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 38000,
+        "file": "Voice03/03-SB/03-SB-I05/03-SB-I05-0190",
+        "layer": 0,
+        "persona": "nan",
+        "start": 34100
+    },
+    {
+        "action": "PrintText",
+        "end": 38000,
+        "persona": "Макото",
+        "start": 38033,
+        "text": "А?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 38000,
+        "file": "Voice03/03-SB/03-SB-I05/03-SB-I05-0200",
+        "layer": 1,
+        "persona": "mak",
+        "start": 38033
+    },
+    {
+        "action": "CreateBG",
+        "end": 50000,
+        "file": "Event03/03-SB/03-SB-I05/03-SB-I05-008",
+        "start": 38050
+    },
+    {
+        "action": "PrintText",
+        "end": 40000,
+        "persona": "Сэкаи",
+        "start": 38350,
+        "text": "Ага.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 40000,
+        "file": "Voice03/03-SB/03-SB-I05/03-SB-I05-0210",
+        "layer": 0,
+        "persona": "sek",
+        "start": 38350
+    },
+    {
+        "action": "PrintText",
+        "end": 42000,
+        "persona": "Нанами",
+        "start": 40333,
+        "text": "Ты же не против?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 42000,
+        "file": "Voice03/03-SB/03-SB-I05/03-SB-I05-0220",
+        "layer": 0,
+        "persona": "nan",
+        "start": 40333
+    },
+    {
+        "action": "PrintText",
+        "end": 48000,
+        "persona": "Макото",
+        "start": 42033,
+        "text": "Ну... В принципе, нет. Ты как?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 48000,
+        "file": "Voice03/03-SB/03-SB-I05/03-SB-I05-0230",
+        "layer": 1,
+        "persona": "mak",
+        "start": 42033
+    },
+    {
+        "action": "PrintText",
+        "end": 50000,
+        "persona": "Сэкаи",
+        "start": 48166,
+        "text": "И я тоже.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 50000,
+        "file": "Voice03/03-SB/03-SB-I05/03-SB-I05-0240",
+        "layer": 0,
+        "persona": "sek",
+        "start": 48166
+    },
+    {
+        "action": "PrintText",
+        "end": 52000,
+        "persona": "Нанами",
+        "start": 50066,
+        "text": "Ну идите тогда!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 52000,
+        "file": "Voice03/03-SB/03-SB-I05/03-SB-I05-0250",
+        "layer": 0,
+        "persona": "nan",
+        "start": 50066
+    },
+    {
+        "action": "CreateBG",
+        "end": 52000,
+        "file": "Event03/03-SB/03-SB-I05/03-SB-I05-009",
+        "start": 50083
+    },
+    {
+        "action": "CreateBG",
+        "end": 53000,
+        "file": "Event03/03-SB/03-SB-I05/03-SB-I05-010",
+        "start": 52283
+    },
+    {
+        "action": "PrintText",
+        "end": 53000,
+        "persona": "Макото",
+        "start": 52350,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 53000,
+        "file": "Voice03/03-SB/03-SB-I05/03-SB-I05-0260",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 52350
+    },
+    {
+        "action": "PlaySe",
+        "end": 56000,
+        "file": "Se03/03-SB/03-SB-I05/SE03-SB-I05-003",
+        "layer": 2,
+        "start": 53316
+    },
+    {
+        "action": "CreateBG",
+        "end": 56000,
+        "file": "Event03/03-SB/03-SB-I05/03-SB-I05-008",
+        "start": 53316
+    },
+    {
+        "action": "CreateBG",
+        "end": 68000,
+        "file": "Event03/03-SB/03-SB-I05/03-SB-I05-011",
+        "start": 56016
+    },
+    {
+        "action": "PrintText",
+        "end": 57000,
+        "persona": "Нанами",
+        "start": 56050,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 57000,
+        "file": "Voice03/03-SB/03-SB-I05/03-SB-I05-0280",
+        "layer": 0,
+        "persona": "nan",
+        "start": 56050
+    },
+    {
+        "action": "PrintText",
+        "end": 58000,
+        "persona": "Сэцуна",
+        "start": 57183,
+        "text": "Молодец.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 58000,
+        "file": "Voice03/03-SB/03-SB-I05/03-SB-I05-0290",
+        "layer": 0,
+        "persona": "set",
+        "start": 57183
+    },
+    {
+        "action": "PrintText",
+        "end": 60000,
+        "persona": "Нанами",
+        "start": 58316,
+        "text": "Пойдёт?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 60000,
+        "file": "Voice03/03-SB/03-SB-I05/03-SB-I05-0300",
+        "layer": 0,
+        "persona": "nan",
+        "start": 58316
+    },
+    {
+        "action": "PrintText",
+        "end": 61000,
+        "persona": "Сэцуна",
+        "start": 60166,
+        "text": "Ещё как.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 61000,
+        "file": "Voice03/03-SB/03-SB-I05/03-SB-I05-0310",
+        "layer": 0,
+        "persona": "set",
+        "start": 60166
+    },
+    {
+        "action": "PrintText",
+        "end": 63000,
+        "persona": "Нанами",
+        "start": 61200,
+        "text": "Ну и слава богу.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 63000,
+        "file": "Voice03/03-SB/03-SB-I05/03-SB-I05-0320",
+        "layer": 0,
+        "persona": "nan",
+        "start": 61200
+    },
+    {
+        "action": "PrintText",
+        "end": 65000,
+        "persona": "Сэцуна",
+        "start": 63116,
+        "text": "Спасибо, Нанами.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 65000,
+        "file": "Voice03/03-SB/03-SB-I05/03-SB-I05-0330",
+        "layer": 0,
+        "persona": "set",
+        "start": 63116
+    },
+    {
+        "action": "PrintText",
+        "end": 67000,
+        "persona": "Нанами",
+        "start": 65316,
+        "text": "Не за что.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 67000,
+        "file": "Voice03/03-SB/03-SB-I05/03-SB-I05-0340",
+        "layer": 0,
+        "persona": "nan",
+        "start": 65316
+    }
+]

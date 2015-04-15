@@ -1,0 +1,174 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 15000,
+        "file": "BGM/SD_BGM/sdbgm01",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 15000,
+        "file": "Se01/01-00/01-00-Q03/SE01-00-Q03-002",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 5000,
+        "file": "Movie01/01-00/01-00-Q03/01-00-Q03-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Котоноха",
+        "start": 0,
+        "text": "Доброе утро!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice01/01-00/01-00-Q03/01-00-Q03-0030",
+        "layer": 0,
+        "persona": "kot",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 1200,
+        "text": "Доброе.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice01/01-00/01-00-Q03/01-00-Q03-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 1200
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Котоноха",
+        "start": 2250,
+        "text": "Спасибо тебе!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice01/01-00/01-00-Q03/01-00-Q03-0050",
+        "layer": 0,
+        "persona": "kot",
+        "start": 2250
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Макото",
+        "start": 4216,
+        "text": "А?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice01/01-00/01-00-Q03/01-00-Q03-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 4216
+    },
+    {
+        "action": "PlayMovie",
+        "end": 11000,
+        "file": "Movie01/01-00/01-00-Q03/01-00-Q03-002",
+        "start": 5050
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Котоноха",
+        "start": 5050,
+        "text": "Ты мне позвонил...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice01/01-00/01-00-Q03/01-00-Q03-0070",
+        "layer": 0,
+        "persona": "kot",
+        "start": 5050
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Макото",
+        "start": 6350,
+        "text": "Ну да... Можно потом тебе опять позвонить?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice01/01-00/01-00-Q03/01-00-Q03-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 6350
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Котоноха",
+        "start": 10033,
+        "text": "Конечно!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice01/01-00/01-00-Q03/01-00-Q03-0090",
+        "layer": 0,
+        "persona": "kot",
+        "start": 10033
+    },
+    {
+        "action": "PlayMovie",
+        "end": 15000,
+        "file": "Movie01/01-00/01-00-Q03/01-00-Q03-003",
+        "start": 11133
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Макото",
+        "start": 11133,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice01/01-00/01-00-Q03/01-00-Q03-0100",
+        "layer": 1,
+        "persona": "mak",
+        "start": 11133
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Котоноха",
+        "start": 12200,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice01/01-00/01-00-Q03/01-00-Q03-0110",
+        "layer": 0,
+        "persona": "kot",
+        "start": 12200
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 15000,
+        "start": 14333
+    }
+]

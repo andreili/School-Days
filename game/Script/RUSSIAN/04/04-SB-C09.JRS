@@ -1,0 +1,75 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 17000,
+        "file": "SysSe/SE_all/station_train/train_start",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event04/04-SB/04-SB-C09/04-SB-C09-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 116,
+        "text": "Прости.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice04/04-SB/04-SB-C09/04-SB-C09-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 116
+    },
+    {
+        "action": "CreateBG",
+        "end": 4000,
+        "file": "Event04/04-SB/04-SB-C01/04-SB-C01-006",
+        "start": 1233
+    },
+    {
+        "action": "PlayMovie",
+        "end": 10000,
+        "file": "Movie00/00-00/00-00-L00/00-00-L00-024",
+        "start": 4000
+    },
+    {
+        "action": "CreateBG",
+        "end": 12000,
+        "file": "Event04/04-SB/04-SB-C09/04-SB-C09-004",
+        "start": 10283
+    },
+    {
+        "action": "CreateBG",
+        "end": 13000,
+        "file": "Event04/04-SB/04-SB-C09/04-SB-C09-005",
+        "start": 12100
+    },
+    {
+        "action": "CreateBG",
+        "end": 17000,
+        "file": "Event04/04-SB/04-SB-C09/04-SB-C09-006",
+        "start": 13200
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Макото",
+        "start": 13350,
+        "text": "Пока, Котоноха.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice04/04-SB/04-SB-C09/04-SB-C09-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 13350
+    }
+]

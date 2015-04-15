@@ -1,0 +1,51 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 2000,
+        "file": "BGM/SD_BGM/sdbgm07",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 2000,
+        "file": "Se03/03-KA/03-KA-H06/SE03-KA-H06-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event03/03-KA/03-KA-H06/03-KA-H06-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Нет, не встречаюсь.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-KA/03-KA-H06/03-KA-H06-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Сэцуна",
+        "start": 1100,
+        "text": "Хм...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice03/03-KA/03-KA-H06/03-KA-H06-0040",
+        "layer": 0,
+        "persona": "set",
+        "start": 1100
+    }
+]

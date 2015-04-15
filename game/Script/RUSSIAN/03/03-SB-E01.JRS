@@ -1,0 +1,128 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 21000,
+        "file": "BGM/SD_BGM/sdbgm19",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event03/03-SB/03-SB-E01/03-SB-E01-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event03/03-SB/03-SB-E01/03-SB-E01-002",
+        "start": 2000
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Сэкаи",
+        "start": 2000,
+        "text": "Хах...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice03/03-SB/03-SB-E01/03-SB-E01-0030",
+        "layer": 0,
+        "persona": "sek",
+        "start": 2000
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Сэкаи",
+        "start": 3266,
+        "text": "Интересно, кто ему позвонил? Наверное Кацура...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice03/03-SB/03-SB-E01/03-SB-E01-0050",
+        "layer": 0,
+        "persona": "sek",
+        "start": 3266
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event03/03-SB/03-SB-E01/03-SB-E01-003",
+        "start": 3283
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Сэкаи",
+        "start": 6216,
+        "text": "Или может, Саванага...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice03/03-SB/03-SB-E01/03-SB-E01-0070",
+        "layer": 0,
+        "persona": "sek",
+        "start": 6216
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Сэкаи",
+        "start": 8383,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice03/03-SB/03-SB-E01/03-SB-E01-0080",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 8383
+    },
+    {
+        "action": "PrintText",
+        "end": 18000,
+        "persona": "Сэкаи",
+        "start": 9316,
+        "text": "Почему же мне тогда мне так неспокойно?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 18000,
+        "file": "Voice03/03-SB/03-SB-E01/03-SB-E01-0090",
+        "layer": 0,
+        "persona": "sek",
+        "start": 9316
+    },
+    {
+        "action": "PlayMovie",
+        "end": 16000,
+        "file": "Movie01/01-00/01-00-A00/01-00-A00-002",
+        "start": 11100
+    },
+    {
+        "action": "CreateBG",
+        "end": 21000,
+        "file": "Event03/03-SB/03-SB-E00/03-SB-E00-003",
+        "start": 16350
+    },
+    {
+        "action": "PrintText",
+        "end": 19000,
+        "persona": "Сэкаи",
+        "start": 18200,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 19000,
+        "file": "Voice03/03-SB/03-SB-E01/03-SB-E01-0100",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 18200
+    }
+]

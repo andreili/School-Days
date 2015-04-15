@@ -1,0 +1,53 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 9000,
+        "file": "BGM/SD_BGM/sdbgm07",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event01/01-00/01-00-B00/01-00-B00-003",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event02/02-2S/02-2S-J08/02-2S-J08-001B",
+        "start": 1083
+    },
+    {
+        "action": "CreateBG",
+        "end": 6000,
+        "file": "Event02/02-2S/02-2S-J08/02-2S-J08-001C",
+        "start": 3083
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event02/02-2S/02-2S-J08/02-2S-J08-002",
+        "start": 6033
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Сэкаи",
+        "start": 6183,
+        "text": "Макото...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice02/02-2S/02-2S-J08/02-2S-J08-0050",
+        "layer": 0,
+        "persona": "sek",
+        "start": 6183
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 9000,
+        "start": 8366
+    }
+]

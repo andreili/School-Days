@@ -1,0 +1,135 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 10000,
+        "file": "SysSe/SE_all/gaya/kyousitu_rouka",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event05/05-KA/05-KA-B07/05-KA-B07-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 0,
+        "persona": "Нанами",
+        "start": 0,
+        "text": "Ито.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 0,
+        "file": "Voice05/05-KA/05-KA-B07/05-KA-B07-0030",
+        "layer": 0,
+        "persona": "nan",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 366,
+        "text": "А?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice05/05-KA/05-KA-B07/05-KA-B07-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 366
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Нанами",
+        "start": 1283,
+        "text": "Разговор есть.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice05/05-KA/05-KA-B07/05-KA-B07-0050",
+        "layer": 0,
+        "persona": "nan",
+        "start": 1283
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Макото",
+        "start": 2333,
+        "text": "Что ещё?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice05/05-KA/05-KA-B07/05-KA-B07-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2333
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event05/05-KA/05-KA-B07/05-KA-B07-002",
+        "start": 2350
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event05/05-KA/05-KA-B07/05-KA-B07-003",
+        "start": 3383
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Нанами",
+        "start": 3383,
+        "text": "О Сэкаи. Догоняешь?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice05/05-KA/05-KA-B07/05-KA-B07-0070",
+        "layer": 0,
+        "persona": "nan",
+        "start": 3383
+    },
+    {
+        "action": "CreateBG",
+        "end": 8000,
+        "file": "Event05/05-KA/05-KA-B07/05-KA-B07-004",
+        "start": 7050
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 7050,
+        "text": "Да...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice05/05-KA/05-KA-B07/05-KA-B07-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 7050
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event05/05-KA/05-KA-B07/05-KA-B07-005",
+        "start": 8183
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 10000,
+        "start": 9116
+    }
+]

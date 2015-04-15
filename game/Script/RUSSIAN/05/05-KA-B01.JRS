@@ -1,0 +1,102 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 14000,
+        "file": "SysSe/SE_all/gaya/kyousitu_rouka",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event05/05-KA/05-KA-B01/05-KA-B01-001A",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event05/05-KA/05-KA-B01/05-KA-B01-001B",
+        "start": 1383
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 1383,
+        "text": "Привет.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice05/05-KA/05-KA-B01/05-KA-B01-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 1383
+    },
+    {
+        "action": "CreateBG",
+        "end": 14000,
+        "file": "Event05/05-KA/05-KA-B01/05-KA-B01-001C",
+        "start": 3000
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Таисукэ",
+        "start": 3033,
+        "text": "Йо. Сегодня опаздываем?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice05/05-KA/05-KA-B01/05-KA-B01-0040",
+        "layer": 1,
+        "persona": "tai",
+        "start": 3033
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Макото",
+        "start": 5150,
+        "text": "Ну, 1 уроком всё равно ерунда была.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice05/05-KA/05-KA-B01/05-KA-B01-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 5150
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Таисукэ",
+        "start": 9083,
+        "text": "Ну, математика у Нооги, ага... Сонное царство.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice05/05-KA/05-KA-B01/05-KA-B01-0060",
+        "layer": 1,
+        "persona": "tai",
+        "start": 9083
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Макото",
+        "start": 13100,
+        "text": "Так и думал.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice05/05-KA/05-KA-B01/05-KA-B01-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 13100
+    }
+]

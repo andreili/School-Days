@@ -1,0 +1,105 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 21000,
+        "file": "BGM/SD_BGM/sdbgm19",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event01/01-00/01-00-T00/01-00-T00-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 4000,
+        "file": "Event01/01-00/01-00-A00/01-00-A00-003",
+        "start": 2000
+    },
+    {
+        "action": "PlaySe",
+        "end": 6000,
+        "file": "Se01/01-00/01-00-T00/SE01-00-T00-001",
+        "layer": 1,
+        "start": 3383
+    },
+    {
+        "action": "PlayMovie",
+        "end": 7000,
+        "file": "Movie01/01-00/01-00-T00/01-00-T00-003",
+        "start": 4000
+    },
+    {
+        "action": "PlayMovie",
+        "end": 9000,
+        "file": "Movie01/01-00/01-00-A00/01-00-A00-002",
+        "start": 7233
+    },
+    {
+        "action": "PlaySe",
+        "end": 10000,
+        "file": "Se01/01-00/01-00-T00/SE01-00-T00-001",
+        "layer": 1,
+        "start": 7316
+    },
+    {
+        "action": "PlayMovie",
+        "end": 11000,
+        "file": "Movie01/01-00/01-00-T00/01-00-T00-005",
+        "start": 9233
+    },
+    {
+        "action": "PlaySe",
+        "end": 13000,
+        "file": "Se01/01-00/01-00-T00/SE01-00-T00-001",
+        "layer": 1,
+        "start": 11200
+    },
+    {
+        "action": "PlayMovie",
+        "end": 15000,
+        "file": "Movie01/01-00/01-00-T00/01-00-T00-006",
+        "start": 11333
+    },
+    {
+        "action": "CreateBG",
+        "end": 17000,
+        "file": "Event01/01-00/01-00-T00/01-00-T00-007",
+        "start": 15033
+    },
+    {
+        "action": "PlaySe",
+        "end": 15000,
+        "file": "Se01/01-00/01-00-T00/SE01-00-T00-002",
+        "layer": 1,
+        "start": 15300
+    },
+    {
+        "action": "CreateBG",
+        "end": 23000,
+        "file": "patch101/01-00-T00/01-00-T00-008",
+        "start": 17050
+    },
+    {
+        "action": "PrintText",
+        "end": 20000,
+        "persona": "Сэкаи",
+        "start": 20016,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 20000,
+        "file": "Voice01/01-00/01-00-T00/01-00-T00-0110",
+        "layer": 0,
+        "persona": "sek",
+        "start": 20016
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 23000,
+        "start": 22366
+    }
+]

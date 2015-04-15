@@ -1,0 +1,169 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 33000,
+        "file": "SysSe/SE_all/gaya/kyousitu_rouka",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event05/05-KF/05-KF-G06/05-KF-G06-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice05/05-KF/05-KF-G06/05-KF-G06-0030",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Котоноха",
+        "start": 3183,
+        "text": "Скажи, что пошутил!..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice05/05-KF/05-KF-G06/05-KF-G06-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 3183
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Макото",
+        "start": 7100,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice05/05-KF/05-KF-G06/05-KF-G06-0050",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 7100
+    },
+    {
+        "action": "PrintText",
+        "end": 15000,
+        "persona": "Котоноха",
+        "start": 10033,
+        "text": "Иначе... Я... Расплачусь!..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 15000,
+        "file": "Voice05/05-KF/05-KF-G06/05-KF-G06-0060",
+        "layer": 0,
+        "persona": "kot",
+        "start": 10033
+    },
+    {
+        "action": "CreateBG",
+        "end": 24000,
+        "file": "Event05/05-KF/05-KF-G06/05-KF-G06-002",
+        "start": 10100
+    },
+    {
+        "action": "PrintText",
+        "end": 18000,
+        "persona": "Макото",
+        "start": 15366,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 18000,
+        "file": "Voice05/05-KF/05-KF-G06/05-KF-G06-0070",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 15366
+    },
+    {
+        "action": "PrintText",
+        "end": 22000,
+        "persona": "Котоноха",
+        "start": 18233,
+        "text": "Правда... Расплачусь...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 22000,
+        "file": "Voice05/05-KF/05-KF-G06/05-KF-G06-0080",
+        "layer": 0,
+        "persona": "kot",
+        "start": 18233
+    },
+    {
+        "action": "PrintText",
+        "end": 24000,
+        "persona": "Макото",
+        "start": 22116,
+        "text": "Котоноха...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 24000,
+        "file": "Voice05/05-KF/05-KF-G06/05-KF-G06-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 22116
+    },
+    {
+        "action": "CreateBG",
+        "end": 33000,
+        "file": "Event05/05-KF/05-KF-G06/05-KF-G06-003",
+        "start": 24183
+    },
+    {
+        "action": "PrintText",
+        "end": 25000,
+        "persona": "Котоноха",
+        "start": 24183,
+        "text": "Да?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 25000,
+        "file": "Voice05/05-KF/05-KF-G06/05-KF-G06-0100",
+        "layer": 0,
+        "persona": "kot",
+        "start": 24183
+    },
+    {
+        "action": "PrintText",
+        "end": 27000,
+        "persona": "Макото",
+        "start": 25200,
+        "text": "Знаешь...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 27000,
+        "file": "Voice05/05-KF/05-KF-G06/05-KF-G06-0110",
+        "layer": 1,
+        "persona": "mak",
+        "start": 25200
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Я пошутил.",
+        "answer2": "NULL",
+        "end": 32000,
+        "start": 27000
+    }
+]

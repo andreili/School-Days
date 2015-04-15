@@ -1,0 +1,142 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 18000,
+        "file": "BGM/SD_BGM/sdbgm03",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 18000,
+        "file": "Se01/01-00/01-00-E00/SE01-00-E00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event02/02-2S/02-2S-I00/02-2S-I00-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Котоноха",
+        "start": 0,
+        "text": "Саиёндзи, если хочешь, тоже себе налей стаканчик.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice02/02-2S/02-2S-I00/02-2S-I00-0030",
+        "layer": 0,
+        "persona": "kot",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Сэкаи",
+        "start": 2300,
+        "text": "Нет, спасибо, у меня есть.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice02/02-2S/02-2S-I00/02-2S-I00-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 2300
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Котоноха",
+        "start": 6116,
+        "text": "Хорошо.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice02/02-2S/02-2S-I00/02-2S-I00-0050",
+        "layer": 0,
+        "persona": "kot",
+        "start": 6116
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event02/02-2S/02-2S-I00/02-2S-I00-002",
+        "start": 7200
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Макото",
+        "start": 7200,
+        "text": "Получается, я лимонад один пью. Котоноха, ты тоже попробуй.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice02/02-2S/02-2S-I00/02-2S-I00-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 7200
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event01/01-00/01-00-E00/01-00-E00-006",
+        "start": 9383
+    },
+    {
+        "action": "CreateBG",
+        "end": 12000,
+        "file": "Event02/02-2S/02-2S-I00/02-2S-I00-004",
+        "start": 11200
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Котоноха",
+        "start": 11200,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice02/02-2S/02-2S-I00/02-2S-I00-0070",
+        "layer": 0,
+        "persona": "kot",
+        "start": 11200
+    },
+    {
+        "action": "CreateBG",
+        "end": 18000,
+        "file": "Event02/02-2S/02-2S-I00/02-2S-I00-004B",
+        "start": 12100
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Макото",
+        "start": 12100,
+        "text": "Давай!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice02/02-2S/02-2S-I00/02-2S-I00-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 12100
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Возьми стаканчик!",
+        "answer2": "NULL",
+        "end": 17000,
+        "start": 12100
+    }
+]

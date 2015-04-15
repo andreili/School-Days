@@ -1,0 +1,74 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 20000,
+        "file": "BGM/SD_BGM/sdbgm08",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event02/02-2S/02-2S-A02/02-2S-A02-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 8000,
+        "file": "Event01/01-00/01-00-O05/01-00-O05-001",
+        "start": 3000
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Котоноха",
+        "start": 3250,
+        "text": "Интересно, Макото ещё не спит?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice02/02-2S/02-2S-A02/02-2S-A02-0050",
+        "layer": 0,
+        "persona": "kot",
+        "start": 3250
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event02/02-2S/02-2S-A02/02-2S-A02-003",
+        "start": 8216
+    },
+    {
+        "action": "CreateBG",
+        "end": 15000,
+        "file": "Event02/02-2S/02-2S-A02/02-2S-A02-004",
+        "start": 11366
+    },
+    {
+        "action": "PrintText",
+        "end": 18000,
+        "persona": "Котоноха",
+        "start": 14183,
+        "text": "Нет, похоже, он уже лёг... Ладно, завтра его в кино приглашу.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 18000,
+        "file": "Voice02/02-2S/02-2S-A02/02-2S-A02-0070",
+        "layer": 0,
+        "persona": "kot",
+        "start": 14183
+    },
+    {
+        "action": "CreateBG",
+        "end": 20000,
+        "file": "Event01/01-00/01-00-O05/01-00-O05-001",
+        "start": 15383
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 20000,
+        "start": 19133
+    }
+]

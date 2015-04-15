@@ -1,0 +1,89 @@
+[
+    {
+        "action": "CreateBG",
+        "end": 14000,
+        "file": "Event04/04-SA/04-SA-O09/04-SA-O09-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Сэкаи",
+        "start": 0,
+        "text": "Маму я успокою.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice04/04-SA/04-SA-O09/04-SA-O09-0030",
+        "layer": 0,
+        "persona": "sek",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Макото",
+        "start": 2083,
+        "text": "Да не обязательно, в общем-то...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice04/04-SA/04-SA-O09/04-SA-O09-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2083
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Сэкаи",
+        "start": 4316,
+        "text": "Нет уж. А то начнёт глупости городить.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice04/04-SA/04-SA-O09/04-SA-O09-0050",
+        "layer": 0,
+        "persona": "sek",
+        "start": 4316
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Макото",
+        "start": 7250,
+        "text": "Ну... Зайду тогда на минутку.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice04/04-SA/04-SA-O09/04-SA-O09-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 7250
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Сэкаи",
+        "start": 12000,
+        "text": "Угу!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice04/04-SA/04-SA-O09/04-SA-O09-0070",
+        "layer": 0,
+        "persona": "sek",
+        "start": 12000
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 14000,
+        "start": 13083
+    }
+]

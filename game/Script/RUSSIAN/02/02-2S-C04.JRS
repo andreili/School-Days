@@ -1,0 +1,109 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 12000,
+        "file": "BGM/SD_BGM/sdbgm06",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 12000,
+        "file": "Se01/01-00/01-00-B00/SE01-00-B00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event02/02-2S/02-2S-C04/02-2S-C04-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Я не знаю, что ей сказать...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice02/02-2S/02-2S-C04/02-2S-C04-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Сэкаи",
+        "start": 1183,
+        "text": "Да, но...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice02/02-2S/02-2S-C04/02-2S-C04-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 1183
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Макото",
+        "start": 2316,
+        "text": "Ну, тогда, знаешь...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice02/02-2S/02-2S-C04/02-2S-C04-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2316
+    },
+    {
+        "action": "CreateBG",
+        "end": 12000,
+        "file": "Event01/01-00/01-00-D00/01-00-D00-008",
+        "start": 5266
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Сэкаи",
+        "start": 5266,
+        "text": "М?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice02/02-2S/02-2S-C04/02-2S-C04-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 5266
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 6150,
+        "text": "Давай...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice02/02-2S/02-2S-C04/02-2S-C04-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 6150
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Давай вместе расскажем?^",
+        "answer2": "Сэкаи, сама с этой проблемой разбирайся!^",
+        "end": 11000,
+        "start": 6300
+    }
+]

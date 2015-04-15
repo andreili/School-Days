@@ -1,0 +1,94 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 8000,
+        "file": "Se04/04-SA/04-SA-N08/SE04-SA-N08-001",
+        "layer": 2,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event04/04-SA/04-SA-N08/04-SA-N08-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "На самом деле ты сама этого хочешь.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice04/04-SA/04-SA-N08/04-SA-N08-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Котоноха",
+        "start": 1266,
+        "text": "Э?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice04/04-SA/04-SA-N08/04-SA-N08-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 1266
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Макото",
+        "start": 2116,
+        "text": "Этого!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice04/04-SA/04-SA-N08/04-SA-N08-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2116
+    },
+    {
+        "action": "PlayMovie",
+        "end": 6000,
+        "file": "Movie04/04-SA/04-SA-N08/04-SA-N08-002",
+        "start": 3316
+    },
+    {
+        "action": "CreateBG",
+        "end": 8000,
+        "file": "Event04/04-SA/04-SA-N08/04-SA-N08-003",
+        "start": 6000
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Котоноха",
+        "start": 6000,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice04/04-SA/04-SA-N08/04-SA-N08-0070",
+        "layer": 0,
+        "persona": "kot",
+        "start": 6000
+    },
+    {
+        "action": "PlaySe",
+        "end": 7000,
+        "file": "Se04/04-SA/04-SA-N08/SE04-SA-N08-002",
+        "layer": 1,
+        "start": 7066
+    }
+]

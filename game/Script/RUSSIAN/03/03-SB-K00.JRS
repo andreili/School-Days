@@ -1,0 +1,219 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 27000,
+        "file": "BGM/SD_BGM/sdbgm16",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 27000,
+        "file": "Se03/03-SB/03-SB-K00/SE03-SB-K00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event03/03-SB/03-SB-L00/03-SB-L00-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 4000,
+        "file": "Event03/03-SB/03-SB-K00/03-SB-K00-002",
+        "start": 1000
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 1000,
+        "text": "Итак, куда пойдем?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice03/03-SB/03-SB-K00/03-SB-K00-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 1000
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Сэкаи",
+        "start": 2150,
+        "text": "Ну... Уже довольно поздно, и не так много мест ещё открыто...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice03/03-SB/03-SB-K00/03-SB-K00-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 2150
+    },
+    {
+        "action": "CreateBG",
+        "end": 8000,
+        "file": "Event03/03-SB/03-SB-K00/03-SB-K00-002B",
+        "start": 4250
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Макото",
+        "start": 8266,
+        "text": "Да...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice03/03-SB/03-SB-K00/03-SB-K00-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 8266
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event03/03-SB/03-SB-K00/03-SB-K00-002C",
+        "start": 8283
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Сэкаи",
+        "start": 10050,
+        "text": "Хм...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice03/03-SB/03-SB-K00/03-SB-K00-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 10050
+    },
+    {
+        "action": "PrintText",
+        "end": 15000,
+        "persona": "Макото",
+        "start": 11300,
+        "text": "Ну, знаешь, куда-нибудь, где тихо и мы могли бы побыть вдвоём...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 15000,
+        "file": "Voice03/03-SB/03-SB-K00/03-SB-K00-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 11300
+    },
+    {
+        "action": "CreateBG",
+        "end": 15000,
+        "file": "Event03/03-SB/03-SB-K00/03-SB-K00-003",
+        "start": 11316
+    },
+    {
+        "action": "PrintText",
+        "end": 20000,
+        "persona": "Сэкаи",
+        "start": 15283,
+        "text": "Слушай, а я знаю, куда мы пойдем!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 20000,
+        "file": "Voice03/03-SB/03-SB-K00/03-SB-K00-0080",
+        "layer": 0,
+        "persona": "sek",
+        "start": 15283
+    },
+    {
+        "action": "CreateBG",
+        "end": 20000,
+        "file": "Event03/03-SB/03-SB-K00/03-SB-K00-004",
+        "start": 15300
+    },
+    {
+        "action": "PrintText",
+        "end": 22000,
+        "persona": "Макото",
+        "start": 20033,
+        "text": "Хм. И куда же?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 22000,
+        "file": "Voice03/03-SB/03-SB-K00/03-SB-K00-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 20033
+    },
+    {
+        "action": "CreateBG",
+        "end": 22000,
+        "file": "Event03/03-SB/03-SB-K00/03-SB-K00-005",
+        "start": 20050
+    },
+    {
+        "action": "PrintText",
+        "end": 22000,
+        "persona": "Сэкаи",
+        "start": 22116,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 22000,
+        "file": "Voice03/03-SB/03-SB-K00/03-SB-K00-0100",
+        "layer": 0,
+        "persona": "sek",
+        "start": 22116
+    },
+    {
+        "action": "CreateBG",
+        "end": 23000,
+        "file": "Event03/03-SB/03-SB-K00/03-SB-K00-006",
+        "start": 22133
+    },
+    {
+        "action": "PrintText",
+        "end": 23000,
+        "persona": "Макото",
+        "start": 22383,
+        "text": "Скажи?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 23000,
+        "file": "Voice03/03-SB/03-SB-K00/03-SB-K00-0110",
+        "layer": 1,
+        "persona": "mak",
+        "start": 22383
+    },
+    {
+        "action": "PrintText",
+        "end": 26000,
+        "persona": "Сэкаи",
+        "start": 23300,
+        "text": "Наше место...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 26000,
+        "file": "Voice03/03-SB/03-SB-K00/03-SB-K00-0120",
+        "layer": 0,
+        "persona": "sek",
+        "start": 23300
+    },
+    {
+        "action": "CreateBG",
+        "end": 27000,
+        "file": "Event03/03-SB/03-SB-K00/03-SB-K00-007",
+        "start": 23316
+    }
+]

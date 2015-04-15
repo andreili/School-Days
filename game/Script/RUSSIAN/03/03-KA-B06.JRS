@@ -1,0 +1,114 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 12000,
+        "file": "Se03/03-KA/03-KA-B06/SE03-KA-B06-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event03/03-KA/03-KA-B06/03-KA-B06-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Я забыл совсем.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-KA/03-KA-B06/03-KA-B06-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 6000,
+        "file": "Event03/03-KA/03-KA-B06/03-KA-B06-002",
+        "start": 1100
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Котоноха",
+        "start": 1116,
+        "text": "Мог бы и сказать, хотя бы когда ко мне в гости приходил.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice03/03-KA/03-KA-B06/03-KA-B06-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 1116
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event03/03-KA/03-KA-B06/03-KA-B06-003",
+        "start": 6350
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 6366,
+        "text": "Совершенно вылетело из головы.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice03/03-KA/03-KA-B06/03-KA-B06-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 6366
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Котоноха",
+        "start": 8083,
+        "text": "Да, на тебя похоже.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice03/03-KA/03-KA-B06/03-KA-B06-0060",
+        "layer": 0,
+        "persona": "kot",
+        "start": 8083
+    },
+    {
+        "action": "CreateBG",
+        "end": 12000,
+        "file": "Event03/03-KA/03-KA-B06/03-KA-B06-004",
+        "start": 10216
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Макото",
+        "start": 10316,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice03/03-KA/03-KA-B06/03-KA-B06-0070",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 10316
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 12000,
+        "start": 11333
+    }
+]

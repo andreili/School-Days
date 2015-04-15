@@ -1,0 +1,111 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 17000,
+        "file": "BGM/SD_BGM/sdbgm01",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 17000,
+        "file": "Event04/04-KB/04-KB-B10/04-KB-B10-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Сэкаи",
+        "start": 0,
+        "text": "Я хочу, чтобы ты взбодрился.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice04/04-KB/04-KB-B10/04-KB-B10-0030",
+        "layer": 0,
+        "persona": "sek",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Макото",
+        "start": 2250,
+        "text": "Взбодрился?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice04/04-KB/04-KB-B10/04-KB-B10-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2250
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Сэкаи",
+        "start": 4083,
+        "text": "Что мне для этого нужно сделать?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice04/04-KB/04-KB-B10/04-KB-B10-0050",
+        "layer": 0,
+        "persona": "sek",
+        "start": 4083
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 6250,
+        "text": "Не знаю.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice04/04-KB/04-KB-B10/04-KB-B10-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 6250
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Сэкаи",
+        "start": 7200,
+        "text": "Если я хоть чем-то могу помочь, говори, не стесняйся.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice04/04-KB/04-KB-B10/04-KB-B10-0070",
+        "layer": 0,
+        "persona": "sek",
+        "start": 7200
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Макото",
+        "start": 10316,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice04/04-KB/04-KB-B10/04-KB-B10-0080",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 10316
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Тогда позволь потрогать...",
+        "answer2": "NULL",
+        "end": 16000,
+        "start": 11233
+    }
+]

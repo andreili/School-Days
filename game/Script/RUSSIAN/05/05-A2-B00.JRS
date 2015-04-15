@@ -1,0 +1,389 @@
+[
+    {
+        "action": "PlayMovie",
+        "end": 6000,
+        "file": "Movie05/05-A2/05-A2-B00/05-A2-B00-001",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 6000,
+        "file": "Se00/00-00/00-00-L00/SE00-00-L00-003",
+        "layer": 2,
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 8000,
+        "file": "SysSe/SE_all/station_train/TRAIN_DOOR_OPEN",
+        "layer": 1,
+        "start": 6000
+    },
+    {
+        "action": "CreateBG",
+        "end": 12000,
+        "file": "Event05/05-A2/05-A2-B00/05-A2-B00-002",
+        "start": 8000
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Макото",
+        "start": 8133,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice05/05-A2/05-A2-B00/05-A2-B00-0040",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 8133
+    },
+    {
+        "action": "CreateBG",
+        "end": 16000,
+        "file": "Event05/05-A2/05-A2-B00/05-A2-B00-007",
+        "start": 12150
+    },
+    {
+        "action": "PlaySe",
+        "end": 16000,
+        "file": "SysSe/SE_all/station_train/TRAIN_DOOR_CLOSE",
+        "layer": 1,
+        "start": 12150
+    },
+    {
+        "action": "PlayMovie",
+        "end": 21000,
+        "file": "Movie05/05-A2/05-A2-B00/05-A2-B00-003",
+        "start": 16216
+    },
+    {
+        "action": "PlaySe",
+        "end": 40000,
+        "file": "SysSe/SE_all/station_train/TRAIN_START",
+        "layer": 1,
+        "start": 12216
+    },
+    {
+        "action": "PrintText",
+        "end": 18000,
+        "persona": "Сэкаи",
+        "start": 17350,
+        "text": "Макото.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 18000,
+        "file": "Voice05/05-A2/05-A2-B00/05-A2-B00-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 17350
+    },
+    {
+        "action": "CreateBG",
+        "end": 22000,
+        "file": "Event05/05-A2/05-A2-B00/05-A2-B00-005",
+        "start": 18266
+    },
+    {
+        "action": "PrintText",
+        "end": 25000,
+        "persona": "Макото",
+        "start": 20133,
+        "text": "Сэкаи... Почему ты здесь?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 25000,
+        "file": "Voice05/05-A2/05-A2-B00/05-A2-B00-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 20133
+    },
+    {
+        "action": "CreateBG",
+        "end": 24000,
+        "file": "Event05/05-A2/05-A2-B00/05-A2-B00-006",
+        "start": 22166
+    },
+    {
+        "action": "CreateBG",
+        "end": 27000,
+        "file": "Event05/05-A2/05-A2-B00/05-A2-B00-007",
+        "start": 24266
+    },
+    {
+        "action": "PrintText",
+        "end": 27000,
+        "persona": "Сэкаи",
+        "start": 24266,
+        "text": "Сэцуна сказала...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 27000,
+        "file": "Voice05/05-A2/05-A2-B00/05-A2-B00-0100",
+        "layer": 0,
+        "persona": "sek",
+        "start": 24266
+    },
+    {
+        "action": "CreateBG",
+        "end": 31000,
+        "file": "Event05/05-A2/05-A2-B00/05-A2-B00-008",
+        "start": 27300
+    },
+    {
+        "action": "PrintText",
+        "end": 30000,
+        "persona": "Макото",
+        "start": 27300,
+        "text": "Киора?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 30000,
+        "file": "Voice05/05-A2/05-A2-B00/05-A2-B00-0120",
+        "layer": 1,
+        "persona": "mak",
+        "start": 27300
+    },
+    {
+        "action": "PlayBgm",
+        "end": 92000,
+        "file": "BGM/SD_BGM/sdbgm33",
+        "start": 30000
+    },
+    {
+        "action": "PrintText",
+        "end": 31000,
+        "persona": "Сэкаи",
+        "start": 30200,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 31000,
+        "file": "Voice05/05-A2/05-A2-B00/05-A2-B00-0130",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 30200
+    },
+    {
+        "action": "CreateBG",
+        "end": 37000,
+        "file": "Event05/05-A2/05-A2-B00/05-A2-B00-009",
+        "start": 31083
+    },
+    {
+        "action": "PrintText",
+        "end": 37000,
+        "persona": "Макото",
+        "start": 31100,
+        "text": "Сэкаи... Ты меня... Прости...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 37000,
+        "file": "Voice05/05-A2/05-A2-B00/05-A2-B00-0140",
+        "layer": 1,
+        "persona": "mak",
+        "start": 31100
+    },
+    {
+        "action": "CreateBG",
+        "end": 39000,
+        "file": "Event05/05-A2/05-A2-B00/05-A2-B00-010",
+        "start": 37083
+    },
+    {
+        "action": "PrintText",
+        "end": 39000,
+        "persona": "Сэкаи",
+        "start": 37133,
+        "text": "Простить?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 39000,
+        "file": "Voice05/05-A2/05-A2-B00/05-A2-B00-0150",
+        "layer": 0,
+        "persona": "sek",
+        "start": 37133
+    },
+    {
+        "action": "CreateBG",
+        "end": 50000,
+        "file": "Event05/05-A2/05-A2-B00/05-A2-B00-011",
+        "start": 39066
+    },
+    {
+        "action": "PrintText",
+        "end": 50000,
+        "persona": "Макото",
+        "start": 39066,
+        "text": "Я... Правда... Прости... Вечно... Поддаюсь на чужие слова... Но... Правда... Я люблю тебя...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 50000,
+        "file": "Voice05/05-A2/05-A2-B00/05-A2-B00-0160",
+        "layer": 1,
+        "persona": "mak",
+        "start": 39066
+    },
+    {
+        "action": "CreateBG",
+        "end": 60000,
+        "file": "Event05/05-A2/05-A2-B00/05-A2-B00-012",
+        "start": 50233
+    },
+    {
+        "action": "PrintText",
+        "end": 51000,
+        "persona": "Сэкаи",
+        "start": 50233,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 51000,
+        "file": "Voice05/05-A2/05-A2-B00/05-A2-B00-0170",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 50233
+    },
+    {
+        "action": "PrintText",
+        "end": 60000,
+        "persona": "Макото",
+        "start": 50366,
+        "text": "Больше... Я не поддамся Котонохе... Я люблю тебя.... И только тебя.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 60000,
+        "file": "Voice05/05-A2/05-A2-B00/05-A2-B00-0180",
+        "layer": 1,
+        "persona": "mak",
+        "start": 50366
+    },
+    {
+        "action": "CreateBG",
+        "end": 74000,
+        "file": "Event05/05-A2/05-A2-B00/05-A2-B00-013",
+        "start": 60233
+    },
+    {
+        "action": "PrintText",
+        "end": 74000,
+        "persona": "Макото",
+        "start": 60283,
+        "text": "Понимаю... Мне нет прощения за всё то, что я тебе сделал... Но... Но я люблю тебя!.. И потому!..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 74000,
+        "file": "Voice05/05-A2/05-A2-B00/05-A2-B00-0190",
+        "layer": 1,
+        "persona": "mak",
+        "start": 60283
+    },
+    {
+        "action": "CreateBG",
+        "end": 92000,
+        "file": "Event05/05-A2/05-A2-B00/05-A2-B00-015",
+        "start": 74000
+    },
+    {
+        "action": "PrintText",
+        "end": 75000,
+        "persona": "Сэкаи",
+        "start": 74133,
+        "text": "Макото...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 75000,
+        "file": "Voice05/05-A2/05-A2-B00/05-A2-B00-0200",
+        "layer": 0,
+        "persona": "sek",
+        "start": 74133
+    },
+    {
+        "action": "PrintText",
+        "end": 77000,
+        "persona": "Макото",
+        "start": 75216,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 77000,
+        "file": "Voice05/05-A2/05-A2-B00/05-A2-B00-0210",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 75216
+    },
+    {
+        "action": "PlayVoice",
+        "end": 80000,
+        "file": "Voice05/05-A2/05-A2-B00/05-A2-B00-0220",
+        "layer": -1,
+        "persona": "",
+        "start": 77183
+    },
+    {
+        "action": "PrintText",
+        "end": 83000,
+        "persona": "Макото",
+        "start": 80283,
+        "text": "Сэкаи...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 83000,
+        "file": "Voice05/05-A2/05-A2-B00/05-A2-B00-0230",
+        "layer": 1,
+        "persona": "mak",
+        "start": 80283
+    },
+    {
+        "action": "PrintText",
+        "end": 87000,
+        "persona": "Сэкаи",
+        "start": 83250,
+        "text": "Я тоже... тебя люблю.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 87000,
+        "file": "Voice05/05-A2/05-A2-B00/05-A2-B00-0250",
+        "layer": 0,
+        "persona": "sek",
+        "start": 83250
+    },
+    {
+        "action": "PrintText",
+        "end": 90000,
+        "persona": "Макото",
+        "start": 87083,
+        "text": "Сэкаи...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 90000,
+        "file": "Voice05/05-A2/05-A2-B00/05-A2-B00-0260",
+        "layer": 1,
+        "persona": "mak",
+        "start": 87083
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 92000,
+        "start": 90033
+    }
+]

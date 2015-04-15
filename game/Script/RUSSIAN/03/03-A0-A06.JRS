@@ -1,0 +1,130 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 23000,
+        "file": "BGM/SD_BGM/sdbgm07",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 8000,
+        "file": "Se03/03-A0/03-A0-A06/SE03-A0-A06-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 16000,
+        "file": "Se03/03-A0/03-A0-A06/SE03-A0-A06-002",
+        "layer": 3,
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 16000,
+        "file": "Se03/03-A0/03-A0-A06/SE03-A0-A06-003",
+        "layer": 4,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 13000,
+        "file": "Event02/02-2K/02-2K-J06/02-2K-J06-001",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 11000,
+        "file": "Voice03/03-A0/03-A0-A06/03-A0-A06-0040",
+        "layer": 2,
+        "start": 8200
+    },
+    {
+        "action": "CreateBG",
+        "end": 16000,
+        "file": "Event02/02-2K/02-2K-J06/02-2K-J06-003",
+        "start": 13083
+    },
+    {
+        "action": "PrintText",
+        "end": 15000,
+        "persona": "Котоноха",
+        "start": 13083,
+        "text": "До завтра.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 15000,
+        "file": "Voice03/03-A0/03-A0-A06/03-A0-A06-0060",
+        "layer": 0,
+        "persona": "kot",
+        "start": 13083
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Макото",
+        "start": 15100,
+        "text": "Ага.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice03/03-A0/03-A0-A06/03-A0-A06-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 15100
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 16000,
+        "start": 16066
+    },
+    {
+        "action": "PlaySe",
+        "end": 23000,
+        "file": "Se03/03-A0/03-A0-A06/SE03-A0-A06-004",
+        "layer": 1,
+        "start": 16266
+    },
+    {
+        "action": "PlayMovie",
+        "end": 20000,
+        "file": "Movie02/02-2K/02-2K-J05/02-2K-J05-001",
+        "start": 16266
+    },
+    {
+        "action": "BlackFade",
+        "dir": "IN",
+        "end": 17000,
+        "start": 16266
+    },
+    {
+        "action": "CreateBG",
+        "end": 23000,
+        "file": "Event02/02-2K/02-2K-J06/02-2K-J06-005",
+        "start": 20000
+    },
+    {
+        "action": "PrintText",
+        "end": 21000,
+        "persona": "Макото",
+        "start": 20100,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 21000,
+        "file": "Voice03/03-A0/03-A0-A06/03-A0-A06-0100",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 20100
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 23000,
+        "start": 22266
+    }
+]

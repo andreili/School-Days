@@ -1,0 +1,957 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 192000,
+        "file": "BGM/SD_BGM/sdbgm17",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 47000,
+        "file": "Se03/03-BK/03-BK-H00/SE03-BK-H00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event03/03-BK/03-BK-H00/03-BK-H00-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 6000,
+        "file": "Event03/03-BK/03-BK-H00/03-BK-H00-002",
+        "start": 3000
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event03/03-BK/03-BK-H00/03-BK-H00-003",
+        "start": 6000
+    },
+    {
+        "action": "CreateBG",
+        "end": 24000,
+        "file": "Event03/03-BK/03-BK-H00/03-BK-H00-004",
+        "start": 9000
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Сэкаи",
+        "start": 9000,
+        "text": "Хм-м...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 9000
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Нанами",
+        "start": 11050,
+        "text": "Нашла себе что-нибудь?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0050",
+        "layer": 0,
+        "persona": "nan",
+        "start": 11050
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Сэкаи",
+        "start": 13016,
+        "text": "Нет... Нанами, слушай...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 13016
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Нанами",
+        "start": 16183,
+        "text": "Да?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0070",
+        "layer": 0,
+        "persona": "nan",
+        "start": 16183
+    },
+    {
+        "action": "PrintText",
+        "end": 20000,
+        "persona": "Сэкаи",
+        "start": 17233,
+        "text": "Вот я всегда думала...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 20000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0080",
+        "layer": 0,
+        "persona": "sek",
+        "start": 17233
+    },
+    {
+        "action": "PrintText",
+        "end": 21000,
+        "persona": "Нанами",
+        "start": 19333,
+        "text": "Ты о чем?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 21000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0090",
+        "layer": 0,
+        "persona": "nan",
+        "start": 19333
+    },
+    {
+        "action": "PrintText",
+        "end": 24000,
+        "persona": "Сэкаи",
+        "start": 21200,
+        "text": "Купальники ведь очень дорогие.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 24000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0100",
+        "layer": 0,
+        "persona": "sek",
+        "start": 21200
+    },
+    {
+        "action": "CreateBG",
+        "end": 47000,
+        "file": "Event03/03-BK/03-BK-H00/03-BK-H00-005",
+        "start": 24166
+    },
+    {
+        "action": "PrintText",
+        "end": 25000,
+        "persona": "Нанами",
+        "start": 24183,
+        "text": "Ага.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 25000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0110",
+        "layer": 0,
+        "persona": "nan",
+        "start": 24183
+    },
+    {
+        "action": "PrintText",
+        "end": 29000,
+        "persona": "Сэкаи",
+        "start": 25250,
+        "text": "И ведь это не платье, которое хотя бы несколько лет носить можно...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 29000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0120",
+        "layer": 0,
+        "persona": "sek",
+        "start": 25250
+    },
+    {
+        "action": "PrintText",
+        "end": 32000,
+        "persona": "Нанами",
+        "start": 28383,
+        "text": "Да, с каждым годом тело меняется.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 32000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0130",
+        "layer": 0,
+        "persona": "nan",
+        "start": 28383
+    },
+    {
+        "action": "PrintText",
+        "end": 38000,
+        "persona": "Сэкаи",
+        "start": 32183,
+        "text": "Да даже если бы и не менялось, через год все эти вещи выйдут из моды.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 38000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0140",
+        "layer": 0,
+        "persona": "sek",
+        "start": 32183
+    },
+    {
+        "action": "PrintText",
+        "end": 40000,
+        "persona": "Нанами",
+        "start": 37350,
+        "text": "Да, считай, как идёшь на пляж, приходится новый покупать.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 40000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0150",
+        "layer": 0,
+        "persona": "nan",
+        "start": 37350
+    },
+    {
+        "action": "PrintText",
+        "end": 44000,
+        "persona": "Сэкаи",
+        "start": 40383,
+        "text": "Я этим летом хотела себе новый купальник купить,^"
+    },
+    {
+        "action": "PrintText",
+        "end": 47000,
+        "persona": "Сэкаи",
+        "start": 44000,
+        "text": "когда в ресторане рядом с пляжем работала, но не стала...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 47000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0160",
+        "layer": 0,
+        "persona": "sek",
+        "start": 40383
+    },
+    {
+        "action": "PlaySe",
+        "end": 93000,
+        "file": "Se03/03-BK/03-BK-H00/SE03-BK-H00-001",
+        "layer": 2,
+        "start": 45100
+    },
+    {
+        "action": "PrintText",
+        "end": 49000,
+        "persona": "Нанами",
+        "start": 46383,
+        "text": "Может, тебе и сейчас не стоит ничего покупать?^"
+    },
+    {
+        "action": "PrintText",
+        "end": 52000,
+        "persona": "Нанами",
+        "start": 49000,
+        "text": "Наверняка в этом аквапарке есть купальники напрокат.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 52000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0170",
+        "layer": 0,
+        "persona": "nan",
+        "start": 46383
+    },
+    {
+        "action": "CreateBG",
+        "end": 80000,
+        "file": "Event03/03-BK/03-BK-H00/03-BK-H00-006",
+        "start": 47016
+    },
+    {
+        "action": "PrintText",
+        "end": 54000,
+        "persona": "Сэкаи",
+        "start": 52150,
+        "text": "Нет, так не пойдет!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 54000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0180",
+        "layer": 0,
+        "persona": "sek",
+        "start": 52150
+    },
+    {
+        "action": "PrintText",
+        "end": 59000,
+        "persona": "Нанами",
+        "start": 54333,
+        "text": "Ну конечно, ты же хочешь перед своим ненаглядным Макото покрасоваться.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 59000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0190",
+        "layer": 0,
+        "persona": "nan",
+        "start": 54333
+    },
+    {
+        "action": "PrintText",
+        "end": 61000,
+        "persona": "Сэкаи",
+        "start": 58233,
+        "text": "Блин! Ничего такого!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 61000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0200",
+        "layer": 0,
+        "persona": "sek",
+        "start": 58233
+    },
+    {
+        "action": "PrintText",
+        "end": 62000,
+        "persona": "Нанами",
+        "start": 61183,
+        "text": "Хм-м...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 62000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0210",
+        "layer": 0,
+        "persona": "nan",
+        "start": 61183
+    },
+    {
+        "action": "PrintText",
+        "end": 65000,
+        "persona": "Сэкаи",
+        "start": 62300,
+        "text": "Не в этом дело...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 65000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0220",
+        "layer": 0,
+        "persona": "sek",
+        "start": 62300
+    },
+    {
+        "action": "PrintText",
+        "end": 66000,
+        "persona": "Нанами",
+        "start": 65116,
+        "text": "Тогда в чём?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 66000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0230",
+        "layer": 0,
+        "persona": "nan",
+        "start": 65116
+    },
+    {
+        "action": "PrintText",
+        "end": 72000,
+        "persona": "Сэкаи",
+        "start": 66250,
+        "text": "Понимаешь, я беспокоюсь о том, как я выгляжу, вот и хочу себе хороший купальник...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 72000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0240",
+        "layer": 0,
+        "persona": "sek",
+        "start": 66250
+    },
+    {
+        "action": "PrintText",
+        "end": 75000,
+        "persona": "Нанами",
+        "start": 71366,
+        "text": "Что?! Ты о чем вообще, Сэкаи?!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 75000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0250",
+        "layer": 0,
+        "persona": "nan",
+        "start": 71366
+    },
+    {
+        "action": "PrintText",
+        "end": 81000,
+        "persona": "Нанами",
+        "start": 75266,
+        "text": "Ты только в школе такое не повторяй, тебя половина девчонок в классе просто убьёт!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 81000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0251",
+        "layer": 0,
+        "persona": "nan",
+        "start": 75266
+    },
+    {
+        "action": "CreateBG",
+        "end": 98000,
+        "file": "Event03/03-BK/03-BK-H00/03-BK-H00-007",
+        "start": 80350
+    },
+    {
+        "action": "PrintText",
+        "end": 84000,
+        "persona": "Сэкаи",
+        "start": 80350,
+        "text": "Ну ты что, не понимаешь? Я же с Кацурой вместе пойду!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 84000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0260",
+        "layer": 0,
+        "persona": "sek",
+        "start": 80350
+    },
+    {
+        "action": "PrintText",
+        "end": 85000,
+        "persona": "Нанами",
+        "start": 84133,
+        "text": "А...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 85000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0270",
+        "layer": 0,
+        "persona": "nan",
+        "start": 84133
+    },
+    {
+        "action": "PrintText",
+        "end": 88000,
+        "persona": "Сэкаи",
+        "start": 85150,
+        "text": "Вот что мне делать?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 88000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0280",
+        "layer": 0,
+        "persona": "sek",
+        "start": 85150
+    },
+    {
+        "action": "PrintText",
+        "end": 94000,
+        "persona": "Нанами",
+        "start": 87350,
+        "text": "Да уж, с такой грудью все парни, наверное, только и будут на неё пялиться...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 94000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0290",
+        "layer": 0,
+        "persona": "nan",
+        "start": 87350
+    },
+    {
+        "action": "PlaySe",
+        "end": 139000,
+        "file": "Se03/03-BK/03-BK-H00/SE03-BK-H00-001",
+        "layer": 1,
+        "start": 91116
+    },
+    {
+        "action": "PrintText",
+        "end": 98000,
+        "persona": "Сэкаи",
+        "start": 93366,
+        "text": "Не наверное, а точно!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 98000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0300",
+        "layer": 0,
+        "persona": "sek",
+        "start": 93366
+    },
+    {
+        "action": "PrintText",
+        "end": 100000,
+        "persona": "Нанами",
+        "start": 98166,
+        "text": "Так вот, что тебе покоя не даёт.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 100000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0310",
+        "layer": 0,
+        "persona": "nan",
+        "start": 98166
+    },
+    {
+        "action": "CreateBG",
+        "end": 138000,
+        "file": "Event03/03-BK/03-BK-H00/03-BK-H00-008",
+        "start": 98183
+    },
+    {
+        "action": "PrintText",
+        "end": 101000,
+        "persona": "Сэкаи",
+        "start": 100166,
+        "text": "Ага...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 101000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0320",
+        "layer": 0,
+        "persona": "sek",
+        "start": 100166
+    },
+    {
+        "action": "PrintText",
+        "end": 111000,
+        "persona": "Нанами",
+        "start": 102050,
+        "text": "Конечно, Саванага тот ещё идиот, как он мог Кацуру вместе с тобой пригласить?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 111000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0330",
+        "layer": 0,
+        "persona": "nan",
+        "start": 102050
+    },
+    {
+        "action": "PrintText",
+        "end": 113000,
+        "persona": "Сэкаи",
+        "start": 111233,
+        "text": "Ну это...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 113000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0340",
+        "layer": 0,
+        "persona": "sek",
+        "start": 111233
+    },
+    {
+        "action": "PrintText",
+        "end": 117000,
+        "persona": "Нанами",
+        "start": 113083,
+        "text": "Вот уведёт Кацура твоего Ито...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 117000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0350",
+        "layer": 0,
+        "persona": "nan",
+        "start": 113083
+    },
+    {
+        "action": "PrintText",
+        "end": 120000,
+        "persona": "Сэкаи",
+        "start": 117233,
+        "text": "Да он не мой, в общем-то...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 120000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0360",
+        "layer": 0,
+        "persona": "sek",
+        "start": 117233
+    },
+    {
+        "action": "PrintText",
+        "end": 124000,
+        "persona": "Нанами",
+        "start": 120100,
+        "text": "Ну вот, ты уже заранее пасуешь, ну нельзя же так! Возьми себя в руки!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 124000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0370",
+        "layer": 0,
+        "persona": "nan",
+        "start": 120100
+    },
+    {
+        "action": "PrintText",
+        "end": 125000,
+        "persona": "Сэкаи",
+        "start": 124366,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 125000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0380",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 124366
+    },
+    {
+        "action": "PrintText",
+        "end": 130000,
+        "persona": "Нанами",
+        "start": 126133,
+        "text": "Ладно, есть у меня одна идея, что мы можем противопоставить этим огромным буферам.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 130000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0390",
+        "layer": 0,
+        "persona": "nan",
+        "start": 126133
+    },
+    {
+        "action": "PrintText",
+        "end": 130000,
+        "persona": "Сэкаи",
+        "start": 130116,
+        "text": "Э?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 130000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0400",
+        "layer": 0,
+        "persona": "sek",
+        "start": 130116
+    },
+    {
+        "action": "PrintText",
+        "end": 138000,
+        "persona": "Нанами",
+        "start": 131083,
+        "text": "Я этой корове Кацуре покажу, какая у тебя, Сэкаи, грудь может быть, сделаем тебе супер-бюст!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 138000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0410",
+        "layer": 0,
+        "persona": "nan",
+        "start": 131083
+    },
+    {
+        "action": "PlaySe",
+        "end": 184000,
+        "file": "Se03/03-BK/03-BK-H00/SE03-BK-H00-001",
+        "layer": 2,
+        "start": 136283
+    },
+    {
+        "action": "PrintText",
+        "end": 142000,
+        "persona": "Сэкаи",
+        "start": 138316,
+        "text": "Супер-бюст?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 142000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0420",
+        "layer": 0,
+        "persona": "sek",
+        "start": 138316
+    },
+    {
+        "action": "CreateBG",
+        "end": 149000,
+        "file": "Event03/03-BK/03-BK-H00/03-BK-H00-002",
+        "start": 138333
+    },
+    {
+        "action": "PrintText",
+        "end": 149000,
+        "persona": "Нанами",
+        "start": 144183,
+        "text": "Так, возьми этот купальник, надевай, вот тут застегни.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 149000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0440",
+        "layer": 0,
+        "persona": "nan",
+        "start": 144183
+    },
+    {
+        "action": "PlayMovie",
+        "end": 192000,
+        "file": "Movie03/03-BK/03-BK-H00/03-BK-H00-010",
+        "start": 149116
+    },
+    {
+        "action": "PrintText",
+        "end": 156000,
+        "persona": "Сэкаи",
+        "start": 149116,
+        "text": "Да ты что, с ума сошла, он же на три размера больше чем нужно! Я обычно...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 156000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0450",
+        "layer": 0,
+        "persona": "sek",
+        "start": 149116
+    },
+    {
+        "action": "PrintText",
+        "end": 159000,
+        "persona": "Нанами",
+        "start": 155366,
+        "text": "Не беспокойся, вот мы сейчас воздух подкачаем...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 159000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0460",
+        "layer": 0,
+        "persona": "nan",
+        "start": 155366
+    },
+    {
+        "action": "PrintText",
+        "end": 161000,
+        "persona": "Сэкаи",
+        "start": 159166,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 161000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0470",
+        "layer": 0,
+        "persona": "sek",
+        "start": 159166
+    },
+    {
+        "action": "PrintText",
+        "end": 164000,
+        "persona": "Сэкаи",
+        "start": 163033,
+        "text": "Слушай, Нанами...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 164000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0530",
+        "layer": 0,
+        "persona": "sek",
+        "start": 163033
+    },
+    {
+        "action": "PrintText",
+        "end": 166000,
+        "persona": "Нанами",
+        "start": 165266,
+        "text": "М?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 166000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0540",
+        "layer": 0,
+        "persona": "nan",
+        "start": 165266
+    },
+    {
+        "action": "PrintText",
+        "end": 169000,
+        "persona": "Сэкаи",
+        "start": 166200,
+        "text": "Купальник мне немного жмёт.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 169000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0550",
+        "layer": 0,
+        "persona": "sek",
+        "start": 166200
+    },
+    {
+        "action": "PrintText",
+        "end": 176000,
+        "persona": "Нанами",
+        "start": 169016,
+        "text": "Да так даже лучше, пусть выглядит, словно у тебя грудь сейчас из купальника выпадет!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 176000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0560",
+        "layer": 0,
+        "persona": "nan",
+        "start": 169016
+    },
+    {
+        "action": "PrintText",
+        "end": 177000,
+        "persona": "Сэкаи",
+        "start": 175300,
+        "text": "Понятно...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 177000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0570",
+        "layer": 0,
+        "persona": "sek",
+        "start": 175300
+    },
+    {
+        "action": "PrintText",
+        "end": 179000,
+        "persona": "Нанами",
+        "start": 177300,
+        "text": "На вот, взгляни.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 179000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0580",
+        "layer": 0,
+        "persona": "nan",
+        "start": 177300
+    },
+    {
+        "action": "PrintText",
+        "end": 182000,
+        "persona": "Сэкаи",
+        "start": 181300,
+        "text": "Да...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 182000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0590",
+        "layer": 0,
+        "persona": "sek",
+        "start": 181300
+    },
+    {
+        "action": "PlaySe",
+        "end": 192000,
+        "file": "Se03/03-BK/03-BK-H00/SE03-BK-H00-001",
+        "layer": 1,
+        "start": 182066
+    },
+    {
+        "action": "PrintText",
+        "end": 184000,
+        "persona": "Сэкаи",
+        "start": 182266,
+        "text": "Обалдеть...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 184000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0610",
+        "layer": 0,
+        "persona": "sek",
+        "start": 182266
+    },
+    {
+        "action": "PrintText",
+        "end": 186000,
+        "persona": "Нанами",
+        "start": 184066,
+        "text": "Теперь у тебя есть что противопоставить Кацуре.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 186000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0620",
+        "layer": 0,
+        "persona": "nan",
+        "start": 184066
+    },
+    {
+        "action": "PrintText",
+        "end": 188000,
+        "persona": "Сэкаи",
+        "start": 186333,
+        "text": "Ну да, наверное...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 188000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0630",
+        "layer": 0,
+        "persona": "sek",
+        "start": 186333
+    },
+    {
+        "action": "PrintText",
+        "end": 190000,
+        "persona": "Нанами",
+        "start": 189066,
+        "text": "Да наверняка!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 190000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0640",
+        "layer": 0,
+        "persona": "nan",
+        "start": 189066
+    },
+    {
+        "action": "PrintText",
+        "end": 192000,
+        "persona": "Сэкаи",
+        "start": 190283,
+        "text": "Ну тогда ладно!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 192000,
+        "file": "Voice03/03-BK/03-BK-H00/03-BK-H00-0650",
+        "layer": 0,
+        "persona": "sek",
+        "start": 190283
+    }
+]

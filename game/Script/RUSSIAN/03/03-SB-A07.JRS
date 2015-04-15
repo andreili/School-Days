@@ -1,0 +1,135 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 9000,
+        "file": "BGM/SD_BGM/sdbgm07",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 9000,
+        "file": "Se03/03-SB/03-SB-A07/SE03-SB-A07-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event03/03-SB/03-SB-A07/03-SB-A07-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 0,
+        "persona": "Макото",
+        "start": 200,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 0,
+        "file": "Voice03/03-SB/03-SB-A07/03-SB-A07-0030",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 200
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event03/03-SB/03-SB-A07/03-SB-A07-002",
+        "start": 1000
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Сэкаи",
+        "start": 1000,
+        "text": "Ты что-то сказал?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice03/03-SB/03-SB-A07/03-SB-A07-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 1000
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Макото",
+        "start": 3116,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice03/03-SB/03-SB-A07/03-SB-A07-0050",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 3116
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event03/03-SB/03-SB-A07/03-SB-A07-003",
+        "start": 3133
+    },
+    {
+        "action": "CreateBG",
+        "end": 6000,
+        "file": "Event03/03-SB/03-SB-A07/03-SB-A07-004",
+        "start": 3350
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Сэкаи",
+        "start": 3366,
+        "text": "Трудно, правда?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice03/03-SB/03-SB-A07/03-SB-A07-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 3366
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event03/03-SB/03-SB-A07/03-SB-A07-005",
+        "start": 6233
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Макото",
+        "start": 6233,
+        "text": "Да...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice03/03-SB/03-SB-A07/03-SB-A07-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 6233
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Сэкаи",
+        "start": 8033,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice03/03-SB/03-SB-A07/03-SB-A07-0080",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 8033
+    }
+]

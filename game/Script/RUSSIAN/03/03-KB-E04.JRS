@@ -1,0 +1,95 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 15000,
+        "file": "BGM/SD_BGM/sdbgm12",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 14000,
+        "file": "Event03/03-KB/03-KB-E04/03-KB-E04-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Да.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-KB/03-KB-E04/03-KB-E04-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Таисукэ",
+        "start": 1000,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice03/03-KB/03-KB-E04/03-KB-E04-0040",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 1000
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Макото",
+        "start": 2016,
+        "text": "Ну а что я мог сделать, Сэкаи говорит: «Встречайся с ней»... А я ведь Сэкаи люблю... Поэтому...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice03/03-KB/03-KB-E04/03-KB-E04-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2016
+    },
+    {
+        "action": "PrintText",
+        "end": 15000,
+        "persona": "Таисукэ",
+        "start": 13383,
+        "text": "Макото...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 15000,
+        "file": "Voice03/03-KB/03-KB-E04/03-KB-E04-0060",
+        "layer": 1,
+        "persona": "tai",
+        "start": 13383
+    },
+    {
+        "action": "CreateBG",
+        "end": 15000,
+        "file": "Event03/03-KB/03-KB-E04/03-KB-E04-002",
+        "start": 14000
+    },
+    {
+        "action": "PrintText",
+        "end": 15000,
+        "persona": "Макото",
+        "start": 15033,
+        "text": "Да...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 15000,
+        "file": "Voice03/03-KB/03-KB-E04/03-KB-E04-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 15033
+    }
+]

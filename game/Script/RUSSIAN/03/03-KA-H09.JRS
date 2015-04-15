@@ -1,0 +1,168 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 27000,
+        "file": "BGM/SD_BGM/sdbgm07",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 27000,
+        "file": "Se03/03-KA/03-KA-H09/SE03-KA-H09-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event03/03-KA/03-KA-H09/03-KA-H09-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Извини, сейчас не могу. У нас ещё совещание не закончилось, и я совершенно в него не врубаюсь.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice03/03-KA/03-KA-H09/03-KA-H09-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event03/03-KA/03-KA-H09/03-KA-H09-002",
+        "start": 7350
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Котоноха",
+        "start": 7350,
+        "text": "Да нет, ничего страшного, потом увидимся.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice03/03-KA/03-KA-H09/03-KA-H09-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 7350
+    },
+    {
+        "action": "CreateBG",
+        "end": 12000,
+        "file": "Event03/03-KA/03-KA-H09/03-KA-H09-003",
+        "start": 10116
+    },
+    {
+        "action": "CreateBG",
+        "end": 14000,
+        "file": "Event03/03-KA/03-KA-H09/03-KA-H09-004",
+        "start": 12316
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Макото",
+        "start": 12333,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice03/03-KA/03-KA-H09/03-KA-H09-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 12333
+    },
+    {
+        "action": "CreateBG",
+        "end": 18000,
+        "file": "Event03/03-KA/03-KA-H09/03-KA-H09-005",
+        "start": 14133
+    },
+    {
+        "action": "PrintText",
+        "end": 18000,
+        "persona": "Сэцуна",
+        "start": 14133,
+        "text": "Вы с Кацурой сегодня собирались куда-то пойти?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 18000,
+        "file": "Voice03/03-KA/03-KA-H09/03-KA-H09-0070",
+        "layer": 0,
+        "persona": "set",
+        "start": 14133
+    },
+    {
+        "action": "CreateBG",
+        "end": 22000,
+        "file": "Event03/03-KA/03-KA-H09/03-KA-H09-006",
+        "start": 18283
+    },
+    {
+        "action": "PrintText",
+        "end": 21000,
+        "persona": "Макото",
+        "start": 18333,
+        "text": "Да ерунда, не обращай внимания.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 21000,
+        "file": "Voice03/03-KA/03-KA-H09/03-KA-H09-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 18333
+    },
+    {
+        "action": "CreateBG",
+        "end": 27000,
+        "file": "Event03/03-KA/03-KA-H09/03-KA-H09-001",
+        "start": 22000
+    },
+    {
+        "action": "PrintText",
+        "end": 25000,
+        "persona": "Сэцуна",
+        "start": 22016,
+        "text": "Ладно, тогда объясняю ещё раз специально для тебя, пошли обратно в класс.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 25000,
+        "file": "Voice03/03-KA/03-KA-H09/03-KA-H09-0090",
+        "layer": 0,
+        "persona": "set",
+        "start": 22016
+    },
+    {
+        "action": "PrintText",
+        "end": 26000,
+        "persona": "Макото",
+        "start": 25383,
+        "text": "Пошли.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 26000,
+        "file": "Voice03/03-KA/03-KA-H09/03-KA-H09-0100",
+        "layer": 1,
+        "persona": "mak",
+        "start": 25383
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 27000,
+        "start": 26383
+    }
+]

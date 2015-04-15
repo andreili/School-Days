@@ -1,0 +1,104 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 9000,
+        "file": "BGM/SD_BGM/sdbgm29",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event04/04-SB/04-SB-G06/04-SB-G06-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Хочешь посмотреть?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice04/04-SB/04-SB-G06/04-SB-G06-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Хикари",
+        "start": 1133,
+        "text": "Но...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice04/04-SB/04-SB-G06/04-SB-G06-0040",
+        "layer": 0,
+        "persona": "hik",
+        "start": 1133
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Макото",
+        "start": 2216,
+        "text": "Боишься?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice04/04-SB/04-SB-G06/04-SB-G06-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2216
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Хикари",
+        "start": 3233,
+        "text": "Да нет...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice04/04-SB/04-SB-G06/04-SB-G06-0060",
+        "layer": 0,
+        "persona": "hik",
+        "start": 3233
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Макото",
+        "start": 4300,
+        "text": "Ну давай тогда вместе...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice04/04-SB/04-SB-G06/04-SB-G06-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 4300
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Хикари",
+        "start": 8216,
+        "text": "Угу...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice04/04-SB/04-SB-G06/04-SB-G06-0080",
+        "layer": 0,
+        "persona": "hik",
+        "start": 8216
+    }
+]

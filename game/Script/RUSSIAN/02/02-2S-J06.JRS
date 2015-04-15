@@ -1,0 +1,57 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 16000,
+        "file": "BGM/SD_BGM/sdbgm07",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event01/01-00/01-00-B00/01-00-B00-003",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 4000,
+        "file": "Event02/02-2S/02-2S-J06/02-2S-J06-001B",
+        "start": 2000
+    },
+    {
+        "action": "CreateBG",
+        "end": 6000,
+        "file": "Event02/02-2S/02-2S-J06/02-2S-J06-001C",
+        "start": 4000
+    },
+    {
+        "action": "CreateBG",
+        "end": 8000,
+        "file": "Event02/02-2S/02-2S-J06/02-2S-J06-002",
+        "start": 6000
+    },
+    {
+        "action": "PlaySe",
+        "end": 12000,
+        "file": "Voice02/02-2S/02-2S-J06/02-2S-J06-0060",
+        "layer": 1,
+        "start": 7233
+    },
+    {
+        "action": "CreateBG",
+        "end": 12000,
+        "file": "Event02/02-2S/02-2S-J06/02-2S-J06-003",
+        "start": 8300
+    },
+    {
+        "action": "CreateBG",
+        "end": 16000,
+        "file": "Event02/02-2S/02-2S-J06/02-2S-J06-004",
+        "start": 12000
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 16000,
+        "start": 15033
+    }
+]

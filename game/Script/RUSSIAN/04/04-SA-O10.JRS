@@ -1,0 +1,116 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 17000,
+        "file": "BGM/SD_BGM/sdbgm08",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event04/04-SA/04-SA-O10/04-SA-O10-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Совсем стемнело.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice04/04-SA/04-SA-O10/04-SA-O10-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Сэкаи",
+        "start": 3150,
+        "text": "Прости, задержала.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice04/04-SA/04-SA-O10/04-SA-O10-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 3150
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Макото",
+        "start": 5233,
+        "text": "Да я и не против был. Весёлая у тебя мама.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice04/04-SA/04-SA-O10/04-SA-O10-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 5233
+    },
+    {
+        "action": "CreateBG",
+        "end": 17000,
+        "file": "Event04/04-SA/04-SA-O10/04-SA-O10-002",
+        "start": 10116
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Сэкаи",
+        "start": 10116,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice04/04-SA/04-SA-O10/04-SA-O10-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 10116
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Макото",
+        "start": 12000,
+        "text": "Да я ж хвалю!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice04/04-SA/04-SA-O10/04-SA-O10-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 12000
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Сэкаи",
+        "start": 14250,
+        "text": "Ну ладно...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice04/04-SA/04-SA-O10/04-SA-O10-0080",
+        "layer": 0,
+        "persona": "sek",
+        "start": 14250
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 17000,
+        "start": 16166
+    }
+]

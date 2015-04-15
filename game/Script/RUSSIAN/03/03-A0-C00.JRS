@@ -1,0 +1,56 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 8000,
+        "file": "BGM/SD_BGM/sdbgm19",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event03/03-A0/03-A0-C00/03-A0-C00-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event03/03-A0/03-A0-C00/03-A0-C00-002",
+        "start": 3000
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Сэцуна",
+        "start": 3150,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice03/03-A0/03-A0-C00/03-A0-C00-0060",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 3150
+    },
+    {
+        "action": "CreateBG",
+        "end": 8000,
+        "file": "Event03/03-A0/03-A0-C00/03-A0-C00-003",
+        "start": 5033
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Сэкаи",
+        "start": 5133,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice03/03-A0/03-A0-C00/03-A0-C00-0050",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 5133
+    }
+]

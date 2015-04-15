@@ -1,0 +1,94 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 11000,
+        "file": "BGM/SD_BGM/sdbgm06",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 11000,
+        "file": "Se03/03-KA/03-KA-G05/SE03-KA-G05-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event03/03-KA/03-KA-G05/03-KA-G05-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Сэцуна",
+        "start": 0,
+        "text": "Сэкаи?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-KA/03-KA-G05/03-KA-G05-0030",
+        "layer": 0,
+        "persona": "set",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 1000,
+        "text": "Э?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-KA/03-KA-G05/03-KA-G05-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 1000
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event03/03-KA/03-KA-G05/03-KA-G05-002A",
+        "start": 1300
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Сэцуна",
+        "start": 1350,
+        "text": "Если ты на встречу с Сэкаи, то можешь идти.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice03/03-KA/03-KA-G05/03-KA-G05-0050",
+        "layer": 0,
+        "persona": "set",
+        "start": 1350
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Макото",
+        "start": 4066,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice03/03-KA/03-KA-G05/03-KA-G05-0060",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 4066
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Тогда я пойду.^",
+        "answer2": "NULL",
+        "end": 10000,
+        "start": 5333
+    }
+]

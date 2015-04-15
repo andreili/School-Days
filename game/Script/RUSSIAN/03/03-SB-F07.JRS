@@ -1,0 +1,102 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 16000,
+        "file": "BGM/SD_BGM/sdbgm07",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 4000,
+        "file": "Event03/03-SB/03-SB-F07/03-SB-F07-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-SB/03-SB-F07/03-SB-F07-0030",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Котоноха",
+        "start": 1050,
+        "text": "Макото, пожалуйста...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice03/03-SB/03-SB-F07/03-SB-F07-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 1050
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Макото",
+        "start": 3283,
+        "text": "Ну что ты...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice03/03-SB/03-SB-F07/03-SB-F07-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 3283
+    },
+    {
+        "action": "CreateBG",
+        "end": 16000,
+        "file": "Event03/03-SB/03-SB-F07/03-SB-F07-002",
+        "start": 4133
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Котоноха",
+        "start": 4233,
+        "text": "Макото, пойдем со мной на танцы? Я очень этого хочу...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice03/03-SB/03-SB-F07/03-SB-F07-0060",
+        "layer": 0,
+        "persona": "kot",
+        "start": 4233
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Макото",
+        "start": 9166,
+        "text": "Котоноха...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice03/03-SB/03-SB-F07/03-SB-F07-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 9166
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Конечно, пойдем!^",
+        "answer2": "NULL",
+        "end": 15000,
+        "start": 10283
+    }
+]

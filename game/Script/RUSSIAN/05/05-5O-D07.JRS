@@ -1,0 +1,125 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 13000,
+        "file": "BGM/SD_BGM/sdbgm08",
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 10000,
+        "file": "Movie05/05-5O/05-5O-D07/05-5O-D07-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Итару",
+        "start": 0,
+        "text": "Она хорошая.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice05/05-5O/05-5O-D07/05-5O-D07-0030",
+        "layer": 0,
+        "persona": "ita",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 1250,
+        "text": "Э?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice05/05-5O/05-5O-D07/05-5O-D07-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 1250
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Итару",
+        "start": 2133,
+        "text": "Всегда меня по головке гладила.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice05/05-5O/05-5O-D07/05-5O-D07-0050",
+        "layer": 0,
+        "persona": "ita",
+        "start": 2133
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Макото",
+        "start": 6333,
+        "text": "Ясно...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice05/05-5O/05-5O-D07/05-5O-D07-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 6333
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Итару",
+        "start": 8016,
+        "text": "Я её люблю!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice05/05-5O/05-5O-D07/05-5O-D07-0070",
+        "layer": 0,
+        "persona": "ita",
+        "start": 8016
+    },
+    {
+        "action": "CreateBG",
+        "end": 13000,
+        "file": "Event05/05-5O/05-5O-D07/05-5O-D07-002",
+        "start": 10000
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Макото",
+        "start": 10000,
+        "text": "И я тоже.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice05/05-5O/05-5O-D07/05-5O-D07-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 10000
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Итару",
+        "start": 12200,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice05/05-5O/05-5O-D07/05-5O-D07-0090",
+        "layer": 0,
+        "persona": "ita",
+        "start": 12200
+    }
+]

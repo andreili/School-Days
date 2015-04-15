@@ -1,0 +1,101 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 19000,
+        "file": "BGM/SD_BGM/sdbgm33",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 8000,
+        "file": "Event03/03-KA/03-KA-F03/03-KA-F03-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Я так хочу её обнять...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice03/03-KA/03-KA-F04/03-KA-F04-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 4116,
+        "text": "В этом же нет ничего такого...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice03/03-KA/03-KA-F04/03-KA-F04-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 4116
+    },
+    {
+        "action": "CreateBG",
+        "end": 19000,
+        "file": "Event03/03-KA/03-KA-F04/03-KA-F04-003",
+        "start": 8016
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Макото",
+        "start": 8100,
+        "text": "Если бы ещё она это поняла...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice03/03-KA/03-KA-F04/03-KA-F04-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 8100
+    },
+    {
+        "action": "PrintText",
+        "end": 15000,
+        "persona": "Макото",
+        "start": 11083,
+        "text": "Сколько нам ещё встречаться, чтобы она мне хотя бы это позволила...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 15000,
+        "file": "Voice03/03-KA/03-KA-F04/03-KA-F04-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 11083
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Макото",
+        "start": 16266,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice03/03-KA/03-KA-F04/03-KA-F04-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 16266
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 19000,
+        "start": 18066
+    }
+]

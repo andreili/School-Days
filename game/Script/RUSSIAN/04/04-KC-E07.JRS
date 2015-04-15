@@ -1,0 +1,59 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 10000,
+        "file": "BGM/SD_BGM/sdbgm21",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event04/04-KC/04-KC-E07/04-KC-E07-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice04/04-KC/04-KC-E07/04-KC-E07-0030",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Котоноха",
+        "start": 1016,
+        "text": "А... Прости! Ты ведь себя плохо чувствуешь, а тут я надоедаю...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice04/04-KC/04-KC-E07/04-KC-E07-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 1016
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Макото",
+        "start": 9300,
+        "text": "Ничего...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice04/04-KC/04-KC-E07/04-KC-E07-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 9300
+    }
+]

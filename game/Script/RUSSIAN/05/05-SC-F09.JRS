@@ -1,0 +1,114 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 19000,
+        "file": "BGM/SD_BGM/sdbgm01",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 19000,
+        "file": "SysSe/SE_all/station_train/train_in",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event05/05-KB/05-KB-F09/05-KB-F09-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Выгнал я её.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice05/05-KB/05-KB-F09/05-KB-F09-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 16000,
+        "file": "Event05/05-KB/05-KB-F09/05-KB-F09-002",
+        "start": 2200
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Нанами",
+        "start": 2200,
+        "text": "А... Понятно.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice05/05-KB/05-KB-F09/05-KB-F09-0040",
+        "layer": 0,
+        "persona": "nan",
+        "start": 2200
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Макото",
+        "start": 4200,
+        "text": "Ага. На ночь глядя припёрлась, ни стыда ни совести.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice05/05-KB/05-KB-F09/05-KB-F09-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 4200
+    },
+    {
+        "action": "PrintText",
+        "end": 15000,
+        "persona": "Нанами",
+        "start": 10016,
+        "text": "И не говори... И ведь бывают же такие безмозглые.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 15000,
+        "file": "Voice05/05-KB/05-KB-F09/05-KB-F09-0060",
+        "layer": 0,
+        "persona": "nan",
+        "start": 10016
+    },
+    {
+        "action": "CreateBG",
+        "end": 19000,
+        "file": "Event05/05-KB/05-KB-F09/05-KB-F09-003",
+        "start": 16000
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Котоноха",
+        "start": 16000,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice05/05-KB/05-KB-F09/05-KB-F09-0080",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 16000
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 19000,
+        "start": 19016
+    }
+]

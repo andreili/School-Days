@@ -1,0 +1,104 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 3000,
+        "file": "SysSe/SE_all/station_train/station",
+        "layer": 3,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event01/01-00/01-00-Q01/01-00-Q01-006",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 8000,
+        "file": "Se01/01-1K/01-1K-F00/SE01-1K-F00-001",
+        "layer": 1,
+        "start": 3183
+    },
+    {
+        "action": "PlayMovie",
+        "end": 8000,
+        "file": "Movie00/00-00/00-00-A00/00-00-A00-004",
+        "start": 3183
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Макото",
+        "start": 4050,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice02/02-2K/02-2K-M00/02-2K-M00-0050",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 4050
+    },
+    {
+        "action": "PlaySe",
+        "end": 7000,
+        "file": "Voice02/02-2K/02-2K-M00/02-2K-M00-0060",
+        "layer": 2,
+        "start": 4250
+    },
+    {
+        "action": "PlaySe",
+        "end": 17000,
+        "file": "Se01/01-00/01-00-M03/SE01-00-M03-002",
+        "layer": 2,
+        "start": 8283
+    },
+    {
+        "action": "PlaySe",
+        "end": 22000,
+        "file": "SysSe/SE_all/station_train/station",
+        "layer": 3,
+        "start": 8283
+    },
+    {
+        "action": "PlayMovie",
+        "end": 17000,
+        "file": "Movie02/02-2K/02-2K-M00/02-2K-M00-003",
+        "start": 8283
+    },
+    {
+        "action": "PlayMovie",
+        "end": 20000,
+        "file": "Movie00/00-00/00-00-A00/00-00-A00-007",
+        "start": 17083
+    },
+    {
+        "action": "PlaySe",
+        "end": 20000,
+        "file": "SysSe/SE_all/footsteps/asioto_okugai",
+        "layer": 4,
+        "start": 17133
+    },
+    {
+        "action": "CreateBG",
+        "end": 22000,
+        "file": "Event02/02-2K/02-2K-M00/02-2K-M00-005",
+        "start": 20250
+    },
+    {
+        "action": "PrintText",
+        "end": 22000,
+        "persona": "Макото",
+        "start": 21050,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 22000,
+        "file": "Voice02/02-2K/02-2K-M00/02-2K-M00-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 21050
+    }
+]

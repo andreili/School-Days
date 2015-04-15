@@ -1,0 +1,180 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 50000,
+        "file": "BGM/SD_BGM/sdbgm29",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 50000,
+        "file": "Se03/03-SA/03-SA-J04/SE03-SA-J04-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event03/03-SA/03-SA-J04/03-SA-J04-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Я люблю Сэкаи!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-SA/03-SA-J04/03-SA-J04-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Котоноха",
+        "start": 1216,
+        "text": "Неправда!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice03/03-SA/03-SA-J04/03-SA-J04-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 1216
+    },
+    {
+        "action": "CreateBG",
+        "end": 20000,
+        "file": "Event03/03-SA/03-SA-J04/03-SA-J04-002",
+        "start": 3100
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Макото",
+        "start": 3100,
+        "text": "Нет, это так...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice03/03-SA/03-SA-J04/03-SA-J04-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 3100
+    },
+    {
+        "action": "PrintText",
+        "end": 20000,
+        "persona": "Котоноха",
+        "start": 4350,
+        "text": "Мне было страшно, и я тебя избегала, но теперь всё будет по-другому!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 20000,
+        "file": "Voice03/03-SA/03-SA-J04/03-SA-J04-0060",
+        "layer": 0,
+        "persona": "kot",
+        "start": 4350
+    },
+    {
+        "action": "CreateBG",
+        "end": 34000,
+        "file": "Event03/03-SA/03-SA-J04/03-SA-J04-003",
+        "start": 20216
+    },
+    {
+        "action": "PrintText",
+        "end": 33000,
+        "persona": "Котоноха",
+        "start": 20216,
+        "text": "Это ведь неправда! Ты по-настоящему...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 33000,
+        "file": "Voice03/03-SA/03-SA-J04/03-SA-J04-0080",
+        "layer": 0,
+        "persona": "kot",
+        "start": 20216
+    },
+    {
+        "action": "PrintText",
+        "end": 34000,
+        "persona": "Макото",
+        "start": 33116,
+        "text": "Котоноха...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 34000,
+        "file": "Voice03/03-SA/03-SA-J04/03-SA-J04-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 33116
+    },
+    {
+        "action": "PrintText",
+        "end": 39000,
+        "persona": "Котоноха",
+        "start": 34283,
+        "text": "Пожалуйста... Не бросай меня! Я буду хорошей!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 39000,
+        "file": "Voice03/03-SA/03-SA-J04/03-SA-J04-0100",
+        "layer": 0,
+        "persona": "kot",
+        "start": 34283
+    },
+    {
+        "action": "CreateBG",
+        "end": 40000,
+        "file": "Event03/03-SA/03-SA-J04/03-SA-J04-004",
+        "start": 34300
+    },
+    {
+        "action": "PrintText",
+        "end": 40000,
+        "persona": "Макото",
+        "start": 39266,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 40000,
+        "file": "Voice03/03-SA/03-SA-J04/03-SA-J04-0110",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 39266
+    },
+    {
+        "action": "PrintText",
+        "end": 46000,
+        "persona": "Котоноха",
+        "start": 40300,
+        "text": "Прошу... тебя...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 46000,
+        "file": "Voice03/03-SA/03-SA-J04/03-SA-J04-0120",
+        "layer": 0,
+        "persona": "kot",
+        "start": 40300
+    },
+    {
+        "action": "PlayMovie",
+        "end": 50000,
+        "file": "Movie03/03-SA/03-SA-J04/03-SA-J04-005",
+        "start": 40316
+    }
+]

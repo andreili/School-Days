@@ -1,0 +1,78 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 8000,
+        "file": "BGM/SD_BGM/sdbgm07",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event01/01-1K/01-1K-C01/01-1K-C01-002",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "«Любовный треугольник»...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice01/01-1K/01-1K-C02/01-1K-C02-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 7000,
+        "file": "Movie01/01-1K/01-1K-C01/LOV6SEK",
+        "start": 2000
+    },
+    {
+        "action": "PlaySe",
+        "end": 7000,
+        "file": "Se01/01-1K/01-1K-C00/6SEK",
+        "layer": 1,
+        "start": 2000
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Макото",
+        "start": 2100,
+        "text": "Похоже, фильм про любовь, а у нас как раз свидание.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice01/01-1K/01-1K-C02/01-1K-C02-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2100
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 5266,
+        "text": "Решено, пойдём на него.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice01/01-1K/01-1K-C02/01-1K-C02-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 5266
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 8000,
+        "start": 7216
+    }
+]

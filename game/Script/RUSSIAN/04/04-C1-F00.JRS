@@ -1,0 +1,120 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 15000,
+        "file": "BGM/SD_BGM/sdbgm06",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 15000,
+        "file": "Se04/04-C1/04-C1-F00/SE04-C1-F00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event04/04-C1/04-C1-F00/04-C1-F00-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event04/04-C1/04-C1-F00/04-C1-F00-002",
+        "start": 3000
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Сэкаи",
+        "start": 3000,
+        "text": "Нанами, Хикари!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice04/04-C1/04-C1-F00/04-C1-F00-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 3000
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event04/04-C1/04-C1-F00/04-C1-F00-003",
+        "start": 5066
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Хикари",
+        "start": 5066,
+        "text": "Что такое?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice04/04-C1/04-C1-F00/04-C1-F00-0050",
+        "layer": 0,
+        "persona": "hik",
+        "start": 5066
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Сэкаи",
+        "start": 6083,
+        "text": "Знаете... Просто...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice04/04-C1/04-C1-F00/04-C1-F00-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 6083
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Хикари",
+        "start": 10050,
+        "text": "Что?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice04/04-C1/04-C1-F00/04-C1-F00-0070",
+        "layer": 0,
+        "persona": "hik",
+        "start": 10050
+    },
+    {
+        "action": "CreateBG",
+        "end": 15000,
+        "file": "Event04/04-C1/04-C1-F00/04-C1-F00-004",
+        "start": 11216
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Сэкаи",
+        "start": 11250,
+        "text": "Просьба к вам есть...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice04/04-C1/04-C1-F00/04-C1-F00-0080",
+        "layer": 0,
+        "persona": "sek",
+        "start": 11250
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 15000,
+        "start": 14033
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 18000,
+        "file": "BGM/SD_BGM/sdbgm29",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 18000,
+        "file": "SysSe/SE_all/gaya/beach1",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event05/05-KF/05-KF-H03/05-KF-H03-002",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Но... Она была против... И я сказал, что в любом случае, всё кончено.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice05/05-KF/05-KF-H04/05-KF-H04-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 18000,
+        "file": "Event05/05-KF/05-KF-H04/05-KF-H04-002",
+        "start": 7266
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Сэкаи",
+        "start": 7266,
+        "text": "Да... Похоже на неё...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice05/05-KF/05-KF-H04/05-KF-H04-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 7266
+    },
+    {
+        "action": "PrintText",
+        "end": 15000,
+        "persona": "Макото",
+        "start": 10066,
+        "text": "Но к согласию мы ещё не пришли.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 15000,
+        "file": "Voice05/05-KF/05-KF-H04/05-KF-H04-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 10066
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Сэкаи",
+        "start": 15283,
+        "text": "Ясно...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice05/05-KF/05-KF-H04/05-KF-H04-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 15283
+    }
+]

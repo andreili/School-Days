@@ -1,0 +1,99 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 18000,
+        "file": "BGM/SD_BGM/sdbgm01",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event03/03-SA/03-SA-B00/03-SA-B00-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 4000,
+        "file": "Event03/03-SA/03-SA-B00/03-SA-B00-002",
+        "start": 2000
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event03/03-SA/03-SA-B00/03-SA-B00-003",
+        "start": 4066
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Сэкаи",
+        "start": 5233,
+        "text": "Эй! Макото!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice03/03-SA/03-SA-B00/03-SA-B00-0050",
+        "layer": 0,
+        "persona": "sek",
+        "start": 5233
+    },
+    {
+        "action": "CreateBG",
+        "end": 18000,
+        "file": "Event03/03-SA/03-SA-B00/03-SA-B00-004",
+        "start": 7016
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 7016,
+        "text": "Ух ты!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice03/03-SA/03-SA-B00/03-SA-B00-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 7016
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Сэкаи",
+        "start": 7300,
+        "text": "Ну и как я тебе?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice03/03-SA/03-SA-B00/03-SA-B00-0080",
+        "layer": 0,
+        "persona": "sek",
+        "start": 7300
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Макото",
+        "start": 9383,
+        "text": "Ну...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice03/03-SA/03-SA-B00/03-SA-B00-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 9383
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Просто принцесса!^",
+        "answer2": "Ну так ничего.^",
+        "end": 17000,
+        "start": 12266
+    }
+]

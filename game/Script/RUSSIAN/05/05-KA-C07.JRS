@@ -1,0 +1,64 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 8000,
+        "file": "BGM/SD_BGM/sdbgm19",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 8000,
+        "file": "SysSe/SE_all/gaya/okujou_yuugata",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event05/05-KA/05-KA-C07/05-KA-C07-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 0,
+        "persona": "Макото",
+        "start": 116,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 0,
+        "file": "Voice05/05-KA/05-KA-C07/05-KA-C07-0030",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 116
+    },
+    {
+        "action": "CreateBG",
+        "end": 8000,
+        "file": "Event05/05-KA/05-KA-C07/05-KA-C07-002",
+        "start": 1000
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Сэцуна",
+        "start": 1066,
+        "text": "Так как?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice05/05-KA/05-KA-C07/05-KA-C07-0040",
+        "layer": 0,
+        "persona": "set",
+        "start": 1066
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Люблю.",
+        "answer2": "Не люблю.",
+        "end": 7000,
+        "start": 2166
+    }
+]

@@ -1,0 +1,171 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 14000,
+        "file": "BGM/SD_BGM/sdbgm06",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 14000,
+        "file": "Se03/03-KA/03-KA-G10/SE03-KA-G10-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event03/03-KA/03-KA-G10/03-KA-G10-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-KA/03-KA-G10/03-KA-G10-0030",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event03/03-KA/03-KA-G10/03-KA-G10-002",
+        "start": 1350
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Сэцуна",
+        "start": 2066,
+        "text": "Я так и думала.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice03/03-KA/03-KA-G10/03-KA-G10-0040",
+        "layer": 0,
+        "persona": "set",
+        "start": 2066
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event03/03-KA/03-KA-G10/03-KA-G10-003",
+        "start": 3083
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Макото",
+        "start": 3083,
+        "text": "Послушай...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice03/03-KA/03-KA-G10/03-KA-G10-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 3083
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Сэцуна",
+        "start": 4116,
+        "text": "Что у вас там с Кацурой?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice03/03-KA/03-KA-G10/03-KA-G10-0060",
+        "layer": 0,
+        "persona": "set",
+        "start": 4116
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 5166,
+        "text": "Сегодня я тоже в классе с тобой пообедаю.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice03/03-KA/03-KA-G10/03-KA-G10-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 5166
+    },
+    {
+        "action": "CreateBG",
+        "end": 8000,
+        "file": "Event03/03-KA/03-KA-G10/03-KA-G10-004",
+        "start": 7316
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Сэцуна",
+        "start": 8083,
+        "text": "Э?!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice03/03-KA/03-KA-G10/03-KA-G10-0080",
+        "layer": 0,
+        "persona": "set",
+        "start": 8083
+    },
+    {
+        "action": "CreateBG",
+        "end": 14000,
+        "file": "Event03/03-KA/03-KA-G09/03-KA-G09-005A",
+        "start": 8383
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Макото",
+        "start": 8383,
+        "text": "Ты ведь не против?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice03/03-KA/03-KA-G10/03-KA-G10-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 8383
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Сэцуна",
+        "start": 12050,
+        "text": "Угу...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice03/03-KA/03-KA-G10/03-KA-G10-0100",
+        "layer": 0,
+        "persona": "set",
+        "start": 12050
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 14000,
+        "start": 13050
+    }
+]

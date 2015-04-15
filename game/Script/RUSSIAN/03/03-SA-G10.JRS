@@ -1,0 +1,105 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 21000,
+        "file": "Se03/03-SA/03-SA-G10/SE03-SA-G10-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 21000,
+        "file": "Event03/03-SA/03-SA-G08/03-SA-G08-003",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Давай-ка забьём на всю эту готовку?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-SA/03-SA-G10/03-SA-G10-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Сэкаи",
+        "start": 1116,
+        "text": "Мы не должны... Ааах!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice03/03-SA/03-SA-G10/03-SA-G10-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 1116
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Макото",
+        "start": 5300,
+        "text": "А твоё тело считает иначе!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice03/03-SA/03-SA-G10/03-SA-G10-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 5300
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Сэкаи",
+        "start": 9183,
+        "text": "Ну потому, что ты знаешь все мои места...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice03/03-SA/03-SA-G10/03-SA-G10-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 9183
+    },
+    {
+        "action": "PrintText",
+        "end": 18000,
+        "persona": "Макото",
+        "start": 16116,
+        "text": "Да, я знаю. Сейчас тебе будет ещё лучше.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 18000,
+        "file": "Voice03/03-SA/03-SA-G10/03-SA-G10-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 16116
+    },
+    {
+        "action": "PrintText",
+        "end": 21000,
+        "persona": "Сэкаи",
+        "start": 18066,
+        "text": "....!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 21000,
+        "file": "Voice03/03-SA/03-SA-G10/03-SA-G10-0080",
+        "layer": 0,
+        "persona": "sek",
+        "start": 18066
+    }
+]

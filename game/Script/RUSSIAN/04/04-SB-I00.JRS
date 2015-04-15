@@ -1,0 +1,195 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 29000,
+        "file": "BGM/SD_BGM/sdbgm26",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 7000,
+        "file": "SysSe/SE_all/h/h_02",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 29000,
+        "file": "SysSe/SE_all/h/h_03",
+        "layer": 2,
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 29000,
+        "file": "SysSe/SE_all/h/h_05",
+        "layer": 3,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event04/04-SB/04-SB-I00/04-SB-I00-001",
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 10000,
+        "file": "Movie04/04-SB/04-SB-G05/04-SB-G05-016",
+        "start": 3000
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Котоноха",
+        "start": 3000,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice04/04-SB/04-SB-I00/04-SB-I00-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 3000
+    },
+    {
+        "action": "MoveSom",
+        "end": 10000,
+        "start": 3000
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Таисукэ",
+        "start": 8266,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice04/04-SB/04-SB-I00/04-SB-I00-0050",
+        "layer": 1,
+        "persona": "tai",
+        "start": 8266
+    },
+    {
+        "action": "PlaySe",
+        "end": 17000,
+        "file": "SysSe/SE_all/h/h_02",
+        "layer": 1,
+        "start": 10000
+    },
+    {
+        "action": "CreateBG",
+        "end": 15000,
+        "file": "Event04/04-SB/04-SB-I00/04-SB-I00-001",
+        "start": 10166
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Хикари",
+        "start": 11033,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice04/04-SB/04-SB-I00/04-SB-I00-0080",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 11033
+    },
+    {
+        "action": "PrintText",
+        "end": 15000,
+        "persona": "Макото",
+        "start": 12366,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 15000,
+        "file": "Voice04/04-SB/04-SB-I00/04-SB-I00-0090",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 12366
+    },
+    {
+        "action": "PlayMovie",
+        "end": 22000,
+        "file": "Movie04/04-SB/04-SB-I00/04-SB-I00-004",
+        "start": 15266
+    },
+    {
+        "action": "PrintText",
+        "end": 20000,
+        "persona": "Котоноха",
+        "start": 15266,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 20000,
+        "file": "Voice04/04-SB/04-SB-I00/04-SB-I00-0100",
+        "layer": 0,
+        "persona": "kot",
+        "start": 15266
+    },
+    {
+        "action": "MoveSom",
+        "end": 22000,
+        "start": 15266
+    },
+    {
+        "action": "PrintText",
+        "end": 22000,
+        "persona": "Таисукэ",
+        "start": 19383,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 22000,
+        "file": "Voice04/04-SB/04-SB-I00/04-SB-I00-0110",
+        "layer": 1,
+        "persona": "tai",
+        "start": 19383
+    },
+    {
+        "action": "PlaySe",
+        "end": 29000,
+        "file": "SysSe/SE_all/h/h_01",
+        "layer": 1,
+        "start": 20016
+    },
+    {
+        "action": "CreateBG",
+        "end": 29000,
+        "file": "Event04/04-SB/04-SB-I00/04-SB-I00-001",
+        "start": 22300
+    },
+    {
+        "action": "PrintText",
+        "end": 23000,
+        "persona": "Макото",
+        "start": 22300,
+        "text": "Как-то...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 23000,
+        "file": "Voice04/04-SB/04-SB-I00/04-SB-I00-0120",
+        "layer": 1,
+        "persona": "mak",
+        "start": 22300
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Смотреть тошно.",
+        "answer2": "Это так пошло.",
+        "end": 28000,
+        "start": 23216
+    }
+]

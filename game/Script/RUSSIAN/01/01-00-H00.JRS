@@ -1,0 +1,106 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 16000,
+        "file": "BGM/SD_BGM/sdbgm06",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 16000,
+        "file": "Se01/01-00/01-00-E00/SE01-00-E00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event01/01-00/01-00-H00/01-00-H00-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 100,
+        "text": "Что?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice01/01-00/01-00-H00/01-00-H00-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 100
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event01/01-00/01-00-H00/01-00-H00-002",
+        "start": 1016
+    },
+    {
+        "action": "CreateBG",
+        "end": 8000,
+        "file": "Event01/01-00/01-00-E00/01-00-E00-006",
+        "start": 2083
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Сэкаи",
+        "start": 2116,
+        "text": "Ничего, просто интересно, всё ли у вас хорошо.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice01/01-00/01-00-H00/01-00-H00-0050",
+        "layer": 0,
+        "persona": "sek",
+        "start": 2116
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Макото",
+        "start": 7150,
+        "text": "Хорошо...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice01/01-00/01-00-H00/01-00-H00-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 7150
+    },
+    {
+        "action": "CreateBG",
+        "end": 16000,
+        "file": "Event01/01-00/01-00-H00/01-00-H00-004",
+        "start": 8316
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Макото",
+        "start": 9116,
+        "text": "Ну, знаешь...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice01/01-00/01-00-H00/01-00-H00-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 9116
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": " Всё отлично!^",
+        "answer2": "Да так себе...^",
+        "end": 15000,
+        "start": 10233
+    }
+]

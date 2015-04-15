@@ -1,0 +1,66 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 5000,
+        "file": "SysSe/SE_all/station_train/train_in",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 5000,
+        "file": "Movie05/05-5O/05-5O-J04/05-5O-J04-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Отомэ",
+        "start": 150,
+        "text": "Ничего...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice05/05-5O/05-5O-J04/05-5O-J04-0030",
+        "layer": 0,
+        "persona": "oto",
+        "start": 150
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 1366,
+        "text": "Ясно...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice05/05-5O/05-5O-J04/05-5O-J04-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 1366
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Отомэ",
+        "start": 3050,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice05/05-5O/05-5O-J04/05-5O-J04-0050",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 3050
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 5000,
+        "start": 4100
+    }
+]

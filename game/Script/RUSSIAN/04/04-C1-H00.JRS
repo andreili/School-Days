@@ -1,0 +1,167 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 36000,
+        "file": "BGM/SD_BGM/sdbgm20",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 8000,
+        "file": "Se04/04-C1/04-C1-H00/SE04-C1-H00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 2000,
+        "file": "Movie04/04-C1/04-C1-H00/04-C1-H00-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event04/04-C1/04-C1-H00/04-C1-H00-002",
+        "start": 2200
+    },
+    {
+        "action": "PlayMovie",
+        "end": 8000,
+        "file": "Movie04/04-C1/04-C1-H00/04-C1-H00-003",
+        "start": 5016
+    },
+    {
+        "action": "PlaySe",
+        "end": 15000,
+        "file": "Se04/04-C1/04-C1-H00/SE04-C1-H00-002",
+        "layer": 2,
+        "start": 8000
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event04/04-C1/04-C1-H00/04-C1-H00-005",
+        "start": 8000
+    },
+    {
+        "action": "CreateBG",
+        "end": 25000,
+        "file": "Event04/04-C1/04-C1-H00/04-C1-H00-006",
+        "start": 11000
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Хикари",
+        "start": 11000,
+        "text": "Эх, хоть и Сэкаи попросила... Но Ито оберегать - тоска зелёная...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice04/04-C1/04-C1-H00/04-C1-H00-0080",
+        "layer": 0,
+        "persona": "hik",
+        "start": 11000
+    },
+    {
+        "action": "PlaySe",
+        "end": 17000,
+        "file": "SysSe/SE_all/station_train/train_door_open",
+        "layer": 3,
+        "start": 15333
+    },
+    {
+        "action": "PrintText",
+        "end": 20000,
+        "persona": "Хикари",
+        "start": 16066,
+        "text": "На деле-то, даже по её просьбе, не хочу иметь с ним ничего общего...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 20000,
+        "file": "Voice04/04-C1/04-C1-H00/04-C1-H00-0081",
+        "layer": 0,
+        "persona": "hik",
+        "start": 16066
+    },
+    {
+        "action": "PlaySe",
+        "end": 26000,
+        "file": "SysSe/SE_all/station_train/start_bell",
+        "layer": 2,
+        "start": 17300
+    },
+    {
+        "action": "PrintText",
+        "end": 25000,
+        "persona": "Хикари",
+        "start": 20350,
+        "text": "Кстати, Нанами, ты в курсе?.. На следующей станции есть...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 25000,
+        "file": "Voice04/04-C1/04-C1-H00/04-C1-H00-0082",
+        "layer": 0,
+        "persona": "hik",
+        "start": 20350
+    },
+    {
+        "action": "PlaySe",
+        "end": 28000,
+        "file": "SysSe/SE_all/station_train/train_door_close",
+        "layer": 3,
+        "start": 24016
+    },
+    {
+        "action": "CreateBG",
+        "end": 34000,
+        "file": "Event04/04-C1/04-C1-H00/04-C1-H00-007",
+        "start": 25316
+    },
+    {
+        "action": "PlaySe",
+        "end": 36000,
+        "file": "SysSe/SE_all/station_train/train_start",
+        "layer": 2,
+        "start": 28200
+    },
+    {
+        "action": "PrintText",
+        "end": 33000,
+        "persona": "Котоноха",
+        "start": 33033,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 33000,
+        "file": "Voice04/04-C1/04-C1-H00/04-C1-H00-0120",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 33033
+    },
+    {
+        "action": "CreateBG",
+        "end": 36000,
+        "file": "Event04/04-C1/04-C1-H00/04-C1-H00-008",
+        "start": 34250
+    },
+    {
+        "action": "PrintText",
+        "end": 36000,
+        "persona": "Котоноха",
+        "start": 34316,
+        "text": "Макото...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 36000,
+        "file": "Voice04/04-C1/04-C1-H00/04-C1-H00-0140",
+        "layer": 0,
+        "persona": "kot",
+        "start": 34316
+    }
+]

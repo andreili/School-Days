@@ -1,0 +1,75 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 10000,
+        "file": "Se03/03-SA/03-SA-G09/SE03-SA-G09-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event03/03-SA/03-SA-G08/03-SA-G08-003",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Тебе очень идёт!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice03/03-SA/03-SA-G09/03-SA-G09-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Сэкаи",
+        "start": 2066,
+        "text": "Мне приятно, но не надо... Не здесь... Ах...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice03/03-SA/03-SA-G09/03-SA-G09-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 2066
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Макото",
+        "start": 7283,
+        "text": "Да ладно тебе!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice03/03-SA/03-SA-G09/03-SA-G09-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 7283
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Сэкаи",
+        "start": 9050,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice03/03-SA/03-SA-G09/03-SA-G09-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 9050
+    }
+]

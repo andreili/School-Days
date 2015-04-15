@@ -1,0 +1,118 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 15000,
+        "file": "BGM/SD_BGM/sdbgm03",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 15000,
+        "file": "Se01/01-00/01-00-E00/SE01-00-E00-001",
+        "layer": 2,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event01/01-00/01-00-E00/01-00-E00-006",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Котоноха",
+        "start": 0,
+        "text": "Да...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice02/02-2S/02-2S-H07/02-2S-H07-0030",
+        "layer": 0,
+        "persona": "kot",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event02/02-2S/02-2S-H07/02-2S-H07-002",
+        "start": 1350
+    },
+    {
+        "action": "PlaySe",
+        "end": 7000,
+        "file": "Voice02/02-2S/02-2S-H07/02-2S-H07-0090",
+        "layer": 1,
+        "start": 3150
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event02/02-2S/02-2S-H07/02-2S-H07-003",
+        "start": 5000
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Сэкаи",
+        "start": 5000,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice02/02-2S/02-2S-H07/02-2S-H07-0050",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 5000
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event02/02-2S/02-2S-H07/02-2S-H07-004",
+        "start": 7133
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Макото",
+        "start": 7133,
+        "text": "Согревает.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice02/02-2S/02-2S-H07/02-2S-H07-0100",
+        "layer": 1,
+        "persona": "mak",
+        "start": 7133
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Котоноха",
+        "start": 8233,
+        "text": "Ага... Он горячий.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice02/02-2S/02-2S-H07/02-2S-H07-0110",
+        "layer": 0,
+        "persona": "kot",
+        "start": 8233
+    },
+    {
+        "action": "CreateBG",
+        "end": 15000,
+        "file": "Event02/02-2S/02-2S-H07/02-2S-H07-005",
+        "start": 10300
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 15000,
+        "start": 14250
+    }
+]

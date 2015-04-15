@@ -1,0 +1,111 @@
+[
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event03/03-SA/03-SA-B09/03-SA-B09-001",
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 6000,
+        "file": "Movie03/03-SA/03-SA-B09/03-SA-B09-002",
+        "start": 1300
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 1300,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice03/03-SA/03-SA-B09/03-SA-B09-0050",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 1300
+    },
+    {
+        "action": "EndBGM",
+        "end": 150000,
+        "file": "BGM/Vocal/SDV14",
+        "start": 4000
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Котоноха",
+        "start": 5033,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice03/03-SA/03-SA-B09/03-SA-B09-0060",
+        "layer": 0,
+        "persona": "kot",
+        "start": 5033
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event03/03-SA/03-SA-B09/03-SA-B09-003",
+        "start": 6333
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Макото",
+        "start": 6333,
+        "text": "Котоноха. Я думаю, я...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice03/03-SA/03-SA-B09/03-SA-B09-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 6333
+    },
+    {
+        "action": "PlayMovie",
+        "end": 17000,
+        "file": "Movie03/03-SA/03-SA-B09/03-SA-B09-004",
+        "start": 9350
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Котоноха",
+        "start": 12150,
+        "text": "Макото, я люблю тебя!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice03/03-SA/03-SA-B09/03-SA-B09-0090",
+        "layer": 0,
+        "persona": "kot",
+        "start": 12150
+    },
+    {
+        "action": "PlaySe",
+        "end": 19000,
+        "file": "Voice03/03-SA/03-SA-B09/03-SA-B09-0100",
+        "layer": 1,
+        "start": 17250
+    },
+    {
+        "action": "PlayMovie",
+        "end": 26000,
+        "file": "Movie03/03-SA/03-SA-B09/03-SA-B09-005",
+        "start": 17266
+    },
+    {
+        "action": "EndRoll",
+        "end": 150000,
+        "file": "Movie03/ENDROLL/04-10",
+        "start": 26066
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 3000,
+        "file": "SysSe/SE_all/gaya/kyousitu_rouka",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event04/04-SA/04-SA-E09/04-SA-E09-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 133,
+        "text": "Уверен.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice04/04-SA/04-SA-E09/04-SA-E09-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 133
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Сэкаи",
+        "start": 1050,
+        "text": "Ну тогда слушай...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice04/04-SA/04-SA-E09/04-SA-E09-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 1050
+    }
+]

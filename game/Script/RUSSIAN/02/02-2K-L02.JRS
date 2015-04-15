@@ -1,0 +1,92 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 21000,
+        "file": "BGM/SD_BGM/sdbgm20",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event02/02-2K/02-2K-L02/02-2K-L02-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 17000,
+        "file": "Event02/02-2K/02-2K-L02/02-2K-L02-002",
+        "start": 2000
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Котоноха",
+        "start": 2000,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice02/02-2K/02-2K-L02/02-2K-L02-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 2000
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Котоноха",
+        "start": 3283,
+        "text": "Опять я Макото расстроила...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice02/02-2K/02-2K-L02/02-2K-L02-0060",
+        "layer": 0,
+        "persona": "kot",
+        "start": 3283
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Котоноха",
+        "start": 10016,
+        "text": "Мне не нравится, когда он меня трогает, но, наверное, мне нужно ему позволить...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice02/02-2K/02-2K-L02/02-2K-L02-0070",
+        "layer": 0,
+        "persona": "kot",
+        "start": 10016
+    },
+    {
+        "action": "CreateBG",
+        "end": 21000,
+        "file": "Event02/02-2K/02-2K-L00/02-2K-L00-002",
+        "start": 17150
+    },
+    {
+        "action": "PrintText",
+        "end": 19000,
+        "persona": "Котоноха",
+        "start": 17233,
+        "text": "И всё-таки это так трудно...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 19000,
+        "file": "Voice02/02-2K/02-2K-L02/02-2K-L02-0080",
+        "layer": 0,
+        "persona": "kot",
+        "start": 17233
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 21000,
+        "start": 20066
+    }
+]

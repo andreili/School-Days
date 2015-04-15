@@ -1,0 +1,129 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 15000,
+        "file": "BGM/SD_BGM/sdbgm07",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 15000,
+        "file": "Se03/03-KA/03-KA-H01/SE03-KA-H01-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 8000,
+        "file": "Event03/03-KA/03-KA-H01/03-KA-H01-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Я хотел проводить больше времени с тобой.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice03/03-KA/03-KA-H01/03-KA-H01-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Котоноха",
+        "start": 3016,
+        "text": "А...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice03/03-KA/03-KA-H01/03-KA-H01-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 3016
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Макото",
+        "start": 4066,
+        "text": "И если я буду в школьном комитете, то мы будем вместе и на собраниях. Верно?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice03/03-KA/03-KA-H01/03-KA-H01-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 4066
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event03/03-KA/03-KA-H01/03-KA-H01-002",
+        "start": 8283
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Котоноха",
+        "start": 8283,
+        "text": "Да...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice03/03-KA/03-KA-H01/03-KA-H01-0060",
+        "layer": 0,
+        "persona": "kot",
+        "start": 8283
+    },
+    {
+        "action": "CreateBG",
+        "end": 13000,
+        "file": "Event03/03-KA/03-KA-H01/03-KA-H01-003",
+        "start": 10083
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Макото",
+        "start": 10083,
+        "text": "Это только до начала школьного фестиваля, но будет здорово работать вместе.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice03/03-KA/03-KA-H01/03-KA-H01-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 10083
+    },
+    {
+        "action": "CreateBG",
+        "end": 15000,
+        "file": "Event03/03-KA/03-KA-H01/03-KA-H01-004",
+        "start": 13016
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Котоноха",
+        "start": 13016,
+        "text": "Да, тоже очень рада.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice03/03-KA/03-KA-H01/03-KA-H01-0080",
+        "layer": 0,
+        "persona": "kot",
+        "start": 13016
+    }
+]

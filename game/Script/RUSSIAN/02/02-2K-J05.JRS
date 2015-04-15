@@ -1,0 +1,76 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 18000,
+        "file": "BGM/SD_BGM/sdbgm20",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 18000,
+        "file": "Se01/01-1K/01-1K-F00/SE01-1K-F00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 3000,
+        "file": "Movie01/01-1K/01-1K-F00/01-1K-F00-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Если только совсем чуть-чуть...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice02/02-2K/02-2K-J05/02-2K-J05-0030",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 7000,
+        "file": "Movie02/02-2K/02-2K-J05/02-2K-J05-002",
+        "start": 3283
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Котоноха",
+        "start": 3283,
+        "text": "Ой!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice02/02-2K/02-2K-J05/02-2K-J05-0050",
+        "layer": 0,
+        "persona": "kot",
+        "start": 3283
+    },
+    {
+        "action": "PlayMovie",
+        "end": 10000,
+        "file": "Movie02/02-2K/02-2K-J05/02-2K-J05-003",
+        "start": 7150
+    },
+    {
+        "action": "CreateBG",
+        "end": 18000,
+        "file": "Event02/02-2K/02-2K-J05/02-2K-J05-004",
+        "start": 10166
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Ещё потискать.^",
+        "answer2": "Прекратить.^",
+        "end": 17000,
+        "start": 12100
+    }
+]

@@ -1,0 +1,111 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 8000,
+        "file": "BGM/SD_BGM/sdbgm01",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 8000,
+        "file": "Se03/03-SB/03-SB-C09/SE03-SB-C09-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 8000,
+        "file": "Movie03/03-SB/03-SB-C09/03-SB-C09-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Я не могу.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-SB/03-SB-C09/03-SB-C09-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Котоноха",
+        "start": 1000,
+        "text": "Что?!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice03/03-SB/03-SB-C09/03-SB-C09-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 1000
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Макото",
+        "start": 2083,
+        "text": "Я не умею.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice03/03-SB/03-SB-C09/03-SB-C09-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2083
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Котоноха",
+        "start": 4200,
+        "text": "Серьёзно?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice03/03-SB/03-SB-C09/03-SB-C09-0060",
+        "layer": 0,
+        "persona": "kot",
+        "start": 4200
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 6133,
+        "text": "Извини.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice03/03-SB/03-SB-C09/03-SB-C09-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 6133
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Котоноха",
+        "start": 7033,
+        "text": "Нет, ничего...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice03/03-SB/03-SB-C09/03-SB-C09-0080",
+        "layer": 0,
+        "persona": "kot",
+        "start": 7033
+    }
+]

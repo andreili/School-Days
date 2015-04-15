@@ -1,0 +1,381 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 51000,
+        "file": "BGM/SD_BGM/sdbgm01",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 51000,
+        "file": "Se03/03-A1/03-A1-B02/SE03-A1-B02-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 51000,
+        "file": "Se03/03-A1/03-A1-B02/SE03-A1-B02-002",
+        "layer": 2,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event03/03-A1/03-A1-B02/03-A1-B02-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Да не буду я тебя больше лапать!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-A1/03-A1-B02/03-A1-B02-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event03/03-A1/03-A1-B02/03-A1-B02-002",
+        "start": 1250
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Котоноха",
+        "start": 1250,
+        "text": "А... ты об этом? Да ничего, я даже внимания не обратила.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice03/03-A1/03-A1-B02/03-A1-B02-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 1250
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event03/03-A1/03-A1-B02/03-A1-B02-003",
+        "start": 10200
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Макото",
+        "start": 10200,
+        "text": "Ну конечно!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice03/03-A1/03-A1-B02/03-A1-B02-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 10200
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Котоноха",
+        "start": 11350,
+        "text": "Даже если и обратила... Мне не было неприятно.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice03/03-A1/03-A1-B02/03-A1-B02-0060",
+        "layer": 0,
+        "persona": "kot",
+        "start": 11350
+    },
+    {
+        "action": "CreateBG",
+        "end": 17000,
+        "file": "Event03/03-A1/03-A1-B02/03-A1-B02-004",
+        "start": 11366
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Макото",
+        "start": 16066,
+        "text": "Правда?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice03/03-A1/03-A1-B02/03-A1-B02-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 16066
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Котоноха",
+        "start": 17083,
+        "text": "Да!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice03/03-A1/03-A1-B02/03-A1-B02-0080",
+        "layer": 0,
+        "persona": "kot",
+        "start": 17083
+    },
+    {
+        "action": "CreateBG",
+        "end": 22000,
+        "file": "Event03/03-A1/03-A1-B02/03-A1-B02-005",
+        "start": 17366
+    },
+    {
+        "action": "PrintText",
+        "end": 20000,
+        "persona": "Макото",
+        "start": 17366,
+        "text": "Значит ты не против, если встану рядом.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 20000,
+        "file": "Voice03/03-A1/03-A1-B02/03-A1-B02-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 17366
+    },
+    {
+        "action": "PrintText",
+        "end": 21000,
+        "persona": "Котоноха",
+        "start": 20283,
+        "text": "Э?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 21000,
+        "file": "Voice03/03-A1/03-A1-B02/03-A1-B02-0100",
+        "layer": 0,
+        "persona": "kot",
+        "start": 20283
+    },
+    {
+        "action": "PrintText",
+        "end": 23000,
+        "persona": "Макото",
+        "start": 21183,
+        "text": "Вот так возьму тебя за руку...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 23000,
+        "file": "Voice03/03-A1/03-A1-B02/03-A1-B02-0120",
+        "layer": 1,
+        "persona": "mak",
+        "start": 21183
+    },
+    {
+        "action": "CreateBG",
+        "end": 24000,
+        "file": "Event03/03-A1/03-A1-B02/03-A1-B02-006",
+        "start": 22383
+    },
+    {
+        "action": "PrintText",
+        "end": 23000,
+        "persona": "Котоноха",
+        "start": 22383,
+        "text": "Нет!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 23000,
+        "file": "Voice03/03-A1/03-A1-B02/03-A1-B02-0150",
+        "layer": 0,
+        "persona": "kot",
+        "start": 22383
+    },
+    {
+        "action": "PlaySe",
+        "end": 24000,
+        "file": "Se03/03-A1/03-A1-B02/SE03-A1-B02-003",
+        "layer": 1,
+        "start": 23216
+    },
+    {
+        "action": "PrintText",
+        "end": 24000,
+        "persona": "Макото",
+        "start": 23266,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 24000,
+        "file": "Voice03/03-A1/03-A1-B02/03-A1-B02-0170",
+        "layer": 1,
+        "persona": "mak",
+        "start": 23266
+    },
+    {
+        "action": "PlayMovie",
+        "end": 26000,
+        "file": "Movie03/03-A1/03-A1-B02/03-A1-B02-007",
+        "start": 24116
+    },
+    {
+        "action": "CreateBG",
+        "end": 27000,
+        "file": "Event03/03-A1/03-A1-B02/03-A1-B02-008",
+        "start": 26150
+    },
+    {
+        "action": "PrintText",
+        "end": 27000,
+        "persona": "Котоноха",
+        "start": 26150,
+        "text": "А...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 27000,
+        "file": "Voice03/03-A1/03-A1-B02/03-A1-B02-0180",
+        "layer": 0,
+        "persona": "kot",
+        "start": 26150
+    },
+    {
+        "action": "CreateBG",
+        "end": 28000,
+        "file": "Event03/03-A1/03-A1-B02/03-A1-B02-009",
+        "start": 27183
+    },
+    {
+        "action": "PrintText",
+        "end": 28000,
+        "persona": "Макото",
+        "start": 27183,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 28000,
+        "file": "Voice03/03-A1/03-A1-B02/03-A1-B02-0200",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 27183
+    },
+    {
+        "action": "PlaySe",
+        "end": 29000,
+        "file": "Voice03/03-A1/03-A1-B02/03-A1-B02-0260A",
+        "layer": 1,
+        "start": 28300
+    },
+    {
+        "action": "CreateBG",
+        "end": 31000,
+        "file": "Event03/03-A1/03-A1-B02/03-A1-B02-010",
+        "start": 28300
+    },
+    {
+        "action": "CreateBG",
+        "end": 34000,
+        "file": "Event03/03-A1/03-A1-B02/03-A1-B02-011",
+        "start": 31100
+    },
+    {
+        "action": "PrintText",
+        "end": 33000,
+        "persona": "Котоноха",
+        "start": 31100,
+        "text": "Извини...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 33000,
+        "file": "Voice03/03-A1/03-A1-B02/03-A1-B02-0210",
+        "layer": 0,
+        "persona": "kot",
+        "start": 31100
+    },
+    {
+        "action": "PrintText",
+        "end": 34000,
+        "persona": "Макото",
+        "start": 33300,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 34000,
+        "file": "Voice03/03-A1/03-A1-B02/03-A1-B02-0220",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 33300
+    },
+    {
+        "action": "CreateBG",
+        "end": 42000,
+        "file": "Event03/03-A1/03-A1-B02/03-A1-B02-012",
+        "start": 34383
+    },
+    {
+        "action": "PrintText",
+        "end": 41000,
+        "persona": "Котоноха",
+        "start": 34383,
+        "text": "Макото, прости, пожалуйста! Я не хотела!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 41000,
+        "file": "Voice03/03-A1/03-A1-B02/03-A1-B02-0240",
+        "layer": 0,
+        "persona": "kot",
+        "start": 34383
+    },
+    {
+        "action": "PrintText",
+        "end": 42000,
+        "persona": "Макото",
+        "start": 41183,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 42000,
+        "file": "Voice03/03-A1/03-A1-B02/03-A1-B02-0260",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 41183
+    },
+    {
+        "action": "CreateBG",
+        "end": 45000,
+        "file": "Event03/03-A1/03-A1-B02/03-A1-B02-013",
+        "start": 42300
+    },
+    {
+        "action": "CreateBG",
+        "end": 51000,
+        "file": "Event03/03-A1/03-A1-B02/03-A1-B02-014",
+        "start": 45300
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 51000,
+        "start": 50100
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 10000,
+        "file": "SysSe/SE_all/gaya/kyousitu_rouka",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event04/04-SB/04-SB-G01/04-SB-G01-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 0,
+        "persona": "Макото",
+        "start": 0,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 0,
+        "file": "Voice04/04-SB/04-SB-G01/04-SB-G01-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 316,
+        "text": "Куда он делся-то?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice04/04-SB/04-SB-G01/04-SB-G01-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 316
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Макото",
+        "start": 2216,
+        "text": "Все двери напролёт открывать не вариант...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice04/04-SB/04-SB-G01/04-SB-G01-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2216
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Вернуться в класс.",
+        "answer2": "NULL",
+        "end": 9000,
+        "start": 4000
+    }
+]

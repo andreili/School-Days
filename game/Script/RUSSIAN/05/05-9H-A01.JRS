@@ -1,0 +1,78 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 19000,
+        "file": "BGM/SD_BGM/sdbgm17_semilong",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event05/05-9H/05-9H-A01/05-9H-A01-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Мать Макото",
+        "start": 0,
+        "text": "Заходи-заходи, Сэкаи! О, а это кто?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice05/05-9H/05-9H-A01/05-9H-A01-0020",
+        "layer": 0,
+        "persona": "mkm",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Сэкаи",
+        "start": 5083,
+        "text": "А... Да... Это Сэцуна, она моя подруга и...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice05/05-9H/05-9H-A01/05-9H-A01-0030",
+        "layer": 0,
+        "persona": "sek",
+        "start": 5083
+    },
+    {
+        "action": "PlayMovie",
+        "end": 15000,
+        "file": "Movie05/05-9H/05-9H-A01/05-9H-A01-002",
+        "start": 11050
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Сэцуна",
+        "start": 11083,
+        "text": "Ваша невестка.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice05/05-9H/05-9H-A01/05-9H-A01-0040",
+        "layer": 0,
+        "persona": "set",
+        "start": 11083
+    },
+    {
+        "action": "PlaySe",
+        "end": 19000,
+        "file": "Se05/05-9H/05-9H-A01/SE05-9H-A01-002",
+        "layer": 1,
+        "start": 15000
+    },
+    {
+        "action": "CreateBG",
+        "end": 19000,
+        "file": "System/Screen/Black",
+        "start": 15000
+    }
+]

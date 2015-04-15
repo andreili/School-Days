@@ -1,0 +1,51 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 5000,
+        "file": "SysSe/SE_all/station_train/train_in",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 3000,
+        "file": "Movie05/05-5O/05-5O-I00/05-5O-I00-001",
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 5000,
+        "file": "Movie05/05-5O/05-5O-I00/05-5O-I00-002",
+        "start": 3000
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Макото",
+        "start": 3083,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice05/05-5O/05-5O-I00/05-5O-I00-0040",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 3083
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Котоноха",
+        "start": 3333,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice05/05-5O/05-5O-I00/05-5O-I00-0050",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 3333
+    }
+]

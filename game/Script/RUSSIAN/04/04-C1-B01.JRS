@@ -1,0 +1,116 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 15000,
+        "file": "BGM/SD_BGM/sdbgm20",
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 16000,
+        "file": "Movie04/04-C1/04-C1-B01/04-C1-B01-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Прости...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice04/04-C1/04-C1-B01/04-C1-B01-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Сэкаи",
+        "start": 1016,
+        "text": "Ничего...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice04/04-C1/04-C1-B01/04-C1-B01-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 1016
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Макото",
+        "start": 2100,
+        "text": "Всё равно... Прости...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice04/04-C1/04-C1-B01/04-C1-B01-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2100
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Сэкаи",
+        "start": 5083,
+        "text": "Всё хорошо. Только не забывай... Я люблю тебя, Макото.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice04/04-C1/04-C1-B01/04-C1-B01-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 5083
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Макото",
+        "start": 13133,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice04/04-C1/04-C1-B01/04-C1-B01-0070",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 13133
+    },
+    {
+        "action": "PrintText",
+        "end": 15000,
+        "persona": "Сэкаи",
+        "start": 14200,
+        "text": "Очень сильно люблю.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 15000,
+        "file": "Voice04/04-C1/04-C1-B01/04-C1-B01-0080",
+        "layer": 0,
+        "persona": "sek",
+        "start": 14200
+    },
+    {
+        "action": "EndBGM",
+        "end": 142000,
+        "file": "BGM/Vocal/SDV11",
+        "start": 16000
+    },
+    {
+        "action": "EndRoll",
+        "end": 144000,
+        "file": "Movie04/ENDROLL/05-4",
+        "start": 16000
+    }
+]

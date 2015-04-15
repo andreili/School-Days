@@ -1,0 +1,74 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 10000,
+        "file": "BGM/SD_BGM/sdbgm19",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event05/05-SD/05-SD-D04/05-SD-D04-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Да...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice05/05-SD/05-SD-D04/05-SD-D04-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Сэкаи",
+        "start": 1016,
+        "text": "Слава богу...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice05/05-SD/05-SD-D04/05-SD-D04-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 1016
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 2250,
+        "text": "Ведь я тоже люблю тебя.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice05/05-SD/05-SD-D04/05-SD-D04-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2250
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Сэкаи",
+        "start": 7266,
+        "text": "Я так рада...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice05/05-SD/05-SD-D04/05-SD-D04-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 7266
+    }
+]

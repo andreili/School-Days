@@ -1,0 +1,122 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 1000,
+        "file": "Voice02/02-2S/02-2S-T03/02-2S-T03-0170",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 12000,
+        "file": "Se01/01-00/01-00-E00/SE01-00-E00-001",
+        "layer": 2,
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 4000,
+        "file": "SysSe/SE_all/gaya/okujou",
+        "layer": 3,
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 1000,
+        "file": "Movie02/02-2S/02-2S-T05/02-2S-T05-001",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 2000,
+        "file": "Se02/02-2S/02-2S-T00/SE02-2S-T00-002",
+        "layer": 3,
+        "start": 1216
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Котоноха",
+        "start": 1316,
+        "text": "Макото!!!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice02/02-2S/02-2S-T05/02-2S-T05-0030",
+        "layer": 0,
+        "persona": "kot",
+        "start": 1316
+    },
+    {
+        "action": "PlaySe",
+        "end": 4000,
+        "file": "Se02/02-2S/02-2S-T00/SE02-2S-T00-003",
+        "layer": 4,
+        "start": 1333
+    },
+    {
+        "action": "PlayMovie",
+        "end": 5000,
+        "file": "Movie02/02-2S/02-2S-T05/02-2S-T05-002",
+        "start": 1333
+    },
+    {
+        "action": "CreateBG",
+        "end": 6000,
+        "file": "Event02/02-2S/02-2S-T05/02-2S-T05-003",
+        "start": 5333
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Макото",
+        "start": 5333,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice02/02-2S/02-2S-T05/02-2S-T05-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 5333
+    },
+    {
+        "action": "EndBGM",
+        "end": 136000,
+        "file": "BGM/Vocal/SDV04",
+        "start": 6033
+    },
+    {
+        "action": "PlayMovie",
+        "end": 8000,
+        "file": "Movie02/02-2S/02-2S-T05/02-2S-T05-004",
+        "start": 6216
+    },
+    {
+        "action": "PlaySe",
+        "end": 12000,
+        "file": "SysSe/SE_all/keitai/mail_sekai",
+        "layer": 3,
+        "start": 8133
+    },
+    {
+        "action": "PlayMovie",
+        "end": 12000,
+        "file": "Movie02/02-2S/02-2S-T05/02-2S-T05-005",
+        "start": 8133
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 12000,
+        "start": 11033
+    },
+    {
+        "action": "EndRoll",
+        "end": 137000,
+        "file": "Movie02/ENDROLL/03-4",
+        "start": 12033
+    }
+]

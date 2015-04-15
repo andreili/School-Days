@@ -1,0 +1,229 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 42000,
+        "file": "BGM/SD_BGM/sdbgm01",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 42000,
+        "file": "SysSe/SE_all/station_train/train_in",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event05/05-KB/05-KB-F07/05-KB-F07-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "С Сэкаи по телефону болтал.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice05/05-KB/05-KB-F07/05-KB-F07-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Хикари",
+        "start": 2266,
+        "text": "Что?! Не прощу!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice05/05-KB/05-KB-F07/05-KB-F07-0040",
+        "layer": 0,
+        "persona": "hik",
+        "start": 2266
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event05/05-KB/05-KB-F07/05-KB-F07-002",
+        "start": 2300
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 4116,
+        "text": "Э?.. С чего вдруг?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice05/05-KB/05-KB-F07/05-KB-F07-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 4116
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Хикари",
+        "start": 7183,
+        "text": "Я ещё не дала добро на ваши отно!..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice05/05-KB/05-KB-F07/05-KB-F07-0060",
+        "layer": 0,
+        "persona": "hik",
+        "start": 7183
+    },
+    {
+        "action": "PlaySe",
+        "end": 10000,
+        "file": "Se05/05-KB/05-KB-F10/SE05-KB-F10-002",
+        "layer": 2,
+        "start": 10116
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "System/Screen/Black",
+        "start": 10116
+    },
+    {
+        "action": "CreateBG",
+        "end": 15000,
+        "file": "Event05/05-KB/05-KB-F07/05-KB-F07-004",
+        "start": 11200
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Нанами",
+        "start": 11200,
+        "text": "Н-н-ничего! Не обращай внимания!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice05/05-KB/05-KB-F07/05-KB-F07-0070",
+        "layer": 0,
+        "persona": "nan",
+        "start": 11200
+    },
+    {
+        "action": "PrintText",
+        "end": 21000,
+        "persona": "Макото",
+        "start": 14150,
+        "text": "Вау! Не каждый боксёр на такой удар способен!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 21000,
+        "file": "Voice05/05-KB/05-KB-F07/05-KB-F07-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 14150
+    },
+    {
+        "action": "CreateBG",
+        "end": 32000,
+        "file": "Event05/05-KB/05-KB-F07/05-KB-F07-004B",
+        "start": 15066
+    },
+    {
+        "action": "PrintText",
+        "end": 23000,
+        "persona": "Хикари",
+        "start": 21250,
+        "text": "Кхе-кхе...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 23000,
+        "file": "Voice05/05-KB/05-KB-F07/05-KB-F07-0090",
+        "layer": 0,
+        "persona": "hik",
+        "start": 21250
+    },
+    {
+        "action": "PrintText",
+        "end": 32000,
+        "persona": "Нанами",
+        "start": 24000,
+        "text": "Я-ясненько... С Сэкаи болтал значит... Просто не разлей вода...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 32000,
+        "file": "Voice05/05-KB/05-KB-F07/05-KB-F07-0100",
+        "layer": 0,
+        "persona": "nan",
+        "start": 24000
+    },
+    {
+        "action": "CreateBG",
+        "end": 42000,
+        "file": "Event05/05-KB/05-KB-F07/05-KB-F07-004C",
+        "start": 32183
+    },
+    {
+        "action": "PrintText",
+        "end": 36000,
+        "persona": "Хикари",
+        "start": 32183,
+        "text": "На-на-ми...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 36000,
+        "file": "Voice05/05-KB/05-KB-F07/05-KB-F07-0110",
+        "layer": 0,
+        "persona": "hik",
+        "start": 32183
+    },
+    {
+        "action": "PrintText",
+        "end": 39000,
+        "persona": "Макото",
+        "start": 36183,
+        "text": "А на Куроду совсем забила?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 39000,
+        "file": "Voice05/05-KB/05-KB-F07/05-KB-F07-0120",
+        "layer": 1,
+        "persona": "mak",
+        "start": 36183
+    },
+    {
+        "action": "PrintText",
+        "end": 40000,
+        "persona": "Нанами",
+        "start": 38133,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 40000,
+        "file": "Voice05/05-KB/05-KB-F07/05-KB-F07-0130",
+        "layer": 0,
+        "persona": "nan",
+        "start": 38133
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 42000,
+        "start": 42133
+    }
+]

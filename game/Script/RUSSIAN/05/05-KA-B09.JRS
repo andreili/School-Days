@@ -1,0 +1,190 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 23000,
+        "file": "SysSe/SE_all/gaya/kyousitu_rouka",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event05/05-KA/05-KA-B09/05-KA-B09-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 4000,
+        "file": "Event05/05-KA/05-KA-B09/05-KA-B09-002",
+        "start": 1150
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 1150,
+        "text": "Привет...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice05/05-KA/05-KA-B09/05-KA-B09-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 1150
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Нанами",
+        "start": 2233,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice05/05-KA/05-KA-B09/05-KA-B09-0040",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 2233
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Сэцуна",
+        "start": 3083,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice05/05-KA/05-KA-B09/05-KA-B09-0050",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 3083
+    },
+    {
+        "action": "CreateBG",
+        "end": 6000,
+        "file": "Event05/05-KA/05-KA-B09/05-KA-B09-003",
+        "start": 4166
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Макото",
+        "start": 4166,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice05/05-KA/05-KA-B09/05-KA-B09-0070",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 4166
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Макото",
+        "start": 5233,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice05/05-KA/05-KA-B09/05-KA-B09-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 5233
+    },
+    {
+        "action": "PlaySe",
+        "end": 23000,
+        "file": "SysSe/SE_all/school/chime",
+        "layer": 2,
+        "start": 6300
+    },
+    {
+        "action": "CreateBG",
+        "end": 13000,
+        "file": "Event05/05-KA/05-KA-B09/05-KA-B09-004",
+        "start": 6300
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 7000,
+        "start": 6300
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Макото",
+        "start": 11200,
+        "text": "Обед...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice05/05-KA/05-KA-B09/05-KA-B09-0120",
+        "layer": 1,
+        "persona": "mak",
+        "start": 11200
+    },
+    {
+        "action": "CreateBG",
+        "end": 17000,
+        "file": "Event05/05-KA/05-KA-B09/05-KA-B09-005",
+        "start": 13333
+    },
+    {
+        "action": "PrintText",
+        "end": 18000,
+        "persona": "Макото",
+        "start": 14083,
+        "text": "Блин... Если сейчас Котоноха придет...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 18000,
+        "file": "Voice05/05-KA/05-KA-B09/05-KA-B09-0130",
+        "layer": 1,
+        "persona": "mak",
+        "start": 14083
+    },
+    {
+        "action": "CreateBG",
+        "end": 20000,
+        "file": "Event05/05-KA/05-KA-B09/05-KA-B09-006",
+        "start": 17316
+    },
+    {
+        "action": "PrintText",
+        "end": 21000,
+        "persona": "Макото",
+        "start": 18350,
+        "text": "Лучше пойду я из класса...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 21000,
+        "file": "Voice05/05-KA/05-KA-B09/05-KA-B09-0150",
+        "layer": 1,
+        "persona": "mak",
+        "start": 18350
+    },
+    {
+        "action": "CreateBG",
+        "end": 23000,
+        "file": "Event05/05-KA/05-KA-B09/05-KA-B09-007",
+        "start": 20166
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 23000,
+        "start": 22100
+    }
+]

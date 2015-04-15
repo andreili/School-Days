@@ -1,0 +1,87 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 12000,
+        "file": "BGM/SD_BGM/sdbgm07",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 12000,
+        "file": "Se03/03-SA/03-SA-G07/SE03-SA-G07-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event03/03-SA/03-SA-G07/03-SA-G07-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Я так счастлив, что у меня есть такая замечательная девушка.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice03/03-SA/03-SA-G07/03-SA-G07-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Сэкаи",
+        "start": 5200,
+        "text": "Макото, я тоже очень счастлива, что у меня есть ты.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice03/03-SA/03-SA-G07/03-SA-G07-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 5200
+    },
+    {
+        "action": "CreateBG",
+        "end": 12000,
+        "file": "Event03/03-SA/03-SA-G07/03-SA-G07-002",
+        "start": 10133
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Макото",
+        "start": 10133,
+        "text": "Спасибо...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice03/03-SA/03-SA-G07/03-SA-G07-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 10133
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Сэкаи",
+        "start": 11116,
+        "text": "Хе-хе!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice03/03-SA/03-SA-G07/03-SA-G07-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 11116
+    }
+]

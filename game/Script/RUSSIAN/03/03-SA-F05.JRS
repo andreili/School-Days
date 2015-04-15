@@ -1,0 +1,81 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 5000,
+        "file": "Se03/03-SA/03-SA-F05/SE03-SA-F05-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event03/03-SA/03-SA-F05/03-SA-F05-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 83,
+        "text": "Подожди!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-SA/03-SA-F05/03-SA-F05-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 83
+    },
+    {
+        "action": "PlayMovie",
+        "end": 5000,
+        "file": "Movie03/03-SA/03-SA-F05/03-SA-F05-002",
+        "start": 1050
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Котоноха",
+        "start": 1050,
+        "text": "А...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice03/03-SA/03-SA-F05/03-SA-F05-0050",
+        "layer": 0,
+        "persona": "kot",
+        "start": 1050
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Отомэ",
+        "start": 2050,
+        "text": "Ито...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice03/03-SA/03-SA-F05/03-SA-F05-0060",
+        "layer": 0,
+        "persona": "oto",
+        "start": 2050
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Котоноха",
+        "start": 3100,
+        "text": "Макото...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice03/03-SA/03-SA-F05/03-SA-F05-0070",
+        "layer": 0,
+        "persona": "kot",
+        "start": 3100
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 16000,
+        "file": "BGM/SD_BGM/sdbgm07",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event01/01-1K/01-1K-C00/00-00-F00-010WIN",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Фильм ужасов... Точно!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice01/01-1K/01-1K-C07/01-1K-C07-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event01/01-1K/01-1K-C07/01-1K-C07-002",
+        "start": 1366
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 2116,
+        "text": "Может, ей страшно будет, она меня сама за руку возьмёт!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice01/01-1K/01-1K-C07/01-1K-C07-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2116
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Макото",
+        "start": 7366,
+        "text": "Отличная идея!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice01/01-1K/01-1K-C07/01-1K-C07-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 7366
+    },
+    {
+        "action": "PlayMovie",
+        "end": 15000,
+        "file": "Movie01/01-1K/01-1K-C01/DEAD6SEK",
+        "start": 7366
+    },
+    {
+        "action": "PlaySe",
+        "end": 13000,
+        "file": "Se01/01-1K/01-1K-C00/6SEK",
+        "layer": 1,
+        "start": 7366
+    },
+    {
+        "action": "PrintText",
+        "end": 15000,
+        "persona": "Макото",
+        "start": 12183,
+        "text": "Так и поступим.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 15000,
+        "file": "Voice01/01-1K/01-1K-C07/01-1K-C07-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 12183
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 16000,
+        "start": 15133
+    }
+]

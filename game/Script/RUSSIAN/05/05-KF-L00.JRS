@@ -1,0 +1,188 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 55000,
+        "file": "BGM/SD_BGM/sdbgm08",
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 2000,
+        "file": "Movie05/05-SB/05-SB-I01/05-SB-I01-003",
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 18000,
+        "file": "Movie05/05-KF/05-KF-L00/05-KF-L00-002",
+        "start": 2366
+    },
+    {
+        "action": "CreateBG",
+        "end": 23000,
+        "file": "Event05/05-KF/05-KF-L00/05-KF-L00-003",
+        "start": 18366
+    },
+    {
+        "action": "PrintText",
+        "end": 20000,
+        "persona": "Котоноха",
+        "start": 19016,
+        "text": "Макото.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 20000,
+        "file": "Voice05/05-KF/05-KF-L00/05-KF-L00-0080",
+        "layer": 0,
+        "persona": "kot",
+        "start": 19016
+    },
+    {
+        "action": "PrintText",
+        "end": 23000,
+        "persona": "Макото",
+        "start": 20166,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 23000,
+        "file": "Voice05/05-KF/05-KF-L00/05-KF-L00-0100",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 20166
+    },
+    {
+        "action": "CreateBG",
+        "end": 30000,
+        "file": "Event05/05-KF/05-KF-L00/05-KF-L00-004",
+        "start": 23166
+    },
+    {
+        "action": "PrintText",
+        "end": 30000,
+        "persona": "Котоноха",
+        "start": 23266,
+        "text": "Выключи... Свет... Я стесняюсь.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 30000,
+        "file": "Voice05/05-KF/05-KF-L00/05-KF-L00-0110",
+        "layer": 0,
+        "persona": "kot",
+        "start": 23266
+    },
+    {
+        "action": "PlayMovie",
+        "end": 37000,
+        "file": "Movie05/05-KF/05-KF-L00/05-KF-L00-005",
+        "start": 30100
+    },
+    {
+        "action": "PrintText",
+        "end": 37000,
+        "persona": "Макото",
+        "start": 34116,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 37000,
+        "file": "Voice05/05-KF/05-KF-L00/05-KF-L00-0120",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 34116
+    },
+    {
+        "action": "PlayMovie",
+        "end": 42000,
+        "file": "Movie05/05-KF/05-KF-L00/05-KF-L00-007",
+        "start": 37200
+    },
+    {
+        "action": "PrintText",
+        "end": 42000,
+        "persona": "Котоноха",
+        "start": 37300,
+        "text": "Я люблю тебя Макото.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 42000,
+        "file": "Voice05/05-KF/05-KF-L00/05-KF-L00-0150",
+        "layer": 0,
+        "persona": "kot",
+        "start": 37300
+    },
+    {
+        "action": "CreateBG",
+        "end": 45000,
+        "file": "Event05/05-KF/05-KF-L00/05-KF-L00-008",
+        "start": 42183
+    },
+    {
+        "action": "PrintText",
+        "end": 45000,
+        "persona": "Макото",
+        "start": 42233,
+        "text": "Я...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 45000,
+        "file": "Voice05/05-KF/05-KF-L00/05-KF-L00-0160",
+        "layer": 1,
+        "persona": "mak",
+        "start": 42233
+    },
+    {
+        "action": "CreateBG",
+        "end": 47000,
+        "file": "Event05/05-KF/05-KF-L00/05-KF-L00-009",
+        "start": 45166
+    },
+    {
+        "action": "PrintText",
+        "end": 46000,
+        "persona": "Котоноха",
+        "start": 45283,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 46000,
+        "file": "Voice05/05-KF/05-KF-L00/05-KF-L00-0210",
+        "layer": 0,
+        "persona": "kot",
+        "start": 45283
+    },
+    {
+        "action": "PlayMovie",
+        "end": 55000,
+        "file": "Movie05/05-KF/05-KF-L00/05-KF-L00-010",
+        "start": 47033
+    },
+    {
+        "action": "PrintText",
+        "end": 54000,
+        "persona": "Котоноха",
+        "start": 50266,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 54000,
+        "file": "Voice05/05-KF/05-KF-L00/05-KF-L00-0230",
+        "layer": 0,
+        "persona": "kot",
+        "start": 50266
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 55000,
+        "start": 54100
+    }
+]

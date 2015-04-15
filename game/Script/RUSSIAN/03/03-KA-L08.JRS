@@ -1,0 +1,158 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 30000,
+        "file": "BGM/SD_BGM/sdbgm06",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event03/03-KA/03-KA-L08/03-KA-L08-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 100,
+        "text": "Скорее бы...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-KA/03-KA-L08/03-KA-L08-0030",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 100
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 1366,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice03/03-KA/03-KA-L08/03-KA-L08-0040",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 1366
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 3000,
+        "start": 2333
+    },
+    {
+        "action": "CreateBG",
+        "end": 6000,
+        "file": "Event03/03-KA/03-KA-L08/03-KA-L08-002",
+        "start": 3033
+    },
+    {
+        "action": "BlackFade",
+        "dir": "IN",
+        "end": 3000,
+        "start": 3033
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Макото",
+        "start": 3166,
+        "text": "Прижать Котоноху к себе, почувствовать её мягкое, нежное тело.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice03/03-KA/03-KA-L08/03-KA-L08-0050",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 3166
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 6000,
+        "start": 6050
+    },
+    {
+        "action": "CreateBG",
+        "end": 14000,
+        "file": "Event03/03-KA/03-KA-L08/03-KA-L08-003",
+        "start": 6150
+    },
+    {
+        "action": "BlackFade",
+        "dir": "IN",
+        "end": 6000,
+        "start": 6150
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Макото",
+        "start": 6283,
+        "text": "Чтобы от эмоций все было как в тумане.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice03/03-KA/03-KA-L08/03-KA-L08-0060",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 6283
+    },
+    {
+        "action": "CreateBG",
+        "end": 21000,
+        "file": "Event03/03-KA/03-KA-L08/03-KA-L08-004",
+        "start": 14133
+    },
+    {
+        "action": "PrintText",
+        "end": 21000,
+        "persona": "Макото",
+        "start": 14366,
+        "text": "Наверное, сейчас не стоит слишком глубоко копаться в себе.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 21000,
+        "file": "Voice03/03-KA/03-KA-L08/03-KA-L08-0070",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 14366
+    },
+    {
+        "action": "CreateBG",
+        "end": 30000,
+        "file": "Event03/03-KA/03-KA-L08/03-KA-L08-001",
+        "start": 21366
+    },
+    {
+        "action": "PrintText",
+        "end": 28000,
+        "persona": "Макото",
+        "start": 22266,
+        "text": "Пусть пока всё будет как есть...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 28000,
+        "file": "Voice03/03-KA/03-KA-L08/03-KA-L08-0080",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 22266
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 30000,
+        "start": 29100
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 9000,
+        "file": "BGM/SD_BGM/sdbgm25",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event04/04-KE/04-KE-B01/04-KE-B01-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Ага.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice04/04-KE/04-KE-B01/04-KE-B01-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 9000,
+        "file": "Movie04/04-KE/04-KE-B01/04-KE-B01-002",
+        "start": 1033
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Котоноха",
+        "start": 3133,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice04/04-KE/04-KE-B01/04-KE-B01-0050",
+        "layer": 0,
+        "persona": "kot",
+        "start": 3133
+    }
+]

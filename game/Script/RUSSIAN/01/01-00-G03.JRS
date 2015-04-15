@@ -1,0 +1,78 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 14000,
+        "file": "BGM/SD_BGM/sdbgm06",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 8000,
+        "file": "Event01/01-00/01-00-G03/01-00-G03-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Макото",
+        "start": 100,
+        "text": "Ладно...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice01/01-00/01-00-G03/01-00-G03-0030",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 100
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Макото",
+        "start": 6266,
+        "text": "Гадать тут без толку!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice01/01-00/01-00-G03/01-00-G03-0040",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 6266
+    },
+    {
+        "action": "CreateBG",
+        "end": 14000,
+        "file": "Event01/01-00/01-00-B06/01-00-B06-001",
+        "start": 8383
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Макото",
+        "start": 9266,
+        "text": "После уроков нужно с ней поговорить.^"
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Макото",
+        "start": 11016,
+        "text": "Главное - успеть до её собрания...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice01/01-00/01-00-G03/01-00-G03-0050",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 9266
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 14000,
+        "start": 13350
+    }
+]

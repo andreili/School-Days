@@ -1,0 +1,157 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 17000,
+        "file": "SysSe/SE_all/gaya/kyousitu_rouka",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event04/04-SA/04-SA-E00/04-SA-E00-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event04/04-SA/04-SA-E00/04-SA-E00-002",
+        "start": 1116
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Таисукэ",
+        "start": 1216,
+        "text": "Доброе утро!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice04/04-SA/04-SA-E00/04-SA-E00-0030",
+        "layer": 1,
+        "persona": "tai",
+        "start": 1216
+    },
+    {
+        "action": "CreateBG",
+        "end": 6000,
+        "file": "Event04/04-SA/04-SA-E00/04-SA-E00-003",
+        "start": 3083
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Макото",
+        "start": 3166,
+        "text": "И тебе.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice04/04-SA/04-SA-E00/04-SA-E00-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 3166
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Таисукэ",
+        "start": 4283,
+        "text": "Слушай...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice04/04-SA/04-SA-E00/04-SA-E00-0050",
+        "layer": 1,
+        "persona": "tai",
+        "start": 4283
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Макото",
+        "start": 5183,
+        "text": "Что?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice04/04-SA/04-SA-E00/04-SA-E00-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 5183
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event04/04-SA/04-SA-E00/04-SA-E00-003B",
+        "start": 6066
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Таисукэ",
+        "start": 6166,
+        "text": "У тебя ведь полно знакомых девушек?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice04/04-SA/04-SA-E00/04-SA-E00-0070",
+        "layer": 1,
+        "persona": "tai",
+        "start": 6166
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event04/04-SA/04-SA-E00/04-SA-E00-003C",
+        "start": 9016
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Макото",
+        "start": 9150,
+        "text": "Думаешь?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice04/04-SA/04-SA-E00/04-SA-E00-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 9150
+    },
+    {
+        "action": "CreateBG",
+        "end": 17000,
+        "file": "Event04/04-SA/04-SA-E00/04-SA-E00-003D",
+        "start": 10200
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Таисукэ",
+        "start": 10300,
+        "text": "Уверен просто.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice04/04-SA/04-SA-E00/04-SA-E00-0090",
+        "layer": 1,
+        "persona": "tai",
+        "start": 10300
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Может и так.",
+        "answer2": "Ошибаешься.",
+        "end": 16000,
+        "start": 11350
+    }
+]

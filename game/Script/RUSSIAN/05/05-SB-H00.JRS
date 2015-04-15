@@ -1,0 +1,144 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 27000,
+        "file": "BGM/SD_BGM/sdbgm19",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 6000,
+        "file": "Event05/05-SB/05-SB-H00/05-SB-H00-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event05/05-SB/05-SB-H00/05-SB-H00-002",
+        "start": 6283
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Нанами",
+        "start": 6283,
+        "text": "Ито.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice05/05-SB/05-SB-H00/05-SB-H00-0050",
+        "layer": 0,
+        "persona": "nan",
+        "start": 6283
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Макото",
+        "start": 7233,
+        "text": "Канродзи?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice05/05-SB/05-SB-H00/05-SB-H00-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 7233
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Нанами",
+        "start": 10333,
+        "text": "Что с Сэкаи?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice05/05-SB/05-SB-H00/05-SB-H00-0080",
+        "layer": 0,
+        "persona": "nan",
+        "start": 10333
+    },
+    {
+        "action": "CreateBG",
+        "end": 21000,
+        "file": "Event05/05-SB/05-SB-H00/05-SB-H00-003",
+        "start": 11366
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Макото",
+        "start": 11366,
+        "text": "Спит.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice05/05-SB/05-SB-H00/05-SB-H00-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 11366
+    },
+    {
+        "action": "PrintText",
+        "end": 18000,
+        "persona": "Нанами",
+        "start": 14033,
+        "text": "Она ведь из-за тебя такая?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 18000,
+        "file": "Voice05/05-SB/05-SB-H00/05-SB-H00-0100",
+        "layer": 0,
+        "persona": "nan",
+        "start": 14033
+    },
+    {
+        "action": "PrintText",
+        "end": 20000,
+        "persona": "Макото",
+        "start": 18183,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 20000,
+        "file": "Voice05/05-SB/05-SB-H00/05-SB-H00-0110",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 18183
+    },
+    {
+        "action": "PrintText",
+        "end": 21000,
+        "persona": "Нанами",
+        "start": 20333,
+        "text": "Нет?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 21000,
+        "file": "Voice05/05-SB/05-SB-H00/05-SB-H00-0120",
+        "layer": 0,
+        "persona": "nan",
+        "start": 20333
+    },
+    {
+        "action": "CreateBG",
+        "end": 27000,
+        "file": "Event05/05-SB/05-SB-H00/05-SB-H00-001",
+        "start": 21283
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Да.",
+        "answer2": "Нет.",
+        "end": 26000,
+        "start": 21283
+    }
+]

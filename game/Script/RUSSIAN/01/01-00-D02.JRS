@@ -1,0 +1,164 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 18000,
+        "file": "BGM/SD_BGM/sdbgm06",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 18000,
+        "file": "Se01/01-00/01-00-B00/SE01-00-B00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event01/01-00/01-00-D02/01-00-D02-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 200,
+        "text": "Ты права, наверное...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice01/01-00/01-00-D02/01-00-D02-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 200
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Сэкаи",
+        "start": 1333,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice01/01-00/01-00-D02/01-00-D02-0040",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 1333
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Макото",
+        "start": 2316,
+        "text": "Нам действительно лучше обедать с Кацурой вдвоём.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice01/01-00/01-00-D02/01-00-D02-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2316
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event01/01-00/01-00-D02/01-00-D02-002",
+        "start": 5366
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Сэкаи",
+        "start": 5366,
+        "text": "А я что говорю?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice01/01-00/01-00-D02/01-00-D02-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 5366
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event01/01-00/01-00-D02/01-00-D02-003",
+        "start": 7100
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Макото",
+        "start": 7183,
+        "text": "Это ведь и означает - встречаться.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice01/01-00/01-00-D02/01-00-D02-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 7183
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event01/01-00/01-00-D02/01-00-D02-004",
+        "start": 9350
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Сэкаи",
+        "start": 9350,
+        "text": "Именно.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice01/01-00/01-00-D02/01-00-D02-0080",
+        "layer": 0,
+        "persona": "sek",
+        "start": 9350
+    },
+    {
+        "action": "CreateBG",
+        "end": 18000,
+        "file": "Event01/01-00/01-00-D02/01-00-D02-005",
+        "start": 11133
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Макото",
+        "start": 11133,
+        "text": "Знаешь...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice01/01-00/01-00-D02/01-00-D02-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 11133
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Макото",
+        "start": 11133,
+        "text": "Знаешь...^"
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Я думал, мы с тобой друзья.^",
+        "answer2": "Как-то мне даже неловко...^",
+        "end": 17000,
+        "start": 12250
+    }
+]

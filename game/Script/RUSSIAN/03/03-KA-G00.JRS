@@ -1,0 +1,351 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 65000,
+        "file": "BGM/SD_BGM/sdbgm01",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 65000,
+        "file": "Se03/03-KA/03-KA-G00/SE03-KA-G00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event03/03-KA/03-KA-G00/03-KA-G00-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 8000,
+        "file": "Event03/03-KA/03-KA-G00/03-KA-G00-002",
+        "start": 3000
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 3050,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice03/03-KA/03-KA-G00/03-KA-G00-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 3050
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event03/03-KA/03-KA-G00/03-KA-G00-003",
+        "start": 8216
+    },
+    {
+        "action": "CreateBG",
+        "end": 13000,
+        "file": "Event03/03-KA/03-KA-G00/03-KA-G00-004",
+        "start": 10250
+    },
+    {
+        "action": "CreateBG",
+        "end": 19000,
+        "file": "Event03/03-KA/03-KA-G00/03-KA-G00-005",
+        "start": 13000
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Макото",
+        "start": 13100,
+        "text": "Сэкаи сегодня опять нет...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice03/03-KA/03-KA-G00/03-KA-G00-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 13100
+    },
+    {
+        "action": "PrintText",
+        "end": 19000,
+        "persona": "Макото",
+        "start": 18016,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 19000,
+        "file": "Voice03/03-KA/03-KA-G00/03-KA-G00-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 18016
+    },
+    {
+        "action": "CreateBG",
+        "end": 24000,
+        "file": "Event03/03-KA/03-KA-G00/03-KA-G00-005",
+        "start": 19150
+    },
+    {
+        "action": "PrintText",
+        "end": 24000,
+        "persona": "Макото",
+        "start": 19200,
+        "text": "Подушечку бы...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 24000,
+        "file": "Voice03/03-KA/03-KA-G00/03-KA-G00-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 19200
+    },
+    {
+        "action": "CreateBG",
+        "end": 25000,
+        "file": "Event03/03-KA/03-KA-G00/03-KA-G00-007",
+        "start": 24066
+    },
+    {
+        "action": "PrintText",
+        "end": 25000,
+        "persona": "Хикари",
+        "start": 24066,
+        "text": "Не спать!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 25000,
+        "file": "Voice03/03-KA/03-KA-G00/03-KA-G00-0110",
+        "layer": 0,
+        "persona": "hik",
+        "start": 24066
+    },
+    {
+        "action": "PrintText",
+        "end": 28000,
+        "persona": "Макото",
+        "start": 24266,
+        "text": "Ой! Чего тебе, Курода?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 28000,
+        "file": "Voice03/03-KA/03-KA-G00/03-KA-G00-0130",
+        "layer": 1,
+        "persona": "mak",
+        "start": 24266
+    },
+    {
+        "action": "CreateBG",
+        "end": 26000,
+        "file": "Event03/03-KA/03-KA-G00/03-KA-G00-008",
+        "start": 25283
+    },
+    {
+        "action": "CreateBG",
+        "end": 28000,
+        "file": "Event03/03-KA/03-KA-G00/03-KA-G00-009",
+        "start": 26216
+    },
+    {
+        "action": "CreateBG",
+        "end": 34000,
+        "file": "Event03/03-KA/03-KA-G00/03-KA-G00-010A",
+        "start": 28266
+    },
+    {
+        "action": "PrintText",
+        "end": 32000,
+        "persona": "Хикари",
+        "start": 28266,
+        "text": "Ты сегодня утром классный час тоже проспал?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 32000,
+        "file": "Voice03/03-KA/03-KA-G00/03-KA-G00-0140",
+        "layer": 0,
+        "persona": "hik",
+        "start": 28266
+    },
+    {
+        "action": "PrintText",
+        "end": 34000,
+        "persona": "Макото",
+        "start": 32100,
+        "text": "А что, что-то объявляли?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 34000,
+        "file": "Voice03/03-KA/03-KA-G00/03-KA-G00-0150",
+        "layer": 1,
+        "persona": "mak",
+        "start": 32100
+    },
+    {
+        "action": "CreateBG",
+        "end": 39000,
+        "file": "Event03/03-KA/03-KA-G00/03-KA-G00-011A",
+        "start": 34183
+    },
+    {
+        "action": "PrintText",
+        "end": 39000,
+        "persona": "Хикари",
+        "start": 34183,
+        "text": "Конечно, в обед будет большое собрание комитета.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 39000,
+        "file": "Voice03/03-KA/03-KA-G00/03-KA-G00-0160",
+        "layer": 0,
+        "persona": "hik",
+        "start": 34183
+    },
+    {
+        "action": "CreateBG",
+        "end": 49000,
+        "file": "Event03/03-KA/03-KA-G00/03-KA-G00-011B",
+        "start": 39183
+    },
+    {
+        "action": "PrintText",
+        "end": 49000,
+        "persona": "Макото",
+        "start": 39283,
+        "text": "Ну и отлично, меня то это не касается... дай мне поспать ладно?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 49000,
+        "file": "Voice03/03-KA/03-KA-G00/03-KA-G00-0170",
+        "layer": 1,
+        "persona": "mak",
+        "start": 39283
+    },
+    {
+        "action": "CreateBG",
+        "end": 58000,
+        "file": "Event03/03-KA/03-KA-G00/03-KA-G00-012",
+        "start": 49100
+    },
+    {
+        "action": "PrintText",
+        "end": 52000,
+        "persona": "Хикари",
+        "start": 49100,
+        "text": "Ещё как касается! Ты же участвуешь!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 52000,
+        "file": "Voice03/03-KA/03-KA-G00/03-KA-G00-0180",
+        "layer": 0,
+        "persona": "hik",
+        "start": 49100
+    },
+    {
+        "action": "PrintText",
+        "end": 57000,
+        "persona": "Макото",
+        "start": 52133,
+        "text": "Ладно, ладно, участвую... Ты чего такая шумная?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 57000,
+        "file": "Voice03/03-KA/03-KA-G00/03-KA-G00-0190",
+        "layer": 1,
+        "persona": "mak",
+        "start": 52133
+    },
+    {
+        "action": "PrintText",
+        "end": 60000,
+        "persona": "Хикари",
+        "start": 57266,
+        "text": "Хех... Сэцуна, я его разбудила.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 60000,
+        "file": "Voice03/03-KA/03-KA-G00/03-KA-G00-0200",
+        "layer": 0,
+        "persona": "hik",
+        "start": 57266
+    },
+    {
+        "action": "CreateBG",
+        "end": 63000,
+        "file": "Event03/03-KA/03-KA-G00/03-KA-G00-013",
+        "start": 58250
+    },
+    {
+        "action": "PrintText",
+        "end": 61000,
+        "persona": "Сэцуна",
+        "start": 61016,
+        "text": "Спасибо.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 61000,
+        "file": "Voice03/03-KA/03-KA-G00/03-KA-G00-0210",
+        "layer": 0,
+        "persona": "set",
+        "start": 61016
+    },
+    {
+        "action": "PrintText",
+        "end": 63000,
+        "persona": "Сэцуна",
+        "start": 62116,
+        "text": "Пошли.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 63000,
+        "file": "Voice03/03-KA/03-KA-G00/03-KA-G00-0230",
+        "layer": 0,
+        "persona": "set",
+        "start": 62116
+    },
+    {
+        "action": "CreateBG",
+        "end": 65000,
+        "file": "Event03/03-KA/03-KA-G00/03-KA-G00-014",
+        "start": 63033
+    },
+    {
+        "action": "PrintText",
+        "end": 64000,
+        "persona": "Макото",
+        "start": 63033,
+        "text": "...Да, да.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 64000,
+        "file": "Voice03/03-KA/03-KA-G00/03-KA-G00-0240",
+        "layer": 1,
+        "persona": "mak",
+        "start": 63033
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 65000,
+        "start": 64166
+    }
+]

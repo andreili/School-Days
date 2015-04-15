@@ -1,0 +1,168 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 34000,
+        "file": "BGM/SD_BGM/sdbgm12",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 14000,
+        "file": "Event03/03-KB/03-KB-D09/03-KB-D09-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Я люблю Сэкаи!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-KB/03-KB-D09/03-KB-D09-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Таисукэ",
+        "start": 1216,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice03/03-KB/03-KB-D09/03-KB-D09-0040",
+        "layer": 1,
+        "persona": "tai",
+        "start": 1216
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Макото",
+        "start": 2100,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice03/03-KB/03-KB-D09/03-KB-D09-0050",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 2100
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Таисукэ",
+        "start": 3166,
+        "text": "Понятно. Значит, вы всё-таки встречаетесь...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice03/03-KB/03-KB-D09/03-KB-D09-0060",
+        "layer": 1,
+        "persona": "tai",
+        "start": 3166
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Макото",
+        "start": 9300,
+        "text": "Ну, честно говоря, мы не встречаемся.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice03/03-KB/03-KB-D09/03-KB-D09-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 9300
+    },
+    {
+        "action": "CreateBG",
+        "end": 27000,
+        "file": "Event03/03-KB/03-KB-D09/03-KB-D09-002",
+        "start": 14083
+    },
+    {
+        "action": "PrintText",
+        "end": 15000,
+        "persona": "Таисукэ",
+        "start": 14083,
+        "text": "Что?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 15000,
+        "file": "Voice03/03-KB/03-KB-D09/03-KB-D09-0080",
+        "layer": 1,
+        "persona": "tai",
+        "start": 14083
+    },
+    {
+        "action": "PrintText",
+        "end": 23000,
+        "persona": "Макото",
+        "start": 15016,
+        "text": "Я люблю её, но она не разделяет моих чувств.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 23000,
+        "file": "Voice03/03-KB/03-KB-D09/03-KB-D09-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 15016
+    },
+    {
+        "action": "PrintText",
+        "end": 27000,
+        "persona": "Таисукэ",
+        "start": 23383,
+        "text": "Вот почему ты начал встречаться с другой девушкой?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 27000,
+        "file": "Voice03/03-KB/03-KB-D09/03-KB-D09-0100",
+        "layer": 1,
+        "persona": "tai",
+        "start": 23383
+    },
+    {
+        "action": "PrintText",
+        "end": 28000,
+        "persona": "Макото",
+        "start": 27266,
+        "text": "Э?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 28000,
+        "file": "Voice03/03-KB/03-KB-D09/03-KB-D09-0110",
+        "layer": 1,
+        "persona": "mak",
+        "start": 27266
+    },
+    {
+        "action": "CreateBG",
+        "end": 34000,
+        "file": "Event03/03-KB/03-KB-D09/03-KB-D09-003",
+        "start": 27283
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Да, верно.^",
+        "answer2": "Нет!^",
+        "end": 33000,
+        "start": 28183
+    }
+]

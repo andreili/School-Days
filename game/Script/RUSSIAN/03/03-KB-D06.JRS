@@ -1,0 +1,102 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 11000,
+        "file": "BGM/SD_BGM/sdbgm12",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event03/03-KB/03-KB-D06/03-KB-D06-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Ничего подобного!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-KB/03-KB-D06/03-KB-D06-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Таисукэ",
+        "start": 1266,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice03/03-KB/03-KB-D06/03-KB-D06-0040",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 1266
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Макото",
+        "start": 2333,
+        "text": "Я...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice03/03-KB/03-KB-D06/03-KB-D06-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2333
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event03/03-KB/03-KB-D06/03-KB-D06-002",
+        "start": 2350
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Таисукэ",
+        "start": 4000,
+        "text": "Ага?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice03/03-KB/03-KB-D06/03-KB-D06-0060",
+        "layer": 1,
+        "persona": "tai",
+        "start": 4000
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Макото",
+        "start": 5100,
+        "text": "Я...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice03/03-KB/03-KB-D06/03-KB-D06-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 5100
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Я с ней расстался!^",
+        "answer2": "Я люблю Сэкаи!^",
+        "end": 10000,
+        "start": 5350
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 35000,
+        "file": "BGM/SD_BGM/sdbgm25",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 14000,
+        "file": "SysSe/SE_all/h/h_03",
+        "layer": 2,
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 14000,
+        "file": "SysSe/SE_all/h/h_04",
+        "layer": 3,
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 14000,
+        "file": "SysSe/SE_all/h/h_05",
+        "layer": 4,
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 35000,
+        "file": "Movie03/03-A1/03-A1-Z01/03-A1-Z01-001",
+        "start": 0
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice03/03-A1/03-A1-Z01/03-A1-Z01-0020",
+        "layer": -1,
+        "persona": "",
+        "start": 0
+    },
+    {
+        "action": "MoveSom",
+        "end": 14000,
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Сэцуна",
+        "start": 4333,
+        "text": "Ито...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice03/03-A1/03-A1-Z01/03-A1-Z01-0030",
+        "layer": 0,
+        "persona": "set",
+        "start": 4333
+    },
+    {
+        "action": "PlaySe",
+        "end": 15000,
+        "file": "Voice03/03-A1/03-A1-Z01/03-A1-Z01-0031",
+        "layer": 1,
+        "start": 6283
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "OUT",
+        "end": 14000,
+        "start": 14050
+    },
+    {
+        "action": "MoveSom",
+        "end": 22000,
+        "start": 14050
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "IN",
+        "end": 15000,
+        "start": 14250
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Сэцуна",
+        "start": 15050,
+        "text": "Я чувствую...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice03/03-A1/03-A1-Z01/03-A1-Z01-0040",
+        "layer": 0,
+        "persona": "set",
+        "start": 15050
+    },
+    {
+        "action": "PlaySe",
+        "end": 18000,
+        "file": "Voice03/03-A1/03-A1-Z01/03-A1-Z01-0041",
+        "layer": 1,
+        "start": 16316
+    },
+    {
+        "action": "PrintText",
+        "end": 19000,
+        "persona": "Сэцуна",
+        "start": 18083,
+        "text": "Тебя...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 19000,
+        "file": "Voice03/03-A1/03-A1-Z01/03-A1-Z01-0050",
+        "layer": 0,
+        "persona": "set",
+        "start": 18083
+    },
+    {
+        "action": "PlaySe",
+        "end": 21000,
+        "file": "Voice03/03-A1/03-A1-Z01/03-A1-Z01-0051",
+        "layer": 1,
+        "start": 19283
+    },
+    {
+        "action": "PrintText",
+        "end": 22000,
+        "persona": "Сэцуна",
+        "start": 21133,
+        "text": "Внутри...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 22000,
+        "file": "Voice03/03-A1/03-A1-Z01/03-A1-Z01-0060",
+        "layer": 0,
+        "persona": "set",
+        "start": 21133
+    },
+    {
+        "action": "PlaySe",
+        "end": 24000,
+        "file": "SysSe/SE_all/h/gucho1",
+        "layer": 2,
+        "start": 21383
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "OUT",
+        "end": 22000,
+        "start": 22133
+    },
+    {
+        "action": "PlaySe",
+        "end": 33000,
+        "file": "Voice03/03-A1/03-A1-Z01/03-A1-Z01-0061",
+        "layer": 1,
+        "start": 22333
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "IN",
+        "end": 23000,
+        "start": 22333
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 35000,
+        "start": 33050
+    }
+]

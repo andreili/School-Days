@@ -1,0 +1,87 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 11000,
+        "file": "BGM/SD_BGM/sdbgm06",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 11000,
+        "file": "Se01/01-00/01-00-B00/SE01-00-B00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event01/01-1K/01-1K-K05/01-1K-K05-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Мы и познакомились-то только благодаря тебе.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice01/01-1K/01-1K-K06/01-1K-K06-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event01/01-1K/01-1K-K05/01-1K-K05-002",
+        "start": 2133
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Сэкаи",
+        "start": 2133,
+        "text": "М...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice01/01-1K/01-1K-K06/01-1K-K06-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 2133
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Макото",
+        "start": 3233,
+        "text": "Мне без тебя никак.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice01/01-1K/01-1K-K06/01-1K-K06-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 3233
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Сэкаи",
+        "start": 8300,
+        "text": "Ну, может быть...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice01/01-1K/01-1K-K06/01-1K-K06-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 8300
+    }
+]

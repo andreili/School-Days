@@ -1,0 +1,116 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 21000,
+        "file": "BGM/SD_BGM/sdbgm19",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 21000,
+        "file": "Se03/03-KB/03-KB-A05/SE03-KB-A05-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event03/03-KB/03-KB-A05/03-KB-A05-001A",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Давай я тебе помогу?!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-KB/03-KB-A05/03-KB-A05-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 13000,
+        "file": "Event03/03-KB/03-KB-A05/03-KB-A05-001B",
+        "start": 1066
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Котоноха",
+        "start": 1066,
+        "text": "Я, знаешь... Да, справлюсь.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice03/03-KB/03-KB-A05/03-KB-A05-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 1066
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Макото",
+        "start": 6183,
+        "text": "Но они же тяжёлые!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice03/03-KB/03-KB-A05/03-KB-A05-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 6183
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Котоноха",
+        "start": 8366,
+        "text": "Ничего.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice03/03-KB/03-KB-A05/03-KB-A05-0060",
+        "layer": 0,
+        "persona": "kot",
+        "start": 8366
+    },
+    {
+        "action": "CreateBG",
+        "end": 21000,
+        "file": "Event03/03-KB/03-KB-A05/03-KB-A05-001C",
+        "start": 13033
+    },
+    {
+        "action": "PrintText",
+        "end": 20000,
+        "persona": "Макото",
+        "start": 13033,
+        "text": "Извини... Наверное, мне лучше просто оставить тебя в покое.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 20000,
+        "file": "Voice03/03-KB/03-KB-A05/03-KB-A05-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 13033
+    },
+    {
+        "action": "PlayVoice",
+        "end": 21000,
+        "file": "Voice03/03-KB/03-KB-A05/03-KB-A05-0090",
+        "layer": -1,
+        "persona": "",
+        "start": 20116
+    }
+]

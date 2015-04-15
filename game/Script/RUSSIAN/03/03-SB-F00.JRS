@@ -1,0 +1,257 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 50000,
+        "file": "BGM/SD_BGM/sdbgm20",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event03/03-SB/03-SB-F00/03-SB-F00-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Автоответчик",
+        "start": 3116,
+        "text": "Абонент занят. Перезвоните позже или оставьте сообщение после звукового сигнала.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice03/03-SB/03-SB-F00/03-SB-F00-0030",
+        "layer": 0,
+        "persona": "den",
+        "start": 3116
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event03/03-SB/03-SB-F00/03-SB-F00-002",
+        "start": 3133
+    },
+    {
+        "action": "CreateBG",
+        "end": 20000,
+        "file": "Event03/03-SB/03-SB-F00/03-SB-F00-003",
+        "start": 9033
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Котоноха",
+        "start": 12133,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice03/03-SB/03-SB-F00/03-SB-F00-0040",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 12133
+    },
+    {
+        "action": "PrintText",
+        "end": 20000,
+        "persona": "Котоноха",
+        "start": 14350,
+        "text": "Это Котоноха. Я ещё позвоню. Спокойной ночи.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 20000,
+        "file": "Voice03/03-SB/03-SB-F00/03-SB-F00-0060",
+        "layer": 0,
+        "persona": "kot",
+        "start": 14350
+    },
+    {
+        "action": "CreateBG",
+        "end": 20000,
+        "file": "Event03/03-SB/03-SB-F00/03-SB-F00-004",
+        "start": 20000
+    },
+    {
+        "action": "CreateBG",
+        "end": 21000,
+        "file": "Event03/03-SB/03-SB-F00/03-SB-F00-005",
+        "start": 20216
+    },
+    {
+        "action": "PrintText",
+        "end": 21000,
+        "persona": "Котоноха",
+        "start": 20216,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 21000,
+        "file": "Voice03/03-SB/03-SB-F00/03-SB-F00-0080",
+        "layer": 0,
+        "persona": "kot",
+        "start": 20216
+    },
+    {
+        "action": "PrintText",
+        "end": 26000,
+        "persona": "Кокоро",
+        "start": 21283,
+        "text": "Котоноха, ты чего это вздыхаешь?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 26000,
+        "file": "Voice03/03-SB/03-SB-F00/03-SB-F00-0090",
+        "layer": 0,
+        "persona": "kok",
+        "start": 21283
+    },
+    {
+        "action": "CreateBG",
+        "end": 27000,
+        "file": "Event03/03-SB/03-SB-F00/03-SB-F00-006",
+        "start": 21300
+    },
+    {
+        "action": "PrintText",
+        "end": 27000,
+        "persona": "Котоноха",
+        "start": 26183,
+        "text": "Ничего.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 27000,
+        "file": "Voice03/03-SB/03-SB-F00/03-SB-F00-0100",
+        "layer": 0,
+        "persona": "kot",
+        "start": 26183
+    },
+    {
+        "action": "CreateBG",
+        "end": 31000,
+        "file": "Event03/03-SB/03-SB-F00/03-SB-F00-007",
+        "start": 27350
+    },
+    {
+        "action": "PrintText",
+        "end": 31000,
+        "persona": "Кокоро",
+        "start": 27350,
+        "text": "А, от любви значит! С парнем что?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 31000,
+        "file": "Voice03/03-SB/03-SB-F00/03-SB-F00-0110",
+        "layer": 0,
+        "persona": "kok",
+        "start": 27350
+    },
+    {
+        "action": "CreateBG",
+        "end": 41000,
+        "file": "Event03/03-SB/03-SB-F00/03-SB-F00-008",
+        "start": 31283
+    },
+    {
+        "action": "PrintText",
+        "end": 34000,
+        "persona": "Котоноха",
+        "start": 31283,
+        "text": "Не начинай. Иди уже.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 34000,
+        "file": "Voice03/03-SB/03-SB-F00/03-SB-F00-0120",
+        "layer": 0,
+        "persona": "kot",
+        "start": 31283
+    },
+    {
+        "action": "PrintText",
+        "end": 39000,
+        "persona": "Кокоро",
+        "start": 34116,
+        "text": "Да-да. Мам! А сестра-то!..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 39000,
+        "file": "Voice03/03-SB/03-SB-F00/03-SB-F00-0130",
+        "layer": 0,
+        "persona": "kok",
+        "start": 34116
+    },
+    {
+        "action": "PrintText",
+        "end": 41000,
+        "persona": "Котоноха",
+        "start": 39350,
+        "text": "Кокоро!..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 41000,
+        "file": "Voice03/03-SB/03-SB-F00/03-SB-F00-0140",
+        "layer": 0,
+        "persona": "kot",
+        "start": 39350
+    },
+    {
+        "action": "CreateBG",
+        "end": 50000,
+        "file": "Event03/03-SB/03-SB-F00/03-SB-F00-009",
+        "start": 41000
+    },
+    {
+        "action": "PrintText",
+        "end": 43000,
+        "persona": "Котоноха",
+        "start": 41016,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 43000,
+        "file": "Voice03/03-SB/03-SB-F00/03-SB-F00-0150",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 41016
+    },
+    {
+        "action": "PrintText",
+        "end": 46000,
+        "persona": "Котоноха",
+        "start": 43050,
+        "text": "И ведь просто позвонила...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 46000,
+        "file": "Voice03/03-SB/03-SB-F00/03-SB-F00-0160",
+        "layer": 0,
+        "persona": "kot",
+        "start": 43050
+    },
+    {
+        "action": "PrintText",
+        "end": 50000,
+        "persona": "Котоноха",
+        "start": 46033,
+        "text": "А сердце так и колотится.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 50000,
+        "file": "Voice03/03-SB/03-SB-F00/03-SB-F00-0170",
+        "layer": 0,
+        "persona": "kot",
+        "start": 46033
+    }
+]

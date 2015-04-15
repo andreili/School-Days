@@ -1,0 +1,819 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 178000,
+        "file": "BGM/SD_BGM/sdbgm08",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event05/05-KF/05-KF-B00/05-KF-B00-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Макото",
+        "start": 350,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice05/05-KF/05-KF-B00/05-KF-B00-0040",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 350
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event05/05-KF/05-KF-B00/05-KF-B00-002",
+        "start": 1133
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "OUT",
+        "end": 3000,
+        "start": 3033
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event05/05-KF/05-KF-B00/05-KF-B00-003",
+        "start": 3233
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "IN",
+        "end": 4000,
+        "start": 3233
+    },
+    {
+        "action": "CreateBG",
+        "end": 6000,
+        "file": "Event05/05-KF/05-KF-B00/05-KF-B00-004",
+        "start": 5100
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "OUT",
+        "end": 6000,
+        "start": 6183
+    },
+    {
+        "action": "CreateBG",
+        "end": 17000,
+        "file": "Event05/05-KF/05-KF-B00/05-KF-B00-005",
+        "start": 6383
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "IN",
+        "end": 7000,
+        "start": 6383
+    },
+    {
+        "action": "PlaySe",
+        "end": 9000,
+        "file": "SysSe/SE_all/keitai/tyakusin_makoto",
+        "layer": 1,
+        "start": 7116
+    },
+    {
+        "action": "PlaySe",
+        "end": 9000,
+        "file": "SysSe/SE_all/keitai/keitai_sousa",
+        "layer": 2,
+        "start": 9333
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Таисукэ",
+        "start": 10166,
+        "text": "Алло?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice05/05-KF/05-KF-B00/05-KF-B00-0070",
+        "layer": 1,
+        "persona": "tai",
+        "start": 10166
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Макото",
+        "start": 11200,
+        "text": "А...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice05/05-KF/05-KF-B00/05-KF-B00-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 11200
+    },
+    {
+        "action": "PrintText",
+        "end": 15000,
+        "persona": "Таисукэ",
+        "start": 13150,
+        "text": "Ну что, как оно?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 15000,
+        "file": "Voice05/05-KF/05-KF-B00/05-KF-B00-0090",
+        "layer": 1,
+        "persona": "tai",
+        "start": 13150
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Макото",
+        "start": 15100,
+        "text": "Ты про подарок?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice05/05-KF/05-KF-B00/05-KF-B00-0100",
+        "layer": 1,
+        "persona": "mak",
+        "start": 15100
+    },
+    {
+        "action": "CreateBG",
+        "end": 53000,
+        "file": "Event05/05-KF/05-KF-B00/05-KF-B00-006",
+        "start": 17066
+    },
+    {
+        "action": "PrintText",
+        "end": 19000,
+        "persona": "Таисукэ",
+        "start": 17183,
+        "text": "Сэкаи сказала, чего хочет?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 19000,
+        "file": "Voice05/05-KF/05-KF-B00/05-KF-B00-0110",
+        "layer": 1,
+        "persona": "tai",
+        "start": 17183
+    },
+    {
+        "action": "PrintText",
+        "end": 27000,
+        "persona": "Макото",
+        "start": 19333,
+        "text": "Нет... Из того, что я предлагал... Её ничего не заинтересовало.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 27000,
+        "file": "Voice05/05-KF/05-KF-B00/05-KF-B00-0120",
+        "layer": 1,
+        "persona": "mak",
+        "start": 19333
+    },
+    {
+        "action": "PrintText",
+        "end": 29000,
+        "persona": "Таисукэ",
+        "start": 27216,
+        "text": "Вон оно как...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 29000,
+        "file": "Voice05/05-KF/05-KF-B00/05-KF-B00-0130",
+        "layer": 1,
+        "persona": "tai",
+        "start": 27216
+    },
+    {
+        "action": "PrintText",
+        "end": 30000,
+        "persona": "Макото",
+        "start": 29083,
+        "text": "Прости.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 30000,
+        "file": "Voice05/05-KF/05-KF-B00/05-KF-B00-0140",
+        "layer": 1,
+        "persona": "mak",
+        "start": 29083
+    },
+    {
+        "action": "PrintText",
+        "end": 40000,
+        "persona": "Таисукэ",
+        "start": 30266,
+        "text": "Да ничего... Сэкаи, тем более, сегодня опять не в духе была... Может ей сейчас и не до подарков.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 40000,
+        "file": "Voice05/05-KF/05-KF-B00/05-KF-B00-0150",
+        "layer": 1,
+        "persona": "tai",
+        "start": 30266
+    },
+    {
+        "action": "PrintText",
+        "end": 42000,
+        "persona": "Макото",
+        "start": 40033,
+        "text": "Думаешь?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 42000,
+        "file": "Voice05/05-KF/05-KF-B00/05-KF-B00-0160",
+        "layer": 1,
+        "persona": "mak",
+        "start": 40033
+    },
+    {
+        "action": "PrintText",
+        "end": 45000,
+        "persona": "Таисукэ",
+        "start": 42083,
+        "text": "Но я так хочу что-нибудь для неё сделать.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 45000,
+        "file": "Voice05/05-KF/05-KF-B00/05-KF-B00-0170",
+        "layer": 1,
+        "persona": "tai",
+        "start": 42083
+    },
+    {
+        "action": "PrintText",
+        "end": 51000,
+        "persona": "Таисукэ",
+        "start": 45116,
+        "text": "Думал, лучше было бы у неё самой узнать, чего она хочет, чем на свой вкус выбирать...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 51000,
+        "file": "Voice05/05-KF/05-KF-B00/05-KF-B00-0171",
+        "layer": 1,
+        "persona": "tai",
+        "start": 45116
+    },
+    {
+        "action": "PrintText",
+        "end": 53000,
+        "persona": "Макото",
+        "start": 51266,
+        "text": "Ага.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 53000,
+        "file": "Voice05/05-KF/05-KF-B00/05-KF-B00-0180",
+        "layer": 1,
+        "persona": "mak",
+        "start": 51266
+    },
+    {
+        "action": "CreateBG",
+        "end": 87000,
+        "file": "Event05/05-KF/05-KF-B00/05-KF-B00-007",
+        "start": 53016
+    },
+    {
+        "action": "PrintText",
+        "end": 59000,
+        "persona": "Таисукэ",
+        "start": 53100,
+        "text": "Она ж ни на один мой вопрос толком не отвечает... Совсем уж не знаю, что и делать.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 59000,
+        "file": "Voice05/05-KF/05-KF-B00/05-KF-B00-0190",
+        "layer": 1,
+        "persona": "tai",
+        "start": 53100
+    },
+    {
+        "action": "PrintText",
+        "end": 61000,
+        "persona": "Макото",
+        "start": 59166,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 61000,
+        "file": "Voice05/05-KF/05-KF-B00/05-KF-B00-0200",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 59166
+    },
+    {
+        "action": "PrintText",
+        "end": 71000,
+        "persona": "Таисукэ",
+        "start": 61300,
+        "text": "Я понимаю, что не дело было всё на тебя спихивать... Да друзей-то у меня толковых кроме тебя и нет... Плюс, с Сэкаи вы ладите.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 71000,
+        "file": "Voice05/05-KF/05-KF-B00/05-KF-B00-0210",
+        "layer": 1,
+        "persona": "tai",
+        "start": 61300
+    },
+    {
+        "action": "PrintText",
+        "end": 73000,
+        "persona": "Макото",
+        "start": 71283,
+        "text": "Ага...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 73000,
+        "file": "Voice05/05-KF/05-KF-B00/05-KF-B00-0220",
+        "layer": 1,
+        "persona": "mak",
+        "start": 71283
+    },
+    {
+        "action": "PrintText",
+        "end": 80000,
+        "persona": "Таисукэ",
+        "start": 73066,
+        "text": "Порой даже мысль в голову приходит... Может быть ты, Макото, больше Сэкаи в парни годишься...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 80000,
+        "file": "Voice05/05-KF/05-KF-B00/05-KF-B00-0230",
+        "layer": 1,
+        "persona": "tai",
+        "start": 73066
+    },
+    {
+        "action": "PrintText",
+        "end": 82000,
+        "persona": "Макото",
+        "start": 80150,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 82000,
+        "file": "Voice05/05-KF/05-KF-B00/05-KF-B00-0240",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 80150
+    },
+    {
+        "action": "PrintText",
+        "end": 86000,
+        "persona": "Таисукэ",
+        "start": 82133,
+        "text": "Ну, впрочем, этому не бывать.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 86000,
+        "file": "Voice05/05-KF/05-KF-B00/05-KF-B00-0250",
+        "layer": 1,
+        "persona": "tai",
+        "start": 82133
+    },
+    {
+        "action": "PrintText",
+        "end": 88000,
+        "persona": "Макото",
+        "start": 86083,
+        "text": "Думаешь?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 88000,
+        "file": "Voice05/05-KF/05-KF-B00/05-KF-B00-0260",
+        "layer": 1,
+        "persona": "mak",
+        "start": 86083
+    },
+    {
+        "action": "CreateBG",
+        "end": 125000,
+        "file": "Event05/05-KF/05-KF-B00/05-KF-B00-006",
+        "start": 87350
+    },
+    {
+        "action": "PrintText",
+        "end": 96000,
+        "persona": "Таисукэ",
+        "start": 88016,
+        "text": "Конечно! Я вчера весь день с Кацурой провёл... Она ведь тебя реально любит.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 96000,
+        "file": "Voice05/05-KF/05-KF-B00/05-KF-B00-0270",
+        "layer": 1,
+        "persona": "tai",
+        "start": 88016
+    },
+    {
+        "action": "PrintText",
+        "end": 102000,
+        "persona": "Таисукэ",
+        "start": 96133,
+        "text": "Как объяснить-то... Она вчера только и делала, что расспрашивала меня, что тебе может понравиться, а что нет.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 102000,
+        "file": "Voice05/05-KF/05-KF-B00/05-KF-B00-0271",
+        "layer": 1,
+        "persona": "tai",
+        "start": 96133
+    },
+    {
+        "action": "PrintText",
+        "end": 105000,
+        "persona": "Макото",
+        "start": 102366,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 105000,
+        "file": "Voice05/05-KF/05-KF-B00/05-KF-B00-0280",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 102366
+    },
+    {
+        "action": "PrintText",
+        "end": 113000,
+        "persona": "Таисукэ",
+        "start": 105266,
+        "text": "Когда у самого есть такая девушка, на других и заглядываться-то грех!.. Эх, завидую я тебе.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 113000,
+        "file": "Voice05/05-KF/05-KF-B00/05-KF-B00-0290",
+        "layer": 1,
+        "persona": "tai",
+        "start": 105266
+    },
+    {
+        "action": "PrintText",
+        "end": 115000,
+        "persona": "Макото",
+        "start": 113283,
+        "text": "Ага...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 115000,
+        "file": "Voice05/05-KF/05-KF-B00/05-KF-B00-0300",
+        "layer": 1,
+        "persona": "mak",
+        "start": 113283
+    },
+    {
+        "action": "PrintText",
+        "end": 125000,
+        "persona": "Таисукэ",
+        "start": 115183,
+        "text": "И девушка есть, и с остальными девчонками неплохо ладишь... Что за популярность такая?!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 125000,
+        "file": "Voice05/05-KF/05-KF-B00/05-KF-B00-0310",
+        "layer": 1,
+        "persona": "tai",
+        "start": 115183
+    },
+    {
+        "action": "CreateBG",
+        "end": 141000,
+        "file": "Event05/05-KF/05-KF-B00/05-KF-B00-009",
+        "start": 125266
+    },
+    {
+        "action": "PrintText",
+        "end": 128000,
+        "persona": "Макото",
+        "start": 125266,
+        "text": "Не преувеличивай...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 128000,
+        "file": "Voice05/05-KF/05-KF-B00/05-KF-B00-0320",
+        "layer": 1,
+        "persona": "mak",
+        "start": 125266
+    },
+    {
+        "action": "PrintText",
+        "end": 131000,
+        "persona": "Таисукэ",
+        "start": 128150,
+        "text": "Нет, я серьёзно.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 131000,
+        "file": "Voice05/05-KF/05-KF-B00/05-KF-B00-0330",
+        "layer": 1,
+        "persona": "tai",
+        "start": 128150
+    },
+    {
+        "action": "PrintText",
+        "end": 134000,
+        "persona": "Макото",
+        "start": 131133,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 134000,
+        "file": "Voice05/05-KF/05-KF-B00/05-KF-B00-0340",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 131133
+    },
+    {
+        "action": "PrintText",
+        "end": 139000,
+        "persona": "Таисукэ",
+        "start": 134033,
+        "text": "Ладно, спасибо, в общем. С подарком сам чего-нибудь придумаю, у сестры мнения спрошу...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 139000,
+        "file": "Voice05/05-KF/05-KF-B00/05-KF-B00-0350",
+        "layer": 1,
+        "persona": "tai",
+        "start": 134033
+    },
+    {
+        "action": "PrintText",
+        "end": 141000,
+        "persona": "Макото",
+        "start": 139150,
+        "text": "Таисукэ...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 141000,
+        "file": "Voice05/05-KF/05-KF-B00/05-KF-B00-0360",
+        "layer": 1,
+        "persona": "mak",
+        "start": 139150
+    },
+    {
+        "action": "CreateBG",
+        "end": 165000,
+        "file": "Event05/05-KF/05-KF-B00/05-KF-B00-010",
+        "start": 141283
+    },
+    {
+        "action": "PrintText",
+        "end": 142000,
+        "persona": "Таисукэ",
+        "start": 141283,
+        "text": "Да?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 142000,
+        "file": "Voice05/05-KF/05-KF-B00/05-KF-B00-0370",
+        "layer": 1,
+        "persona": "tai",
+        "start": 141283
+    },
+    {
+        "action": "PrintText",
+        "end": 145000,
+        "persona": "Макото",
+        "start": 142150,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 145000,
+        "file": "Voice05/05-KF/05-KF-B00/05-KF-B00-0380",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 142150
+    },
+    {
+        "action": "PrintText",
+        "end": 146000,
+        "persona": "Таисукэ",
+        "start": 145116,
+        "text": "Макото?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 146000,
+        "file": "Voice05/05-KF/05-KF-B00/05-KF-B00-0390",
+        "layer": 1,
+        "persona": "tai",
+        "start": 145116
+    },
+    {
+        "action": "PrintText",
+        "end": 147000,
+        "persona": "Макото",
+        "start": 146066,
+        "text": "Да нет, ничего...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 147000,
+        "file": "Voice05/05-KF/05-KF-B00/05-KF-B00-0400",
+        "layer": 1,
+        "persona": "mak",
+        "start": 146066
+    },
+    {
+        "action": "PrintText",
+        "end": 148000,
+        "persona": "Таисукэ",
+        "start": 147266,
+        "text": "Что такое?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 148000,
+        "file": "Voice05/05-KF/05-KF-B00/05-KF-B00-0410",
+        "layer": 1,
+        "persona": "tai",
+        "start": 147266
+    },
+    {
+        "action": "PrintText",
+        "end": 154000,
+        "persona": "Макото",
+        "start": 148183,
+        "text": "Да нет, правда... Забыл, чего сказать хотел...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 154000,
+        "file": "Voice05/05-KF/05-KF-B00/05-KF-B00-0420",
+        "layer": 1,
+        "persona": "mak",
+        "start": 148183
+    },
+    {
+        "action": "PrintText",
+        "end": 159000,
+        "persona": "Таисукэ",
+        "start": 154166,
+        "text": "Наверное, опять меня подколоть хотел?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 159000,
+        "file": "Voice05/05-KF/05-KF-B00/05-KF-B00-0430",
+        "layer": 1,
+        "persona": "tai",
+        "start": 154166
+    },
+    {
+        "action": "PrintText",
+        "end": 162000,
+        "persona": "Макото",
+        "start": 159066,
+        "text": "Да... Ты прав...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 162000,
+        "file": "Voice05/05-KF/05-KF-B00/05-KF-B00-0440",
+        "layer": 1,
+        "persona": "mak",
+        "start": 159066
+    },
+    {
+        "action": "PrintText",
+        "end": 163000,
+        "persona": "Таисукэ",
+        "start": 162100,
+        "text": "Ладно, пока.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 163000,
+        "file": "Voice05/05-KF/05-KF-B00/05-KF-B00-0450",
+        "layer": 1,
+        "persona": "tai",
+        "start": 162100
+    },
+    {
+        "action": "PrintText",
+        "end": 165000,
+        "persona": "Макото",
+        "start": 163116,
+        "text": "Ага.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 165000,
+        "file": "Voice05/05-KF/05-KF-B00/05-KF-B00-0460",
+        "layer": 1,
+        "persona": "mak",
+        "start": 163116
+    },
+    {
+        "action": "CreateBG",
+        "end": 171000,
+        "file": "Event05/05-KF/05-KF-B00/05-KF-B00-011",
+        "start": 165100
+    },
+    {
+        "action": "PlaySe",
+        "end": 165000,
+        "file": "SysSe/SE_all/keitai/keitai_sousa",
+        "layer": 1,
+        "start": 165200
+    },
+    {
+        "action": "PrintText",
+        "end": 168000,
+        "persona": "Макото",
+        "start": 165333,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 168000,
+        "file": "Voice05/05-KF/05-KF-B00/05-KF-B00-0480",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 165333
+    },
+    {
+        "action": "PlaySe",
+        "end": 170000,
+        "file": "SysSe/SE_all/keitai/mail_makoto",
+        "layer": 1,
+        "start": 169083
+    },
+    {
+        "action": "CreateBG",
+        "end": 174000,
+        "file": "Event05/05-KF/05-KF-B00/05-KF-B00-012",
+        "start": 171066
+    },
+    {
+        "action": "CreateBG",
+        "end": 178000,
+        "file": "Event05/05-KF/05-KF-B00/05-KF-B00-013",
+        "start": 174150
+    },
+    {
+        "action": "PrintText",
+        "end": 176000,
+        "persona": "Макото",
+        "start": 174150,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 176000,
+        "file": "Voice05/05-KF/05-KF-B00/05-KF-B00-0510",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 174150
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 178000,
+        "start": 177216
+    }
+]

@@ -1,0 +1,119 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 24000,
+        "file": "BGM/SD_BGM/sdbgm07",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 12000,
+        "file": "Voice02/02-2S/02-2S-R03/02-2S-R03-0030",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event01/01-00/01-00-C00/01-00-C00-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event02/02-2S/02-2S-R03/02-2S-R03-002",
+        "start": 1316
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Макото",
+        "start": 2016,
+        "text": "Сэкаи ведь давно меня любит.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice02/02-2S/02-2S-R03/02-2S-R03-0050",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 2016
+    },
+    {
+        "action": "CreateBG",
+        "end": 12000,
+        "file": "Event02/02-2S/02-2S-R03/02-2S-R03-003",
+        "start": 7016
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Макото",
+        "start": 7066,
+        "text": "И мне с ней хорошо, она моя девушка, я так решил...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice02/02-2S/02-2S-R03/02-2S-R03-0060",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 7066
+    },
+    {
+        "action": "PlaySe",
+        "end": 24000,
+        "file": "Voice02/02-2S/02-2S-R03/02-2S-R03-0031",
+        "layer": 2,
+        "start": 12100
+    },
+    {
+        "action": "CreateBG",
+        "end": 18000,
+        "file": "Event02/02-2S/02-2S-R03/02-2S-R03-004",
+        "start": 12150
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Макото",
+        "start": 12216,
+        "text": "И всё-таки я не могу признаться в этом Котонохе...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice02/02-2S/02-2S-R03/02-2S-R03-0070",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 12216
+    },
+    {
+        "action": "CreateBG",
+        "end": 24000,
+        "file": "Event01/01-00/01-00-B00/01-00-B00-003",
+        "start": 18033
+    },
+    {
+        "action": "PrintText",
+        "end": 21000,
+        "persona": "Макото",
+        "start": 18083,
+        "text": "Неужели я...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 21000,
+        "file": "Voice02/02-2S/02-2S-R03/02-2S-R03-0080",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 18083
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "На самом деле Сэкаи не люблю?",
+        "answer2": "Не хочу терять Котоноху?^",
+        "end": 23000,
+        "start": 18233
+    }
+]

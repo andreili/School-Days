@@ -1,0 +1,113 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 11000,
+        "file": "BGM/SD_BGM/sdbgm01",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 11000,
+        "file": "Se03/03-A1/03-A1-B00/SE03-A1-B00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 11000,
+        "file": "Se03/03-A1/03-A1-B00/SE03-A1-B00-002",
+        "layer": 2,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event00/00-00/00-00-I00/00-00-I00-003",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Котоноха",
+        "start": 100,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-A1/03-A1-B00/03-A1-B00-0040",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 100
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event03/03-A1/03-A1-B00/03-A1-B00-002",
+        "start": 1283
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 1366,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice03/03-A1/03-A1-B00/03-A1-B00-0050",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 1366
+    },
+    {
+        "action": "CreateBG",
+        "end": 4000,
+        "file": "Event03/03-A1/03-A1-B00/03-A1-B00-003",
+        "start": 3083
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Макото",
+        "start": 3133,
+        "text": "Слушай...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice03/03-A1/03-A1-B00/03-A1-B00-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 3133
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event03/03-A1/03-A1-B00/03-A1-B00-004",
+        "start": 4283
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Котоноха",
+        "start": 4333,
+        "text": "Да?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice03/03-A1/03-A1-B00/03-A1-B00-0080",
+        "layer": 0,
+        "persona": "kot",
+        "start": 4333
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Ты сегодня сама не своя.^",
+        "answer2": "Я больше небуду тебя трогать.^",
+        "end": 10000,
+        "start": 5183
+    }
+]

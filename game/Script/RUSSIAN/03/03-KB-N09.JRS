@@ -1,0 +1,110 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 10000,
+        "file": "BGM/SD_BGM/sdbgm25",
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 4000,
+        "file": "Movie03/03-KB/03-KB-N09/03-KB-N09-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Котоноха",
+        "start": 0,
+        "text": "Значит...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice03/03-KB/03-KB-N09/03-KB-N09-0030",
+        "layer": 0,
+        "persona": "kot",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Макото",
+        "start": 2250,
+        "text": "М?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice03/03-KB/03-KB-N09/03-KB-N09-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2250
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Котоноха",
+        "start": 3116,
+        "text": "Мы будем первые друг у друга.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice03/03-KB/03-KB-N09/03-KB-N09-0050",
+        "layer": 0,
+        "persona": "kot",
+        "start": 3116
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event03/03-KB/03-KB-N09/03-KB-N09-002",
+        "start": 4250
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 5166,
+        "text": "Да.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice03/03-KB/03-KB-N09/03-KB-N09-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 5166
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Котоноха",
+        "start": 7083,
+        "text": "Я так рада...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice03/03-KB/03-KB-N09/03-KB-N09-0070",
+        "layer": 0,
+        "persona": "kot",
+        "start": 7083
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Макото",
+        "start": 8283,
+        "text": "Я тоже...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice03/03-KB/03-KB-N09/03-KB-N09-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 8283
+    }
+]

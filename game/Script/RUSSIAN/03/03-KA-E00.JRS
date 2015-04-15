@@ -1,0 +1,210 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 31000,
+        "file": "BGM/SD_BGM/sdbgm15",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 31000,
+        "file": "Se03/03-KA/03-KA-E00/SE03-KA-E00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event03/03-KA/03-KA-E00/03-KA-E00-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 6000,
+        "file": "Event03/03-KA/03-KA-E00/03-KA-E00-002",
+        "start": 3000
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Макото",
+        "start": 3016,
+        "text": "Ладно, до завтра.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice03/03-KA/03-KA-E00/03-KA-E00-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 3016
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Котоноха",
+        "start": 4000,
+        "text": "Ага.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice03/03-KA/03-KA-E00/03-KA-E00-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 4000
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Макото",
+        "start": 5000,
+        "text": "Я тебе напишу, когда приду домой.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice03/03-KA/03-KA-E00/03-KA-E00-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 5000
+    },
+    {
+        "action": "PlayMovie",
+        "end": 28000,
+        "file": "Movie03/03-KA/03-KA-E00/03-KA-E00-003",
+        "start": 6216
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Котоноха",
+        "start": 6283,
+        "text": "Хорошо. М...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice03/03-KA/03-KA-E00/03-KA-E00-0060",
+        "layer": 0,
+        "persona": "kot",
+        "start": 6283
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Макото",
+        "start": 10216,
+        "text": "М?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice03/03-KA/03-KA-E00/03-KA-E00-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 10216
+    },
+    {
+        "action": "PrintText",
+        "end": 15000,
+        "persona": "Котоноха",
+        "start": 11333,
+        "text": "Ты можешь немного наклониться?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 15000,
+        "file": "Voice03/03-KA/03-KA-E00/03-KA-E00-0080",
+        "layer": 0,
+        "persona": "kot",
+        "start": 11333
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Макото",
+        "start": 15166,
+        "text": "Гм... Вот так?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice03/03-KA/03-KA-E00/03-KA-E00-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 15166
+    },
+    {
+        "action": "PrintText",
+        "end": 24000,
+        "persona": "Котоноха",
+        "start": 17383,
+        "text": "Да. И не двигайся.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 24000,
+        "file": "Voice03/03-KA/03-KA-E00/03-KA-E00-0100",
+        "layer": 0,
+        "persona": "kot",
+        "start": 17383
+    },
+    {
+        "action": "PrintText",
+        "end": 25000,
+        "persona": "Макото",
+        "start": 24233,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 25000,
+        "file": "Voice03/03-KA/03-KA-E00/03-KA-E00-0120",
+        "layer": 1,
+        "persona": "mak",
+        "start": 24233
+    },
+    {
+        "action": "PrintText",
+        "end": 27000,
+        "persona": "Котоноха",
+        "start": 26266,
+        "text": "Спокойной ночи.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 27000,
+        "file": "Voice03/03-KA/03-KA-E00/03-KA-E00-0140",
+        "layer": 0,
+        "persona": "kot",
+        "start": 26266
+    },
+    {
+        "action": "CreateBG",
+        "end": 31000,
+        "file": "Event03/03-KA/03-KA-E00/03-KA-E00-001",
+        "start": 28283
+    },
+    {
+        "action": "PrintText",
+        "end": 29000,
+        "persona": "Макото",
+        "start": 29000,
+        "text": "Угу...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 29000,
+        "file": "Voice03/03-KA/03-KA-E00/03-KA-E00-0150",
+        "layer": 1,
+        "persona": "mak",
+        "start": 29000
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 31000,
+        "start": 30033
+    }
+]

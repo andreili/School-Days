@@ -1,0 +1,168 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 16000,
+        "file": "BGM/SD_BGM/sdbgm06",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 16000,
+        "file": "Se03/03-KA/03-KA-G06/SE03-KA-G06-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event03/03-KA/03-KA-G06/03-KA-G06-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Думаю да.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-KA/03-KA-G06/03-KA-G06-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event03/03-KA/03-KA-G06/03-KA-G06-002",
+        "start": 1250
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Макото",
+        "start": 1350,
+        "text": "Наверняка она где-то во дворе...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice03/03-KA/03-KA-G06/03-KA-G06-0040",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 1350
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event03/03-KA/03-KA-G06/03-KA-G06-003",
+        "start": 5266
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Сэцуна",
+        "start": 5366,
+        "text": "Ты к ней не пойдешь?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice03/03-KA/03-KA-G06/03-KA-G06-0050",
+        "layer": 0,
+        "persona": "set",
+        "start": 5366
+    },
+    {
+        "action": "CreateBG",
+        "end": 8000,
+        "file": "Event03/03-KA/03-KA-G06/03-KA-G06-004",
+        "start": 7100
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 7116,
+        "text": "Нет...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice03/03-KA/03-KA-G06/03-KA-G06-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 7116
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event03/03-KA/03-KA-G06/03-KA-G06-005",
+        "start": 8116
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Сэцуна",
+        "start": 8266,
+        "text": "Вы поссорились?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice03/03-KA/03-KA-G06/03-KA-G06-0070",
+        "layer": 0,
+        "persona": "set",
+        "start": 8266
+    },
+    {
+        "action": "CreateBG",
+        "end": 13000,
+        "file": "Event03/03-KA/03-KA-G06/03-KA-G06-006",
+        "start": 9333
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Макото",
+        "start": 10083,
+        "text": "Не твоё дело.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice03/03-KA/03-KA-G06/03-KA-G06-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 10083
+    },
+    {
+        "action": "CreateBG",
+        "end": 16000,
+        "file": "Event03/03-KA/03-KA-G06/03-KA-G06-007",
+        "start": 13216
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Сэцуна",
+        "start": 14100,
+        "text": "Угу...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice03/03-KA/03-KA-G06/03-KA-G06-0090",
+        "layer": 0,
+        "persona": "set",
+        "start": 14100
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 16000,
+        "start": 15233
+    }
+]

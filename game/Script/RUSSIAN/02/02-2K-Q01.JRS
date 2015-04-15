@@ -1,0 +1,468 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 95000,
+        "file": "BGM/SD_BGM/sdbgm07",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event02/02-2K/02-2K-Q01/02-2K-Q01-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event02/02-2K/02-2K-Q01/02-2K-Q01-002",
+        "start": 2083
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Сэкаи",
+        "start": 2083,
+        "text": "Макото, да расслабься ты, что ты такой скованный.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice02/02-2K/02-2K-Q01/02-2K-Q01-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 2083
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Макото",
+        "start": 5283,
+        "text": "Я не думал, что у тебя мама дома!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice02/02-2K/02-2K-Q01/02-2K-Q01-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 5283
+    },
+    {
+        "action": "CreateBG",
+        "end": 21000,
+        "file": "Event02/02-2K/02-2K-Q01/02-2K-Q01-003A",
+        "start": 11366
+    },
+    {
+        "action": "PrintText",
+        "end": 21000,
+        "persona": "Сэкаи",
+        "start": 11366,
+        "text": "Что? Пошли ко мне, у меня дома никого нет - вот, значит, что ты подумал!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 21000,
+        "file": "Voice02/02-2K/02-2K-Q01/02-2K-Q01-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 11366
+    },
+    {
+        "action": "PlaySe",
+        "end": 24000,
+        "file": "Voice02/02-2K/02-2K-Q01/02-2K-Q01-0070",
+        "layer": 1,
+        "start": 21233
+    },
+    {
+        "action": "CreateBG",
+        "end": 31000,
+        "file": "Event02/02-2K/02-2K-Q01/02-2K-Q01-003B",
+        "start": 21233
+    },
+    {
+        "action": "PrintText",
+        "end": 26000,
+        "persona": "Сэкаи",
+        "start": 24150,
+        "text": "Дурак озабоченный!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 26000,
+        "file": "Voice02/02-2K/02-2K-Q01/02-2K-Q01-0080",
+        "layer": 0,
+        "persona": "sek",
+        "start": 24150
+    },
+    {
+        "action": "PrintText",
+        "end": 30000,
+        "persona": "Макото",
+        "start": 26216,
+        "text": "Да ну тебя!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 30000,
+        "file": "Voice02/02-2K/02-2K-Q01/02-2K-Q01-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 26216
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "OUT",
+        "end": 31000,
+        "start": 31000
+    },
+    {
+        "action": "CreateBG",
+        "end": 40000,
+        "file": "Event02/02-2K/02-2K-Q01/02-2K-Q01-004",
+        "start": 31100
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "IN",
+        "end": 31000,
+        "start": 31100
+    },
+    {
+        "action": "PrintText",
+        "end": 39000,
+        "persona": "Сэкаи",
+        "start": 31200,
+        "text": "Прости, сегодня на лестнице мы были одни, вот я и увлеклась немного...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 39000,
+        "file": "Voice02/02-2K/02-2K-Q01/02-2K-Q01-0100",
+        "layer": 0,
+        "persona": "sek",
+        "start": 31200
+    },
+    {
+        "action": "PrintText",
+        "end": 41000,
+        "persona": "Макото",
+        "start": 39150,
+        "text": "Увлеклась...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 41000,
+        "file": "Voice02/02-2K/02-2K-Q01/02-2K-Q01-0110",
+        "layer": 1,
+        "persona": "mak",
+        "start": 39150
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "OUT",
+        "end": 40000,
+        "start": 40150
+    },
+    {
+        "action": "CreateBG",
+        "end": 45000,
+        "file": "Event02/02-2K/02-2K-Q01/02-2K-Q01-005",
+        "start": 40250
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "IN",
+        "end": 40000,
+        "start": 40250
+    },
+    {
+        "action": "PrintText",
+        "end": 45000,
+        "persona": "Сэкаи",
+        "start": 40350,
+        "text": "Знаешь, нам, наверное, лучше совсем наедине не оставаться.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 45000,
+        "file": "Voice02/02-2K/02-2K-Q01/02-2K-Q01-0120",
+        "layer": 0,
+        "persona": "sek",
+        "start": 40350
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "OUT",
+        "end": 45000,
+        "start": 45116
+    },
+    {
+        "action": "CreateBG",
+        "end": 51000,
+        "file": "Event02/02-2K/02-2K-Q01/02-2K-Q01-006",
+        "start": 45216
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "IN",
+        "end": 45000,
+        "start": 45216
+    },
+    {
+        "action": "PrintText",
+        "end": 46000,
+        "persona": "Макото",
+        "start": 45316,
+        "text": "Угу...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 46000,
+        "file": "Voice02/02-2K/02-2K-Q01/02-2K-Q01-0130",
+        "layer": 1,
+        "persona": "mak",
+        "start": 45316
+    },
+    {
+        "action": "PrintText",
+        "end": 49000,
+        "persona": "Сэкаи",
+        "start": 46166,
+        "text": "Ну, а у меня дома за стенкой мама, так что всё в порядке.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 49000,
+        "file": "Voice02/02-2K/02-2K-Q01/02-2K-Q01-0140",
+        "layer": 0,
+        "persona": "sek",
+        "start": 46166
+    },
+    {
+        "action": "PrintText",
+        "end": 51000,
+        "persona": "Макото",
+        "start": 49383,
+        "text": "Ага...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 51000,
+        "file": "Voice02/02-2K/02-2K-Q01/02-2K-Q01-0150",
+        "layer": 1,
+        "persona": "mak",
+        "start": 49383
+    },
+    {
+        "action": "CreateBG",
+        "end": 63000,
+        "file": "Event02/02-2K/02-2K-Q01/02-2K-Q01-007",
+        "start": 51050
+    },
+    {
+        "action": "PrintText",
+        "end": 54000,
+        "persona": "Сэкаи",
+        "start": 51100,
+        "text": "Будешь ко мне по-настоящему лезть, она всё услышит.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 54000,
+        "file": "Voice02/02-2K/02-2K-Q01/02-2K-Q01-0160",
+        "layer": 0,
+        "persona": "sek",
+        "start": 51100
+    },
+    {
+        "action": "PrintText",
+        "end": 57000,
+        "persona": "Макото",
+        "start": 55000,
+        "text": "Да не буду я!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 57000,
+        "file": "Voice02/02-2K/02-2K-Q01/02-2K-Q01-0170",
+        "layer": 1,
+        "persona": "mak",
+        "start": 55000
+    },
+    {
+        "action": "PrintText",
+        "end": 62000,
+        "persona": "Сэкаи",
+        "start": 56250,
+        "text": "Вот уж не уверена... Сегодня днём ты был весьма настойчив...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 62000,
+        "file": "Voice02/02-2K/02-2K-Q01/02-2K-Q01-0180",
+        "layer": 0,
+        "persona": "sek",
+        "start": 56250
+    },
+    {
+        "action": "CreateBG",
+        "end": 73000,
+        "file": "Event02/02-2K/02-2K-Q01/02-2K-Q01-008",
+        "start": 63016
+    },
+    {
+        "action": "PrintText",
+        "end": 67000,
+        "persona": "Макото",
+        "start": 63066,
+        "text": "Я это... Прости...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 67000,
+        "file": "Voice02/02-2K/02-2K-Q01/02-2K-Q01-0190",
+        "layer": 1,
+        "persona": "mak",
+        "start": 63066
+    },
+    {
+        "action": "PrintText",
+        "end": 71000,
+        "persona": "Сэкаи",
+        "start": 67250,
+        "text": "Угу. Хорошо, что понимаешь свои ошибки.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 71000,
+        "file": "Voice02/02-2K/02-2K-Q01/02-2K-Q01-0200",
+        "layer": 0,
+        "persona": "sek",
+        "start": 67250
+    },
+    {
+        "action": "PrintText",
+        "end": 73000,
+        "persona": "Макото",
+        "start": 71350,
+        "text": "Блин!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 73000,
+        "file": "Voice02/02-2K/02-2K-Q01/02-2K-Q01-0210",
+        "layer": 1,
+        "persona": "mak",
+        "start": 71350
+    },
+    {
+        "action": "CreateBG",
+        "end": 88000,
+        "file": "Event02/02-2K/02-2K-Q01/02-2K-Q01-009",
+        "start": 73216
+    },
+    {
+        "action": "PrintText",
+        "end": 81000,
+        "persona": "Сэкаи",
+        "start": 73216,
+        "text": "Понимаешь, нам ведь и не нужно по-настоящему заниматься любовью, у тебя же Кацура есть...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 81000,
+        "file": "Voice02/02-2K/02-2K-Q01/02-2K-Q01-0220",
+        "layer": 0,
+        "persona": "sek",
+        "start": 73216
+    },
+    {
+        "action": "PrintText",
+        "end": 82000,
+        "persona": "Макото",
+        "start": 82016,
+        "text": "Угу...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 82000,
+        "file": "Voice02/02-2K/02-2K-Q01/02-2K-Q01-0230",
+        "layer": 1,
+        "persona": "mak",
+        "start": 82016
+    },
+    {
+        "action": "PrintText",
+        "end": 87000,
+        "persona": "Сэкаи",
+        "start": 82366,
+        "text": "Просто тебе нужно научиться вести себя с девушками.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 87000,
+        "file": "Voice02/02-2K/02-2K-Q01/02-2K-Q01-0240",
+        "layer": 0,
+        "persona": "sek",
+        "start": 82366
+    },
+    {
+        "action": "PrintText",
+        "end": 88000,
+        "persona": "Макото",
+        "start": 87333,
+        "text": "Понял.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 88000,
+        "file": "Voice02/02-2K/02-2K-Q01/02-2K-Q01-0250",
+        "layer": 1,
+        "persona": "mak",
+        "start": 87333
+    },
+    {
+        "action": "CreateBG",
+        "end": 95000,
+        "file": "Event02/02-2K/02-2K-Q01/02-2K-Q01-001",
+        "start": 88316
+    },
+    {
+        "action": "PrintText",
+        "end": 93000,
+        "persona": "Сэкаи",
+        "start": 88316,
+        "text": "Ладно, выйди на минутку, я переоденусь.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 93000,
+        "file": "Voice02/02-2K/02-2K-Q01/02-2K-Q01-0260",
+        "layer": 0,
+        "persona": "sek",
+        "start": 88316
+    },
+    {
+        "action": "PrintText",
+        "end": 94000,
+        "persona": "Макото",
+        "start": 93050,
+        "text": "Х-хорошо...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 94000,
+        "file": "Voice02/02-2K/02-2K-Q01/02-2K-Q01-0270",
+        "layer": 1,
+        "persona": "mak",
+        "start": 93050
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 95000,
+        "start": 94283
+    }
+]

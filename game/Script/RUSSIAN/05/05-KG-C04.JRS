@@ -1,0 +1,71 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 15000,
+        "file": "BGM/SD_BGM/sdbgm20",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event05/05-KG/05-KG-C03/05-KG-C03-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 1083,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice05/05-KG/05-KG-C04/05-KG-C04-0030",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 1083
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event05/05-KG/05-KG-C03/05-KG-C03-002",
+        "start": 5033
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Макото",
+        "start": 5200,
+        "text": "Нет... Хватит о ней думать...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice05/05-KG/05-KG-C04/05-KG-C04-0040",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 5200
+    },
+    {
+        "action": "PrintText",
+        "end": 15000,
+        "persona": "Макото",
+        "start": 10150,
+        "text": "Пусть к Котонохе меня так и тянет... Но у меня есть Сэкаи.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 15000,
+        "file": "Voice05/05-KG/05-KG-C04/05-KG-C04-0050",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 10150
+    },
+    {
+        "action": "CreateBG",
+        "end": 15000,
+        "file": "Event05/05-KG/05-KG-C03/05-KG-C03-003",
+        "start": 10350
+    }
+]

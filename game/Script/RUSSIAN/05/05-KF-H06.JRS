@@ -1,0 +1,98 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 11000,
+        "file": "BGM/SD_BGM/sdbgm29",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 11000,
+        "file": "SysSe/SE_all/gaya/beach1",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event05/05-KF/05-KF-H06/05-KF-H06-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Но я люблю тебя, Сэкаи.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice05/05-KF/05-KF-H06/05-KF-H06-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event05/05-KF/05-KF-H06/05-KF-H06-002",
+        "start": 5316
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Сэкаи",
+        "start": 5333,
+        "text": "И я тебя.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice05/05-KF/05-KF-H06/05-KF-H06-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 5333
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Макото",
+        "start": 7033,
+        "text": "Сэкаи...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice05/05-KF/05-KF-H06/05-KF-H06-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 7033
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event05/05-KF/05-KF-H06/05-KF-H06-003",
+        "start": 7233
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event05/05-KF/05-KF-H06/05-KF-H06-004",
+        "start": 10000
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice05/05-KF/05-KF-H06/05-KF-H06-0060",
+        "layer": -1,
+        "persona": "",
+        "start": 10000
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 11000,
+        "start": 10316
+    }
+]

@@ -1,0 +1,196 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 27000,
+        "file": "SysSe/SE_all/gaya/kyousitu_rouka",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event05/05-KF/05-KF-C08/05-KF-C08-001",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 3000,
+        "file": "SysSe/SE_all/door/door_kyousitu",
+        "layer": 2,
+        "start": 1033
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event05/05-KF/05-KF-C08/05-KF-C08-002",
+        "start": 1383
+    },
+    {
+        "action": "CreateBG",
+        "end": 6000,
+        "file": "Event05/05-KF/05-KF-C08/05-KF-C08-003",
+        "start": 3116
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Сэкаи",
+        "start": 3116,
+        "text": "Привет.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice05/05-KF/05-KF-C08/05-KF-C08-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 3116
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Нанами",
+        "start": 4183,
+        "text": "Привет, Сэкаи.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice05/05-KF/05-KF-C08/05-KF-C08-0050",
+        "layer": 0,
+        "persona": "nan",
+        "start": 4183
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Хикари",
+        "start": 5283,
+        "text": "Приветище!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice05/05-KF/05-KF-C08/05-KF-C08-0060",
+        "layer": 0,
+        "persona": "hik",
+        "start": 5283
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event05/05-KF/05-KF-C08/05-KF-C08-004",
+        "start": 6383
+    },
+    {
+        "action": "CreateBG",
+        "end": 12000,
+        "file": "Event05/05-KF/05-KF-C08/05-KF-C08-005",
+        "start": 9133
+    },
+    {
+        "action": "CreateBG",
+        "end": 14000,
+        "file": "Event05/05-KF/05-KF-C08/05-KF-C08-004",
+        "start": 12116
+    },
+    {
+        "action": "CreateBG",
+        "end": 17000,
+        "file": "Event05/05-KF/05-KF-C08/05-KF-C08-007",
+        "start": 14266
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Сэкаи",
+        "start": 15183,
+        "text": "А...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice05/05-KF/05-KF-C08/05-KF-C08-0080",
+        "layer": 0,
+        "persona": "sek",
+        "start": 15183
+    },
+    {
+        "action": "PlayMovie",
+        "end": 18000,
+        "file": "Event05/05-KF/05-KF-C08/05-KF-C08-006",
+        "start": 17116
+    },
+    {
+        "action": "CreateBG",
+        "end": 20000,
+        "file": "Event05/05-KF/05-KF-C08/05-KF-C08-010",
+        "start": 18033
+    },
+    {
+        "action": "PrintText",
+        "end": 19000,
+        "persona": "Сэкаи",
+        "start": 18150,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 19000,
+        "file": "Voice05/05-KF/05-KF-C08/05-KF-C08-0100",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 18150
+    },
+    {
+        "action": "CreateBG",
+        "end": 22000,
+        "file": "Event05/05-KF/05-KF-C08/05-KF-C08-009",
+        "start": 20000
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 22000,
+        "start": 21350
+    },
+    {
+        "action": "CreateBG",
+        "end": 24000,
+        "file": "Event05/05-KF/05-KF-C08/05-KF-C08-011",
+        "start": 22150
+    },
+    {
+        "action": "BlackFade",
+        "dir": "IN",
+        "end": 22000,
+        "start": 22150
+    },
+    {
+        "action": "CreateBG",
+        "end": 27000,
+        "file": "Event05/05-KF/05-KF-C08/05-KF-C08-013",
+        "start": 24066
+    },
+    {
+        "action": "PrintText",
+        "end": 25000,
+        "persona": "Котоноха",
+        "start": 24250,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 25000,
+        "file": "Voice05/05-KF/05-KF-C08/05-KF-C08-0130",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 24250
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 27000,
+        "start": 26133
+    }
+]

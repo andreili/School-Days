@@ -1,0 +1,167 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 12000,
+        "file": "BGM/SD_BGM/sdbgm19",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 4000,
+        "file": "Event03/03-A0/03-A0-C02/03-A0-C02-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 0,
+        "persona": "Сэцуна",
+        "start": 0,
+        "text": "Сэкаи...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 0,
+        "file": "Voice03/03-A0/03-A0-C02/03-A0-C02-0030",
+        "layer": 0,
+        "persona": "set",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Сэкаи",
+        "start": 350,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-A0/03-A0-C02/03-A0-C02-0040",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 350
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Сэцуна",
+        "start": 1366,
+        "text": "Ты на фестиваль пойдешь?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice03/03-A0/03-A0-C02/03-A0-C02-0050",
+        "layer": 0,
+        "persona": "set",
+        "start": 1366
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event03/03-A0/03-A0-C00/03-A0-C00-003",
+        "start": 4283
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Сэкаи",
+        "start": 5000,
+        "text": "Нет...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice03/03-A0/03-A0-C02/03-A0-C02-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 5000
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Сэцуна",
+        "start": 6083,
+        "text": "Понятно.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice03/03-A0/03-A0-C02/03-A0-C02-0070",
+        "layer": 0,
+        "persona": "set",
+        "start": 6083
+    },
+    {
+        "action": "CreateBG",
+        "end": 12000,
+        "file": "Event03/03-A0/03-A0-C02/03-A0-C02-003",
+        "start": 7033
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Сэкаи",
+        "start": 7100,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice03/03-A0/03-A0-C02/03-A0-C02-0080",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 7100
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Сэцуна",
+        "start": 8050,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice03/03-A0/03-A0-C02/03-A0-C02-0090",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 8050
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Сэкаи",
+        "start": 9150,
+        "text": "Прости...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice03/03-A0/03-A0-C02/03-A0-C02-0100",
+        "layer": 0,
+        "persona": "sek",
+        "start": 9150
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Сэцуна",
+        "start": 10233,
+        "text": "Ничего.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice03/03-A0/03-A0-C02/03-A0-C02-0110",
+        "layer": 0,
+        "persona": "set",
+        "start": 10233
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 12000,
+        "start": 11316
+    }
+]

@@ -1,0 +1,252 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 32000,
+        "file": "BGM/SD_BGM/sdbgm18",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event03/03-SA/03-SA-C05/03-SA-C05-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 0,
+        "persona": "Макото",
+        "start": 100,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 0,
+        "file": "Voice03/03-SA/03-SA-C05/03-SA-C05-0030",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 100
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Сэкаи",
+        "start": 1100,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice03/03-SA/03-SA-C05/03-SA-C05-0040",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 1100
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Макото",
+        "start": 2233,
+        "text": "Ясно.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice03/03-SA/03-SA-C05/03-SA-C05-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2233
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Макото",
+        "start": 4066,
+        "text": "Хочешь, чтобы я пошёл?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice03/03-SA/03-SA-C05/03-SA-C05-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 4066
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Сэкаи",
+        "start": 5300,
+        "text": "Да.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice03/03-SA/03-SA-C05/03-SA-C05-0080",
+        "layer": 0,
+        "persona": "sek",
+        "start": 5300
+    },
+    {
+        "action": "CreateBG",
+        "end": 14000,
+        "file": "Event03/03-SA/03-SA-C05/03-SA-C05-002",
+        "start": 7350
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Макото",
+        "start": 7350,
+        "text": "И на мои чувства... Тебе наплевать...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice03/03-SA/03-SA-C05/03-SA-C05-0100",
+        "layer": 1,
+        "persona": "mak",
+        "start": 7350
+    },
+    {
+        "action": "CreateBG",
+        "end": 22000,
+        "file": "Event03/03-SA/03-SA-C05/03-SA-C05-003",
+        "start": 14000
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Сэкаи",
+        "start": 14000,
+        "text": "Неправ... да.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice03/03-SA/03-SA-C05/03-SA-C05-0110",
+        "layer": 0,
+        "persona": "sek",
+        "start": 14000
+    },
+    {
+        "action": "PrintText",
+        "end": 20000,
+        "persona": "Макото",
+        "start": 16333,
+        "text": "Что там я!.. Главное, чтобы Котонохе хорошобыло!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 20000,
+        "file": "Voice03/03-SA/03-SA-C05/03-SA-C05-0120",
+        "layer": 1,
+        "persona": "mak",
+        "start": 16333
+    },
+    {
+        "action": "PrintText",
+        "end": 21000,
+        "persona": "Сэкаи",
+        "start": 20033,
+        "text": "Нет!..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 21000,
+        "file": "Voice03/03-SA/03-SA-C05/03-SA-C05-0130",
+        "layer": 0,
+        "persona": "sek",
+        "start": 20033
+    },
+    {
+        "action": "PrintText",
+        "end": 22000,
+        "persona": "Макото",
+        "start": 21150,
+        "text": "Ну пока.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 22000,
+        "file": "Voice03/03-SA/03-SA-C05/03-SA-C05-0140",
+        "layer": 1,
+        "persona": "mak",
+        "start": 21150
+    },
+    {
+        "action": "PlaySe",
+        "end": 24000,
+        "file": "SysSe/SE_all/door/door_kyousitu_open",
+        "layer": 2,
+        "start": 21366
+    },
+    {
+        "action": "CreateBG",
+        "end": 23000,
+        "file": "Event03/03-SA/03-SA-C05/03-SA-C05-004",
+        "start": 22133
+    },
+    {
+        "action": "PrintText",
+        "end": 23000,
+        "persona": "Сэкаи",
+        "start": 22133,
+        "text": "А!..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 23000,
+        "file": "Voice03/03-SA/03-SA-C05/03-SA-C05-0160",
+        "layer": 0,
+        "persona": "sek",
+        "start": 22133
+    },
+    {
+        "action": "CreateBG",
+        "end": 25000,
+        "file": "Event03/03-SA/03-SA-C05/03-SA-C05-005",
+        "start": 23316
+    },
+    {
+        "action": "PrintText",
+        "end": 24000,
+        "persona": "Сэкаи",
+        "start": 23333,
+        "text": "А...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 24000,
+        "file": "Voice03/03-SA/03-SA-C05/03-SA-C05-0180",
+        "layer": 0,
+        "persona": "sek",
+        "start": 23333
+    },
+    {
+        "action": "PlaySe",
+        "end": 28000,
+        "file": "SysSe/SE_all/door/door_kyousitu_close",
+        "layer": 2,
+        "start": 24383
+    },
+    {
+        "action": "PlaySe",
+        "end": 31000,
+        "file": "Voice03/03-SA/03-SA-C05/03-SA-C05-0190",
+        "layer": 1,
+        "start": 25350
+    },
+    {
+        "action": "CreateBG",
+        "end": 32000,
+        "file": "Event03/03-SA/03-SA-C05/03-SA-C05-006",
+        "start": 25350
+    },
+    {
+        "action": "PlaySe",
+        "end": 32000,
+        "file": "SysSe/SE_all/footsteps/asioto_school",
+        "layer": 3,
+        "start": 27383
+    }
+]

@@ -1,0 +1,262 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 46000,
+        "file": "BGM/SD_BGM/sdbgm07",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event01/01-00/01-00-B00/01-00-B00-003",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event02/02-2S/02-2S-J09/02-2S-J09-001B",
+        "start": 1350
+    },
+    {
+        "action": "CreateBG",
+        "end": 4000,
+        "file": "Event02/02-2S/02-2S-J09/02-2S-J09-002",
+        "start": 3366
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Сэкаи",
+        "start": 3366,
+        "text": "Что?!!!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice02/02-2S/02-2S-J09/02-2S-J09-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 3366
+    },
+    {
+        "action": "CreateBG",
+        "end": 15000,
+        "file": "Event01/01-00/01-00-R00/01-00-R00-002",
+        "start": 4350
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Учитель",
+        "start": 4350,
+        "text": "Саиёндзи, что случилось?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice02/02-2S/02-2S-J09/02-2S-J09-0060",
+        "layer": 1,
+        "persona": "gnk",
+        "start": 4350
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Сэкаи",
+        "start": 8116,
+        "text": "А... Нет-нет... Ничего...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice02/02-2S/02-2S-J09/02-2S-J09-0070",
+        "layer": 0,
+        "persona": "sek",
+        "start": 8116
+    },
+    {
+        "action": "PrintText",
+        "end": 15000,
+        "persona": "Учитель",
+        "start": 12133,
+        "text": "Ты что там, заснула на уроке?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 15000,
+        "file": "Voice02/02-2S/02-2S-J09/02-2S-J09-0080",
+        "layer": 1,
+        "persona": "gnk",
+        "start": 12133
+    },
+    {
+        "action": "CreateBG",
+        "end": 26000,
+        "file": "Event02/02-2S/02-2S-J09/02-2S-J09-004",
+        "start": 15216
+    },
+    {
+        "action": "PrintText",
+        "end": 22000,
+        "persona": "Сэкаи",
+        "start": 15216,
+        "text": "Простите, я, кажется, задремала и мне приснился кошмар.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 22000,
+        "file": "Voice02/02-2S/02-2S-J09/02-2S-J09-0090",
+        "layer": 0,
+        "persona": "sek",
+        "start": 15216
+    },
+    {
+        "action": "PrintText",
+        "end": 24000,
+        "persona": "Учитель",
+        "start": 22016,
+        "text": "Ну что, проснулась?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 25000,
+        "file": "Voice02/02-2S/02-2S-J09/02-2S-J09-0100",
+        "layer": 1,
+        "persona": "gnk",
+        "start": 21333
+    },
+    {
+        "action": "PrintText",
+        "end": 25000,
+        "persona": "Сэкаи",
+        "start": 24366,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 25000,
+        "file": "Voice02/02-2S/02-2S-J09/02-2S-J09-0110",
+        "layer": 0,
+        "persona": "sek",
+        "start": 24366
+    },
+    {
+        "action": "CreateBG",
+        "end": 35000,
+        "file": "Event02/02-2S/02-2S-J09/02-2S-J09-005",
+        "start": 26000
+    },
+    {
+        "action": "PrintText",
+        "end": 30000,
+        "persona": "Учитель",
+        "start": 25366,
+        "text": "Раз проснулась, прочитай-ка следующий абзац с Канродзи по ролям.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 32000,
+        "file": "Voice02/02-2S/02-2S-J09/02-2S-J09-0120",
+        "layer": 1,
+        "persona": "gnk",
+        "start": 26000
+    },
+    {
+        "action": "PrintText",
+        "end": 33000,
+        "persona": "Сэкаи",
+        "start": 32016,
+        "text": "Хорошо...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 33000,
+        "file": "Voice02/02-2S/02-2S-J09/02-2S-J09-0130",
+        "layer": 0,
+        "persona": "sek",
+        "start": 32016
+    },
+    {
+        "action": "PrintText",
+        "end": 35000,
+        "persona": "Нанами",
+        "start": 33366,
+        "text": "Сэкаи...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 35000,
+        "file": "Voice02/02-2S/02-2S-J09/02-2S-J09-0150",
+        "layer": 0,
+        "persona": "nan",
+        "start": 33366
+    },
+    {
+        "action": "CreateBG",
+        "end": 39000,
+        "file": "Event02/02-2S/02-2S-J09/02-2S-J09-006",
+        "start": 35183
+    },
+    {
+        "action": "PlaySe",
+        "end": 44000,
+        "file": "Voice02/02-2S/02-2S-J09/02-2S-J09-0170",
+        "layer": 1,
+        "start": 35266
+    },
+    {
+        "action": "CreateBG",
+        "end": 42000,
+        "file": "Event02/02-2S/02-2S-J09/02-2S-J09-007",
+        "start": 39016
+    },
+    {
+        "action": "PrintText",
+        "end": 41000,
+        "persona": "Макото",
+        "start": 39166,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 41000,
+        "file": "Voice02/02-2S/02-2S-J09/02-2S-J09-0200",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 39166
+    },
+    {
+        "action": "CreateBG",
+        "end": 46000,
+        "file": "Event02/02-2S/02-2S-J09/02-2S-J09-008",
+        "start": 42366
+    },
+    {
+        "action": "PrintText",
+        "end": 43000,
+        "persona": "Сэкаи",
+        "start": 43150,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 43000,
+        "file": "Voice02/02-2S/02-2S-J09/02-2S-J09-0210",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 43150
+    },
+    {
+        "action": "PlaySe",
+        "end": 46000,
+        "file": "Voice02/02-2S/02-2S-J09/02-2S-J09-0171",
+        "layer": 1,
+        "start": 44183
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 46000,
+        "start": 45166
+    }
+]

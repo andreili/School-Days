@@ -1,0 +1,44 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 2000,
+        "file": "BGM/SD_BGM/sdbgm21",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event05/05-SE/05-SE-C08/05-SE-C08-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Ребёнок-то всё равно не мой.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice05/05-SE/05-SE-P00/05-SE-P00-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Сэкаи",
+        "start": 1233,
+        "text": "Э?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice05/05-SE/05-SE-P00/05-SE-P00-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 1233
+    }
+]

@@ -1,0 +1,337 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 40000,
+        "file": "BGM/SD_BGM/sdbgm06",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 40000,
+        "file": "Se03/03-BK/03-BK-F00/SE03-BK-F00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event03/03-BK/03-BK-F00/03-BK-F00-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 4000,
+        "file": "Event03/03-BK/03-BK-F00/03-BK-F00-002",
+        "start": 3000
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event03/03-BK/03-BK-F00/03-BK-F00-003",
+        "start": 4016
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Макото",
+        "start": 4116,
+        "text": "О!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice03/03-BK/03-BK-F00/03-BK-F00-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 4116
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event03/03-BK/03-BK-F00/03-BK-F00-004",
+        "start": 5033
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Сэкаи",
+        "start": 5033,
+        "text": "Макото.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice03/03-BK/03-BK-F00/03-BK-F00-0050",
+        "layer": 0,
+        "persona": "sek",
+        "start": 5033
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 6066,
+        "text": "Домой идёшь?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice03/03-BK/03-BK-F00/03-BK-F00-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 6066
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Сэкаи",
+        "start": 7166,
+        "text": "Угу...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice03/03-BK/03-BK-F00/03-BK-F00-0070",
+        "layer": 0,
+        "persona": "sek",
+        "start": 7166
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Макото",
+        "start": 8116,
+        "text": "Я тоже... наверное.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice03/03-BK/03-BK-F00/03-BK-F00-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 8116
+    },
+    {
+        "action": "CreateBG",
+        "end": 14000,
+        "file": "Event03/03-BK/03-BK-F00/03-BK-F00-005",
+        "start": 11150
+    },
+    {
+        "action": "PrintText",
+        "end": 15000,
+        "persona": "Сэкаи",
+        "start": 11150,
+        "text": "Да, уборка потребовала немало времени и сил.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 15000,
+        "file": "Voice03/03-BK/03-BK-F00/03-BK-F00-0090",
+        "layer": 0,
+        "persona": "sek",
+        "start": 11150
+    },
+    {
+        "action": "CreateBG",
+        "end": 20000,
+        "file": "Event03/03-BK/03-BK-F00/03-BK-F00-006",
+        "start": 14350
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Макото",
+        "start": 15050,
+        "text": "А ты на вечеринку не пойдешь?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice03/03-BK/03-BK-F00/03-BK-F00-0100",
+        "layer": 1,
+        "persona": "mak",
+        "start": 15050
+    },
+    {
+        "action": "PrintText",
+        "end": 19000,
+        "persona": "Сэкаи",
+        "start": 17116,
+        "text": "Ну, меня звали, но я пас.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 19000,
+        "file": "Voice03/03-BK/03-BK-F00/03-BK-F00-0110",
+        "layer": 0,
+        "persona": "sek",
+        "start": 17116
+    },
+    {
+        "action": "PrintText",
+        "end": 20000,
+        "persona": "Макото",
+        "start": 19250,
+        "text": "Э?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 20000,
+        "file": "Voice03/03-BK/03-BK-F00/03-BK-F00-0120",
+        "layer": 1,
+        "persona": "mak",
+        "start": 19250
+    },
+    {
+        "action": "CreateBG",
+        "end": 26000,
+        "file": "Event03/03-BK/03-BK-F00/03-BK-F00-007",
+        "start": 20283
+    },
+    {
+        "action": "PrintText",
+        "end": 22000,
+        "persona": "Сэкаи",
+        "start": 20300,
+        "text": "Завтра мы ведь в аквапарк идём? Верно?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 22000,
+        "file": "Voice03/03-BK/03-BK-F00/03-BK-F00-0130",
+        "layer": 0,
+        "persona": "sek",
+        "start": 20300
+    },
+    {
+        "action": "PrintText",
+        "end": 23000,
+        "persona": "Макото",
+        "start": 22283,
+        "text": "Ага.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 23000,
+        "file": "Voice03/03-BK/03-BK-F00/03-BK-F00-0140",
+        "layer": 1,
+        "persona": "mak",
+        "start": 22283
+    },
+    {
+        "action": "PrintText",
+        "end": 26000,
+        "persona": "Сэкаи",
+        "start": 23250,
+        "text": "Мне нужно новый купальник купить.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 26000,
+        "file": "Voice03/03-BK/03-BK-F00/03-BK-F00-0150",
+        "layer": 0,
+        "persona": "sek",
+        "start": 23250
+    },
+    {
+        "action": "CreateBG",
+        "end": 28000,
+        "file": "Event03/03-BK/03-BK-F00/03-BK-F00-008A",
+        "start": 26016
+    },
+    {
+        "action": "PrintText",
+        "end": 27000,
+        "persona": "Макото",
+        "start": 26016,
+        "text": "Новый купальник?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 27000,
+        "file": "Voice03/03-BK/03-BK-F00/03-BK-F00-0160",
+        "layer": 1,
+        "persona": "mak",
+        "start": 26016
+    },
+    {
+        "action": "PrintText",
+        "end": 28000,
+        "persona": "Сэкаи",
+        "start": 27166,
+        "text": "Ага.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 28000,
+        "file": "Voice03/03-BK/03-BK-F00/03-BK-F00-0170",
+        "layer": 0,
+        "persona": "sek",
+        "start": 27166
+    },
+    {
+        "action": "CreateBG",
+        "end": 30000,
+        "file": "Event03/03-BK/03-BK-F00/03-BK-F00-008B",
+        "start": 28050
+    },
+    {
+        "action": "PrintText",
+        "end": 30000,
+        "persona": "Макото",
+        "start": 28066,
+        "text": "А я просто прошлогодние плавки надену.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 30000,
+        "file": "Voice03/03-BK/03-BK-F00/03-BK-F00-0180",
+        "layer": 1,
+        "persona": "mak",
+        "start": 28066
+    },
+    {
+        "action": "CreateBG",
+        "end": 40000,
+        "file": "Event03/03-BK/03-BK-F00/03-BK-F00-008C",
+        "start": 30050
+    },
+    {
+        "action": "PrintText",
+        "end": 33000,
+        "persona": "Сэкаи",
+        "start": 30050,
+        "text": "Ну, у девочек всё немного сложнее.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 33000,
+        "file": "Voice03/03-BK/03-BK-F00/03-BK-F00-0190",
+        "layer": 0,
+        "persona": "sek",
+        "start": 30050
+    },
+    {
+        "action": "PrintText",
+        "end": 35000,
+        "persona": "Макото",
+        "start": 33100,
+        "text": "Правда? Ладно..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 35000,
+        "file": "Voice03/03-BK/03-BK-F00/03-BK-F00-0200",
+        "layer": 1,
+        "persona": "mak",
+        "start": 33100
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Буду ждать завтра с нетерпением.^",
+        "answer2": "Может, тебе с выбором купальника помочь?^",
+        "end": 39000,
+        "start": 34300
+    }
+]

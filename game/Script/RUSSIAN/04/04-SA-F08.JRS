@@ -1,0 +1,181 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 40000,
+        "file": "SysSe/SE_all/gaya/kyousitu_rouka",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event04/04-SA/04-SA-F08/04-SA-F08-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 66,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice04/04-SA/04-SA-F08/04-SA-F08-0030",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 66
+    },
+    {
+        "action": "CreateBG",
+        "end": 13000,
+        "file": "Event04/04-SA/04-SA-F08/04-SA-F08-002",
+        "start": 2066
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Хикари",
+        "start": 2150,
+        "text": "Чего молчишь-то, ё-моё?!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice04/04-SA/04-SA-F08/04-SA-F08-0040",
+        "layer": 0,
+        "persona": "hik",
+        "start": 2150
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Макото",
+        "start": 5300,
+        "text": "Такое чувство, что надо мной издеваются...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice04/04-SA/04-SA-F08/04-SA-F08-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 5300
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Сэкаи",
+        "start": 11133,
+        "text": "Тише-тише, случилось что?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice04/04-SA/04-SA-F08/04-SA-F08-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 11133
+    },
+    {
+        "action": "CreateBG",
+        "end": 15000,
+        "file": "Event04/04-SA/04-SA-F08/04-SA-F08-003",
+        "start": 13383
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Макото",
+        "start": 14150,
+        "text": "Ну...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice04/04-SA/04-SA-F08/04-SA-F08-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 14150
+    },
+    {
+        "action": "CreateBG",
+        "end": 31000,
+        "file": "Event04/04-SA/04-SA-F08/04-SA-F08-004",
+        "start": 15366
+    },
+    {
+        "action": "PrintText",
+        "end": 21000,
+        "persona": "Макото",
+        "start": 16333,
+        "text": "Сказать, что Таисукэ умудрился подцепить девчонку при Куроде,^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 21000,
+        "file": "Voice04/04-SA/04-SA-F08/04-SA-F08-0080",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 16333
+    },
+    {
+        "action": "PrintText",
+        "end": 25000,
+        "persona": "Макото",
+        "start": 22066,
+        "text": "всё равно, что смертный приговор себе подписать...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 25000,
+        "file": "Voice04/04-SA/04-SA-F08/04-SA-F08-0090",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 22066
+    },
+    {
+        "action": "PrintText",
+        "end": 30000,
+        "persona": "Макото",
+        "start": 26150,
+        "text": "Ведь всю эту затею... Я Куроде впарил...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 30000,
+        "file": "Voice04/04-SA/04-SA-F08/04-SA-F08-0100",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 26150
+    },
+    {
+        "action": "CreateBG",
+        "end": 40000,
+        "file": "Event04/04-SA/04-SA-F08/04-SA-F08-005",
+        "start": 31083
+    },
+    {
+        "action": "PrintText",
+        "end": 33000,
+        "persona": "Макото",
+        "start": 31333,
+        "text": "А... Понимаешь...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 33000,
+        "file": "Voice04/04-SA/04-SA-F08/04-SA-F08-0110",
+        "layer": 1,
+        "persona": "mak",
+        "start": 31333
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Рассказать только Сэкаи.",
+        "answer2": "NULL",
+        "end": 39000,
+        "start": 34150
+    }
+]

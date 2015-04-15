@@ -1,0 +1,200 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 24000,
+        "file": "BGM/SD_BGM/sdbgm26",
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 1000,
+        "file": "Movie04/04-KA/04-KA-D06/04-KA-D06-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Прекрати...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice04/04-KA/04-KA-D06/04-KA-D06-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "MoveSom",
+        "end": 5000,
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Котоноха",
+        "start": 1350,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice04/04-KA/04-KA-D06/04-KA-D06-0050",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 1350
+    },
+    {
+        "action": "PlayMovie",
+        "end": 5000,
+        "file": "Movie02/02-2K/02-2K-J05/02-2K-J05-001",
+        "start": 1366
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 3116,
+        "text": "Н-не делай такое лицо. Подумай, где мы.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice04/04-KA/04-KA-D06/04-KA-D06-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 3116
+    },
+    {
+        "action": "MoveSom",
+        "end": 9000,
+        "start": 5000
+    },
+    {
+        "action": "PlayMovie",
+        "end": 9000,
+        "file": "Movie04/04-KA/04-KA-D04/04-KA-D04-001",
+        "start": 5350
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Котоноха",
+        "start": 7200,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice04/04-KA/04-KA-D06/04-KA-D06-0070",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 7200
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Макото",
+        "start": 9000,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice04/04-KA/04-KA-D06/04-KA-D06-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 9000
+    },
+    {
+        "action": "PlayMovie",
+        "end": 15000,
+        "file": "Movie04/04-KA/04-KA-D06/04-KA-D06-004A",
+        "start": 9016
+    },
+    {
+        "action": "MoveSom",
+        "end": 15000,
+        "start": 9033
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Котоноха",
+        "start": 9383,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice04/04-KA/04-KA-D06/04-KA-D06-0100",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 9383
+    },
+    {
+        "action": "PrintText",
+        "end": 15000,
+        "persona": "Макото",
+        "start": 11200,
+        "text": "Д-да... Прекрати ты!..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 15000,
+        "file": "Voice04/04-KA/04-KA-D06/04-KA-D06-0110",
+        "layer": 1,
+        "persona": "mak",
+        "start": 11200
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Котоноха",
+        "start": 15183,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice04/04-KA/04-KA-D06/04-KA-D06-0120",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 15183
+    },
+    {
+        "action": "MoveSom",
+        "end": 24000,
+        "start": 15183
+    },
+    {
+        "action": "PlayMovie",
+        "end": 24000,
+        "file": "Movie04/04-KA/04-KA-D06/04-KA-D06-004C",
+        "start": 15200
+    },
+    {
+        "action": "PrintText",
+        "end": 19000,
+        "persona": "Макото",
+        "start": 17266,
+        "text": "...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 19000,
+        "file": "Voice04/04-KA/04-KA-D06/04-KA-D06-0130",
+        "layer": 1,
+        "persona": "mak",
+        "start": 17266
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Продолжить.^",
+        "answer2": "Прекратить.^",
+        "end": 23000,
+        "start": 18283
+    }
+]

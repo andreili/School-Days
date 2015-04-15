@@ -1,0 +1,138 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 21000,
+        "file": "BGM/SD_BGM/sdbgm20",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 21000,
+        "file": "Se03/03-KB/03-KB-K02/SE03-KB-K02-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event03/03-KB/03-KB-K02/03-KB-K02-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Мы расстались!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-KB/03-KB-K02/03-KB-K02-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Котоноха",
+        "start": 1066,
+        "text": "Нет, неправда!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice03/03-KB/03-KB-K02/03-KB-K02-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 1066
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Макото",
+        "start": 2216,
+        "text": "Котоноха...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice03/03-KB/03-KB-K02/03-KB-K02-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2216
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Котоноха",
+        "start": 5000,
+        "text": "Ты же сам сказал, что мы должны сделать паузу в отношениях...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice03/03-KB/03-KB-K02/03-KB-K02-0060",
+        "layer": 0,
+        "persona": "kot",
+        "start": 5000
+    },
+    {
+        "action": "CreateBG",
+        "end": 16000,
+        "file": "Event03/03-KB/03-KB-K02/03-KB-K02-002",
+        "start": 5016
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Макото",
+        "start": 8333,
+        "text": "Слушай...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice03/03-KB/03-KB-K02/03-KB-K02-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 8333
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Котоноха",
+        "start": 9350,
+        "text": "Чтобы... разобраться... и потом... всё будет как раньше...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice03/03-KB/03-KB-K02/03-KB-K02-0080",
+        "layer": 0,
+        "persona": "kot",
+        "start": 9350
+    },
+    {
+        "action": "CreateBG",
+        "end": 21000,
+        "file": "Event03/03-KB/03-KB-K02/03-KB-K02-003",
+        "start": 16250
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Макото",
+        "start": 16250,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice03/03-KB/03-KB-K02/03-KB-K02-0090",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 16250
+    }
+]

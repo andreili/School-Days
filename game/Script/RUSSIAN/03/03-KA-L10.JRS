@@ -1,0 +1,36 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 14000,
+        "file": "BGM/SD_BGM/sdbgm06",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 14000,
+        "file": "Event03/03-KA/03-KA-L10/03-KA-L10-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 100,
+        "text": "Мы сегодня с Котонохой всего один день вместе не обедали и я уже...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice03/03-KA/03-KA-L10/03-KA-L10-0030",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 100
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Начинаю её забывать.",
+        "answer2": "Скучаю по ней.^",
+        "end": 12000,
+        "start": 7333
+    }
+]

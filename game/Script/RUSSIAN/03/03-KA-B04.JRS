@@ -1,0 +1,148 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 24000,
+        "file": "BGM/SD_BGM/sdbgm03",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 24000,
+        "file": "Se03/03-KA/03-KA-B04/SE03-KA-B04-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event03/03-KA/03-KA-B04/03-KA-B04-001A",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 4000,
+        "file": "Event03/03-KA/03-KA-B04/03-KA-B04-001B",
+        "start": 3000
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Котоноха",
+        "start": 3016,
+        "text": "Я очень удивилась!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice03/03-KA/03-KA-B04/03-KA-B04-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 3016
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event03/03-KA/03-KA-B04/03-KA-B04-001C",
+        "start": 4333
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Макото",
+        "start": 4333,
+        "text": "М?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice03/03-KA/03-KA-B04/03-KA-B04-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 4333
+    },
+    {
+        "action": "PlayMovie",
+        "end": 9000,
+        "file": "Movie00/00-00/00-00-G00/00-00-G00-025",
+        "start": 5166
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Котоноха",
+        "start": 5200,
+        "text": "Я не знала, что ты теперь тоже в исполнительном комитете.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice03/03-KA/03-KA-B04/03-KA-B04-0060",
+        "layer": 0,
+        "persona": "kot",
+        "start": 5200
+    },
+    {
+        "action": "CreateBG",
+        "end": 13000,
+        "file": "Event03/03-KA/03-KA-B04/03-KA-B04-003",
+        "start": 9366
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Макото",
+        "start": 10000,
+        "text": "А, да, я сам узнал только на прошлой неделе.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice03/03-KA/03-KA-B04/03-KA-B04-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 10000
+    },
+    {
+        "action": "CreateBG",
+        "end": 24000,
+        "file": "Event03/03-KA/03-KA-B04/03-KA-B04-004",
+        "start": 13266
+    },
+    {
+        "action": "PrintText",
+        "end": 15000,
+        "persona": "Котоноха",
+        "start": 13300,
+        "text": "На прошлой неделе?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 15000,
+        "file": "Voice03/03-KA/03-KA-B04/03-KA-B04-0080",
+        "layer": 0,
+        "persona": "kot",
+        "start": 13300
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Макото",
+        "start": 16000,
+        "text": "Ага.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice03/03-KA/03-KA-B04/03-KA-B04-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 16000
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Хотел сделать тебе сюрприз!^",
+        "answer2": "Я совсем забыл.^",
+        "end": 23000,
+        "start": 18000
+    }
+]

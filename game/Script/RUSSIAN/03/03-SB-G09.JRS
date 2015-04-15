@@ -1,0 +1,139 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 16000,
+        "file": "BGM/SD_BGM/sdbgm16",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 16000,
+        "file": "Se03/03-SB/03-SB-G09/SE03-SB-G09-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 4000,
+        "file": "Event03/03-SB/03-SB-G09/03-SB-G09-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Я не могу.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-SB/03-SB-G09/03-SB-G09-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Нанами",
+        "start": 1050,
+        "text": "Ну давай, пожалуйста.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice03/03-SB/03-SB-G09/03-SB-G09-0040",
+        "layer": 0,
+        "persona": "nan",
+        "start": 1050
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Макото",
+        "start": 2216,
+        "text": "Ну ты что, не видишь, что я не могу!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice03/03-SB/03-SB-G09/03-SB-G09-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2216
+    },
+    {
+        "action": "CreateBG",
+        "end": 16000,
+        "file": "Event03/03-SB/03-SB-G09/03-SB-G09-002",
+        "start": 4133
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Сэцуна",
+        "start": 4133,
+        "text": "Совсем не можешь?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice03/03-SB/03-SB-G09/03-SB-G09-0060",
+        "layer": 0,
+        "persona": "set",
+        "start": 4133
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 5216,
+        "text": "Ну, не то чтобы совсем...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice03/03-SB/03-SB-G09/03-SB-G09-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 5216
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Сэцуна",
+        "start": 7200,
+        "text": "Мы совсем зашиваемся!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice03/03-SB/03-SB-G09/03-SB-G09-0080",
+        "layer": 0,
+        "persona": "set",
+        "start": 7200
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Макото",
+        "start": 8333,
+        "text": "Хм-м...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice03/03-SB/03-SB-G09/03-SB-G09-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 8333
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Ну ладно...^",
+        "answer2": "NULL",
+        "end": 15000,
+        "start": 10000
+    }
+]

@@ -1,0 +1,89 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 14000,
+        "file": "BGM/SD_BGM/sdbgm29",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 0,
+        "file": "SysSe/SE_all/station_train/start_bell",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event04/04-KE/04-KE-I02/04-KE-I02-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Сэкаи",
+        "start": 233,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice04/04-KE/04-KE-I02/04-KE-I02-0030",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 233
+    },
+    {
+        "action": "PlaySe",
+        "end": 2000,
+        "file": "SysSe/SE_all/station_train/train_door_close",
+        "layer": 2,
+        "start": 333
+    },
+    {
+        "action": "CreateBG",
+        "end": 4000,
+        "file": "Event04/04-KE/04-KE-I02/04-KE-I02-002",
+        "start": 2000
+    },
+    {
+        "action": "PlaySe",
+        "end": 14000,
+        "file": "SysSe/SE_all/station_train/train_start",
+        "layer": 1,
+        "start": 2200
+    },
+    {
+        "action": "PlayMovie",
+        "end": 10000,
+        "file": "Movie04/04-KE/04-KE-I02/04-KE-I02-002",
+        "start": 4000
+    },
+    {
+        "action": "CreateBG",
+        "end": 12000,
+        "file": "Event04/04-KE/04-KE-I02/04-KE-I02-003",
+        "start": 10000
+    },
+    {
+        "action": "CreateBG",
+        "end": 14000,
+        "file": "Event04/04-KE/04-KE-I02/04-KE-I02-004",
+        "start": 12000
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Макото",
+        "start": 12300,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice04/04-KE/04-KE-I02/04-KE-I02-0050",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 12300
+    }
+]

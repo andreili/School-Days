@@ -1,0 +1,210 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 36000,
+        "file": "BGM/SD_BGM/sdbgm20",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 11000,
+        "file": "Se01/01-1K/01-1K-H00/SE01-1K-H00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 4000,
+        "file": "Event01/01-1K/01-1K-H00/01-1K-H00-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event01/01-1K/01-1K-H00/01-1K-H00-002",
+        "start": 4000
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event01/01-00/01-00-Q01/01-00-Q01-005J",
+        "start": 7100
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Котоноха",
+        "start": 7316,
+        "text": "Доброе утро.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice01/01-1K/01-1K-H00/01-1K-H00-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 7316
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event01/01-1K/01-1K-H00/01-1K-H00-004",
+        "start": 9283
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Макото",
+        "start": 9350,
+        "text": "Угу...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice01/01-1K/01-1K-H00/01-1K-H00-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 9350
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "OUT",
+        "end": 11000,
+        "start": 10300
+    },
+    {
+        "action": "CreateBG",
+        "end": 15000,
+        "file": "Event01/01-1K/01-1K-H00/01-1K-H00-005",
+        "start": 11100
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "IN",
+        "end": 11000,
+        "start": 11100
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "OUT",
+        "end": 15000,
+        "start": 15100
+    },
+    {
+        "action": "CreateBG",
+        "end": 17000,
+        "file": "Event01/01-1K/01-1K-H00/01-1K-H00-006",
+        "start": 15300
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "IN",
+        "end": 16000,
+        "start": 15300
+    },
+    {
+        "action": "CreateBG",
+        "end": 18000,
+        "file": "Event01/01-1K/01-1K-H00/01-1K-H00-007",
+        "start": 17000
+    },
+    {
+        "action": "PrintText",
+        "end": 18000,
+        "persona": "Макото",
+        "start": 17116,
+        "text": "М...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 18000,
+        "file": "Voice01/01-1K/01-1K-H00/01-1K-H00-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 17116
+    },
+    {
+        "action": "CreateBG",
+        "end": 22000,
+        "file": "Event01/01-1K/01-1K-H00/01-1K-H00-008",
+        "start": 18033
+    },
+    {
+        "action": "PrintText",
+        "end": 19000,
+        "persona": "Котоноха",
+        "start": 18033,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 19000,
+        "file": "Voice01/01-1K/01-1K-H00/01-1K-H00-0080",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 18033
+    },
+    {
+        "action": "PrintText",
+        "end": 30000,
+        "persona": "Макото",
+        "start": 20116,
+        "text": "Ты сегодня занята? Может...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 30000,
+        "file": "Voice01/01-1K/01-1K-H00/01-1K-H00-0100",
+        "layer": 1,
+        "persona": "mak",
+        "start": 20116
+    },
+    {
+        "action": "CreateBG",
+        "end": 29000,
+        "file": "Event01/01-1K/01-1K-H00/01-1K-H00-009",
+        "start": 22316
+    },
+    {
+        "action": "CreateBG",
+        "end": 36000,
+        "file": "Event01/01-1K/01-1K-H00/01-1K-H00-010",
+        "start": 29200
+    },
+    {
+        "action": "PrintText",
+        "end": 31000,
+        "persona": "Котоноха",
+        "start": 29200,
+        "text": "У меня сегодня собрание.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 31000,
+        "file": "Voice01/01-1K/01-1K-H00/01-1K-H00-0110",
+        "layer": 0,
+        "persona": "kot",
+        "start": 29200
+    },
+    {
+        "action": "PrintText",
+        "end": 35000,
+        "persona": "Макото",
+        "start": 32283,
+        "text": "А... Понятно.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 35000,
+        "file": "Voice01/01-1K/01-1K-H00/01-1K-H00-0120",
+        "layer": 1,
+        "persona": "mak",
+        "start": 32283
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 36000,
+        "start": 36166
+    }
+]

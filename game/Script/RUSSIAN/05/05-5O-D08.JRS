@@ -1,0 +1,95 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 9000,
+        "file": "BGM/SD_BGM/sdbgm08",
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 7000,
+        "file": "Movie05/05-5O/05-5O-D08/05-5O-D08-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Итару",
+        "start": 0,
+        "text": "Страшная...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice05/05-5O/05-5O-D08/05-5O-D08-0030",
+        "layer": 0,
+        "persona": "ita",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 1166,
+        "text": "Э?!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice05/05-5O/05-5O-D08/05-5O-D08-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 1166
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Итару",
+        "start": 2083,
+        "text": "Не знаю почему... Но я её не люблю!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice05/05-5O/05-5O-D08/05-5O-D08-0050",
+        "layer": 0,
+        "persona": "ita",
+        "start": 2083
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event05/05-5O/05-5O-D07/05-5O-D07-002",
+        "start": 7016
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Макото",
+        "start": 7183,
+        "text": "Понятно...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice05/05-5O/05-5O-D08/05-5O-D08-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 7183
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Итару",
+        "start": 8166,
+        "text": "Вот.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice05/05-5O/05-5O-D08/05-5O-D08-0070",
+        "layer": 0,
+        "persona": "ita",
+        "start": 8166
+    }
+]

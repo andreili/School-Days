@@ -1,0 +1,190 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 31000,
+        "file": "BGM/SD_BGM/sdbgm16",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 31000,
+        "file": "Se03/03-SB/03-SB-G10/SE03-SB-G10-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 8000,
+        "file": "Event03/03-SB/03-SB-G10/03-SB-G10-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 0,
+        "persona": "Макото",
+        "start": 0,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 0,
+        "file": "Voice03/03-SB/03-SB-G10/03-SB-G10-0030",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Сэцуна",
+        "start": 300,
+        "text": "Ты точно не можешь?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice03/03-SB/03-SB-G10/03-SB-G10-0040",
+        "layer": 0,
+        "persona": "set",
+        "start": 300
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 2100,
+        "text": "Ну не то чтобы не могу. Но моя смена ведь только что закончилась.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice03/03-SB/03-SB-G10/03-SB-G10-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2100
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Сэцуна",
+        "start": 7333,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice03/03-SB/03-SB-G10/03-SB-G10-0060",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 7333
+    },
+    {
+        "action": "CreateBG",
+        "end": 22000,
+        "file": "Event03/03-SB/03-SB-G10/03-SB-G10-002",
+        "start": 8300
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Нанами",
+        "start": 8333,
+        "text": "Ну пожалуйста. На кухне все просто зашиваются, у нас столько клиентов.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice03/03-SB/03-SB-G10/03-SB-G10-0070",
+        "layer": 0,
+        "persona": "nan",
+        "start": 8333
+    },
+    {
+        "action": "PrintText",
+        "end": 19000,
+        "persona": "Макото",
+        "start": 16300,
+        "text": "Да, это верно, всё утро я был очень занят на кухне.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 19000,
+        "file": "Voice03/03-SB/03-SB-G10/03-SB-G10-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 16300
+    },
+    {
+        "action": "PrintText",
+        "end": 21000,
+        "persona": "Нанами",
+        "start": 19066,
+        "text": "Ну хотя бы ненадолго...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 21000,
+        "file": "Voice03/03-SB/03-SB-G10/03-SB-G10-0090",
+        "layer": 0,
+        "persona": "nan",
+        "start": 19066
+    },
+    {
+        "action": "PrintText",
+        "end": 23000,
+        "persona": "Макото",
+        "start": 21350,
+        "text": "Ненадолго...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 23000,
+        "file": "Voice03/03-SB/03-SB-G10/03-SB-G10-0100",
+        "layer": 1,
+        "persona": "mak",
+        "start": 21350
+    },
+    {
+        "action": "CreateBG",
+        "end": 31000,
+        "file": "Event03/03-SB/03-SB-G10/03-SB-G10-003",
+        "start": 22366
+    },
+    {
+        "action": "PrintText",
+        "end": 24000,
+        "persona": "Сэцуна",
+        "start": 23133,
+        "text": "Пожалуйста.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 24000,
+        "file": "Voice03/03-SB/03-SB-G10/03-SB-G10-0110",
+        "layer": 0,
+        "persona": "set",
+        "start": 23133
+    },
+    {
+        "action": "PrintText",
+        "end": 25000,
+        "persona": "Макото",
+        "start": 24150,
+        "text": "Хм-м...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 25000,
+        "file": "Voice03/03-SB/03-SB-G10/03-SB-G10-0120",
+        "layer": 1,
+        "persona": "mak",
+        "start": 24150
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Ну, хорошо.^",
+        "answer2": "NULL",
+        "end": 30000,
+        "start": 25166
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 10000,
+        "file": "BGM/SD_BGM/sdbgm20",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event05/05-5O/05-5O-E05/05-5O-E05-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 166,
+        "text": "Люблю, но...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice05/05-5O/05-5O-E05/05-5O-E05-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 166
+    },
+    {
+        "action": "CreateBG",
+        "end": 4000,
+        "file": "Event05/05-5O/05-5O-E05/05-5O-E05-002",
+        "start": 2016
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Сэцуна",
+        "start": 2033,
+        "text": "Ну значит иди.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice05/05-5O/05-5O-E05/05-5O-E05-0040",
+        "layer": 0,
+        "persona": "set",
+        "start": 2033
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event05/05-5O/05-5O-E05/05-5O-E05-003",
+        "start": 4000
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Макото",
+        "start": 4033,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice05/05-5O/05-5O-E05/05-5O-E05-0050",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 4033
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Хорошо.",
+        "answer2": "NULL",
+        "end": 9000,
+        "start": 4050
+    }
+]

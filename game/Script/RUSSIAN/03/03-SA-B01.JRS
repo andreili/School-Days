@@ -1,0 +1,145 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 16000,
+        "file": "BGM/SD_BGM/sdbgm01",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event03/03-SA/03-SA-B03/03-SA-B03-003",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Ты просто принцесса!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-SA/03-SA-B01/03-SA-B01-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event03/03-SA/03-SA-B01/03-SA-B01-001B",
+        "start": 1050
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Сэкаи",
+        "start": 1050,
+        "text": "Ва...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice03/03-SA/03-SA-B01/03-SA-B01-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 1050
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice03/03-SA/03-SA-B01/03-SA-B01-0050",
+        "layer": -1,
+        "persona": "",
+        "start": 2200
+    },
+    {
+        "action": "CreateBG",
+        "end": 6000,
+        "file": "Event03/03-SA/03-SA-B01/03-SA-B01-002",
+        "start": 3200
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Хикари",
+        "start": 3200,
+        "text": "Боже ты мой!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice03/03-SA/03-SA-B01/03-SA-B01-0060",
+        "layer": 0,
+        "persona": "hik",
+        "start": 3200
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Макото",
+        "start": 4116,
+        "text": "Да ну тебя!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice03/03-SA/03-SA-B01/03-SA-B01-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 4116
+    },
+    {
+        "action": "CreateBG",
+        "end": 16000,
+        "file": "Event03/03-SA/03-SA-B01/03-SA-B01-003",
+        "start": 6133
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Хикари",
+        "start": 6133,
+        "text": "Кто-нибудь, спасите меня от этих влюблённых!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice03/03-SA/03-SA-B01/03-SA-B01-0080",
+        "layer": 0,
+        "persona": "hik",
+        "start": 6133
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Сэкаи",
+        "start": 12116,
+        "text": "Блин, Хикари!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice03/03-SA/03-SA-B01/03-SA-B01-0090",
+        "layer": 0,
+        "persona": "sek",
+        "start": 12116
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Макото",
+        "start": 14083,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice03/03-SA/03-SA-B01/03-SA-B01-0100",
+        "layer": 1,
+        "persona": "mak",
+        "start": 14083
+    }
+]

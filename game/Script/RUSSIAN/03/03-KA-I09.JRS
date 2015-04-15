@@ -1,0 +1,102 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 15000,
+        "file": "BGM/SD_BGM/sdbgm03",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 15000,
+        "file": "Se03/03-KA/03-KA-I09/SE03-KA-I09-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event03/03-KA/03-KA-I03/03-KA-I03-004",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "С чего бы это мы друзья?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-KA/03-KA-I09/03-KA-I09-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Сэцуна",
+        "start": 1283,
+        "text": "Вот как?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice03/03-KA/03-KA-I09/03-KA-I09-0040",
+        "layer": 0,
+        "persona": "set",
+        "start": 1283
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Макото",
+        "start": 2333,
+        "text": "Не знаю, у меня такое чувство, что ты только приказы отдаёшь, а я как дурак их исполняю.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice03/03-KA/03-KA-I09/03-KA-I09-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2333
+    },
+    {
+        "action": "CreateBG",
+        "end": 15000,
+        "file": "Event03/03-KA/03-KA-I09/03-KA-I09-002",
+        "start": 9183
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Сэцуна",
+        "start": 9216,
+        "text": "Ну хорошо хоть, что ты сам это осознал.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice03/03-KA/03-KA-I09/03-KA-I09-0060",
+        "layer": 0,
+        "persona": "set",
+        "start": 9216
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Макото",
+        "start": 12300,
+        "text": "Да ну тебя...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice03/03-KA/03-KA-I09/03-KA-I09-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 12300
+    }
+]

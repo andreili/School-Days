@@ -1,0 +1,92 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 17000,
+        "file": "BGM/SD_BGM/sdbgm20",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event05/05-5O/05-5O-A05/05-5O-A05-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 133,
+        "text": "Не переживай.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice05/05-5O/05-5O-A05/05-5O-A05-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 133
+    },
+    {
+        "action": "CreateBG",
+        "end": 12000,
+        "file": "Event05/05-5O/05-5O-A01/05-5O-A01-010",
+        "start": 1316
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Сэкаи",
+        "start": 1350,
+        "text": "Да... Точно... Чего уж тебе... Переживать за меня...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice05/05-5O/05-5O-A05/05-5O-A05-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 1350
+    },
+    {
+        "action": "CreateBG",
+        "end": 14000,
+        "file": "Event05/05-5O/05-5O-A05/05-5O-A05-001",
+        "start": 12233
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Макото",
+        "start": 12350,
+        "text": "Да нет же!..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice05/05-5O/05-5O-A05/05-5O-A05-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 12350
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Сэкаи",
+        "start": 14366,
+        "text": "Ничего... Я понимаю...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice05/05-5O/05-5O-A05/05-5O-A05-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 14366
+    },
+    {
+        "action": "CreateBG",
+        "end": 17000,
+        "file": "Event05/05-5O/05-5O-A01/05-5O-A01-006",
+        "start": 14383
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 12000,
+        "file": "BGM/SD_BGM/sdbgm20",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 12000,
+        "file": "Se03/03-BK/03-BK-D04/SE03-BK-D04-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event03/03-BK/03-BK-D04/03-BK-D04-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 200,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-BK/03-BK-D04/03-BK-D04-0030",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 200
+    },
+    {
+        "action": "CreateBG",
+        "end": 12000,
+        "file": "Event03/03-BK/03-BK-D04/03-BK-D04-002",
+        "start": 1333
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Таисукэ",
+        "start": 2000,
+        "text": "Что такое? Почему ты вдруг замолчал?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice03/03-BK/03-BK-D04/03-BK-D04-0040",
+        "layer": 1,
+        "persona": "tai",
+        "start": 2000
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Таисукэ",
+        "start": 6200,
+        "text": "Не понимаю, что на него нашло...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice03/03-BK/03-BK-D04/03-BK-D04-0060",
+        "layer": 1,
+        "persona": "tai",
+        "start": 6200
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Сэкаи",
+        "start": 10316,
+        "text": "Ага...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice03/03-BK/03-BK-D04/03-BK-D04-0070",
+        "layer": 0,
+        "persona": "sek",
+        "start": 10316
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 12000,
+        "start": 11316
+    }
+]

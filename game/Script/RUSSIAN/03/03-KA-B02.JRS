@@ -1,0 +1,87 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 25000,
+        "file": "Se03/03-KA/03-KA-B02/SE03-KA-B02-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 15000,
+        "file": "Event03/03-KA/03-KA-B02/03-KA-B02-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Завтра дома у Котонохи...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice03/03-KA/03-KA-B02/03-KA-B02-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Макото",
+        "start": 4033,
+        "text": "Мы будем совсем одни в её комнате, даже она должна понимать, что мы не просто чай пить будем...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice03/03-KA/03-KA-B02/03-KA-B02-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 4033
+    },
+    {
+        "action": "CreateBG",
+        "end": 25000,
+        "file": "Event03/03-KA/03-KA-B02/03-KA-B02-002",
+        "start": 15000
+    },
+    {
+        "action": "PrintText",
+        "end": 20000,
+        "persona": "Макото",
+        "start": 15133,
+        "text": "Может, у нас что-то получится...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 20000,
+        "file": "Voice03/03-KA/03-KA-B02/03-KA-B02-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 15133
+    },
+    {
+        "action": "PrintText",
+        "end": 24000,
+        "persona": "Макото",
+        "start": 20350,
+        "text": "Ладно, поживём - увидим.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 24000,
+        "file": "Voice03/03-KA/03-KA-B02/03-KA-B02-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 20350
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 25000,
+        "start": 24266
+    }
+]

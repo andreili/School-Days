@@ -1,0 +1,123 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 23000,
+        "file": "BGM/SD_BGM/sdbgm06",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 5000,
+        "file": "Voice01/01-00/01-00-R00/01-00-R00-0054",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event01/01-00/01-00-B06/01-00-B06-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event01/01-00/01-00-R03/01-00-R03-002",
+        "start": 1000
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event01/01-00/01-00-R03/01-00-R03-003",
+        "start": 2233
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Сэкаи",
+        "start": 2350,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice01/01-00/01-00-R03/01-00-R03-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 2350
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event01/01-00/01-00-B00/01-00-B00-003",
+        "start": 5050
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event01/01-00/01-00-R03/01-00-R03-005",
+        "start": 5250
+    },
+    {
+        "action": "PlaySe",
+        "end": 20000,
+        "file": "Voice01/01-00/01-00-R00/01-00-R00-0055",
+        "layer": 2,
+        "start": 5350
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event01/01-00/01-00-R03/01-00-R03-006",
+        "start": 7366
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Макото",
+        "start": 8066,
+        "text": "Болван?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice01/01-00/01-00-R03/01-00-R03-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 8066
+    },
+    {
+        "action": "CreateBG",
+        "end": 23000,
+        "file": "Event01/01-00/01-00-R03/01-00-R03-007",
+        "start": 9316
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Макото",
+        "start": 13233,
+        "text": "Ты ведь сама болтала без умолку!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice01/01-00/01-00-R03/01-00-R03-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 13233
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "В следующий раз буду больше уделять ей внимания.^",
+        "answer2": "NULL",
+        "end": 22000,
+        "start": 17150
+    },
+    {
+        "action": "PlaySe",
+        "end": 23000,
+        "file": "Voice01/01-00/01-00-R00/01-00-R00-0056",
+        "layer": 1,
+        "start": 21050
+    }
+]

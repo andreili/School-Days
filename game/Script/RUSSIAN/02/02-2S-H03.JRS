@@ -1,0 +1,190 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 26000,
+        "file": "BGM/SD_BGM/sdbgm03",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 26000,
+        "file": "Se01/01-00/01-00-E00/SE01-00-E00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event02/02-2S/02-2S-H03/02-2S-H03-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Сэкаи",
+        "start": 0,
+        "text": "Макото...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice02/02-2S/02-2S-H03/02-2S-H03-0030",
+        "layer": 0,
+        "persona": "sek",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 1083,
+        "text": "Что?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice02/02-2S/02-2S-H03/02-2S-H03-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 1083
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Сэкаи",
+        "start": 1350,
+        "text": "Ты до сих пор её любишь...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice02/02-2S/02-2S-H03/02-2S-H03-0050",
+        "layer": 0,
+        "persona": "sek",
+        "start": 1350
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Макото",
+        "start": 4233,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice02/02-2S/02-2S-H03/02-2S-H03-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 4233
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Сэкаи",
+        "start": 5366,
+        "text": "Ей нужно рассказать!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice02/02-2S/02-2S-H03/02-2S-H03-0070",
+        "layer": 0,
+        "persona": "sek",
+        "start": 5366
+    },
+    {
+        "action": "CreateBG",
+        "end": 12000,
+        "file": "Event02/02-2S/02-2S-H03/02-2S-H03-002",
+        "start": 7150
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Макото",
+        "start": 7150,
+        "text": "Ч-что?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice02/02-2S/02-2S-H03/02-2S-H03-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 7150
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Сэкаи",
+        "start": 9100,
+        "text": "А то сам не знаешь?!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice02/02-2S/02-2S-H03/02-2S-H03-0090",
+        "layer": 0,
+        "persona": "sek",
+        "start": 9100
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Макото",
+        "start": 10283,
+        "text": "Котоноха... Ты знаешь...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice02/02-2S/02-2S-H03/02-2S-H03-0100",
+        "layer": 1,
+        "persona": "mak",
+        "start": 10283
+    },
+    {
+        "action": "CreateBG",
+        "end": 26000,
+        "file": "Event02/02-2S/02-2S-H03/02-2S-H03-003",
+        "start": 12366
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Котоноха",
+        "start": 17016,
+        "text": "Да?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice02/02-2S/02-2S-H03/02-2S-H03-0110",
+        "layer": 0,
+        "persona": "kot",
+        "start": 17016
+    },
+    {
+        "action": "PrintText",
+        "end": 21000,
+        "persona": "Макото",
+        "start": 17316,
+        "text": "Я... Это...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 21000,
+        "file": "Voice02/02-2S/02-2S-H03/02-2S-H03-0120",
+        "layer": 1,
+        "persona": "mak",
+        "start": 17316
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Мы с Сэкаи...!^",
+        "answer2": "Лимонад очень вкусный...^",
+        "end": 25000,
+        "start": 20083
+    }
+]

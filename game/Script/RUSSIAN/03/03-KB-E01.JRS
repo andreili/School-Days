@@ -1,0 +1,154 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 33000,
+        "file": "BGM/SD_BGM/sdbgm12",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 19000,
+        "file": "Event03/03-KB/03-KB-E01/03-KB-E01-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Таисукэ",
+        "start": 0,
+        "text": "На самом деле не так важно, с кем ты встречаешься.^"
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Таисукэ",
+        "start": 4150,
+        "text": "Я просто хотел посоветоваться с тобой, прежде чем приглашать Саиёндзи.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice03/03-KB/03-KB-E01/03-KB-E01-0030",
+        "layer": 1,
+        "persona": "tai",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Макото",
+        "start": 8150,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice03/03-KB/03-KB-E01/03-KB-E01-0040",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 8150
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Таисукэ",
+        "start": 9233,
+        "text": "Но теперь, когда я знаю, что вы не встречаетесь...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice03/03-KB/03-KB-E01/03-KB-E01-0050",
+        "layer": 1,
+        "persona": "tai",
+        "start": 9233
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Макото",
+        "start": 16033,
+        "text": "Ага...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice03/03-KB/03-KB-E01/03-KB-E01-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 16033
+    },
+    {
+        "action": "PrintText",
+        "end": 19000,
+        "persona": "Таисукэ",
+        "start": 17000,
+        "text": "Извини, что побеспокоил.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 19000,
+        "file": "Voice03/03-KB/03-KB-E01/03-KB-E01-0070",
+        "layer": 1,
+        "persona": "tai",
+        "start": 17000
+    },
+    {
+        "action": "CreateBG",
+        "end": 33000,
+        "file": "Event03/03-KB/03-KB-E01/03-KB-E01-002",
+        "start": 19066
+    },
+    {
+        "action": "PrintText",
+        "end": 21000,
+        "persona": "Макото",
+        "start": 19066,
+        "text": "Ничего.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 21000,
+        "file": "Voice03/03-KB/03-KB-E01/03-KB-E01-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 19066
+    },
+    {
+        "action": "PrintText",
+        "end": 26000,
+        "persona": "Таисукэ",
+        "start": 21116,
+        "text": "Посмотрим, что у меня получится завтра, скрести за меня пальцы.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 26000,
+        "file": "Voice03/03-KB/03-KB-E01/03-KB-E01-0090",
+        "layer": 1,
+        "persona": "tai",
+        "start": 21116
+    },
+    {
+        "action": "PrintText",
+        "end": 27000,
+        "persona": "Макото",
+        "start": 26183,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 27000,
+        "file": "Voice03/03-KB/03-KB-E01/03-KB-E01-0100",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 26183
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Подожди!^",
+        "answer2": "NULL",
+        "end": 32000,
+        "start": 27250
+    }
+]

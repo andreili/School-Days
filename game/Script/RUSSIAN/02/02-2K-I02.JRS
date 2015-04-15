@@ -1,0 +1,375 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 53000,
+        "file": "BGM/SD_BGM/sdbgm18",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event02/02-2K/02-2K-I02/02-2K-I02-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event02/02-2K/02-2K-I02/02-2K-I02-002",
+        "start": 2383
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event02/02-2K/02-2K-I02/02-2K-I02-003",
+        "start": 5283
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Котоноха",
+        "start": 6033,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice02/02-2K/02-2K-I02/02-2K-I02-0040",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 6033
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Макото",
+        "start": 7366,
+        "text": "Котоноха...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice02/02-2K/02-2K-I02/02-2K-I02-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 7366
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "OUT",
+        "end": 9000,
+        "start": 9066
+    },
+    {
+        "action": "CreateBG",
+        "end": 22000,
+        "file": "Event02/02-2K/02-2K-I02/02-2K-I02-004",
+        "start": 9266
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "IN",
+        "end": 10000,
+        "start": 9266
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Котоноха",
+        "start": 10266,
+        "text": "Я прочитала твоё письмо...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice02/02-2K/02-2K-I02/02-2K-I02-0060",
+        "layer": 0,
+        "persona": "kot",
+        "start": 10266
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Макото",
+        "start": 12366,
+        "text": "Ясно.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice02/02-2K/02-2K-I02/02-2K-I02-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 12366
+    },
+    {
+        "action": "PrintText",
+        "end": 15000,
+        "persona": "Котоноха",
+        "start": 14016,
+        "text": "Значит...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 15000,
+        "file": "Voice02/02-2K/02-2K-I02/02-2K-I02-0100",
+        "layer": 0,
+        "persona": "kot",
+        "start": 14016
+    },
+    {
+        "action": "PrintText",
+        "end": 19000,
+        "persona": "Макото",
+        "start": 15316,
+        "text": "Я много думал и решил...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 19000,
+        "file": "Voice02/02-2K/02-2K-I02/02-2K-I02-0110",
+        "layer": 1,
+        "persona": "mak",
+        "start": 15316
+    },
+    {
+        "action": "PrintText",
+        "end": 21000,
+        "persona": "Котоноха",
+        "start": 19100,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 21000,
+        "file": "Voice02/02-2K/02-2K-I02/02-2K-I02-0120",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 19100
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "OUT",
+        "end": 22000,
+        "start": 21283
+    },
+    {
+        "action": "CreateBG",
+        "end": 27000,
+        "file": "Event02/02-2K/02-2K-I02/02-2K-I02-005",
+        "start": 22083
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "IN",
+        "end": 22000,
+        "start": 22083
+    },
+    {
+        "action": "PrintText",
+        "end": 27000,
+        "persona": "Макото",
+        "start": 22283,
+        "text": "Я думаю нам лучше какое-то время не видеться.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 27000,
+        "file": "Voice02/02-2K/02-2K-I02/02-2K-I02-0130",
+        "layer": 1,
+        "persona": "mak",
+        "start": 22283
+    },
+    {
+        "action": "CreateBG",
+        "end": 29000,
+        "file": "Event02/02-2K/02-2K-I02/02-2K-I02-006",
+        "start": 27183
+    },
+    {
+        "action": "PrintText",
+        "end": 28000,
+        "persona": "Котоноха",
+        "start": 27183,
+        "text": "Как же так...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 28000,
+        "file": "Voice02/02-2K/02-2K-I02/02-2K-I02-0140",
+        "layer": 0,
+        "persona": "kot",
+        "start": 27183
+    },
+    {
+        "action": "CreateBG",
+        "end": 33000,
+        "file": "Event02/02-2K/02-2K-I02/02-2K-I02-007",
+        "start": 29083
+    },
+    {
+        "action": "PrintText",
+        "end": 36000,
+        "persona": "Макото",
+        "start": 29083,
+        "text": "Котоноха, я же вижу, что тебе со мной неприятно.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 36000,
+        "file": "Voice02/02-2K/02-2K-I02/02-2K-I02-0150",
+        "layer": 1,
+        "persona": "mak",
+        "start": 29083
+    },
+    {
+        "action": "CreateBG",
+        "end": 37000,
+        "file": "Event02/02-2K/02-2K-I02/02-2K-I02-008",
+        "start": 33100
+    },
+    {
+        "action": "CreateBG",
+        "end": 44000,
+        "file": "Event02/02-2K/02-2K-I02/02-2K-I02-009",
+        "start": 37016
+    },
+    {
+        "action": "PrintText",
+        "end": 44000,
+        "persona": "Котоноха",
+        "start": 37016,
+        "text": "Мне не неприятно! Мне просто нужно немного больше времени и у нас всё...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 44000,
+        "file": "Voice02/02-2K/02-2K-I02/02-2K-I02-0160",
+        "layer": 0,
+        "persona": "kot",
+        "start": 37016
+    },
+    {
+        "action": "CreateBG",
+        "end": 53000,
+        "file": "Event02/02-2K/02-2K-I02/02-2K-I02-010",
+        "start": 44216
+    },
+    {
+        "action": "PrintText",
+        "end": 53000,
+        "persona": "Макото",
+        "start": 44216,
+        "text": "Ну так я и предлагаю: побудем порознь, разберёмся в своих чувствах.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 53000,
+        "file": "Voice02/02-2K/02-2K-I02/02-2K-I02-0170",
+        "layer": 1,
+        "persona": "mak",
+        "start": 44216
+    },
+    {
+        "action": "CreateBG",
+        "end": 56000,
+        "file": "Event02/02-2K/02-2K-I02/02-2K-I02-011",
+        "start": 53183
+    },
+    {
+        "action": "PrintText",
+        "end": 55000,
+        "persona": "Котоноха",
+        "start": 53366,
+        "text": "Но...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 55000,
+        "file": "Voice02/02-2K/02-2K-I02/02-2K-I02-0180",
+        "layer": 0,
+        "persona": "kot",
+        "start": 53366
+    },
+    {
+        "action": "EndBGM",
+        "end": 198000,
+        "file": "BGM/Vocal/SDV14",
+        "start": 55000
+    },
+    {
+        "action": "PlaySe",
+        "end": 56000,
+        "file": "Voice02/02-2K/02-2K-I02/02-2K-I02-0190",
+        "layer": 1,
+        "start": 55183
+    },
+    {
+        "action": "CreateBG",
+        "end": 60000,
+        "file": "Event02/02-2K/02-2K-I02/02-2K-I02-012",
+        "start": 56316
+    },
+    {
+        "action": "PrintText",
+        "end": 59000,
+        "persona": "Макото",
+        "start": 57016,
+        "text": "Давай пока не будем встречаться.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 59000,
+        "file": "Voice02/02-2K/02-2K-I02/02-2K-I02-0200",
+        "layer": 1,
+        "persona": "mak",
+        "start": 57016
+    },
+    {
+        "action": "CreateBG",
+        "end": 67000,
+        "file": "Event02/02-2K/02-2K-I02/02-2K-I02-013",
+        "start": 60033
+    },
+    {
+        "action": "PrintText",
+        "end": 61000,
+        "persona": "Котоноха",
+        "start": 60150,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 61000,
+        "file": "Voice02/02-2K/02-2K-I02/02-2K-I02-0210",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 60150
+    },
+    {
+        "action": "PrintText",
+        "end": 63000,
+        "persona": "Макото",
+        "start": 62200,
+        "text": "Прощай.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 63000,
+        "file": "Voice02/02-2K/02-2K-I02/02-2K-I02-0220",
+        "layer": 1,
+        "persona": "mak",
+        "start": 62200
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 67000,
+        "start": 66033
+    },
+    {
+        "action": "EndRoll",
+        "end": 198000,
+        "file": "Movie02/ENDROLL/03-1",
+        "start": 67033
+    }
+]

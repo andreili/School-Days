@@ -1,0 +1,353 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 62000,
+        "file": "BGM/SD_BGM/sdbgm03",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 62000,
+        "file": "Se01/01-00/01-00-E00/SE01-00-E00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 4000,
+        "file": "Event01/01-00/01-00-E01/01-00-E01-004",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Слушай, вкусно!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice02/02-2K/02-2K-B00/02-2K-B00-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Котоноха",
+        "start": 3250,
+        "text": "Правда?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice02/02-2K/02-2K-B00/02-2K-B00-0050",
+        "layer": 0,
+        "persona": "kot",
+        "start": 3250
+    },
+    {
+        "action": "CreateBG",
+        "end": 15000,
+        "file": "Event02/02-2K/02-2K-B00/02-2K-B00-002",
+        "start": 4333
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Макото",
+        "start": 4333,
+        "text": "Я и не знал, что лимонад можно пить горячим.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice02/02-2K/02-2K-B00/02-2K-B00-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 4333
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Котоноха",
+        "start": 8300,
+        "text": "Он вкусный и холодный, но в последние дни похолодало,^"
+    },
+    {
+        "action": "PrintText",
+        "end": 15000,
+        "persona": "Котоноха",
+        "start": 11216,
+        "text": "вот я и подумала, что горячий будет вкуснее.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 15000,
+        "file": "Voice02/02-2K/02-2K-B00/02-2K-B00-0070",
+        "layer": 0,
+        "persona": "kot",
+        "start": 8300
+    },
+    {
+        "action": "PrintText",
+        "end": 19000,
+        "persona": "Макото",
+        "start": 15216,
+        "text": "Понятно, действительно, согревает.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 19000,
+        "file": "Voice02/02-2K/02-2K-B00/02-2K-B00-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 15216
+    },
+    {
+        "action": "CreateBG",
+        "end": 21000,
+        "file": "Event02/02-2K/02-2K-B00/02-2K-B00-003",
+        "start": 15233
+    },
+    {
+        "action": "PrintText",
+        "end": 23000,
+        "persona": "Котоноха",
+        "start": 19016,
+        "text": "Рада, что тебе понравилось. Да, кстати...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 23000,
+        "file": "Voice02/02-2K/02-2K-B00/02-2K-B00-0090",
+        "layer": 0,
+        "persona": "kot",
+        "start": 19016
+    },
+    {
+        "action": "CreateBG",
+        "end": 32000,
+        "file": "Event02/02-2K/02-2K-B00/02-2K-B00-004",
+        "start": 21216
+    },
+    {
+        "action": "PrintText",
+        "end": 23000,
+        "persona": "Макото",
+        "start": 23116,
+        "text": "М-м-м?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 23000,
+        "file": "Voice02/02-2K/02-2K-B00/02-2K-B00-0100",
+        "layer": 1,
+        "persona": "mak",
+        "start": 23116
+    },
+    {
+        "action": "PrintText",
+        "end": 28000,
+        "persona": "Котоноха",
+        "start": 23383,
+        "text": "У меня тут билеты есть, может, сходим вместе?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 28000,
+        "file": "Voice02/02-2K/02-2K-B00/02-2K-B00-0110",
+        "layer": 0,
+        "persona": "kot",
+        "start": 23383
+    },
+    {
+        "action": "PrintText",
+        "end": 29000,
+        "persona": "Макото",
+        "start": 28316,
+        "text": "Кино?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 29000,
+        "file": "Voice02/02-2K/02-2K-B00/02-2K-B00-0120",
+        "layer": 1,
+        "persona": "mak",
+        "start": 28316
+    },
+    {
+        "action": "PrintText",
+        "end": 32000,
+        "persona": "Котоноха",
+        "start": 29250,
+        "text": "Да... Вот.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 32000,
+        "file": "Voice02/02-2K/02-2K-B00/02-2K-B00-0130",
+        "layer": 0,
+        "persona": "kot",
+        "start": 29250
+    },
+    {
+        "action": "PrintText",
+        "end": 35000,
+        "persona": "Макото",
+        "start": 32016,
+        "text": "Мелодрама...^"
+    },
+    {
+        "action": "PrintText",
+        "end": 40000,
+        "persona": "Макото",
+        "start": 35016,
+        "text": "Смотри, билеты действительны только до конца недели, до пятницы.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 40000,
+        "file": "Voice02/02-2K/02-2K-B00/02-2K-B00-0140",
+        "layer": 1,
+        "persona": "mak",
+        "start": 32016
+    },
+    {
+        "action": "CreateBG",
+        "end": 41000,
+        "file": "Event02/02-2K/02-2K-B00/02-2K-B00-005",
+        "start": 32033
+    },
+    {
+        "action": "PrintText",
+        "end": 41000,
+        "persona": "Котоноха",
+        "start": 40150,
+        "text": "Действительно...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 41000,
+        "file": "Voice02/02-2K/02-2K-B00/02-2K-B00-0150",
+        "layer": 0,
+        "persona": "kot",
+        "start": 40150
+    },
+    {
+        "action": "CreateBG",
+        "end": 58000,
+        "file": "Event01/01-00/01-00-E01/01-00-E01-004",
+        "start": 41250
+    },
+    {
+        "action": "PrintText",
+        "end": 52000,
+        "persona": "Макото",
+        "start": 41250,
+        "text": "А ты на этой неделе сможешь пойти? У тебя ведь школьные собрания...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 52000,
+        "file": "Voice02/02-2K/02-2K-B00/02-2K-B00-0160",
+        "layer": 1,
+        "persona": "mak",
+        "start": 41250
+    },
+    {
+        "action": "PrintText",
+        "end": 55000,
+        "persona": "Котоноха",
+        "start": 52250,
+        "text": "В пятницу нормально.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 55000,
+        "file": "Voice02/02-2K/02-2K-B00/02-2K-B00-0170",
+        "layer": 0,
+        "persona": "kot",
+        "start": 52250
+    },
+    {
+        "action": "PrintText",
+        "end": 57000,
+        "persona": "Макото",
+        "start": 55016,
+        "text": "Тогда пошли в пятницу.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 57000,
+        "file": "Voice02/02-2K/02-2K-B00/02-2K-B00-0180",
+        "layer": 1,
+        "persona": "mak",
+        "start": 55016
+    },
+    {
+        "action": "PrintText",
+        "end": 58000,
+        "persona": "Котоноха",
+        "start": 57150,
+        "text": "А ты в пятницу свободен?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 58000,
+        "file": "Voice02/02-2K/02-2K-B00/02-2K-B00-0190",
+        "layer": 0,
+        "persona": "kot",
+        "start": 57150
+    },
+    {
+        "action": "CreateBG",
+        "end": 60000,
+        "file": "Event02/02-2K/02-2K-B00/02-2K-B00-006B",
+        "start": 58200
+    },
+    {
+        "action": "PrintText",
+        "end": 60000,
+        "persona": "Макото",
+        "start": 58200,
+        "text": "Конечно!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 60000,
+        "file": "Voice02/02-2K/02-2K-B00/02-2K-B00-0200",
+        "layer": 1,
+        "persona": "mak",
+        "start": 58200
+    },
+    {
+        "action": "CreateBG",
+        "end": 62000,
+        "file": "Event02/02-2K/02-2K-B00/02-2K-B00-006C",
+        "start": 60166
+    },
+    {
+        "action": "PrintText",
+        "end": 61000,
+        "persona": "Котоноха",
+        "start": 60166,
+        "text": "Хорошо.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 61000,
+        "file": "Voice02/02-2K/02-2K-B00/02-2K-B00-0210",
+        "layer": 0,
+        "persona": "kot",
+        "start": 60166
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 62000,
+        "start": 61350
+    }
+]

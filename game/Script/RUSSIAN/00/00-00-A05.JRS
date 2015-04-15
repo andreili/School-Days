@@ -1,0 +1,75 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 14000,
+        "file": "BGM/SD_BGM/sdbgm06",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 0,
+        "file": "Se00/00-00/00-00-A05/SE00-00-A05-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 14000,
+        "file": "Voice00/00-00/00-00-A03/00-00-A03-0340A",
+        "layer": 2,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event00/00-00/00-00-A05/00-00-A05-001",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 3000,
+        "file": "Se00/00-00/00-00-A05/SE00-00-A05-001",
+        "layer": 1,
+        "start": 2383
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event00/00-00/00-00-A05/00-00-A05-002",
+        "start": 3016
+    },
+    {
+        "action": "PlaySe",
+        "end": 6000,
+        "file": "Se00/00-00/00-00-A05/SE00-00-A05-001",
+        "layer": 1,
+        "start": 5383
+    },
+    {
+        "action": "PlayMovie",
+        "end": 9000,
+        "file": "Movie00/00-00/00-00-A05/00-00-A05-003",
+        "start": 5383
+    },
+    {
+        "action": "PlayMovie",
+        "end": 14000,
+        "file": "Movie00/00-00/00-00-A05/00-00-A05-004",
+        "start": 9183
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Макото",
+        "start": 10366,
+        "text": "Да, я бы, наверное, тоже не поверил.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice00/00-00/00-00-A05/00-00-A05-0070",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 10366
+    }
+]

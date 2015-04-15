@@ -1,0 +1,104 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 7000,
+        "file": "SysSe/SE_all/station_train/gakuenmae_yuugata",
+        "layer": 2,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event02/02-2K/02-2K-J06/02-2K-J06-001",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 3000,
+        "file": "Voice02/02-2K/02-2K-J06/02-2K-J06-0030",
+        "layer": 1,
+        "start": 33
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event02/02-2K/02-2K-J06/02-2K-J06-003",
+        "start": 3133
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Котоноха",
+        "start": 3133,
+        "text": "До завтра.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice02/02-2K/02-2K-J06/02-2K-J06-0050",
+        "layer": 0,
+        "persona": "kot",
+        "start": 3133
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Макото",
+        "start": 5083,
+        "text": "Пока.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice02/02-2K/02-2K-J06/02-2K-J06-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 5083
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 7000,
+        "start": 6216
+    },
+    {
+        "action": "PlaySe",
+        "end": 13000,
+        "file": "Se01/01-1K/01-1K-F00/SE01-1K-F00-001",
+        "layer": 1,
+        "start": 7216
+    },
+    {
+        "action": "PlayMovie",
+        "end": 9000,
+        "file": "Movie01/01-1K/01-1K-F00/01-1K-F00-001",
+        "start": 7216
+    },
+    {
+        "action": "CreateBG",
+        "end": 13000,
+        "file": "Event02/02-2K/02-2K-J06/02-2K-J06-005",
+        "start": 9216
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Макото",
+        "start": 9333,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice02/02-2K/02-2K-J06/02-2K-J06-0090",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 9333
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 13000,
+        "start": 12216
+    }
+]

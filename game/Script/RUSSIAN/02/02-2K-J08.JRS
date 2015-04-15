@@ -1,0 +1,108 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 10000,
+        "file": "BGM/SD_BGM/sdbgm20",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 10000,
+        "file": "Se01/01-1K/01-1K-F00/SE01-1K-F00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 3000,
+        "file": "Movie01/01-1K/01-1K-F00/01-1K-F00-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Ладно, хватит, а то она обидится.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice02/02-2K/02-2K-J08/02-2K-J08-0030",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event02/02-2K/02-2K-J05/02-2K-J05-004",
+        "start": 3083
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Котоноха",
+        "start": 3083,
+        "text": "Макото... Перестань...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice02/02-2K/02-2K-J08/02-2K-J08-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 3083
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 6150,
+        "text": "Извини.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice02/02-2K/02-2K-J08/02-2K-J08-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 6150
+    },
+    {
+        "action": "PlayMovie",
+        "end": 10000,
+        "file": "Movie01/01-1K/01-1K-F00/01-1K-F00-001",
+        "start": 7133
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Котоноха",
+        "start": 7183,
+        "text": "Угу...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice02/02-2K/02-2K-J08/02-2K-J08-0070",
+        "layer": 0,
+        "persona": "kot",
+        "start": 7183
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Макото",
+        "start": 8283,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice02/02-2K/02-2K-J08/02-2K-J08-0080",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 8283
+    }
+]

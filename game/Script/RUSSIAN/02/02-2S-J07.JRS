@@ -1,0 +1,50 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 9000,
+        "file": "BGM/SD_BGM/sdbgm07",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event02/02-2S/02-2S-J07/02-2S-J07-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 100,
+        "text": "Так сложно разобраться в своих чувствах...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice02/02-2S/02-2S-J07/02-2S-J07-0030",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 100
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event02/02-2S/02-2S-J07/02-2S-J07-002",
+        "start": 3050
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice02/02-2S/02-2S-J07/02-2S-J07-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 3150
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Я и сам до конца не знаю...^",
+        "answer2": "Я, кажется, люблю Котоноху...^",
+        "end": 8000,
+        "start": 3300
+    }
+]

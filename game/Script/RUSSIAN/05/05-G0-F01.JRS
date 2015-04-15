@@ -1,0 +1,91 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 16000,
+        "file": "BGM/SD_BGM/sdbgm20",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 6000,
+        "file": "Se00/00-00/00-00-A00/SE00-00-A00-005",
+        "layer": 2,
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 6000,
+        "file": "Movie00/00-00/00-00-A00/00-00-A00-006",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 16000,
+        "file": "SysSe/SE_all/station_train/train_in",
+        "layer": 1,
+        "start": 6083
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event05/05-KB/05-KB-F01/05-KB-F01-002",
+        "start": 6083
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Котоноха",
+        "start": 6216,
+        "text": "Д-доброе утро, Макото!..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice05/05-KB/05-KB-F01/05-KB-F01-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 6216
+    },
+    {
+        "action": "CreateBG",
+        "end": 14000,
+        "file": "Event05/05-KB/05-KB-F01/05-KB-F01-003",
+        "start": 11083
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Макото",
+        "start": 11083,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice05/05-KB/05-KB-F01/05-KB-F01-0050",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 11083
+    },
+    {
+        "action": "CreateBG",
+        "end": 16000,
+        "file": "Event05/05-KB/05-KB-F01/05-KB-F01-004",
+        "start": 14116
+    },
+    {
+        "action": "PrintText",
+        "end": 15000,
+        "persona": "Котоноха",
+        "start": 14216,
+        "text": "Макото...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 15000,
+        "file": "Voice05/05-KB/05-KB-F01/05-KB-F01-0060",
+        "layer": 0,
+        "persona": "kot",
+        "start": 14216
+    }
+]

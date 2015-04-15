@@ -1,0 +1,57 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 14000,
+        "file": "Se05/05-KA/05-KA-D01/SE05-KA-D01-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 12000,
+        "file": "Event05/05-KA/05-KA-D01/05-KA-D01-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 20000,
+        "file": "Event05/05-KA/05-KA-D01/05-KA-D01-002",
+        "start": 12150
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Макото",
+        "start": 13016,
+        "text": "Третий этаж... Возле класса физики?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice05/05-KA/05-KA-D01/05-KA-D01-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 13016
+    },
+    {
+        "action": "PrintText",
+        "end": 19000,
+        "persona": "Макото",
+        "start": 18016,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 19000,
+        "file": "Voice05/05-KA/05-KA-D01/05-KA-D01-0050",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 18016
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 20000,
+        "start": 19333
+    }
+]

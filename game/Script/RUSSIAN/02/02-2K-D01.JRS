@@ -1,0 +1,127 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 16000,
+        "file": "BGM/SD_BGM/sdbgm16",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 16000,
+        "file": "Se01/01-1K/01-1K-F00/SE01-1K-F00-001",
+        "layer": 2,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event02/02-2K/02-2K-D01/02-2K-D01-001",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 1000,
+        "file": "Voice02/02-2K/02-2K-D01/02-2K-D01-0030",
+        "layer": 1,
+        "start": 283
+    },
+    {
+        "action": "CreateBG",
+        "end": 4000,
+        "file": "Event02/02-2K/02-2K-D01/02-2K-D01-002",
+        "start": 3016
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Макото",
+        "start": 3016,
+        "text": "Сэкаи, ты ведь живёшь...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice02/02-2K/02-2K-D01/02-2K-D01-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 3016
+    },
+    {
+        "action": "PlayMovie",
+        "end": 10000,
+        "file": "Movie02/02-2K/02-2K-D01/02-2K-D01-003",
+        "start": 4266
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Сэкаи",
+        "start": 4266,
+        "text": "Ага, на Мотехара-сакасита, это следующая.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice02/02-2K/02-2K-D01/02-2K-D01-0050",
+        "layer": 0,
+        "persona": "sek",
+        "start": 4266
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Макото",
+        "start": 7366,
+        "text": "То-точно... Как-то я немного волнуюсь...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice02/02-2K/02-2K-D01/02-2K-D01-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 7366
+    },
+    {
+        "action": "PlayMovie",
+        "end": 16000,
+        "file": "Movie02/02-2K/02-2K-D01/02-2K-D01-004",
+        "start": 10066
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Сэкаи",
+        "start": 12166,
+        "text": "Да перестань!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice02/02-2K/02-2K-D01/02-2K-D01-0070",
+        "layer": 0,
+        "persona": "sek",
+        "start": 12166
+    },
+    {
+        "action": "PrintText",
+        "end": 15000,
+        "persona": "Макото",
+        "start": 13366,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 15000,
+        "file": "Voice02/02-2K/02-2K-D01/02-2K-D01-0080",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 13366
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 16000,
+        "start": 15166
+    }
+]

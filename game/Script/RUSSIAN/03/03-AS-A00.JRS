@@ -1,0 +1,316 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 63000,
+        "file": "BGM/SD_BGM/sdbgm28",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 1000,
+        "file": "Se03/03-AS/03-AS-A00/SE03-AS-A00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 1000,
+        "file": "Movie03/03-AS/03-AS-A00/03-AS-A00-001",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 2000,
+        "file": "Se03/03-AS/03-AS-A00/SE03-AS-A00-002",
+        "layer": 2,
+        "start": 1016
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event03/03-AS/03-AS-A00/03-AS-A00-002",
+        "start": 1016
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Сэцуна",
+        "start": 1016,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice03/03-AS/03-AS-A00/03-AS-A00-0020",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 1016
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "OUT",
+        "end": 2000,
+        "start": 2033
+    },
+    {
+        "action": "CreateBG",
+        "end": 4000,
+        "file": "Event03/03-AS/03-AS-A00/03-AS-A00-003",
+        "start": 2233
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "IN",
+        "end": 3000,
+        "start": 2233
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Сэкаи",
+        "start": 3033,
+        "text": "Сэцуна!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice03/03-AS/03-AS-A00/03-AS-A00-0090",
+        "layer": 0,
+        "persona": "sek",
+        "start": 3033
+    },
+    {
+        "action": "CreateBG",
+        "end": 22000,
+        "file": "Event03/03-AS/03-AS-A00/03-AS-A00-004",
+        "start": 4200
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Сэцуна",
+        "start": 4200,
+        "text": "Сэкаи...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice03/03-AS/03-AS-A00/03-AS-A00-0120",
+        "layer": 0,
+        "persona": "set",
+        "start": 4200
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Сэкаи",
+        "start": 5233,
+        "text": "Слушай, к тебе ведь мальчишки приставали?!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice03/03-AS/03-AS-A00/03-AS-A00-0130",
+        "layer": 0,
+        "persona": "sek",
+        "start": 5233
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Сэцуна",
+        "start": 9166,
+        "text": "Ничего страшного.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice03/03-AS/03-AS-A00/03-AS-A00-0140",
+        "layer": 0,
+        "persona": "set",
+        "start": 9166
+    },
+    {
+        "action": "PrintText",
+        "end": 20000,
+        "persona": "Сэкаи",
+        "start": 10233,
+        "text": "Правда? Мне Ямагата сказала, что к тебе такие суровые ребята с физры стали приставать.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 20000,
+        "file": "Voice03/03-AS/03-AS-A00/03-AS-A00-0150",
+        "layer": 0,
+        "persona": "sek",
+        "start": 10233
+    },
+    {
+        "action": "PrintText",
+        "end": 23000,
+        "persona": "Сэкаи",
+        "start": 20233,
+        "text": "Вот я и прибежала тебя выручать!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 23000,
+        "file": "Voice03/03-AS/03-AS-A00/03-AS-A00-0151",
+        "layer": 0,
+        "persona": "sek",
+        "start": 20233
+    },
+    {
+        "action": "CreateBG",
+        "end": 44000,
+        "file": "Event03/03-AS/03-AS-A00/03-AS-A00-005",
+        "start": 22333
+    },
+    {
+        "action": "PrintText",
+        "end": 25000,
+        "persona": "Сэцуна",
+        "start": 22333,
+        "text": "Да всё в порядке уже.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 25000,
+        "file": "Voice03/03-AS/03-AS-A00/03-AS-A00-0160",
+        "layer": 0,
+        "persona": "set",
+        "start": 22333
+    },
+    {
+        "action": "PrintText",
+        "end": 36000,
+        "persona": "Сэкаи",
+        "start": 25166,
+        "text": "Правда? Ну ты и сильная, Сэцуна, даже мальчишек не испугалась. Я вот трусиха, так не могу...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 36000,
+        "file": "Voice03/03-AS/03-AS-A00/03-AS-A00-0170",
+        "layer": 0,
+        "persona": "sek",
+        "start": 25166
+    },
+    {
+        "action": "PrintText",
+        "end": 39000,
+        "persona": "Сэцуна",
+        "start": 35150,
+        "text": "Нет, мне помогли...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 39000,
+        "file": "Voice03/03-AS/03-AS-A00/03-AS-A00-0180",
+        "layer": 0,
+        "persona": "set",
+        "start": 35150
+    },
+    {
+        "action": "PrintText",
+        "end": 42000,
+        "persona": "Сэкаи",
+        "start": 39216,
+        "text": "Да? Кто?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 42000,
+        "file": "Voice03/03-AS/03-AS-A00/03-AS-A00-0190",
+        "layer": 0,
+        "persona": "sek",
+        "start": 39216
+    },
+    {
+        "action": "PrintText",
+        "end": 44000,
+        "persona": "Сэцуна",
+        "start": 42133,
+        "text": "Один мальчик, их одноклассник, кажется.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 44000,
+        "file": "Voice03/03-AS/03-AS-A00/03-AS-A00-0200",
+        "layer": 0,
+        "persona": "set",
+        "start": 42133
+    },
+    {
+        "action": "CreateBG",
+        "end": 63000,
+        "file": "Event03/03-AS/03-AS-A00/03-AS-A00-006",
+        "start": 44250
+    },
+    {
+        "action": "PrintText",
+        "end": 50000,
+        "persona": "Сэкаи",
+        "start": 44300,
+        "text": "Вот как, значит мир не без добрых людей. Как его зовут?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 50000,
+        "file": "Voice03/03-AS/03-AS-A00/03-AS-A00-0210",
+        "layer": 0,
+        "persona": "sek",
+        "start": 44300
+    },
+    {
+        "action": "PrintText",
+        "end": 52000,
+        "persona": "Сэцуна",
+        "start": 50000,
+        "text": "Он сказал, его зовут Ито.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 52000,
+        "file": "Voice03/03-AS/03-AS-A00/03-AS-A00-0220",
+        "layer": 0,
+        "persona": "set",
+        "start": 50000
+    },
+    {
+        "action": "PrintText",
+        "end": 59000,
+        "persona": "Сэкаи",
+        "start": 52133,
+        "text": "Ух ты! Ито значит?! Хе-хе, ладно, я про него все как следует разузнаю.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 59000,
+        "file": "Voice03/03-AS/03-AS-A00/03-AS-A00-0230",
+        "layer": 0,
+        "persona": "sek",
+        "start": 52133
+    },
+    {
+        "action": "PrintText",
+        "end": 62000,
+        "persona": "Сэцуна",
+        "start": 58166,
+        "text": "Сэкаи... Подожди...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 62000,
+        "file": "Voice03/03-AS/03-AS-A00/03-AS-A00-0240",
+        "layer": 0,
+        "persona": "set",
+        "start": 58166
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 63000,
+        "start": 61150
+    }
+]

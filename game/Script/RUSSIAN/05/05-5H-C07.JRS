@@ -1,0 +1,178 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 39000,
+        "file": "BGM/SD_BGM/sdbgm25",
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 8000,
+        "file": "Movie05/05-5H/05-5H-C07/05-5H-C07-001",
+        "start": 0
+    },
+    {
+        "action": "MoveSom",
+        "end": 8000,
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Макото",
+        "start": 166,
+        "text": "Внутрь...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice05/05-5H/05-5H-C07/05-5H-C07-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 166
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Хикари",
+        "start": 5066,
+        "text": "А...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice05/05-5H/05-5H-C07/05-5H-C07-0040",
+        "layer": 0,
+        "persona": "hik",
+        "start": 5066
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "OUT",
+        "end": 8000,
+        "start": 7200
+    },
+    {
+        "action": "CreateBG",
+        "end": 16000,
+        "file": "Event05/05-5H/05-5H-C07/05-5H-C07-002",
+        "start": 8200
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "IN",
+        "end": 9000,
+        "start": 8200
+    },
+    {
+        "action": "PrintText",
+        "end": 18000,
+        "persona": "Макото",
+        "start": 8233,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 18000,
+        "file": "Voice05/05-5H/05-5H-C07/05-5H-C07-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 8233
+    },
+    {
+        "action": "PlayMovie",
+        "end": 25000,
+        "file": "Movie05/05-5H/05-5H-C07/05-5H-C07-003",
+        "start": 16316
+    },
+    {
+        "action": "PrintText",
+        "end": 27000,
+        "persona": "Хикари",
+        "start": 16333,
+        "text": "Во мне... Так много... Горячо...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 27000,
+        "file": "Voice05/05-5H/05-5H-C07/05-5H-C07-0060",
+        "layer": 0,
+        "persona": "hik",
+        "start": 16333
+    },
+    {
+        "action": "PlaySe",
+        "end": 26000,
+        "file": "SysSe/SE_all/h/h_03",
+        "layer": 1,
+        "start": 25016
+    },
+    {
+        "action": "PlayMovie",
+        "end": 34000,
+        "file": "Movie05/05-5H/05-5H-C07/H5-5H-C07-004",
+        "start": 25016
+    },
+    {
+        "action": "MoveSom",
+        "end": 28000,
+        "start": 25033
+    },
+    {
+        "action": "PrintText",
+        "end": 28000,
+        "persona": "Макото",
+        "start": 27066,
+        "text": "Ага.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 28000,
+        "file": "Voice05/05-5H/05-5H-C07/05-5H-C07-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 27066
+    },
+    {
+        "action": "PrintText",
+        "end": 36000,
+        "persona": "Хикари",
+        "start": 28200,
+        "text": "Я чувствую...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 36000,
+        "file": "Voice05/05-5H/05-5H-C07/05-5H-C07-0080",
+        "layer": 0,
+        "persona": "hik",
+        "start": 28200
+    },
+    {
+        "action": "PlayMovie",
+        "end": 39000,
+        "file": "Movie05/05-5H/05-5H-C07/05-5H-C07-005",
+        "start": 34333
+    },
+    {
+        "action": "PrintText",
+        "end": 37000,
+        "persona": "Макото",
+        "start": 36216,
+        "text": "Ага...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 37000,
+        "file": "Voice05/05-5H/05-5H-C07/05-5H-C07-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 36216
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 39000,
+        "start": 38133
+    }
+]

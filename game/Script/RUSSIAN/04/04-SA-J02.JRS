@@ -1,0 +1,66 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 12000,
+        "file": "SysSe/SE_all/gaya/syoutengai",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 6000,
+        "file": "Event04/04-SA/04-SA-J02/04-SA-J02-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Макото",
+        "start": 66,
+        "text": "Ну да прорвёмся... Подумаешь, бассейн.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice04/04-SA/04-SA-J02/04-SA-J02-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 66
+    },
+    {
+        "action": "CreateBG",
+        "end": 12000,
+        "file": "Event04/04-SA/04-SA-J02/04-SA-J02-001B",
+        "start": 6000
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Макото",
+        "start": 6183,
+        "text": "Домой.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice04/04-SA/04-SA-J02/04-SA-J02-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 6183
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Макото",
+        "start": 8350,
+        "text": "Поскорее бы на радостное личико Итару посмотреть!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice04/04-SA/04-SA-J02/04-SA-J02-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 8350
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 15000,
+        "file": "BGM/SD_BGM/sdbgm20",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event04/04-SA/04-SA-I03/04-SA-I03-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 116,
+        "text": "Да уж, чего тут думать...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice04/04-SA/04-SA-I03/04-SA-I03-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 116
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Макото",
+        "start": 3283,
+        "text": "Сэкаи вон повеселела, задачу свою я выполнил... Можно и не идти.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice04/04-SA/04-SA-I03/04-SA-I03-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 3283
+    },
+    {
+        "action": "CreateBG",
+        "end": 15000,
+        "file": "Event04/04-SA/04-SA-I03/04-SA-I03-002",
+        "start": 11166
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Макото",
+        "start": 12066,
+        "text": "Лучше спать лягу.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice04/04-SA/04-SA-I03/04-SA-I03-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 12066
+    }
+]

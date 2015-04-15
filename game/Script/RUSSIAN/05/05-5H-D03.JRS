@@ -1,0 +1,65 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 17000,
+        "file": "BGM/SD_BGM/sdbgm08",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 18000,
+        "file": "Event05/05-5H/05-5H-D03/05-5H-D03-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Хикари",
+        "start": 50,
+        "text": "Спасибо... Макото...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice05/05-5H/05-5H-D03/05-5H-D03-0030",
+        "layer": 0,
+        "persona": "hik",
+        "start": 50
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Макото",
+        "start": 6166,
+        "text": "Всегда пожалуйста. Ещё захочешь - обращайся.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice05/05-5H/05-5H-D03/05-5H-D03-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 6166
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Хикари",
+        "start": 14066,
+        "text": "Угу...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice05/05-5H/05-5H-D03/05-5H-D03-0050",
+        "layer": 0,
+        "persona": "hik",
+        "start": 14066
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 18000,
+        "start": 17033
+    }
+]

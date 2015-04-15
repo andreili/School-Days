@@ -1,0 +1,73 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 11000,
+        "file": "BGM/SD_BGM/sdbgm19",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 11000,
+        "file": "Se02/02-2K/02-2K-R00/SE02-2K-R00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event02/02-2S/02-2S-P01/02-2S-P01-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Сэкаи...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice02/02-2S/02-2S-P01/02-2S-P01-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Сэкаи",
+        "start": 1200,
+        "text": "Да?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice02/02-2S/02-2S-P01/02-2S-P01-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 1200
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Макото",
+        "start": 2283,
+        "text": "Сэкаи... Я думаю...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice02/02-2S/02-2S-P01/02-2S-P01-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2283
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Нам лучше расстаться!^",
+        "answer2": "Я люблю тебя больше жизни!^",
+        "end": 10000,
+        "start": 5116
+    }
+]

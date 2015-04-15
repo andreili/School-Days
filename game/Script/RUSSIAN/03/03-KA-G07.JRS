@@ -1,0 +1,141 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 14000,
+        "file": "BGM/SD_BGM/sdbgm06",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 14000,
+        "file": "Se03/03-KA/03-KA-G07/SE03-KA-G07-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event03/03-KA/03-KA-G07/03-KA-G07-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 0,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Я не знаю.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 0,
+        "file": "Voice03/03-KA/03-KA-G07/03-KA-G07-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event03/03-KA/03-KA-G07/03-KA-G07-002",
+        "start": 1116
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Сэцуна",
+        "start": 1166,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice03/03-KA/03-KA-G07/03-KA-G07-0040",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 1166
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Макото",
+        "start": 2116,
+        "text": "Правда, понятия не имею.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice03/03-KA/03-KA-G07/03-KA-G07-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2116
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event03/03-KA/03-KA-G07/03-KA-G07-003",
+        "start": 3316
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Сэцуна",
+        "start": 4333,
+        "text": "Ладно тогда.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice03/03-KA/03-KA-G07/03-KA-G07-0060",
+        "layer": 0,
+        "persona": "set",
+        "start": 4333
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 6083,
+        "text": "Ладно?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice03/03-KA/03-KA-G07/03-KA-G07-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 6083
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 7000,
+        "start": 7100
+    },
+    {
+        "action": "CreateBG",
+        "end": 12000,
+        "file": "Event03/03-KA/03-KA-G07/03-KA-G07-004",
+        "start": 7300
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Сэцуна",
+        "start": 7316,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice03/03-KA/03-KA-G07/03-KA-G07-0090",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 7316
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 14000,
+        "start": 9150
+    }
+]

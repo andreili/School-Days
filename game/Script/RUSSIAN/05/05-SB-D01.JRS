@@ -1,0 +1,83 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 9000,
+        "file": "BGM/SD_BGM/sdbgm03",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 4000,
+        "file": "Event05/05-SB/05-SB-D01/05-SB-D01-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Ладно. Пойду...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice05/05-SB/05-SB-D01/05-SB-D01-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Нанами",
+        "start": 3016,
+        "text": "Вот и решено.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice05/05-SB/05-SB-D01/05-SB-D01-0040",
+        "layer": 0,
+        "persona": "nan",
+        "start": 3016
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event05/05-SB/05-SB-D01/05-SB-D01-002A",
+        "start": 4250
+    },
+    {
+        "action": "PlaySe",
+        "end": 5000,
+        "file": "SysSe/SE_all/keitai/keitai_sousa",
+        "layer": 1,
+        "start": 5200
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event05/05-SB/05-SB-D01/05-SB-D01-002B",
+        "start": 5200
+    },
+    {
+        "action": "PlaySe",
+        "end": 5000,
+        "file": "SysSe/SE_all/keitai/keitai_sousa",
+        "layer": 1,
+        "start": 5300
+    },
+    {
+        "action": "PlaySe",
+        "end": 6000,
+        "file": "SysSe/SE_all/keitai/keitai_sousa",
+        "layer": 1,
+        "start": 6033
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event05/05-SB/05-SB-D01/05-SB-D01-002C",
+        "start": 7000
+    }
+]

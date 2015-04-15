@@ -1,0 +1,60 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 7000,
+        "file": "BGM/SD_BGM/sdbgm20",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 1000,
+        "file": "SysSe/SE_all/keitai/keitai_vib",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event02/02-2K/02-2K-E08/02-2K-E08-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Котоноха",
+        "start": 0,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice02/02-2K/02-2K-E08/02-2K-E08-0050",
+        "layer": 0,
+        "persona": "",
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 3000,
+        "file": "Movie02/02-2K/02-2K-E08/02-2K-E08-002",
+        "start": 1166
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event02/02-2K/02-2K-E08/02-2K-E08-003",
+        "start": 3350
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event02/02-2K/02-2K-E08/02-2K-E08-003A",
+        "start": 5266
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 7000,
+        "start": 6250
+    }
+]

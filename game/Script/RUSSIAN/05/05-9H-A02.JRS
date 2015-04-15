@@ -1,0 +1,78 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 21000,
+        "file": "BGM/SD_BGM/sdbgm17_semilong",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 12000,
+        "file": "Event05/05-9H/05-9H-A02/05-9H-A02-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Мать Макото",
+        "start": 0,
+        "text": "Заходи-заходи, Котоноха! О, а это кто?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice05/05-9H/05-9H-A02/05-9H-A02-0030",
+        "layer": 0,
+        "persona": "mkm",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Котоноха",
+        "start": 7133,
+        "text": "А, да. Она раньше с Макото в одном классе училась. Киора Сэ...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice05/05-9H/05-9H-A02/05-9H-A02-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 7133
+    },
+    {
+        "action": "PlayMovie",
+        "end": 16000,
+        "file": "Movie05/05-9H/05-9H-A02/05-9H-A02-002",
+        "start": 12366
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Сэцуна",
+        "start": 12366,
+        "text": "Ваша невестка.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice05/05-9H/05-9H-A02/05-9H-A02-0050",
+        "layer": 0,
+        "persona": "set",
+        "start": 12366
+    },
+    {
+        "action": "PlaySe",
+        "end": 21000,
+        "file": "Se05/05-9H/05-9H-A01/SE05-9H-A01-002",
+        "layer": 1,
+        "start": 16300
+    },
+    {
+        "action": "CreateBG",
+        "end": 21000,
+        "file": "System/Screen/Black",
+        "start": 16300
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 17000,
+        "file": "BGM/SD_BGM/sdbgm26",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 17000,
+        "file": "Se03/03-A0/03-A0-A05/SE03-A0-A05-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 3000,
+        "file": "Movie02/02-2K/02-2K-J05/02-2K-J05-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Если только совсем чуть-чуть...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice03/03-A0/03-A0-A05/03-A0-A05-0040",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 7000,
+        "file": "Movie02/02-2K/02-2K-J05/02-2K-J05-002",
+        "start": 3216
+    },
+    {
+        "action": "PlayMovie",
+        "end": 10000,
+        "file": "Movie02/02-2K/02-2K-J05/02-2K-J05-003",
+        "start": 7083
+    },
+    {
+        "action": "CreateBG",
+        "end": 17000,
+        "file": "Event02/02-2K/02-2K-J05/02-2K-J05-004",
+        "start": 10100
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Котоноха",
+        "start": 10100,
+        "text": "!!!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice03/03-A0/03-A0-A05/03-A0-A05-0060",
+        "layer": 0,
+        "persona": "kot",
+        "start": 10100
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Ещё немного потрогать.^",
+        "answer2": "Убрать руку.^",
+        "end": 16000,
+        "start": 11000
+    }
+]

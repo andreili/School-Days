@@ -1,0 +1,232 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 28000,
+        "file": "BGM/SD_BGM/sdbgm03",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 28000,
+        "file": "Se04/04-C1/04-C1-D00/SE04-C1-D00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 18000,
+        "file": "SysSe/SE_all/school/chime",
+        "layer": 2,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event04/04-C1/04-C1-D00/04-C1-D00-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 4000,
+        "file": "Event04/04-C1/04-C1-D00/04-C1-D00-002",
+        "start": 2000
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event04/04-C1/04-C1-D00/04-C1-D00-003",
+        "start": 4000
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Сэкаи",
+        "start": 4000,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice04/04-C1/04-C1-D00/04-C1-D00-0050",
+        "layer": 0,
+        "persona": "sek",
+        "start": 4000
+    },
+    {
+        "action": "CreateBG",
+        "end": 6000,
+        "file": "Event04/04-C1/04-C1-D00/04-C1-D00-004",
+        "start": 5083
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Макото",
+        "start": 5083,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice04/04-C1/04-C1-D00/04-C1-D00-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 5083
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event04/04-C1/04-C1-D00/04-C1-D00-005",
+        "start": 6083
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 7000,
+        "start": 6083
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event04/04-C1/04-C1-D00/04-C1-D00-006",
+        "start": 11000
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Макото",
+        "start": 11000,
+        "text": "Пойдём?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice04/04-C1/04-C1-D00/04-C1-D00-0110",
+        "layer": 1,
+        "persona": "mak",
+        "start": 11000
+    },
+    {
+        "action": "CreateBG",
+        "end": 16000,
+        "file": "Event04/04-C1/04-C1-D00/04-C1-D00-007",
+        "start": 11333
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Сэкаи",
+        "start": 11366,
+        "text": "Э?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice04/04-C1/04-C1-D00/04-C1-D00-0120",
+        "layer": 0,
+        "persona": "sek",
+        "start": 11366
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Макото",
+        "start": 12350,
+        "text": "В 4-й класс.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice04/04-C1/04-C1-D00/04-C1-D00-0130",
+        "layer": 1,
+        "persona": "mak",
+        "start": 12350
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Сэкаи",
+        "start": 13350,
+        "text": "К Кацуре?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice04/04-C1/04-C1-D00/04-C1-D00-0140",
+        "layer": 0,
+        "persona": "sek",
+        "start": 13350
+    },
+    {
+        "action": "CreateBG",
+        "end": 27000,
+        "file": "Event04/04-C1/04-C1-D00/04-C1-D00-008",
+        "start": 16150
+    },
+    {
+        "action": "PrintText",
+        "end": 21000,
+        "persona": "Макото",
+        "start": 16150,
+        "text": "Скажу ей напрямую, что встречаюсь с тобой.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 21000,
+        "file": "Voice04/04-C1/04-C1-D00/04-C1-D00-0160",
+        "layer": 1,
+        "persona": "mak",
+        "start": 16150
+    },
+    {
+        "action": "PrintText",
+        "end": 22000,
+        "persona": "Сэкаи",
+        "start": 21216,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 22000,
+        "file": "Voice04/04-C1/04-C1-D00/04-C1-D00-0170",
+        "layer": 0,
+        "persona": "sek",
+        "start": 21216
+    },
+    {
+        "action": "PrintText",
+        "end": 27000,
+        "persona": "Макото",
+        "start": 22300,
+        "text": "Не хочу больше скрывать своих чувств к тебе.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 27000,
+        "file": "Voice04/04-C1/04-C1-D00/04-C1-D00-0180",
+        "layer": 1,
+        "persona": "mak",
+        "start": 22300
+    },
+    {
+        "action": "CreateBG",
+        "end": 28000,
+        "file": "Event04/04-C1/04-C1-D00/04-C1-D00-009",
+        "start": 27316
+    },
+    {
+        "action": "PrintText",
+        "end": 28000,
+        "persona": "Сэкаи",
+        "start": 27350,
+        "text": "Угу!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 28000,
+        "file": "Voice04/04-C1/04-C1-D00/04-C1-D00-0190",
+        "layer": 0,
+        "persona": "sek",
+        "start": 27350
+    }
+]

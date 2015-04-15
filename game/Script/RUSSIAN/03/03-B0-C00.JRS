@@ -1,0 +1,120 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 14000,
+        "file": "BGM/SD_BGM/sdbgm20",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 15000,
+        "file": "Se03/03-B0/03-B0-C00/SE03-B0-C00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event03/03-B0/03-B0-C00/03-B0-C00-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 4000,
+        "file": "Event03/03-KB/03-KB-M06/03-KB-M06-009",
+        "start": 2000
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event03/03-B0/03-B0-C00/03-B0-C00-003",
+        "start": 4000
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Сэкаи",
+        "start": 4133,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice03/03-B0/03-B0-C00/03-B0-C00-0040",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 4133
+    },
+    {
+        "action": "PlayMovie",
+        "end": 7000,
+        "file": "Movie03/03-B0/03-B0-C00/03-B0-C00-004",
+        "start": 5250
+    },
+    {
+        "action": "PlayMovie",
+        "end": 9000,
+        "file": "Movie03/03-B0/03-B0-C00/03-B0-C00-005",
+        "start": 7216
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event03/03-B0/03-B0-C00/03-B0-C00-006",
+        "start": 9383
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Сэкаи",
+        "start": 10083,
+        "text": "А...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice03/03-B0/03-B0-C00/03-B0-C00-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 10083
+    },
+    {
+        "action": "PlayMovie",
+        "end": 15000,
+        "file": "Movie03/03-B0/03-B0-C00/03-B0-C00-007",
+        "start": 11300
+    },
+    {
+        "action": "EndBGM",
+        "end": 143000,
+        "file": "BGM/Vocal/SDV04",
+        "start": 13083
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Сэкаи",
+        "start": 13250,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice03/03-B0/03-B0-C00/03-B0-C00-0080",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 13250
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 15000,
+        "start": 14283
+    },
+    {
+        "action": "EndRoll",
+        "end": 143000,
+        "file": "Movie03/ENDROLL/04-3",
+        "start": 15283
+    }
+]

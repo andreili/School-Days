@@ -1,0 +1,151 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 26000,
+        "file": "BGM/SD_BGM/sdbgm20",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event05/05-KG/05-KG-C05/05-KG-C05-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Сэкаи",
+        "start": 0,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice05/05-KG/05-KG-C05/05-KG-C05-0030",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 0
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 1000,
+        "start": 1166
+    },
+    {
+        "action": "PlaySe",
+        "end": 20000,
+        "file": "SysSe/SE_all/school/chime",
+        "layer": 1,
+        "start": 1366
+    },
+    {
+        "action": "CreateBG",
+        "end": 6000,
+        "file": "Event05/05-KG/05-KG-C05/05-KG-C05-002",
+        "start": 1366
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event05/05-KG/05-KG-C05/05-KG-C05-003A",
+        "start": 6050
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Макото",
+        "start": 6050,
+        "text": "Наконец-то... Сэкаи, куда есть пойдём?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice05/05-KG/05-KG-C05/05-KG-C05-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 6050
+    },
+    {
+        "action": "CreateBG",
+        "end": 13000,
+        "file": "Event05/05-KG/05-KG-C05/05-KG-C05-003B",
+        "start": 10283
+    },
+    {
+        "action": "CreateBG",
+        "end": 16000,
+        "file": "Event05/05-KG/05-KG-C05/05-KG-C05-003C",
+        "start": 13383
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Сэкаи",
+        "start": 13383,
+        "text": "Дай-ка подумать...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice05/05-KG/05-KG-C05/05-KG-C05-0080",
+        "layer": 0,
+        "persona": "sek",
+        "start": 13383
+    },
+    {
+        "action": "CreateBG",
+        "end": 17000,
+        "file": "Event05/05-KG/05-KG-C05/05-KG-C05-004",
+        "start": 16000
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Макото",
+        "start": 16033,
+        "text": "А!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice05/05-KG/05-KG-C05/05-KG-C05-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 16033
+    },
+    {
+        "action": "CreateBG",
+        "end": 19000,
+        "file": "Event05/05-KG/05-KG-C05/05-KG-C05-005",
+        "start": 17283
+    },
+    {
+        "action": "PrintText",
+        "end": 18000,
+        "persona": "Сэкаи",
+        "start": 18000,
+        "text": "Э?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 18000,
+        "file": "Voice05/05-KG/05-KG-C05/05-KG-C05-0100",
+        "layer": 0,
+        "persona": "sek",
+        "start": 18000
+    },
+    {
+        "action": "CreateBG",
+        "end": 26000,
+        "file": "Event05/05-KG/05-KG-C05/05-KG-C05-006",
+        "start": 19066
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Позвать.",
+        "answer2": "Пойти.",
+        "end": 25000,
+        "start": 20066
+    }
+]

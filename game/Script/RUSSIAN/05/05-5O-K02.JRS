@@ -1,0 +1,144 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 13000,
+        "file": "SysSe/SE_all/station_train/station",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 4000,
+        "file": "Event05/05-5O/05-5O-K01/05-5O-K01-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 50,
+        "text": "Против.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice05/05-5O/05-5O-K02/05-5O-K02-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 50
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Отомэ",
+        "start": 1133,
+        "text": "Понятно...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice05/05-5O/05-5O-K02/05-5O-K02-0040",
+        "layer": 0,
+        "persona": "oto",
+        "start": 1133
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Макото",
+        "start": 3200,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice05/05-5O/05-5O-K02/05-5O-K02-0050",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 3200
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Отомэ",
+        "start": 4133,
+        "text": "Что ж... Буду вставать как и прежде.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice05/05-5O/05-5O-K02/05-5O-K02-0060",
+        "layer": 0,
+        "persona": "oto",
+        "start": 4133
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event05/05-5O/05-5O-K02/05-5O-K02-002",
+        "start": 4150
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event05/05-5O/05-5O-K00/05-5O-K00-004",
+        "start": 7266
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Макото",
+        "start": 7283,
+        "text": "Да нет...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice05/05-5O/05-5O-K02/05-5O-K02-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 7283
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Отомэ",
+        "start": 8216,
+        "text": "Я всегда в это время езжу.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice05/05-5O/05-5O-K02/05-5O-K02-0080",
+        "layer": 0,
+        "persona": "oto",
+        "start": 8216
+    },
+    {
+        "action": "CreateBG",
+        "end": 13000,
+        "file": "Event05/05-5O/05-5O-K00/05-5O-K00-002",
+        "start": 11116
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Макото",
+        "start": 11150,
+        "text": "А...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice05/05-5O/05-5O-K02/05-5O-K02-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 11150
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 13000,
+        "start": 12083
+    }
+]

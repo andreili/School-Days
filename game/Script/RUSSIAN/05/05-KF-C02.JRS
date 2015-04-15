@@ -1,0 +1,53 @@
+[
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event05/05-KF/05-KF-C02/05-KF-C02-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Угу...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice05/05-KF/05-KF-C02/05-KF-C02-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Сэкаи",
+        "start": 1150,
+        "text": "Я сделаю так, что он поймёт...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice05/05-KF/05-KF-C02/05-KF-C02-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 1150
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 5233,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice05/05-KF/05-KF-C02/05-KF-C02-0050",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 5233
+    }
+]

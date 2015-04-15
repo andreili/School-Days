@@ -1,0 +1,131 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 28000,
+        "file": "BGM/SD_BGM/sdbgm06",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event01/01-00/01-00-C01/01-00-C01-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 200,
+        "text": "Сэкаи мне просто друг.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice01/01-00/01-00-C01/01-00-C01-0030",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 200
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Макото",
+        "start": 3233,
+        "text": "Не думаю, что она в меня влюблена...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice01/01-00/01-00-C01/01-00-C01-0040",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 3233
+    },
+    {
+        "action": "CreateBG",
+        "end": 15000,
+        "file": "Event01/01-00/01-00-C01/01-00-C01-003",
+        "start": 9383
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Макото",
+        "start": 10166,
+        "text": "Мы отлично друг друга понимаем.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice01/01-00/01-00-C01/01-00-C01-0050",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 10166
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Макото",
+        "start": 12216,
+        "text": "Но всё-таки не стоит путать дружбу и любовь.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice01/01-00/01-00-C01/01-00-C01-0060",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 12216
+    },
+    {
+        "action": "CreateBG",
+        "end": 18000,
+        "file": "Event01/01-00/01-00-B00/01-00-B00-003",
+        "start": 15216
+    },
+    {
+        "action": "CreateBG",
+        "end": 19000,
+        "file": "Event01/01-00/01-00-C01/01-00-C01-005",
+        "start": 18100
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "OUT",
+        "end": 19000,
+        "start": 19116
+    },
+    {
+        "action": "CreateBG",
+        "end": 28000,
+        "file": "Event01/01-00/01-00-C01/01-00-C01-006",
+        "start": 19316
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "IN",
+        "end": 20000,
+        "start": 19316
+    },
+    {
+        "action": "PrintText",
+        "end": 26000,
+        "persona": "Макото",
+        "start": 20150,
+        "text": "У меня теперь есть Кацура, о ней я и должен думать.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 26000,
+        "file": "Voice01/01-00/01-00-C01/01-00-C01-0070",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 20150
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 28000,
+        "start": 27233
+    }
+]

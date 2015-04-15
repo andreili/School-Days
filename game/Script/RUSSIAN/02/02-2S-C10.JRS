@@ -1,0 +1,82 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 19000,
+        "file": "BGM/SD_BGM/sdbgm07",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 19000,
+        "file": "Se01/01-00/01-00-B00/SE01-00-B00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 18000,
+        "file": "SysSe/SE_all/school/chime",
+        "layer": 2,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event02/02-2K/02-2K-N00/02-2K-N00-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 12000,
+        "file": "Event02/02-2S/02-2S-C10/02-2S-C10-002",
+        "start": 10000
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Макото",
+        "start": 10100,
+        "text": "Пошли?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice02/02-2S/02-2S-C10/02-2S-C10-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 10100
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Сэкаи",
+        "start": 11133,
+        "text": "Да, сейчас... одну секунду.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice02/02-2S/02-2S-C10/02-2S-C10-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 11133
+    },
+    {
+        "action": "CreateBG",
+        "end": 16000,
+        "file": "Event02/02-2S/02-2S-C10/02-2S-C10-003",
+        "start": 12050
+    },
+    {
+        "action": "CreateBG",
+        "end": 19000,
+        "file": "Event02/02-2S/02-2S-C10/02-2S-C10-004",
+        "start": 16033
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 19000,
+        "start": 18200
+    }
+]

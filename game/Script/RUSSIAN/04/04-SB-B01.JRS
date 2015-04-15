@@ -1,0 +1,245 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 12000,
+        "file": "BGM/SD_BGM/sdbgm28",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event04/04-SB/04-SB-B01/04-SB-B01-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Таисукэ",
+        "start": 0,
+        "text": "Ну, скажем, я её силой заполучил...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice04/04-SB/04-SB-B01/04-SB-B01-0030",
+        "layer": 1,
+        "persona": "tai",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event04/04-SB/04-SB-B01/04-SB-B01-002",
+        "start": 3333
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Котоноха",
+        "start": 4050,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice04/04-SB/04-SB-B01/04-SB-B01-0040",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 4050
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event04/04-SB/04-SB-B01/04-SB-B01-003",
+        "start": 5183
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Таисукэ",
+        "start": 5233,
+        "text": "Остальное... Наша с ней тайна.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice04/04-SB/04-SB-B01/04-SB-B01-0060",
+        "layer": 1,
+        "persona": "tai",
+        "start": 5233
+    },
+    {
+        "action": "CreateBG",
+        "end": 12000,
+        "file": "Event04/04-SB/04-SB-B01/04-SB-B01-004",
+        "start": 10183
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Сэкаи",
+        "start": 10366,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice04/04-SB/04-SB-B01/04-SB-B01-0070",
+        "layer": 0,
+        "persona": "sek",
+        "start": 10366
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "OUT",
+        "end": 12000,
+        "start": 12133
+    },
+    {
+        "action": "PlayBgm",
+        "end": 49000,
+        "file": "BGM/SD_BGM/sdbgm20",
+        "start": 12333
+    },
+    {
+        "action": "CreateBG",
+        "end": 26000,
+        "file": "Event04/04-SB/04-SB-B01/04-SB-B01-005",
+        "start": 12333
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "IN",
+        "end": 13000,
+        "start": 12333
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Макото",
+        "start": 13133,
+        "text": "Она словно убитая была...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice04/04-SB/04-SB-B01/04-SB-B01-0090",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 13133
+    },
+    {
+        "action": "PrintText",
+        "end": 19000,
+        "persona": "Макото",
+        "start": 17383,
+        "text": "И всё из-за меня?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 19000,
+        "file": "Voice04/04-SB/04-SB-B01/04-SB-B01-0100",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 17383
+    },
+    {
+        "action": "PrintText",
+        "end": 25000,
+        "persona": "Макото",
+        "start": 20050,
+        "text": "Или же это Таисукэ... Что-нибудь с ней сделал...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 25000,
+        "file": "Voice04/04-SB/04-SB-B01/04-SB-B01-0110",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 20050
+    },
+    {
+        "action": "CreateBG",
+        "end": 41000,
+        "file": "Event04/04-SB/04-SB-B01/04-SB-B01-006",
+        "start": 26000
+    },
+    {
+        "action": "PrintText",
+        "end": 31000,
+        "persona": "Макото",
+        "start": 26116,
+        "text": "Вряд ли... Если кто ей что и сделал, так это я...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 31000,
+        "file": "Voice04/04-SB/04-SB-B01/04-SB-B01-0120",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 26116
+    },
+    {
+        "action": "PrintText",
+        "end": 40000,
+        "persona": "Макото",
+        "start": 32100,
+        "text": "Пойди я на попятную с ней на фестивале... Она бы Таисукэ... Ни за что...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 40000,
+        "file": "Voice04/04-SB/04-SB-B01/04-SB-B01-0130",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 32100
+    },
+    {
+        "action": "CreateBG",
+        "end": 45000,
+        "file": "Event04/04-SB/04-SB-B01/04-SB-B01-007",
+        "start": 41000
+    },
+    {
+        "action": "PrintText",
+        "end": 45000,
+        "persona": "Макото",
+        "start": 41216,
+        "text": "Но почему его?.. Почему?!..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 45000,
+        "file": "Voice04/04-SB/04-SB-B01/04-SB-B01-0140",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 41216
+    },
+    {
+        "action": "CreateBG",
+        "end": 49000,
+        "file": "Event04/04-SB/04-SB-B01/04-SB-B01-008",
+        "start": 45266
+    },
+    {
+        "action": "PrintText",
+        "end": 48000,
+        "persona": "Макото",
+        "start": 46383,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 48000,
+        "file": "Voice04/04-SB/04-SB-B01/04-SB-B01-0150",
+        "layer": 1,
+        "persona": "mak",
+        "start": 46383
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 49000,
+        "start": 48316
+    }
+]

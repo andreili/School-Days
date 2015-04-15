@@ -1,0 +1,100 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 15000,
+        "file": "Se03/03-SB/03-SB-H09/SE03-SB-H09-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event03/03-SB/03-SB-H09/03-SB-H09-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Фух...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-SB/03-SB-H09/03-SB-H09-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event03/03-SB/03-SB-H09/03-SB-H09-002",
+        "start": 1033
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Макото",
+        "start": 1033,
+        "text": "Таисукэ мне говорил «Помирись с Сэкаи», а толку-то...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice03/03-SB/03-SB-H09/03-SB-H09-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 1033
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event03/03-SB/03-SB-H09/03-SB-H09-003",
+        "start": 5016
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 5016,
+        "text": "Я её даже найти не могу.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice03/03-SB/03-SB-H09/03-SB-H09-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 5016
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Макото",
+        "start": 7150,
+        "text": "Что же мне делать?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice03/03-SB/03-SB-H09/03-SB-H09-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 7150
+    },
+    {
+        "action": "CreateBG",
+        "end": 15000,
+        "file": "Event03/03-SB/03-SB-H09/03-SB-H09-004",
+        "start": 7166
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Продолжить поиски.^",
+        "answer2": "NULL",
+        "end": 9000,
+        "start": 9016
+    }
+]

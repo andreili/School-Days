@@ -1,0 +1,108 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 11000,
+        "file": "BGM/SD_BGM/sdbgm20",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 11000,
+        "file": "Se03/03-BK/03-BK-D02/SE03-BK-D02-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event03/03-BK/03-BK-D02/03-BK-D02-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Вы вместе не смотритесь!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-BK/03-BK-D02/03-BK-D02-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Таисукэ",
+        "start": 1016,
+        "text": "Ой, да перестань! Блин, мог бы и порадоваться за друга.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice03/03-BK/03-BK-D02/03-BK-D02-0040",
+        "layer": 1,
+        "persona": "tai",
+        "start": 1016
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Макото",
+        "start": 4133,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice03/03-BK/03-BK-D02/03-BK-D02-0050",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 4133
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event03/03-BK/03-BK-D02/03-BK-D02-002",
+        "start": 5233
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Таисукэ",
+        "start": 6066,
+        "text": "Только не говори мне, что ты ревнуешь?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice03/03-BK/03-BK-D02/03-BK-D02-0070",
+        "layer": 1,
+        "persona": "tai",
+        "start": 6066
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Сэкаи",
+        "start": 9100,
+        "text": "...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice03/03-BK/03-BK-D02/03-BK-D02-0080",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 9100
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 11000,
+        "start": 10366
+    }
+]

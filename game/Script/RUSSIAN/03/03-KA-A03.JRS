@@ -1,0 +1,131 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 18000,
+        "file": "BGM/SD_BGM/sdbgm16",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event03/03-KA/03-KA-A03/03-KA-A03-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Тебе не бывает одиноко?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-KA/03-KA-A03/03-KA-A03-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Котоноха",
+        "start": 1250,
+        "text": "Да, иногда...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice03/03-KA/03-KA-A03/03-KA-A03-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 1250
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Макото",
+        "start": 3133,
+        "text": "Тебе нужно больше с ребятами в школе общаться.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice03/03-KA/03-KA-A03/03-KA-A03-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 3133
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Котоноха",
+        "start": 5200,
+        "text": "Нет, не думаю.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice03/03-KA/03-KA-A03/03-KA-A03-0060",
+        "layer": 0,
+        "persona": "kot",
+        "start": 5200
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 6350,
+        "text": "Почему?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice03/03-KA/03-KA-A03/03-KA-A03-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 6350
+    },
+    {
+        "action": "CreateBG",
+        "end": 16000,
+        "file": "Event03/03-KA/03-KA-A03/03-KA-A03-002",
+        "start": 7333
+    },
+    {
+        "action": "PrintText",
+        "end": 15000,
+        "persona": "Котоноха",
+        "start": 7333,
+        "text": "Потому, что у меня есть ты, и мне этого достаточно, чтобы быть очень счастливой.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 15000,
+        "file": "Voice03/03-KA/03-KA-A03/03-KA-A03-0080",
+        "layer": 0,
+        "persona": "kot",
+        "start": 7333
+    },
+    {
+        "action": "CreateBG",
+        "end": 18000,
+        "file": "Event03/03-KA/03-KA-A03/03-KA-A03-003",
+        "start": 16050
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Макото",
+        "start": 16200,
+        "text": "Котоноха...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice03/03-KA/03-KA-A03/03-KA-A03-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 16200
+    }
+]

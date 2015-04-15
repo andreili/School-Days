@@ -1,0 +1,281 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 13000,
+        "file": "SysSe/SE_all/station_train/train_in",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 3000,
+        "file": "Movie04/04-SA/04-SA-R00/04-SA-R00-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Котоноха",
+        "start": 1200,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice04/04-SA/04-SA-R00/04-SA-R00-0050",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 1200
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event04/04-SA/04-SA-R00/04-SA-R00-002",
+        "start": 3000
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 3016,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice04/04-SA/04-SA-R00/04-SA-R00-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 3016
+    },
+    {
+        "action": "PlayMovie",
+        "end": 10000,
+        "file": "Movie04/04-SA/04-SA-R00/04-SA-R00-003",
+        "start": 7333
+    },
+    {
+        "action": "CreateBG",
+        "end": 12000,
+        "file": "Event04/04-SA/04-SA-R00/04-SA-R00-004",
+        "start": 10316
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Котоноха",
+        "start": 11033,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice04/04-SA/04-SA-R00/04-SA-R00-0080",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 11033
+    },
+    {
+        "action": "PlayMovie",
+        "end": 13000,
+        "file": "Movie04/04-SA/04-SA-R00/04-SA-R00-005",
+        "start": 12100
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Объявление",
+        "start": 12250,
+        "text": "Следующая остановка...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice04/04-SA/04-SA-R00/04-SA-R00-0120",
+        "layer": 1,
+        "persona": "ana",
+        "start": 12250
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 13000,
+        "start": 13183
+    },
+    {
+        "action": "CreateBG",
+        "end": 17000,
+        "file": "System/Screen/Black",
+        "start": 13383
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Котоноха",
+        "start": 14216,
+        "text": "Макото...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice04/04-SA/04-SA-R00/04-SA-R00-0130",
+        "layer": 0,
+        "persona": "kot",
+        "start": 14216
+    },
+    {
+        "action": "PlaySe",
+        "end": 31000,
+        "file": "SysSe/SE_all/station_train/TRAIN_STOPPING",
+        "layer": 1,
+        "start": 15200
+    },
+    {
+        "action": "CreateBG",
+        "end": 20000,
+        "file": "Event04/04-SA/04-SA-R00/04-SA-R00-007",
+        "start": 17200
+    },
+    {
+        "action": "BlackFade",
+        "dir": "IN",
+        "end": 18000,
+        "start": 17200
+    },
+    {
+        "action": "PrintText",
+        "end": 19000,
+        "persona": "Макото",
+        "start": 18000,
+        "text": "А?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 19000,
+        "file": "Voice04/04-SA/04-SA-R00/04-SA-R00-0140",
+        "layer": 1,
+        "persona": "mak",
+        "start": 18000
+    },
+    {
+        "action": "CreateBG",
+        "end": 27000,
+        "file": "Event04/04-SA/04-SA-R00/04-SA-R00-008",
+        "start": 20083
+    },
+    {
+        "action": "PrintText",
+        "end": 24000,
+        "persona": "Котоноха",
+        "start": 20200,
+        "text": "Мы приехали. Твоя остановка.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 24000,
+        "file": "Voice04/04-SA/04-SA-R00/04-SA-R00-0150",
+        "layer": 0,
+        "persona": "kot",
+        "start": 20200
+    },
+    {
+        "action": "PrintText",
+        "end": 27000,
+        "persona": "Макото",
+        "start": 24216,
+        "text": "А... Ага...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 27000,
+        "file": "Voice04/04-SA/04-SA-R00/04-SA-R00-0160",
+        "layer": 1,
+        "persona": "mak",
+        "start": 24216
+    },
+    {
+        "action": "CreateBG",
+        "end": 29000,
+        "file": "Event04/04-SA/04-SA-R00/04-SA-R00-010",
+        "start": 27100
+    },
+    {
+        "action": "PrintText",
+        "end": 29000,
+        "persona": "Котоноха",
+        "start": 28100,
+        "text": "Макото.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 29000,
+        "file": "Voice04/04-SA/04-SA-R00/04-SA-R00-0180",
+        "layer": 0,
+        "persona": "kot",
+        "start": 28100
+    },
+    {
+        "action": "CreateBG",
+        "end": 33000,
+        "file": "Event04/04-SA/04-SA-R00/04-SA-R00-011",
+        "start": 29166
+    },
+    {
+        "action": "PrintText",
+        "end": 30000,
+        "persona": "Макото",
+        "start": 29250,
+        "text": "А?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 30000,
+        "file": "Voice04/04-SA/04-SA-R00/04-SA-R00-0190",
+        "layer": 1,
+        "persona": "mak",
+        "start": 29250
+    },
+    {
+        "action": "PrintText",
+        "end": 31000,
+        "persona": "Котоноха",
+        "start": 30216,
+        "text": "Увидимся завтра.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 31000,
+        "file": "Voice04/04-SA/04-SA-R00/04-SA-R00-0200",
+        "layer": 0,
+        "persona": "kot",
+        "start": 30216
+    },
+    {
+        "action": "PlaySe",
+        "end": 33000,
+        "file": "SysSe/SE_all/station_train/TRAIN_DOOR_OPEN",
+        "layer": 1,
+        "start": 31200
+    },
+    {
+        "action": "PrintText",
+        "end": 32000,
+        "persona": "Макото",
+        "start": 31333,
+        "text": "Ага...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 32000,
+        "file": "Voice04/04-SA/04-SA-R00/04-SA-R00-0210",
+        "layer": 1,
+        "persona": "mak",
+        "start": 31333
+    },
+    {
+        "action": "CreateBG",
+        "end": 34000,
+        "file": "Event04/04-SA/04-SA-R00/04-SA-R00-010",
+        "start": 33000
+    }
+]

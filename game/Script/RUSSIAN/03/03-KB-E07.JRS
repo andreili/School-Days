@@ -1,0 +1,102 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 11000,
+        "file": "BGM/SD_BGM/sdbgm12",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event03/03-KB/03-KB-E07/03-KB-E07-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Пойдёт со мной!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-KB/03-KB-E07/03-KB-E07-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Таисукэ",
+        "start": 1200,
+        "text": "Что?! Что ты сказал?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice03/03-KB/03-KB-E07/03-KB-E07-0040",
+        "layer": 1,
+        "persona": "tai",
+        "start": 1200
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 4300,
+        "text": "Сэкаи завтра будет со мной!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice03/03-KB/03-KB-E07/03-KB-E07-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 4300
+    },
+    {
+        "action": "PlaySe",
+        "end": 7000,
+        "file": "SysSe/SE_all/keitai/keitai_sousa",
+        "layer": 1,
+        "start": 7350
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event03/03-KB/03-KB-E07/03-KB-E07-002",
+        "start": 7383
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Макото",
+        "start": 7383,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice03/03-KB/03-KB-E07/03-KB-E07-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 7383
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Макото",
+        "start": 10116,
+        "text": "Сэкаи...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice03/03-KB/03-KB-E07/03-KB-E07-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 10116
+    }
+]

@@ -1,0 +1,154 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 23000,
+        "file": "BGM/SD_BGM/sdbgm06",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 23000,
+        "file": "Se01/01-00/01-00-B00/SE01-00-B00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 18000,
+        "file": "SysSe/SE_all/school/chime",
+        "layer": 2,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event02/02-2K/02-2K-E06/02-2K-E06-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event01/01-00/01-00-D00/01-00-D00-008",
+        "start": 10000
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Макото",
+        "start": 10100,
+        "text": "Сэкаи?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice02/02-2K/02-2K-E06/02-2K-E06-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 10100
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Сэкаи",
+        "start": 11033,
+        "text": "Да?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice02/02-2K/02-2K-E06/02-2K-E06-0070",
+        "layer": 0,
+        "persona": "sek",
+        "start": 11033
+    },
+    {
+        "action": "CreateBG",
+        "end": 15000,
+        "file": "Event02/02-2K/02-2K-E06/02-2K-E06-003",
+        "start": 11316
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Макото",
+        "start": 11316,
+        "text": "Спасибо тебе...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice02/02-2K/02-2K-E06/02-2K-E06-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 11316
+    },
+    {
+        "action": "PrintText",
+        "end": 15000,
+        "persona": "Сэкаи",
+        "start": 14250,
+        "text": "Угу...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 15000,
+        "file": "Voice02/02-2K/02-2K-E06/02-2K-E06-0090",
+        "layer": 0,
+        "persona": "sek",
+        "start": 14250
+    },
+    {
+        "action": "CreateBG",
+        "end": 17000,
+        "file": "Event02/02-2K/02-2K-E06/02-2K-E06-004",
+        "start": 15100
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Макото",
+        "start": 15100,
+        "text": "Я постараюсь.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice02/02-2K/02-2K-E06/02-2K-E06-0100",
+        "layer": 1,
+        "persona": "mak",
+        "start": 15100
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Сэкаи",
+        "start": 16200,
+        "text": "Угу.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice02/02-2K/02-2K-E06/02-2K-E06-0110",
+        "layer": 0,
+        "persona": "sek",
+        "start": 16200
+    },
+    {
+        "action": "CreateBG",
+        "end": 20000,
+        "file": "Event02/02-2K/02-2K-E02/02-2K-E02-006",
+        "start": 17183
+    },
+    {
+        "action": "CreateBG",
+        "end": 23000,
+        "file": "Event02/02-2K/02-2K-E06/02-2K-E06-006",
+        "start": 20183
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 23000,
+        "start": 22250
+    }
+]

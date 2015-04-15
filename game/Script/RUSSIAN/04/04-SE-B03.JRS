@@ -1,0 +1,112 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 23000,
+        "file": "BGM/SD_BGM/sdbgm07",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "System/Screen/Black",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 14000,
+        "file": "Event04/04-SE/04-SE-B03/04-SE-B03-001",
+        "start": 2000
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Макото",
+        "start": 2000,
+        "text": "Позвоню-ка я ей сам.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice04/04-SE/04-SE-B03/04-SE-B03-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2000
+    },
+    {
+        "action": "PlaySe",
+        "end": 13000,
+        "file": "SysSe/SE_all/keitai/yobidasi",
+        "layer": 1,
+        "start": 4383
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Макото",
+        "start": 9033,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice04/04-SE/04-SE-B03/04-SE-B03-0060",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 9033
+    },
+    {
+        "action": "CreateBG",
+        "end": 18000,
+        "file": "Event04/04-SE/04-SE-B03/04-SE-B03-004",
+        "start": 14000
+    },
+    {
+        "action": "PrintText",
+        "end": 18000,
+        "persona": "Автоответчик",
+        "start": 14116,
+        "text": "Перехожу в режим голосовой почты...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 18000,
+        "file": "Voice04/04-SE/04-SE-B03/04-SE-B03-0070",
+        "layer": 1,
+        "persona": "rus",
+        "start": 14116
+    },
+    {
+        "action": "PlaySe",
+        "end": 18000,
+        "file": "SysSe/SE_all/keitai/keitai_sousa",
+        "layer": 1,
+        "start": 18033
+    },
+    {
+        "action": "CreateBG",
+        "end": 23000,
+        "file": "Event04/04-SE/04-SE-B03/04-SE-B03-003",
+        "start": 18266
+    },
+    {
+        "action": "PrintText",
+        "end": 22000,
+        "persona": "Макото",
+        "start": 19000,
+        "text": "Уснула, что ли?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 22000,
+        "file": "Voice04/04-SE/04-SE-B03/04-SE-B03-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 19000
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 23000,
+        "start": 22200
+    }
+]

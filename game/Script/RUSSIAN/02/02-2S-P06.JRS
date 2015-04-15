@@ -1,0 +1,108 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 15000,
+        "file": "BGM/SD_BGM/sdbgm19",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 15000,
+        "file": "Se02/02-2K/02-2K-R00/SE02-2K-R00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event02/02-2S/02-2S-P06/02-2S-P06-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Я совсем запутался в своих чувствах...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice02/02-2S/02-2S-P06/02-2S-P06-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 13000,
+        "file": "Event02/02-2S/02-2S-P06/02-2S-P06-002",
+        "start": 1016
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Сэкаи",
+        "start": 1016,
+        "text": "Врёшь!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice02/02-2S/02-2S-P06/02-2S-P06-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 1016
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Макото",
+        "start": 2016,
+        "text": "Правда!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice02/02-2S/02-2S-P06/02-2S-P06-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2016
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Сэкаи",
+        "start": 3133,
+        "text": "Всё ты врёшь, Макото! Тебе со мной хорошо, но и о Кацуре ты думать не перестал!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice02/02-2S/02-2S-P06/02-2S-P06-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 3133
+    },
+    {
+        "action": "CreateBG",
+        "end": 15000,
+        "file": "Event02/02-2S/02-2S-P00/02-2S-P00-001",
+        "start": 13383
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Макото",
+        "start": 14000,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice02/02-2S/02-2S-P06/02-2S-P06-0070",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 14000
+    }
+]

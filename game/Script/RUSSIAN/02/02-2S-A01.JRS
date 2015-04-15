@@ -1,0 +1,519 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 90000,
+        "file": "BGM/SD_BGM/sdbgm13",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 9000,
+        "file": "Voice02/02-2S/02-2S-A01/02-2S-A01-0050",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Телеведущий",
+        "start": 0,
+        "text": "Итак, следующий вопрос...^"
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Телеведущий",
+        "start": 3000,
+        "text": "Напоминаю, что уже идёт второй этап и осталось совсем недолго до финала.^"
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Телеведущий",
+        "start": 7000,
+        "text": "Участники, давайте сосредоточьтесь!^"
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event02/02-2S/02-2S-A01/02-2S-A01-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event02/02-2S/02-2S-A01/02-2S-A01-002",
+        "start": 9033
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Манами",
+        "start": 9033,
+        "text": "О! Котоноха.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice02/02-2S/02-2S-A01/02-2S-A01-0070",
+        "layer": 0,
+        "persona": "man",
+        "start": 9033
+    },
+    {
+        "action": "CreateBG",
+        "end": 16000,
+        "file": "Event02/02-2S/02-2S-A01/02-2S-A01-003",
+        "start": 11000
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Котоноха",
+        "start": 11000,
+        "text": "Привет, мама!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice02/02-2S/02-2S-A01/02-2S-A01-0080",
+        "layer": 0,
+        "persona": "kot",
+        "start": 11000
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Манами",
+        "start": 14050,
+        "text": "Да, я сегодня решила пораньше прийти. А что ты делаешь?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice02/02-2S/02-2S-A01/02-2S-A01-0090",
+        "layer": 0,
+        "persona": "man",
+        "start": 14050
+    },
+    {
+        "action": "CreateBG",
+        "end": 20000,
+        "file": "Event02/02-2S/02-2S-A01/02-2S-A01-004",
+        "start": 16016
+    },
+    {
+        "action": "PrintText",
+        "end": 24000,
+        "persona": "Котоноха",
+        "start": 17366,
+        "text": "Так, ничего... Я сейчас переоденусь. Ты сегодня так рано.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 24000,
+        "file": "Voice02/02-2S/02-2S-A01/02-2S-A01-0100",
+        "layer": 0,
+        "persona": "kot",
+        "start": 17366
+    },
+    {
+        "action": "CreateBG",
+        "end": 30000,
+        "file": "Event02/02-2S/02-2S-A01/02-2S-A01-005",
+        "start": 20250
+    },
+    {
+        "action": "PrintText",
+        "end": 30000,
+        "persona": "Манами",
+        "start": 24133,
+        "text": "Ну да, а то обычно меня допоздна дома нет. К тому же скоро снова придётся задерживаться.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 30000,
+        "file": "Voice02/02-2S/02-2S-A01/02-2S-A01-0110",
+        "layer": 0,
+        "persona": "man",
+        "start": 24133
+    },
+    {
+        "action": "CreateBG",
+        "end": 45000,
+        "file": "Event02/02-2S/02-2S-A01/02-2S-A01-006",
+        "start": 30150
+    },
+    {
+        "action": "PrintText",
+        "end": 31000,
+        "persona": "Кокоро",
+        "start": 30150,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 31000,
+        "file": "Voice02/02-2S/02-2S-A01/02-2S-A01-0120",
+        "layer": 0,
+        "persona": "kok",
+        "start": 30150
+    },
+    {
+        "action": "PrintText",
+        "end": 35000,
+        "persona": "Манами",
+        "start": 31366,
+        "text": "Кстати, как сегодня всё прошло?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 35000,
+        "file": "Voice02/02-2S/02-2S-A01/02-2S-A01-0130",
+        "layer": 0,
+        "persona": "man",
+        "start": 31366
+    },
+    {
+        "action": "PrintText",
+        "end": 37000,
+        "persona": "Котоноха",
+        "start": 35283,
+        "text": "Ты о чём?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 37000,
+        "file": "Voice02/02-2S/02-2S-A01/02-2S-A01-0140",
+        "layer": 0,
+        "persona": "kot",
+        "start": 35283
+    },
+    {
+        "action": "PrintText",
+        "end": 40000,
+        "persona": "Манами",
+        "start": 37166,
+        "text": "Ну, лимонад ему понравился?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 40000,
+        "file": "Voice02/02-2S/02-2S-A01/02-2S-A01-0150",
+        "layer": 0,
+        "persona": "man",
+        "start": 37166
+    },
+    {
+        "action": "PrintText",
+        "end": 41000,
+        "persona": "Котоноха",
+        "start": 40083,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 41000,
+        "file": "Voice02/02-2S/02-2S-A01/02-2S-A01-0160",
+        "layer": 0,
+        "persona": "kot",
+        "start": 40083
+    },
+    {
+        "action": "PrintText",
+        "end": 45000,
+        "persona": "Манами",
+        "start": 41133,
+        "text": "Да ладно тебе, расскажи!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 45000,
+        "file": "Voice02/02-2S/02-2S-A01/02-2S-A01-0180",
+        "layer": 0,
+        "persona": "man",
+        "start": 41133
+    },
+    {
+        "action": "CreateBG",
+        "end": 55000,
+        "file": "Event02/02-2S/02-2S-A01/02-2S-A01-007",
+        "start": 45266
+    },
+    {
+        "action": "PrintText",
+        "end": 49000,
+        "persona": "Котоноха",
+        "start": 45383,
+        "text": "Ну, в общем... Да...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 49000,
+        "file": "Voice02/02-2S/02-2S-A01/02-2S-A01-0190",
+        "layer": 0,
+        "persona": "kot",
+        "start": 45383
+    },
+    {
+        "action": "PrintText",
+        "end": 52000,
+        "persona": "Манами",
+        "start": 49350,
+        "text": "О! Так это же здорово!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 52000,
+        "file": "Voice02/02-2S/02-2S-A01/02-2S-A01-0200",
+        "layer": 0,
+        "persona": "man",
+        "start": 49350
+    },
+    {
+        "action": "PrintText",
+        "end": 54000,
+        "persona": "Котоноха",
+        "start": 52033,
+        "text": "Угу... Спасибо, мама...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 54000,
+        "file": "Voice02/02-2S/02-2S-A01/02-2S-A01-0210",
+        "layer": 0,
+        "persona": "kot",
+        "start": 52033
+    },
+    {
+        "action": "CreateBG",
+        "end": 57000,
+        "file": "Event02/02-2S/02-2S-A01/02-2S-A01-008",
+        "start": 55016
+    },
+    {
+        "action": "PrintText",
+        "end": 59000,
+        "persona": "Манами",
+        "start": 55016,
+        "text": "Ну что ты... Кстати, у меня для тебя подарок.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 59000,
+        "file": "Voice02/02-2S/02-2S-A01/02-2S-A01-0220",
+        "layer": 0,
+        "persona": "man",
+        "start": 55016
+    },
+    {
+        "action": "CreateBG",
+        "end": 70000,
+        "file": "Event02/02-2S/02-2S-A01/02-2S-A01-009",
+        "start": 57350
+    },
+    {
+        "action": "PrintText",
+        "end": 61000,
+        "persona": "Котоноха",
+        "start": 59083,
+        "text": "Подарок?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 61000,
+        "file": "Voice02/02-2S/02-2S-A01/02-2S-A01-0230",
+        "layer": 0,
+        "persona": "kot",
+        "start": 59083
+    },
+    {
+        "action": "PrintText",
+        "end": 65000,
+        "persona": "Манами",
+        "start": 61133,
+        "text": "Да, два билета в кино. Мне клиент подарил.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 65000,
+        "file": "Voice02/02-2S/02-2S-A01/02-2S-A01-0250",
+        "layer": 0,
+        "persona": "man",
+        "start": 61133
+    },
+    {
+        "action": "PrintText",
+        "end": 66000,
+        "persona": "Котоноха",
+        "start": 65066,
+        "text": "В кино...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 66000,
+        "file": "Voice02/02-2S/02-2S-A01/02-2S-A01-0260",
+        "layer": 0,
+        "persona": "kot",
+        "start": 65066
+    },
+    {
+        "action": "PrintText",
+        "end": 70000,
+        "persona": "Манами",
+        "start": 66300,
+        "text": "Что-то не слышу в голосе восторга! Тебе они не нужны?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 70000,
+        "file": "Voice02/02-2S/02-2S-A01/02-2S-A01-0270",
+        "layer": 0,
+        "persona": "man",
+        "start": 66300
+    },
+    {
+        "action": "CreateBG",
+        "end": 75000,
+        "file": "Event02/02-2S/02-2S-A01/02-2S-A01-010",
+        "start": 70150
+    },
+    {
+        "action": "PrintText",
+        "end": 73000,
+        "persona": "Котоноха",
+        "start": 70183,
+        "text": "Ну, просто мы недавно уже в кино ходили...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 73000,
+        "file": "Voice02/02-2S/02-2S-A01/02-2S-A01-0280",
+        "layer": 0,
+        "persona": "kot",
+        "start": 70183
+    },
+    {
+        "action": "PrintText",
+        "end": 74000,
+        "persona": "Манами",
+        "start": 73200,
+        "text": "Вдвоём?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 74000,
+        "file": "Voice02/02-2S/02-2S-A01/02-2S-A01-0290",
+        "layer": 0,
+        "persona": "man",
+        "start": 73200
+    },
+    {
+        "action": "PrintText",
+        "end": 75000,
+        "persona": "Котоноха",
+        "start": 74283,
+        "text": "Угу...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 75000,
+        "file": "Voice02/02-2S/02-2S-A01/02-2S-A01-0300",
+        "layer": 0,
+        "persona": "kot",
+        "start": 74283
+    },
+    {
+        "action": "CreateBG",
+        "end": 79000,
+        "file": "Event02/02-2S/02-2S-A01/02-2S-A01-004",
+        "start": 75200
+    },
+    {
+        "action": "PrintText",
+        "end": 77000,
+        "persona": "Манами",
+        "start": 75200,
+        "text": "Вот оно как.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 77000,
+        "file": "Voice02/02-2S/02-2S-A01/02-2S-A01-0310",
+        "layer": 0,
+        "persona": "man",
+        "start": 75200
+    },
+    {
+        "action": "PrintText",
+        "end": 82000,
+        "persona": "Котоноха",
+        "start": 77116,
+        "text": "Но билеты я возьму. Сходим на другой фильм.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 82000,
+        "file": "Voice02/02-2S/02-2S-A01/02-2S-A01-0320",
+        "layer": 0,
+        "persona": "kot",
+        "start": 77116
+    },
+    {
+        "action": "CreateBG",
+        "end": 90000,
+        "file": "Event02/02-2S/02-2S-A01/02-2S-A01-012",
+        "start": 79083
+    },
+    {
+        "action": "PrintText",
+        "end": 84000,
+        "persona": "Манами",
+        "start": 82033,
+        "text": "Да, там сейчас идёт ремейк старой мелодрамы.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 84000,
+        "file": "Voice02/02-2S/02-2S-A01/02-2S-A01-0330",
+        "layer": 0,
+        "persona": "man",
+        "start": 82033
+    },
+    {
+        "action": "PrintText",
+        "end": 87000,
+        "persona": "Котоноха",
+        "start": 84283,
+        "text": "Значит, всё нормально. Так можно билеты взять?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 87000,
+        "file": "Voice02/02-2S/02-2S-A01/02-2S-A01-0340",
+        "layer": 0,
+        "persona": "kot",
+        "start": 84283
+    },
+    {
+        "action": "PrintText",
+        "end": 89000,
+        "persona": "Манами",
+        "start": 87316,
+        "text": "Ну конечно!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 89000,
+        "file": "Voice02/02-2S/02-2S-A01/02-2S-A01-0350",
+        "layer": 0,
+        "persona": "man",
+        "start": 87316
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 90000,
+        "start": 89066
+    }
+]

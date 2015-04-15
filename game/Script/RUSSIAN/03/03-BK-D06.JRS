@@ -1,0 +1,220 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 17000,
+        "file": "BGM/SD_BGM/sdbgm14",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 20000,
+        "file": "Se03/03-BK/03-BK-D06/SE03-BK-D06-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 1000,
+        "file": "Se03/03-BK/03-BK-D06/SE03-BK-D06-002",
+        "layer": 2,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event03/03-BK/03-BK-D06/03-BK-D06-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event03/03-BK/03-BK-D06/03-BK-D06-002",
+        "start": 1200
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 1283,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice03/03-BK/03-BK-D06/03-BK-D06-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 1283
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event03/03-BK/03-BK-D06/03-BK-D06-003",
+        "start": 2200
+    },
+    {
+        "action": "CreateBG",
+        "end": 4000,
+        "file": "Event03/03-BK/03-BK-D06/03-BK-D06-004",
+        "start": 3083
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Таисукэ",
+        "start": 3100,
+        "text": "Макото?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice03/03-BK/03-BK-D06/03-BK-D06-0070",
+        "layer": 1,
+        "persona": "tai",
+        "start": 3100
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event03/03-BK/03-BK-D06/03-BK-D06-005",
+        "start": 4050
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Макото",
+        "start": 4050,
+        "text": "Сэкаи!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice03/03-BK/03-BK-D06/03-BK-D06-0100",
+        "layer": 1,
+        "persona": "mak",
+        "start": 4050
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event03/03-BK/03-BK-D06/03-BK-D06-006",
+        "start": 5033
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event03/03-BK/03-BK-D06/03-BK-D06-007",
+        "start": 5366
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Макото",
+        "start": 5383,
+        "text": "Я... люблю тебя!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice03/03-BK/03-BK-D06/03-BK-D06-0120",
+        "layer": 1,
+        "persona": "mak",
+        "start": 5383
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Сэкаи",
+        "start": 10233,
+        "text": "Э...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice03/03-BK/03-BK-D06/03-BK-D06-0130",
+        "layer": 0,
+        "persona": "sek",
+        "start": 10233
+    },
+    {
+        "action": "CreateBG",
+        "end": 13000,
+        "file": "Event03/03-BK/03-BK-D06/03-BK-D06-008",
+        "start": 10250
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Таисукэ",
+        "start": 11183,
+        "text": "Эй, ты что!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice03/03-BK/03-BK-D06/03-BK-D06-0140",
+        "layer": 1,
+        "persona": "tai",
+        "start": 11183
+    },
+    {
+        "action": "EndBGM",
+        "end": 172000,
+        "file": "BGM/Vocal/SDV15",
+        "start": 12300
+    },
+    {
+        "action": "CreateBG",
+        "end": 17000,
+        "file": "Event03/03-BK/03-BK-D06/03-BK-D06-010",
+        "start": 13300
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Макото",
+        "start": 13300,
+        "text": "Для меня нет никого дороже тебя!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice03/03-BK/03-BK-D06/03-BK-D06-0170",
+        "layer": 1,
+        "persona": "mak",
+        "start": 13300
+    },
+    {
+        "action": "CreateBG",
+        "end": 20000,
+        "file": "Event03/03-BK/03-BK-D06/03-BK-D06-011",
+        "start": 17183
+    },
+    {
+        "action": "PrintText",
+        "end": 19000,
+        "persona": "Сэкаи",
+        "start": 17200,
+        "text": "Да!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 19000,
+        "file": "Voice03/03-BK/03-BK-D06/03-BK-D06-0180",
+        "layer": 0,
+        "persona": "sek",
+        "start": 17200
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 20000,
+        "start": 19366
+    },
+    {
+        "action": "EndRoll",
+        "end": 172000,
+        "file": "Movie03/ENDROLL/04-6",
+        "start": 20366
+    }
+]

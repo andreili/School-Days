@@ -1,0 +1,42 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 4000,
+        "file": "BGM/SD_BGM/sdbgm01",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 4000,
+        "file": "Se01/01-1K/01-1K-H00/SE01-1K-H00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 4000,
+        "file": "Event02/02-2S/02-2S-Q02/02-2S-Q02-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 200,
+        "text": "Доброе...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice02/02-2S/02-2S-Q02/02-2S-Q02-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 200
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 4000,
+        "start": 3000
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 10000,
+        "file": "BGM/SD_BGM/sdbgm03",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event03/03-SB/03-SB-D01/03-SB-D01-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Мне Котоноха звонит.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-SB/03-SB-D01/03-SB-D01-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Сэкаи",
+        "start": 1133,
+        "text": "Э?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-SB/03-SB-D01/03-SB-D01-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 1133
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Макото",
+        "start": 1333,
+        "text": "Извини, я тебе перезвоню.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice03/03-SB/03-SB-D01/03-SB-D01-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 1333
+    },
+    {
+        "action": "CreateBG",
+        "end": 6000,
+        "file": "Event03/03-SB/03-SB-D01/03-SB-D01-001B",
+        "start": 3333
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Сэкаи",
+        "start": 3333,
+        "text": "Не нужно, я мыться пойду.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice03/03-SB/03-SB-D01/03-SB-D01-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 3333
+    },
+    {
+        "action": "CreateBG",
+        "end": 8000,
+        "file": "Event03/03-SB/03-SB-D01/03-SB-D01-001C",
+        "start": 6350
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Макото",
+        "start": 6350,
+        "text": "Подмыться тоже не забудь.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice03/03-SB/03-SB-D01/03-SB-D01-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 6350
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Сэкаи",
+        "start": 8300,
+        "text": "Вот ты озабоченный!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice03/03-SB/03-SB-D01/03-SB-D01-0080",
+        "layer": 0,
+        "persona": "sek",
+        "start": 8300
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event03/03-SB/03-SB-D01/03-SB-D01-001D",
+        "start": 8316
+    }
+]

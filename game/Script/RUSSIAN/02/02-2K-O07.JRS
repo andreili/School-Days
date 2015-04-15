@@ -1,0 +1,35 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 2000,
+        "file": "BGM/SD_BGM/sdbgm25",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event02/02-2K/02-2K-O07/02-2K-O07-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 100,
+        "text": "Понятно.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice02/02-2K/02-2K-O07/02-2K-O07-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 100
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 2000,
+        "start": 1366
+    }
+]

@@ -1,0 +1,127 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 14000,
+        "file": "Se03/03-SA/03-SA-J02/SE03-SA-J02-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 14000,
+        "file": "Movie03/03-SA/03-SA-J02/03-SA-J02-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Я пришёл поговорить с Котонохой.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-SA/03-SA-J02/03-SA-J02-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Минами",
+        "start": 1283,
+        "text": "Э?!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice03/03-SA/03-SA-J02/03-SA-J02-0040",
+        "layer": 0,
+        "persona": "min",
+        "start": 1283
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Макото",
+        "start": 2266,
+        "text": "Котоноха.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice03/03-SA/03-SA-J02/03-SA-J02-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2266
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Котоноха",
+        "start": 3266,
+        "text": "Да?!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice03/03-SA/03-SA-J02/03-SA-J02-0060",
+        "layer": 0,
+        "persona": "kot",
+        "start": 3266
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Макото",
+        "start": 5083,
+        "text": "Я...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice03/03-SA/03-SA-J02/03-SA-J02-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 5083
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Котоноха",
+        "start": 6066,
+        "text": "Да...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice03/03-SA/03-SA-J02/03-SA-J02-0080",
+        "layer": 0,
+        "persona": "kot",
+        "start": 6066
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 6383,
+        "text": "Я...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice03/03-SA/03-SA-J02/03-SA-J02-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 6383
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Я люблю Сэкаи!",
+        "answer2": "NULL",
+        "end": 13000,
+        "start": 8033
+    }
+]

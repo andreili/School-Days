@@ -1,0 +1,141 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 25000,
+        "file": "BGM/SD_BGM/sdbgm25",
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 25000,
+        "file": "Movie03/03-KB/03-KB-N02/03-KB-N02-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 0,
+        "persona": "Макото",
+        "start": 0,
+        "text": "У тебя это впервые?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 0,
+        "file": "Voice03/03-KB/03-KB-N02/03-KB-N02-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Котоноха",
+        "start": 333,
+        "text": "Да...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice03/03-KB/03-KB-N02/03-KB-N02-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 333
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 6150,
+        "text": "Я так и думал.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice03/03-KB/03-KB-N02/03-KB-N02-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 6150
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Котоноха",
+        "start": 7283,
+        "text": "Прости...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice03/03-KB/03-KB-N02/03-KB-N02-0060",
+        "layer": 0,
+        "persona": "kot",
+        "start": 7283
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Макото",
+        "start": 9383,
+        "text": "За что?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice03/03-KB/03-KB-N02/03-KB-N02-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 9383
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Котоноха",
+        "start": 12083,
+        "text": "Ну, я, наверное, ничего не умею... Вдруг тебе не понравится...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice03/03-KB/03-KB-N02/03-KB-N02-0080",
+        "layer": 0,
+        "persona": "kot",
+        "start": 12083
+    },
+    {
+        "action": "PrintText",
+        "end": 18000,
+        "persona": "Макото",
+        "start": 16383,
+        "text": "Всё будет хорошо.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 18000,
+        "file": "Voice03/03-KB/03-KB-N02/03-KB-N02-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 16383
+    },
+    {
+        "action": "PrintText",
+        "end": 19000,
+        "persona": "Котоноха",
+        "start": 18100,
+        "text": "Но...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 19000,
+        "file": "Voice03/03-KB/03-KB-N02/03-KB-N02-0100",
+        "layer": 0,
+        "persona": "kot",
+        "start": 18100
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "У меня тоже это будет в первый раз...^",
+        "answer2": "Я всему тебя научу.^",
+        "end": 24000,
+        "start": 19100
+    }
+]

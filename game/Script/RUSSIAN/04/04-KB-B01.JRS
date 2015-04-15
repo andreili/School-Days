@@ -1,0 +1,116 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 17000,
+        "file": "BGM/SD_BGM/sdbgm01",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event04/04-KB/04-KB-B01/04-KB-B01-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Но у тебя есть я.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice04/04-KB/04-KB-B01/04-KB-B01-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 10000,
+        "file": "Movie04/04-KB/04-KB-B01/04-KB-B01-002",
+        "start": 1133
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Сэкаи",
+        "start": 1133,
+        "text": "Э?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice04/04-KB/04-KB-B01/04-KB-B01-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 1133
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Макото",
+        "start": 1350,
+        "text": "Я с тобой. Я обещал Киоре, что поддержу тебя.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice04/04-KB/04-KB-B01/04-KB-B01-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 1350
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Сэкаи",
+        "start": 9216,
+        "text": "Сэцуне?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice04/04-KB/04-KB-B01/04-KB-B01-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 9216
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Макото",
+        "start": 10283,
+        "text": "Если ты будешь грустить, ей ведь тоже будет неспокойно.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice04/04-KB/04-KB-B01/04-KB-B01-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 10283
+    },
+    {
+        "action": "CreateBG",
+        "end": 17000,
+        "file": "Event04/04-KB/04-KB-B01/04-KB-B01-003",
+        "start": 10300
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Сэкаи",
+        "start": 14250,
+        "text": "Да... Ты прав!..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice04/04-KB/04-KB-B01/04-KB-B01-0080",
+        "layer": 0,
+        "persona": "sek",
+        "start": 14250
+    }
+]

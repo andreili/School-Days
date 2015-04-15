@@ -1,0 +1,83 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 3000,
+        "file": "SysSe/SE_all/gaya/okujou_yuugata",
+        "layer": 2,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event05/05-KF/05-KF-B06/05-KF-B06-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 4000,
+        "file": "Event05/05-KF/05-KF-B06/05-KF-B06-002",
+        "start": 3000
+    },
+    {
+        "action": "PlaySe",
+        "end": 4000,
+        "file": "SysSe/SE_all/keitai/keitai_sousa",
+        "layer": 1,
+        "start": 3383
+    },
+    {
+        "action": "CreateBG",
+        "end": 8000,
+        "file": "Event05/05-KF/05-KF-B06/05-KF-B06-004",
+        "start": 4333
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 5133,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice05/05-KF/05-KF-B06/05-KF-B06-0040",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 5133
+    },
+    {
+        "action": "CreateBG",
+        "end": 13000,
+        "file": "Event05/05-KF/05-KF-B06/05-KF-B06-005",
+        "start": 8000
+    },
+    {
+        "action": "PlaySe",
+        "end": 8000,
+        "file": "SysSe/SE_all/keitai/keitai_sousa",
+        "layer": 1,
+        "start": 8033
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Макото",
+        "start": 8366,
+        "text": "Ну, вперёд...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice05/05-KF/05-KF-B06/05-KF-B06-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 8366
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 13000,
+        "start": 12366
+    }
+]

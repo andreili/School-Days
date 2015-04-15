@@ -1,0 +1,153 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 25000,
+        "file": "SysSe/SE_all/gaya/kyousitu_rouka",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event05/05-SE/05-SE-G00/05-SE-G00-009",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Нет!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice05/05-KF/05-KF-G08/05-KF-G08-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Котоноха",
+        "start": 2016,
+        "text": "Но тогда... Почему?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice05/05-KF/05-KF-G08/05-KF-G08-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 2016
+    },
+    {
+        "action": "CreateBG",
+        "end": 19000,
+        "file": "Event05/05-SE/05-SE-G00/05-SE-G00-010",
+        "start": 2033
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Макото",
+        "start": 4100,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice05/05-KF/05-KF-G08/05-KF-G08-0050",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 4100
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Котоноха",
+        "start": 6200,
+        "text": "Макото, расскажи... Почему расстаться?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice05/05-KF/05-KF-G08/05-KF-G08-0060",
+        "layer": 0,
+        "persona": "kot",
+        "start": 6200
+    },
+    {
+        "action": "PrintText",
+        "end": 18000,
+        "persona": "Макото",
+        "start": 11266,
+        "text": "Надо!.. Иначе...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 18000,
+        "file": "Voice05/05-KF/05-KF-G08/05-KF-G08-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 11266
+    },
+    {
+        "action": "PrintText",
+        "end": 19000,
+        "persona": "Котоноха",
+        "start": 18083,
+        "text": "Что?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 19000,
+        "file": "Voice05/05-KF/05-KF-G08/05-KF-G08-0080",
+        "layer": 0,
+        "persona": "kot",
+        "start": 18083
+    },
+    {
+        "action": "PrintText",
+        "end": 21000,
+        "persona": "Макото",
+        "start": 19200,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 21000,
+        "file": "Voice05/05-KF/05-KF-G08/05-KF-G08-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 19200
+    },
+    {
+        "action": "CreateBG",
+        "end": 25000,
+        "file": "Event05/05-KF/05-KF-G08/05-KF-G08-003",
+        "start": 19216
+    },
+    {
+        "action": "PrintText",
+        "end": 23000,
+        "persona": "Котоноха",
+        "start": 21300,
+        "text": "Макото!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 23000,
+        "file": "Voice05/05-KF/05-KF-G08/05-KF-G08-0110",
+        "layer": 0,
+        "persona": "kot",
+        "start": 21300
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 25000,
+        "start": 24100
+    }
+]

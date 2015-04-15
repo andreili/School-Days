@@ -1,0 +1,236 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 35000,
+        "file": "BGM/SD_BGM/sdbgm15",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event01/01-00/01-00-O05/01-00-O05-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Котоноха",
+        "start": 0,
+        "text": "Я слушаю.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice01/01-00/01-00-O05/01-00-O05-0030",
+        "layer": 0,
+        "persona": "kot",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Макото",
+        "start": 2100,
+        "text": "А... да...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice01/01-00/01-00-O05/01-00-O05-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2100
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Котоноха",
+        "start": 3366,
+        "text": "Ты что-то хотел сказать?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice01/01-00/01-00-O05/01-00-O05-0050",
+        "layer": 0,
+        "persona": "kot",
+        "start": 3366
+    },
+    {
+        "action": "CreateBG",
+        "end": 19000,
+        "file": "Event01/01-00/01-00-O05/01-00-O05-002",
+        "start": 5033
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Макото",
+        "start": 5033,
+        "text": "Ну... я просто...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice01/01-00/01-00-O05/01-00-O05-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 5033
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Котоноха",
+        "start": 10083,
+        "text": "Да?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice01/01-00/01-00-O05/01-00-O05-0070",
+        "layer": 0,
+        "persona": "kot",
+        "start": 10083
+    },
+    {
+        "action": "PrintText",
+        "end": 19000,
+        "persona": "Макото",
+        "start": 11100,
+        "text": "Я просто хотел услышать твой голос.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 19000,
+        "file": "Voice01/01-00/01-00-O05/01-00-O05-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 11100
+    },
+    {
+        "action": "CreateBG",
+        "end": 20000,
+        "file": "Event01/01-00/01-00-O05/01-00-O05-003",
+        "start": 19333
+    },
+    {
+        "action": "PrintText",
+        "end": 20000,
+        "persona": "Котоноха",
+        "start": 19333,
+        "text": "Э...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 20000,
+        "file": "Voice01/01-00/01-00-O05/01-00-O05-0090",
+        "layer": 0,
+        "persona": "kot",
+        "start": 19333
+    },
+    {
+        "action": "PrintText",
+        "end": 23000,
+        "persona": "Макото",
+        "start": 20300,
+        "text": "Извини, ты, наверное, уже спать легла.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 23000,
+        "file": "Voice01/01-00/01-00-O05/01-00-O05-0100",
+        "layer": 1,
+        "persona": "mak",
+        "start": 20300
+    },
+    {
+        "action": "CreateBG",
+        "end": 24000,
+        "file": "Event01/01-00/01-00-O05/01-00-O05-004",
+        "start": 20316
+    },
+    {
+        "action": "PrintText",
+        "end": 24000,
+        "persona": "Котоноха",
+        "start": 23066,
+        "text": "Ито...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 24000,
+        "file": "Voice01/01-00/01-00-O05/01-00-O05-0110",
+        "layer": 0,
+        "persona": "kot",
+        "start": 23066
+    },
+    {
+        "action": "CreateBG",
+        "end": 29000,
+        "file": "Event01/01-00/01-00-O05/01-00-O05-005",
+        "start": 24216
+    },
+    {
+        "action": "PrintText",
+        "end": 25000,
+        "persona": "Макото",
+        "start": 24216,
+        "text": "Да?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 25000,
+        "file": "Voice01/01-00/01-00-O05/01-00-O05-0120",
+        "layer": 1,
+        "persona": "mak",
+        "start": 24216
+    },
+    {
+        "action": "PrintText",
+        "end": 29000,
+        "persona": "Котоноха",
+        "start": 25316,
+        "text": "Спасибо, что позвонил. Спокойной ночи.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 29000,
+        "file": "Voice01/01-00/01-00-O05/01-00-O05-0130",
+        "layer": 0,
+        "persona": "kot",
+        "start": 25316
+    },
+    {
+        "action": "CreateBG",
+        "end": 32000,
+        "file": "Event01/01-00/01-00-O05/01-00-O05-006",
+        "start": 29216
+    },
+    {
+        "action": "PrintText",
+        "end": 33000,
+        "persona": "Макото",
+        "start": 29233,
+        "text": "Спокойной ночи.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 33000,
+        "file": "Voice01/01-00/01-00-O05/01-00-O05-0140",
+        "layer": 1,
+        "persona": "mak",
+        "start": 29233
+    },
+    {
+        "action": "CreateBG",
+        "end": 35000,
+        "file": "Event01/01-00/01-00-N05/01-00-N05-001",
+        "start": 32166
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 35000,
+        "start": 34100
+    }
+]

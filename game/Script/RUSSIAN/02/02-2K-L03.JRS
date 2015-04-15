@@ -1,0 +1,77 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 15000,
+        "file": "BGM/SD_BGM/sdbgm20",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event02/02-2K/02-2K-L00/02-2K-L00-002",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Котоноха",
+        "start": 66,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice02/02-2K/02-2K-L03/02-2K-L03-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 66
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event02/02-2K/02-2K-L03/02-2K-L03-002",
+        "start": 2000
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Котоноха",
+        "start": 2200,
+        "text": "Значит, Макото нравится меня трогать...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice02/02-2K/02-2K-L03/02-2K-L03-0050",
+        "layer": 0,
+        "persona": "kot",
+        "start": 2200
+    },
+    {
+        "action": "CreateBG",
+        "end": 15000,
+        "file": "Event02/02-2K/02-2K-L00/02-2K-L00-005",
+        "start": 11100
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Котоноха",
+        "start": 12033,
+        "text": "Нужно быть терпеливее...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice02/02-2K/02-2K-L03/02-2K-L03-0060",
+        "layer": 0,
+        "persona": "kot",
+        "start": 12033
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 15000,
+        "start": 14016
+    }
+]

@@ -1,0 +1,173 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 31000,
+        "file": "BGM/SD_BGM/sdbgm20",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event05/05-5O/05-5O-A00/05-5O-A00-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 13000,
+        "file": "Event05/05-5O/05-5O-A00/05-5O-A00-002",
+        "start": 3000
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Сэкаи",
+        "start": 3166,
+        "text": "Не знаю... Значит... Ненавижу?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice05/05-5O/05-5O-A00/05-5O-A00-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 3166
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Сэцуна",
+        "start": 8300,
+        "text": "Нет.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice05/05-5O/05-5O-A00/05-5O-A00-0050",
+        "layer": 0,
+        "persona": "set",
+        "start": 8300
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Сэкаи",
+        "start": 9366,
+        "text": "Но... Мне кажется, что именно так.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice05/05-5O/05-5O-A00/05-5O-A00-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 9366
+    },
+    {
+        "action": "CreateBG",
+        "end": 20000,
+        "file": "Event05/05-5O/05-5O-A00/05-5O-A00-003",
+        "start": 13150
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Сэцуна",
+        "start": 13250,
+        "text": "Вовсе нет!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice05/05-5O/05-5O-A00/05-5O-A00-0070",
+        "layer": 0,
+        "persona": "set",
+        "start": 13250
+    },
+    {
+        "action": "PrintText",
+        "end": 19000,
+        "persona": "Сэкаи",
+        "start": 15150,
+        "text": "А как тут не ненавидеть?.. Такую курицу-то...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 19000,
+        "file": "Voice05/05-5O/05-5O-A00/05-5O-A00-0080",
+        "layer": 0,
+        "persona": "sek",
+        "start": 15150
+    },
+    {
+        "action": "PrintText",
+        "end": 20000,
+        "persona": "Сэцуна",
+        "start": 19133,
+        "text": "Всё хорошо.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 20000,
+        "file": "Voice05/05-5O/05-5O-A00/05-5O-A00-0090",
+        "layer": 0,
+        "persona": "set",
+        "start": 19133
+    },
+    {
+        "action": "CreateBG",
+        "end": 31000,
+        "file": "Event05/05-5O/05-5O-A00/05-5O-A00-004",
+        "start": 20200
+    },
+    {
+        "action": "PrintText",
+        "end": 26000,
+        "persona": "Сэкаи",
+        "start": 20300,
+        "text": "Неа... Наверняка... Считает гадкой...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 26000,
+        "file": "Voice05/05-5O/05-5O-A00/05-5O-A00-0100",
+        "layer": 0,
+        "persona": "sek",
+        "start": 20300
+    },
+    {
+        "action": "PrintText",
+        "end": 29000,
+        "persona": "Сэцуна",
+        "start": 27000,
+        "text": "Сэкаи... Не преувеличивай.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 29000,
+        "file": "Voice05/05-5O/05-5O-A00/05-5O-A00-0110",
+        "layer": 0,
+        "persona": "set",
+        "start": 27000
+    },
+    {
+        "action": "PrintText",
+        "end": 30000,
+        "persona": "Сэкаи",
+        "start": 29366,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 30000,
+        "file": "Voice05/05-5O/05-5O-A00/05-5O-A00-0120",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 29366
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 31000,
+        "start": 30183
+    }
+]

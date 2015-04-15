@@ -1,0 +1,129 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 12000,
+        "file": "SysSe/SE_all/gaya/kyousitu_rouka",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event04/04-KA/04-KA-J00/04-KA-J00-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event04/04-KA/04-KA-J00/04-KA-J00-002",
+        "start": 1116
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 1233,
+        "text": "Слушай...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice04/04-KA/04-KA-J00/04-KA-J00-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 1233
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Сэкаи",
+        "start": 3033,
+        "text": "Чего?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice04/04-KA/04-KA-J00/04-KA-J00-0050",
+        "layer": 0,
+        "persona": "sek",
+        "start": 3033
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Макото",
+        "start": 4000,
+        "text": "Может, сегодня на крыше пообедаем?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice04/04-KA/04-KA-J00/04-KA-J00-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 4000
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event04/04-KA/04-KA-J00/04-KA-J00-003",
+        "start": 7033
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Сэкаи",
+        "start": 7166,
+        "text": "Давай.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice04/04-KA/04-KA-J00/04-KA-J00-0070",
+        "layer": 0,
+        "persona": "sek",
+        "start": 7166
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Макото",
+        "start": 8150,
+        "text": "Вот и отлично!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice04/04-KA/04-KA-J00/04-KA-J00-0080",
+        "layer": 1,
+        "persona": "mak",
+        "start": 8150
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Сэкаи",
+        "start": 9366,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice04/04-KA/04-KA-J00/04-KA-J00-0090",
+        "layer": 0,
+        "persona": "sek",
+        "start": 9366
+    },
+    {
+        "action": "CreateBG",
+        "end": 12000,
+        "file": "Event04/04-KA/04-KA-J00/04-KA-J00-002",
+        "start": 10266
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 12000,
+        "start": 11133
+    }
+]

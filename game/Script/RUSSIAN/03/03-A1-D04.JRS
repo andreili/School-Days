@@ -1,0 +1,149 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 26000,
+        "file": "BGM/SD_BGM/sdbgm19",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "System/Screen/Black",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Я уже и сам не знаю...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice03/03-A1/03-A1-D04/03-A1-D04-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Сэцуна",
+        "start": 1283,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice03/03-A1/03-A1-D04/03-A1-D04-0040",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 1283
+    },
+    {
+        "action": "CreateBG",
+        "end": 22000,
+        "file": "Event03/03-A1/03-A1-D04/03-A1-D04-002",
+        "start": 2300
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Макото",
+        "start": 2300,
+        "text": "Мне Сэкаи нравилась, и я думал, что она меня тоже любит.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice03/03-A1/03-A1-D04/03-A1-D04-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2300
+    },
+    {
+        "action": "BlackFade",
+        "dir": "IN",
+        "end": 4000,
+        "start": 2300
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Сэцуна",
+        "start": 10283,
+        "text": "Сэкаи тебя...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice03/03-A1/03-A1-D04/03-A1-D04-0060",
+        "layer": 0,
+        "persona": "set",
+        "start": 10283
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Макото",
+        "start": 12050,
+        "text": "Сэкаи просто подыгрывала мне, когда я признавался ей в любви...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice03/03-A1/03-A1-D04/03-A1-D04-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 12050
+    },
+    {
+        "action": "PrintText",
+        "end": 24000,
+        "persona": "Макото",
+        "start": 17350,
+        "text": "А сама видела, как Котоноха по мне сохнет, и пыталась обратить на нее мое внимание...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 24000,
+        "file": "Voice03/03-A1/03-A1-D04/03-A1-D04-0071",
+        "layer": 1,
+        "persona": "mak",
+        "start": 17350
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 22000,
+        "start": 20316
+    },
+    {
+        "action": "CreateBG",
+        "end": 26000,
+        "file": "Event03/03-A1/03-A1-D00/03-A1-D00-002",
+        "start": 22316
+    },
+    {
+        "action": "BlackFade",
+        "dir": "IN",
+        "end": 23000,
+        "start": 22316
+    },
+    {
+        "action": "PrintText",
+        "end": 25000,
+        "persona": "Сэцуна",
+        "start": 25033,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 25000,
+        "file": "Voice03/03-A1/03-A1-D04/03-A1-D04-0080",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 25033
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 9000,
+        "file": "SysSe/SE_all/gaya/kyousitu_rouka",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event05/05-SE/05-SE-G00/05-SE-G00-010",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 0,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice05/05-KF/05-KF-G09/05-KF-G09-0030",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Котоноха",
+        "start": 2300,
+        "text": "Макото?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice05/05-KF/05-KF-G09/05-KF-G09-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 2300
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Макото",
+        "start": 3350,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice05/05-KF/05-KF-G09/05-KF-G09-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 3350
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event05/05-KF/05-KF-G08/05-KF-G08-003",
+        "start": 3366
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Котоноха",
+        "start": 5366,
+        "text": "Постой!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice05/05-KF/05-KF-G09/05-KF-G09-0070",
+        "layer": 0,
+        "persona": "kot",
+        "start": 5366
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 9000,
+        "start": 8166
+    }
+]

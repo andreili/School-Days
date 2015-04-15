@@ -1,0 +1,72 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 11000,
+        "file": "BGM/SD_BGM/sdbgm07",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event03/03-KB/03-KB-C04/03-KB-C04-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 100,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice03/03-KB/03-KB-C04/03-KB-C04-0040",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 100
+    },
+    {
+        "action": "CreateBG",
+        "end": 11000,
+        "file": "Event03/03-KB/03-KB-C04/03-KB-C04-002",
+        "start": 2050
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Макото",
+        "start": 2100,
+        "text": "Куда мне пойти?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice03/03-KB/03-KB-C04/03-KB-C04-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2100
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Макото",
+        "start": 5083,
+        "text": "И что мне делать?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice03/03-KB/03-KB-C04/03-KB-C04-0060",
+        "layer": 1,
+        "persona": "mak",
+        "start": 5083
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Пойти на танцы.^",
+        "answer2": "NULL",
+        "end": 10000,
+        "start": 5283
+    }
+]

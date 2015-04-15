@@ -1,0 +1,118 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 17000,
+        "file": "BGM/SD_BGM/sdbgm20",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 17000,
+        "file": "Se03/03-SA/03-SA-F04/SE03-SA-F04-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 17000,
+        "file": "Event03/03-SA/03-SA-F04/03-SA-F04-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Отомэ",
+        "start": 0,
+        "text": "Я думаю, тебе нужно извиниться перед всеми!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice03/03-SA/03-SA-F04/03-SA-F04-0030",
+        "layer": 0,
+        "persona": "oto",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Минами",
+        "start": 3000,
+        "text": "Вот именно!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice03/03-SA/03-SA-F04/03-SA-F04-0040",
+        "layer": 0,
+        "persona": "min",
+        "start": 3000
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Отомэ",
+        "start": 3350,
+        "text": "За ложь и хвастовство!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice03/03-SA/03-SA-F04/03-SA-F04-0050",
+        "layer": 0,
+        "persona": "oto",
+        "start": 3350
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Котоноха",
+        "start": 7066,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice03/03-SA/03-SA-F04/03-SA-F04-0060",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 7066
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Отомэ",
+        "start": 8350,
+        "text": "Кацура!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice03/03-SA/03-SA-F04/03-SA-F04-0070",
+        "layer": 0,
+        "persona": "oto",
+        "start": 8350
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Котоноха",
+        "start": 10000,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice03/03-SA/03-SA-F04/03-SA-F04-0080",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 10000
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Вмешаться.^",
+        "answer2": "Пройти мимо.^",
+        "end": 16000,
+        "start": 11266
+    }
+]

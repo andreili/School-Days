@@ -1,0 +1,96 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 19000,
+        "file": "SysSe/SE_all/gaya/kyousitu_rouka",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 9000,
+        "file": "Event02/02-2K/02-2K-O02/02-2K-O02-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 0,
+        "text": " Нет, это будет неправильно.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice02/02-2K/02-2K-O02/02-2K-O02-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Сэкаи",
+        "start": 1316,
+        "text": "Наверное, ты прав...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice02/02-2K/02-2K-O02/02-2K-O02-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 1316
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Макото",
+        "start": 4066,
+        "text": "Сэкаи, не то чтобы ты мне не нравилась... Но я люблю Котоноху...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice02/02-2K/02-2K-O02/02-2K-O02-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 4066
+    },
+    {
+        "action": "CreateBG",
+        "end": 19000,
+        "file": "Event02/02-2K/02-2K-O00/02-2K-O00-003",
+        "start": 9083
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Сэкаи",
+        "start": 9083,
+        "text": "Я просто подумала, что это хорошая идея. Извини, забудь об этом разговоре.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice02/02-2K/02-2K-O02/02-2K-O02-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 9083
+    },
+    {
+        "action": "PrintText",
+        "end": 19000,
+        "persona": "Макото",
+        "start": 17050,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 19000,
+        "file": "Voice02/02-2K/02-2K-O02/02-2K-O02-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 17050
+    }
+]

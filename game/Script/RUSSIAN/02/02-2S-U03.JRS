@@ -1,0 +1,143 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 21000,
+        "file": "BGM/SD_BGM/sdbgm06",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 21000,
+        "file": "Se01/01-00/01-00-B00/SE01-00-B00-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event02/02-2S/02-2S-U03/02-2S-U03-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Завуч",
+        "start": 0,
+        "text": "Вот тут распечаток не хватает! Да, да, а этот стол отнесём в подсобку.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice02/02-2S/02-2S-U03/02-2S-U03-0040",
+        "layer": 1,
+        "persona": "iin",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 8000,
+        "file": "Se02/02-2S/02-2S-U03/SE02-2S-U03-002",
+        "layer": 2,
+        "start": 2016
+    },
+    {
+        "action": "PlayMovie",
+        "end": 7000,
+        "file": "Movie02/02-2S/02-2S-U03/02-2S-U03-002",
+        "start": 2016
+    },
+    {
+        "action": "PlayMovie",
+        "end": 19000,
+        "file": "Movie02/02-2S/02-2S-U03/02-2S-U03-003",
+        "start": 7016
+    },
+    {
+        "action": "PrintText",
+        "end": 7000,
+        "persona": "Сэцуна",
+        "start": 7016,
+        "text": "Извините...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 7000,
+        "file": "Voice02/02-2S/02-2S-U03/02-2S-U03-0060",
+        "layer": 0,
+        "persona": "set",
+        "start": 7016
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Завуч",
+        "start": 8000,
+        "text": "Да?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice02/02-2S/02-2S-U03/02-2S-U03-0070",
+        "layer": 1,
+        "persona": "iin",
+        "start": 8000
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Сэцуна",
+        "start": 8350,
+        "text": "К вам девушка из 4 группы не заходила?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice02/02-2S/02-2S-U03/02-2S-U03-0080",
+        "layer": 0,
+        "persona": "set",
+        "start": 8350
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Завуч",
+        "start": 11283,
+        "text": "Да, была из 4 группы. Очень быстро всё закончила и сразу ушла, похоже, спешила куда-то.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice02/02-2S/02-2S-U03/02-2S-U03-0090",
+        "layer": 1,
+        "persona": "iin",
+        "start": 11283
+    },
+    {
+        "action": "PrintText",
+        "end": 19000,
+        "persona": "Сэцуна",
+        "start": 17250,
+        "text": "А... Спасибо.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 19000,
+        "file": "Voice02/02-2S/02-2S-U03/02-2S-U03-0100",
+        "layer": 0,
+        "persona": "set",
+        "start": 17250
+    },
+    {
+        "action": "PlayMovie",
+        "end": 21000,
+        "file": "Movie02/02-2S/02-2S-U03/02-2S-U03-004",
+        "start": 19250
+    },
+    {
+        "action": "PlaySe",
+        "end": 20000,
+        "file": "Se00/00-00/00-00-A01/SE00-00-A01-002",
+        "layer": 2,
+        "start": 20066
+    }
+]

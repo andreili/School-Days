@@ -1,0 +1,59 @@
+[
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event05/05-5O/05-5O-F09/05-5O-F09-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Макото",
+        "start": 133,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice05/05-5O/05-5O-L00/05-5O-L00-0030",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 133
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event05/05-5O/05-5O-L00/05-5O-L00-002",
+        "start": 3316
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Сэкаи",
+        "start": 3366,
+        "text": "Садись, Макото. Я приготовила поесть.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice05/05-5O/05-5O-L00/05-5O-L00-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 3366
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Макото",
+        "start": 8116,
+        "text": "А?.. Хорошо...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice05/05-5O/05-5O-L00/05-5O-L00-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 8116
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 19000,
+        "file": "SysSe/SE_all/station_train/station",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 4000,
+        "file": "Movie05/05-KB/05-KB-J03/05-KB-J03-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 7000,
+        "file": "Event05/05-KB/05-KB-J03/05-KB-J03-002",
+        "start": 4266
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Котоноха",
+        "start": 4266,
+        "text": "Макото.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice05/05-KB/05-KB-J03/05-KB-J03-0040",
+        "layer": 0,
+        "persona": "kot",
+        "start": 4266
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event05/05-KB/05-KB-J03/05-KB-J03-003",
+        "start": 7050
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Макото",
+        "start": 7183,
+        "text": "Что это у тебя?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice05/05-KB/05-KB-J03/05-KB-J03-0100",
+        "layer": 1,
+        "persona": "mak",
+        "start": 7183
+    },
+    {
+        "action": "CreateBG",
+        "end": 14000,
+        "file": "Event05/05-KB/05-KB-J03/05-KB-J03-004",
+        "start": 10300
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Котоноха",
+        "start": 10300,
+        "text": "Потом узнаешь!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice05/05-KB/05-KB-J03/05-KB-J03-0110",
+        "layer": 0,
+        "persona": "kot",
+        "start": 10300
+    },
+    {
+        "action": "CreateBG",
+        "end": 19000,
+        "file": "Event05/05-KB/05-KB-J03/05-KB-J03-005",
+        "start": 14033
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 19000,
+        "start": 18033
+    }
+]

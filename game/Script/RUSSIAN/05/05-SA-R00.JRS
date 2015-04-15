@@ -1,0 +1,947 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 158000,
+        "file": "BGM/SD_BGM/sdbgm03",
+        "start": 0
+    },
+    {
+        "action": "PlayMovie",
+        "end": 5000,
+        "file": "Movie05/05-SA/05-SA-R00/05-SA-R00-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Сэкаи",
+        "start": 0,
+        "text": "Так что это за важный разговор такой?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Котоноха",
+        "start": 3000,
+        "text": "В общем, такое дело...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0050",
+        "layer": 0,
+        "persona": "kot",
+        "start": 3000
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Сэкаи",
+        "start": 4100,
+        "text": "Ну.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 4100
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Котоноха",
+        "start": 4383,
+        "text": "Всё-таки я встречаюсь с Макото, и то, что ещё ты к нему лезешь - странно.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0070",
+        "layer": 0,
+        "persona": "kot",
+        "start": 4383
+    },
+    {
+        "action": "CreateBG",
+        "end": 12000,
+        "file": "Event05/05-SA/05-SA-R00/05-SA-R00-002",
+        "start": 5383
+    },
+    {
+        "action": "CreateBG",
+        "end": 14000,
+        "file": "Event05/05-SA/05-SA-R00/05-SA-R00-003",
+        "start": 12016
+    },
+    {
+        "action": "PrintText",
+        "end": 14000,
+        "persona": "Сэкаи",
+        "start": 12016,
+        "text": "Это... Спорный вопрос.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 14000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0080",
+        "layer": 0,
+        "persona": "sek",
+        "start": 12016
+    },
+    {
+        "action": "CreateBG",
+        "end": 26000,
+        "file": "Event05/05-SA/05-SA-R00/05-SA-R00-004",
+        "start": 14116
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Котоноха",
+        "start": 14116,
+        "text": "И Макото... меня любит.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0090",
+        "layer": 0,
+        "persona": "kot",
+        "start": 14116
+    },
+    {
+        "action": "PrintText",
+        "end": 21000,
+        "persona": "Сэкаи",
+        "start": 17300,
+        "text": "И на этот счёт... Можно поспорить.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 21000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0100",
+        "layer": 0,
+        "persona": "sek",
+        "start": 17300
+    },
+    {
+        "action": "PrintText",
+        "end": 26000,
+        "persona": "Котоноха",
+        "start": 21083,
+        "text": "Уж я-то знаю. Ведь я понимаю его лучше всех.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 26000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0110",
+        "layer": 0,
+        "persona": "kot",
+        "start": 21083
+    },
+    {
+        "action": "PrintText",
+        "end": 28000,
+        "persona": "Сэкаи",
+        "start": 26333,
+        "text": "Да только я так не считаю.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 28000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0120",
+        "layer": 0,
+        "persona": "sek",
+        "start": 26333
+    },
+    {
+        "action": "CreateBG",
+        "end": 28000,
+        "file": "Event05/05-SA/05-SA-R00/05-SA-R00-005",
+        "start": 26350
+    },
+    {
+        "action": "CreateBG",
+        "end": 36000,
+        "file": "Event05/05-SA/05-SA-R00/05-SA-R00-006",
+        "start": 28266
+    },
+    {
+        "action": "PrintText",
+        "end": 36000,
+        "persona": "Котоноха",
+        "start": 28266,
+        "text": "И, кажется, ты считаешь, что Макото любит тебя... Но ты заблуждаешься.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 36000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0130",
+        "layer": 0,
+        "persona": "kot",
+        "start": 28266
+    },
+    {
+        "action": "PrintText",
+        "end": 38000,
+        "persona": "Сэкаи",
+        "start": 36133,
+        "text": "В каком это смысле?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 38000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0140",
+        "layer": 0,
+        "persona": "sek",
+        "start": 36133
+    },
+    {
+        "action": "CreateBG",
+        "end": 38000,
+        "file": "Event05/05-SA/05-SA-R00/05-SA-R00-006B",
+        "start": 36150
+    },
+    {
+        "action": "CreateBG",
+        "end": 40000,
+        "file": "Event05/05-SA/05-SA-R00/05-SA-R00-006C",
+        "start": 38116
+    },
+    {
+        "action": "PrintText",
+        "end": 39000,
+        "persona": "Котоноха",
+        "start": 38116,
+        "text": "В прямом.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 39000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0150",
+        "layer": 0,
+        "persona": "kot",
+        "start": 38116
+    },
+    {
+        "action": "PrintText",
+        "end": 40000,
+        "persona": "Сэкаи",
+        "start": 39283,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 40000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0160",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 39283
+    },
+    {
+        "action": "CreateBG",
+        "end": 48000,
+        "file": "Event05/05-SA/05-SA-R00/05-SA-R00-007",
+        "start": 40083
+    },
+    {
+        "action": "PrintText",
+        "end": 44000,
+        "persona": "Котоноха",
+        "start": 40083,
+        "text": "Саиёндзи, как далеко ты с Макото зашла?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 44000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0170",
+        "layer": 0,
+        "persona": "kot",
+        "start": 40083
+    },
+    {
+        "action": "PrintText",
+        "end": 45000,
+        "persona": "Сэкаи",
+        "start": 44083,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 45000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0180",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 44083
+    },
+    {
+        "action": "PrintText",
+        "end": 48000,
+        "persona": "Котоноха",
+        "start": 45100,
+        "text": "Тебя ведь дальше тайных поцелуйчиков так и не хватило.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 48000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0190",
+        "layer": 0,
+        "persona": "kot",
+        "start": 45100
+    },
+    {
+        "action": "PrintText",
+        "end": 49000,
+        "persona": "Сэкаи",
+        "start": 48066,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 49000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0200",
+        "layer": 0,
+        "persona": "sek",
+        "start": 48066
+    },
+    {
+        "action": "CreateBG",
+        "end": 60000,
+        "file": "Event05/05-SA/05-SA-R00/05-SA-R00-008",
+        "start": 48083
+    },
+    {
+        "action": "PrintText",
+        "end": 53000,
+        "persona": "Котоноха",
+        "start": 49083,
+        "text": "Я всё знаю. Я ведь девушка Макото.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 53000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0210",
+        "layer": 0,
+        "persona": "kot",
+        "start": 49083
+    },
+    {
+        "action": "PrintText",
+        "end": 60000,
+        "persona": "Сэкаи",
+        "start": 53200,
+        "text": "И что?! А сама-то, даже простого его прикосновенья боишься! Сама-то что?!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 60000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0220",
+        "layer": 0,
+        "persona": "sek",
+        "start": 53200
+    },
+    {
+        "action": "CreateBG",
+        "end": 64000,
+        "file": "Event05/05-SA/05-SA-R00/05-SA-R00-009",
+        "start": 60083
+    },
+    {
+        "action": "PrintText",
+        "end": 64000,
+        "persona": "Котоноха",
+        "start": 60083,
+        "text": "Всё это в прошлом... Он простит меня.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 64000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0230",
+        "layer": 0,
+        "persona": "kot",
+        "start": 60083
+    },
+    {
+        "action": "PrintText",
+        "end": 66000,
+        "persona": "Сэкаи",
+        "start": 64266,
+        "text": "Смотри-ка, какая уверенная.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 66000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0240",
+        "layer": 0,
+        "persona": "sek",
+        "start": 64266
+    },
+    {
+        "action": "PlayMovie",
+        "end": 76000,
+        "file": "Movie05/05-SA/05-SA-R00/05-SA-R00-012",
+        "start": 64283
+    },
+    {
+        "action": "PrintText",
+        "end": 67000,
+        "persona": "Котоноха",
+        "start": 66066,
+        "text": "Уверенная.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 67000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0250",
+        "layer": 0,
+        "persona": "kot",
+        "start": 66066
+    },
+    {
+        "action": "PrintText",
+        "end": 70000,
+        "persona": "Сэкаи",
+        "start": 67116,
+        "text": "Я вот только не думаю, что он тебя простит.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 70000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0260",
+        "layer": 0,
+        "persona": "sek",
+        "start": 67116
+    },
+    {
+        "action": "PrintText",
+        "end": 75000,
+        "persona": "Котоноха",
+        "start": 70100,
+        "text": "Простит... Ведь он меня...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 75000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0270",
+        "layer": 0,
+        "persona": "kot",
+        "start": 70100
+    },
+    {
+        "action": "PrintText",
+        "end": 76000,
+        "persona": "Сэкаи",
+        "start": 75266,
+        "text": "Тебя?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 76000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0280",
+        "layer": 0,
+        "persona": "sek",
+        "start": 75266
+    },
+    {
+        "action": "CreateBG",
+        "end": 78000,
+        "file": "Event05/05-SA/05-SA-R00/05-SA-R00-011",
+        "start": 76283
+    },
+    {
+        "action": "PrintText",
+        "end": 78000,
+        "persona": "Котоноха",
+        "start": 76283,
+        "text": "Поцеловал.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 78000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0290",
+        "layer": 0,
+        "persona": "kot",
+        "start": 76283
+    },
+    {
+        "action": "PrintText",
+        "end": 80000,
+        "persona": "Сэкаи",
+        "start": 78100,
+        "text": "Подумаешь, один поцелуй...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 80000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0320",
+        "layer": 0,
+        "persona": "sek",
+        "start": 78100
+    },
+    {
+        "action": "CreateBG",
+        "end": 83000,
+        "file": "Event05/05-SA/05-SA-R00/05-SA-R00-012",
+        "start": 78116
+    },
+    {
+        "action": "PrintText",
+        "end": 82000,
+        "persona": "Котоноха",
+        "start": 80383,
+        "text": "Много раз.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 82000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0330",
+        "layer": 0,
+        "persona": "kot",
+        "start": 80383
+    },
+    {
+        "action": "PrintText",
+        "end": 83000,
+        "persona": "Сэкаи",
+        "start": 82150,
+        "text": "Всё это...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 83000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0340",
+        "layer": 0,
+        "persona": "sek",
+        "start": 82150
+    },
+    {
+        "action": "CreateBG",
+        "end": 100000,
+        "file": "Event05/05-SA/05-SA-R00/05-SA-R00-013",
+        "start": 83216
+    },
+    {
+        "action": "PrintText",
+        "end": 98000,
+        "persona": "Котоноха",
+        "start": 83216,
+        "text": "И не только в губы... И в грудь, и в живот, и в спину... Нет на моём теле такого места, где бы его губы меня не касались!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 98000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0350",
+        "layer": 0,
+        "persona": "kot",
+        "start": 83216
+    },
+    {
+        "action": "PrintText",
+        "end": 98000,
+        "persona": "Сэкаи",
+        "start": 98083,
+        "text": "Э...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 98000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0360",
+        "layer": 0,
+        "persona": "sek",
+        "start": 98083
+    },
+    {
+        "action": "PrintText",
+        "end": 100000,
+        "persona": "Котоноха",
+        "start": 98366,
+        "text": "У меня и доказательство есть.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 100000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0370",
+        "layer": 0,
+        "persona": "kot",
+        "start": 98366
+    },
+    {
+        "action": "CreateBG",
+        "end": 104000,
+        "file": "Event05/05-SA/05-SA-R00/05-SA-R00-006",
+        "start": 100266
+    },
+    {
+        "action": "PrintText",
+        "end": 101000,
+        "persona": "Сэкаи",
+        "start": 100266,
+        "text": "Доказательство?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 101000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0380",
+        "layer": 0,
+        "persona": "sek",
+        "start": 100266
+    },
+    {
+        "action": "PrintText",
+        "end": 102000,
+        "persona": "Котоноха",
+        "start": 101333,
+        "text": "Смотри.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 102000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0390",
+        "layer": 0,
+        "persona": "kot",
+        "start": 101333
+    },
+    {
+        "action": "PrintText",
+        "end": 103000,
+        "persona": "Сэкаи",
+        "start": 102183,
+        "text": "Вчерашняя?..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 103000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0410",
+        "layer": 0,
+        "persona": "sek",
+        "start": 102183
+    },
+    {
+        "action": "PrintText",
+        "end": 104000,
+        "persona": "Котоноха",
+        "start": 103266,
+        "text": "Да.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 104000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0420",
+        "layer": 0,
+        "persona": "kot",
+        "start": 103266
+    },
+    {
+        "action": "PrintText",
+        "end": 105000,
+        "persona": "Сэкаи",
+        "start": 104116,
+        "text": "Э?!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 105000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0440",
+        "layer": 0,
+        "persona": "sek",
+        "start": 104116
+    },
+    {
+        "action": "CreateBG",
+        "end": 111000,
+        "file": "Event05/05-SA/05-SA-R00/05-SA-R00-016B",
+        "start": 104133
+    },
+    {
+        "action": "PrintText",
+        "end": 110000,
+        "persona": "Котоноха",
+        "start": 105133,
+        "text": "Гляди с какой он страстью сосёт мою грудь.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 110000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0450",
+        "layer": 0,
+        "persona": "kot",
+        "start": 105133
+    },
+    {
+        "action": "PrintText",
+        "end": 111000,
+        "persona": "Сэкаи",
+        "start": 110116,
+        "text": "Не может быть...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 111000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0460",
+        "layer": 0,
+        "persona": "sek",
+        "start": 110116
+    },
+    {
+        "action": "CreateBG",
+        "end": 115000,
+        "file": "Event05/05-SA/05-SA-R00/05-SA-R00-015",
+        "start": 111116
+    },
+    {
+        "action": "PrintText",
+        "end": 115000,
+        "persona": "Котоноха",
+        "start": 111116,
+        "text": "Может, как видишь. Оттого-то эта фотография и появилась.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 115000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0470",
+        "layer": 0,
+        "persona": "kot",
+        "start": 111116
+    },
+    {
+        "action": "CreateBG",
+        "end": 134000,
+        "file": "Event05/05-SA/05-SA-R00/05-SA-R00-016",
+        "start": 115233
+    },
+    {
+        "action": "PrintText",
+        "end": 116000,
+        "persona": "Сэкаи",
+        "start": 115233,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 116000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0480",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 115233
+    },
+    {
+        "action": "PrintText",
+        "end": 119000,
+        "persona": "Котоноха",
+        "start": 116250,
+        "text": "И Макото так хорош.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 119000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0490",
+        "layer": 0,
+        "persona": "kot",
+        "start": 116250
+    },
+    {
+        "action": "PrintText",
+        "end": 129000,
+        "persona": "Котоноха",
+        "start": 119016,
+        "text": "Говорит, что любит мою большую грудь... Всегда её мнёт, лижет... И мне это так нравится...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 129000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0491",
+        "layer": 0,
+        "persona": "kot",
+        "start": 119016
+    },
+    {
+        "action": "PrintText",
+        "end": 134000,
+        "persona": "Сэкаи",
+        "start": 129333,
+        "text": "Ложь... Макото бы... Не стал...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 134000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0500",
+        "layer": 0,
+        "persona": "sek",
+        "start": 129333
+    },
+    {
+        "action": "CreateBG",
+        "end": 143000,
+        "file": "Event05/05-SA/05-SA-R00/05-SA-R00-017",
+        "start": 134033
+    },
+    {
+        "action": "PrintText",
+        "end": 144000,
+        "persona": "Котоноха",
+        "start": 134033,
+        "text": "А потом обнимает меня, и мы занимаемся любовью... Всегда...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 144000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0510",
+        "layer": 0,
+        "persona": "kot",
+        "start": 134033
+    },
+    {
+        "action": "PrintText",
+        "end": 145000,
+        "persona": "Сэкаи",
+        "start": 143200,
+        "text": "Прекрати!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 145000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0520",
+        "layer": 0,
+        "persona": "sek",
+        "start": 143200
+    },
+    {
+        "action": "CreateBG",
+        "end": 147000,
+        "file": "Event05/05-SA/05-SA-R00/05-SA-R00-018",
+        "start": 143250
+    },
+    {
+        "action": "PrintText",
+        "end": 145000,
+        "persona": "Котоноха",
+        "start": 145016,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 145000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0530",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 145016
+    },
+    {
+        "action": "PrintText",
+        "end": 147000,
+        "persona": "Сэкаи",
+        "start": 145200,
+        "text": "Слышать не хочу!..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 147000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0540",
+        "layer": 0,
+        "persona": "sek",
+        "start": 145200
+    },
+    {
+        "action": "CreateBG",
+        "end": 151000,
+        "file": "Event05/05-SA/05-SA-R00/05-SA-R00-019",
+        "start": 147000
+    },
+    {
+        "action": "PrintText",
+        "end": 148000,
+        "persona": "Котоноха",
+        "start": 147016,
+        "text": "Вот как?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 148000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0550",
+        "layer": 0,
+        "persona": "kot",
+        "start": 147016
+    },
+    {
+        "action": "PrintText",
+        "end": 149000,
+        "persona": "Сэкаи",
+        "start": 148116,
+        "text": "Не хочу-у-у!..^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 149000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0560",
+        "layer": 0,
+        "persona": "sek",
+        "start": 148116
+    },
+    {
+        "action": "PrintText",
+        "end": 151000,
+        "persona": "Котоноха",
+        "start": 149350,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 151000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0580",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 149350
+    },
+    {
+        "action": "CreateBG",
+        "end": 158000,
+        "file": "Event05/05-SA/05-SA-R00/05-SA-R00-006",
+        "start": 151116
+    },
+    {
+        "action": "PrintText",
+        "end": 154000,
+        "persona": "Котоноха",
+        "start": 151133,
+        "text": "В общем, не лезь больше в наши с ним отношения.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 154000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0600",
+        "layer": 0,
+        "persona": "kot",
+        "start": 151133
+    },
+    {
+        "action": "PrintText",
+        "end": 156000,
+        "persona": "Сэкаи",
+        "start": 154266,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 156000,
+        "file": "Voice05/05-SA/05-SA-R00/05-SA-R00-0610",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 154266
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 158000,
+        "start": 157150
+    }
+]

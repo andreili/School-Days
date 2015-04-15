@@ -1,0 +1,108 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 6000,
+        "file": "SysSe/SE_all/station_train/station",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 0,
+        "file": "Event05/05-5O/05-5O-K01/05-5O-K01-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 0,
+        "persona": "Макото",
+        "start": 50,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 0,
+        "file": "Voice05/05-5O/05-5O-K03/05-5O-K03-0030",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 50
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event05/05-5O/05-5O-K03/05-5O-K03-002",
+        "start": 333
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Отомэ",
+        "start": 1066,
+        "text": "Против?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice05/05-5O/05-5O-K03/05-5O-K03-0040",
+        "layer": 0,
+        "persona": "oto",
+        "start": 1066
+    },
+    {
+        "action": "CreateBG",
+        "end": 6000,
+        "file": "Event05/05-5O/05-5O-K03/05-5O-K03-003",
+        "start": 1350
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 1350,
+        "text": "Нет...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice05/05-5O/05-5O-K03/05-5O-K03-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 1350
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Отомэ",
+        "start": 2350,
+        "text": "Вот и хорошо.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice05/05-5O/05-5O-K03/05-5O-K03-0060",
+        "layer": 0,
+        "persona": "oto",
+        "start": 2350
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Макото",
+        "start": 4216,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice05/05-5O/05-5O-K03/05-5O-K03-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 4216
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 6000,
+        "start": 5150
+    }
+]

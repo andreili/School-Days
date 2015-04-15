@@ -1,0 +1,79 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 18000,
+        "file": "BGM/SD_BGM/sdbgm19",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 18000,
+        "file": "Se03/03-KB/03-KB-A07/SE03-KB-A07-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 8000,
+        "file": "Event03/03-KB/03-KB-A07/03-KB-A07-001A",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 8000,
+        "persona": "Макото",
+        "start": 50,
+        "text": "Нам лучше какое-то время не видеться... А как это сделать, если в параллельных классах учимся?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 8000,
+        "file": "Voice03/03-KB/03-KB-A07/03-KB-A07-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 50
+    },
+    {
+        "action": "CreateBG",
+        "end": 18000,
+        "file": "Event03/03-KB/03-KB-A07/03-KB-A07-001B",
+        "start": 8150
+    },
+    {
+        "action": "PrintText",
+        "end": 9000,
+        "persona": "Макото",
+        "start": 8250,
+        "text": "Хех...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 9000,
+        "file": "Voice03/03-KB/03-KB-A07/03-KB-A07-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 8250
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Макото",
+        "start": 9383,
+        "text": "Котоноха...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice03/03-KB/03-KB-A07/03-KB-A07-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 9383
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Я до сих пор люблю её...^",
+        "answer2": "Мы стали совсем чужими друг другу...^",
+        "end": 17000,
+        "start": 12150
+    }
+]

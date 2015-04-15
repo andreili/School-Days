@@ -1,0 +1,99 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 16000,
+        "file": "BGM/SD_BGM/sdbgm03",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 6000,
+        "file": "Se01/01-00/01-00-B00/SE01-00-B00-002",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 14000,
+        "file": "Se01/01-00/01-00-B00/SE01-00-B00-001",
+        "layer": 3,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event01/01-00/01-00-B00/01-00-B00-001",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 8000,
+        "file": "Event01/01-00/01-00-B00/01-00-B00-002",
+        "start": 2150
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Макото",
+        "start": 2250,
+        "text": "А, привет!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice01/01-00/01-00-B00/01-00-B00-0050",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2250
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Сэкаи",
+        "start": 4350,
+        "text": "Привет.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice01/01-00/01-00-B00/01-00-B00-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 4350
+    },
+    {
+        "action": "PlaySe",
+        "end": 8000,
+        "file": "Se01/01-00/01-00-B00/SE01-00-B00-003",
+        "layer": 2,
+        "start": 6350
+    },
+    {
+        "action": "CreateBG",
+        "end": 16000,
+        "file": "Event00/00-00/00-00-A04/00-00-A04-001a",
+        "start": 8200
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Зачем ты меня поцеловала?^",
+        "answer2": "Вчера на станции...^",
+        "end": 13000,
+        "start": 8200
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Макото",
+        "start": 13300,
+        "text": "Слушай...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice01/01-00/01-00-B00/01-00-B00-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 13300
+    }
+]

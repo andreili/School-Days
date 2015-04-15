@@ -1,0 +1,165 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 36000,
+        "file": "BGM/SD_BGM/sdbgm06",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event01/01-00/01-00-G02/01-00-G02-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 100,
+        "text": "Может, это что-то важное...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice01/01-00/01-00-G02/01-00-G02-0030",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 100
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "OUT",
+        "end": 2000,
+        "start": 2133
+    },
+    {
+        "action": "PlayMovie",
+        "end": 11000,
+        "file": "Movie01/01-00/01-00-G02/01-00-G02-002",
+        "start": 2333
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "IN",
+        "end": 3000,
+        "start": 2333
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Макото",
+        "start": 3200,
+        "text": "Кацура - девушка застенчивая.^"
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Макото",
+        "start": 5366,
+        "text": "Наверняка хотела что-то важное сказать...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 10000,
+        "file": "Voice01/01-00/01-00-G02/01-00-G02-0040",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 3200
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "OUT",
+        "end": 11000,
+        "start": 10350
+    },
+    {
+        "action": "CreateBG",
+        "end": 16000,
+        "file": "Event01/01-00/01-00-G02/01-00-G02-005",
+        "start": 11150
+    },
+    {
+        "action": "WhiteFade",
+        "dir": "IN",
+        "end": 11000,
+        "start": 11150
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Макото",
+        "start": 12050,
+        "text": "Но смутилась и не смогла.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice01/01-00/01-00-G02/01-00-G02-0050",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 12050
+    },
+    {
+        "action": "CreateBG",
+        "end": 22000,
+        "file": "Event01/01-00/01-00-G02/01-00-G02-006",
+        "start": 16150
+    },
+    {
+        "action": "PrintText",
+        "end": 22000,
+        "persona": "Макото",
+        "start": 17150,
+        "text": "Она начала говорить и замолчала.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 22000,
+        "file": "Voice01/01-00/01-00-G02/01-00-G02-0060",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 17150
+    },
+    {
+        "action": "CreateBG",
+        "end": 36000,
+        "file": "Event01/01-00/01-00-G02/01-00-G02-007",
+        "start": 22283
+    },
+    {
+        "action": "PrintText",
+        "end": 28000,
+        "persona": "Макото",
+        "start": 23183,
+        "text": "«Ко...», что бы это могло значить?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 28000,
+        "file": "Voice01/01-00/01-00-G02/01-00-G02-0070",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 23183
+    },
+    {
+        "action": "PrintText",
+        "end": 34000,
+        "persona": "Макото",
+        "start": 30066,
+        "text": "Надо с ней поговорить после уроков, перед её собранием.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 34000,
+        "file": "Voice01/01-00/01-00-G02/01-00-G02-0080",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 30066
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 36000,
+        "start": 35016
+    }
+]

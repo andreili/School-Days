@@ -1,0 +1,86 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 10000,
+        "file": "BGM/SD_BGM/sdbgm21",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 3000,
+        "file": "Event00/00-00/00-00-A03/00-00-A03-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 0,
+        "persona": "Сэкаи",
+        "start": 0,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 0,
+        "file": "Voice05/05-SC/05-SC-B00/05-SC-B00-0050",
+        "layer": 0,
+        "persona": "sek",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Сэкаи",
+        "start": 1100,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice05/05-SC/05-SC-B00/05-SC-B00-0090",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 1100
+    },
+    {
+        "action": "PrintText",
+        "end": 2000,
+        "persona": "Макото",
+        "start": 2033,
+        "text": "Что такое?^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice05/05-SC/05-SC-B00/05-SC-B00-0100",
+        "layer": 1,
+        "persona": "mak",
+        "start": 2033
+    },
+    {
+        "action": "PrintText",
+        "end": 4000,
+        "persona": "Сэкаи",
+        "start": 2383,
+        "text": "Да нет, ничего.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 4000,
+        "file": "Voice05/05-SC/05-SC-B00/05-SC-B00-0110",
+        "layer": 0,
+        "persona": "sek",
+        "start": 2383
+    },
+    {
+        "action": "CreateBG",
+        "end": 6000,
+        "file": "Event05/05-SC/05-SC-B00/05-SC-B00-002",
+        "start": 3283
+    },
+    {
+        "action": "CreateBG",
+        "end": 10000,
+        "file": "Event05/05-SC/05-SC-B00/05-SC-B00-004",
+        "start": 6016
+    }
+]

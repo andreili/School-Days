@@ -1,0 +1,43 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 2000,
+        "file": "BGM/SD_BGM/sdbgm21",
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 1000,
+        "file": "Event05/05-SA/05-SA-H01/05-SA-H01-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 1000,
+        "persona": "Макото",
+        "start": 116,
+        "text": "Можно.^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 1000,
+        "file": "Voice05/05-SA/05-SA-H01/05-SA-H01-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 116
+    },
+    {
+        "action": "CreateBG",
+        "end": 2000,
+        "file": "Event05/05-SA/05-SA-H01/05-SA-H01-002",
+        "start": 1033
+    },
+    {
+        "action": "PlayVoice",
+        "end": 2000,
+        "file": "Voice05/05-SA/05-SA-H01/05-SA-H01-0040",
+        "layer": -1,
+        "persona": "",
+        "start": 1050
+    }
+]

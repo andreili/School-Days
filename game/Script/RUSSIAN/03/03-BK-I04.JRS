@@ -1,0 +1,167 @@
+[
+    {
+        "action": "PlayBgm",
+        "end": 24000,
+        "file": "BGM/SD_BGM/sdbgm19",
+        "start": 0
+    },
+    {
+        "action": "PlaySe",
+        "end": 18000,
+        "file": "Se03/03-BK/03-BK-I04/SE03-BK-I04-001",
+        "layer": 1,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 13000,
+        "file": "Event03/03-BK/03-BK-I02/03-BK-I02-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 0,
+        "persona": "Макото",
+        "start": 0,
+        "text": "Прости...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 0,
+        "file": "Voice03/03-BK/03-BK-I04/03-BK-I04-0030",
+        "layer": 1,
+        "persona": "mak",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 5000,
+        "persona": "Сэкаи",
+        "start": 1083,
+        "text": "Нет... Это я виновата...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 5000,
+        "file": "Voice03/03-BK/03-BK-I04/03-BK-I04-0040",
+        "layer": 0,
+        "persona": "sek",
+        "start": 1083
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Макото",
+        "start": 5200,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice03/03-BK/03-BK-I04/03-BK-I04-0050",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 5200
+    },
+    {
+        "action": "PrintText",
+        "end": 10000,
+        "persona": "Сэкаи",
+        "start": 7133,
+        "text": "Я же знала, что у тебя есть девушка... Мы же должны были быть просто друзьями...^"
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Сэкаи",
+        "start": 10133,
+        "text": "Зачем только я в тебя влюбилась...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice03/03-BK/03-BK-I04/03-BK-I04-0060",
+        "layer": 0,
+        "persona": "sek",
+        "start": 7133
+    },
+    {
+        "action": "CreateBG",
+        "end": 24000,
+        "file": "Event04/04-KB/04-KB-B00/04-KB-B00-011",
+        "start": 13333
+    },
+    {
+        "action": "PrintText",
+        "end": 16000,
+        "persona": "Макото",
+        "start": 13333,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 16000,
+        "file": "Voice03/03-BK/03-BK-I04/03-BK-I04-0070",
+        "layer": 1,
+        "persona": "xxx",
+        "start": 13333
+    },
+    {
+        "action": "PrintText",
+        "end": 17000,
+        "persona": "Сэкаи",
+        "start": 16283,
+        "text": "Прости...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 17000,
+        "file": "Voice03/03-BK/03-BK-I04/03-BK-I04-0080",
+        "layer": 0,
+        "persona": "sek",
+        "start": 16283
+    },
+    {
+        "action": "PrintText",
+        "end": 18000,
+        "persona": "Макото",
+        "start": 18000,
+        "text": "Ты ни в чем не виновата...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 18000,
+        "file": "Voice03/03-BK/03-BK-I04/03-BK-I04-0090",
+        "layer": 1,
+        "persona": "mak",
+        "start": 18000
+    },
+    {
+        "action": "PlaySe",
+        "end": 24000,
+        "file": "Se03/03-BK/03-BK-I04/SE03-BK-I04-001",
+        "layer": 2,
+        "start": 18300
+    },
+    {
+        "action": "PrintText",
+        "end": 24000,
+        "persona": "Сэкаи",
+        "start": 19133,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 24000,
+        "file": "Voice03/03-BK/03-BK-I04/03-BK-I04-0100",
+        "layer": 0,
+        "persona": "sek",
+        "start": 19133
+    },
+    {
+        "action": "BlackFade",
+        "dir": "OUT",
+        "end": 24000,
+        "start": 23250
+    }
+]

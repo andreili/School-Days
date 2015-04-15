@@ -1,0 +1,116 @@
+[
+    {
+        "action": "PlaySe",
+        "end": 19000,
+        "file": "Se01/01-00/01-00-E00/SE01-00-E00-001",
+        "layer": 2,
+        "start": 0
+    },
+    {
+        "action": "CreateBG",
+        "end": 5000,
+        "file": "Event02/02-2K/02-2K-F06/02-2K-F06-001",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 3000,
+        "persona": "Котоноха",
+        "start": 0,
+        "text": "Хватит уже!^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 3000,
+        "file": "Voice02/02-2K/02-2K-F06/02-2K-F06-0030",
+        "layer": 0,
+        "persona": "kot",
+        "start": 0
+    },
+    {
+        "action": "PrintText",
+        "end": 6000,
+        "persona": "Макото",
+        "start": 3050,
+        "text": "Но ведь ещё...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 6000,
+        "file": "Voice02/02-2K/02-2K-F06/02-2K-F06-0040",
+        "layer": 1,
+        "persona": "mak",
+        "start": 3050
+    },
+    {
+        "action": "PlaySe",
+        "end": 7000,
+        "file": "Voice02/02-2K/02-2K-F06/02-2K-F06-0050",
+        "layer": 1,
+        "start": 3200
+    },
+    {
+        "action": "CreateBG",
+        "end": 6000,
+        "file": "Event02/02-2K/02-2K-F03/02-2K-F03-002",
+        "start": 5116
+    },
+    {
+        "action": "CreateBG",
+        "end": 19000,
+        "file": "Event02/02-2K/02-2K-F03/02-2K-F03-003",
+        "start": 6333
+    },
+    {
+        "action": "PrintText",
+        "end": 11000,
+        "persona": "Котоноха",
+        "start": 7366,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 11000,
+        "file": "Voice02/02-2K/02-2K-F06/02-2K-F06-0060",
+        "layer": 0,
+        "persona": "kot",
+        "start": 7366
+    },
+    {
+        "action": "PrintText",
+        "end": 12000,
+        "persona": "Макото",
+        "start": 10333,
+        "text": "Котоноха...^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 12000,
+        "file": "Voice02/02-2K/02-2K-F06/02-2K-F06-0070",
+        "layer": 1,
+        "persona": "mak",
+        "start": 10333
+    },
+    {
+        "action": "PrintText",
+        "end": 13000,
+        "persona": "Котоноха",
+        "start": 12233,
+        "text": "....^"
+    },
+    {
+        "action": "PlayVoice",
+        "end": 13000,
+        "file": "Voice02/02-2K/02-2K-F06/02-2K-F06-0080",
+        "layer": 0,
+        "persona": "xxx",
+        "start": 12233
+    },
+    {
+        "action": "SetSELECT",
+        "answer1": "Извини!^",
+        "answer2": "Что-то не так?^",
+        "end": 18000,
+        "start": 13016
+    }
+]
