@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 8233
+    },
+    {
         "action": "PlayBgm",
-        "end": 8000,
+        "end": 8233,
         "file": "BGM/SD_BGM/sdbgm06",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 8000,
+        "end": 8233,
         "file": "Se01/01-00/01-00-B00/SE01-00-B00-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8233,
         "file": "Event02/02-2S/02-2S-C07/02-2S-C07-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2350,
         "persona": "Макото",
         "start": 0,
         "text": "Тогда пошли на обед вместе...^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2350,
         "file": "Voice02/02-2S/02-2S-C07/02-2S-C07-0030",
         "layer": 1,
         "persona": "mak",
@@ -35,14 +39,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6133,
         "persona": "Сэкаи",
         "start": 2366,
         "text": "Ты сегодня с Кацурой на крыше встречаешься?^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6133,
         "file": "Voice02/02-2S/02-2S-C07/02-2S-C07-0040",
         "layer": 0,
         "persona": "sek",
@@ -50,14 +54,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6383,
         "persona": "Макото",
         "start": 6133,
         "text": "Ага...^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6383,
         "file": "Voice02/02-2S/02-2S-C07/02-2S-C07-0050",
         "layer": 1,
         "persona": "mak",
@@ -66,7 +70,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 8000,
+        "end": 8233,
         "start": 7233
+    },
+    {
+        "action": "Next",
+        "start": 8233
     }
 ]

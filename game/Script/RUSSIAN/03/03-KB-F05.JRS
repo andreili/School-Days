@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 45016
+    },
+    {
         "action": "PlayBgm",
-        "end": 45000,
+        "end": 45016,
         "file": "BGM/SD_BGM/sdbgm29",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8300,
         "file": "Event03/03-KB/03-KB-F05/03-KB-F05-001A",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2233,
         "persona": "Сэцуна",
         "start": 0,
         "text": "Я закончила, так что пойду домой.^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2233,
         "file": "Voice03/03-KB/03-KB-F05/03-KB-F05-0030",
         "layer": 0,
         "persona": "set",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4066,
         "persona": "Сэкаи",
         "start": 2250,
         "text": "Ага, давай.^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4066,
         "file": "Voice03/03-KB/03-KB-F05/03-KB-F05-0040",
         "layer": 0,
         "persona": "sek",
@@ -58,14 +62,14 @@
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8283,
         "persona": "Сэкаи",
         "start": 8000,
         "text": "Угу...^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8283,
         "file": "Voice03/03-KB/03-KB-F05/03-KB-F05-0060",
         "layer": 0,
         "persona": "sek",
@@ -73,14 +77,14 @@
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10150,
         "persona": "Сэцуна",
         "start": 8283,
         "text": "Да, кстати.^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10150,
         "file": "Voice03/03-KB/03-KB-F05/03-KB-F05-0070",
         "layer": 0,
         "persona": "set",
@@ -88,20 +92,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10166,
         "file": "Event03/03-KB/03-KB-F05/03-KB-F05-001B",
         "start": 8300
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10383,
         "persona": "Сэкаи",
         "start": 10150,
         "text": "М-м-м?^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10383,
         "file": "Voice03/03-KB/03-KB-F05/03-KB-F05-0080",
         "layer": 0,
         "persona": "sek",
@@ -109,20 +113,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 14000,
+        "end": 14350,
         "file": "Event03/03-KB/03-KB-F05/03-KB-F05-001C",
         "start": 10166
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12383,
         "persona": "Сэцуна",
         "start": 10383,
         "text": "Есть ещё одна школьная традиция.^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12383,
         "file": "Voice03/03-KB/03-KB-F05/03-KB-F05-0090",
         "layer": 0,
         "persona": "set",
@@ -130,14 +134,14 @@
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14333,
         "persona": "Сэкаи",
         "start": 13233,
         "text": "Ага...^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14333,
         "file": "Voice03/03-KB/03-KB-F05/03-KB-F05-0100",
         "layer": 0,
         "persona": "sek",
@@ -145,14 +149,14 @@
     },
     {
         "action": "PrintText",
-        "end": 19000,
+        "end": 19150,
         "persona": "Сэцуна",
         "start": 14333,
         "text": "Последнее мероприятие фестиваля - танцы у костра, и ты должна пригласить того, кого любишь.^"
     },
     {
         "action": "PlayVoice",
-        "end": 19000,
+        "end": 19150,
         "file": "Voice03/03-KB/03-KB-F05/03-KB-F05-0110",
         "layer": 0,
         "persona": "set",
@@ -160,20 +164,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 26000,
+        "end": 26116,
         "file": "Event03/03-KB/03-KB-F05/03-KB-F05-002",
         "start": 14350
     },
     {
         "action": "PrintText",
-        "end": 20000,
+        "end": 20266,
         "persona": "Сэкаи",
         "start": 19166,
         "text": "Понятно...^"
     },
     {
         "action": "PlayVoice",
-        "end": 20000,
+        "end": 20266,
         "file": "Voice03/03-KB/03-KB-F05/03-KB-F05-0120",
         "layer": 0,
         "persona": "sek",
@@ -181,14 +185,14 @@
     },
     {
         "action": "PrintText",
-        "end": 26000,
+        "end": 26116,
         "persona": "Сэцуна",
         "start": 20250,
         "text": "Говорят, пара, которая станцует у костра, будет вместе целый год...^"
     },
     {
         "action": "PlayVoice",
-        "end": 26000,
+        "end": 26116,
         "file": "Voice03/03-KB/03-KB-F05/03-KB-F05-0130",
         "layer": 0,
         "persona": "set",
@@ -196,20 +200,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 36000,
+        "end": 36216,
         "file": "Event02/02-2K/02-2K-Q05/02-2K-Q05-003",
         "start": 26116
     },
     {
         "action": "PrintText",
-        "end": 31000,
+        "end": 31100,
         "persona": "Сэкаи",
         "start": 26116,
         "text": "Только год? Звучит до горечи правдоподобно...^"
     },
     {
         "action": "PlayVoice",
-        "end": 31000,
+        "end": 31100,
         "file": "Voice03/03-KB/03-KB-F05/03-KB-F05-0140",
         "layer": 0,
         "persona": "sek",
@@ -217,14 +221,14 @@
     },
     {
         "action": "PrintText",
-        "end": 36000,
+        "end": 36216,
         "persona": "Сэцуна",
         "start": 31100,
         "text": "Наверное, год - это предел для школьных пар...^"
     },
     {
         "action": "PlayVoice",
-        "end": 36000,
+        "end": 36216,
         "file": "Voice03/03-KB/03-KB-F05/03-KB-F05-0150",
         "layer": 0,
         "persona": "set",
@@ -232,14 +236,14 @@
     },
     {
         "action": "PrintText",
-        "end": 42000,
+        "end": 42083,
         "persona": "Сэкаи",
         "start": 36200,
         "text": "Танцы у костра... Если бы дело было только в них...^"
     },
     {
         "action": "PlayVoice",
-        "end": 42000,
+        "end": 42083,
         "file": "Voice03/03-KB/03-KB-F05/03-KB-F05-0160",
         "layer": 0,
         "persona": "sek",
@@ -247,26 +251,26 @@
     },
     {
         "action": "CreateBG",
-        "end": 39000,
+        "end": 39133,
         "file": "Event03/03-KB/03-KB-F05/03-KB-F05-004",
         "start": 36216
     },
     {
         "action": "CreateBG",
-        "end": 45000,
+        "end": 45016,
         "file": "Event03/03-KB/03-KB-F05/03-KB-F05-005",
         "start": 39133
     },
     {
         "action": "PrintText",
-        "end": 43000,
+        "end": 43050,
         "persona": "Сэцуна",
         "start": 42083,
         "text": "Сэкаи...^"
     },
     {
         "action": "PlayVoice",
-        "end": 43000,
+        "end": 43050,
         "file": "Voice03/03-KB/03-KB-F05/03-KB-F05-0180",
         "layer": 0,
         "persona": "set",
@@ -274,14 +278,14 @@
     },
     {
         "action": "PrintText",
-        "end": 43000,
+        "end": 43316,
         "persona": "Сэкаи",
         "start": 43066,
         "text": "М-м-м?^"
     },
     {
         "action": "PlayVoice",
-        "end": 43000,
+        "end": 43316,
         "file": "Voice03/03-KB/03-KB-F05/03-KB-F05-0190",
         "layer": 0,
         "persona": "sek",
@@ -301,5 +305,9 @@
         "layer": 0,
         "persona": "set",
         "start": 43316
+    },
+    {
+        "action": "Next",
+        "start": 45016
     }
 ]

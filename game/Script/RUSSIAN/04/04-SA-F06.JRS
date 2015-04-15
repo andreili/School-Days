@@ -1,27 +1,31 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 13050
+    },
+    {
         "action": "PlaySe",
-        "end": 19000,
+        "end": 19083,
         "file": "SysSe/SE_all/gaya/kyousitu_rouka",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9016,
         "file": "Event04/04-SA/04-SA-F06/04-SA-F06-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3150,
         "persona": "Макото",
         "start": 83,
         "text": "Ничего не поделаешь... Придётся рассказать.^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3150,
         "file": "Voice04/04-SA/04-SA-F06/04-SA-F06-0030",
         "layer": 1,
         "persona": "xxx",
@@ -44,14 +48,14 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9116,
         "persona": "Макото",
         "start": 5000,
         "text": "Но, блин, нельзя же это в лицо Куроде говорить...^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9116,
         "file": "Voice04/04-SA/04-SA-F06/04-SA-F06-0050",
         "layer": 1,
         "persona": "xxx",
@@ -59,20 +63,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 19000,
+        "end": 19083,
         "file": "Event04/04-SA/04-SA-F06/04-SA-F06-002",
         "start": 9016
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11266,
         "persona": "Хикари",
         "start": 9250,
         "text": "Чего молчишь-то?^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11266,
         "file": "Voice04/04-SA/04-SA-F06/04-SA-F06-0060",
         "layer": 0,
         "persona": "hik",
@@ -80,14 +84,14 @@
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13083,
         "persona": "Макото",
         "start": 11266,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13083,
         "file": "Voice04/04-SA/04-SA-F06/04-SA-F06-0070",
         "layer": 1,
         "persona": "mak",
@@ -97,7 +101,11 @@
         "action": "SetSELECT",
         "answer1": "Рассказать только Сэкаи.",
         "answer2": "NULL",
-        "end": 18000,
+        "end": 18050,
         "start": 13050
+    },
+    {
+        "action": "Next",
+        "start": 19083
     }
 ]

@@ -1,20 +1,24 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 33016
+    },
+    {
         "action": "PlayBgm",
-        "end": 33000,
+        "end": 33016,
         "file": "BGM/SD_BGM/sdbgm06",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 33000,
+        "end": 33016,
         "file": "SysSe/SE_all/gaya/kyousitu_rouka",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1033,
         "file": "Event04/04-SE/04-SE-E03/04-SE-E03-001",
         "start": 0
     },
@@ -35,20 +39,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8083,
         "file": "Event04/04-SE/04-SE-E03/04-SE-E03-002",
         "start": 1033
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4083,
         "persona": "Сэкаи",
         "start": 1033,
         "text": "Значит, всё-таки девушка твоя...^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4083,
         "file": "Voice04/04-SE/04-SE-E03/04-SE-E03-0040",
         "layer": 0,
         "persona": "sek",
@@ -56,14 +60,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4316,
         "persona": "Макото",
         "start": 4083,
         "text": "Э?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4316,
         "file": "Voice04/04-SE/04-SE-E03/04-SE-E03-0050",
         "layer": 1,
         "persona": "mak",
@@ -71,14 +75,14 @@
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8083,
         "persona": "Сэкаи",
         "start": 4316,
         "text": "Като. Ты с ней раньше встречался?^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8083,
         "file": "Voice04/04-SE/04-SE-E03/04-SE-E03-0060",
         "layer": 0,
         "persona": "sek",
@@ -86,20 +90,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 13000,
+        "end": 13066,
         "file": "Event04/04-SE/04-SE-E03/04-SE-E03-003",
         "start": 8083
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11366,
         "persona": "Макото",
         "start": 8083,
         "text": "Э?! Нет, не было между нами ничего!^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11366,
         "file": "Voice04/04-SE/04-SE-E03/04-SE-E03-0070",
         "layer": 1,
         "persona": "mak",
@@ -107,14 +111,14 @@
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13066,
         "persona": "Сэкаи",
         "start": 11366,
         "text": "Ну да, конечно.^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13066,
         "file": "Voice04/04-SE/04-SE-E03/04-SE-E03-0080",
         "layer": 0,
         "persona": "sek",
@@ -122,20 +126,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 33000,
+        "end": 33016,
         "file": "Event04/04-SE/04-SE-E03/04-SE-E03-004",
         "start": 13066
     },
     {
         "action": "PrintText",
-        "end": 25000,
+        "end": 25166,
         "persona": "Макото",
         "start": 13066,
         "text": "В средней школе все между собой дружили: и парни, и девушки. Она просто подруга.^"
     },
     {
         "action": "PlayVoice",
-        "end": 25000,
+        "end": 25166,
         "file": "Voice04/04-SE/04-SE-E03/04-SE-E03-0090",
         "layer": 1,
         "persona": "mak",
@@ -143,14 +147,14 @@
     },
     {
         "action": "PrintText",
-        "end": 26000,
+        "end": 26350,
         "persona": "Сэкаи",
         "start": 25166,
         "text": "Пошляк.^"
     },
     {
         "action": "PlayVoice",
-        "end": 26000,
+        "end": 26350,
         "file": "Voice04/04-SE/04-SE-E03/04-SE-E03-0100",
         "layer": 0,
         "persona": "sek",
@@ -158,14 +162,14 @@
     },
     {
         "action": "PrintText",
-        "end": 30000,
+        "end": 30200,
         "persona": "Макото",
         "start": 26350,
         "text": "Да говорю же, нет! Поверь мне!^"
     },
     {
         "action": "PlayVoice",
-        "end": 30000,
+        "end": 30200,
         "file": "Voice04/04-SE/04-SE-E03/04-SE-E03-0110",
         "layer": 1,
         "persona": "mak",
@@ -173,14 +177,14 @@
     },
     {
         "action": "PrintText",
-        "end": 31000,
+        "end": 31216,
         "persona": "Сэкаи",
         "start": 30200,
         "text": "Отстань.^"
     },
     {
         "action": "PlayVoice",
-        "end": 31000,
+        "end": 31216,
         "file": "Voice04/04-SE/04-SE-E03/04-SE-E03-0120",
         "layer": 0,
         "persona": "sek",
@@ -189,7 +193,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 33000,
+        "end": 33016,
         "start": 32016
+    },
+    {
+        "action": "Next",
+        "start": 33016
     }
 ]

@@ -1,27 +1,31 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 11150
+    },
+    {
         "action": "PlaySe",
-        "end": 11000,
+        "end": 11150,
         "file": "SysSe/SE_all/gaya/kyousitu_rouka",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3166,
         "file": "Event04/04-SA/04-SA-F01/04-SA-F01-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1033,
         "persona": "Макото",
         "start": 66,
         "text": "Какую?^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1033,
         "file": "Voice04/04-SA/04-SA-F01/04-SA-F01-0030",
         "layer": 1,
         "persona": "mak",
@@ -29,14 +33,14 @@
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3150,
         "persona": "Сэкаи",
         "start": 1033,
         "text": "Ну, скорее всего, Хикари.^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3150,
         "file": "Voice04/04-SA/04-SA-F01/04-SA-F01-0040",
         "layer": 0,
         "persona": "sek",
@@ -44,20 +48,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7383,
         "file": "Event04/04-SA/04-SA-F01/04-SA-F01-002",
         "start": 3166
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5116,
         "persona": "Макото",
         "start": 3233,
         "text": "О...^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5116,
         "file": "Voice04/04-SA/04-SA-F01/04-SA-F01-0050",
         "layer": 1,
         "persona": "mak",
@@ -65,14 +69,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6383,
         "persona": "Сэкаи",
         "start": 5133,
         "text": "Ч-чего?^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6383,
         "file": "Voice04/04-SA/04-SA-F01/04-SA-F01-0060",
         "layer": 0,
         "persona": "sek",
@@ -80,14 +84,14 @@
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7300,
         "persona": "Макото",
         "start": 6383,
         "text": "Да так.^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7300,
         "file": "Voice04/04-SA/04-SA-F01/04-SA-F01-0070",
         "layer": 1,
         "persona": "mak",
@@ -95,20 +99,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9066,
         "file": "Event04/04-SA/04-SA-F01/04-SA-F01-002B",
         "start": 7383
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8250,
         "persona": "Сэкаи",
         "start": 8050,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8250,
         "file": "Voice04/04-SA/04-SA-F01/04-SA-F01-0080",
         "layer": 0,
         "persona": "xxx",
@@ -116,20 +120,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 11000,
+        "end": 11150,
         "file": "Event04/04-SA/04-SA-F01/04-SA-F01-002C",
         "start": 9066
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10333,
         "persona": "Макото",
         "start": 9383,
         "text": "Хорошо.^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10333,
         "file": "Voice04/04-SA/04-SA-F01/04-SA-F01-0090",
         "layer": 1,
         "persona": "mak",
@@ -137,17 +141,21 @@
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11116,
         "persona": "Сэкаи",
         "start": 10316,
         "text": "Э?^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11116,
         "file": "Voice04/04-SA/04-SA-F01/04-SA-F01-0100",
         "layer": 0,
         "persona": "sek",
         "start": 10316
+    },
+    {
+        "action": "Next",
+        "start": 11150
     }
 ]

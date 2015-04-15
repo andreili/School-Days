@@ -6,7 +6,7 @@
 
 int convert_time(QString time)
 {
-    QStringList times = time.split(':');
+    QStringList times = time.split(QRegExp("[:;]"), QString::SkipEmptyParts);
     return (times[0].toInt() * 60 +         // minutes
             times[1].toInt()) * 1000 +      //seconds
            (times[2].toFloat() * 16.6667);  // milliseconds
@@ -57,6 +57,7 @@ QScriptAction::QScriptAction(Action action, QStringList *params, QObject *parent
         this->end = convert_time(params->at(3));
         break;
     case PlayBgm:
+    case PlayES:
         this->file_name = params->at(1);
         this->end = convert_time(params->at(2));
         break;
@@ -113,26 +114,27 @@ QString QScriptAction::toString()
     QString body = "";
     switch (this->action)
     {
-    case QScriptAction::SkipFRAME:
-    case QScriptAction::Next:
+    case SkipFRAME:
+    case Next:
         return start + ";\n\n";
-    case QScriptAction::CreateBG:
+    case CreateBG:
         body = "\tBGS\t" + this->file_name + "\t";
         break;
-    case QScriptAction::BlackFade:
-    case QScriptAction::WhiteFade:
+    case BlackFade:
+    case WhiteFade:
         body = "\t" + this->direction + "\t";
         break;
-    case QScriptAction::PlayMovie:
+    case PlayMovie:
         body = "\t" + this->file_name + "\t0\t";
         break;
-    case QScriptAction::PlaySe:
+    case PlaySe:
         body = "\t" + QString::number(this->layer) + "\t" + this->file_name + "\t";
         break;
-    case QScriptAction::PlayBgm:
+    case PlayBgm:
+    case PlayES:
         body = "\t" + this->file_name + "\t";
         break;
-    case QScriptAction::PlayVoice:
+    case PlayVoice:
         if (this->layer == -1)
             body = "\t" + this->file_name + "\t";
         else if (this->persona.length() == 0)
@@ -140,17 +142,17 @@ QString QScriptAction::toString()
         else
             body = "\t" + this->file_name + "\t" + QString::number(this->layer) + "\t" + this->persona + "\t";
         break;
-    case QScriptAction::PrintText:
+    case PrintText:
         body = "\t" + this->persona + "\t" + this->text + "\t";
         break;
-    case QScriptAction::SetSELECT:
+    case SetSELECT:
         body = "\t" + this->answer1 + "\t" + this->answer2 + "\t";
         break;
-    case QScriptAction::EndBGM:
-    case QScriptAction::EndRoll:
+    case EndBGM:
+    case EndRoll:
         body = "\t" + this->file_name + "\t";
         break;
-    case QScriptAction::MoveSom:
+    case MoveSom:
         body = "\t" + QString::number(this->layer) + "\t";
         break;
     }

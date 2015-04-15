@@ -1,5 +1,9 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 10016
+    },
+    {
         "action": "PlayBgm",
         "end": 10000,
         "file": "BGM/SD_BGM/sdbgm19",
@@ -13,14 +17,14 @@
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2350,
         "persona": "Сэкаи",
         "start": 2000,
         "text": "Хех...^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2350,
         "file": "Voice03/03-SB/03-SB-E00/03-SB-E00-0030",
         "layer": 0,
         "persona": "sek",
@@ -28,20 +32,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10016,
         "file": "Event03/03-SB/03-SB-E01/03-SB-E01-002",
         "start": 2000
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9200,
         "persona": "Сэкаи",
         "start": 2350,
         "text": "Всё правильно... Кацура девушка Макото...^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9200,
         "file": "Voice03/03-SB/03-SB-E00/03-SB-E00-0050",
         "layer": 0,
         "persona": "sek",
@@ -49,17 +53,21 @@
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10016,
         "persona": "Сэкаи",
         "start": 9200,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10016,
         "file": "Voice03/03-SB/03-SB-E00/03-SB-E00-0060",
         "layer": 0,
         "persona": "xxx",
         "start": 9200
+    },
+    {
+        "action": "Next",
+        "start": 10016
     }
 ]

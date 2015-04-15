@@ -1,36 +1,44 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 1283
+    },
+    {
         "action": "PlayBgm",
-        "end": 1000,
+        "end": 1283,
         "file": "BGM/SD_BGM/sdbgm03",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 1000,
+        "end": 1283,
         "file": "Se01/01-00/01-00-E00/SE01-00-E00-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1283,
         "file": "Event02/02-2S/02-2S-H09/02-2S-H09-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1283,
         "persona": "Макото",
         "start": 0,
         "text": "Мы с Сэкаи...!^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1283,
         "file": "Voice02/02-2S/02-2S-H09/02-2S-H09-0030",
         "layer": 1,
         "persona": "mak",
         "start": 0
+    },
+    {
+        "action": "Next",
+        "start": 1283
     }
 ]

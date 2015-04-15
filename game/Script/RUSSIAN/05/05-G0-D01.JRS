@@ -1,7 +1,11 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 70333
+    },
+    {
         "action": "PlayBgm",
-        "end": 70000,
+        "end": 70333,
         "file": "BGM/SD_BGM/sdbgm21",
         "start": 0
     },
@@ -13,14 +17,14 @@
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2183,
         "persona": "Макото",
         "start": 0,
         "text": "Она не моя девушка.^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2183,
         "file": "Voice05/05-KB/05-KB-D01/05-KB-D01-0030",
         "layer": 1,
         "persona": "mak",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5083,
         "persona": "Мать Макото",
         "start": 2183,
         "text": "Э?.. Но она так сказала...^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5083,
         "file": "Voice05/05-KB/05-KB-D01/05-KB-D01-0040",
         "layer": 0,
         "persona": "mkm",
@@ -43,14 +47,14 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9283,
         "persona": "Макото",
         "start": 5083,
         "text": "От неё одни проблемы...^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9283,
         "file": "Voice05/05-KB/05-KB-D01/05-KB-D01-0050",
         "layer": 1,
         "persona": "mak",
@@ -58,14 +62,14 @@
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10383,
         "persona": "Мать Макото",
         "start": 9283,
         "text": "Правда?^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10383,
         "file": "Voice05/05-KB/05-KB-D01/05-KB-D01-0060",
         "layer": 0,
         "persona": "mkm",
@@ -73,14 +77,14 @@
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12316,
         "persona": "Макото",
         "start": 10383,
         "text": "Да.^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12316,
         "file": "Voice05/05-KB/05-KB-D01/05-KB-D01-0070",
         "layer": 1,
         "persona": "mak",
@@ -88,14 +92,14 @@
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16066,
         "persona": "Мать Макото",
         "start": 12316,
         "text": "Не похоже было...^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16066,
         "file": "Voice05/05-KB/05-KB-D01/05-KB-D01-0080",
         "layer": 0,
         "persona": "mkm",
@@ -103,20 +107,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 21000,
+        "end": 21050,
         "file": "Event05/05-KB/05-KB-D01/05-KB-D01-002A",
         "start": 16000
     },
     {
         "action": "PrintText",
-        "end": 18000,
+        "end": 18366,
         "persona": "Макото",
         "start": 16066,
         "text": "Скажи, чтобы ушла.^"
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18366,
         "file": "Voice05/05-KB/05-KB-D01/05-KB-D01-0090",
         "layer": 1,
         "persona": "mak",
@@ -124,14 +128,14 @@
     },
     {
         "action": "PrintText",
-        "end": 21000,
+        "end": 21050,
         "persona": "Мать Макото",
         "start": 18366,
         "text": "Хорошо...^"
     },
     {
         "action": "PlayVoice",
-        "end": 21000,
+        "end": 21050,
         "file": "Voice05/05-KB/05-KB-D01/05-KB-D01-0100",
         "layer": 0,
         "persona": "mkm",
@@ -139,27 +143,27 @@
     },
     {
         "action": "PlaySe",
-        "end": 23000,
+        "end": 23166,
         "file": "Se05/05-KB/05-KB-D01/SE05-KB-D01-001",
         "layer": 1,
         "start": 20300
     },
     {
         "action": "CreateBG",
-        "end": 22000,
+        "end": 22183,
         "file": "Event05/05-KB/05-KB-D01/05-KB-D01-002A",
         "start": 21050
     },
     {
         "action": "PrintText",
-        "end": 25000,
+        "end": 25216,
         "persona": "Мать Макото",
         "start": 22166,
         "text": "Ты извини... Макото...^"
     },
     {
         "action": "PlayVoice",
-        "end": 25000,
+        "end": 25216,
         "file": "Voice05/05-KB/05-KB-D01/05-KB-D01-0130",
         "layer": 0,
         "persona": "mkm",
@@ -167,20 +171,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 29000,
+        "end": 29133,
         "file": "Event05/05-KB/05-KB-D01/05-KB-D01-003",
         "start": 22183
     },
     {
         "action": "PrintText",
-        "end": 26000,
+        "end": 26350,
         "persona": "Котоноха",
         "start": 25216,
         "text": "Ничего.^"
     },
     {
         "action": "PlayVoice",
-        "end": 26000,
+        "end": 26350,
         "file": "Voice05/05-KB/05-KB-D01/05-KB-D01-0140",
         "layer": 0,
         "persona": "kot",
@@ -188,14 +192,14 @@
     },
     {
         "action": "PrintText",
-        "end": 29000,
+        "end": 29283,
         "persona": "Мать Макото",
         "start": 26350,
         "text": "И такую-то красавицу...^"
     },
     {
         "action": "PlayVoice",
-        "end": 29000,
+        "end": 29283,
         "file": "Voice05/05-KB/05-KB-D01/05-KB-D01-0150",
         "layer": 0,
         "persona": "mkm",
@@ -203,20 +207,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 45000,
+        "end": 45266,
         "file": "Event05/05-KB/05-KB-D01/05-KB-D01-004",
         "start": 29133
     },
     {
         "action": "PrintText",
-        "end": 40000,
+        "end": 40366,
         "persona": "Котоноха",
         "start": 29283,
         "text": "Просто... Мы с ним в ссоре сейчас... Я думала, что если приду, то помиримся... Но, увы.^"
     },
     {
         "action": "PlayVoice",
-        "end": 40000,
+        "end": 40366,
         "file": "Voice05/05-KB/05-KB-D01/05-KB-D01-0160",
         "layer": 0,
         "persona": "kot",
@@ -224,14 +228,14 @@
     },
     {
         "action": "PrintText",
-        "end": 45000,
+        "end": 45300,
         "persona": "Мать Макото",
         "start": 40366,
         "text": "А... Вот оно как... Ясно...^"
     },
     {
         "action": "PlayVoice",
-        "end": 45000,
+        "end": 45300,
         "file": "Voice05/05-KB/05-KB-D01/05-KB-D01-0170",
         "layer": 0,
         "persona": "mkm",
@@ -239,20 +243,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 49000,
+        "end": 49083,
         "file": "Event05/05-KB/05-KB-D01/05-KB-D01-005",
         "start": 45266
     },
     {
         "action": "PrintText",
-        "end": 48000,
+        "end": 48050,
         "persona": "Котоноха",
         "start": 45316,
         "text": "Ну, я пойду тогда.^"
     },
     {
         "action": "PlayVoice",
-        "end": 48000,
+        "end": 48050,
         "file": "Voice05/05-KB/05-KB-D01/05-KB-D01-0180",
         "layer": 0,
         "persona": "kot",
@@ -260,14 +264,14 @@
     },
     {
         "action": "PrintText",
-        "end": 49000,
+        "end": 49150,
         "persona": "Мать Макото",
         "start": 48050,
         "text": "Береги себя.^"
     },
     {
         "action": "PlayVoice",
-        "end": 49000,
+        "end": 49150,
         "file": "Voice05/05-KB/05-KB-D01/05-KB-D01-0190",
         "layer": 0,
         "persona": "mkm",
@@ -275,20 +279,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 61000,
+        "end": 61050,
         "file": "Event05/05-KB/05-KB-D01/05-KB-D01-007",
         "start": 49083
     },
     {
         "action": "PrintText",
-        "end": 50000,
+        "end": 50033,
         "persona": "Котоноха",
         "start": 49133,
         "text": "Хорошо.^"
     },
     {
         "action": "PlayVoice",
-        "end": 50000,
+        "end": 50033,
         "file": "Voice05/05-KB/05-KB-D01/05-KB-D01-0200",
         "layer": 0,
         "persona": "kot",
@@ -296,14 +300,14 @@
     },
     {
         "action": "PrintText",
-        "end": 53000,
+        "end": 53150,
         "persona": "Мать Макото",
         "start": 50033,
         "text": "Так... Котоноха, да?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 53000,
+        "end": 53150,
         "file": "Voice05/05-KB/05-KB-D01/05-KB-D01-0210",
         "layer": 0,
         "persona": "mkm",
@@ -311,14 +315,14 @@
     },
     {
         "action": "PrintText",
-        "end": 54000,
+        "end": 54033,
         "persona": "Котоноха",
         "start": 53150,
         "text": "Да.^"
     },
     {
         "action": "PlayVoice",
-        "end": 54000,
+        "end": 54033,
         "file": "Voice05/05-KB/05-KB-D01/05-KB-D01-0220",
         "layer": 0,
         "persona": "kot",
@@ -326,14 +330,14 @@
     },
     {
         "action": "PrintText",
-        "end": 59000,
+        "end": 59116,
         "persona": "Мать Макото",
         "start": 54050,
         "text": "Ну, сама знаешь какой он... Сам-то по себе неплохой, но... Вы уж там помиритесь как-нибудь.^"
     },
     {
         "action": "PlayVoice",
-        "end": 59000,
+        "end": 59116,
         "file": "Voice05/05-KB/05-KB-D01/05-KB-D01-0230",
         "layer": 0,
         "persona": "mkm",
@@ -341,14 +345,14 @@
     },
     {
         "action": "PrintText",
-        "end": 60000,
+        "end": 60216,
         "persona": "Котоноха",
         "start": 59116,
         "text": "Хорошо.^"
     },
     {
         "action": "PlayVoice",
-        "end": 60000,
+        "end": 60216,
         "file": "Voice05/05-KB/05-KB-D01/05-KB-D01-0240",
         "layer": 0,
         "persona": "kot",
@@ -356,36 +360,40 @@
     },
     {
         "action": "PlaySe",
-        "end": 63000,
+        "end": 63266,
         "file": "Se05/05-KB/05-KB-D01/SE05-KB-D01-002",
         "layer": 1,
         "start": 61050
     },
     {
         "action": "CreateBG",
-        "end": 63000,
+        "end": 63083,
         "file": "Event05/05-KB/05-KB-D01/05-KB-D01-009",
         "start": 61050
     },
     {
         "action": "CreateBG",
-        "end": 70000,
+        "end": 70333,
         "file": "Event05/05-KB/05-KB-D01/05-KB-D01-009",
         "start": 63083
     },
     {
         "action": "PrintText",
-        "end": 70000,
+        "end": 70083,
         "persona": "Мать Макото",
         "start": 64166,
         "text": "Такая воспитанная девочка... А Макото-то...^"
     },
     {
         "action": "PlayVoice",
-        "end": 70000,
+        "end": 70083,
         "file": "Voice05/05-KB/05-KB-D01/05-KB-D01-0260",
         "layer": 0,
         "persona": "mkm",
         "start": 64166
+    },
+    {
+        "action": "Next",
+        "start": 70333
     }
 ]

@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 12116
+    },
+    {
         "action": "PlayBgm",
-        "end": 12000,
+        "end": 12116,
         "file": "BGM/SD_BGM/sdbgm21",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 12000,
+        "end": 12116,
         "file": "SysSe/SE_all/gaya/okujou",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1250,
         "file": "Event05/05-KA/05-KA-C02/05-KA-C02-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1233,
         "persona": "Макото",
         "start": 0,
         "text": "Я был с Котонохой.^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1233,
         "file": "Voice05/05-KA/05-KA-C02/05-KA-C02-0030",
         "layer": 1,
         "persona": "mak",
@@ -35,20 +39,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2350,
         "file": "Event05/05-KA/05-KA-C02/05-KA-C02-002",
         "start": 1250
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2300,
         "persona": "Сэкаи",
         "start": 1250,
         "text": "А я в курсе...^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2300,
         "file": "Voice05/05-KA/05-KA-C02/05-KA-C02-0040",
         "layer": 0,
         "persona": "sek",
@@ -56,20 +60,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3233,
         "file": "Event05/05-KA/05-KA-C02/05-KA-C02-003",
         "start": 2350
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3200,
         "persona": "Макото",
         "start": 2350,
         "text": "Что?^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3200,
         "file": "Voice05/05-KA/05-KA-C02/05-KA-C02-0050",
         "layer": 1,
         "persona": "mak",
@@ -77,20 +81,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 11000,
+        "end": 11166,
         "file": "Event05/05-KA/05-KA-C02/05-KA-C02-004",
         "start": 3233
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11150,
         "persona": "Сэкаи",
         "start": 3233,
         "text": "У дома с привидениями третьего класса... Внутри комнатка с кроватью... Там вы с Кацурой и трахались!^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11150,
         "file": "Voice05/05-KA/05-KA-C02/05-KA-C02-0060",
         "layer": 0,
         "persona": "sek",
@@ -98,23 +102,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12116,
         "file": "Event05/05-KA/05-KA-C02/05-KA-C02-005",
         "start": 11166
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12100,
         "persona": "Макото",
         "start": 11183,
         "text": "Чего?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12100,
         "file": "Voice05/05-KA/05-KA-C02/05-KA-C02-0070",
         "layer": 1,
         "persona": "mak",
         "start": 11183
+    },
+    {
+        "action": "Next",
+        "start": 12116
     }
 ]

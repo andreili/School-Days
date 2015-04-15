@@ -1,13 +1,17 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 29116
+    },
+    {
         "action": "PlayBgm",
-        "end": 29000,
+        "end": 29116,
         "file": "BGM/SD_BGM/sdbgm06",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 29000,
+        "end": 29116,
         "file": "Voice00/00-00/00-00-B01/00-00-B01-0070a_A",
         "layer": 3,
         "start": 0
@@ -26,14 +30,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4216,
         "persona": "Макото",
         "start": 3150,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4216,
         "file": "Voice00/00-00/00-00-B01/00-00-B01-0090",
         "layer": 1,
         "persona": "xxx",
@@ -41,14 +45,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6050,
         "persona": "Макото",
         "start": 4233,
         "text": "Что она задумала?^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6050,
         "file": "Voice00/00-00/00-00-B01/00-00-B01-0100",
         "layer": 1,
         "persona": "xxx",
@@ -56,14 +60,14 @@
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10016,
         "persona": "Макото",
         "start": 6300,
         "text": "Может быть, она уже кому-нибудь рассказала?^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10016,
         "file": "Voice00/00-00/00-00-B01/00-00-B01-0110",
         "layer": 1,
         "persona": "xxx",
@@ -71,7 +75,7 @@
     },
     {
         "action": "PlayMovie",
-        "end": 16000,
+        "end": 16200,
         "file": "Movie00/00-00/00-00-B01/00-00-B01-003",
         "start": 11000
     },
@@ -84,40 +88,40 @@
     },
     {
         "action": "PlayMovie",
-        "end": 18000,
+        "end": 18266,
         "file": "Movie00/00-00/00-00-B01/00-00-B01-004",
         "start": 16200
     },
     {
         "action": "PlaySe",
-        "end": 17000,
+        "end": 17300,
         "file": "Se00/00-00/00-00-B01/SE00-00-B01-002",
         "layer": 1,
         "start": 16383
     },
     {
         "action": "PlaySe",
-        "end": 20000,
+        "end": 20333,
         "file": "Se00/00-00/00-00-B01/SE00-00-B01-003",
         "layer": 2,
         "start": 17350
     },
     {
         "action": "PlayMovie",
-        "end": 21000,
+        "end": 21166,
         "file": "Movie00/00-00/00-00-B01/00-00-B01-005",
         "start": 18266
     },
     {
         "action": "PrintText",
-        "end": 21000,
+        "end": 21200,
         "persona": "Макото",
         "start": 19350,
         "text": "Эй! Эй! Эй!^"
     },
     {
         "action": "PlayVoice",
-        "end": 21000,
+        "end": 21200,
         "file": "Voice00/00-00/00-00-B01/00-00-B01-0140",
         "layer": 1,
         "persona": "xxx",
@@ -125,26 +129,26 @@
     },
     {
         "action": "PlayMovie",
-        "end": 24000,
+        "end": 24350,
         "file": "Movie00/00-00/00-00-B01/00-00-B01-006",
         "start": 21166
     },
     {
         "action": "CreateBG",
-        "end": 29000,
+        "end": 29116,
         "file": "Event00/00-00/00-00-B01/00-00-B01-007",
         "start": 24350
     },
     {
         "action": "PrintText",
-        "end": 26000,
+        "end": 26250,
         "persona": "Макото",
         "start": 25083,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 26000,
+        "end": 26250,
         "file": "Voice00/00-00/00-00-B01/00-00-B01-0170",
         "layer": 1,
         "persona": "mak",
@@ -153,7 +157,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 29000,
+        "end": 29116,
         "start": 28316
+    },
+    {
+        "action": "Next",
+        "start": 29116
     }
 ]

@@ -1,13 +1,17 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 9066
+    },
+    {
         "action": "PlayBgm",
-        "end": 9000,
+        "end": 9066,
         "file": "BGM/SD_BGM/sdbgm07",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 9000,
+        "end": 9066,
         "file": "Se03/03-SB/03-SB-A07/SE03-SB-A07-001",
         "layer": 1,
         "start": 0
@@ -20,14 +24,14 @@
     },
     {
         "action": "PrintText",
-        "end": 0,
+        "end": 383,
         "persona": "Макото",
         "start": 200,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 0,
+        "end": 383,
         "file": "Voice03/03-SB/03-SB-A07/03-SB-A07-0030",
         "layer": 1,
         "persona": "xxx",
@@ -35,20 +39,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3133,
         "file": "Event03/03-SB/03-SB-A07/03-SB-A07-002",
         "start": 1000
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3116,
         "persona": "Сэкаи",
         "start": 1000,
         "text": "Ты что-то сказал?^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3116,
         "file": "Voice03/03-SB/03-SB-A07/03-SB-A07-0040",
         "layer": 0,
         "persona": "sek",
@@ -56,14 +60,14 @@
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3366,
         "persona": "Макото",
         "start": 3116,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3366,
         "file": "Voice03/03-SB/03-SB-A07/03-SB-A07-0050",
         "layer": 1,
         "persona": "xxx",
@@ -71,26 +75,26 @@
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3366,
         "file": "Event03/03-SB/03-SB-A07/03-SB-A07-003",
         "start": 3133
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6233,
         "file": "Event03/03-SB/03-SB-A07/03-SB-A07-004",
         "start": 3350
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6233,
         "persona": "Сэкаи",
         "start": 3366,
         "text": "Трудно, правда?^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6233,
         "file": "Voice03/03-SB/03-SB-A07/03-SB-A07-0060",
         "layer": 0,
         "persona": "sek",
@@ -98,20 +102,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9066,
         "file": "Event03/03-SB/03-SB-A07/03-SB-A07-005",
         "start": 6233
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8033,
         "persona": "Макото",
         "start": 6233,
         "text": "Да...^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8033,
         "file": "Voice03/03-SB/03-SB-A07/03-SB-A07-0070",
         "layer": 1,
         "persona": "mak",
@@ -119,17 +123,21 @@
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8350,
         "persona": "Сэкаи",
         "start": 8033,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8350,
         "file": "Voice03/03-SB/03-SB-A07/03-SB-A07-0080",
         "layer": 0,
         "persona": "xxx",
         "start": 8033
+    },
+    {
+        "action": "Next",
+        "start": 9066
     }
 ]

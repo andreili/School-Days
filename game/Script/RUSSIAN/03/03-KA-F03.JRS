@@ -1,7 +1,11 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 8350
+    },
+    {
         "action": "PlayBgm",
-        "end": 8000,
+        "end": 8350,
         "file": "BGM/SD_BGM/sdbgm33",
         "start": 0
     },
@@ -13,14 +17,14 @@
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1133,
         "persona": "Макото",
         "start": 0,
         "text": "...^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1133,
         "file": "Voice03/03-KA/03-KA-F03/03-KA-F03-0030",
         "layer": 1,
         "persona": "xxx",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5283,
         "persona": "Макото",
         "start": 1383,
         "text": "А и ладно, не буду сегодня отвечать.^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5283,
         "file": "Voice03/03-KA/03-KA-F03/03-KA-F03-0040",
         "layer": 1,
         "persona": "mak",
@@ -43,20 +47,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8350,
         "file": "Event03/03-KA/03-KA-F03/03-KA-F03-002",
         "start": 6000
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7150,
         "persona": "Макото",
         "start": 6150,
         "text": "Спать пора...^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7150,
         "file": "Voice03/03-KA/03-KA-F03/03-KA-F03-0050",
         "layer": 1,
         "persona": "mak",
@@ -65,7 +69,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 8000,
+        "end": 8350,
         "start": 7350
+    },
+    {
+        "action": "Next",
+        "start": 8350
     }
 ]

@@ -1,7 +1,11 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 46383
+    },
+    {
         "action": "PlaySe",
-        "end": 14000,
+        "end": 14283,
         "file": "Se05/05-G0/05-G0-A00/SE05-G0-A00-0001",
         "layer": 1,
         "start": 0
@@ -14,26 +18,26 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9366,
         "file": "Event05/05-G0/05-G0-A00/05-G0-A00-003",
         "start": 5000
     },
     {
         "action": "CreateBG",
-        "end": 16000,
+        "end": 16283,
         "file": "Event05/05-G0/05-G0-A00/05-G0-A00-002",
         "start": 9366
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16200,
         "persona": "Котоноха",
         "start": 10066,
         "text": "Вон до чего уже дошла... Сразу видно, Саиёндзи.^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16200,
         "file": "Voice05/05-G0/05-G0-A00/05-G0-A00-0050",
         "layer": 0,
         "persona": "kot",
@@ -41,27 +45,27 @@
     },
     {
         "action": "PlaySe",
-        "end": 14000,
+        "end": 14250,
         "file": "SysSe/SE_all/keitai/keitai_push2",
         "layer": 2,
         "start": 14183
     },
     {
         "action": "CreateBG",
-        "end": 35000,
+        "end": 35016,
         "file": "Event05/05-G0/05-G0-A00/05-G0-A00-005",
         "start": 16283
     },
     {
         "action": "PrintText",
-        "end": 21000,
+        "end": 21233,
         "persona": "Котоноха",
         "start": 18216,
         "text": "Мне-то её уж точно не обойти...^"
     },
     {
         "action": "PlayVoice",
-        "end": 21000,
+        "end": 21233,
         "file": "Voice05/05-G0/05-G0-A00/05-G0-A00-0060",
         "layer": 0,
         "persona": "kot",
@@ -69,14 +73,14 @@
     },
     {
         "action": "PrintText",
-        "end": 33000,
+        "end": 33350,
         "persona": "Котоноха",
         "start": 23250,
         "text": "Днём я не вытерпела, наговорила всякого... Но сейчас-то Макото с ней встречается. И любит её.^"
     },
     {
         "action": "PlayVoice",
-        "end": 33000,
+        "end": 33350,
         "file": "Voice05/05-G0/05-G0-A00/05-G0-A00-0070",
         "layer": 0,
         "persona": "kot",
@@ -84,13 +88,13 @@
     },
     {
         "action": "CreateBG",
-        "end": 46000,
+        "end": 46383,
         "file": "Event05/05-G0/05-G0-A00/05-G0-A00-002",
         "start": 35016
     },
     {
         "action": "PlayVoice",
-        "end": 36000,
+        "end": 36250,
         "file": "Voice05/05-G0/05-G0-A00/05-G0-A00-0080",
         "layer": -1,
         "persona": "",
@@ -98,14 +102,14 @@
     },
     {
         "action": "PrintText",
-        "end": 41000,
+        "end": 41316,
         "persona": "Котоноха",
         "start": 37300,
         "text": "Эх... Нужно сильнее стараться.^"
     },
     {
         "action": "PlayVoice",
-        "end": 41000,
+        "end": 41316,
         "file": "Voice05/05-G0/05-G0-A00/05-G0-A00-0090",
         "layer": 0,
         "persona": "kot",
@@ -113,14 +117,14 @@
     },
     {
         "action": "PrintText",
-        "end": 45000,
+        "end": 45050,
         "persona": "Котоноха",
         "start": 42216,
         "text": "Ведь я уже решила, что не уступлю.^"
     },
     {
         "action": "PlayVoice",
-        "end": 45000,
+        "end": 45050,
         "file": "Voice05/05-G0/05-G0-A00/05-G0-A00-0100",
         "layer": 0,
         "persona": "kot",
@@ -129,7 +133,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 46000,
+        "end": 46383,
         "start": 45150
+    },
+    {
+        "action": "Next",
+        "start": 46383
     }
 ]

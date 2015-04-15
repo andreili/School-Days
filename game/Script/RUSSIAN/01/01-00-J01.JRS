@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 15216
+    },
+    {
         "action": "PlayBgm",
-        "end": 21000,
+        "end": 21250,
         "file": "BGM/SD_BGM/sdbgm07",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 21000,
+        "end": 21250,
         "file": "Se01/01-00/01-00-B00/SE01-00-B00-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4066,
         "file": "Event01/01-00/01-00-J00/01-00-J00-002",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1300,
         "persona": "Макото",
         "start": 366,
         "text": "Кацура!^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1300,
         "file": "Voice01/01-00/01-00-J01/01-00-J01-0030",
         "layer": 1,
         "persona": "mak",
@@ -35,14 +39,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4033,
         "persona": "Котоноха",
         "start": 2050,
         "text": "А... Ито?^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4033,
         "file": "Voice01/01-00/01-00-J01/01-00-J01-0050",
         "layer": 0,
         "persona": "kot",
@@ -50,20 +54,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5083,
         "file": "Event01/01-00/01-00-J01/01-00-J01-002",
         "start": 4066
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5100,
         "persona": "Макото",
         "start": 4100,
         "text": "Я хотел кое-что спросить...^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5100,
         "file": "Voice01/01-00/01-00-J01/01-00-J01-0060",
         "layer": 1,
         "persona": "mak",
@@ -71,20 +75,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12366,
         "file": "Event01/01-00/01-00-J01/01-00-J01-003",
         "start": 5083
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9116,
         "persona": "Котоноха",
         "start": 5083,
         "text": "Но у меня сейчас...^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9116,
         "file": "Voice01/01-00/01-00-J01/01-00-J01-0070",
         "layer": 0,
         "persona": "kot",
@@ -107,20 +111,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 21000,
+        "end": 21250,
         "file": "Event01/01-00/01-00-J01/01-00-J01-004",
         "start": 12366
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13283,
         "persona": "Котоноха",
         "start": 12366,
         "text": "Хорошо.^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13283,
         "file": "Voice01/01-00/01-00-J01/01-00-J01-0090",
         "layer": 0,
         "persona": "kot",
@@ -128,14 +132,14 @@
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15366,
         "persona": "Макото",
         "start": 13266,
         "text": "Слушай...^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15366,
         "file": "Voice01/01-00/01-00-J01/01-00-J01-0100",
         "layer": 1,
         "persona": "mak",
@@ -145,7 +149,11 @@
         "action": "SetSELECT",
         "answer1": "Прости меня!^",
         "answer2": "Тебе было со мной скучно?^",
-        "end": 20000,
+        "end": 20216,
         "start": 15216
+    },
+    {
+        "action": "Next",
+        "start": 21250
     }
 ]

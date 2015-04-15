@@ -1,13 +1,17 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 16350
+    },
+    {
         "action": "PlayBgm",
-        "end": 16000,
+        "end": 16350,
         "file": "BGM/SD_BGM/sdbgm20",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 16000,
+        "end": 16350,
         "file": "Se01/01-00/01-00-E00/SE01-00-E00-001",
         "layer": 1,
         "start": 0
@@ -20,26 +24,26 @@
     },
     {
         "action": "CreateBG",
-        "end": 13000,
+        "end": 13050,
         "file": "Event01/01-1K/01-1K-J00/01-1K-J00-002",
         "start": 10000
     },
     {
         "action": "CreateBG",
-        "end": 16000,
+        "end": 16350,
         "file": "Event01/01-1K/01-1K-J00/01-1K-J00-003",
         "start": 13050
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14183,
         "persona": "Макото",
         "start": 13233,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14183,
         "file": "Voice01/01-1K/01-1K-J00/01-1K-J00-0040",
         "layer": 1,
         "persona": "xxx",
@@ -48,7 +52,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 16000,
+        "end": 16350,
         "start": 15350
+    },
+    {
+        "action": "Next",
+        "start": 16350
     }
 ]

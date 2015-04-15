@@ -1,7 +1,11 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 70016
+    },
+    {
         "action": "PlayBgm",
-        "end": 70000,
+        "end": 70016,
         "file": "BGM/SD_BGM/sdbgm33",
         "start": 0
     },
@@ -19,20 +23,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 28000,
+        "end": 28150,
         "file": "Event05/05-SB/05-SB-I00/05-SB-I00-003",
         "start": 20000
     },
     {
         "action": "PrintText",
-        "end": 21000,
+        "end": 21250,
         "persona": "Котоноха",
         "start": 20166,
         "text": "Макото.^"
     },
     {
         "action": "PlayVoice",
-        "end": 21000,
+        "end": 21250,
         "file": "Voice05/05-SB/05-SB-I00/05-SB-I00-0070",
         "layer": 0,
         "persona": "kot",
@@ -40,14 +44,14 @@
     },
     {
         "action": "PrintText",
-        "end": 24000,
+        "end": 24366,
         "persona": "Макото",
         "start": 22033,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 24000,
+        "end": 24366,
         "file": "Voice05/05-SB/05-SB-I00/05-SB-I00-0090",
         "layer": 1,
         "persona": "xxx",
@@ -55,14 +59,14 @@
     },
     {
         "action": "PrintText",
-        "end": 31000,
+        "end": 31266,
         "persona": "Котоноха",
         "start": 25200,
         "text": "Не смотри так на меня... Стесняюсь ведь.^"
     },
     {
         "action": "PlayVoice",
-        "end": 31000,
+        "end": 31266,
         "file": "Voice05/05-SB/05-SB-I00/05-SB-I00-0100",
         "layer": 0,
         "persona": "kot",
@@ -70,26 +74,26 @@
     },
     {
         "action": "CreateBG",
-        "end": 31000,
+        "end": 31183,
         "file": "Event05/05-SB/05-SB-I00/05-SB-I00-004",
         "start": 28150
     },
     {
         "action": "PlayMovie",
-        "end": 38000,
+        "end": 38283,
         "file": "Movie05/05-KF/05-KF-L00/05-KF-L00-005",
         "start": 31183
     },
     {
         "action": "PrintText",
-        "end": 35000,
+        "end": 35150,
         "persona": "Макото",
         "start": 32083,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 35000,
+        "end": 35150,
         "file": "Voice05/05-SB/05-SB-I00/05-SB-I00-0110",
         "layer": 1,
         "persona": "xxx",
@@ -97,20 +101,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 54000,
+        "end": 54066,
         "file": "Movie05/05-SB/05-SB-I00/05-SB-I00-005",
         "start": 38283
     },
     {
         "action": "PrintText",
-        "end": 47000,
+        "end": 47066,
         "persona": "Котоноха",
         "start": 39166,
         "text": "Л-лучший на свете Сочельник... У нас...^"
     },
     {
         "action": "PlayVoice",
-        "end": 47000,
+        "end": 47066,
         "file": "Voice05/05-SB/05-SB-I00/05-SB-I00-0140",
         "layer": 0,
         "persona": "kot",
@@ -118,14 +122,14 @@
     },
     {
         "action": "PrintText",
-        "end": 52000,
+        "end": 52283,
         "persona": "Котоноха",
         "start": 47183,
         "text": "Макото... Люблю...^"
     },
     {
         "action": "PlayVoice",
-        "end": 52000,
+        "end": 52283,
         "file": "Voice05/05-SB/05-SB-I00/05-SB-I00-0160",
         "layer": 0,
         "persona": "kot",
@@ -133,20 +137,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 57000,
+        "end": 57350,
         "file": "Event05/05-SB/05-SB-I00/05-SB-I00-006",
         "start": 54066
     },
     {
         "action": "PrintText",
-        "end": 57000,
+        "end": 57116,
         "persona": "Макото",
         "start": 54250,
         "text": "Я...^"
     },
     {
         "action": "PlayVoice",
-        "end": 57000,
+        "end": 57116,
         "file": "Voice05/05-SB/05-SB-I00/05-SB-I00-0170",
         "layer": 1,
         "persona": "mak",
@@ -154,14 +158,18 @@
     },
     {
         "action": "PlayMovie",
-        "end": 66000,
+        "end": 66016,
         "file": "Movie05/05-KF/05-KF-L00/05-KF-L00-010",
         "start": 57350
     },
     {
         "action": "PlayMovie",
-        "end": 70000,
+        "end": 70016,
         "file": "Movie05/05-SB/05-SB-I00/05-SB-I00-001",
         "start": 66016
+    },
+    {
+        "action": "Next",
+        "start": 70016
     }
 ]

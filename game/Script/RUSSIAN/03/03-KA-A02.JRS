@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 13350
+    },
+    {
         "action": "PlayBgm",
-        "end": 13000,
+        "end": 13333,
         "file": "BGM/SD_BGM/sdbgm16",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7333,
         "file": "Event03/03-KA/03-KA-A02/03-KA-A02-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2183,
         "persona": "Макото",
         "start": 0,
         "text": "Ну, теперь у тебя есть я!^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2183,
         "file": "Voice03/03-KA/03-KA-A02/03-KA-A02-0030",
         "layer": 1,
         "persona": "mak",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3033,
         "persona": "Котоноха",
         "start": 2116,
         "text": "Э?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3033,
         "file": "Voice03/03-KA/03-KA-A02/03-KA-A02-0040",
         "layer": 0,
         "persona": "kot",
@@ -43,14 +47,14 @@
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5083,
         "persona": "Макото",
         "start": 2350,
         "text": "Или этого недостаточно?^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5083,
         "file": "Voice03/03-KA/03-KA-A02/03-KA-A02-0050",
         "layer": 1,
         "persona": "mak",
@@ -58,14 +62,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6100,
         "persona": "Котоноха",
         "start": 4366,
         "text": "Нет!^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6100,
         "file": "Voice03/03-KA/03-KA-A02/03-KA-A02-0060",
         "layer": 0,
         "persona": "kot",
@@ -73,14 +77,14 @@
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7216,
         "persona": "Макото",
         "start": 6183,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7216,
         "file": "Voice03/03-KA/03-KA-A02/03-KA-A02-0070",
         "layer": 1,
         "persona": "xxx",
@@ -88,20 +92,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12116,
         "file": "Event03/03-KA/03-KA-A02/03-KA-A02-002",
         "start": 7333
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12100,
         "persona": "Котоноха",
         "start": 8000,
         "text": "Ну что ты! Кроме тебя мне больше никто не нужен!^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12100,
         "file": "Voice03/03-KA/03-KA-A02/03-KA-A02-0080",
         "layer": 0,
         "persona": "kot",
@@ -109,23 +113,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 13000,
+        "end": 13350,
         "file": "Event03/03-KA/03-KA-A02/03-KA-A02-003",
         "start": 12116
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13216,
         "persona": "Макото",
         "start": 12133,
         "text": "Котоноха...^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13216,
         "file": "Voice03/03-KA/03-KA-A02/03-KA-A02-0090",
         "layer": 1,
         "persona": "mak",
         "start": 12133
+    },
+    {
+        "action": "Next",
+        "start": 13350
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 120000
+    },
+    {
         "action": "PlayBgm",
         "end": 13000,
         "file": "BGM/SD_BGM/sdbgm20",
@@ -7,20 +11,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9250,
         "file": "Event04/04-C0/04-C0-I05/04-C0-I05-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1166,
         "persona": "Макото",
         "start": 83,
         "text": "Ушла?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1166,
         "file": "Voice04/04-C0/04-C0-I05/04-C0-I05-0070",
         "layer": 1,
         "persona": "mak",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2266,
         "persona": "Макото",
         "start": 2000,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2266,
         "file": "Voice04/04-C0/04-C0-I05/04-C0-I05-0080",
         "layer": 1,
         "persona": "xxx",
@@ -43,20 +47,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 13000,
+        "end": 13016,
         "file": "Event04/04-C0/04-C0-I05/04-C0-I05-002",
         "start": 9250
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12166,
         "persona": "Макото",
         "start": 9300,
         "text": "Прости, Котоноха...^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12166,
         "file": "Voice04/04-C0/04-C0-I05/04-C0-I05-0090",
         "layer": 1,
         "persona": "mak",
@@ -73,5 +77,9 @@
         "end": 120000,
         "file": "Movie04/ENDROLL/05-3",
         "start": 13016
+    },
+    {
+        "action": "Next",
+        "start": 121000
     }
 ]

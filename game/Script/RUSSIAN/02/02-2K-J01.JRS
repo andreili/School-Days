@@ -1,13 +1,17 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 9150
+    },
+    {
         "action": "PlayBgm",
-        "end": 9000,
+        "end": 9150,
         "file": "BGM/SD_BGM/sdbgm07",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 9000,
+        "end": 9150,
         "file": "Se01/01-1K/01-1K-F00/SE01-1K-F00-001",
         "layer": 2,
         "start": 0
@@ -20,14 +24,14 @@
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1266,
         "persona": "Макото",
         "start": 0,
         "text": "А почему ты сегодня так рано?^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1266,
         "file": "Voice02/02-2K/02-2K-J01/02-2K-J01-0030",
         "layer": 1,
         "persona": "mak",
@@ -35,14 +39,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4033,
         "persona": "Котоноха",
         "start": 1266,
         "text": "Я хотела с тобой вместе...^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4033,
         "file": "Voice02/02-2K/02-2K-J01/02-2K-J01-0040",
         "layer": 0,
         "persona": "kot",
@@ -50,27 +54,27 @@
     },
     {
         "action": "PlaySe",
-        "end": 4000,
+        "end": 4366,
         "file": "Voice02/02-2K/02-2K-J01/02-2K-J01-0050",
         "layer": 1,
         "start": 4050
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9150,
         "file": "Event02/02-2K/02-2K-J01/02-2K-J01-003",
         "start": 5000
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8050,
         "persona": "Макото",
         "start": 5000,
         "text": "Понятно...^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8050,
         "file": "Voice02/02-2K/02-2K-J01/02-2K-J01-0060",
         "layer": 1,
         "persona": "mak",
@@ -78,9 +82,13 @@
     },
     {
         "action": "PlaySe",
-        "end": 8000,
+        "end": 8233,
         "file": "Voice02/02-2K/02-2K-J01/02-2K-J01-0070",
         "layer": 1,
         "start": 8033
+    },
+    {
+        "action": "Next",
+        "start": 9150
     }
 ]

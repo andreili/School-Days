@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 20066
+    },
+    {
         "action": "PlayBgm",
-        "end": 20000,
+        "end": 20066,
         "file": "BGM/SD_BGM/sdbgm21",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 20000,
+        "end": 20066,
         "file": "Event03/03-SB/03-SB-A01/03-SB-A01-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4083,
         "persona": "Макото",
         "start": 0,
         "text": "Каждый день с тех пор мы были вместе...^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4083,
         "file": "Voice03/03-SB/03-SB-A01/03-SB-A01-0030",
         "layer": 1,
         "persona": "xxx",
@@ -28,26 +32,26 @@
     },
     {
         "action": "MoveSom",
-        "end": 10000,
+        "end": 10200,
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 9000,
+        "end": 9316,
         "file": "SysSe/SE_all/h/h_02",
         "layer": 1,
         "start": 1366
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7333,
         "persona": "Сэкаи",
         "start": 2216,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7333,
         "file": "Voice03/03-SB/03-SB-A01/03-SB-A01-0040",
         "layer": 0,
         "persona": "sek",
@@ -55,14 +59,14 @@
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15016,
         "persona": "Макото",
         "start": 6150,
         "text": "После уроков мы шли домой к ней или ко мне и любили друг друга.^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15016,
         "file": "Voice03/03-SB/03-SB-A01/03-SB-A01-0050",
         "layer": 1,
         "persona": "xxx",
@@ -70,26 +74,26 @@
     },
     {
         "action": "PlaySe",
-        "end": 17000,
+        "end": 17283,
         "file": "SysSe/SE_all/h/h_02",
         "layer": 1,
         "start": 9316
     },
     {
         "action": "MoveSom",
-        "end": 20000,
+        "end": 20066,
         "start": 10200
     },
     {
         "action": "PrintText",
-        "end": 18000,
+        "end": 18216,
         "persona": "Сэкаи",
         "start": 13316,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18216,
         "file": "Voice03/03-SB/03-SB-A01/03-SB-A01-0060",
         "layer": 0,
         "persona": "sek",
@@ -97,9 +101,13 @@
     },
     {
         "action": "PlaySe",
-        "end": 20000,
+        "end": 20066,
         "file": "SysSe/SE_all/h/h_02",
         "layer": 1,
         "start": 17283
+    },
+    {
+        "action": "Next",
+        "start": 20066
     }
 ]

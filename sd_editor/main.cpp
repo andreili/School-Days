@@ -15,7 +15,7 @@ int main(int argc, char *argv[])
     if (argc < 1)
         return 1;
 
-    QString path = "/media/work/Dev/Games/SD/_/Script/ENGLISH";
+    QString path = "/media/work/Dev/Games/LD/ENGLISH";
     //QString path = argv[1];
     QDir dirs(path);
     dirs.setFilter(QDir::Dirs);
@@ -40,11 +40,11 @@ int main(int argc, char *argv[])
                 qDebug() << "open";
                 script->load_from_ORS(&scr);
                 qDebug() << "export";
-                script->export_txt(fn + ".txt");
+                script->export_txt("/media/work/Dev/Games/LD/ENGLISH/txt/"+ file.replace(".ENG.ORS", "") + ".txt");
                 qDebug() << "import";
-                script->import_txt(fn + ".txt");
+                script->import_txt("/media/work/Dev/Games/LD/ENGLISH/txt/"+ file.replace(".ENG.ORS", "") + ".txt");
                 qDebug() << "to jrs";
-                QFile jrs(fn.replace(".ENG.ORS", ".JRS"));
+                QFile jrs("/media/work/Dev/Games/LD/ENGLISH/jrs/" + file.replace(".ENG.ORS", ".JRS"));
                 jrs.open(QFile::WriteOnly);
                 QTextStream str(&jrs);
                 str << script->serialize();

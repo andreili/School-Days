@@ -1,46 +1,50 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 103083
+    },
+    {
         "action": "PlayBgm",
-        "end": 103000,
+        "end": 103083,
         "file": "BGM/SD_BGM/sdbgm06",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 103000,
+        "end": 103066,
         "file": "Se01/01-00/01-00-B00/SE01-00-B00-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 18000,
+        "end": 18166,
         "file": "SysSe/SE_all/school/chime",
         "layer": 2,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10216,
         "file": "Event01/01-1S/01-1S-M01/01-1S-M01-001",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 15000,
+        "end": 15200,
         "file": "Event01/01-00/01-00-B06/01-00-B06-001",
         "start": 10216
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13300,
         "persona": "Сэкаи",
         "start": 10316,
         "text": "Ладно, я обедать.^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13300,
         "file": "Voice01/01-1S/01-1S-M01/01-1S-M01-0040",
         "layer": 0,
         "persona": "sek",
@@ -48,14 +52,14 @@
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14066,
         "persona": "Макото",
         "start": 13166,
         "text": "Ага...^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14066,
         "file": "Voice01/01-1S/01-1S-M01/01-1S-M01-0060",
         "layer": 1,
         "persona": "mak",
@@ -63,20 +67,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 19000,
+        "end": 19200,
         "file": "Event01/01-1S/01-1S-M01/01-1S-M01-003",
         "start": 15200
     },
     {
         "action": "PrintText",
-        "end": 18000,
+        "end": 18366,
         "persona": "Нанами",
         "start": 16333,
         "text": "Пошли в столовую.^"
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18366,
         "file": "Voice01/01-1S/01-1S-M01/01-1S-M01-0080",
         "layer": 0,
         "persona": "nan",
@@ -84,14 +88,14 @@
     },
     {
         "action": "PrintText",
-        "end": 19000,
+        "end": 19133,
         "persona": "Хикари",
         "start": 18250,
         "text": "Ага.^"
     },
     {
         "action": "PlayVoice",
-        "end": 19000,
+        "end": 19133,
         "file": "Voice01/01-1S/01-1S-M01/01-1S-M01-0090",
         "layer": 0,
         "persona": "hik",
@@ -99,20 +103,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 21000,
+        "end": 21100,
         "file": "Event01/01-1S/01-1S-M01/01-1S-M01-004",
         "start": 19200
     },
     {
         "action": "PrintText",
-        "end": 21000,
+        "end": 21033,
         "persona": "Макото",
         "start": 19350,
         "text": "Канродзи, слушай...^"
     },
     {
         "action": "PlayVoice",
-        "end": 21000,
+        "end": 21033,
         "file": "Voice01/01-1S/01-1S-M01/01-1S-M01-0110",
         "layer": 1,
         "persona": "mak",
@@ -120,20 +124,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 22000,
+        "end": 22366,
         "file": "Event01/01-1S/01-1S-M01/01-1S-M01-005",
         "start": 21100
     },
     {
         "action": "PrintText",
-        "end": 22000,
+        "end": 22333,
         "persona": "Нанами",
         "start": 21100,
         "text": "Да?^"
     },
     {
         "action": "PlayVoice",
-        "end": 22000,
+        "end": 22333,
         "file": "Voice01/01-1S/01-1S-M01/01-1S-M01-0120",
         "layer": 0,
         "persona": "nan",
@@ -141,20 +145,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 29000,
+        "end": 29300,
         "file": "Event01/01-1S/01-1S-M01/01-1S-M01-006",
         "start": 22366
     },
     {
         "action": "PrintText",
-        "end": 26000,
+        "end": 26033,
         "persona": "Макото",
         "start": 22366,
         "text": "Сэкаи ведь теперь с вами?^"
     },
     {
         "action": "PlayVoice",
-        "end": 26000,
+        "end": 26033,
         "file": "Voice01/01-1S/01-1S-M01/01-1S-M01-0130",
         "layer": 1,
         "persona": "mak",
@@ -162,14 +166,14 @@
     },
     {
         "action": "PrintText",
-        "end": 27000,
+        "end": 27216,
         "persona": "Нанами",
         "start": 25250,
         "text": "С нами?^"
     },
     {
         "action": "PlayVoice",
-        "end": 27000,
+        "end": 27216,
         "file": "Voice01/01-1S/01-1S-M01/01-1S-M01-0140",
         "layer": 0,
         "persona": "nan",
@@ -177,14 +181,14 @@
     },
     {
         "action": "PrintText",
-        "end": 28000,
+        "end": 28200,
         "persona": "Макото",
         "start": 27150,
         "text": "Вы ведь подруги?^"
     },
     {
         "action": "PlayVoice",
-        "end": 28000,
+        "end": 28200,
         "file": "Voice01/01-1S/01-1S-M01/01-1S-M01-0150",
         "layer": 1,
         "persona": "mak",
@@ -192,14 +196,14 @@
     },
     {
         "action": "PrintText",
-        "end": 29000,
+        "end": 29233,
         "persona": "Нанами",
         "start": 28166,
         "text": "Ну да...^"
     },
     {
         "action": "PlayVoice",
-        "end": 29000,
+        "end": 29233,
         "file": "Voice01/01-1S/01-1S-M01/01-1S-M01-0160",
         "layer": 0,
         "persona": "nan",
@@ -207,20 +211,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 36000,
+        "end": 36150,
         "file": "Event01/01-1S/01-1S-M01/01-1S-M01-007",
         "start": 29300
     },
     {
         "action": "PrintText",
-        "end": 31000,
+        "end": 31166,
         "persona": "Макото",
         "start": 29300,
         "text": "Всё время вместе?^"
     },
     {
         "action": "PlayVoice",
-        "end": 31000,
+        "end": 31166,
         "file": "Voice01/01-1S/01-1S-M01/01-1S-M01-0170",
         "layer": 1,
         "persona": "mak",
@@ -228,14 +232,14 @@
     },
     {
         "action": "PrintText",
-        "end": 33000,
+        "end": 33200,
         "persona": "Нанами",
         "start": 31116,
         "text": "Да, но почему ты спрашиваешь?^"
     },
     {
         "action": "PlayVoice",
-        "end": 33000,
+        "end": 33200,
         "file": "Voice01/01-1S/01-1S-M01/01-1S-M01-0180",
         "layer": 0,
         "persona": "nan",
@@ -243,14 +247,14 @@
     },
     {
         "action": "PrintText",
-        "end": 36000,
+        "end": 36050,
         "persona": "Макото",
         "start": 33300,
         "text": "Вы ведь и обедаете вместе?^"
     },
     {
         "action": "PlayVoice",
-        "end": 36000,
+        "end": 36050,
         "file": "Voice01/01-1S/01-1S-M01/01-1S-M01-0190",
         "layer": 1,
         "persona": "mak",
@@ -258,20 +262,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 38000,
+        "end": 38216,
         "file": "Event01/01-1S/01-1S-M01/01-1S-M01-008",
         "start": 36150
     },
     {
         "action": "PrintText",
-        "end": 37000,
+        "end": 37233,
         "persona": "Хикари",
         "start": 36216,
         "text": "Ито!^"
     },
     {
         "action": "PlayVoice",
-        "end": 37000,
+        "end": 37233,
         "file": "Voice01/01-1S/01-1S-M01/01-1S-M01-0200",
         "layer": 0,
         "persona": "hik",
@@ -279,14 +283,14 @@
     },
     {
         "action": "PrintText",
-        "end": 38000,
+        "end": 38100,
         "persona": "Макото",
         "start": 37250,
         "text": "Что?^"
     },
     {
         "action": "PlayVoice",
-        "end": 38000,
+        "end": 38100,
         "file": "Voice01/01-1S/01-1S-M01/01-1S-M01-0210",
         "layer": 1,
         "persona": "mak",
@@ -294,20 +298,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 44000,
+        "end": 44133,
         "file": "Event01/01-1S/01-1S-M01/01-1S-M01-009",
         "start": 38216
     },
     {
         "action": "PrintText",
-        "end": 43000,
+        "end": 43250,
         "persona": "Хикари",
         "start": 38216,
         "text": "Ты её парень! Но подумай и о нас!^"
     },
     {
         "action": "PlayVoice",
-        "end": 43000,
+        "end": 43250,
         "file": "Voice01/01-1S/01-1S-M01/01-1S-M01-0220",
         "layer": 0,
         "persona": "hik",
@@ -315,14 +319,14 @@
     },
     {
         "action": "PrintText",
-        "end": 44000,
+        "end": 44050,
         "persona": "Макото",
         "start": 43200,
         "text": "Я?^"
     },
     {
         "action": "PlayVoice",
-        "end": 44000,
+        "end": 44050,
         "file": "Voice01/01-1S/01-1S-M01/01-1S-M01-0230",
         "layer": 1,
         "persona": "mak",
@@ -330,27 +334,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 57000,
+        "end": 57350,
         "file": "Event01/01-1S/01-1S-M01/01-1S-M01-010",
         "start": 44133
     },
     {
         "action": "PrintText",
-        "end": 48000,
+        "end": 48266,
         "persona": "Хикари",
         "start": 44383,
         "text": "В прошлом семестре Сэкаи с нами время проводила,^"
     },
     {
         "action": "PrintText",
-        "end": 53000,
+        "end": 53266,
         "persona": "Хикари",
         "start": 48283,
         "text": "но с начала второго - только с тобой.^"
     },
     {
         "action": "PlayVoice",
-        "end": 53000,
+        "end": 53266,
         "file": "Voice01/01-1S/01-1S-M01/01-1S-M01-0240",
         "layer": 0,
         "persona": "hik",
@@ -358,14 +362,14 @@
     },
     {
         "action": "PrintText",
-        "end": 58000,
+        "end": 58150,
         "persona": "Нанами",
         "start": 53333,
         "text": "Я лично не против, что ты встречаешься с Сэкаи.^"
     },
     {
         "action": "PlayVoice",
-        "end": 58000,
+        "end": 58150,
         "file": "Voice01/01-1S/01-1S-M01/01-1S-M01-0250",
         "layer": 0,
         "persona": "nan",
@@ -373,20 +377,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 61000,
+        "end": 61366,
         "file": "Event01/01-1S/01-1S-M01/01-1S-M01-011",
         "start": 57350
     },
     {
         "action": "PrintText",
-        "end": 59000,
+        "end": 59200,
         "persona": "Хикари",
         "start": 57350,
         "text": "Как это не против! Очень даже против!^"
     },
     {
         "action": "PlayVoice",
-        "end": 59000,
+        "end": 59200,
         "file": "Voice01/01-1S/01-1S-M01/01-1S-M01-0260",
         "layer": 0,
         "persona": "hik",
@@ -394,14 +398,14 @@
     },
     {
         "action": "PrintText",
-        "end": 62000,
+        "end": 62183,
         "persona": "Макото",
         "start": 58383,
         "text": "Подожди, почему вы решили, что я встречаюсь с Сэкаи?^"
     },
     {
         "action": "PlayVoice",
-        "end": 62000,
+        "end": 62183,
         "file": "Voice01/01-1S/01-1S-M01/01-1S-M01-0270",
         "layer": 1,
         "persona": "mak",
@@ -409,14 +413,14 @@
     },
     {
         "action": "PrintText",
-        "end": 66000,
+        "end": 66033,
         "persona": "Хикари",
         "start": 61366,
         "text": "Ну хватит уже! Вы каждый день вместе обедаете!^"
     },
     {
         "action": "PlayVoice",
-        "end": 66000,
+        "end": 66033,
         "file": "Voice01/01-1S/01-1S-M01/01-1S-M01-0280",
         "layer": 0,
         "persona": "hik",
@@ -424,7 +428,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 66000,
+        "end": 66166,
         "file": "Event01/01-1S/01-1S-M01/01-1S-M01-012",
         "start": 62000
     },
@@ -445,20 +449,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 73000,
+        "end": 73033,
         "file": "Event01/01-1S/01-1S-M01/01-1S-M01-006",
         "start": 66166
     },
     {
         "action": "PrintText",
-        "end": 68000,
+        "end": 68266,
         "persona": "Макото",
         "start": 66166,
         "text": "Нет, подождите, на этой неделе...^"
     },
     {
         "action": "PlayVoice",
-        "end": 68000,
+        "end": 68266,
         "file": "Voice01/01-1S/01-1S-M01/01-1S-M01-0300",
         "layer": 1,
         "persona": "mak",
@@ -466,14 +470,14 @@
     },
     {
         "action": "PrintText",
-        "end": 71000,
+        "end": 71333,
         "persona": "Хикари",
         "start": 68016,
         "text": "И на этой, и на прошлой! Каждый день ты с Сэкаи...^"
     },
     {
         "action": "PlayVoice",
-        "end": 71000,
+        "end": 71333,
         "file": "Voice01/01-1S/01-1S-M01/01-1S-M01-0310",
         "layer": 0,
         "persona": "hik",
@@ -481,14 +485,14 @@
     },
     {
         "action": "PrintText",
-        "end": 72000,
+        "end": 72350,
         "persona": "Макото",
         "start": 72000,
         "text": "Я...^"
     },
     {
         "action": "PlayVoice",
-        "end": 72000,
+        "end": 72350,
         "file": "Voice01/01-1S/01-1S-M01/01-1S-M01-0320",
         "layer": 1,
         "persona": "mak",
@@ -496,20 +500,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 77000,
+        "end": 77316,
         "file": "Event01/01-1S/01-1S-M01/01-1S-M01-014",
         "start": 73033
     },
     {
         "action": "PrintText",
-        "end": 77000,
+        "end": 77283,
         "persona": "Хикари",
         "start": 73033,
         "text": "Не знаю, где вы встречаетесь... и что там делаете...^"
     },
     {
         "action": "PlayVoice",
-        "end": 77000,
+        "end": 77283,
         "file": "Voice01/01-1S/01-1S-M01/01-1S-M01-0330",
         "layer": 0,
         "persona": "hik",
@@ -517,20 +521,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 80000,
+        "end": 80183,
         "file": "Event01/01-1S/01-1S-M01/01-1S-M01-015",
         "start": 77316
     },
     {
         "action": "PrintText",
-        "end": 80000,
+        "end": 80166,
         "persona": "Макото",
         "start": 77316,
         "text": "Мы ничего...^"
     },
     {
         "action": "PlayVoice",
-        "end": 80000,
+        "end": 80166,
         "file": "Voice01/01-1S/01-1S-M01/01-1S-M01-0340",
         "layer": 1,
         "persona": "mak",
@@ -538,27 +542,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 86000,
+        "end": 86266,
         "file": "Event01/01-1S/01-1S-M01/01-1S-M01-016",
         "start": 80183
     },
     {
         "action": "PrintText",
-        "end": 84000,
+        "end": 84166,
         "persona": "Хикари",
         "start": 80183,
         "text": "Последнее время Сэкаи грустная ходит.^"
     },
     {
         "action": "PrintText",
-        "end": 87000,
+        "end": 87166,
         "persona": "Хикари",
         "start": 84183,
         "text": "Если это из-за тебя!^"
     },
     {
         "action": "PlayVoice",
-        "end": 87000,
+        "end": 87166,
         "file": "Voice01/01-1S/01-1S-M01/01-1S-M01-0350",
         "layer": 0,
         "persona": "hik",
@@ -566,20 +570,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 90000,
+        "end": 90150,
         "file": "Event01/01-1S/01-1S-M01/01-1S-M01-017",
         "start": 86266
     },
     {
         "action": "PrintText",
-        "end": 88000,
+        "end": 88050,
         "persona": "Нанами",
         "start": 86266,
         "text": "Перестань, Хикари.^"
     },
     {
         "action": "PlayVoice",
-        "end": 88000,
+        "end": 88050,
         "file": "Voice01/01-1S/01-1S-M01/01-1S-M01-0360",
         "layer": 0,
         "persona": "nan",
@@ -602,27 +606,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 103000,
+        "end": 103083,
         "file": "Event01/01-00/01-00-B00/01-00-B00-001",
         "start": 90150
     },
     {
         "action": "PrintText",
-        "end": 94000,
+        "end": 94100,
         "persona": "Нанами",
         "start": 90333,
         "text": "Макото, не обращай на Хикари внимания.^"
     },
     {
         "action": "PrintText",
-        "end": 99000,
+        "end": 99100,
         "persona": "Нанами",
         "start": 94116,
         "text": "Лучше иди к Сэкаи, не заставляй свою девушку ждать!^"
     },
     {
         "action": "PlayVoice",
-        "end": 99000,
+        "end": 99100,
         "file": "Voice01/01-1S/01-1S-M01/01-1S-M01-0380",
         "layer": 0,
         "persona": "nan",
@@ -630,14 +634,14 @@
     },
     {
         "action": "PrintText",
-        "end": 101000,
+        "end": 101300,
         "persona": "Макото",
         "start": 99200,
         "text": "Хорошо...^"
     },
     {
         "action": "PlayVoice",
-        "end": 101000,
+        "end": 101300,
         "file": "Voice01/01-1S/01-1S-M01/01-1S-M01-0390",
         "layer": 1,
         "persona": "mak",
@@ -646,7 +650,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 103000,
+        "end": 103066,
         "start": 102066
+    },
+    {
+        "action": "Next",
+        "start": 103083
     }
 ]

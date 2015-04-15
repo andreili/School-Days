@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 25166
+    },
+    {
         "action": "PlayBgm",
-        "end": 25000,
+        "end": 25166,
         "file": "BGM/SD_BGM/sdbgm25",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 11000,
+        "end": 11233,
         "file": "Event03/03-KB/03-KB-O01/03-KB-O01-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4083,
         "persona": "Макото",
         "start": 0,
         "text": "Нет... У меня ни с кем не было.^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4083,
         "file": "Voice03/03-KB/03-KB-O01/03-KB-O01-0030",
         "layer": 1,
         "persona": "mak",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5366,
         "persona": "Котоноха",
         "start": 4083,
         "text": "Понятно...^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5366,
         "file": "Voice03/03-KB/03-KB-O01/03-KB-O01-0040",
         "layer": 0,
         "persona": "kot",
@@ -58,14 +62,14 @@
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11216,
         "persona": "Котоноха",
         "start": 11000,
         "text": "Да.^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11216,
         "file": "Voice03/03-KB/03-KB-O01/03-KB-O01-0060",
         "layer": 0,
         "persona": "kot",
@@ -73,14 +77,14 @@
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16033,
         "persona": "Макото",
         "start": 11216,
         "text": "Мне ужасно этого хотелось... Так что я кое-что знаю о сексе...^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16033,
         "file": "Voice03/03-KB/03-KB-O01/03-KB-O01-0070",
         "layer": 1,
         "persona": "mak",
@@ -88,20 +92,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 25000,
+        "end": 25166,
         "file": "Movie03/03-KB/03-KB-O01/03-KB-O01-002",
         "start": 11233
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16233,
         "persona": "Котоноха",
         "start": 16033,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16233,
         "file": "Voice03/03-KB/03-KB-O01/03-KB-O01-0080",
         "layer": 0,
         "persona": "xxx",
@@ -109,14 +113,14 @@
     },
     {
         "action": "PrintText",
-        "end": 20000,
+        "end": 20016,
         "persona": "Макото",
         "start": 16216,
         "text": "Можешь на меня положиться.^"
     },
     {
         "action": "PlayVoice",
-        "end": 20000,
+        "end": 20016,
         "file": "Voice03/03-KB/03-KB-O01/03-KB-O01-0090",
         "layer": 1,
         "persona": "mak",
@@ -124,14 +128,14 @@
     },
     {
         "action": "PrintText",
-        "end": 20000,
+        "end": 20333,
         "persona": "Котоноха",
         "start": 20033,
         "text": "Хорошо...^"
     },
     {
         "action": "PlayVoice",
-        "end": 20000,
+        "end": 20333,
         "file": "Voice03/03-KB/03-KB-O01/03-KB-O01-0100",
         "layer": 0,
         "persona": "kot",
@@ -139,14 +143,14 @@
     },
     {
         "action": "PrintText",
-        "end": 24000,
+        "end": 24116,
         "persona": "Макото",
         "start": 20333,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 24000,
+        "end": 24116,
         "file": "Voice03/03-KB/03-KB-O01/03-KB-O01-0110",
         "layer": 1,
         "persona": "mak",
@@ -154,17 +158,21 @@
     },
     {
         "action": "PrintText",
-        "end": 25000,
+        "end": 25166,
         "persona": "Котоноха",
         "start": 24100,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 25000,
+        "end": 25166,
         "file": "Voice03/03-KB/03-KB-O01/03-KB-O01-0120",
         "layer": 0,
         "persona": "kot",
         "start": 24100
+    },
+    {
+        "action": "Next",
+        "start": 25166
     }
 ]

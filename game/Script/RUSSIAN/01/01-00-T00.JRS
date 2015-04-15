@@ -1,7 +1,11 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 23366
+    },
+    {
         "action": "PlayBgm",
-        "end": 21000,
+        "end": 21366,
         "file": "BGM/SD_BGM/sdbgm19",
         "start": 0
     },
@@ -19,78 +23,78 @@
     },
     {
         "action": "PlaySe",
-        "end": 6000,
+        "end": 6150,
         "file": "Se01/01-00/01-00-T00/SE01-00-T00-001",
         "layer": 1,
         "start": 3383
     },
     {
         "action": "PlayMovie",
-        "end": 7000,
+        "end": 7233,
         "file": "Movie01/01-00/01-00-T00/01-00-T00-003",
         "start": 4000
     },
     {
         "action": "PlayMovie",
-        "end": 9000,
+        "end": 9233,
         "file": "Movie01/01-00/01-00-A00/01-00-A00-002",
         "start": 7233
     },
     {
         "action": "PlaySe",
-        "end": 10000,
+        "end": 10083,
         "file": "Se01/01-00/01-00-T00/SE01-00-T00-001",
         "layer": 1,
         "start": 7316
     },
     {
         "action": "PlayMovie",
-        "end": 11000,
+        "end": 11333,
         "file": "Movie01/01-00/01-00-T00/01-00-T00-005",
         "start": 9233
     },
     {
         "action": "PlaySe",
-        "end": 13000,
+        "end": 13366,
         "file": "Se01/01-00/01-00-T00/SE01-00-T00-001",
         "layer": 1,
         "start": 11200
     },
     {
         "action": "PlayMovie",
-        "end": 15000,
+        "end": 15033,
         "file": "Movie01/01-00/01-00-T00/01-00-T00-006",
         "start": 11333
     },
     {
         "action": "CreateBG",
-        "end": 17000,
+        "end": 17050,
         "file": "Event01/01-00/01-00-T00/01-00-T00-007",
         "start": 15033
     },
     {
         "action": "PlaySe",
-        "end": 15000,
+        "end": 15383,
         "file": "Se01/01-00/01-00-T00/SE01-00-T00-002",
         "layer": 1,
         "start": 15300
     },
     {
         "action": "CreateBG",
-        "end": 23000,
+        "end": 23366,
         "file": "patch101/01-00-T00/01-00-T00-008",
         "start": 17050
     },
     {
         "action": "PrintText",
-        "end": 20000,
+        "end": 20300,
         "persona": "Сэкаи",
         "start": 20016,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 20000,
+        "end": 20300,
         "file": "Voice01/01-00/01-00-T00/01-00-T00-0110",
         "layer": 0,
         "persona": "sek",
@@ -99,7 +103,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 23000,
+        "end": 23366,
         "start": 22366
+    },
+    {
+        "action": "Next",
+        "start": 23366
     }
 ]

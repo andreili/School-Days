@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 21350
+    },
+    {
         "action": "PlayBgm",
-        "end": 21000,
+        "end": 21350,
         "file": "BGM/SD_BGM/sdbgm12",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 15000,
+        "end": 15233,
         "file": "Event03/03-KB/03-KB-E08/03-KB-E08-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1316,
         "persona": "Макото",
         "start": 0,
         "text": "Думаю, она согласиться!^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1316,
         "file": "Voice03/03-KB/03-KB-E08/03-KB-E08-0030",
         "layer": 1,
         "persona": "mak",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3333,
         "persona": "Таисукэ",
         "start": 1316,
         "text": "Правда?^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3333,
         "file": "Voice03/03-KB/03-KB-E08/03-KB-E08-0040",
         "layer": 1,
         "persona": "tai",
@@ -43,14 +47,14 @@
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8083,
         "persona": "Макото",
         "start": 3316,
         "text": "Да, зная тебя, уверен, всё у вас будет хорошо!^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8083,
         "file": "Voice03/03-KB/03-KB-E08/03-KB-E08-0050",
         "layer": 1,
         "persona": "mak",
@@ -58,14 +62,14 @@
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13233,
         "persona": "Таисукэ",
         "start": 8083,
         "text": "Приятно это слышать от того, кто так хорошо её знает.^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13233,
         "file": "Voice03/03-KB/03-KB-E08/03-KB-E08-0060",
         "layer": 1,
         "persona": "tai",
@@ -73,14 +77,14 @@
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14100,
         "persona": "Макото",
         "start": 13233,
         "text": "Да ерунда!^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14100,
         "file": "Voice03/03-KB/03-KB-E08/03-KB-E08-0070",
         "layer": 1,
         "persona": "mak",
@@ -88,14 +92,14 @@
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15233,
         "persona": "Таисукэ",
         "start": 14100,
         "text": "Ладно, увидимся завтра.^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15233,
         "file": "Voice03/03-KB/03-KB-E08/03-KB-E08-0080",
         "layer": 1,
         "persona": "tai",
@@ -103,14 +107,14 @@
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16066,
         "persona": "Макото",
         "start": 15216,
         "text": "Ага.^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16066,
         "file": "Voice03/03-KB/03-KB-E08/03-KB-E08-0090",
         "layer": 1,
         "persona": "mak",
@@ -118,20 +122,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 21000,
+        "end": 21350,
         "file": "Event03/03-KB/03-KB-E08/03-KB-E08-002",
         "start": 15233
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16350,
         "persona": "Макото",
         "start": 16066,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16350,
         "file": "Voice03/03-KB/03-KB-E08/03-KB-E08-0110",
         "layer": 1,
         "persona": "mak",
@@ -139,24 +143,28 @@
     },
     {
         "action": "PlaySe",
-        "end": 16000,
+        "end": 16383,
         "file": "SysSe/SE_all/keitai/keitai_sousa",
         "layer": 1,
         "start": 16350
     },
     {
         "action": "PrintText",
-        "end": 19000,
+        "end": 19350,
         "persona": "Макото",
         "start": 16350,
         "text": "Надеюсь, я правильно поступаю...^"
     },
     {
         "action": "PlayVoice",
-        "end": 19000,
+        "end": 19350,
         "file": "Voice03/03-KB/03-KB-E08/03-KB-E08-0120",
         "layer": 1,
         "persona": "mak",
         "start": 16350
+    },
+    {
+        "action": "Next",
+        "start": 21350
     }
 ]

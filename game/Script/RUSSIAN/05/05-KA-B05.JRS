@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 6050
+    },
+    {
         "action": "PlaySe",
-        "end": 6000,
+        "end": 6050,
         "file": "SysSe/SE_all/gaya/kyousitu_rouka",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1166,
         "file": "Event05/05-KA/05-KA-B05/05-KA-B05-001A",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2200,
         "file": "Event05/05-KA/05-KA-B05/05-KA-B05-001B",
         "start": 1166
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2200,
         "persona": "Макото",
         "start": 1166,
         "text": "Доброе утро...^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2200,
         "file": "Voice05/05-KA/05-KA-B05/05-KA-B05-0030",
         "layer": 1,
         "persona": "mak",
@@ -35,20 +39,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3350,
         "file": "Event05/05-KA/05-KA-B05/05-KA-B05-001C",
         "start": 2200
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3316,
         "persona": "Таисукэ",
         "start": 2200,
         "text": "И тебе тоже!^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3316,
         "file": "Voice05/05-KA/05-KA-B05/05-KA-B05-0040",
         "layer": 1,
         "persona": "tai",
@@ -56,20 +60,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5133,
         "file": "Event05/05-KA/05-KA-B05/05-KA-B05-002",
         "start": 3350
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4316,
         "persona": "Макото",
         "start": 3350,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4316,
         "file": "Voice05/05-KA/05-KA-B05/05-KA-B05-0060",
         "layer": 1,
         "persona": "mak",
@@ -77,23 +81,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6050,
         "file": "Event05/05-KA/05-KA-B05/05-KA-B05-003",
         "start": 5133
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6016,
         "persona": "Макото",
         "start": 5133,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6016,
         "file": "Voice05/05-KA/05-KA-B05/05-KA-B05-0080",
         "layer": 1,
         "persona": "mak",
         "start": 5133
+    },
+    {
+        "action": "Next",
+        "start": 6050
     }
 ]

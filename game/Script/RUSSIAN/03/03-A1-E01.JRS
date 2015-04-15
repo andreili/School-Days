@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 30100
+    },
+    {
         "action": "PlayBgm",
-        "end": 30000,
+        "end": 30100,
         "file": "BGM/SD_BGM/sdbgm19",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2333,
         "file": "Event03/03-A1/03-A1-E01/03-A1-E01-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1133,
         "persona": "Макото",
         "start": 0,
         "text": "Да...^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1133,
         "file": "Voice03/03-A1/03-A1-E01/03-A1-E01-0030",
         "layer": 1,
         "persona": "mak",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2200,
         "persona": "Сэцуна",
         "start": 1266,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2200,
         "file": "Voice03/03-A1/03-A1-E01/03-A1-E01-0040",
         "layer": 0,
         "persona": "xxx",
@@ -43,20 +47,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7050,
         "file": "Event03/03-A1/03-A1-E01/03-A1-E01-002",
         "start": 2333
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7050,
         "persona": "Макото",
         "start": 2366,
         "text": "Ну я же нормальный парень, мы такие...^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7050,
         "file": "Voice03/03-A1/03-A1-E01/03-A1-E01-0050",
         "layer": 1,
         "persona": "mak",
@@ -64,20 +68,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8300,
         "file": "Event03/03-A1/03-A1-E01/03-A1-E01-003",
         "start": 7050
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8033,
         "persona": "Сэцуна",
         "start": 7066,
         "text": "Озабоченные?^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8033,
         "file": "Voice03/03-A1/03-A1-E01/03-A1-E01-0060",
         "layer": 0,
         "persona": "set",
@@ -85,14 +89,14 @@
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8250,
         "persona": "Макото",
         "start": 7350,
         "text": "Ну тебя!^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8250,
         "file": "Voice03/03-A1/03-A1-E01/03-A1-E01-0070",
         "layer": 1,
         "persona": "mak",
@@ -100,20 +104,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 17000,
+        "end": 17166,
         "file": "Event03/03-A1/03-A1-E01/03-A1-E01-004",
         "start": 8300
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15166,
         "persona": "Сэцуна",
         "start": 8350,
         "text": "Значит, ты к Кацуре приставал, она тебя бросила, и ты стал встречаться с Сэкаи?^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15166,
         "file": "Voice03/03-A1/03-A1-E01/03-A1-E01-0080",
         "layer": 0,
         "persona": "set",
@@ -121,14 +125,14 @@
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16016,
         "persona": "Макото",
         "start": 15166,
         "text": "Что?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16016,
         "file": "Voice03/03-A1/03-A1-E01/03-A1-E01-0090",
         "layer": 1,
         "persona": "mak",
@@ -136,14 +140,14 @@
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17083,
         "persona": "Сэцуна",
         "start": 16116,
         "text": "Не так?^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17083,
         "file": "Voice03/03-A1/03-A1-E01/03-A1-E01-0100",
         "layer": 0,
         "persona": "set",
@@ -151,27 +155,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 30000,
+        "end": 30100,
         "file": "Event03/03-A1/03-A1-D00/03-A1-D00-003",
         "start": 17166
     },
     {
         "action": "PrintText",
-        "end": 21000,
+        "end": 21350,
         "persona": "Макото",
         "start": 17166,
         "text": "Все совсем наоборот! Это Сэкаи меня оттолкнула!^"
     },
     {
         "action": "PrintText",
-        "end": 25000,
+        "end": 25350,
         "persona": "Макото",
         "start": 21350,
         "text": "Иди, говорит, встречайся с Котонохой, вот я и...^"
     },
     {
         "action": "PlayVoice",
-        "end": 25000,
+        "end": 25350,
         "file": "Voice03/03-A1/03-A1-E01/03-A1-E01-0110",
         "layer": 1,
         "persona": "mak",
@@ -179,14 +183,14 @@
     },
     {
         "action": "PrintText",
-        "end": 27000,
+        "end": 27200,
         "persona": "Сэцуна",
         "start": 25333,
         "text": "Сэкаи тебя отвергла?^"
     },
     {
         "action": "PlayVoice",
-        "end": 27000,
+        "end": 27200,
         "file": "Voice03/03-A1/03-A1-E01/03-A1-E01-0120",
         "layer": 0,
         "persona": "set",
@@ -194,14 +198,14 @@
     },
     {
         "action": "PrintText",
-        "end": 28000,
+        "end": 28133,
         "persona": "Макото",
         "start": 27266,
         "text": "Да!^"
     },
     {
         "action": "PlayVoice",
-        "end": 28000,
+        "end": 28133,
         "file": "Voice03/03-A1/03-A1-E01/03-A1-E01-0130",
         "layer": 1,
         "persona": "mak",
@@ -209,17 +213,21 @@
     },
     {
         "action": "PrintText",
-        "end": 29000,
+        "end": 29350,
         "persona": "Сэцуна",
         "start": 28283,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 29000,
+        "end": 29350,
         "file": "Voice03/03-A1/03-A1-E01/03-A1-E01-0140",
         "layer": 0,
         "persona": "xxx",
         "start": 28283
+    },
+    {
+        "action": "Next",
+        "start": 30100
     }
 ]

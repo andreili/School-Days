@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 52116
+    },
+    {
         "action": "PlayBgm",
-        "end": 52000,
+        "end": 52116,
         "file": "BGM/SD_BGM/sdbgm26",
         "start": 0
     },
     {
         "action": "PlayMovie",
-        "end": 14000,
+        "end": 14300,
         "file": "Movie03/03-A0/03-A0-B02/03-A0-B02-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1150,
         "persona": "Макото",
         "start": 0,
         "text": "Такие мягкие...^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1150,
         "file": "Voice03/03-A0/03-A0-B02/03-A0-B02-0040",
         "layer": 1,
         "persona": "mak",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2200,
         "persona": "Макото",
         "start": 1150,
         "text": "Большие...^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2200,
         "file": "Voice03/03-A0/03-A0-B02/03-A0-B02-0050",
         "layer": 1,
         "persona": "mak",
@@ -43,14 +47,14 @@
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7266,
         "persona": "Макото",
         "start": 2200,
         "text": "Я чувствовал её соски под одеждой... Котоноха так приятно пахла...^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7266,
         "file": "Voice03/03-A0/03-A0-B02/03-A0-B02-0060",
         "layer": 1,
         "persona": "mak",
@@ -58,14 +62,14 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9133,
         "persona": "Макото",
         "start": 7266,
         "text": "Как здорово...^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9133,
         "file": "Voice03/03-A0/03-A0-B02/03-A0-B02-0070",
         "layer": 1,
         "persona": "mak",
@@ -73,14 +77,14 @@
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10266,
         "persona": "Макото",
         "start": 9133,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10266,
         "file": "Voice03/03-A0/03-A0-B02/03-A0-B02-0080",
         "layer": 1,
         "persona": "xxx",
@@ -88,14 +92,14 @@
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14300,
         "persona": "Макото",
         "start": 10266,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14300,
         "file": "Voice03/03-A0/03-A0-B02/03-A0-B02-0100",
         "layer": 1,
         "persona": "mak",
@@ -103,20 +107,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 33000,
+        "end": 33083,
         "file": "Movie03/03-A0/03-A0-B02/03-A0-B02-002",
         "start": 14300
     },
     {
         "action": "PrintText",
-        "end": 18000,
+        "end": 18233,
         "persona": "Макото",
         "start": 14300,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18233,
         "file": "Voice03/03-A0/03-A0-B02/03-A0-B02-0120",
         "layer": 1,
         "persona": "mak",
@@ -124,14 +128,14 @@
     },
     {
         "action": "PrintText",
-        "end": 25000,
+        "end": 25166,
         "persona": "Макото",
         "start": 18233,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 25000,
+        "end": 25166,
         "file": "Voice03/03-A0/03-A0-B02/03-A0-B02-0130",
         "layer": 1,
         "persona": "mak",
@@ -139,14 +143,14 @@
     },
     {
         "action": "PrintText",
-        "end": 44000,
+        "end": 44083,
         "persona": "Макото",
         "start": 25166,
         "text": "Котоноха...^"
     },
     {
         "action": "PlayVoice",
-        "end": 44000,
+        "end": 44083,
         "file": "Voice03/03-A0/03-A0-B02/03-A0-B02-0140",
         "layer": 1,
         "persona": "mak",
@@ -155,31 +159,31 @@
     {
         "action": "WhiteFade",
         "dir": "OUT",
-        "end": 33000,
+        "end": 33083,
         "start": 31066
     },
     {
         "action": "CreateBG",
-        "end": 44000,
+        "end": 44083,
         "file": "Event03/03-A0/03-A0-B02/03-A0-B02-003",
         "start": 33083
     },
     {
         "action": "CreateBG",
-        "end": 52000,
+        "end": 52116,
         "file": "Event03/03-A0/03-A0-B02/03-A0-B02-004",
         "start": 44083
     },
     {
         "action": "PrintText",
-        "end": 52000,
+        "end": 52116,
         "persona": "Макото",
         "start": 44083,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 52000,
+        "end": 52116,
         "file": "Voice03/03-A0/03-A0-B02/03-A0-B02-0160",
         "layer": 1,
         "persona": "mak",
@@ -188,7 +192,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 52000,
+        "end": 52116,
         "start": 51116
+    },
+    {
+        "action": "Next",
+        "start": 52116
     }
 ]

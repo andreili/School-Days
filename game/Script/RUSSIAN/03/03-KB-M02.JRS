@@ -1,39 +1,43 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 14116
+    },
+    {
         "action": "PlayBgm",
-        "end": 14000,
+        "end": 14116,
         "file": "BGM/SD_BGM/sdbgm28",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 14000,
+        "end": 14116,
         "file": "Se03/03-KB/03-KB-M02/SE03-KB-M02-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4383,
         "file": "Event03/03-KB/03-KB-M02/03-KB-M02-001",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7133,
         "file": "Event03/03-KB/03-KB-M02/03-KB-M02-002",
         "start": 4383
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6250,
         "persona": "Сэкаи",
         "start": 5300,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6250,
         "file": "Voice03/03-KB/03-KB-M02/03-KB-M02-0040",
         "layer": 0,
         "persona": "xxx",
@@ -41,29 +45,33 @@
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10150,
         "file": "Event03/03-KB/03-KB-M02/03-KB-M02-001",
         "start": 7133
     },
     {
         "action": "CreateBG",
-        "end": 14000,
+        "end": 14116,
         "file": "Event03/03-KB/03-KB-M02/03-KB-M02-003",
         "start": 10150
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12350,
         "persona": "Сэкаи",
         "start": 12083,
         "text": "А...^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12350,
         "file": "Voice03/03-KB/03-KB-M02/03-KB-M02-0070",
         "layer": 0,
         "persona": "sek",
         "start": 12083
+    },
+    {
+        "action": "Next",
+        "start": 14116
     }
 ]

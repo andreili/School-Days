@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 41366
+    },
+    {
         "action": "PlayBgm",
-        "end": 41000,
+        "end": 41366,
         "file": "BGM/SD_BGM/sdbgm03",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 41000,
+        "end": 41350,
         "file": "Se01/01-00/01-00-E00/SE01-00-E00-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3216,
         "file": "Event01/01-00/01-00-E06/01-00-E06-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1116,
         "persona": "Макото",
         "start": 100,
         "text": "Скажи!^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1116,
         "file": "Voice01/01-00/01-00-E06/01-00-E06-0030",
         "layer": 1,
         "persona": "mak",
@@ -35,14 +39,14 @@
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3350,
         "persona": "Котоноха",
         "start": 1100,
         "text": "Нет. Так, ерунда...^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3350,
         "file": "Voice01/01-00/01-00-E06/01-00-E06-0040",
         "layer": 0,
         "persona": "kot",
@@ -50,20 +54,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12216,
         "file": "Event01/01-00/01-00-E06/01-00-E06-002",
         "start": 3216
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5033,
         "persona": "Макото",
         "start": 3216,
         "text": "Ну скажи, раз начала!^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5033,
         "file": "Voice01/01-00/01-00-E06/01-00-E06-0050",
         "layer": 1,
         "persona": "mak",
@@ -71,14 +75,14 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9366,
         "persona": "Котоноха",
         "start": 5033,
         "text": "Ничего важного. Сейчас урок начнётся, опоздаем!^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9366,
         "file": "Voice01/01-00/01-00-E06/01-00-E06-0060",
         "layer": 0,
         "persona": "kot",
@@ -86,14 +90,14 @@
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12150,
         "persona": "Макото",
         "start": 9050,
         "text": "Ну и пусть! Скажи!^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12150,
         "file": "Voice01/01-00/01-00-E06/01-00-E06-0070",
         "layer": 1,
         "persona": "mak",
@@ -101,20 +105,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 20000,
+        "end": 20016,
         "file": "Event01/01-00/01-00-E06/01-00-E06-003",
         "start": 12216
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14083,
         "persona": "Котоноха",
         "start": 12300,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14083,
         "file": "Voice01/01-00/01-00-E06/01-00-E06-0080",
         "layer": 0,
         "persona": "xxx",
@@ -122,14 +126,14 @@
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15266,
         "persona": "Макото",
         "start": 14283,
         "text": "Кацура!^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15266,
         "file": "Voice01/01-00/01-00-E06/01-00-E06-0090",
         "layer": 1,
         "persona": "mak",
@@ -137,14 +141,14 @@
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17333,
         "persona": "Котоноха",
         "start": 16050,
         "text": "Ну... это...^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17333,
         "file": "Voice01/01-00/01-00-E06/01-00-E06-0100",
         "layer": 0,
         "persona": "kot",
@@ -152,14 +156,14 @@
     },
     {
         "action": "PrintText",
-        "end": 18000,
+        "end": 18166,
         "persona": "Макото",
         "start": 17350,
         "text": "Что?^"
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18166,
         "file": "Voice01/01-00/01-00-E06/01-00-E06-0110",
         "layer": 1,
         "persona": "mak",
@@ -167,14 +171,14 @@
     },
     {
         "action": "PrintText",
-        "end": 19000,
+        "end": 19383,
         "persona": "Котоноха",
         "start": 18333,
         "text": "Фамилия...^"
     },
     {
         "action": "PlayVoice",
-        "end": 19000,
+        "end": 19383,
         "file": "Voice01/01-00/01-00-E06/01-00-E06-0120",
         "layer": 0,
         "persona": "kot",
@@ -182,20 +186,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 23000,
+        "end": 23366,
         "file": "Event01/01-00/01-00-E06/01-00-E06-003B",
         "start": 20016
     },
     {
         "action": "PrintText",
-        "end": 21000,
+        "end": 21066,
         "persona": "Макото",
         "start": 20050,
         "text": "Фамилия?^"
     },
     {
         "action": "PlayVoice",
-        "end": 21000,
+        "end": 21066,
         "file": "Voice01/01-00/01-00-E06/01-00-E06-0130",
         "layer": 1,
         "persona": "mak",
@@ -203,14 +207,14 @@
     },
     {
         "action": "PrintText",
-        "end": 24000,
+        "end": 24050,
         "persona": "Котоноха",
         "start": 21200,
         "text": "Ты же Саиёндзи по имени зовёшь - Сэкаи...^"
     },
     {
         "action": "PlayVoice",
-        "end": 24000,
+        "end": 24050,
         "file": "Voice01/01-00/01-00-E06/01-00-E06-0140",
         "layer": 0,
         "persona": "kot",
@@ -218,20 +222,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 31000,
+        "end": 31116,
         "file": "Event01/01-00/01-00-E01/01-00-E01-004",
         "start": 23366
     },
     {
         "action": "PrintText",
-        "end": 29000,
+        "end": 29150,
         "persona": "Макото",
         "start": 23366,
         "text": "А? Ну да! Сэкаи сама попросила!^"
     },
     {
         "action": "PlayVoice",
-        "end": 29000,
+        "end": 29150,
         "file": "Voice01/01-00/01-00-E06/01-00-E06-0150",
         "layer": 1,
         "persona": "mak",
@@ -239,14 +243,14 @@
     },
     {
         "action": "PrintText",
-        "end": 31000,
+        "end": 31116,
         "persona": "Котоноха",
         "start": 30083,
         "text": "Меня тоже...^"
     },
     {
         "action": "PlayVoice",
-        "end": 31000,
+        "end": 31116,
         "file": "Voice01/01-00/01-00-E06/01-00-E06-0160",
         "layer": 0,
         "persona": "kot",
@@ -254,20 +258,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 33000,
+        "end": 33116,
         "file": "Event01/01-00/01-00-E06/01-00-E06-006",
         "start": 31116
     },
     {
         "action": "PrintText",
-        "end": 33000,
+        "end": 33216,
         "persona": "Макото",
         "start": 31116,
         "text": "А? Что?^"
     },
     {
         "action": "PlayVoice",
-        "end": 33000,
+        "end": 33216,
         "file": "Voice01/01-00/01-00-E06/01-00-E06-0170",
         "layer": 1,
         "persona": "mak",
@@ -275,7 +279,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 41000,
+        "end": 41366,
         "file": "Event01/01-00/01-00-E06/01-00-E06-007",
         "start": 33116
     },
@@ -296,14 +300,14 @@
     },
     {
         "action": "PrintText",
-        "end": 40000,
+        "end": 40100,
         "persona": "Макото",
         "start": 37366,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 40000,
+        "end": 40100,
         "file": "Voice01/01-00/01-00-E06/01-00-E06-0200",
         "layer": 1,
         "persona": "xxx",
@@ -312,7 +316,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 41000,
+        "end": 41350,
         "start": 40350
+    },
+    {
+        "action": "Next",
+        "start": 41366
     }
 ]

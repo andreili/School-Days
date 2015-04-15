@@ -1,5 +1,9 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 11000
+    },
+    {
         "action": "PlayBgm",
         "end": 11000,
         "file": "BGM/SD_BGM/sdbgm20",
@@ -7,7 +11,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3016,
         "file": "Event02/02-2K/02-2K-H02/02-2K-H02-001",
         "start": 0
     },
@@ -28,5 +32,9 @@
         "dir": "OUT",
         "end": 11000,
         "start": 10000
+    },
+    {
+        "action": "Next",
+        "start": 11000
     }
 ]

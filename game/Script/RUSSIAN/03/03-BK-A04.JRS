@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 7233
+    },
+    {
         "action": "PlayBgm",
-        "end": 7000,
+        "end": 7233,
         "file": "BGM/SD_BGM/sdbgm20",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7233,
         "file": "Event03/03-BK/03-BK-A04/03-BK-A04-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1166,
         "persona": "Макото",
         "start": 0,
         "text": "Сэкаи...^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1166,
         "file": "Voice03/03-BK/03-BK-A04/03-BK-A04-0030",
         "layer": 1,
         "persona": "mak",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5116,
         "persona": "Макото",
         "start": 2050,
         "text": "После всего, что произошло, чего она от меня вообще хочет?^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5116,
         "file": "Voice03/03-BK/03-BK-A04/03-BK-A04-0040",
         "layer": 1,
         "persona": "mak",
@@ -43,17 +47,21 @@
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7016,
         "persona": "Макото",
         "start": 5383,
         "text": "Хех...^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7016,
         "file": "Voice03/03-BK/03-BK-A04/03-BK-A04-0050",
         "layer": 1,
         "persona": "mak",
         "start": 5383
+    },
+    {
+        "action": "Next",
+        "start": 7233
     }
 ]

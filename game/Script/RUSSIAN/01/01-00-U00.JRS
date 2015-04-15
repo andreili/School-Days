@@ -1,13 +1,17 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 2350
+    },
+    {
         "action": "PlayBgm",
-        "end": 2000,
+        "end": 2350,
         "file": "BGM/SD_BGM/sdbgm03",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 2000,
+        "end": 2350,
         "file": "Se01/01-00/01-00-B00/SE01-00-B00-001",
         "layer": 1,
         "start": 0
@@ -20,7 +24,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2350,
         "file": "Event01/01-00/01-00-U00/01-00-U00-002",
         "start": 1000
     },
@@ -41,17 +45,21 @@
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2266,
         "persona": "Сэкаи",
         "start": 1350,
         "text": "Доброе...^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2266,
         "file": "Voice01/01-00/01-00-U00/01-00-U00-0050",
         "layer": 0,
         "persona": "sek",
         "start": 1350
+    },
+    {
+        "action": "Next",
+        "start": 2350
     }
 ]

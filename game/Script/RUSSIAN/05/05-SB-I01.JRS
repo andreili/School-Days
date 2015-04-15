@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 12200
+    },
+    {
         "action": "PlayBgm",
-        "end": 12000,
+        "end": 12200,
         "file": "BGM/SD_BGM/sdbgm33",
         "start": 0
     },
     {
         "action": "PlayMovie",
-        "end": 9000,
+        "end": 9200,
         "file": "Movie05/05-SB/05-SB-I01/05-SB-I01-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6366,
         "persona": "Котоноха",
         "start": 2300,
         "text": "Макото... Я тебя люблю.^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6366,
         "file": "Voice05/05-SB/05-SB-I01/05-SB-I01-0030",
         "layer": 0,
         "persona": "kot",
@@ -28,8 +32,12 @@
     },
     {
         "action": "PlayMovie",
-        "end": 12000,
+        "end": 12200,
         "file": "Movie05/05-SB/05-SB-I01/05-SB-I01-002",
         "start": 9200
+    },
+    {
+        "action": "Next",
+        "start": 12200
     }
 ]

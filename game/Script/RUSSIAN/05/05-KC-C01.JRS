@@ -1,5 +1,9 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 53000
+    },
+    {
         "action": "PlaySe",
         "end": 53000,
         "file": "SysSe/SE_all/gaya/kyousitu_rouka",
@@ -8,20 +12,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5250,
         "file": "Event05/05-KC/05-KC-C01/05-KC-C01-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4100,
         "persona": "Макото",
         "start": 0,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4100,
         "file": "Voice05/05-KC/05-KC-C01/05-KC-C01-0030",
         "layer": 1,
         "persona": "mak",
@@ -29,14 +33,14 @@
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5233,
         "persona": "Таисукэ",
         "start": 4100,
         "text": "Макото!^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5233,
         "file": "Voice05/05-KC/05-KC-C01/05-KC-C01-0040",
         "layer": 1,
         "persona": "tai",
@@ -44,14 +48,14 @@
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12233,
         "persona": "Макото",
         "start": 5233,
         "text": "Таисукэ, привет.^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12233,
         "file": "Voice05/05-KC/05-KC-C01/05-KC-C01-0050",
         "layer": 1,
         "persona": "mak",
@@ -59,20 +63,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 18000,
+        "end": 18133,
         "file": "Event05/05-KC/05-KC-C01/05-KC-C01-002A",
         "start": 5250
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14200,
         "persona": "Таисукэ",
         "start": 12216,
         "text": "Ты чего сонный такой?^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14200,
         "file": "Voice05/05-KC/05-KC-C01/05-KC-C01-0060",
         "layer": 1,
         "persona": "tai",
@@ -80,14 +84,14 @@
     },
     {
         "action": "PrintText",
-        "end": 22000,
+        "end": 22050,
         "persona": "Макото",
         "start": 14216,
         "text": "А?.. Да, кажется, что в субботу жизнь с нового листа начал...^"
     },
     {
         "action": "PlayVoice",
-        "end": 22000,
+        "end": 22050,
         "file": "Voice05/05-KC/05-KC-C01/05-KC-C01-0070",
         "layer": 1,
         "persona": "mak",
@@ -95,20 +99,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 30000,
+        "end": 30200,
         "file": "Event05/05-KC/05-KC-C01/05-KC-C01-002B",
         "start": 18133
     },
     {
         "action": "PrintText",
-        "end": 24000,
+        "end": 24283,
         "persona": "Таисукэ",
         "start": 21000,
         "text": "Чего?! Не понял ни слова... Ты занят?^"
     },
     {
         "action": "PlayVoice",
-        "end": 24000,
+        "end": 24283,
         "file": "Voice05/05-KC/05-KC-C01/05-KC-C01-0080",
         "layer": 1,
         "persona": "tai",
@@ -116,14 +120,14 @@
     },
     {
         "action": "PrintText",
-        "end": 26000,
+        "end": 26283,
         "persona": "Макото",
         "start": 24000,
         "text": "А что?^"
     },
     {
         "action": "PlayVoice",
-        "end": 26000,
+        "end": 26283,
         "file": "Voice05/05-KC/05-KC-C01/05-KC-C01-0090",
         "layer": 1,
         "persona": "mak",
@@ -131,14 +135,14 @@
     },
     {
         "action": "PrintText",
-        "end": 29000,
+        "end": 29350,
         "persona": "Таисукэ",
         "start": 26300,
         "text": "Саиёндзи... Школу бросила!^"
     },
     {
         "action": "PlayVoice",
-        "end": 29000,
+        "end": 29350,
         "file": "Voice05/05-KC/05-KC-C01/05-KC-C01-0100",
         "layer": 1,
         "persona": "tai",
@@ -146,14 +150,14 @@
     },
     {
         "action": "PrintText",
-        "end": 31000,
+        "end": 31300,
         "persona": "Макото",
         "start": 30000,
         "text": "Э?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 31000,
+        "end": 31300,
         "file": "Voice05/05-KC/05-KC-C01/05-KC-C01-0110",
         "layer": 1,
         "persona": "mak",
@@ -161,32 +165,32 @@
     },
     {
         "action": "CreateBG",
-        "end": 32000,
+        "end": 32366,
         "file": "Event05/05-KC/05-KC-C01/05-KC-C01-003",
         "start": 30200
     },
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 32000,
+        "end": 32366,
         "start": 31150
     },
     {
         "action": "CreateBG",
-        "end": 40000,
+        "end": 40166,
         "file": "Event05/05-KC/05-KC-C01/05-KC-C01-005",
         "start": 32366
     },
     {
         "action": "PrintText",
-        "end": 38000,
+        "end": 38200,
         "persona": "Макото",
         "start": 32366,
         "text": "Сэкаи, бросив школу, ушла из дома и пропала.^"
     },
     {
         "action": "PlayVoice",
-        "end": 38000,
+        "end": 38200,
         "file": "Voice05/05-KC/05-KC-C01/05-KC-C01-0140",
         "layer": 1,
         "persona": "xxx",
@@ -194,14 +198,14 @@
     },
     {
         "action": "PrintText",
-        "end": 46000,
+        "end": 46283,
         "persona": "Макото",
         "start": 40000,
         "text": "Я, естественно, не расcказал ничего ни Таисукэ, ни кому другому из класса...^"
     },
     {
         "action": "PlayVoice",
-        "end": 46000,
+        "end": 46283,
         "file": "Voice05/05-KC/05-KC-C01/05-KC-C01-0150",
         "layer": 1,
         "persona": "xxx",
@@ -215,14 +219,14 @@
     },
     {
         "action": "PrintText",
-        "end": 51000,
+        "end": 51083,
         "persona": "Макото",
         "start": 47200,
         "text": "Она исчезла из нашей жизни.^"
     },
     {
         "action": "PlayVoice",
-        "end": 51000,
+        "end": 51083,
         "file": "Voice05/05-KC/05-KC-C01/05-KC-C01-0160",
         "layer": 1,
         "persona": "xxx",
@@ -233,5 +237,9 @@
         "dir": "OUT",
         "end": 53000,
         "start": 50000
+    },
+    {
+        "action": "Next",
+        "start": 53000
     }
 ]

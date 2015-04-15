@@ -1,5 +1,9 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 104333
+    },
+    {
         "action": "PlayBgm",
         "end": 111000,
         "file": "BGM/SD_BGM/sdbgm16",
@@ -7,27 +11,27 @@
     },
     {
         "action": "PlaySe",
-        "end": 29000,
+        "end": 29116,
         "file": "Se03/03-SB/03-SB-G07/SE03-SB-G07-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1150,
         "file": "Event03/03-SB/03-SB-G07/03-SB-G07-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1133,
         "persona": "Макото",
         "start": 0,
         "text": "Мы в качестве посетителей.^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1133,
         "file": "Voice03/03-SB/03-SB-G07/03-SB-G07-0040",
         "layer": 1,
         "persona": "mak",
@@ -35,14 +39,14 @@
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3116,
         "persona": "Нанами",
         "start": 1133,
         "text": "Ну пожалуйста.^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3116,
         "file": "Voice03/03-SB/03-SB-G07/03-SB-G07-0050",
         "layer": 0,
         "persona": "nan",
@@ -50,20 +54,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 11000,
+        "end": 11150,
         "file": "Event03/03-SB/03-SB-G07/03-SB-G07-002",
         "start": 1150
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4066,
         "persona": "Макото",
         "start": 3133,
         "text": "Места есть?^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4066,
         "file": "Voice03/03-SB/03-SB-G07/03-SB-G07-0060",
         "layer": 1,
         "persona": "mak",
@@ -71,14 +75,14 @@
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7183,
         "persona": "Нанами",
         "start": 4066,
         "text": "Ага. Садитесь за стойку.^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7183,
         "file": "Voice03/03-SB/03-SB-G07/03-SB-G07-0070",
         "layer": 0,
         "persona": "nan",
@@ -86,14 +90,14 @@
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10133,
         "persona": "Макото",
         "start": 7183,
         "text": "Нам бы на двоих места...^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10133,
         "file": "Voice03/03-SB/03-SB-G07/03-SB-G07-0080",
         "layer": 1,
         "persona": "mak",
@@ -101,14 +105,14 @@
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11133,
         "persona": "Нанами",
         "start": 10133,
         "text": "Двоих?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11133,
         "file": "Voice03/03-SB/03-SB-G07/03-SB-G07-0090",
         "layer": 0,
         "persona": "nan",
@@ -131,20 +135,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 15000,
+        "end": 15116,
         "file": "Event03/03-SB/03-SB-G07/03-SB-G07-003",
         "start": 11150
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13066,
         "persona": "Нанами",
         "start": 12016,
         "text": "Кацура?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13066,
         "file": "Voice03/03-SB/03-SB-G07/03-SB-G07-0120",
         "layer": 0,
         "persona": "nan",
@@ -152,14 +156,14 @@
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15100,
         "persona": "Котоноха",
         "start": 13050,
         "text": "П-привет...^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15100,
         "file": "Voice03/03-SB/03-SB-G07/03-SB-G07-0130",
         "layer": 0,
         "persona": "kot",
@@ -167,20 +171,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 26000,
+        "end": 26300,
         "file": "Event03/03-SB/03-SB-G07/03-SB-G07-004",
         "start": 15116
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17350,
         "persona": "Макото",
         "start": 15116,
         "text": "Вы знакомы?^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17350,
         "file": "Voice03/03-SB/03-SB-G07/03-SB-G07-0140",
         "layer": 1,
         "persona": "mak",
@@ -188,14 +192,14 @@
     },
     {
         "action": "PrintText",
-        "end": 19000,
+        "end": 19216,
         "persona": "Нанами",
         "start": 17366,
         "text": "В одной средней школе учились.^"
     },
     {
         "action": "PlayVoice",
-        "end": 19000,
+        "end": 19216,
         "file": "Voice03/03-SB/03-SB-G07/03-SB-G07-0150",
         "layer": 0,
         "persona": "nan",
@@ -203,14 +207,14 @@
     },
     {
         "action": "PrintText",
-        "end": 25000,
+        "end": 25300,
         "persona": "Макото",
         "start": 19216,
         "text": "Ясно. Проводи нас до мест? Вон, напротив пусто. Туда сесть можно?^"
     },
     {
         "action": "PlayVoice",
-        "end": 25000,
+        "end": 25300,
         "file": "Voice03/03-SB/03-SB-G07/03-SB-G07-0160",
         "layer": 1,
         "persona": "mak",
@@ -218,14 +222,14 @@
     },
     {
         "action": "PrintText",
-        "end": 26000,
+        "end": 26283,
         "persona": "Нанами",
         "start": 25316,
         "text": "Да.^"
     },
     {
         "action": "PlayVoice",
-        "end": 26000,
+        "end": 26283,
         "file": "Voice03/03-SB/03-SB-G07/03-SB-G07-0170",
         "layer": 0,
         "persona": "nan",
@@ -233,14 +237,14 @@
     },
     {
         "action": "PrintText",
-        "end": 27000,
+        "end": 27366,
         "persona": "Нанами",
         "start": 26283,
         "text": "Сэцуна!^"
     },
     {
         "action": "PlayVoice",
-        "end": 27000,
+        "end": 27366,
         "file": "Voice03/03-SB/03-SB-G07/03-SB-G07-0200",
         "layer": 0,
         "persona": "nan",
@@ -254,14 +258,14 @@
     },
     {
         "action": "PrintText",
-        "end": 29000,
+        "end": 29016,
         "persona": "Сэцуна",
         "start": 27350,
         "text": "Что такое?^"
     },
     {
         "action": "PlayVoice",
-        "end": 29000,
+        "end": 29016,
         "file": "Voice03/03-SB/03-SB-G07/03-SB-G07-0210",
         "layer": 0,
         "persona": "set",
@@ -269,21 +273,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 58000,
+        "end": 58116,
         "file": "Se03/03-SB/03-SB-G07/SE03-SB-G07-001",
         "layer": 2,
         "start": 29000
     },
     {
         "action": "PrintText",
-        "end": 30000,
+        "end": 30333,
         "persona": "Нанами",
         "start": 29033,
         "text": "Тут Ито пришёл.^"
     },
     {
         "action": "PlayVoice",
-        "end": 30000,
+        "end": 30333,
         "file": "Voice03/03-SB/03-SB-G07/03-SB-G07-0220",
         "layer": 0,
         "persona": "nan",
@@ -291,14 +295,14 @@
     },
     {
         "action": "PrintText",
-        "end": 34000,
+        "end": 34016,
         "persona": "Сэцуна",
         "start": 30316,
         "text": "Он разве не на перерыве?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 34000,
+        "end": 34016,
         "file": "Voice03/03-SB/03-SB-G07/03-SB-G07-0230",
         "layer": 0,
         "persona": "set",
@@ -306,20 +310,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 36000,
+        "end": 36283,
         "file": "Event03/03-SB/03-SB-G07/03-SB-G07-006",
         "start": 34000
     },
     {
         "action": "PrintText",
-        "end": 36000,
+        "end": 36283,
         "persona": "Нанами",
         "start": 34016,
         "text": "На перерыве, но... Гляди.^"
     },
     {
         "action": "PlayVoice",
-        "end": 36000,
+        "end": 36283,
         "file": "Voice03/03-SB/03-SB-G07/03-SB-G07-0240",
         "layer": 0,
         "persona": "nan",
@@ -327,14 +331,14 @@
     },
     {
         "action": "PrintText",
-        "end": 37000,
+        "end": 37200,
         "persona": "Сэцуна",
         "start": 36266,
         "text": "Кто она?^"
     },
     {
         "action": "PlayVoice",
-        "end": 37000,
+        "end": 37200,
         "file": "Voice03/03-SB/03-SB-G07/03-SB-G07-0260",
         "layer": 0,
         "persona": "set",
@@ -342,7 +346,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 37000,
+        "end": 37200,
         "file": "Event03/03-SB/03-SB-G07/03-SB-G07-007",
         "start": 36283
     },
@@ -354,14 +358,14 @@
     },
     {
         "action": "PrintText",
-        "end": 47000,
+        "end": 47116,
         "persona": "Нанами",
         "start": 37200,
         "text": "Со мной училась. Кацурой зовут. Капуша, но парням нравится. Девочки её сторонятся.^"
     },
     {
         "action": "PlayVoice",
-        "end": 47000,
+        "end": 47116,
         "file": "Voice03/03-SB/03-SB-G07/03-SB-G07-0270",
         "layer": 0,
         "persona": "nan",
@@ -369,20 +373,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 61000,
+        "end": 61266,
         "file": "Event03/03-SB/03-SB-G07/03-SB-G07-009",
         "start": 47000
     },
     {
         "action": "PrintText",
-        "end": 50000,
+        "end": 50066,
         "persona": "Сэцуна",
         "start": 47016,
         "text": "И теперь она решила Ито закадрить?^"
     },
     {
         "action": "PlayVoice",
-        "end": 50000,
+        "end": 50066,
         "file": "Voice03/03-SB/03-SB-G07/03-SB-G07-0280",
         "layer": 0,
         "persona": "set",
@@ -405,14 +409,14 @@
     },
     {
         "action": "PrintText",
-        "end": 55000,
+        "end": 55366,
         "persona": "Сэцуна",
         "start": 53000,
         "text": "Скоро уже вернуться должна.^"
     },
     {
         "action": "PlayVoice",
-        "end": 55000,
+        "end": 55366,
         "file": "Voice03/03-SB/03-SB-G07/03-SB-G07-0300",
         "layer": 0,
         "persona": "set",
@@ -420,14 +424,14 @@
     },
     {
         "action": "PrintText",
-        "end": 59000,
+        "end": 59383,
         "persona": "Нанами",
         "start": 55366,
         "text": "Она ведь не знает?.. Про них двоих.^"
     },
     {
         "action": "PlayVoice",
-        "end": 59000,
+        "end": 59383,
         "file": "Voice03/03-SB/03-SB-G07/03-SB-G07-0310",
         "layer": 0,
         "persona": "nan",
@@ -442,14 +446,14 @@
     },
     {
         "action": "PrintText",
-        "end": 60000,
+        "end": 60316,
         "persona": "Сэцуна",
         "start": 59383,
         "text": "Наверное...^"
     },
     {
         "action": "PlayVoice",
-        "end": 60000,
+        "end": 60316,
         "file": "Voice03/03-SB/03-SB-G07/03-SB-G07-0320",
         "layer": 0,
         "persona": "set",
@@ -457,14 +461,14 @@
     },
     {
         "action": "PrintText",
-        "end": 61000,
+        "end": 61250,
         "persona": "Нанами",
         "start": 60316,
         "text": "Что будем делать?^"
     },
     {
         "action": "PlayVoice",
-        "end": 61000,
+        "end": 61250,
         "file": "Voice03/03-SB/03-SB-G07/03-SB-G07-0330",
         "layer": 0,
         "persona": "nan",
@@ -472,14 +476,14 @@
     },
     {
         "action": "PrintText",
-        "end": 62000,
+        "end": 62350,
         "persona": "Сэцуна",
         "start": 61250,
         "text": "Разлучим.^"
     },
     {
         "action": "PlayVoice",
-        "end": 62000,
+        "end": 62350,
         "file": "Voice03/03-SB/03-SB-G07/03-SB-G07-0340",
         "layer": 0,
         "persona": "set",
@@ -487,20 +491,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 64000,
+        "end": 64350,
         "file": "Event03/03-SB/03-SB-G07/03-SB-G07-010",
         "start": 61266
     },
     {
         "action": "PrintText",
-        "end": 63000,
+        "end": 63366,
         "persona": "Нанами",
         "start": 62350,
         "text": "Как?^"
     },
     {
         "action": "PlayVoice",
-        "end": 63000,
+        "end": 63366,
         "file": "Voice03/03-SB/03-SB-G07/03-SB-G07-0350",
         "layer": 0,
         "persona": "nan",
@@ -508,14 +512,14 @@
     },
     {
         "action": "PrintText",
-        "end": 64000,
+        "end": 64333,
         "persona": "Сэцуна",
         "start": 63366,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 64000,
+        "end": 64333,
         "file": "Voice03/03-SB/03-SB-G07/03-SB-G07-0360",
         "layer": 0,
         "persona": "xxx",
@@ -523,14 +527,14 @@
     },
     {
         "action": "PrintText",
-        "end": 67000,
+        "end": 67216,
         "persona": "Макото",
         "start": 64333,
         "text": "Пирожные в нашем классе очень вкусные.^"
     },
     {
         "action": "PlayVoice",
-        "end": 67000,
+        "end": 67216,
         "file": "Voice03/03-SB/03-SB-G07/03-SB-G07-0380",
         "layer": 1,
         "persona": "mak",
@@ -538,20 +542,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 85000,
+        "end": 85233,
         "file": "Event03/03-SB/03-SB-G07/03-SB-G07-011",
         "start": 64350
     },
     {
         "action": "PrintText",
-        "end": 68000,
+        "end": 68233,
         "persona": "Котоноха",
         "start": 67216,
         "text": "Да?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 68000,
+        "end": 68233,
         "file": "Voice03/03-SB/03-SB-G07/03-SB-G07-0390",
         "layer": 0,
         "persona": "kot",
@@ -559,14 +563,14 @@
     },
     {
         "action": "PrintText",
-        "end": 75000,
+        "end": 75050,
         "persona": "Макото",
         "start": 68233,
         "text": "У нас у одной девчонки дома кондитерская. Их заварные даже по ТВ показывали.^"
     },
     {
         "action": "PlayVoice",
-        "end": 75000,
+        "end": 75050,
         "file": "Voice03/03-SB/03-SB-G07/03-SB-G07-0400",
         "layer": 1,
         "persona": "mak",
@@ -574,14 +578,14 @@
     },
     {
         "action": "PrintText",
-        "end": 78000,
+        "end": 78083,
         "persona": "Котоноха",
         "start": 75050,
         "text": "А!.. Я, может, даже видела!^"
     },
     {
         "action": "PlayVoice",
-        "end": 78000,
+        "end": 78083,
         "file": "Voice03/03-SB/03-SB-G07/03-SB-G07-0410",
         "layer": 0,
         "persona": "kot",
@@ -589,14 +593,14 @@
     },
     {
         "action": "PrintText",
-        "end": 85000,
+        "end": 85216,
         "persona": "Макото",
         "start": 78083,
         "text": "Вот. По секрету, наши к ней домой ходили, там им родители помогали пирожные печь.^"
     },
     {
         "action": "PlayVoice",
-        "end": 85000,
+        "end": 85216,
         "file": "Voice03/03-SB/03-SB-G07/03-SB-G07-0420",
         "layer": 1,
         "persona": "mak",
@@ -604,14 +608,14 @@
     },
     {
         "action": "PrintText",
-        "end": 87000,
+        "end": 87133,
         "persona": "Котоноха",
         "start": 85216,
         "text": "Серьёзный подход.^"
     },
     {
         "action": "PlayVoice",
-        "end": 87000,
+        "end": 87133,
         "file": "Voice03/03-SB/03-SB-G07/03-SB-G07-0430",
         "layer": 0,
         "persona": "kot",
@@ -619,7 +623,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 88000,
+        "end": 88150,
         "file": "Event03/03-SB/03-SB-G07/03-SB-G07-012",
         "start": 85233
     },
@@ -632,14 +636,14 @@
     },
     {
         "action": "PrintText",
-        "end": 88000,
+        "end": 88150,
         "persona": "Макото",
         "start": 87133,
         "text": "Ещё какой.^"
     },
     {
         "action": "PlayVoice",
-        "end": 88000,
+        "end": 88150,
         "file": "Voice03/03-SB/03-SB-G07/03-SB-G07-0440",
         "layer": 1,
         "persona": "mak",
@@ -647,20 +651,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 98000,
+        "end": 98150,
         "file": "Event03/03-SB/03-SB-G07/03-SB-G07-013",
         "start": 88150
     },
     {
         "action": "PrintText",
-        "end": 93000,
+        "end": 93333,
         "persona": "Макото",
         "start": 88150,
         "text": "О... Чего так долго? Нам...^"
     },
     {
         "action": "PlayVoice",
-        "end": 93000,
+        "end": 93333,
         "file": "Voice03/03-SB/03-SB-G07/03-SB-G07-0460",
         "layer": 1,
         "persona": "mak",
@@ -668,14 +672,14 @@
     },
     {
         "action": "PrintText",
-        "end": 94000,
+        "end": 94283,
         "persona": "Нанами",
         "start": 93333,
         "text": "Ито.^"
     },
     {
         "action": "PlayVoice",
-        "end": 94000,
+        "end": 94283,
         "file": "Voice03/03-SB/03-SB-G07/03-SB-G07-0470",
         "layer": 0,
         "persona": "nan",
@@ -683,14 +687,14 @@
     },
     {
         "action": "PrintText",
-        "end": 95000,
+        "end": 95116,
         "persona": "Макото",
         "start": 94266,
         "text": "Что?^"
     },
     {
         "action": "PlayVoice",
-        "end": 95000,
+        "end": 95116,
         "file": "Voice03/03-SB/03-SB-G07/03-SB-G07-0480",
         "layer": 1,
         "persona": "mak",
@@ -698,14 +702,14 @@
     },
     {
         "action": "PrintText",
-        "end": 98000,
+        "end": 98133,
         "persona": "Сэцуна",
         "start": 95116,
         "text": "Людей не хватает. Помоги.^"
     },
     {
         "action": "PlayVoice",
-        "end": 98000,
+        "end": 98133,
         "file": "Voice03/03-SB/03-SB-G07/03-SB-G07-0490",
         "layer": 0,
         "persona": "set",
@@ -719,14 +723,14 @@
     },
     {
         "action": "PrintText",
-        "end": 102000,
+        "end": 102133,
         "persona": "Макото",
         "start": 98150,
         "text": "С чего вдруг? Я только недавно освободился.^"
     },
     {
         "action": "PlayVoice",
-        "end": 102000,
+        "end": 102133,
         "file": "Voice03/03-SB/03-SB-G07/03-SB-G07-0500",
         "layer": 1,
         "persona": "mak",
@@ -734,14 +738,14 @@
     },
     {
         "action": "PrintText",
-        "end": 103000,
+        "end": 103233,
         "persona": "Сэцуна",
         "start": 102133,
         "text": "Помоги.^"
     },
     {
         "action": "PlayVoice",
-        "end": 103000,
+        "end": 103233,
         "file": "Voice03/03-SB/03-SB-G07/03-SB-G07-0510",
         "layer": 0,
         "persona": "set",
@@ -749,14 +753,14 @@
     },
     {
         "action": "PrintText",
-        "end": 104000,
+        "end": 104316,
         "persona": "Макото",
         "start": 103233,
         "text": "Ну, блин.^"
     },
     {
         "action": "PlayVoice",
-        "end": 104000,
+        "end": 104316,
         "file": "Voice03/03-SB/03-SB-G07/03-SB-G07-0520",
         "layer": 1,
         "persona": "mak",
@@ -766,7 +770,11 @@
         "action": "SetSELECT",
         "answer1": "Ладно, помогу.^",
         "answer2": "Занят я. Не могу.^",
-        "end": 109000,
+        "end": 109333,
         "start": 104333
+    },
+    {
+        "action": "Next",
+        "start": 111000
     }
 ]

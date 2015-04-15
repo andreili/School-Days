@@ -1,39 +1,43 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 13133
+    },
+    {
         "action": "PlayBgm",
-        "end": 13000,
+        "end": 13133,
         "file": "BGM/SD_BGM/sdbgm06",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 13000,
+        "end": 13133,
         "file": "Se01/01-00/01-00-B00/SE01-00-B00-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1233,
         "file": "Event01/01-00/01-00-D03/01-00-D03-001",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5033,
         "file": "Event01/01-00/01-00-D03/01-00-D03-002",
         "start": 1233
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5383,
         "persona": "Сэкаи",
         "start": 1333,
         "text": "Ладно, мне тут ещё в одно место нужно зайти. Пока!^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5383,
         "file": "Voice01/01-00/01-00-D03/01-00-D03-0030",
         "layer": 0,
         "persona": "sek",
@@ -41,29 +45,33 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9066,
         "file": "Event01/01-00/01-00-B00/01-00-B00-001",
         "start": 5033
     },
     {
         "action": "CreateBG",
-        "end": 13000,
+        "end": 13133,
         "file": "Event01/01-00/01-00-D03/01-00-D03-004",
         "start": 9066
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12066,
         "persona": "Макото",
         "start": 9166,
         "text": "Да. Видно, ничего не поделаешь.^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12066,
         "file": "Voice01/01-00/01-00-D03/01-00-D03-0050",
         "layer": 1,
         "persona": "mak",
         "start": 9166
+    },
+    {
+        "action": "Next",
+        "start": 13133
     }
 ]

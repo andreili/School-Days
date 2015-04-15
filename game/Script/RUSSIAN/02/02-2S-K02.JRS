@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 4316
+    },
+    {
         "action": "PlayBgm",
-        "end": 4000,
+        "end": 4316,
         "file": "BGM/SD_BGM/sdbgm06",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4316,
         "file": "Event02/02-2S/02-2S-K02/02-2S-K02-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3050,
         "persona": "Председатель^",
         "start": 100,
         "text": "На этом закончим сегодняшнее собрание.^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3050,
         "file": "Voice02/02-2S/02-2S-K02/02-2S-K02-0050",
         "layer": 1,
         "persona": "iin",
@@ -29,7 +33,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 4000,
+        "end": 4316,
         "start": 3316
+    },
+    {
+        "action": "Next",
+        "start": 4316
     }
 ]

@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 8100
+    },
+    {
         "action": "PlayBgm",
-        "end": 8000,
+        "end": 8100,
         "file": "BGM/SD_BGM/sdbgm07",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 8000,
+        "end": 8100,
         "file": "Se03/03-KA/03-KA-H02/SE03-KA-H02-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5316,
         "file": "Event03/03-KA/03-KA-H02/03-KA-H02-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1133,
         "persona": "Макото",
         "start": 0,
         "text": "К тому же мне было нечем заняться.^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1133,
         "file": "Voice03/03-KA/03-KA-H02/03-KA-H02-0030",
         "layer": 1,
         "persona": "mak",
@@ -35,14 +39,14 @@
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2350,
         "persona": "Котоноха",
         "start": 1133,
         "text": "Правда?^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2350,
         "file": "Voice03/03-KA/03-KA-H02/03-KA-H02-0040",
         "layer": 0,
         "persona": "kot",
@@ -50,14 +54,14 @@
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5300,
         "persona": "Макото",
         "start": 2350,
         "text": "Ну, теперь ты знаешь. Так что будем работать вместе.^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5300,
         "file": "Voice03/03-KA/03-KA-H02/03-KA-H02-0050",
         "layer": 1,
         "persona": "mak",
@@ -65,14 +69,14 @@
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7300,
         "persona": "Котоноха",
         "start": 5300,
         "text": "Да, будем вдвоём.^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7300,
         "file": "Voice03/03-KA/03-KA-H02/03-KA-H02-0060",
         "layer": 0,
         "persona": "kot",
@@ -80,8 +84,12 @@
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8100,
         "file": "Event03/03-KA/03-KA-H02/03-KA-H02-002",
         "start": 5316
+    },
+    {
+        "action": "Next",
+        "start": 8100
     }
 ]

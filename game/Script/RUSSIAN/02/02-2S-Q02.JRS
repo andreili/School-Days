@@ -1,5 +1,9 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 4000
+    },
+    {
         "action": "PlayBgm",
         "end": 4000,
         "file": "BGM/SD_BGM/sdbgm01",
@@ -20,14 +24,14 @@
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2200,
         "persona": "Макото",
         "start": 200,
         "text": "Доброе...^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2200,
         "file": "Voice02/02-2S/02-2S-Q02/02-2S-Q02-0040",
         "layer": 1,
         "persona": "mak",
@@ -38,5 +42,9 @@
         "dir": "OUT",
         "end": 4000,
         "start": 3000
+    },
+    {
+        "action": "Next",
+        "start": 4000
     }
 ]

@@ -1,27 +1,31 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 9016
+    },
+    {
         "action": "PlaySe",
-        "end": 15000,
+        "end": 15033,
         "file": "Se03/03-SB/03-SB-H09/SE03-SB-H09-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1033,
         "file": "Event03/03-SB/03-SB-H09/03-SB-H09-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1033,
         "persona": "Макото",
         "start": 0,
         "text": "Фух...^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1033,
         "file": "Voice03/03-SB/03-SB-H09/03-SB-H09-0030",
         "layer": 1,
         "persona": "mak",
@@ -29,20 +33,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5016,
         "file": "Event03/03-SB/03-SB-H09/03-SB-H09-002",
         "start": 1033
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5016,
         "persona": "Макото",
         "start": 1033,
         "text": "Таисукэ мне говорил «Помирись с Сэкаи», а толку-то...^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5016,
         "file": "Voice03/03-SB/03-SB-H09/03-SB-H09-0040",
         "layer": 1,
         "persona": "mak",
@@ -50,20 +54,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7166,
         "file": "Event03/03-SB/03-SB-H09/03-SB-H09-003",
         "start": 5016
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7150,
         "persona": "Макото",
         "start": 5016,
         "text": "Я её даже найти не могу.^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7150,
         "file": "Voice03/03-SB/03-SB-H09/03-SB-H09-0050",
         "layer": 1,
         "persona": "mak",
@@ -71,14 +75,14 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9066,
         "persona": "Макото",
         "start": 7150,
         "text": "Что же мне делать?^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9066,
         "file": "Voice03/03-SB/03-SB-H09/03-SB-H09-0060",
         "layer": 1,
         "persona": "mak",
@@ -86,7 +90,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 15000,
+        "end": 15033,
         "file": "Event03/03-SB/03-SB-H09/03-SB-H09-004",
         "start": 7166
     },
@@ -94,7 +98,11 @@
         "action": "SetSELECT",
         "answer1": "Продолжить поиски.^",
         "answer2": "NULL",
-        "end": 9000,
+        "end": 9016,
         "start": 9016
+    },
+    {
+        "action": "Next",
+        "start": 15033
     }
 ]

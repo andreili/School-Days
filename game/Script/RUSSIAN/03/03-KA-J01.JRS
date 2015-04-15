@@ -1,13 +1,17 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 19316
+    },
+    {
         "action": "PlayBgm",
-        "end": 19000,
+        "end": 19300,
         "file": "BGM/SD_BGM/sdbgm06",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 19000,
+        "end": 19316,
         "file": "Se03/03-KA/03-KA-J01/SE03-KA-J01-001",
         "layer": 1,
         "start": 0
@@ -20,20 +24,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5233,
         "file": "Event03/03-KA/03-KA-J01/03-KA-J01-002",
         "start": 3000
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5150,
         "persona": "Макото",
         "start": 3116,
         "text": "Ну вот...^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5150,
         "file": "Voice03/03-KA/03-KA-J01/03-KA-J01-0030",
         "layer": 1,
         "persona": "mak",
@@ -41,20 +45,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9016,
         "file": "Event03/03-KA/03-KA-J01/03-KA-J01-003",
         "start": 5233
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8283,
         "persona": "Макото",
         "start": 5366,
         "text": "И с Сэкаи теперь не поешь...^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8283,
         "file": "Voice03/03-KA/03-KA-J01/03-KA-J01-0040",
         "layer": 1,
         "persona": "mak",
@@ -62,20 +66,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 13000,
+        "end": 13250,
         "file": "Event03/03-KA/03-KA-J01/03-KA-J01-004",
         "start": 9016
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13083,
         "persona": "Макото",
         "start": 9150,
         "text": "Да и Котоноха уже наверняка в класс вернулась.^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13083,
         "file": "Voice03/03-KA/03-KA-J01/03-KA-J01-0050",
         "layer": 1,
         "persona": "mak",
@@ -83,20 +87,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 15000,
+        "end": 15233,
         "file": "Event03/03-KA/03-KA-J01/03-KA-J01-005",
         "start": 13250
     },
     {
         "action": "PrintText",
-        "end": 18000,
+        "end": 18216,
         "persona": "Макото",
         "start": 13316,
         "text": "Ладно, пойду в столовке поем.^"
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18216,
         "file": "Voice03/03-KA/03-KA-J01/03-KA-J01-0060",
         "layer": 1,
         "persona": "mak",
@@ -104,14 +108,18 @@
     },
     {
         "action": "CreateBG",
-        "end": 19000,
+        "end": 19300,
         "file": "Event03/03-KA/03-KA-J01/03-KA-J01-002",
         "start": 15233
     },
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 19000,
+        "end": 19300,
         "start": 18300
+    },
+    {
+        "action": "Next",
+        "start": 19316
     }
 ]

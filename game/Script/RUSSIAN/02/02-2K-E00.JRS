@@ -1,7 +1,11 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 10050
+    },
+    {
         "action": "PlaySe",
-        "end": 10000,
+        "end": 10050,
         "file": "SysSe/SE_all/gaya/kyousitu_rouka",
         "layer": 1,
         "start": 0
@@ -14,14 +18,18 @@
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6133,
         "file": "Event02/02-2K/02-2K-E00/02-2K-E00-002",
         "start": 3000
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10050,
         "file": "Event02/02-2K/02-2K-E00/02-2K-E00-003",
         "start": 6133
+    },
+    {
+        "action": "Next",
+        "start": 10050
     }
 ]

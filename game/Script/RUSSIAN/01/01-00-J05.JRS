@@ -1,27 +1,31 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 29300
+    },
+    {
         "action": "PlaySe",
-        "end": 29000,
+        "end": 29300,
         "file": "Se01/01-00/01-00-B00/SE01-00-B00-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2266,
         "file": "Event01/01-00/01-00-J05/01-00-J05-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1133,
         "persona": "Сэцуна",
         "start": 100,
         "text": "Кацура.^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1133,
         "file": "Voice01/01-00/01-00-J05/01-00-J05-0030",
         "layer": 0,
         "persona": "set",
@@ -29,14 +33,14 @@
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2266,
         "persona": "Котоноха",
         "start": 1050,
         "text": "Да?^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2266,
         "file": "Voice01/01-00/01-00-J05/01-00-J05-0040",
         "layer": 0,
         "persona": "kot",
@@ -44,20 +48,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9150,
         "file": "Event01/01-00/01-00-J05/01-00-J05-002",
         "start": 2266
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6266,
         "persona": "Сэцуна",
         "start": 2266,
         "text": "Совещание начинается. Все уже собрались.^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6266,
         "file": "Voice01/01-00/01-00-J05/01-00-J05-0050",
         "layer": 0,
         "persona": "set",
@@ -65,14 +69,14 @@
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11200,
         "persona": "Котоноха",
         "start": 6133,
         "text": "Да. Уже иду! Пока, Ито...^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11200,
         "file": "Voice01/01-00/01-00-J05/01-00-J05-0060",
         "layer": 0,
         "persona": "kot",
@@ -80,20 +84,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12350,
         "file": "Event01/01-00/01-00-J05/01-00-J05-003",
         "start": 9150
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12133,
         "persona": "Макото",
         "start": 10383,
         "text": "Подожди!^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12133,
         "file": "Voice01/01-00/01-00-J05/01-00-J05-0070",
         "layer": 1,
         "persona": "mak",
@@ -101,20 +105,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 21000,
+        "end": 21250,
         "file": "Event01/01-00/01-00-J05/01-00-J05-004",
         "start": 12350
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14100,
         "persona": "Макото",
         "start": 13016,
         "text": "Кацура...^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14100,
         "file": "Voice01/01-00/01-00-J05/01-00-J05-0090",
         "layer": 1,
         "persona": "mak",
@@ -122,14 +126,14 @@
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15266,
         "persona": "Сэцуна",
         "start": 14183,
         "text": "Ито...^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15266,
         "file": "Voice01/01-00/01-00-J05/01-00-J05-0100",
         "layer": 0,
         "persona": "set",
@@ -137,14 +141,14 @@
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17133,
         "persona": "Макото",
         "start": 15266,
         "text": "Чего тебе?^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17133,
         "file": "Voice01/01-00/01-00-J05/01-00-J05-0110",
         "layer": 1,
         "persona": "mak",
@@ -152,21 +156,21 @@
     },
     {
         "action": "PrintText",
-        "end": 22000,
+        "end": 22083,
         "persona": "Сэцуна",
         "start": 17150,
         "text": "Встречаешься с другой девушкой за спиной у Сэкаи?^"
     },
     {
         "action": "PrintText",
-        "end": 24000,
+        "end": 24083,
         "persona": "Сэцуна",
         "start": 22083,
         "text": "Всё ей расскажу!^"
     },
     {
         "action": "PlayVoice",
-        "end": 24000,
+        "end": 24083,
         "file": "Voice01/01-00/01-00-J05/01-00-J05-0120",
         "layer": 0,
         "persona": "set",
@@ -174,20 +178,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 25000,
+        "end": 25283,
         "file": "Event01/01-00/01-00-J05/01-00-J05-005",
         "start": 21250
     },
     {
         "action": "PrintText",
-        "end": 26000,
+        "end": 26066,
         "persona": "Макото",
         "start": 23383,
         "text": "Что? Это недоразумение!^"
     },
     {
         "action": "PlayVoice",
-        "end": 26000,
+        "end": 26066,
         "file": "Voice01/01-00/01-00-J05/01-00-J05-0130",
         "layer": 1,
         "persona": "mak",
@@ -195,20 +199,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 26000,
+        "end": 26300,
         "file": "Event01/01-00/01-00-J05/01-00-J05-006",
         "start": 25283
     },
     {
         "action": "PrintText",
-        "end": 26000,
+        "end": 26250,
         "persona": "Сэцуна",
         "start": 26016,
         "text": "Хы...^"
     },
     {
         "action": "PlayVoice",
-        "end": 26000,
+        "end": 26250,
         "file": "Voice01/01-00/01-00-J05/01-00-J05-0140",
         "layer": 0,
         "persona": "set",
@@ -216,20 +220,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 29000,
+        "end": 29300,
         "file": "Event01/01-00/01-00-J05/01-00-J05-007",
         "start": 26300
     },
     {
         "action": "PrintText",
-        "end": 28000,
+        "end": 28066,
         "persona": "Макото",
         "start": 27016,
         "text": "Чёрт!^"
     },
     {
         "action": "PlayVoice",
-        "end": 28000,
+        "end": 28066,
         "file": "Voice01/01-00/01-00-J05/01-00-J05-0160",
         "layer": 1,
         "persona": "mak",
@@ -238,7 +242,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 29000,
+        "end": 29300,
         "start": 28300
+    },
+    {
+        "action": "Next",
+        "start": 29300
     }
 ]

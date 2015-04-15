@@ -1,5 +1,9 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 29366
+    },
+    {
         "action": "PlayBgm",
         "end": 36000,
         "file": "BGM/SD_BGM/sdbgm01",
@@ -14,20 +18,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9150,
         "file": "Event05/05-KB/05-KB-F05/05-KB-F05-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2050,
         "persona": "Нанами",
         "start": 0,
         "text": "Ну, «Земля в иллюминаторе!».^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2050,
         "file": "Voice05/05-KB/05-KB-F05/05-KB-F05-0030",
         "layer": 0,
         "persona": "nan",
@@ -35,14 +39,14 @@
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8116,
         "persona": "Макото",
         "start": 1216,
         "text": "А... Та, что недавно популярной стала? Там ещё Землю и космос с разных углов показывают, она?^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8116,
         "file": "Voice05/05-KB/05-KB-F05/05-KB-F05-0040",
         "layer": 1,
         "persona": "mak",
@@ -50,14 +54,14 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9266,
         "persona": "Нанами",
         "start": 8050,
         "text": "Да-да!^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9266,
         "file": "Voice05/05-KB/05-KB-F05/05-KB-F05-0050",
         "layer": 0,
         "persona": "nan",
@@ -65,20 +69,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12316,
         "file": "Event05/05-KB/05-KB-F05/05-KB-F05-002",
         "start": 9150
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13050,
         "persona": "Макото",
         "start": 9150,
         "text": "Я под такую за 3 секунды усну...^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13050,
         "file": "Voice05/05-KB/05-KB-F05/05-KB-F05-0060",
         "layer": 1,
         "persona": "mak",
@@ -86,20 +90,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 24000,
+        "end": 24016,
         "file": "Event05/05-KB/05-KB-F05/05-KB-F05-003",
         "start": 12316
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16233,
         "persona": "Нанами",
         "start": 12316,
         "text": "Вовсе нет! Она клёвая! Да, Хикари?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16233,
         "file": "Voice05/05-KB/05-KB-F05/05-KB-F05-0070",
         "layer": 0,
         "persona": "nan",
@@ -107,14 +111,14 @@
     },
     {
         "action": "PrintText",
-        "end": 19000,
+        "end": 19183,
         "persona": "Хикари",
         "start": 16183,
         "text": "Ч-ч-чего ты на меня стрелки переводишь-то?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 19000,
+        "end": 19183,
         "file": "Voice05/05-KB/05-KB-F05/05-KB-F05-0080",
         "layer": 0,
         "persona": "hik",
@@ -122,14 +126,14 @@
     },
     {
         "action": "PrintText",
-        "end": 20000,
+        "end": 20300,
         "persona": "Нанами",
         "start": 18366,
         "text": "Ну так и ты присоединяйся к разговору!^"
     },
     {
         "action": "PlayVoice",
-        "end": 20000,
+        "end": 20300,
         "file": "Voice05/05-KB/05-KB-F05/05-KB-F05-0090",
         "layer": 0,
         "persona": "nan",
@@ -137,14 +141,14 @@
     },
     {
         "action": "PrintText",
-        "end": 23000,
+        "end": 23116,
         "persona": "Хикари",
         "start": 20233,
         "text": "И с чего мне с этим Ито...^"
     },
     {
         "action": "PlayVoice",
-        "end": 23000,
+        "end": 23116,
         "file": "Voice05/05-KB/05-KB-F05/05-KB-F05-0100",
         "layer": 0,
         "persona": "hik",
@@ -152,14 +156,14 @@
     },
     {
         "action": "PrintText",
-        "end": 23000,
+        "end": 23283,
         "persona": "Нанами",
         "start": 22350,
         "text": "Ну!^"
     },
     {
         "action": "PlayVoice",
-        "end": 23000,
+        "end": 23283,
         "file": "Voice05/05-KB/05-KB-F05/05-KB-F05-0110",
         "layer": 0,
         "persona": "nan",
@@ -173,14 +177,14 @@
     },
     {
         "action": "PrintText",
-        "end": 28000,
+        "end": 28066,
         "persona": "Хикари",
         "start": 24016,
         "text": "Ну ладно, что вот ты вчера вечером делал?^"
     },
     {
         "action": "PlayVoice",
-        "end": 28000,
+        "end": 28066,
         "file": "Voice05/05-KB/05-KB-F05/05-KB-F05-0120",
         "layer": 0,
         "persona": "hik",
@@ -188,14 +192,14 @@
     },
     {
         "action": "PrintText",
-        "end": 31000,
+        "end": 31083,
         "persona": "Макото",
         "start": 27283,
         "text": "Вчера?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 31000,
+        "end": 31083,
         "file": "Voice05/05-KB/05-KB-F05/05-KB-F05-0130",
         "layer": 1,
         "persona": "mak",
@@ -205,7 +209,11 @@
         "action": "SetSELECT",
         "answer1": "Котоноха в гости приходила.",
         "answer2": "С Сэкаи по телефону болтал.",
-        "end": 34000,
+        "end": 34366,
         "start": 29366
+    },
+    {
+        "action": "Next",
+        "start": 36000
     }
 ]

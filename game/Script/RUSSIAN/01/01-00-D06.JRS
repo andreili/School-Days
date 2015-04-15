@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 18233
+    },
+    {
         "action": "PlayBgm",
-        "end": 18000,
+        "end": 18233,
         "file": "BGM/SD_BGM/sdbgm06",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 18000,
+        "end": 18233,
         "file": "Se01/01-00/01-00-B00/SE01-00-B00-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6116,
         "file": "Event01/01-00/01-00-D06/01-00-D06-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2233,
         "persona": "Сэкаи",
         "start": 200,
         "text": "Что-то случилось?^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2233,
         "file": "Voice01/01-00/01-00-D06/01-00-D06-0030",
         "layer": 0,
         "persona": "sek",
@@ -35,14 +39,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4383,
         "persona": "Макото",
         "start": 2300,
         "text": "Нет, ничего.^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4383,
         "file": "Voice01/01-00/01-00-D06/01-00-D06-0040",
         "layer": 1,
         "persona": "mak",
@@ -50,14 +54,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6050,
         "persona": "Сэкаи",
         "start": 5016,
         "text": "И всё-таки?^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6050,
         "file": "Voice01/01-00/01-00-D06/01-00-D06-0050",
         "layer": 0,
         "persona": "sek",
@@ -65,20 +69,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10083,
         "file": "Event01/01-00/01-00-D06/01-00-D06-002",
         "start": 6116
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10116,
         "persona": "Макото",
         "start": 6250,
         "text": "Непростое это дело - отношения строить...^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10116,
         "file": "Voice01/01-00/01-00-D06/01-00-D06-0060",
         "layer": 1,
         "persona": "mak",
@@ -86,20 +90,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12300,
         "file": "Event01/01-00/01-00-D06/01-00-D06-003",
         "start": 10083
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12316,
         "persona": "Сэкаи",
         "start": 10083,
         "text": "И не говори...^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12316,
         "file": "Voice01/01-00/01-00-D06/01-00-D06-0070",
         "layer": 0,
         "persona": "sek",
@@ -107,20 +111,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 18000,
+        "end": 18233,
         "file": "Event01/01-00/01-00-B00/01-00-B00-003",
         "start": 12300
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15366,
         "persona": "Макото",
         "start": 12300,
         "text": "Ладно, пойду я.^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15366,
         "file": "Voice01/01-00/01-00-D06/01-00-D06-0080",
         "layer": 1,
         "persona": "mak",
@@ -128,14 +132,14 @@
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17150,
         "persona": "Сэкаи",
         "start": 15333,
         "text": "Да, давай. Удачи!^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17150,
         "file": "Voice01/01-00/01-00-D06/01-00-D06-0090",
         "layer": 0,
         "persona": "sek",
@@ -144,7 +148,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 18000,
+        "end": 18233,
         "start": 17233
+    },
+    {
+        "action": "Next",
+        "start": 18233
     }
 ]

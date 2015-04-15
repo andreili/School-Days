@@ -1,5 +1,9 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 15016
+    },
+    {
         "action": "PlayBgm",
         "end": 15000,
         "file": "BGM/SD_BGM/sdbgm20",
@@ -7,20 +11,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 11000,
+        "end": 11166,
         "file": "Event04/04-SA/04-SA-I03/04-SA-I03-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2266,
         "persona": "Макото",
         "start": 116,
         "text": "Да уж, чего тут думать...^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2266,
         "file": "Voice04/04-SA/04-SA-I03/04-SA-I03-0030",
         "layer": 1,
         "persona": "mak",
@@ -43,23 +47,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 15000,
+        "end": 15016,
         "file": "Event04/04-SA/04-SA-I03/04-SA-I03-002",
         "start": 11166
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14066,
         "persona": "Макото",
         "start": 12066,
         "text": "Лучше спать лягу.^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14066,
         "file": "Voice04/04-SA/04-SA-I03/04-SA-I03-0050",
         "layer": 1,
         "persona": "mak",
         "start": 12066
+    },
+    {
+        "action": "Next",
+        "start": 15016
     }
 ]

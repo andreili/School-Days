@@ -1,7 +1,11 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 9350
+    },
+    {
         "action": "PlaySe",
-        "end": 9000,
+        "end": 9350,
         "file": "Se04/04-C1/04-C1-C00/SE04-C1-C00-001",
         "layer": 1,
         "start": 0
@@ -14,20 +18,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9350,
         "file": "Event04/04-C1/04-C1-C00/04-C1-C00-002",
         "start": 3000
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5150,
         "persona": "Котоноха",
         "start": 4000,
         "text": "Макото...^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5150,
         "file": "Voice04/04-C1/04-C1-C00/04-C1-C00-0040",
         "layer": 0,
         "persona": "kot",
@@ -35,17 +39,21 @@
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7150,
         "persona": "Котоноха",
         "start": 6000,
         "text": "Опаздывает...^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7150,
         "file": "Voice04/04-C1/04-C1-C00/04-C1-C00-0060",
         "layer": 0,
         "persona": "kot",
         "start": 6000
+    },
+    {
+        "action": "Next",
+        "start": 9350
     }
 ]

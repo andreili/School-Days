@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 4050
+    },
+    {
         "action": "PlayBgm",
-        "end": 4000,
+        "end": 4050,
         "file": "BGM/SD_BGM/sdbgm20",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4050,
         "file": "Event03/03-BK/03-BK-A07/03-BK-A07-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2116,
         "persona": "Макото",
         "start": 0,
         "text": "Устал...^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2116,
         "file": "Voice03/03-BK/03-BK-A07/03-BK-A07-0030",
         "layer": 1,
         "persona": "mak",
@@ -29,7 +33,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 4000,
+        "end": 4050,
         "start": 3050
+    },
+    {
+        "action": "Next",
+        "start": 4050
     }
 ]

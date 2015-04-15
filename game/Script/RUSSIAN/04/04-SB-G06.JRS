@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 9266
+    },
+    {
         "action": "PlayBgm",
-        "end": 9000,
+        "end": 9266,
         "file": "BGM/SD_BGM/sdbgm29",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9266,
         "file": "Event04/04-SB/04-SB-G06/04-SB-G06-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1133,
         "persona": "Макото",
         "start": 0,
         "text": "Хочешь посмотреть?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1133,
         "file": "Voice04/04-SB/04-SB-G06/04-SB-G06-0030",
         "layer": 1,
         "persona": "mak",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2216,
         "persona": "Хикари",
         "start": 1133,
         "text": "Но...^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2216,
         "file": "Voice04/04-SB/04-SB-G06/04-SB-G06-0040",
         "layer": 0,
         "persona": "hik",
@@ -43,14 +47,14 @@
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3233,
         "persona": "Макото",
         "start": 2216,
         "text": "Боишься?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3233,
         "file": "Voice04/04-SB/04-SB-G06/04-SB-G06-0050",
         "layer": 1,
         "persona": "mak",
@@ -58,14 +62,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4300,
         "persona": "Хикари",
         "start": 3233,
         "text": "Да нет...^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4300,
         "file": "Voice04/04-SB/04-SB-G06/04-SB-G06-0060",
         "layer": 0,
         "persona": "hik",
@@ -73,14 +77,14 @@
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8016,
         "persona": "Макото",
         "start": 4300,
         "text": "Ну давай тогда вместе...^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8016,
         "file": "Voice04/04-SB/04-SB-G06/04-SB-G06-0070",
         "layer": 1,
         "persona": "mak",
@@ -88,17 +92,21 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9116,
         "persona": "Хикари",
         "start": 8216,
         "text": "Угу...^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9116,
         "file": "Voice04/04-SB/04-SB-G06/04-SB-G06-0080",
         "layer": 0,
         "persona": "hik",
         "start": 8216
+    },
+    {
+        "action": "Next",
+        "start": 9266
     }
 ]

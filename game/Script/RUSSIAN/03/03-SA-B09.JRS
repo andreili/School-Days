@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 150283
+    },
+    {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1300,
         "file": "Event03/03-SA/03-SA-B09/03-SA-B09-001",
         "start": 0
     },
     {
         "action": "PlayMovie",
-        "end": 6000,
+        "end": 6333,
         "file": "Movie03/03-SA/03-SA-B09/03-SA-B09-002",
         "start": 1300
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2083,
         "persona": "Макото",
         "start": 1300,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2083,
         "file": "Voice03/03-SA/03-SA-B09/03-SA-B09-0050",
         "layer": 1,
         "persona": "xxx",
@@ -28,20 +32,20 @@
     },
     {
         "action": "EndBGM",
-        "end": 150000,
+        "end": 150183,
         "file": "BGM/Vocal/SDV14",
         "start": 4000
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6316,
         "persona": "Котоноха",
         "start": 5033,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6316,
         "file": "Voice03/03-SA/03-SA-B09/03-SA-B09-0060",
         "layer": 0,
         "persona": "kot",
@@ -49,20 +53,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9350,
         "file": "Event03/03-SA/03-SA-B09/03-SA-B09-003",
         "start": 6333
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12150,
         "persona": "Макото",
         "start": 6333,
         "text": "Котоноха. Я думаю, я...^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12150,
         "file": "Voice03/03-SA/03-SA-B09/03-SA-B09-0070",
         "layer": 1,
         "persona": "mak",
@@ -70,20 +74,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 17000,
+        "end": 17266,
         "file": "Movie03/03-SA/03-SA-B09/03-SA-B09-004",
         "start": 9350
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17250,
         "persona": "Котоноха",
         "start": 12150,
         "text": "Макото, я люблю тебя!^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17250,
         "file": "Voice03/03-SA/03-SA-B09/03-SA-B09-0090",
         "layer": 0,
         "persona": "kot",
@@ -91,21 +95,25 @@
     },
     {
         "action": "PlaySe",
-        "end": 19000,
+        "end": 19333,
         "file": "Voice03/03-SA/03-SA-B09/03-SA-B09-0100",
         "layer": 1,
         "start": 17250
     },
     {
         "action": "PlayMovie",
-        "end": 26000,
+        "end": 26066,
         "file": "Movie03/03-SA/03-SA-B09/03-SA-B09-005",
         "start": 17266
     },
     {
         "action": "EndRoll",
-        "end": 150000,
+        "end": 150283,
         "file": "Movie03/ENDROLL/04-10",
         "start": 26066
+    },
+    {
+        "action": "Next",
+        "start": 151283
     }
 ]

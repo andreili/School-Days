@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 12150
+    },
+    {
         "action": "PlayBgm",
-        "end": 12000,
+        "end": 12150,
         "file": "BGM/SD_BGM/sdbgm20",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 12000,
+        "end": 12150,
         "file": "Se01/01-00/01-00-B00/SE01-00-B00-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1066,
         "file": "Event02/02-2K/02-2K-N01/02-2K-N01-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1116,
         "persona": "Макото",
         "start": 0,
         "text": "Котоноха.^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1116,
         "file": "Voice02/02-2K/02-2K-N01/02-2K-N01-0030",
         "layer": 1,
         "persona": "mak",
@@ -35,20 +39,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6166,
         "file": "Event02/02-2K/02-2K-N01/02-2K-N01-002",
         "start": 1066
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3283,
         "persona": "Котоноха",
         "start": 1116,
         "text": "А... Макото.^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3283,
         "file": "Voice02/02-2K/02-2K-N01/02-2K-N01-0040",
         "layer": 0,
         "persona": "kot",
@@ -56,14 +60,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6166,
         "persona": "Макото",
         "start": 3283,
         "text": "Давай поговорим.^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6166,
         "file": "Voice02/02-2K/02-2K-N01/02-2K-N01-0050",
         "layer": 1,
         "persona": "mak",
@@ -71,20 +75,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9200,
         "file": "Event02/02-2K/02-2K-N01/02-2K-N01-003",
         "start": 6166
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9200,
         "persona": "Котоноха",
         "start": 6166,
         "text": "У меня сегодня собрание...^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9200,
         "file": "Voice02/02-2K/02-2K-N01/02-2K-N01-0060",
         "layer": 0,
         "persona": "kot",
@@ -107,20 +111,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12150,
         "file": "Event02/02-2K/02-2K-E10/02-2K-E10-001",
         "start": 9200
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10216,
         "persona": "Котоноха",
         "start": 9233,
         "text": "А...^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10216,
         "file": "Voice02/02-2K/02-2K-N01/02-2K-N01-0080",
         "layer": 0,
         "persona": "kot",
@@ -129,7 +133,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 12000,
+        "end": 12150,
         "start": 11150
+    },
+    {
+        "action": "Next",
+        "start": 12150
     }
 ]

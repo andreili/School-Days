@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 14300
+    },
+    {
         "action": "PlayBgm",
-        "end": 12000,
+        "end": 12250,
         "file": "BGM/SD_BGM/sdbgm06",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4033,
         "file": "Event01/01-00/01-00-C04/01-00-C04-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3150,
         "persona": "Макото",
         "start": 200,
         "text": "Я не могу без неё...^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3150,
         "file": "Voice01/01-00/01-00-C04/01-00-C04-0030",
         "layer": 1,
         "persona": "xxx",
@@ -29,31 +33,31 @@
     {
         "action": "WhiteFade",
         "dir": "OUT",
-        "end": 4000,
+        "end": 4033,
         "start": 3233
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7050,
         "file": "Event01/01-00/01-00-C04/01-00-C04-002",
         "start": 4033
     },
     {
         "action": "WhiteFade",
         "dir": "IN",
-        "end": 4000,
+        "end": 4233,
         "start": 4033
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9083,
         "persona": "Макото",
         "start": 4316,
         "text": "Мне всегда было с ней так хорошо...^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9083,
         "file": "Voice01/01-00/01-00-C04/01-00-C04-0040",
         "layer": 1,
         "persona": "xxx",
@@ -61,41 +65,45 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9300,
         "file": "Event01/01-00/01-00-C04/01-00-C04-003",
         "start": 7050
     },
     {
         "action": "WhiteFade",
         "dir": "OUT",
-        "end": 9000,
+        "end": 9300,
         "start": 9100
     },
     {
         "action": "CreateBG",
-        "end": 14000,
+        "end": 14300,
         "file": "Event01/01-00/01-00-C01/01-00-C01-001",
         "start": 9300
     },
     {
         "action": "WhiteFade",
         "dir": "IN",
-        "end": 10000,
+        "end": 10100,
         "start": 9300
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11250,
         "persona": "Макото",
         "start": 10300,
         "text": "Вот только...^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11250,
         "file": "Voice01/01-00/01-00-C04/01-00-C04-0050",
         "layer": 1,
         "persona": "xxx",
         "start": 10300
+    },
+    {
+        "action": "Next",
+        "start": 14300
     }
 ]

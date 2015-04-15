@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 70350
+    },
+    {
         "action": "PlaySe",
-        "end": 54000,
+        "end": 54050,
         "file": "SysSe/SE_all/gaya/kyousitu_rouka",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2166,
         "file": "Event05/05-SA/05-SA-S00/05-SA-S00-001",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3250,
         "file": "Event05/05-SA/05-SA-S00/05-SA-S00-002",
         "start": 2166
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3133,
         "persona": "Макото",
         "start": 2283,
         "text": "Э?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3133,
         "file": "Voice05/05-SA/05-SA-S00/05-SA-S00-0030",
         "layer": 1,
         "persona": "mak",
@@ -35,20 +39,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10033,
         "file": "Event05/05-SA/05-SA-S00/05-SA-S00-003",
         "start": 3250
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4216,
         "persona": "Таисукэ",
         "start": 3250,
         "text": "Что такое?^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4216,
         "file": "Voice05/05-SA/05-SA-S00/05-SA-S00-0040",
         "layer": 1,
         "persona": "tai",
@@ -56,14 +60,14 @@
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5200,
         "persona": "Макото",
         "start": 4233,
         "text": "А где Сэкаи?^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5200,
         "file": "Voice05/05-SA/05-SA-S00/05-SA-S00-0050",
         "layer": 1,
         "persona": "mak",
@@ -71,14 +75,14 @@
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8266,
         "persona": "Хикари",
         "start": 5216,
         "text": "А ей плохо стало, она домой ушла.^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8266,
         "file": "Voice05/05-SA/05-SA-S00/05-SA-S00-0060",
         "layer": 0,
         "persona": "hik",
@@ -86,14 +90,14 @@
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10016,
         "persona": "Макото",
         "start": 8266,
         "text": "Плохо...^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10016,
         "file": "Voice05/05-SA/05-SA-S00/05-SA-S00-0070",
         "layer": 1,
         "persona": "mak",
@@ -101,20 +105,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12150,
         "file": "Event05/05-SA/05-SA-S00/05-SA-S00-004",
         "start": 10033
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17300,
         "persona": "Хикари",
         "start": 10033,
         "text": "На физкультуру она пойти-то пошла, но там ей, похоже, стало хуже. Она зашла в медкабинет и отпросилась.^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17300,
         "file": "Voice05/05-SA/05-SA-S00/05-SA-S00-0080",
         "layer": 0,
         "persona": "hik",
@@ -122,20 +126,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 17000,
+        "end": 17316,
         "file": "Event05/05-SA/05-SA-S00/05-SA-S00-005",
         "start": 12150
     },
     {
         "action": "PrintText",
-        "end": 20000,
+        "end": 20266,
         "persona": "Макото",
         "start": 17300,
         "text": "Ясно... Надеюсь, ничего серьёзного.^"
     },
     {
         "action": "PlayVoice",
-        "end": 20000,
+        "end": 20266,
         "file": "Voice05/05-SA/05-SA-S00/05-SA-S00-0090",
         "layer": 1,
         "persona": "mak",
@@ -143,26 +147,26 @@
     },
     {
         "action": "CreateBG",
-        "end": 20000,
+        "end": 20283,
         "file": "Event05/05-SA/05-SA-S00/05-SA-S00-006",
         "start": 17316
     },
     {
         "action": "CreateBG",
-        "end": 24000,
+        "end": 24166,
         "file": "Event05/05-SA/05-SA-S00/05-SA-S00-006B",
         "start": 20283
     },
     {
         "action": "PrintText",
-        "end": 24000,
+        "end": 24166,
         "persona": "Хикари",
         "start": 20283,
         "text": "Ну так сходи попозже да проведай?^"
     },
     {
         "action": "PlayVoice",
-        "end": 24000,
+        "end": 24166,
         "file": "Voice05/05-SA/05-SA-S00/05-SA-S00-0100",
         "layer": 0,
         "persona": "hik",
@@ -170,14 +174,14 @@
     },
     {
         "action": "PrintText",
-        "end": 25000,
+        "end": 25316,
         "persona": "Макото",
         "start": 24150,
         "text": "Ага.^"
     },
     {
         "action": "PlayVoice",
-        "end": 25000,
+        "end": 25316,
         "file": "Voice05/05-SA/05-SA-S00/05-SA-S00-0110",
         "layer": 1,
         "persona": "mak",
@@ -185,20 +189,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 39000,
+        "end": 39300,
         "file": "Event05/05-SA/05-SA-S00/05-SA-S00-006C",
         "start": 24166
     },
     {
         "action": "PrintText",
-        "end": 31000,
+        "end": 31050,
         "persona": "Хикари",
         "start": 25333,
         "text": "Ито, раз ты её парень, так в соответствии статусу приглядывай за ней.^"
     },
     {
         "action": "PlayVoice",
-        "end": 31000,
+        "end": 31050,
         "file": "Voice05/05-SA/05-SA-S00/05-SA-S00-0120",
         "layer": 0,
         "persona": "hik",
@@ -221,14 +225,14 @@
     },
     {
         "action": "PrintText",
-        "end": 39000,
+        "end": 39283,
         "persona": "Хикари",
         "start": 33000,
         "text": "Не хочется, конечно... Но я признаю твои с ней отношения... Вот.^"
     },
     {
         "action": "PlayVoice",
-        "end": 39000,
+        "end": 39283,
         "file": "Voice05/05-SA/05-SA-S00/05-SA-S00-0140",
         "layer": 0,
         "persona": "hik",
@@ -236,14 +240,14 @@
     },
     {
         "action": "PrintText",
-        "end": 42000,
+        "end": 42350,
         "persona": "Макото",
         "start": 39283,
         "text": "Спасибо... Курода.^"
     },
     {
         "action": "PlayVoice",
-        "end": 42000,
+        "end": 42350,
         "file": "Voice05/05-SA/05-SA-S00/05-SA-S00-0150",
         "layer": 1,
         "persona": "mak",
@@ -251,26 +255,26 @@
     },
     {
         "action": "CreateBG",
-        "end": 42000,
+        "end": 42366,
         "file": "Event05/05-SA/05-SA-S00/05-SA-S00-007",
         "start": 39300
     },
     {
         "action": "CreateBG",
-        "end": 52000,
+        "end": 52050,
         "file": "Event05/05-SA/05-SA-S00/05-SA-S00-008",
         "start": 42366
     },
     {
         "action": "PrintText",
-        "end": 47000,
+        "end": 47150,
         "persona": "Хикари",
         "start": 42366,
         "text": "Ну, Таисукэ, пошли уже есть.^"
     },
     {
         "action": "PlayVoice",
-        "end": 47000,
+        "end": 47150,
         "file": "Voice05/05-SA/05-SA-S00/05-SA-S00-0160",
         "layer": 0,
         "persona": "hik",
@@ -278,14 +282,14 @@
     },
     {
         "action": "PrintText",
-        "end": 52000,
+        "end": 52016,
         "persona": "Таисукэ",
         "start": 47133,
         "text": "Э?.. А, ага! Постой, Хикари!^"
     },
     {
         "action": "PlayVoice",
-        "end": 52000,
+        "end": 52016,
         "file": "Voice05/05-SA/05-SA-S00/05-SA-S00-0180",
         "layer": 1,
         "persona": "tai",
@@ -293,27 +297,27 @@
     },
     {
         "action": "PlaySe",
-        "end": 64000,
+        "end": 64300,
         "file": "SysSe/SE_all/school/chime",
         "layer": 2,
         "start": 52033
     },
     {
         "action": "CreateBG",
-        "end": 53000,
+        "end": 53383,
         "file": "Event05/05-SA/05-SA-S00/05-SA-S00-009",
         "start": 52050
     },
     {
         "action": "PrintText",
-        "end": 53000,
+        "end": 53066,
         "persona": "Макото",
         "start": 52216,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 53000,
+        "end": 53066,
         "file": "Voice05/05-SA/05-SA-S00/05-SA-S00-0200",
         "layer": 1,
         "persona": "xxx",
@@ -322,31 +326,31 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 53000,
+        "end": 53383,
         "start": 53183
     },
     {
         "action": "CreateBG",
-        "end": 63000,
+        "end": 63033,
         "file": "Event05/05-SA/05-SA-S00/05-SA-S00-010",
         "start": 53383
     },
     {
         "action": "CreateBG",
-        "end": 64000,
+        "end": 64300,
         "file": "Event05/05-SA/05-SA-S00/05-SA-S00-011",
         "start": 63033
     },
     {
         "action": "PrintText",
-        "end": 65000,
+        "end": 65316,
         "persona": "Макото",
         "start": 63066,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 65000,
+        "end": 65316,
         "file": "Voice05/05-SA/05-SA-S00/05-SA-S00-0240",
         "layer": 1,
         "persona": "xxx",
@@ -354,20 +358,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 66000,
+        "end": 66100,
         "file": "Event05/05-SA/05-SA-S00/05-SA-S00-012",
         "start": 64300
     },
     {
         "action": "PrintText",
-        "end": 68000,
+        "end": 68216,
         "persona": "Котоноха",
         "start": 66083,
         "text": "Макото, пойдём домой.^"
     },
     {
         "action": "PlayVoice",
-        "end": 68000,
+        "end": 68216,
         "file": "Voice05/05-SA/05-SA-S00/05-SA-S00-0260",
         "layer": 0,
         "persona": "kot",
@@ -375,26 +379,26 @@
     },
     {
         "action": "CreateBG",
-        "end": 68000,
+        "end": 68316,
         "file": "Event05/05-SA/05-SA-S00/05-SA-S00-013",
         "start": 66100
     },
     {
         "action": "CreateBG",
-        "end": 70000,
+        "end": 70350,
         "file": "Event05/05-SA/05-SA-S00/05-SA-S00-013B",
         "start": 68316
     },
     {
         "action": "PrintText",
-        "end": 69000,
+        "end": 69200,
         "persona": "Макото",
         "start": 68316,
         "text": "Ага...^"
     },
     {
         "action": "PlayVoice",
-        "end": 69000,
+        "end": 69200,
         "file": "Voice05/05-SA/05-SA-S00/05-SA-S00-0270",
         "layer": 1,
         "persona": "mak",
@@ -403,7 +407,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 70000,
+        "end": 70350,
         "start": 69350
+    },
+    {
+        "action": "Next",
+        "start": 70350
     }
 ]

@@ -1,20 +1,24 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 43250
+    },
+    {
         "action": "PlayBgm",
-        "end": 43000,
+        "end": 43250,
         "file": "BGM/SD_BGM/sdbgm06",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 43000,
+        "end": 43250,
         "file": "Se01/01-00/01-00-B00/SE01-00-B00-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 18000,
+        "end": 18166,
         "file": "SysSe/SE_all/school/chime",
         "layer": 2,
         "start": 0
@@ -33,20 +37,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 14000,
+        "end": 14083,
         "file": "Event02/02-2S/02-2S-U02/02-2S-U02-003",
         "start": 12000
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14066,
         "persona": "Сэкаи",
         "start": 12100,
         "text": "Я к тебе в 7 подойду...^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14066,
         "file": "Voice02/02-2S/02-2S-U02/02-2S-U02-0050",
         "layer": 0,
         "persona": "sek",
@@ -54,20 +58,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 16000,
+        "end": 16183,
         "file": "Event02/02-2S/02-2S-U02/02-2S-U02-004",
         "start": 14083
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16016,
         "persona": "Макото",
         "start": 15066,
         "text": "Хорошо.^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16016,
         "file": "Voice02/02-2S/02-2S-U02/02-2S-U02-0060",
         "layer": 1,
         "persona": "mak",
@@ -75,32 +79,32 @@
     },
     {
         "action": "CreateBG",
-        "end": 20000,
+        "end": 20100,
         "file": "Event02/02-2S/02-2S-U02/02-2S-U02-005",
         "start": 16183
     },
     {
         "action": "CreateBG",
-        "end": 23000,
+        "end": 23383,
         "file": "Event02/02-2S/02-2S-U02/02-2S-U02-006",
         "start": 20100
     },
     {
         "action": "CreateBG",
-        "end": 28000,
+        "end": 28083,
         "file": "Event02/02-2S/02-2S-U02/02-2S-U02-007",
         "start": 23383
     },
     {
         "action": "PrintText",
-        "end": 34000,
+        "end": 34216,
         "persona": "Сэцуна",
         "start": 27116,
         "text": "Сэкаи, пошли домой вместе? Хикари с подружками в Макдональдс хотели зайти.^"
     },
     {
         "action": "PlayVoice",
-        "end": 34000,
+        "end": 34216,
         "file": "Voice02/02-2S/02-2S-U02/02-2S-U02-0090",
         "layer": 0,
         "persona": "set",
@@ -108,20 +112,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 37000,
+        "end": 37316,
         "file": "Event02/02-2S/02-2S-U02/02-2S-U02-008",
         "start": 28083
     },
     {
         "action": "PrintText",
-        "end": 36000,
+        "end": 36333,
         "persona": "Сэкаи",
         "start": 34233,
         "text": "Извини, я сегодня занята.^"
     },
     {
         "action": "PlayVoice",
-        "end": 36000,
+        "end": 36333,
         "file": "Voice02/02-2S/02-2S-U02/02-2S-U02-0100",
         "layer": 0,
         "persona": "sek",
@@ -129,14 +133,14 @@
     },
     {
         "action": "PrintText",
-        "end": 37000,
+        "end": 37266,
         "persona": "Сэцуна",
         "start": 36333,
         "text": "Правда?^"
     },
     {
         "action": "PlayVoice",
-        "end": 37000,
+        "end": 37266,
         "file": "Voice02/02-2S/02-2S-U02/02-2S-U02-0110",
         "layer": 0,
         "persona": "set",
@@ -144,20 +148,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 43000,
+        "end": 43250,
         "file": "Event02/02-2S/02-2S-U02/02-2S-U02-009",
         "start": 37316
     },
     {
         "action": "PrintText",
-        "end": 39000,
+        "end": 39233,
         "persona": "Сэкаи",
         "start": 38016,
         "text": "Слушай, Сэцуна...^"
     },
     {
         "action": "PlayVoice",
-        "end": 39000,
+        "end": 39233,
         "file": "Voice02/02-2S/02-2S-U02/02-2S-U02-0120",
         "layer": 0,
         "persona": "sek",
@@ -165,14 +169,14 @@
     },
     {
         "action": "PrintText",
-        "end": 40000,
+        "end": 40100,
         "persona": "Сэцуна",
         "start": 39250,
         "text": "Ага?^"
     },
     {
         "action": "PlayVoice",
-        "end": 40000,
+        "end": 40100,
         "file": "Voice02/02-2S/02-2S-U02/02-2S-U02-0130",
         "layer": 0,
         "persona": "set",
@@ -180,17 +184,21 @@
     },
     {
         "action": "PrintText",
-        "end": 42000,
+        "end": 42333,
         "persona": "Сэкаи",
         "start": 40266,
         "text": "Есть у меня к тебе просьба.^"
     },
     {
         "action": "PlayVoice",
-        "end": 42000,
+        "end": 42333,
         "file": "Voice02/02-2S/02-2S-U02/02-2S-U02-0140",
         "layer": 0,
         "persona": "sek",
         "start": 40266
+    },
+    {
+        "action": "Next",
+        "start": 43250
     }
 ]

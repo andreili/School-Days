@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 17300
+    },
+    {
         "action": "PlayBgm",
-        "end": 23000,
+        "end": 23300,
         "file": "BGM/SD_BGM/sdbgm07",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 11000,
+        "end": 11366,
         "file": "Event01/01-1K/01-1K-C03/01-1K-C03-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1316,
         "persona": "Макото",
         "start": 0,
         "text": "Хм-м...^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1316,
         "file": "Voice01/01-1K/01-1K-C03/01-1K-C03-0030",
         "layer": 1,
         "persona": "mak",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4216,
         "persona": "Макото",
         "start": 2166,
         "text": "Даже не знаю...^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4216,
         "file": "Voice01/01-1K/01-1K-C03/01-1K-C03-0040",
         "layer": 1,
         "persona": "mak",
@@ -50,14 +54,14 @@
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11366,
         "persona": "Макото",
         "start": 8000,
         "text": "А «Любовный треугольник», вдруг там эротика сплошная.^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11366,
         "file": "Voice01/01-1K/01-1K-C03/01-1K-C03-0050",
         "layer": 1,
         "persona": "mak",
@@ -65,20 +69,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 14000,
+        "end": 14133,
         "file": "Event01/01-1K/01-1K-C01/01-1K-C01-002",
         "start": 11366
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14116,
         "persona": "Макото",
         "start": 12016,
         "text": "Может неловко получиться...^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14116,
         "file": "Voice01/01-1K/01-1K-C03/01-1K-C03-0060",
         "layer": 1,
         "persona": "mak",
@@ -86,20 +90,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 23000,
+        "end": 23300,
         "file": "Event01/01-1K/01-1K-C00/00-00-F00-010WIN",
         "start": 14133
     },
     {
         "action": "PrintText",
-        "end": 18000,
+        "end": 18316,
         "persona": "Макото",
         "start": 14266,
         "text": "А что если...^"
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18316,
         "file": "Voice01/01-1K/01-1K-C03/01-1K-C03-0070",
         "layer": 1,
         "persona": "mak",
@@ -109,7 +113,11 @@
         "action": "SetSELECT",
         "answer1": "Пойти на «Войну Немо».^",
         "answer2": "Попробовать другие фильмы.^",
-        "end": 22000,
+        "end": 22300,
         "start": 17300
+    },
+    {
+        "action": "Next",
+        "start": 23300
     }
 ]

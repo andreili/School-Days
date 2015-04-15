@@ -1,39 +1,43 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 7083
+    },
+    {
         "action": "PlayBgm",
-        "end": 7000,
+        "end": 7083,
         "file": "BGM/SD_BGM/sdbgm03",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 7000,
+        "end": 7083,
         "file": "Se01/01-00/01-00-B00/SE01-00-B00-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3016,
         "file": "Event02/02-2S/02-2S-R00/02-2S-R00-001",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4083,
         "file": "Event02/02-2S/02-2S-R00/02-2S-R00-002",
         "start": 3016
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4016,
         "persona": "Сэкаи",
         "start": 3050,
         "text": "Доброе утро.^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4016,
         "file": "Voice02/02-2S/02-2S-R00/02-2S-R00-0030",
         "layer": 0,
         "persona": "sek",
@@ -41,20 +45,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7083,
         "file": "Event02/02-2S/02-2S-R00/02-2S-R00-003",
         "start": 4083
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4350,
         "persona": "Макото",
         "start": 4100,
         "text": "Ага...^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4350,
         "file": "Voice02/02-2S/02-2S-R00/02-2S-R00-0040",
         "layer": 1,
         "persona": "mak",
@@ -74,5 +78,9 @@
         "layer": 0,
         "persona": "sek",
         "start": 5100
+    },
+    {
+        "action": "Next",
+        "start": 7083
     }
 ]

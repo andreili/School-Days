@@ -1,39 +1,43 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 147066
+    },
+    {
         "action": "PlaySe",
-        "end": 15000,
+        "end": 15266,
         "file": "SysSe/SE_all/station_train/TRAIN_STOPPING",
         "layer": 1,
         "start": 0
     },
     {
         "action": "PlayMovie",
-        "end": 5000,
+        "end": 5266,
         "file": "Movie04/04-KC/04-KC-H04/04-KC-H04-001",
         "start": 0
     },
     {
         "action": "PlayMovie",
-        "end": 10000,
+        "end": 10266,
         "file": "Movie04/04-SA/04-SA-P00/04-SA-P00-003",
         "start": 5266
     },
     {
         "action": "PlayMovie",
-        "end": 15000,
+        "end": 15266,
         "file": "Movie04/04-SA/04-SA-P00/04-SA-P00-004",
         "start": 10266
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13366,
         "persona": "Котоноха",
         "start": 12016,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13366,
         "file": "Voice04/04-KC/04-KC-H04/04-KC-H04-0070",
         "layer": 0,
         "persona": "kot",
@@ -47,26 +51,30 @@
     },
     {
         "action": "EndBGM",
-        "end": 146000,
+        "end": 146350,
         "file": "BGM/Vocal/SDV04",
         "start": 16066
     },
     {
         "action": "PlayMovie",
-        "end": 20000,
+        "end": 20300,
         "file": "Movie04/04-SA/04-SA-P00/04-SA-P00-006",
         "start": 17000
     },
     {
         "action": "CreateBG",
-        "end": 23000,
+        "end": 23283,
         "file": "Event04/04-SA/04-SA-P00/04-SA-P00-007",
         "start": 20300
     },
     {
         "action": "EndRoll",
-        "end": 147000,
+        "end": 147066,
         "file": "Movie04/ENDROLL/05-11",
         "start": 23283
+    },
+    {
+        "action": "Next",
+        "start": 148066
     }
 ]

@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 26066
+    },
+    {
         "action": "PlayBgm",
-        "end": 26000,
+        "end": 26066,
         "file": "BGM/SD_BGM/sdbgm20",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 11000,
+        "end": 11083,
         "file": "Event04/04-SA/04-SA-L05/04-SA-L05-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2150,
         "persona": "Сэкаи",
         "start": 0,
         "text": "Ты просто себе накручиваешь.^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2150,
         "file": "Voice04/04-SA/04-SA-L05/04-SA-L05-0030",
         "layer": 0,
         "persona": "sek",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4133,
         "persona": "Котоноха",
         "start": 2150,
         "text": "Хорошо бы, если так...^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4133,
         "file": "Voice04/04-SA/04-SA-L05/04-SA-L05-0040",
         "layer": 0,
         "persona": "kot",
@@ -43,14 +47,14 @@
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11150,
         "persona": "Сэкаи",
         "start": 4133,
         "text": "Сэцуна на прошлой неделе перевелась... Любила она Макото или нет, уже всё равно.^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11150,
         "file": "Voice04/04-SA/04-SA-L05/04-SA-L05-0050",
         "layer": 0,
         "persona": "sek",
@@ -58,20 +62,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 17000,
+        "end": 17033,
         "file": "Event04/04-SA/04-SA-L05/04-SA-L05-002",
         "start": 11083
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17050,
         "persona": "Котоноха",
         "start": 11150,
         "text": "Не всё равно! Если у них взаимно, то даже на расстоянии чувства могут не увять!^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17050,
         "file": "Voice04/04-SA/04-SA-L05/04-SA-L05-0060",
         "layer": 0,
         "persona": "kot",
@@ -79,7 +83,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 22000,
+        "end": 22250,
         "file": "Event04/04-SA/04-SA-L05/04-SA-L05-003",
         "start": 17033
     },
@@ -100,14 +104,14 @@
     },
     {
         "action": "PrintText",
-        "end": 21000,
+        "end": 21116,
         "persona": "Котоноха",
         "start": 20000,
         "text": "Но...^"
     },
     {
         "action": "PlayVoice",
-        "end": 21000,
+        "end": 21116,
         "file": "Voice04/04-SA/04-SA-L05/04-SA-L05-0080",
         "layer": 0,
         "persona": "kot",
@@ -115,14 +119,14 @@
     },
     {
         "action": "PrintText",
-        "end": 22000,
+        "end": 22250,
         "persona": "Сэкаи",
         "start": 21116,
         "text": "Мы ведь о Макото?^"
     },
     {
         "action": "PlayVoice",
-        "end": 22000,
+        "end": 22250,
         "file": "Voice04/04-SA/04-SA-L05/04-SA-L05-0090",
         "layer": 0,
         "persona": "sek",
@@ -130,23 +134,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 26000,
+        "end": 26066,
         "file": "Event04/04-SA/04-SA-L05/04-SA-L05-004",
         "start": 22250
     },
     {
         "action": "PrintText",
-        "end": 24000,
+        "end": 24300,
         "persona": "Котоноха",
         "start": 22250,
         "text": "О нём, конечно...^"
     },
     {
         "action": "PlayVoice",
-        "end": 24000,
+        "end": 24300,
         "file": "Voice04/04-SA/04-SA-L05/04-SA-L05-0100",
         "layer": 0,
         "persona": "kot",
         "start": 22250
+    },
+    {
+        "action": "Next",
+        "start": 26066
     }
 ]

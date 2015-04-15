@@ -1,7 +1,11 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 19350
+    },
+    {
         "action": "PlayBgm",
-        "end": 19000,
+        "end": 19350,
         "file": "BGM/SD_BGM/sdbgm20",
         "start": 0
     },
@@ -19,20 +23,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6133,
         "file": "Event05/05-5O/05-5O-C01/05-5O-C01-002B",
         "start": 5000
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6066,
         "persona": "Котоноха",
         "start": 5016,
         "text": "Макото...^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6066,
         "file": "Voice05/05-5O/05-5O-C01/05-5O-C01-0040",
         "layer": 0,
         "persona": "kot",
@@ -40,20 +44,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 15000,
+        "end": 15016,
         "file": "Event05/05-5O/05-5O-C01/05-5O-C01-004",
         "start": 6133
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7216,
         "persona": "Отомэ",
         "start": 6133,
         "text": "Кацура...^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7216,
         "file": "Voice05/05-5O/05-5O-C01/05-5O-C01-0060",
         "layer": 0,
         "persona": "oto",
@@ -61,14 +65,14 @@
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11133,
         "persona": "Макото",
         "start": 7266,
         "text": "Прости, Котоноха.^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11133,
         "file": "Voice05/05-5O/05-5O-C01/05-5O-C01-0070",
         "layer": 1,
         "persona": "mak",
@@ -76,14 +80,14 @@
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14066,
         "persona": "Котоноха",
         "start": 12100,
         "text": "Как же...^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14066,
         "file": "Voice05/05-5O/05-5O-C01/05-5O-C01-0080",
         "layer": 0,
         "persona": "kot",
@@ -91,14 +95,14 @@
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14316,
         "persona": "Макото",
         "start": 14033,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14316,
         "file": "Voice05/05-5O/05-5O-C01/05-5O-C01-0090",
         "layer": 1,
         "persona": "xxx",
@@ -106,23 +110,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 19000,
+        "end": 19350,
         "file": "Event05/05-5O/05-5O-C01/05-5O-C01-005",
         "start": 15016
     },
     {
         "action": "PrintText",
-        "end": 18000,
+        "end": 18250,
         "persona": "Котоноха",
         "start": 15066,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18250,
         "file": "Voice05/05-5O/05-5O-C01/05-5O-C01-0110",
         "layer": 0,
         "persona": "kot",
         "start": 15066
+    },
+    {
+        "action": "Next",
+        "start": 19350
     }
 ]

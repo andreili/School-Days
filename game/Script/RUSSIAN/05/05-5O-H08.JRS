@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 5333
+    },
+    {
         "action": "PlayBgm",
-        "end": 5000,
+        "end": 5333,
         "file": "BGM/SD_BGM/sdbgm20",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 5000,
+        "end": 5333,
         "file": "SysSe/SE_all/gaya/kyousitu_rouka",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1183,
         "file": "Event05/05-5O/05-5O-H04/05-5O-H04-003",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1016,
         "persona": "Макото",
         "start": 200,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1016,
         "file": "Voice05/05-5O/05-5O-H08/05-5O-H08-0030",
         "layer": 1,
         "persona": "xxx",
@@ -35,20 +39,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4333,
         "file": "Event05/05-5O/05-5O-H08/05-5O-H08-002",
         "start": 1183
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4300,
         "persona": "Котоноха",
         "start": 1233,
         "text": "Что такое? Пойдём, скорее.^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4300,
         "file": "Voice05/05-5O/05-5O-H08/05-5O-H08-0040",
         "layer": 0,
         "persona": "kot",
@@ -56,23 +60,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5333,
         "file": "Event05/05-5O/05-5O-H04/05-5O-H04-001",
         "start": 4333
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5250,
         "persona": "Макото",
         "start": 4383,
         "text": "Ага...^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5250,
         "file": "Voice05/05-5O/05-5O-H08/05-5O-H08-0050",
         "layer": 1,
         "persona": "mak",
         "start": 4383
+    },
+    {
+        "action": "Next",
+        "start": 5333
     }
 ]

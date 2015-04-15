@@ -1,13 +1,17 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 34283
+    },
+    {
         "action": "PlayBgm",
-        "end": 34000,
+        "end": 34283,
         "file": "BGM/SD_BGM/sdbgm01",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 5000,
+        "end": 5166,
         "file": "Se01/01-00/01-00-Q00/SE01-00-Q00-002",
         "layer": 1,
         "start": 0
@@ -20,115 +24,119 @@
     },
     {
         "action": "PlayMovie",
-        "end": 5000,
+        "end": 5166,
         "file": "Movie01/01-00/01-00-Q01/01-00-Q01-002",
         "start": 2000
     },
     {
         "action": "PlaySe",
-        "end": 8000,
+        "end": 8283,
         "file": "Se01/01-00/01-00-Q01/SE01-00-Q01-004",
         "layer": 2,
         "start": 5166
     },
     {
         "action": "PlayMovie",
-        "end": 8000,
+        "end": 8283,
         "file": "Movie01/01-00/01-00-Q01/01-00-Q01-003",
         "start": 5166
     },
     {
         "action": "PlaySe",
-        "end": 17000,
+        "end": 17083,
         "file": "Se01/01-00/01-00-M03/SE01-00-M03-002",
         "layer": 1,
         "start": 8283
     },
     {
         "action": "PlaySe",
-        "end": 34000,
+        "end": 34283,
         "file": "Se01/01-00/01-00-L00/SE01-00-L00-001",
         "layer": 4,
         "start": 8283
     },
     {
         "action": "PlayMovie",
-        "end": 18000,
+        "end": 18283,
         "file": "Movie01/01-00/01-00-Q01/01-00-Q01-004",
         "start": 8283
     },
     {
         "action": "PlaySe",
-        "end": 17000,
+        "end": 17266,
         "file": "Voice01/01-00/01-00-Q01/01-00-Q01-0050",
         "layer": 2,
         "start": 14266
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17266,
         "persona": "Объявление",
         "start": 14266,
         "text": "Станция Харамихама^"
     },
     {
         "action": "PlaySe",
-        "end": 22000,
+        "end": 22183,
         "file": "Se01/01-00/01-00-Q01/SE01-00-Q01-005",
         "layer": 3,
         "start": 17266
     },
     {
         "action": "CreateBG",
-        "end": 21000,
+        "end": 21083,
         "file": "Event01/01-00/01-00-Q01/01-00-Q01-005",
         "start": 18283
     },
     {
         "action": "CreateBG",
-        "end": 27000,
+        "end": 27083,
         "file": "Event01/01-00/01-00-Q01/01-00-Q01-007",
         "start": 21083
     },
     {
         "action": "PlayMovie",
-        "end": 31000,
+        "end": 31083,
         "file": "Movie01/01-00/01-00-Q01/01-00-Q01-001",
         "start": 27083
     },
     {
         "action": "PlaySe",
-        "end": 27000,
+        "end": 27250,
         "file": "Se01/01-00/01-00-Q01/SE01-00-Q01-006",
         "layer": 1,
         "start": 22333
     },
     {
         "action": "PlaySe",
-        "end": 34000,
+        "end": 34283,
         "file": "Se01/01-00/01-00-Q01/SE01-00-Q01-007",
         "layer": 2,
         "start": 26066
     },
     {
         "action": "PlayMovie",
-        "end": 34000,
+        "end": 34283,
         "file": "Movie00/00-00/00-00-A00/00-00-A00-005",
         "start": 31083
     },
     {
         "action": "PrintText",
-        "end": 32000,
+        "end": 32183,
         "persona": "Макото",
         "start": 30166,
         "text": "Может, она проспала?^"
     },
     {
         "action": "PlayVoice",
-        "end": 32000,
+        "end": 32183,
         "file": "Voice01/01-00/01-00-Q01/01-00-Q01-0070",
         "layer": 1,
         "persona": "mak",
         "start": 30166
+    },
+    {
+        "action": "Next",
+        "start": 34283
     }
 ]

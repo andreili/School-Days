@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 8366
+    },
+    {
         "action": "PlayBgm",
-        "end": 8000,
+        "end": 8366,
         "file": "BGM/SD_BGM/sdbgm07",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 8000,
+        "end": 8366,
         "file": "Se03/03-SA/03-SA-E08/SE03-SA-E08-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4233,
         "file": "Event03/03-SA/03-SA-E08/03-SA-E08-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5300,
         "persona": "Отомэ",
         "start": 0,
         "text": "Ладно, ничего, у меня сегодня ещё работы много... Пока!^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5300,
         "file": "Voice03/03-SA/03-SA-E08/03-SA-E08-0030",
         "layer": 0,
         "persona": "oto",
@@ -35,20 +39,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8366,
         "file": "Event03/03-SA/03-SA-E08/03-SA-E08-002",
         "start": 4233
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7333,
         "persona": "Сэкаи",
         "start": 5316,
         "text": "Хм...^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7333,
         "file": "Voice03/03-SA/03-SA-E08/03-SA-E08-0050",
         "layer": 0,
         "persona": "sek",
@@ -56,17 +60,21 @@
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8350,
         "persona": "Макото",
         "start": 7333,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8350,
         "file": "Voice03/03-SA/03-SA-E08/03-SA-E08-0060",
         "layer": 1,
         "persona": "xxx",
         "start": 7333
+    },
+    {
+        "action": "Next",
+        "start": 8366
     }
 ]

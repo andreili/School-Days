@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 2100
+    },
+    {
         "action": "PlayBgm",
-        "end": 2000,
+        "end": 2100,
         "file": "BGM/SD_BGM/sdbgm21",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1033,
         "file": "Event05/05-SA/05-SA-H01/05-SA-H01-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1033,
         "persona": "Макото",
         "start": 116,
         "text": "Я захожу.^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1033,
         "file": "Voice05/05-SA/05-SA-H01/05-SA-H01-0030",
         "layer": 1,
         "persona": "mak",
@@ -28,16 +32,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2100,
         "file": "Event05/05-SA/05-SA-H01/05-SA-H01-002",
         "start": 1033
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2083,
         "file": "Voice05/05-SA/05-SA-H01/05-SA-H01-0040",
         "layer": -1,
         "persona": "",
         "start": 1050
+    },
+    {
+        "action": "Next",
+        "start": 2100
     }
 ]

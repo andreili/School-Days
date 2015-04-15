@@ -1,20 +1,24 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 15050
+    },
+    {
         "action": "PlayMovie",
-        "end": 4000,
+        "end": 4266,
         "file": "Movie03/03-B2/03-B2-A02/03-B2-A02-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4133,
         "persona": "Макото",
         "start": 0,
         "text": "Котоноха... Я тебя люблю!^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4133,
         "file": "Voice03/03-B2/03-B2-A02/03-B2-A02-0050",
         "layer": 1,
         "persona": "mak",
@@ -22,14 +26,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4333,
         "persona": "Котоноха",
         "start": 4033,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4333,
         "file": "Voice03/03-B2/03-B2-A02/03-B2-A02-0060",
         "layer": 0,
         "persona": "kot",
@@ -37,7 +41,7 @@
     },
     {
         "action": "PlayMovie",
-        "end": 7000,
+        "end": 7300,
         "file": "Movie03/03-B2/03-B2-A02/03-B2-A02-002",
         "start": 4266
     },
@@ -58,14 +62,14 @@
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7283,
         "persona": "Котоноха",
         "start": 6000,
         "text": "Макото!^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7283,
         "file": "Voice03/03-B2/03-B2-A02/03-B2-A02-0090",
         "layer": 0,
         "persona": "kot",
@@ -74,19 +78,19 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 7000,
+        "end": 7300,
         "start": 7200
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8266,
         "persona": "Макото",
         "start": 7283,
         "text": "Котоноха...^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8266,
         "file": "Voice03/03-B2/03-B2-A02/03-B2-A02-0140",
         "layer": 1,
         "persona": "mak",
@@ -94,20 +98,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 11000,
+        "end": 11050,
         "file": "Movie03/03-KB/03-KB-K10/03-KB-K10-003",
         "start": 7300
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12300,
         "persona": "Котоноха",
         "start": 8266,
         "text": "Прости... я сейчас...^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12300,
         "file": "Voice03/03-B2/03-B2-A02/03-B2-A02-0150",
         "layer": 0,
         "persona": "kot",
@@ -115,13 +119,13 @@
     },
     {
         "action": "CreateBG",
-        "end": 13000,
+        "end": 13233,
         "file": "Event03/03-KB/03-KB-K10/03-KB-K10-004",
         "start": 11050
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13233,
         "file": "Voice03/03-B2/03-B2-A02/03-B2-A02-0160",
         "layer": -1,
         "persona": "",
@@ -129,23 +133,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 15000,
+        "end": 15050,
         "file": "Event03/03-KB/03-KB-K10/03-KB-K10-005",
         "start": 13233
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15033,
         "persona": "Котоноха",
         "start": 13233,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15033,
         "file": "Voice03/03-B2/03-B2-A02/03-B2-A02-0170",
         "layer": 0,
         "persona": "kot",
         "start": 13233
+    },
+    {
+        "action": "Next",
+        "start": 15050
     }
 ]

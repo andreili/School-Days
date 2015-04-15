@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 15083
+    },
+    {
         "action": "PlayBgm",
-        "end": 15000,
+        "end": 15083,
         "file": "BGM/SD_BGM/sdbgm07",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 15000,
+        "end": 15083,
         "file": "Se03/03-KA/03-KA-H01/SE03-KA-H01-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8283,
         "file": "Event03/03-KA/03-KA-H01/03-KA-H01-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3016,
         "persona": "Макото",
         "start": 0,
         "text": "Я хотел проводить больше времени с тобой.^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3016,
         "file": "Voice03/03-KA/03-KA-H01/03-KA-H01-0030",
         "layer": 1,
         "persona": "mak",
@@ -35,14 +39,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4066,
         "persona": "Котоноха",
         "start": 3016,
         "text": "А...^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4066,
         "file": "Voice03/03-KA/03-KA-H01/03-KA-H01-0040",
         "layer": 0,
         "persona": "kot",
@@ -50,14 +54,14 @@
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8283,
         "persona": "Макото",
         "start": 4066,
         "text": "И если я буду в школьном комитете, то мы будем вместе и на собраниях. Верно?^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8283,
         "file": "Voice03/03-KA/03-KA-H01/03-KA-H01-0050",
         "layer": 1,
         "persona": "mak",
@@ -65,20 +69,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10083,
         "file": "Event03/03-KA/03-KA-H01/03-KA-H01-002",
         "start": 8283
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10066,
         "persona": "Котоноха",
         "start": 8283,
         "text": "Да...^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10066,
         "file": "Voice03/03-KA/03-KA-H01/03-KA-H01-0060",
         "layer": 0,
         "persona": "kot",
@@ -86,7 +90,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 13000,
+        "end": 13016,
         "file": "Event03/03-KA/03-KA-H01/03-KA-H01-003",
         "start": 10083
     },
@@ -107,23 +111,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 15000,
+        "end": 15083,
         "file": "Event03/03-KA/03-KA-H01/03-KA-H01-004",
         "start": 13016
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14366,
         "persona": "Котоноха",
         "start": 13016,
         "text": "Да, тоже очень рада.^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14366,
         "file": "Voice03/03-KA/03-KA-H01/03-KA-H01-0080",
         "layer": 0,
         "persona": "kot",
         "start": 13016
+    },
+    {
+        "action": "Next",
+        "start": 15083
     }
 ]

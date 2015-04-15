@@ -1,7 +1,11 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 18050
+    },
+    {
         "action": "PlayBgm",
-        "end": 18000,
+        "end": 18050,
         "file": "BGM/SD_BGM/sdbgm19",
         "start": 0
     },
@@ -19,20 +23,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8200,
         "file": "Event05/05-SB/05-SB-E02/05-SB-E02-003",
         "start": 5000
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7200,
         "persona": "Сэкай",
         "start": 6133,
         "text": "Прощай...^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7200,
         "file": "Voice05/05-SB/05-SB-E02/05-SB-E02-0050",
         "layer": 0,
         "persona": "sek",
@@ -40,13 +44,13 @@
     },
     {
         "action": "PlayMovie",
-        "end": 18000,
+        "end": 18050,
         "file": "Movie05/05-SB/05-SB-E02/05-SB-E02-004",
         "start": 8200
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18033,
         "file": "Voice05/05-SB/05-SB-E02/05-SB-E02-0060",
         "layer": -1,
         "persona": "",
@@ -55,7 +59,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 18000,
+        "end": 18050,
         "start": 15050
+    },
+    {
+        "action": "Next",
+        "start": 18050
     }
 ]

@@ -1,7 +1,11 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 7300
+    },
+    {
         "action": "PlaySe",
-        "end": 13000,
+        "end": 13300,
         "file": "SysSe/SE_all/gaya/kyousitu_rouka",
         "layer": 1,
         "start": 0
@@ -14,20 +18,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4116,
         "file": "Event05/05-5O/05-5O-H01/05-5O-H01-002",
         "start": 3000
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4050,
         "persona": "Макото",
         "start": 3033,
         "text": "Котоноха...^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4050,
         "file": "Voice05/05-5O/05-5O-H05/05-5O-H05-0040",
         "layer": 1,
         "persona": "mak",
@@ -35,20 +39,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6116,
         "file": "Event05/05-5O/05-5O-H01/05-5O-H01-003",
         "start": 4116
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6050,
         "persona": "Котоноха",
         "start": 4150,
         "text": "Пойдём домой вместе?^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6050,
         "file": "Voice05/05-5O/05-5O-H05/05-5O-H05-0050",
         "layer": 0,
         "persona": "kot",
@@ -56,20 +60,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 13000,
+        "end": 13300,
         "file": "Event05/05-5O/05-5O-H00/05-5O-H00-001",
         "start": 6116
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6366,
         "persona": "Макото",
         "start": 6133,
         "text": "А...^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6366,
         "file": "Voice05/05-5O/05-5O-H05/05-5O-H05-0060",
         "layer": 1,
         "persona": "mak",
@@ -77,14 +81,14 @@
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7266,
         "persona": "Котоноха",
         "start": 7033,
         "text": "Да?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7266,
         "file": "Voice05/05-5O/05-5O-H05/05-5O-H05-0070",
         "layer": 0,
         "persona": "kot",
@@ -94,22 +98,26 @@
         "action": "SetSELECT",
         "answer1": "У меня дела.",
         "answer2": "Хорошо.",
-        "end": 12000,
+        "end": 12300,
         "start": 7300
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8150,
         "persona": "Макото",
         "start": 7366,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8150,
         "file": "Voice05/05-5O/05-5O-H05/05-5O-H05-0080",
         "layer": 1,
         "persona": "xxx",
         "start": 7366
+    },
+    {
+        "action": "Next",
+        "start": 13300
     }
 ]

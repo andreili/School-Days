@@ -1,7 +1,11 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 16033
+    },
+    {
         "action": "PlayBgm",
-        "end": 22000,
+        "end": 22033,
         "file": "BGM/SD_BGM/sdbgm20",
         "start": 0
     },
@@ -13,20 +17,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6216,
         "file": "Event05/05-KG/05-KG-C01/05-KG-C01-002",
         "start": 3000
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6200,
         "persona": "Макото",
         "start": 3033,
         "text": "Истинный возлюбленный?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6200,
         "file": "Voice05/05-KG/05-KG-C01/05-KG-C01-0040",
         "layer": 1,
         "persona": "xxx",
@@ -34,20 +38,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10133,
         "file": "Event05/05-KG/05-KG-C01/05-KG-C01-003",
         "start": 6216
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10100,
         "persona": "Макото",
         "start": 6283,
         "text": "Она ко мне вон как... А я...^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10100,
         "file": "Voice05/05-KG/05-KG-C01/05-KG-C01-0050",
         "layer": 1,
         "persona": "xxx",
@@ -55,20 +59,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12183,
         "file": "Event05/05-KG/05-KG-C01/05-KG-C01-004",
         "start": 10133
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12083,
         "persona": "Макото",
         "start": 10233,
         "text": "И что я только делаю?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12083,
         "file": "Voice05/05-KG/05-KG-C01/05-KG-C01-0060",
         "layer": 1,
         "persona": "xxx",
@@ -76,20 +80,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 16000,
+        "end": 16150,
         "file": "Event05/05-KG/05-KG-C01/05-KG-C01-005",
         "start": 12183
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16016,
         "persona": "Макото",
         "start": 12333,
         "text": "Я, что...^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16016,
         "file": "Voice05/05-KG/05-KG-C01/05-KG-C01-0070",
         "layer": 1,
         "persona": "xxx",
@@ -99,13 +103,17 @@
         "action": "SetSELECT",
         "answer1": "Люблю Котоноху?..",
         "answer2": "Жалею Котоноху?..",
-        "end": 21000,
+        "end": 21033,
         "start": 16033
     },
     {
         "action": "CreateBG",
-        "end": 22000,
+        "end": 22033,
         "file": "Event05/05-KG/05-KG-C01/05-KG-C01-006",
         "start": 16150
+    },
+    {
+        "action": "Next",
+        "start": 22033
     }
 ]

@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 11333
+    },
+    {
         "action": "PlayBgm",
-        "end": 11000,
+        "end": 11333,
         "file": "BGM/SD_BGM/sdbgm07",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2083,
         "file": "Event01/01-1K/01-1K-C04/01-1K-C04-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1300,
         "persona": "Макото",
         "start": 0,
         "text": "Ладно, пойдём на «Войну Немо».^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1300,
         "file": "Voice01/01-1K/01-1K-C04/01-1K-C04-0030",
         "layer": 1,
         "persona": "mak",
@@ -41,14 +45,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6200,
         "persona": "Макото",
         "start": 2083,
         "text": "Похоже, кино немного детское, но Сэкаи ведь понравилось?^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6200,
         "file": "Voice01/01-1K/01-1K-C04/01-1K-C04-0040",
         "layer": 1,
         "persona": "mak",
@@ -56,20 +60,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 11000,
+        "end": 11333,
         "file": "Event01/01-1K/01-1K-C01/01-1K-C01-002",
         "start": 7000
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8316,
         "persona": "Макото",
         "start": 6333,
         "text": "Похоже, это лучший выбор.^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8316,
         "file": "Voice01/01-1K/01-1K-C04/01-1K-C04-0050",
         "layer": 1,
         "persona": "mak",
@@ -77,14 +81,14 @@
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10233,
         "persona": "Макото",
         "start": 9016,
         "text": "Значит, решено!^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10233,
         "file": "Voice01/01-1K/01-1K-C04/01-1K-C04-0060",
         "layer": 1,
         "persona": "mak",
@@ -93,7 +97,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 11000,
+        "end": 11333,
         "start": 10333
+    },
+    {
+        "action": "Next",
+        "start": 11333
     }
 ]

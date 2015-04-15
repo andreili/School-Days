@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 45016
+    },
+    {
         "action": "PlayBgm",
-        "end": 45000,
+        "end": 45016,
         "file": "BGM/SD_BGM/sdbgm07",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8300,
         "file": "Event04/04-SE/04-SE-B05/04-SE-B05-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1166,
         "persona": "Макото",
         "start": 50,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1166,
         "file": "Voice04/04-SE/04-SE-B05/04-SE-B05-0030",
         "layer": 1,
         "persona": "xxx",
@@ -28,21 +32,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 8000,
+        "end": 8066,
         "file": "SysSe/SE_all/keitai/tyakusin_makoto",
         "layer": 1,
         "start": 1133
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7200,
         "persona": "Макото",
         "start": 3200,
         "text": "Опа, Като?.. Нечасто она звонит.^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7200,
         "file": "Voice04/04-SE/04-SE-B05/04-SE-B05-0050",
         "layer": 1,
         "persona": "mak",
@@ -50,27 +54,27 @@
     },
     {
         "action": "PlaySe",
-        "end": 8000,
+        "end": 8116,
         "file": "SysSe/SE_all/keitai/keitai_sousa",
         "layer": 2,
         "start": 8083
     },
     {
         "action": "CreateBG",
-        "end": 13000,
+        "end": 13033,
         "file": "Event04/04-SE/04-SE-B05/04-SE-B05-001B",
         "start": 8300
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10033,
         "persona": "Макото",
         "start": 8316,
         "text": "Да, Ито у телефона.^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10033,
         "file": "Voice04/04-SE/04-SE-B05/04-SE-B05-0070",
         "layer": 1,
         "persona": "mak",
@@ -78,14 +82,14 @@
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13016,
         "persona": "Отомэ",
         "start": 10200,
         "text": "А... Это Като...^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13016,
         "file": "Voice04/04-SE/04-SE-B05/04-SE-B05-0080",
         "layer": 0,
         "persona": "oto",
@@ -93,20 +97,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 17000,
+        "end": 17350,
         "file": "Event04/04-SE/04-SE-B05/04-SE-B05-001C",
         "start": 13033
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17333,
         "persona": "Макото",
         "start": 13033,
         "text": "Я понял. Однако удивлён. Редко ты мне звонишь. Что-то случилось?^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17333,
         "file": "Voice04/04-SE/04-SE-B05/04-SE-B05-0090",
         "layer": 1,
         "persona": "mak",
@@ -114,14 +118,14 @@
     },
     {
         "action": "PrintText",
-        "end": 24000,
+        "end": 24333,
         "persona": "Отомэ",
         "start": 17333,
         "text": "Э... Да нет... Я... Просто так... Помнишь, ты мне днём позвонить собирался?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 24000,
+        "end": 24333,
         "file": "Voice04/04-SE/04-SE-B05/04-SE-B05-0100",
         "layer": 0,
         "persona": "oto",
@@ -129,26 +133,26 @@
     },
     {
         "action": "CreateBG",
-        "end": 24000,
+        "end": 24333,
         "file": "Event04/04-SE/04-SE-B05/04-SE-B05-002",
         "start": 17350
     },
     {
         "action": "CreateBG",
-        "end": 26000,
+        "end": 26283,
         "file": "Event04/04-SE/04-SE-B05/04-SE-B05-003",
         "start": 24333
     },
     {
         "action": "PrintText",
-        "end": 26000,
+        "end": 26283,
         "persona": "Макото",
         "start": 24333,
         "text": "А, точно.^"
     },
     {
         "action": "PlayVoice",
-        "end": 26000,
+        "end": 26283,
         "file": "Voice04/04-SE/04-SE-B05/04-SE-B05-0110",
         "layer": 1,
         "persona": "mak",
@@ -156,20 +160,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 31000,
+        "end": 31150,
         "file": "Event04/04-SE/04-SE-B05/04-SE-B05-003B",
         "start": 26283
     },
     {
         "action": "PrintText",
-        "end": 30000,
+        "end": 30150,
         "persona": "Отомэ",
         "start": 26283,
         "text": "Ну я и подумала, чего бы мне самой не позвонить.^"
     },
     {
         "action": "PlayVoice",
-        "end": 30000,
+        "end": 30150,
         "file": "Voice04/04-SE/04-SE-B05/04-SE-B05-0120",
         "layer": 0,
         "persona": "oto",
@@ -177,14 +181,14 @@
     },
     {
         "action": "PrintText",
-        "end": 31000,
+        "end": 31133,
         "persona": "Макото",
         "start": 30150,
         "text": "Ясно...^"
     },
     {
         "action": "PlayVoice",
-        "end": 31000,
+        "end": 31133,
         "file": "Voice04/04-SE/04-SE-B05/04-SE-B05-0130",
         "layer": 1,
         "persona": "mak",
@@ -207,20 +211,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 36000,
+        "end": 36016,
         "file": "Event04/04-SE/04-SE-B05/04-SE-B05-003C",
         "start": 31150
     },
     {
         "action": "PrintText",
-        "end": 39000,
+        "end": 39366,
         "persona": "Макото",
         "start": 36000,
         "text": "Да ну. Я тут сам от скуки помираю.^"
     },
     {
         "action": "PlayVoice",
-        "end": 39000,
+        "end": 39366,
         "file": "Voice04/04-SE/04-SE-B05/04-SE-B05-0150",
         "layer": 1,
         "persona": "mak",
@@ -228,7 +232,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 39000,
+        "end": 39383,
         "file": "Event04/04-SE/04-SE-B05/04-SE-B05-004",
         "start": 36016
     },
@@ -249,20 +253,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 41000,
+        "end": 41033,
         "file": "Event04/04-SE/04-SE-B05/04-SE-B05-005",
         "start": 39383
     },
     {
         "action": "PrintText",
-        "end": 44000,
+        "end": 44116,
         "persona": "Макото",
         "start": 41016,
         "text": "Ты, прямо сказать, вовремя!^"
     },
     {
         "action": "PlayVoice",
-        "end": 44000,
+        "end": 44116,
         "file": "Voice04/04-SE/04-SE-B05/04-SE-B05-0170",
         "layer": 1,
         "persona": "mak",
@@ -270,14 +274,18 @@
     },
     {
         "action": "CreateBG",
-        "end": 45000,
+        "end": 45016,
         "file": "Event04/04-SE/04-SE-B05/04-SE-B05-006",
         "start": 41033
     },
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 45000,
+        "end": 45016,
         "start": 44233
+    },
+    {
+        "action": "Next",
+        "start": 45016
     }
 ]

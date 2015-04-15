@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 88300
+    },
+    {
         "action": "PlayBgm",
-        "end": 88000,
+        "end": 88300,
         "file": "BGM/SD_BGM/sdbgm17",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4016,
         "file": "Event03/03-KA/03-KA-A08/03-KA-A08-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1166,
         "persona": "Макото",
         "start": 0,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1166,
         "file": "Voice03/03-KA/03-KA-A08/03-KA-A08-0030",
         "layer": 1,
         "persona": "xxx",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4033,
         "persona": "Кокоро",
         "start": 1116,
         "text": "Что такое? Не можешь определиться?^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4033,
         "file": "Voice03/03-KA/03-KA-A08/03-KA-A08-0040",
         "layer": 0,
         "persona": "kok",
@@ -43,20 +47,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 19000,
+        "end": 19183,
         "file": "Event03/03-KA/03-KA-A08/03-KA-A08-002",
         "start": 4016
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6366,
         "persona": "Макото",
         "start": 4150,
         "text": "Нет, ничего такого...^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6366,
         "file": "Voice03/03-KA/03-KA-A08/03-KA-A08-0050",
         "layer": 1,
         "persona": "mak",
@@ -64,14 +68,14 @@
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12083,
         "persona": "Кокоро",
         "start": 6316,
         "text": "Сестрёнка, какой он у тебя робкий!^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12083,
         "file": "Voice03/03-KA/03-KA-A08/03-KA-A08-0060",
         "layer": 0,
         "persona": "kok",
@@ -79,14 +83,14 @@
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14216,
         "persona": "Макото",
         "start": 12050,
         "text": "Что? Я не...^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14216,
         "file": "Voice03/03-KA/03-KA-A08/03-KA-A08-0070",
         "layer": 1,
         "persona": "mak",
@@ -94,14 +98,14 @@
     },
     {
         "action": "PrintText",
-        "end": 19000,
+        "end": 19283,
         "persona": "Кокоро",
         "start": 14216,
         "text": "Я же говорю - нерешительный!^"
     },
     {
         "action": "PlayVoice",
-        "end": 19000,
+        "end": 19283,
         "file": "Voice03/03-KA/03-KA-A08/03-KA-A08-0080",
         "layer": 0,
         "persona": "kok",
@@ -109,20 +113,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 20000,
+        "end": 20366,
         "file": "Event03/03-KA/03-KA-A08/03-KA-A08-003",
         "start": 19183
     },
     {
         "action": "PrintText",
-        "end": 20000,
+        "end": 20383,
         "persona": "Макото",
         "start": 19183,
         "text": "Это не так.^"
     },
     {
         "action": "PlayVoice",
-        "end": 20000,
+        "end": 20383,
         "file": "Voice03/03-KA/03-KA-A08/03-KA-A08-0090",
         "layer": 1,
         "persona": "mak",
@@ -130,20 +134,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 25000,
+        "end": 25033,
         "file": "Event03/03-KA/03-KA-A08/03-KA-A08-004",
         "start": 20366
     },
     {
         "action": "PrintText",
-        "end": 25000,
+        "end": 25100,
         "persona": "Кокоро",
         "start": 20366,
         "text": "Наверное, тяжело с таким нерешительным парнём встречаться.^"
     },
     {
         "action": "PlayVoice",
-        "end": 25000,
+        "end": 25100,
         "file": "Voice03/03-KA/03-KA-A08/03-KA-A08-0100",
         "layer": 0,
         "persona": "kok",
@@ -151,20 +155,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 28000,
+        "end": 28033,
         "file": "Event03/03-KA/03-KA-A08/03-KA-A08-005",
         "start": 25033
     },
     {
         "action": "PrintText",
-        "end": 28000,
+        "end": 28100,
         "persona": "Котоноха",
         "start": 25033,
         "text": "Знаешь, по-моему, тебе уже пора.^"
     },
     {
         "action": "PlayVoice",
-        "end": 28000,
+        "end": 28100,
         "file": "Voice03/03-KA/03-KA-A08/03-KA-A08-0110",
         "layer": 0,
         "persona": "kot",
@@ -172,20 +176,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 33000,
+        "end": 33216,
         "file": "Event03/03-KA/03-KA-A08/03-KA-A08-003",
         "start": 28033
     },
     {
         "action": "PrintText",
-        "end": 32000,
+        "end": 32016,
         "persona": "Кокоро",
         "start": 28033,
         "text": "Ни за что! Если я вернусь в гостиную, то не получу карманных денег.^"
     },
     {
         "action": "PlayVoice",
-        "end": 32000,
+        "end": 32016,
         "file": "Voice03/03-KA/03-KA-A08/03-KA-A08-0120",
         "layer": 0,
         "persona": "kok",
@@ -193,14 +197,14 @@
     },
     {
         "action": "PrintText",
-        "end": 33000,
+        "end": 33116,
         "persona": "Котоноха",
         "start": 31383,
         "text": "Карманных денег?^"
     },
     {
         "action": "PlayVoice",
-        "end": 33000,
+        "end": 33116,
         "file": "Voice03/03-KA/03-KA-A08/03-KA-A08-0130",
         "layer": 0,
         "persona": "kot",
@@ -208,20 +212,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 45000,
+        "end": 45233,
         "file": "Event03/03-KA/03-KA-A08/03-KA-A08-007",
         "start": 33216
     },
     {
         "action": "PrintText",
-        "end": 34000,
+        "end": 34233,
         "persona": "Кокоро",
         "start": 33250,
         "text": "Упс...^"
     },
     {
         "action": "PlayVoice",
-        "end": 34000,
+        "end": 34233,
         "file": "Voice03/03-KA/03-KA-A08/03-KA-A08-0140",
         "layer": 0,
         "persona": "kok",
@@ -229,14 +233,14 @@
     },
     {
         "action": "PrintText",
-        "end": 35000,
+        "end": 35316,
         "persona": "Котоноха",
         "start": 34200,
         "text": "От папы?^"
     },
     {
         "action": "PlayVoice",
-        "end": 35000,
+        "end": 35316,
         "file": "Voice03/03-KA/03-KA-A08/03-KA-A08-0150",
         "layer": 0,
         "persona": "kot",
@@ -244,14 +248,14 @@
     },
     {
         "action": "PrintText",
-        "end": 36000,
+        "end": 36250,
         "persona": "Кокоро",
         "start": 35366,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 36000,
+        "end": 36250,
         "file": "Voice03/03-KA/03-KA-A08/03-KA-A08-0160",
         "layer": 0,
         "persona": "xxx",
@@ -259,14 +263,14 @@
     },
     {
         "action": "PrintText",
-        "end": 39000,
+        "end": 39016,
         "persona": "Котоноха",
         "start": 36283,
         "text": "Кокоро! Отвечай!^"
     },
     {
         "action": "PlayVoice",
-        "end": 39000,
+        "end": 39016,
         "file": "Voice03/03-KA/03-KA-A08/03-KA-A08-0170",
         "layer": 0,
         "persona": "kot",
@@ -274,14 +278,14 @@
     },
     {
         "action": "PrintText",
-        "end": 45000,
+        "end": 45283,
         "persona": "Кокоро",
         "start": 39016,
         "text": "Ну да... Папа попросил побыть с вами, чтобы ничего не случилось...^"
     },
     {
         "action": "PlayVoice",
-        "end": 45000,
+        "end": 45283,
         "file": "Voice03/03-KA/03-KA-A08/03-KA-A08-0180",
         "layer": 0,
         "persona": "kok",
@@ -295,14 +299,14 @@
     },
     {
         "action": "PrintText",
-        "end": 47000,
+        "end": 47033,
         "persona": "Котоноха",
         "start": 45233,
         "text": "Так я и знала...^"
     },
     {
         "action": "PlayVoice",
-        "end": 47000,
+        "end": 47033,
         "file": "Voice03/03-KA/03-KA-A08/03-KA-A08-0190",
         "layer": 0,
         "persona": "kot",
@@ -310,14 +314,14 @@
     },
     {
         "action": "PrintText",
-        "end": 50000,
+        "end": 50133,
         "persona": "Кокоро",
         "start": 47066,
         "text": "Если я за вами пригляжу, он даст мне немного карманных денег.^"
     },
     {
         "action": "PlayVoice",
-        "end": 50000,
+        "end": 50133,
         "file": "Voice03/03-KA/03-KA-A08/03-KA-A08-0200",
         "layer": 0,
         "persona": "kok",
@@ -325,14 +329,14 @@
     },
     {
         "action": "PrintText",
-        "end": 51000,
+        "end": 51366,
         "persona": "Котоноха",
         "start": 50100,
         "text": "Папа...^"
     },
     {
         "action": "PlayVoice",
-        "end": 51000,
+        "end": 51366,
         "file": "Voice03/03-KA/03-KA-A08/03-KA-A08-0210",
         "layer": 0,
         "persona": "kot",
@@ -340,20 +344,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 67000,
+        "end": 67050,
         "file": "Event03/03-KA/03-KA-A08/03-KA-A08-009",
         "start": 52000
     },
     {
         "action": "PrintText",
-        "end": 55000,
+        "end": 55166,
         "persona": "Макото",
         "start": 52033,
         "text": "Да ладно. Давай поиграем все вместе...^"
     },
     {
         "action": "PlayVoice",
-        "end": 55000,
+        "end": 55166,
         "file": "Voice03/03-KA/03-KA-A08/03-KA-A08-0230",
         "layer": 1,
         "persona": "mak",
@@ -361,14 +365,14 @@
     },
     {
         "action": "PrintText",
-        "end": 56000,
+        "end": 56283,
         "persona": "Котоноха",
         "start": 55200,
         "text": "Макото.^"
     },
     {
         "action": "PlayVoice",
-        "end": 56000,
+        "end": 56283,
         "file": "Voice03/03-KA/03-KA-A08/03-KA-A08-0240",
         "layer": 0,
         "persona": "kot",
@@ -376,14 +380,14 @@
     },
     {
         "action": "PrintText",
-        "end": 59000,
+        "end": 59216,
         "persona": "Макото",
         "start": 56283,
         "text": "Ну, наверное, это нормально, что твой отец волнуется.^"
     },
     {
         "action": "PlayVoice",
-        "end": 59000,
+        "end": 59216,
         "file": "Voice03/03-KA/03-KA-A08/03-KA-A08-0250",
         "layer": 1,
         "persona": "mak",
@@ -391,14 +395,14 @@
     },
     {
         "action": "PrintText",
-        "end": 67000,
+        "end": 67050,
         "persona": "Макото",
         "start": 59333,
         "text": "Он не знает, что я за человек.^"
     },
     {
         "action": "PlayVoice",
-        "end": 67000,
+        "end": 67050,
         "file": "Voice03/03-KA/03-KA-A08/03-KA-A08-0251",
         "layer": 1,
         "persona": "mak",
@@ -406,20 +410,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 68000,
+        "end": 68083,
         "file": "Event03/03-KA/03-KA-A08/03-KA-A08-010",
         "start": 67050
     },
     {
         "action": "PrintText",
-        "end": 68000,
+        "end": 68150,
         "persona": "Котоноха",
         "start": 67050,
         "text": "Но...^"
     },
     {
         "action": "PlayVoice",
-        "end": 68000,
+        "end": 68150,
         "file": "Voice03/03-KA/03-KA-A08/03-KA-A08-0260",
         "layer": 0,
         "persona": "kot",
@@ -427,14 +431,14 @@
     },
     {
         "action": "PrintText",
-        "end": 72000,
+        "end": 72083,
         "persona": "Макото",
         "start": 68033,
         "text": "Не будем заставлять твоих близких волноваться. К тому же...^"
     },
     {
         "action": "PlayVoice",
-        "end": 72000,
+        "end": 72083,
         "file": "Voice03/03-KA/03-KA-A08/03-KA-A08-0270",
         "layer": 1,
         "persona": "mak",
@@ -442,26 +446,26 @@
     },
     {
         "action": "CreateBG",
-        "end": 72000,
+        "end": 72166,
         "file": "Event03/03-KA/03-KA-A08/03-KA-A08-011",
         "start": 68083
     },
     {
         "action": "CreateBG",
-        "end": 73000,
+        "end": 73300,
         "file": "Event03/03-KA/03-KA-A08/03-KA-A08-010",
         "start": 72166
     },
     {
         "action": "PrintText",
-        "end": 73000,
+        "end": 73233,
         "persona": "Котоноха",
         "start": 72233,
         "text": "Что?^"
     },
     {
         "action": "PlayVoice",
-        "end": 73000,
+        "end": 73233,
         "file": "Voice03/03-KA/03-KA-A08/03-KA-A08-0280",
         "layer": 0,
         "persona": "kot",
@@ -475,14 +479,14 @@
     },
     {
         "action": "PrintText",
-        "end": 81000,
+        "end": 81033,
         "persona": "Макото",
         "start": 73333,
         "text": "Я думаю, будет интересно послушать Кокоро, а расскажи-ка мне о своей сестре...^"
     },
     {
         "action": "PlayVoice",
-        "end": 81000,
+        "end": 81033,
         "file": "Voice03/03-KA/03-KA-A08/03-KA-A08-0290",
         "layer": 1,
         "persona": "mak",
@@ -490,20 +494,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 88000,
+        "end": 88300,
         "file": "Event03/03-KA/03-KA-A08/03-KA-A08-014",
         "start": 81000
     },
     {
         "action": "PrintText",
-        "end": 85000,
+        "end": 85100,
         "persona": "Кокоро",
         "start": 81000,
         "text": "Хорошо! Как-то раз, когда сестрёнка была ещё в младшей школе, она пошла в бассейн...^"
     },
     {
         "action": "PlayVoice",
-        "end": 85000,
+        "end": 85100,
         "file": "Voice03/03-KA/03-KA-A08/03-KA-A08-0300",
         "layer": 0,
         "persona": "kok",
@@ -511,14 +515,14 @@
     },
     {
         "action": "PrintText",
-        "end": 87000,
+        "end": 87350,
         "persona": "Котоноха",
         "start": 84216,
         "text": "А! Что... Кокоро, замолчи!^"
     },
     {
         "action": "PlayVoice",
-        "end": 87000,
+        "end": 87350,
         "file": "Voice03/03-KA/03-KA-A08/03-KA-A08-0310",
         "layer": 0,
         "persona": "kot",
@@ -527,7 +531,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 88000,
+        "end": 88300,
         "start": 87300
+    },
+    {
+        "action": "Next",
+        "start": 88300
     }
 ]

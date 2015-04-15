@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 2083
+    },
+    {
         "action": "PlayBgm",
-        "end": 8000,
+        "end": 8083,
         "file": "BGM/SD_BGM/sdbgm20",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 8000,
+        "end": 8083,
         "file": "Se01/01-1K/01-1K-F00/SE01-1K-F00-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "PlayMovie",
-        "end": 8000,
+        "end": 8083,
         "file": "Movie02/02-2K/02-2K-J03/02-2K-J03-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1366,
         "persona": "Макото",
         "start": 1083,
         "text": "Ой!^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1366,
         "file": "Voice02/02-2K/02-2K-J03/02-2K-J03-0140",
         "layer": 1,
         "persona": "mak",
@@ -37,15 +41,19 @@
         "action": "SetSELECT",
         "answer1": "Сразу убрать руку.^",
         "answer2": "Потрогать Котоноху за грудь.^",
-        "end": 7000,
+        "end": 7083,
         "start": 2083
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5350,
         "file": "Voice02/02-2K/02-2K-J03/02-2K-J03-0150",
         "layer": -1,
         "persona": "",
         "start": 2100
+    },
+    {
+        "action": "Next",
+        "start": 8083
     }
 ]

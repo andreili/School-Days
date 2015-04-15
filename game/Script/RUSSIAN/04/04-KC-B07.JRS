@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 15316
+    },
+    {
         "action": "PlayBgm",
-        "end": 15000,
+        "end": 15316,
         "file": "BGM/SD_BGM/sdbgm26",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 15000,
+        "end": 15316,
         "file": "SysSe/SE_all/gaya/aqua_square",
         "layer": 2,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1083,
         "file": "Event04/04-KC/04-KC-B07/04-KC-B07-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 0,
+        "end": 366,
         "persona": "Макото",
         "start": 0,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 0,
+        "end": 366,
         "file": "Voice04/04-KC/04-KC-B07/04-KC-B07-0030",
         "layer": 1,
         "persona": "xxx",
@@ -35,20 +39,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10316,
         "file": "Event04/04-KC/04-KC-B07/04-KC-B07-002",
         "start": 1083
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7216,
         "persona": "Макото",
         "start": 1133,
         "text": "Такая большая и мягкая грудь на расстоянии руки, но...^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7216,
         "file": "Voice04/04-KC/04-KC-B07/04-KC-B07-0040",
         "layer": 1,
         "persona": "xxx",
@@ -56,14 +60,14 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9016,
         "persona": "Макото",
         "start": 7383,
         "text": "Разочек...^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9016,
         "file": "Voice04/04-KC/04-KC-B07/04-KC-B07-0050",
         "layer": 1,
         "persona": "xxx",
@@ -71,14 +75,14 @@
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10300,
         "persona": "Котоноха",
         "start": 9216,
         "text": "Макото?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10300,
         "file": "Voice04/04-KC/04-KC-B07/04-KC-B07-0060",
         "layer": 0,
         "persona": "kot",
@@ -86,30 +90,34 @@
     },
     {
         "action": "PlayMovie",
-        "end": 15000,
+        "end": 15316,
         "file": "Movie04/04-KC/04-KC-B06/04-KC-B06-003",
         "start": 10316
     },
     {
         "action": "PlaySe",
-        "end": 15000,
+        "end": 15216,
         "file": "SysSe/SE_all/h/nuno2",
         "layer": 1,
         "start": 14183
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15250,
         "persona": "Котоноха",
         "start": 14350,
         "text": "Э?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15250,
         "file": "Voice04/04-KC/04-KC-B07/04-KC-B07-0080",
         "layer": 0,
         "persona": "kot",
         "start": 14350
+    },
+    {
+        "action": "Next",
+        "start": 15316
     }
 ]

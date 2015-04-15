@@ -1,7 +1,11 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 4300
+    },
+    {
         "action": "PlaySe",
-        "end": 4000,
+        "end": 4300,
         "file": "SysSe/SE_all/gaya/kyousitu_rouka",
         "layer": 1,
         "start": 0
@@ -29,20 +33,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4300,
         "file": "Event03/03-KB/03-KB-N01/03-KB-N01-002",
         "start": 2000
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3350,
         "persona": "Котоноха",
         "start": 2200,
         "text": "Как ты можешь...^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3350,
         "file": "Voice03/03-KB/03-KB-N01/03-KB-N01-0040",
         "layer": 0,
         "persona": "kot",
@@ -51,7 +55,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 4000,
+        "end": 4300,
         "start": 4083
+    },
+    {
+        "action": "Next",
+        "start": 4300
     }
 ]

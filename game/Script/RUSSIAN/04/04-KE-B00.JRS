@@ -1,32 +1,36 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 97050
+    },
+    {
         "action": "PlayBgm",
-        "end": 103000,
+        "end": 103050,
         "file": "BGM/SD_BGM/sdbgm20",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3016,
         "file": "Event04/04-KE/04-KE-B00/04-KE-B00-001",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 18000,
+        "end": 18333,
         "file": "Event04/04-KE/04-KE-B00/04-KE-B00-002",
         "start": 3016
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5133,
         "persona": "Котоноха",
         "start": 3016,
         "text": "Тепло сегодня...^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5133,
         "file": "Voice04/04-KE/04-KE-B00/04-KE-B00-0050",
         "layer": 0,
         "persona": "kot",
@@ -34,14 +38,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6050,
         "persona": "Макото",
         "start": 5150,
         "text": "Ага.^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6050,
         "file": "Voice04/04-KE/04-KE-B00/04-KE-B00-0060",
         "layer": 1,
         "persona": "mak",
@@ -49,14 +53,14 @@
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11366,
         "persona": "Котоноха",
         "start": 6050,
         "text": "Но скоро уже холодно станет. На крышу пообедать не получится выходить.^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11366,
         "file": "Voice04/04-KE/04-KE-B00/04-KE-B00-0070",
         "layer": 0,
         "persona": "kot",
@@ -64,14 +68,14 @@
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12250,
         "persona": "Макото",
         "start": 11366,
         "text": "Ага.^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12250,
         "file": "Voice04/04-KE/04-KE-B00/04-KE-B00-0080",
         "layer": 1,
         "persona": "mak",
@@ -79,14 +83,14 @@
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15283,
         "persona": "Котоноха",
         "start": 12266,
         "text": "Где тогда будем кушать?^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15283,
         "file": "Voice04/04-KE/04-KE-B00/04-KE-B00-0090",
         "layer": 0,
         "persona": "kot",
@@ -94,14 +98,14 @@
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16233,
         "persona": "Макото",
         "start": 15283,
         "text": "Ага.^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16233,
         "file": "Voice04/04-KE/04-KE-B00/04-KE-B00-0100",
         "layer": 1,
         "persona": "mak",
@@ -109,14 +113,14 @@
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17300,
         "persona": "Котоноха",
         "start": 16233,
         "text": "Макото?^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17300,
         "file": "Voice04/04-KE/04-KE-B00/04-KE-B00-0110",
         "layer": 0,
         "persona": "kot",
@@ -124,14 +128,14 @@
     },
     {
         "action": "PrintText",
-        "end": 18000,
+        "end": 18283,
         "persona": "Макото",
         "start": 17300,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18283,
         "file": "Voice04/04-KE/04-KE-B00/04-KE-B00-0120",
         "layer": 1,
         "persona": "xxx",
@@ -139,14 +143,14 @@
     },
     {
         "action": "PrintText",
-        "end": 19000,
+        "end": 19316,
         "persona": "Котоноха",
         "start": 18283,
         "text": "Макото?^"
     },
     {
         "action": "PlayVoice",
-        "end": 19000,
+        "end": 19316,
         "file": "Voice04/04-KE/04-KE-B00/04-KE-B00-0130",
         "layer": 0,
         "persona": "kot",
@@ -154,20 +158,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 20000,
+        "end": 20200,
         "file": "Event04/04-KE/04-KE-B00/04-KE-B00-003",
         "start": 18333
     },
     {
         "action": "PrintText",
-        "end": 23000,
+        "end": 23150,
         "persona": "Макото",
         "start": 19316,
         "text": "Э?.. А! Что?^"
     },
     {
         "action": "PlayVoice",
-        "end": 23000,
+        "end": 23150,
         "file": "Voice04/04-KE/04-KE-B00/04-KE-B00-0140",
         "layer": 1,
         "persona": "mak",
@@ -175,20 +179,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 30000,
+        "end": 30233,
         "file": "Event04/04-KE/04-KE-B00/04-KE-B00-004",
         "start": 20200
     },
     {
         "action": "PrintText",
-        "end": 24000,
+        "end": 24383,
         "persona": "Котоноха",
         "start": 23150,
         "text": "Задумался о чём-то?^"
     },
     {
         "action": "PlayVoice",
-        "end": 24000,
+        "end": 24383,
         "file": "Voice04/04-KE/04-KE-B00/04-KE-B00-0150",
         "layer": 0,
         "persona": "kot",
@@ -196,14 +200,14 @@
     },
     {
         "action": "PrintText",
-        "end": 27000,
+        "end": 27350,
         "persona": "Макото",
         "start": 24383,
         "text": "Немного...^"
     },
     {
         "action": "PlayVoice",
-        "end": 27000,
+        "end": 27350,
         "file": "Voice04/04-KE/04-KE-B00/04-KE-B00-0160",
         "layer": 1,
         "persona": "mak",
@@ -211,14 +215,14 @@
     },
     {
         "action": "PrintText",
-        "end": 29000,
+        "end": 29150,
         "persona": "Котоноха",
         "start": 27350,
         "text": "Хватит ворон считать.^"
     },
     {
         "action": "PlayVoice",
-        "end": 29000,
+        "end": 29150,
         "file": "Voice04/04-KE/04-KE-B00/04-KE-B00-0170",
         "layer": 0,
         "persona": "kot",
@@ -226,14 +230,14 @@
     },
     {
         "action": "PrintText",
-        "end": 30000,
+        "end": 30233,
         "persona": "Макото",
         "start": 29150,
         "text": "Прости...^"
     },
     {
         "action": "PlayVoice",
-        "end": 30000,
+        "end": 30233,
         "file": "Voice04/04-KE/04-KE-B00/04-KE-B00-0180",
         "layer": 1,
         "persona": "mak",
@@ -241,20 +245,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 33000,
+        "end": 33300,
         "file": "Event04/04-KE/04-KE-B00/04-KE-B00-005",
         "start": 30233
     },
     {
         "action": "PrintText",
-        "end": 32000,
+        "end": 32150,
         "persona": "Котоноха",
         "start": 30233,
         "text": "Давай угадаю...^"
     },
     {
         "action": "PlayVoice",
-        "end": 32000,
+        "end": 32150,
         "file": "Voice04/04-KE/04-KE-B00/04-KE-B00-0190",
         "layer": 0,
         "persona": "kot",
@@ -262,14 +266,14 @@
     },
     {
         "action": "PrintText",
-        "end": 33000,
+        "end": 33283,
         "persona": "Макото",
         "start": 32133,
         "text": "Э?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 33000,
+        "end": 33283,
         "file": "Voice04/04-KE/04-KE-B00/04-KE-B00-0200",
         "layer": 1,
         "persona": "mak",
@@ -277,20 +281,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 44000,
+        "end": 44050,
         "file": "Event04/04-KE/04-KE-B00/04-KE-B00-004",
         "start": 33300
     },
     {
         "action": "PrintText",
-        "end": 39000,
+        "end": 39333,
         "persona": "Котоноха",
         "start": 33300,
         "text": "Вижу! Вижу!^"
     },
     {
         "action": "PlayVoice",
-        "end": 39000,
+        "end": 39333,
         "file": "Voice04/04-KE/04-KE-B00/04-KE-B00-0210",
         "layer": 0,
         "persona": "kot",
@@ -298,14 +302,14 @@
     },
     {
         "action": "PrintText",
-        "end": 41000,
+        "end": 41050,
         "persona": "Макото",
         "start": 39333,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 41000,
+        "end": 41050,
         "file": "Voice04/04-KE/04-KE-B00/04-KE-B00-0220",
         "layer": 1,
         "persona": "xxx",
@@ -313,14 +317,14 @@
     },
     {
         "action": "PrintText",
-        "end": 44000,
+        "end": 44050,
         "persona": "Котоноха",
         "start": 41050,
         "text": "Задумался ты!.. О Саиёндзи!^"
     },
     {
         "action": "PlayVoice",
-        "end": 44000,
+        "end": 44050,
         "file": "Voice04/04-KE/04-KE-B00/04-KE-B00-0230",
         "layer": 0,
         "persona": "kot",
@@ -328,14 +332,14 @@
     },
     {
         "action": "PrintText",
-        "end": 44000,
+        "end": 44300,
         "persona": "Макото",
         "start": 44033,
         "text": "Э?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 44000,
+        "end": 44300,
         "file": "Voice04/04-KE/04-KE-B00/04-KE-B00-0240",
         "layer": 1,
         "persona": "mak",
@@ -343,20 +347,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 54000,
+        "end": 54283,
         "file": "Event04/04-KE/04-KE-B00/04-KE-B00-007",
         "start": 44050
     },
     {
         "action": "PrintText",
-        "end": 49000,
+        "end": 49150,
         "persona": "Котоноха",
         "start": 44300,
         "text": "Её лучшая подруга ведь скоро за границу переезжает.^"
     },
     {
         "action": "PlayVoice",
-        "end": 49000,
+        "end": 49150,
         "file": "Voice04/04-KE/04-KE-B00/04-KE-B00-0250",
         "layer": 0,
         "persona": "kot",
@@ -364,14 +368,14 @@
     },
     {
         "action": "PrintText",
-        "end": 50000,
+        "end": 50183,
         "persona": "Макото",
         "start": 49150,
         "text": "А...^"
     },
     {
         "action": "PlayVoice",
-        "end": 50000,
+        "end": 50183,
         "file": "Voice04/04-KE/04-KE-B00/04-KE-B00-0260",
         "layer": 1,
         "persona": "mak",
@@ -379,14 +383,14 @@
     },
     {
         "action": "PrintText",
-        "end": 54000,
+        "end": 54316,
         "persona": "Котоноха",
         "start": 50200,
         "text": "И в школу Сэкаи именно из-за этого и не ходит...^"
     },
     {
         "action": "PlayVoice",
-        "end": 54000,
+        "end": 54316,
         "file": "Voice04/04-KE/04-KE-B00/04-KE-B00-0270",
         "layer": 0,
         "persona": "kot",
@@ -394,20 +398,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 70000,
+        "end": 70200,
         "file": "Event04/04-KE/04-KE-B00/04-KE-B00-008",
         "start": 54283
     },
     {
         "action": "PrintText",
-        "end": 59000,
+        "end": 59066,
         "persona": "Макото",
         "start": 54316,
         "text": "Да... Она изрядно приуныла.^"
     },
     {
         "action": "PlayVoice",
-        "end": 59000,
+        "end": 59066,
         "file": "Voice04/04-KE/04-KE-B00/04-KE-B00-0280",
         "layer": 1,
         "persona": "mak",
@@ -415,14 +419,14 @@
     },
     {
         "action": "PrintText",
-        "end": 67000,
+        "end": 67050,
         "persona": "Котоноха",
         "start": 59066,
         "text": "Да уж... Совсем подавленная, словно конец света... Я ей говорила взбодриться, да толку.^"
     },
     {
         "action": "PlayVoice",
-        "end": 67000,
+        "end": 67050,
         "file": "Voice04/04-KE/04-KE-B00/04-KE-B00-0290",
         "layer": 0,
         "persona": "kot",
@@ -430,14 +434,14 @@
     },
     {
         "action": "PrintText",
-        "end": 69000,
+        "end": 69250,
         "persona": "Макото",
         "start": 67066,
         "text": "Точно...^"
     },
     {
         "action": "PlayVoice",
-        "end": 69000,
+        "end": 69250,
         "file": "Voice04/04-KE/04-KE-B00/04-KE-B00-0300",
         "layer": 1,
         "persona": "mak",
@@ -445,14 +449,14 @@
     },
     {
         "action": "PrintText",
-        "end": 70000,
+        "end": 70200,
         "persona": "Котоноха",
         "start": 69250,
         "text": "Ага.^"
     },
     {
         "action": "PlayVoice",
-        "end": 70000,
+        "end": 70200,
         "file": "Voice04/04-KE/04-KE-B00/04-KE-B00-0310",
         "layer": 0,
         "persona": "kot",
@@ -460,20 +464,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 78000,
+        "end": 78083,
         "file": "Event04/04-KE/04-KE-B00/04-KE-B00-009",
         "start": 70200
     },
     {
         "action": "PrintText",
-        "end": 75000,
+        "end": 75183,
         "persona": "Макото",
         "start": 70200,
         "text": "Но, думаешь, она именно из-за этого такая расстроенная?^"
     },
     {
         "action": "PlayVoice",
-        "end": 75000,
+        "end": 75183,
         "file": "Voice04/04-KE/04-KE-B00/04-KE-B00-0320",
         "layer": 1,
         "persona": "mak",
@@ -481,14 +485,14 @@
     },
     {
         "action": "PrintText",
-        "end": 82000,
+        "end": 82366,
         "persona": "Котоноха",
         "start": 75183,
         "text": "Ну, на мой взгляд... Саванага говорил, что, мол, взбодрит её.^"
     },
     {
         "action": "PlayVoice",
-        "end": 82000,
+        "end": 82366,
         "file": "Voice04/04-KE/04-KE-B00/04-KE-B00-0330",
         "layer": 0,
         "persona": "kot",
@@ -502,14 +506,14 @@
     },
     {
         "action": "PrintText",
-        "end": 85000,
+        "end": 85183,
         "persona": "Макото",
         "start": 82366,
         "text": "Да, похоже на него...^"
     },
     {
         "action": "PlayVoice",
-        "end": 85000,
+        "end": 85183,
         "file": "Voice04/04-KE/04-KE-B00/04-KE-B00-0340",
         "layer": 1,
         "persona": "mak",
@@ -517,14 +521,14 @@
     },
     {
         "action": "PrintText",
-        "end": 86000,
+        "end": 86283,
         "persona": "Котоноха",
         "start": 85183,
         "text": "Да уж.^"
     },
     {
         "action": "PlayVoice",
-        "end": 86000,
+        "end": 86283,
         "file": "Voice04/04-KE/04-KE-B00/04-KE-B00-0350",
         "layer": 0,
         "persona": "kot",
@@ -532,14 +536,14 @@
     },
     {
         "action": "PrintText",
-        "end": 87000,
+        "end": 87200,
         "persona": "Макото",
         "start": 86283,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 87000,
+        "end": 87200,
         "file": "Voice04/04-KE/04-KE-B00/04-KE-B00-0360",
         "layer": 1,
         "persona": "xxx",
@@ -547,14 +551,14 @@
     },
     {
         "action": "PrintText",
-        "end": 89000,
+        "end": 89133,
         "persona": "Котоноха",
         "start": 87216,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 89000,
+        "end": 89133,
         "file": "Voice04/04-KE/04-KE-B00/04-KE-B00-0370",
         "layer": 0,
         "persona": "xxx",
@@ -562,14 +566,14 @@
     },
     {
         "action": "PrintText",
-        "end": 90000,
+        "end": 90350,
         "persona": "Макото",
         "start": 89133,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 90000,
+        "end": 90350,
         "file": "Voice04/04-KE/04-KE-B00/04-KE-B00-0380",
         "layer": 1,
         "persona": "xxx",
@@ -577,14 +581,14 @@
     },
     {
         "action": "PrintText",
-        "end": 91000,
+        "end": 91383,
         "persona": "Котоноха",
         "start": 90350,
         "text": "Макото...^"
     },
     {
         "action": "PlayVoice",
-        "end": 91000,
+        "end": 91383,
         "file": "Voice04/04-KE/04-KE-B00/04-KE-B00-0390",
         "layer": 0,
         "persona": "kot",
@@ -592,14 +596,14 @@
     },
     {
         "action": "PrintText",
-        "end": 92000,
+        "end": 92283,
         "persona": "Макото",
         "start": 91383,
         "text": "Что?^"
     },
     {
         "action": "PlayVoice",
-        "end": 92000,
+        "end": 92283,
         "file": "Voice04/04-KE/04-KE-B00/04-KE-B00-0400",
         "layer": 1,
         "persona": "mak",
@@ -607,14 +611,14 @@
     },
     {
         "action": "PrintText",
-        "end": 93000,
+        "end": 93383,
         "persona": "Котоноха",
         "start": 92283,
         "text": "Займёмся?^"
     },
     {
         "action": "PlayVoice",
-        "end": 93000,
+        "end": 93383,
         "file": "Voice04/04-KE/04-KE-B00/04-KE-B00-0410",
         "layer": 0,
         "persona": "kot",
@@ -622,14 +626,14 @@
     },
     {
         "action": "PrintText",
-        "end": 94000,
+        "end": 94250,
         "persona": "Макото",
         "start": 93383,
         "text": "Э?^"
     },
     {
         "action": "PlayVoice",
-        "end": 94000,
+        "end": 94250,
         "file": "Voice04/04-KE/04-KE-B00/04-KE-B00-0420",
         "layer": 1,
         "persona": "mak",
@@ -637,20 +641,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 103000,
+        "end": 103050,
         "file": "Event04/04-KE/04-KE-B00/04-KE-B00-007",
         "start": 94000
     },
     {
         "action": "PrintText",
-        "end": 95000,
+        "end": 95200,
         "persona": "Котоноха",
         "start": 94250,
         "text": "Любовью.^"
     },
     {
         "action": "PlayVoice",
-        "end": 95000,
+        "end": 95200,
         "file": "Voice04/04-KE/04-KE-B00/04-KE-B00-0430",
         "layer": 0,
         "persona": "kot",
@@ -658,14 +662,14 @@
     },
     {
         "action": "PrintText",
-        "end": 97000,
+        "end": 97066,
         "persona": "Макото",
         "start": 95200,
         "text": "А...^"
     },
     {
         "action": "PlayVoice",
-        "end": 97000,
+        "end": 97066,
         "file": "Voice04/04-KE/04-KE-B00/04-KE-B00-0440",
         "layer": 1,
         "persona": "mak",
@@ -675,15 +679,19 @@
         "action": "SetSELECT",
         "answer1": "Да.",
         "answer2": "Нет.",
-        "end": 102000,
+        "end": 102050,
         "start": 97050
     },
     {
         "action": "PlayVoice",
-        "end": 98000,
+        "end": 98116,
         "file": "Voice04/04-KE/04-KE-B00/04-KE-B00-0450",
         "layer": -1,
         "persona": "",
         "start": 97066
+    },
+    {
+        "action": "Next",
+        "start": 103050
     }
 ]

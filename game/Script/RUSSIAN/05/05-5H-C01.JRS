@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 38116
+    },
+    {
         "action": "PlayBgm",
-        "end": 44000,
+        "end": 44150,
         "file": "BGM/SD_BGM/sdbgm25",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2216,
         "file": "Event05/05-5H/05-5H-C01/05-5H-C01-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2183,
         "persona": "Таисукэ",
         "start": 1266,
         "text": "Здорово!^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2183,
         "file": "Voice05/05-5H/05-5H-C01/05-5H-C01-0050",
         "layer": 1,
         "persona": "tai",
@@ -28,20 +32,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4166,
         "file": "Event05/05-5H/05-5H-C01/05-5H-C01-002",
         "start": 2216
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4116,
         "persona": "Хикари",
         "start": 2233,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4116,
         "file": "Voice05/05-5H/05-5H-C01/05-5H-C01-0060",
         "layer": 0,
         "persona": "hik",
@@ -49,20 +53,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6083,
         "file": "Event05/05-5H/05-5H-C01/05-5H-C01-003",
         "start": 4166
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6016,
         "persona": "Таисукэ",
         "start": 4233,
         "text": "Чего раскричалась?^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6016,
         "file": "Voice05/05-5H/05-5H-C01/05-5H-C01-0070",
         "layer": 1,
         "persona": "tai",
@@ -70,20 +74,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 11000,
+        "end": 11300,
         "file": "Event05/05-5H/05-5H-C01/05-5H-C01-003B",
         "start": 6083
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9116,
         "persona": "Хикари",
         "start": 6100,
         "text": "Т-т-т-так ведь!.. Т-т-т-ты ж голый!..^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9116,
         "file": "Voice05/05-5H/05-5H-C01/05-5H-C01-0080",
         "layer": 0,
         "persona": "hik",
@@ -91,14 +95,14 @@
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10266,
         "persona": "Таисукэ",
         "start": 9216,
         "text": "Господи...^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10266,
         "file": "Voice05/05-5H/05-5H-C01/05-5H-C01-0090",
         "layer": 1,
         "persona": "tai",
@@ -107,37 +111,37 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 11000,
+        "end": 11300,
         "start": 10300
     },
     {
         "action": "CreateBG",
-        "end": 13000,
+        "end": 13383,
         "file": "System/Screen/Black",
         "start": 11300
     },
     {
         "action": "BlackFade",
         "dir": "IN",
-        "end": 14000,
+        "end": 14333,
         "start": 13333
     },
     {
         "action": "CreateBG",
-        "end": 17000,
+        "end": 17233,
         "file": "Event05/05-5H/05-5H-C01/05-5H-C01-005",
         "start": 13383
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17133,
         "persona": "Хикари",
         "start": 15000,
         "text": "Ты почему голый-то был?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17133,
         "file": "Voice05/05-5H/05-5H-C01/05-5H-C01-0130",
         "layer": 0,
         "persona": "hik",
@@ -145,20 +149,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 21000,
+        "end": 21383,
         "file": "Event05/05-5H/05-5H-C01/05-5H-C01-006",
         "start": 17233
     },
     {
         "action": "PrintText",
-        "end": 21000,
+        "end": 21383,
         "persona": "Таисукэ",
         "start": 17233,
         "text": "А вы вон как задержались... Вот мы с Котонохой без вас и начали.^"
     },
     {
         "action": "PlayVoice",
-        "end": 21000,
+        "end": 21383,
         "file": "Voice05/05-5H/05-5H-C01/05-5H-C01-0140",
         "layer": 1,
         "persona": "tai",
@@ -166,20 +170,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 23000,
+        "end": 23216,
         "file": "Event05/05-5H/05-5H-C01/05-5H-C01-007",
         "start": 21383
     },
     {
         "action": "PrintText",
-        "end": 23000,
+        "end": 23100,
         "persona": "Хикари",
         "start": 22116,
         "text": "Э?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 23000,
+        "end": 23100,
         "file": "Voice05/05-5H/05-5H-C01/05-5H-C01-0150",
         "layer": 0,
         "persona": "hik",
@@ -187,20 +191,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 27000,
+        "end": 27300,
         "file": "Event05/05-5H/05-5H-C01/05-5H-C01-008",
         "start": 23216
     },
     {
         "action": "PrintText",
-        "end": 27000,
+        "end": 27283,
         "persona": "Таисукэ",
         "start": 23216,
         "text": "Мы только закончили... Так что вперёд, пока давайте сами.^"
     },
     {
         "action": "PlayVoice",
-        "end": 27000,
+        "end": 27283,
         "file": "Voice05/05-5H/05-5H-C01/05-5H-C01-0160",
         "layer": 1,
         "persona": "tai",
@@ -208,20 +212,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 28000,
+        "end": 28250,
         "file": "Event05/05-5H/05-5H-C01/05-5H-C01-009",
         "start": 27300
     },
     {
         "action": "PrintText",
-        "end": 28000,
+        "end": 28216,
         "persona": "Макото",
         "start": 27350,
         "text": "Э?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 28000,
+        "end": 28216,
         "file": "Voice05/05-5H/05-5H-C01/05-5H-C01-0170",
         "layer": 1,
         "persona": "mak",
@@ -229,20 +233,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 36000,
+        "end": 36350,
         "file": "Event05/05-5H/05-5H-C01/05-5H-C01-010",
         "start": 28250
     },
     {
         "action": "PrintText",
-        "end": 36000,
+        "end": 36216,
         "persona": "Таисукэ",
         "start": 28250,
         "text": "Я просто... Никогда не видел, чтобы кто-то другой этим занимался... Вот и интересно... Посмотреть!^"
     },
     {
         "action": "PlayVoice",
-        "end": 36000,
+        "end": 36216,
         "file": "Voice05/05-5H/05-5H-C01/05-5H-C01-0180",
         "layer": 1,
         "persona": "tai",
@@ -250,20 +254,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 44000,
+        "end": 44150,
         "file": "Event05/05-5H/05-5H-C01/05-5H-C01-011",
         "start": 36350
     },
     {
         "action": "PrintText",
-        "end": 38000,
+        "end": 38183,
         "persona": "Хикари",
         "start": 36350,
         "text": "Но...^"
     },
     {
         "action": "PlayVoice",
-        "end": 38000,
+        "end": 38183,
         "file": "Voice05/05-5H/05-5H-C01/05-5H-C01-0190",
         "layer": 0,
         "persona": "hik",
@@ -271,14 +275,14 @@
     },
     {
         "action": "PrintText",
-        "end": 40000,
+        "end": 40233,
         "persona": "Макото",
         "start": 38116,
         "text": "А...^"
     },
     {
         "action": "PlayVoice",
-        "end": 40000,
+        "end": 40233,
         "file": "Voice05/05-5H/05-5H-C01/05-5H-C01-0210",
         "layer": 1,
         "persona": "mak",
@@ -288,7 +292,11 @@
         "action": "SetSELECT",
         "answer1": "Да как-то не тянет...",
         "answer2": "NULL",
-        "end": 43000,
+        "end": 43133,
         "start": 38116
+    },
+    {
+        "action": "Next",
+        "start": 44150
     }
 ]

@@ -1,134 +1,142 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 44083
+    },
+    {
         "action": "PlayBgm",
-        "end": 44000,
+        "end": 44083,
         "file": "BGM/SD_BGM/sdbgm06",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3033,
         "file": "Event02/02-2S/02-2S-U00/02-2S-U00-001",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4300,
         "file": "Event01/01-1S/01-1S-C00/01-1S-C00-002",
         "start": 3033
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7016,
         "file": "Event02/02-2S/02-2S-U00/02-2S-U00-002B",
         "start": 4300
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9116,
         "file": "Event02/02-2S/02-2S-U00/02-2S-U00-002C",
         "start": 7016
     },
     {
         "action": "CreateBG",
-        "end": 11000,
+        "end": 11216,
         "file": "Event02/02-2S/02-2S-U00/02-2S-U00-002D",
         "start": 9116
     },
     {
         "action": "CreateBG",
-        "end": 13000,
+        "end": 13333,
         "file": "Event02/02-2S/02-2S-U00/02-2S-U00-002E",
         "start": 11216
     },
     {
         "action": "CreateBG",
-        "end": 16000,
+        "end": 16050,
         "file": "Event02/02-2S/02-2S-U00/02-2S-U00-002F",
         "start": 13333
     },
     {
         "action": "CreateBG",
-        "end": 17000,
+        "end": 17366,
         "file": "Event01/01-1S/01-1S-C00/01-1S-C00-002",
         "start": 16050
     },
     {
         "action": "CreateBG",
-        "end": 19000,
+        "end": 19366,
         "file": "Event02/02-2S/02-2S-U00/02-2S-U00-003B",
         "start": 17366
     },
     {
         "action": "CreateBG",
-        "end": 21000,
+        "end": 21350,
         "file": "Event02/02-2S/02-2S-U00/02-2S-U00-003C",
         "start": 19366
     },
     {
         "action": "CreateBG",
-        "end": 23000,
+        "end": 23333,
         "file": "Event02/02-2S/02-2S-U00/02-2S-U00-003D",
         "start": 21350
     },
     {
         "action": "CreateBG",
-        "end": 25000,
+        "end": 25316,
         "file": "Event02/02-2S/02-2S-U00/02-2S-U00-003E",
         "start": 23333
     },
     {
         "action": "CreateBG",
-        "end": 27000,
+        "end": 27300,
         "file": "Event02/02-2S/02-2S-U00/02-2S-U00-003F",
         "start": 25316
     },
     {
         "action": "CreateBG",
-        "end": 29000,
+        "end": 29283,
         "file": "Event02/02-2S/02-2S-U00/02-2S-U00-003G",
         "start": 27300
     },
     {
         "action": "CreateBG",
-        "end": 31000,
+        "end": 31250,
         "file": "Event02/02-2S/02-2S-U00/02-2S-U00-004",
         "start": 29283
     },
     {
         "action": "CreateBG",
-        "end": 33000,
+        "end": 33233,
         "file": "Event02/02-2S/02-2S-U00/02-2S-U00-004B",
         "start": 31250
     },
     {
         "action": "CreateBG",
-        "end": 35000,
+        "end": 35250,
         "file": "Event02/02-2S/02-2S-U00/02-2S-U00-005",
         "start": 33233
     },
     {
         "action": "CreateBG",
-        "end": 37000,
+        "end": 37250,
         "file": "Event02/02-2S/02-2S-U00/02-2S-U00-005B",
         "start": 35250
     },
     {
         "action": "CreateBG",
-        "end": 39000,
+        "end": 39316,
         "file": "Event02/02-2S/02-2S-U00/02-2S-U00-006",
         "start": 37250
     },
     {
         "action": "CreateBG",
-        "end": 44000,
+        "end": 44083,
         "file": "Event02/02-2S/02-2S-U00/02-2S-U00-007",
         "start": 39316
     },
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 44000,
+        "end": 44083,
         "start": 43083
+    },
+    {
+        "action": "Next",
+        "start": 44083
     }
 ]

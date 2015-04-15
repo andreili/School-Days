@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 6083
+    },
+    {
         "action": "PlayBgm",
-        "end": 6000,
+        "end": 6083,
         "file": "BGM/SD_BGM/sdbgm03",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 6000,
+        "end": 6083,
         "file": "Se01/01-00/01-00-E00/SE01-00-E00-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2050,
         "file": "Event02/02-2S/02-2S-I03/02-2S-I03-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1300,
         "persona": "Макото",
         "start": 0,
         "text": "Я с тобой!^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1300,
         "file": "Voice02/02-2S/02-2S-I03/02-2S-I03-0030",
         "layer": 1,
         "persona": "mak",
@@ -35,20 +39,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3183,
         "file": "Event02/02-2S/02-2S-I03/02-2S-I03-001B",
         "start": 2050
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2383,
         "persona": "Котоноха",
         "start": 2050,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2383,
         "file": "Voice02/02-2S/02-2S-I03/02-2S-I03-0040",
         "layer": 0,
         "persona": "kot",
@@ -56,14 +60,18 @@
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6083,
         "file": "Event02/02-2S/02-2S-I03/02-2S-I03-002",
         "start": 3183
     },
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 6000,
+        "end": 6083,
         "start": 5083
+    },
+    {
+        "action": "Next",
+        "start": 6083
     }
 ]

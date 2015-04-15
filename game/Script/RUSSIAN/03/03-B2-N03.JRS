@@ -1,5 +1,9 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 10000
+    },
+    {
         "action": "PlayBgm",
         "end": 10000,
         "file": "BGM/SD_BGM/sdbgm25",
@@ -13,14 +17,14 @@
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1200,
         "persona": "Макото",
         "start": 0,
         "text": "Какая ты страстная...^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1200,
         "file": "Voice03/03-KB/03-KB-N03/03-KB-N03-0030",
         "layer": 1,
         "persona": "mak",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2216,
         "persona": "Котоноха",
         "start": 1200,
         "text": "Что?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2216,
         "file": "Voice03/03-KB/03-KB-N03/03-KB-N03-0040",
         "layer": 0,
         "persona": "kot",
@@ -43,14 +47,14 @@
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3350,
         "persona": "Макото",
         "start": 2216,
         "text": "Ты так возбудилась...^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3350,
         "file": "Voice03/03-KB/03-KB-N03/03-KB-N03-0050",
         "layer": 1,
         "persona": "mak",
@@ -58,14 +62,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6133,
         "persona": "Котоноха",
         "start": 3350,
         "text": "Не... Неправда!^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6133,
         "file": "Voice03/03-KB/03-KB-N03/03-KB-N03-0060",
         "layer": 0,
         "persona": "kot",
@@ -73,14 +77,14 @@
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7316,
         "persona": "Макото",
         "start": 6150,
         "text": "Ты такая милая!^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7316,
         "file": "Voice03/03-KB/03-KB-N03/03-KB-N03-0070",
         "layer": 1,
         "persona": "mak",
@@ -88,17 +92,21 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9166,
         "persona": "Котоноха",
         "start": 7333,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9166,
         "file": "Voice03/03-KB/03-KB-N03/03-KB-N03-0080",
         "layer": 0,
         "persona": "kot",
         "start": 7333
+    },
+    {
+        "action": "Next",
+        "start": 10000
     }
 ]

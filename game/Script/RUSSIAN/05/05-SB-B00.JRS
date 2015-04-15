@@ -1,61 +1,65 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 146266
+    },
+    {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10350,
         "persona": "Учитель",
         "start": 0,
         "text": "Так следующее задание: \"A large number of passengers (______) in the train crash\" подставьте правильное словосочетание из списка и закончите предложение. Отвечает Саванага.^"
     },
     {
         "action": "PlaySe",
-        "end": 10000,
+        "end": 10350,
         "file": "Voice05/05-SB/05-SB-B00/05-SB-B00-0050",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 25000,
+        "end": 25233,
         "file": "Event00/00-00/00-00-B01/00-00-B01-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 24000,
+        "end": 24333,
         "persona": "Таисукэ",
         "start": 10350,
         "text": "Номер четыре: \"die bybi orenaisu\"... А нет... \"die by violence death\"!^"
     },
     {
         "action": "PlaySe",
-        "end": 24000,
+        "end": 24333,
         "file": "Voice05/05-SB/05-SB-B00/05-SB-B00-0060",
         "layer": 2,
         "start": 10350
     },
     {
         "action": "PrintText",
-        "end": 35000,
+        "end": 35016,
         "persona": "Учитель",
         "start": 24333,
         "text": "Хватит уже! Садись! Все варианты ответов в этом примере указывают на гибель людей от различных причин, однако...^"
     },
     {
         "action": "PlaySe",
-        "end": 35000,
+        "end": 35016,
         "file": "Voice05/05-SB/05-SB-B00/05-SB-B00-0070",
         "layer": 1,
         "start": 24333
     },
     {
         "action": "CreateBG",
-        "end": 35000,
+        "end": 35083,
         "file": "Event05/05-SB/05-SB-B00/05-SB-B00-002",
         "start": 25233
     },
     {
         "action": "PlayVoice",
-        "end": 32000,
+        "end": 32133,
         "file": "Voice05/05-SB/05-SB-B00/05-SB-B00-0140",
         "layer": 0,
         "persona": "sek",
@@ -63,7 +67,7 @@
     },
     {
         "action": "PlaySe",
-        "end": 52000,
+        "end": 52283,
         "file": "SysSe/SE_all/school/chime",
         "layer": 3,
         "start": 34116
@@ -71,37 +75,37 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 35000,
+        "end": 35083,
         "start": 34266
     },
     {
         "action": "CreateBG",
-        "end": 36000,
+        "end": 36083,
         "file": "System/Screen/Black",
         "start": 35083
     },
     {
         "action": "CreateBG",
-        "end": 46000,
+        "end": 46066,
         "file": "Event05/05-SB/05-SB-B00/05-SB-B00-004",
         "start": 36083
     },
     {
         "action": "BlackFade",
         "dir": "IN",
-        "end": 36000,
+        "end": 36283,
         "start": 36083
     },
     {
         "action": "PrintText",
-        "end": 38000,
+        "end": 38050,
         "persona": "Сэкаи",
         "start": 37266,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 38000,
+        "end": 38050,
         "file": "Voice05/05-SB/05-SB-B00/05-SB-B00-0160",
         "layer": 0,
         "persona": "xxx",
@@ -109,21 +113,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 146000,
+        "end": 146266,
         "file": "SysSe/SE_all/gaya/kyousitu_rouka",
         "layer": 4,
         "start": 41200
     },
     {
         "action": "PrintText",
-        "end": 44000,
+        "end": 44150,
         "persona": "Хикари",
         "start": 41233,
         "text": "Сэкаи, есть будешь?^"
     },
     {
         "action": "PlayVoice",
-        "end": 44000,
+        "end": 44150,
         "file": "Voice05/05-SB/05-SB-B00/05-SB-B00-0180",
         "layer": 0,
         "persona": "hik",
@@ -131,14 +135,14 @@
     },
     {
         "action": "PrintText",
-        "end": 45000,
+        "end": 45266,
         "persona": "Сэкаи",
         "start": 44350,
         "text": "Угу...^"
     },
     {
         "action": "PlayVoice",
-        "end": 45000,
+        "end": 45266,
         "file": "Voice05/05-SB/05-SB-B00/05-SB-B00-0190",
         "layer": 0,
         "persona": "sek",
@@ -147,37 +151,37 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 46000,
+        "end": 46066,
         "start": 45250
     },
     {
         "action": "CreateBG",
-        "end": 47000,
+        "end": 47083,
         "file": "System/Screen/Black",
         "start": 46066
     },
     {
         "action": "CreateBG",
-        "end": 63000,
+        "end": 63150,
         "file": "Event05/05-SB/05-SB-B00/05-SB-B00-005",
         "start": 47083
     },
     {
         "action": "BlackFade",
         "dir": "IN",
-        "end": 47000,
+        "end": 47283,
         "start": 47083
     },
     {
         "action": "PrintText",
-        "end": 50000,
+        "end": 50333,
         "persona": "Сэкаи",
         "start": 50150,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 50000,
+        "end": 50333,
         "file": "Voice05/05-SB/05-SB-B00/05-SB-B00-0230",
         "layer": 0,
         "persona": "xxx",
@@ -185,14 +189,14 @@
     },
     {
         "action": "PrintText",
-        "end": 57000,
+        "end": 57316,
         "persona": "Хикари",
         "start": 51366,
         "text": "А, кстати, в нашей кафешке вновь ввели специальное меню, в курсе?^"
     },
     {
         "action": "PlayVoice",
-        "end": 57000,
+        "end": 57316,
         "file": "Voice05/05-SB/05-SB-B00/05-SB-B00-0240",
         "layer": 0,
         "persona": "hik",
@@ -200,14 +204,14 @@
     },
     {
         "action": "PrintText",
-        "end": 60000,
+        "end": 60266,
         "persona": "Нанами",
         "start": 57300,
         "text": "Э?.. Правда? И что там?^"
     },
     {
         "action": "PlayVoice",
-        "end": 60000,
+        "end": 60266,
         "file": "Voice05/05-SB/05-SB-B00/05-SB-B00-0250",
         "layer": 0,
         "persona": "nan",
@@ -215,14 +219,14 @@
     },
     {
         "action": "PrintText",
-        "end": 62000,
+        "end": 62016,
         "persona": "Хикари",
         "start": 60266,
         "text": "Шейк с китайской сливой!^"
     },
     {
         "action": "PlayVoice",
-        "end": 62000,
+        "end": 62016,
         "file": "Voice05/05-SB/05-SB-B00/05-SB-B00-0260",
         "layer": 0,
         "persona": "hik",
@@ -230,14 +234,14 @@
     },
     {
         "action": "PrintText",
-        "end": 63000,
+        "end": 63150,
         "persona": "Нанами",
         "start": 62016,
         "text": "Подумаешь.^"
     },
     {
         "action": "PlayVoice",
-        "end": 63000,
+        "end": 63150,
         "file": "Voice05/05-SB/05-SB-B00/05-SB-B00-0270",
         "layer": 0,
         "persona": "nan",
@@ -245,20 +249,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 74000,
+        "end": 74050,
         "file": "Event05/05-SB/05-SB-B00/05-SB-B00-005B",
         "start": 63150
     },
     {
         "action": "PrintText",
-        "end": 67000,
+        "end": 67033,
         "persona": "Хикари",
         "start": 63150,
         "text": "А ты что, милкшейк не уважаешь?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 67000,
+        "end": 67033,
         "file": "Voice05/05-SB/05-SB-B00/05-SB-B00-0280",
         "layer": 0,
         "persona": "hik",
@@ -266,14 +270,14 @@
     },
     {
         "action": "PrintText",
-        "end": 69000,
+        "end": 69300,
         "persona": "Нанами",
         "start": 67016,
         "text": "Ну так, он ведь не особо-то и вкусный.^"
     },
     {
         "action": "PlayVoice",
-        "end": 69000,
+        "end": 69300,
         "file": "Voice05/05-SB/05-SB-B00/05-SB-B00-0290",
         "layer": 0,
         "persona": "nan",
@@ -281,14 +285,14 @@
     },
     {
         "action": "PrintText",
-        "end": 74000,
+        "end": 74050,
         "persona": "Хикари",
         "start": 69283,
         "text": "Ничего подобного! Он просто шикарный!^"
     },
     {
         "action": "PlayVoice",
-        "end": 74000,
+        "end": 74050,
         "file": "Voice05/05-SB/05-SB-B00/05-SB-B00-0300",
         "layer": 0,
         "persona": "hik",
@@ -296,20 +300,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 91000,
+        "end": 91300,
         "file": "Event05/05-SB/05-SB-B00/05-SB-B00-005C",
         "start": 74050
     },
     {
         "action": "PrintText",
-        "end": 78000,
+        "end": 78100,
         "persona": "Нанами",
         "start": 74050,
         "text": "Да такое только заедать какой-нибудь магазинной булочкой с корицей можно...^"
     },
     {
         "action": "PlayVoice",
-        "end": 78000,
+        "end": 78100,
         "file": "Voice05/05-SB/05-SB-B00/05-SB-B00-0310",
         "layer": 0,
         "persona": "nan",
@@ -317,14 +321,14 @@
     },
     {
         "action": "PrintText",
-        "end": 81000,
+        "end": 81150,
         "persona": "Хикари",
         "start": 78083,
         "text": "Ну ты нашла с чем сравнить!^"
     },
     {
         "action": "PlayVoice",
-        "end": 81000,
+        "end": 81150,
         "file": "Voice05/05-SB/05-SB-B00/05-SB-B00-0320",
         "layer": 0,
         "persona": "hik",
@@ -332,14 +336,14 @@
     },
     {
         "action": "PrintText",
-        "end": 83000,
+        "end": 83150,
         "persona": "Нанами",
         "start": 81150,
         "text": "Ну так, одно другого стоит.^"
     },
     {
         "action": "PlayVoice",
-        "end": 83000,
+        "end": 83150,
         "file": "Voice05/05-SB/05-SB-B00/05-SB-B00-0330",
         "layer": 0,
         "persona": "nan",
@@ -347,14 +351,14 @@
     },
     {
         "action": "PrintText",
-        "end": 88000,
+        "end": 88116,
         "persona": "Хикари",
         "start": 83133,
         "text": "Да, эта ваша магазинная булка с корицей ни разу не с корицей!^"
     },
     {
         "action": "PlayVoice",
-        "end": 88000,
+        "end": 88116,
         "file": "Voice05/05-SB/05-SB-B00/05-SB-B00-0340",
         "layer": 0,
         "persona": "hik",
@@ -362,14 +366,14 @@
     },
     {
         "action": "PrintText",
-        "end": 93000,
+        "end": 93116,
         "persona": "Нанами",
         "start": 88116,
         "text": "Угу... Вкус там явно другой, странный такой...^"
     },
     {
         "action": "PlayVoice",
-        "end": 93000,
+        "end": 93116,
         "file": "Voice05/05-SB/05-SB-B00/05-SB-B00-0350",
         "layer": 0,
         "persona": "nan",
@@ -377,20 +381,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 109000,
+        "end": 109316,
         "file": "Event05/05-SB/05-SB-B00/05-SB-B00-005D",
         "start": 91300
     },
     {
         "action": "PrintText",
-        "end": 97000,
+        "end": 97066,
         "persona": "Хикари",
         "start": 93116,
         "text": "И не надо мне с этим милкшейк сравнивать!^"
     },
     {
         "action": "PlayVoice",
-        "end": 97000,
+        "end": 97066,
         "file": "Voice05/05-SB/05-SB-B00/05-SB-B00-0360",
         "layer": 0,
         "persona": "hik",
@@ -398,14 +402,14 @@
     },
     {
         "action": "PrintText",
-        "end": 99000,
+        "end": 99050,
         "persona": "Нанами",
         "start": 97050,
         "text": "Гадость есть гадость.^"
     },
     {
         "action": "PlayVoice",
-        "end": 99000,
+        "end": 99050,
         "file": "Voice05/05-SB/05-SB-B00/05-SB-B00-0370",
         "layer": 0,
         "persona": "nan",
@@ -413,14 +417,14 @@
     },
     {
         "action": "PrintText",
-        "end": 104000,
+        "end": 104283,
         "persona": "Хикари",
         "start": 99033,
         "text": "Это ты по старой памяти говоришь! Попробуй ещё разок, сразу по-другому думать начнёшь!^"
     },
     {
         "action": "PlayVoice",
-        "end": 104000,
+        "end": 104283,
         "file": "Voice05/05-SB/05-SB-B00/05-SB-B00-0380",
         "layer": 0,
         "persona": "hik",
@@ -428,14 +432,14 @@
     },
     {
         "action": "PrintText",
-        "end": 107000,
+        "end": 107016,
         "persona": "Нанами",
         "start": 104283,
         "text": "Что-то мне так не кажется.^"
     },
     {
         "action": "PlayVoice",
-        "end": 107000,
+        "end": 107016,
         "file": "Voice05/05-SB/05-SB-B00/05-SB-B00-0390",
         "layer": 0,
         "persona": "nan",
@@ -443,14 +447,14 @@
     },
     {
         "action": "PrintText",
-        "end": 108000,
+        "end": 108383,
         "persona": "Хикари",
         "start": 107000,
         "text": "Ну, пошли сегодня и проверим!^"
     },
     {
         "action": "PlayVoice",
-        "end": 108000,
+        "end": 108383,
         "file": "Voice05/05-SB/05-SB-B00/05-SB-B00-0400",
         "layer": 0,
         "persona": "hik",
@@ -458,14 +462,14 @@
     },
     {
         "action": "PrintText",
-        "end": 109000,
+        "end": 109333,
         "persona": "Нанами",
         "start": 108383,
         "text": "Пошли!^"
     },
     {
         "action": "PlayVoice",
-        "end": 109000,
+        "end": 109333,
         "file": "Voice05/05-SB/05-SB-B00/05-SB-B00-0410",
         "layer": 0,
         "persona": "nan",
@@ -473,20 +477,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 115000,
+        "end": 115033,
         "file": "Event05/05-SB/05-SB-B00/05-SB-B00-006",
         "start": 109316
     },
     {
         "action": "PrintText",
-        "end": 111000,
+        "end": 111383,
         "persona": "Хикари",
         "start": 109316,
         "text": "Давай и ты с нами, Сэкаи.^"
     },
     {
         "action": "PlayVoice",
-        "end": 111000,
+        "end": 111383,
         "file": "Voice05/05-SB/05-SB-B00/05-SB-B00-0420",
         "layer": 0,
         "persona": "hik",
@@ -494,14 +498,14 @@
     },
     {
         "action": "PrintText",
-        "end": 112000,
+        "end": 112183,
         "persona": "Сэкаи",
         "start": 111383,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 112000,
+        "end": 112183,
         "file": "Voice05/05-SB/05-SB-B00/05-SB-B00-0430",
         "layer": 0,
         "persona": "xxx",
@@ -509,14 +513,14 @@
     },
     {
         "action": "PrintText",
-        "end": 115000,
+        "end": 115050,
         "persona": "Нанами",
         "start": 114016,
         "text": "Сэкаи.^"
     },
     {
         "action": "PlayVoice",
-        "end": 115000,
+        "end": 115050,
         "file": "Voice05/05-SB/05-SB-B00/05-SB-B00-0450",
         "layer": 0,
         "persona": "nan",
@@ -524,20 +528,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 137000,
+        "end": 137150,
         "file": "Event05/05-SB/05-SB-B00/05-SB-B00-007",
         "start": 115033
     },
     {
         "action": "PrintText",
-        "end": 118000,
+        "end": 118366,
         "persona": "Сэкаи",
         "start": 115033,
         "text": "А... Прости... О чём вы?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 118000,
+        "end": 118366,
         "file": "Voice05/05-SB/05-SB-B00/05-SB-B00-0460",
         "layer": 0,
         "persona": "sek",
@@ -560,14 +564,14 @@
     },
     {
         "action": "PrintText",
-        "end": 124000,
+        "end": 124100,
         "persona": "Сэкаи",
         "start": 122000,
         "text": "А... Точно...^"
     },
     {
         "action": "PlayVoice",
-        "end": 124000,
+        "end": 124100,
         "file": "Voice05/05-SB/05-SB-B00/05-SB-B00-0480",
         "layer": 0,
         "persona": "sek",
@@ -575,14 +579,14 @@
     },
     {
         "action": "PrintText",
-        "end": 126000,
+        "end": 126266,
         "persona": "Хикари",
         "start": 124100,
         "text": "Ты же тоже с нами пойдёшь? После уроков.^"
     },
     {
         "action": "PlayVoice",
-        "end": 126000,
+        "end": 126266,
         "file": "Voice05/05-SB/05-SB-B00/05-SB-B00-0490",
         "layer": 0,
         "persona": "hik",
@@ -590,14 +594,14 @@
     },
     {
         "action": "PrintText",
-        "end": 130000,
+        "end": 130066,
         "persona": "Сэкаи",
         "start": 126266,
         "text": "А, нет... Не сегодня...^"
     },
     {
         "action": "PlayVoice",
-        "end": 130000,
+        "end": 130066,
         "file": "Voice05/05-SB/05-SB-B00/05-SB-B00-0500",
         "layer": 0,
         "persona": "sek",
@@ -605,14 +609,14 @@
     },
     {
         "action": "PrintText",
-        "end": 132000,
+        "end": 132066,
         "persona": "Хикари",
         "start": 130050,
         "text": "Что так? Подработка?^"
     },
     {
         "action": "PlayVoice",
-        "end": 132000,
+        "end": 132066,
         "file": "Voice05/05-SB/05-SB-B00/05-SB-B00-0510",
         "layer": 0,
         "persona": "hik",
@@ -620,14 +624,14 @@
     },
     {
         "action": "PrintText",
-        "end": 136000,
+        "end": 136183,
         "persona": "Сэкаи",
         "start": 132066,
         "text": "Да нет, не в том дело... Просто настроения нет...^"
     },
     {
         "action": "PlayVoice",
-        "end": 136000,
+        "end": 136183,
         "file": "Voice05/05-SB/05-SB-B00/05-SB-B00-0520",
         "layer": 0,
         "persona": "sek",
@@ -635,14 +639,14 @@
     },
     {
         "action": "PrintText",
-        "end": 137000,
+        "end": 137166,
         "persona": "Хикари",
         "start": 136183,
         "text": "Те дни?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 137000,
+        "end": 137166,
         "file": "Voice05/05-SB/05-SB-B00/05-SB-B00-0530",
         "layer": 0,
         "persona": "hik",
@@ -650,20 +654,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 146000,
+        "end": 146266,
         "file": "Event05/05-SB/05-SB-B00/05-SB-B00-008",
         "start": 137150
     },
     {
         "action": "PrintText",
-        "end": 142000,
+        "end": 142383,
         "persona": "Сэкаи",
         "start": 137150,
         "text": "Нет... Не переживайте. Идите вдвоём.^"
     },
     {
         "action": "PlayVoice",
-        "end": 142000,
+        "end": 142383,
         "file": "Voice05/05-SB/05-SB-B00/05-SB-B00-0540",
         "layer": 0,
         "persona": "sek",
@@ -671,14 +675,14 @@
     },
     {
         "action": "PrintText",
-        "end": 143000,
+        "end": 143350,
         "persona": "Хикари",
         "start": 142366,
         "text": "Угу...^"
     },
     {
         "action": "PlayVoice",
-        "end": 143000,
+        "end": 143350,
         "file": "Voice05/05-SB/05-SB-B00/05-SB-B00-0550",
         "layer": 0,
         "persona": "hik",
@@ -687,7 +691,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 146000,
+        "end": 146266,
         "start": 144350
+    },
+    {
+        "action": "Next",
+        "start": 146266
     }
 ]

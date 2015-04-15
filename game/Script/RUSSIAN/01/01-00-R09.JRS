@@ -1,45 +1,49 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 5100
+    },
+    {
         "action": "PlayBgm",
-        "end": 5000,
+        "end": 5100,
         "file": "BGM/SD_BGM/sdbgm06",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 5000,
+        "end": 5100,
         "file": "Voice01/01-00/01-00-R00/01-00-R00-0057",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1033,
         "file": "Event01/01-00/01-00-B00/01-00-B00-003",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3033,
         "file": "Event01/01-00/01-00-R09/01-00-R09-002",
         "start": 1033
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5100,
         "file": "Event01/01-00/01-00-R09/01-00-R09-003",
         "start": 3033
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4066,
         "persona": "Сэкаи",
         "start": 3066,
         "text": "Ум... Ум...^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4066,
         "file": "Voice01/01-00/01-00-R09/01-00-R09-0040",
         "layer": 0,
         "persona": "sek",
@@ -48,7 +52,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 5000,
+        "end": 5100,
         "start": 4300
+    },
+    {
+        "action": "Next",
+        "start": 5100
     }
 ]

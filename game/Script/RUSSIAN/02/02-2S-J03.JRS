@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 17100
+    },
+    {
         "action": "PlayBgm",
-        "end": 23000,
+        "end": 23183,
         "file": "BGM/SD_BGM/sdbgm07",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2283,
         "file": "Event02/02-2S/02-2S-J03/02-2S-J03-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1266,
         "persona": "Сэкаи",
         "start": 216,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1266,
         "file": "Voice02/02-2S/02-2S-J03/02-2S-J03-0040",
         "layer": 0,
         "persona": "xxx",
@@ -28,13 +32,13 @@
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5083,
         "file": "Event02/02-2S/02-2S-J03/02-2S-J03-002",
         "start": 2283
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8033,
         "file": "Event01/01-00/01-00-B00/01-00-B00-003",
         "start": 5083
     },
@@ -46,14 +50,14 @@
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8350,
         "persona": "Сэкаи",
         "start": 8100,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8350,
         "file": "Voice02/02-2S/02-2S-J03/02-2S-J03-0070",
         "layer": 0,
         "persona": "xxx",
@@ -61,32 +65,32 @@
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10200,
         "file": "Event02/02-2S/02-2S-J01/02-2S-J01-004B",
         "start": 9000
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12200,
         "file": "Event02/02-2S/02-2S-J03/02-2S-J03-004C",
         "start": 10200
     },
     {
         "action": "CreateBG",
-        "end": 14000,
+        "end": 14316,
         "file": "Event02/02-2S/02-2S-J03/02-2S-J03-005",
         "start": 12200
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14233,
         "persona": "Макото",
         "start": 12300,
         "text": "Думаешь, так легко ответить?^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14233,
         "file": "Voice02/02-2S/02-2S-J03/02-2S-J03-0110",
         "layer": 1,
         "persona": "mak",
@@ -94,7 +98,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 23000,
+        "end": 23183,
         "file": "Event02/02-2S/02-2S-J03/02-2S-J03-006",
         "start": 14316
     },
@@ -102,7 +106,11 @@
         "action": "SetSELECT",
         "answer1": "Сэкаи, я тебя люблю!^",
         "answer2": "Сэкаи, я люблю тебя больше всех!^",
-        "end": 22000,
+        "end": 22100,
         "start": 17100
+    },
+    {
+        "action": "Next",
+        "start": 23183
     }
 ]

@@ -1,13 +1,17 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 19216
+    },
+    {
         "action": "PlayBgm",
-        "end": 19000,
+        "end": 19216,
         "file": "BGM/SD_BGM/sdbgm06",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 19000,
+        "end": 19216,
         "file": "Se04/04-KA/04-KA-G00/SE04-KA-G00-001",
         "layer": 1,
         "start": 0
@@ -20,20 +24,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6333,
         "file": "Event04/04-KA/04-KA-F08/04-KA-F08-001B",
         "start": 3000
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6350,
         "persona": "Таисукэ",
         "start": 3033,
         "text": "Киора, что делать, когда мы свою часть закончим?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6350,
         "file": "Voice04/04-KA/04-KA-F08/04-KA-F08-0030",
         "layer": 1,
         "persona": "tai",
@@ -41,7 +45,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9316,
         "file": "Event04/04-KA/04-KA-F08/04-KA-F08-001C",
         "start": 6333
     },
@@ -62,20 +66,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12300,
         "file": "Event04/04-KA/04-KA-F08/04-KA-F08-001",
         "start": 9316
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12266,
         "persona": "Таисукэ",
         "start": 11000,
         "text": "Ясно...^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12266,
         "file": "Voice04/04-KA/04-KA-F08/04-KA-F08-0050",
         "layer": 1,
         "persona": "tai",
@@ -83,20 +87,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 15000,
+        "end": 15066,
         "file": "Event04/04-KA/04-KA-F08/04-KA-F08-002",
         "start": 12300
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15066,
         "persona": "Макото",
         "start": 12333,
         "text": "А. Я тут закончил.^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15066,
         "file": "Voice04/04-KA/04-KA-F08/04-KA-F08-0060",
         "layer": 1,
         "persona": "mak",
@@ -104,20 +108,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 17000,
+        "end": 17066,
         "file": "Event04/04-KA/04-KA-F08/04-KA-F08-003",
         "start": 15066
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17050,
         "persona": "Сэцуна",
         "start": 15066,
         "text": "Ну, спасибо за помощь.^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17050,
         "file": "Voice04/04-KA/04-KA-F08/04-KA-F08-0070",
         "layer": 0,
         "persona": "set",
@@ -125,23 +129,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 19000,
+        "end": 19216,
         "file": "Event04/04-KA/04-KA-F08/04-KA-F08-004",
         "start": 17066
     },
     {
         "action": "PrintText",
-        "end": 19000,
+        "end": 19100,
         "persona": "Макото",
         "start": 17083,
         "text": "Не за что...^"
     },
     {
         "action": "PlayVoice",
-        "end": 19000,
+        "end": 19100,
         "file": "Voice04/04-KA/04-KA-F08/04-KA-F08-0080",
         "layer": 1,
         "persona": "mak",
         "start": 17083
+    },
+    {
+        "action": "Next",
+        "start": 19216
     }
 ]

@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 12183
+    },
+    {
         "action": "PlayBgm",
-        "end": 18000,
+        "end": 18216,
         "file": "BGM/SD_BGM/sdbgm03",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 18000,
+        "end": 18216,
         "file": "Se03/03-KA/03-KA-I05/SE03-KA-I05-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10233,
         "file": "Event03/03-KA/03-KA-I05/03-KA-I05-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1150,
         "persona": "Макото",
         "start": 0,
         "text": "Мы с ней друзья...^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1150,
         "file": "Voice03/03-KA/03-KA-I05/03-KA-I05-0030",
         "layer": 1,
         "persona": "mak",
@@ -35,14 +39,14 @@
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2333,
         "persona": "Сэцуна",
         "start": 1250,
         "text": "Вот как?^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2333,
         "file": "Voice03/03-KA/03-KA-I05/03-KA-I05-0040",
         "layer": 0,
         "persona": "set",
@@ -50,14 +54,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4150,
         "persona": "Макото",
         "start": 2350,
         "text": "Да, именно.^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4150,
         "file": "Voice03/03-KA/03-KA-I05/03-KA-I05-0050",
         "layer": 1,
         "persona": "mak",
@@ -80,14 +84,14 @@
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10316,
         "persona": "Макото",
         "start": 8233,
         "text": "Чего это вдруг?^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10316,
         "file": "Voice03/03-KA/03-KA-I05/03-KA-I05-0070",
         "layer": 1,
         "persona": "mak",
@@ -95,20 +99,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 18000,
+        "end": 18216,
         "file": "Event03/03-KA/03-KA-I05/03-KA-I05-002",
         "start": 10233
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11383,
         "persona": "Сэцуна",
         "start": 10250,
         "text": "Ну мы же друзья?^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11383,
         "file": "Voice03/03-KA/03-KA-I05/03-KA-I05-0080",
         "layer": 0,
         "persona": "set",
@@ -116,14 +120,14 @@
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12333,
         "persona": "Макото",
         "start": 11333,
         "text": "Ну...^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12333,
         "file": "Voice03/03-KA/03-KA-I05/03-KA-I05-0090",
         "layer": 1,
         "persona": "mak",
@@ -133,7 +137,11 @@
         "action": "SetSELECT",
         "answer1": "Ну конечно!^",
         "answer2": "С чего бы это мы друзья?^",
-        "end": 17000,
+        "end": 17183,
         "start": 12183
+    },
+    {
+        "action": "Next",
+        "start": 18216
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 185250
+    },
+    {
         "action": "PlayMovie",
         "end": 90000,
         "file": "System/OP/SDHQ_OP",
@@ -14,20 +18,20 @@
     },
     {
         "action": "PlaySe",
-        "end": 97000,
+        "end": 97200,
         "file": "Se00/00-00/00-00-A00/SE00-00-A00-002",
         "layer": 1,
         "start": 90000
     },
     {
         "action": "CreateBG",
-        "end": 94000,
+        "end": 94083,
         "file": "Event00/00-00/00-00-A00/00-00-A00-000",
         "start": 90000
     },
     {
         "action": "PlaySe",
-        "end": 97000,
+        "end": 97200,
         "file": "Se00/00-00/00-00-A00/SE00-00-A00-001",
         "layer": 2,
         "start": 93100
@@ -41,78 +45,78 @@
     {
         "action": "BlackFade",
         "dir": "IN",
-        "end": 94000,
+        "end": 94283,
         "start": 94083
     },
     {
         "action": "PlaySe",
-        "end": 110000,
+        "end": 110266,
         "file": "Se00/00-00/00-00-A00/SE00-00-A00-003",
         "layer": 3,
         "start": 97200
     },
     {
         "action": "PlayMovie",
-        "end": 105000,
+        "end": 105166,
         "file": "Movie00/00-00/00-00-A00/00-00-A00-003",
         "start": 101000
     },
     {
         "action": "PlayMovie",
-        "end": 110000,
+        "end": 110266,
         "file": "Movie00/00-00/00-00-A00/00-00-A00-004",
         "start": 105166
     },
     {
         "action": "PlaySe",
-        "end": 114000,
+        "end": 114066,
         "file": "Se00/00-00/00-00-A00/SE00-00-A00-004",
         "layer": 1,
         "start": 110266
     },
     {
         "action": "PlayMovie",
-        "end": 114000,
+        "end": 114066,
         "file": "Movie00/00-00/00-00-A00/00-00-A00-005",
         "start": 110266
     },
     {
         "action": "PlaySe",
-        "end": 121000,
+        "end": 121150,
         "file": "Se00/00-00/00-00-A00/SE00-00-A00-005",
         "layer": 2,
         "start": 113000
     },
     {
         "action": "PlaySe",
-        "end": 128000,
+        "end": 128100,
         "file": "Se00/00-00/00-00-A00/SE00-00-A00-006",
         "layer": 3,
         "start": 114066
     },
     {
         "action": "PlayMovie",
-        "end": 120000,
+        "end": 120150,
         "file": "Movie00/00-00/00-00-A00/00-00-A00-006",
         "start": 114066
     },
     {
         "action": "PrintText",
-        "end": 122000,
+        "end": 122183,
         "persona": "Объявление",
         "start": 119216,
         "text": "Станция Харамихама^"
     },
     {
         "action": "PlaySe",
-        "end": 122000,
+        "end": 122183,
         "file": "Voice00/00-00/00-00-A00/00-00-A00-0090",
         "layer": 5,
         "start": 119216
     },
     {
         "action": "PlayBgm",
-        "end": 184000,
+        "end": 184050,
         "file": "BGM/SD_BGM/sdbgm07",
         "start": 120150
     },
@@ -124,7 +128,7 @@
     },
     {
         "action": "PlayVoice",
-        "end": 121000,
+        "end": 121183,
         "file": "Voice00/00-00/00-00-A00/00-00-A00-0080",
         "layer": 1,
         "persona": "xxx",
@@ -132,21 +136,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 124000,
+        "end": 124233,
         "file": "Se00/00-00/00-00-A00/SE00-00-A00-008",
         "layer": 1,
         "start": 122216
     },
     {
         "action": "PrintText",
-        "end": 124000,
+        "end": 124350,
         "persona": "Макото",
         "start": 124166,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 124000,
+        "end": 124350,
         "file": "Voice00/00-00/00-00-A00/00-00-A00-0120",
         "layer": 1,
         "persona": "xxx",
@@ -154,47 +158,47 @@
     },
     {
         "action": "PlaySe",
-        "end": 129000,
+        "end": 129150,
         "file": "Se00/00-00/00-00-A00/SE00-00-A00-009",
         "layer": 4,
         "start": 124233
     },
     {
         "action": "PlayMovie",
-        "end": 128000,
+        "end": 128100,
         "file": "Movie00/00-00/00-00-A00/00-00-A00-008",
         "start": 125000
     },
     {
         "action": "PlaySe",
-        "end": 126000,
+        "end": 126216,
         "file": "Se00/00-00/00-00-A00/SE00-00-A00-007",
         "layer": 2,
         "start": 125066
     },
     {
         "action": "PlaySe",
-        "end": 145000,
+        "end": 145050,
         "file": "Se00/00-00/00-00-A00/SE00-00-A00-010",
         "layer": 2,
         "start": 127116
     },
     {
         "action": "PlayMovie",
-        "end": 133000,
+        "end": 133083,
         "file": "Movie00/00-00/00-00-A00/00-00-A00-009",
         "start": 128100
     },
     {
         "action": "PrintText",
-        "end": 133000,
+        "end": 133133,
         "persona": "Макото",
         "start": 127250,
         "text": "В начале второго семестра я впервые заметил, что по утрам еду в поезде с одной девушкой.^"
     },
     {
         "action": "PlayVoice",
-        "end": 133000,
+        "end": 133133,
         "file": "Voice00/00-00/00-00-A00/00-00-A00-0130",
         "layer": 1,
         "persona": "xxx",
@@ -202,20 +206,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 137000,
+        "end": 137183,
         "file": "Movie00/00-00/00-00-A00/00-00-A00-010",
         "start": 133083
     },
     {
         "action": "PrintText",
-        "end": 137000,
+        "end": 137166,
         "persona": "Макото",
         "start": 133366,
         "text": "Я знаю только то, что она учится в соседнем классе.^"
     },
     {
         "action": "PlayVoice",
-        "end": 137000,
+        "end": 137166,
         "file": "Voice00/00-00/00-00-A00/00-00-A00-0150",
         "layer": 1,
         "persona": "xxx",
@@ -223,27 +227,27 @@
     },
     {
         "action": "PlaySe",
-        "end": 158000,
+        "end": 158166,
         "file": "Se00/00-00/00-00-A00/SE00-00-A00-003",
         "layer": 3,
         "start": 136216
     },
     {
         "action": "PlayMovie",
-        "end": 144000,
+        "end": 144383,
         "file": "Movie00/00-00/00-00-A00/00-00-A00-011",
         "start": 137183
     },
     {
         "action": "PrintText",
-        "end": 141000,
+        "end": 141316,
         "persona": "Макото",
         "start": 138033,
         "text": "Похоже, она любит читать: в поезде я часто вижу её с книжкой.^"
     },
     {
         "action": "PlayVoice",
-        "end": 141000,
+        "end": 141316,
         "file": "Voice00/00-00/00-00-A00/00-00-A00-0160",
         "layer": 1,
         "persona": "xxx",
@@ -251,14 +255,14 @@
     },
     {
         "action": "PrintText",
-        "end": 149000,
+        "end": 149100,
         "persona": "Макото",
         "start": 142216,
         "text": "Совсем недавно я узнал, что её зовут... Кацура.^"
     },
     {
         "action": "PlayVoice",
-        "end": 149000,
+        "end": 149100,
         "file": "Voice00/00-00/00-00-A00/00-00-A00-0170",
         "layer": 1,
         "persona": "xxx",
@@ -266,27 +270,27 @@
     },
     {
         "action": "PlaySe",
-        "end": 150000,
+        "end": 150216,
         "file": "Voice00/00-00/00-00-A00/00-00-A00-0210",
         "layer": 5,
         "start": 144033
     },
     {
         "action": "PlayMovie",
-        "end": 150000,
+        "end": 150383,
         "file": "Movie00/00-00/00-00-A00/00-00-A00-012",
         "start": 144383
     },
     {
         "action": "PrintText",
-        "end": 158000,
+        "end": 158250,
         "persona": "Макото",
         "start": 150000,
         "text": "Мы ездили в школу на одном поезде, только и всего. И всё-таки...^"
     },
     {
         "action": "PlayVoice",
-        "end": 158000,
+        "end": 158250,
         "file": "Voice00/00-00/00-00-A00/00-00-A00-0200",
         "layer": 1,
         "persona": "xxx",
@@ -294,52 +298,52 @@
     },
     {
         "action": "PlayMovie",
-        "end": 152000,
+        "end": 152183,
         "file": "Movie00/00-00/00-00-A00/00-00-A00-013",
         "start": 150383
     },
     {
         "action": "PlaySe",
-        "end": 151000,
+        "end": 151383,
         "file": "Voice00/00-00/00-00-A00/00-00-A00-0190",
         "layer": 1,
         "start": 151100
     },
     {
         "action": "PlayMovie",
-        "end": 155000,
+        "end": 155283,
         "file": "Movie00/00-00/00-00-A00/00-00-A00-014",
         "start": 152183
     },
     {
         "action": "PlayMovie",
-        "end": 158000,
+        "end": 158166,
         "file": "Movie00/00-00/00-00-A00/00-00-A00-015",
         "start": 155283
     },
     {
         "action": "PlaySe",
-        "end": 184000,
+        "end": 184066,
         "file": "Se00/00-00/00-00-A00/SE00-00-A00-006",
         "layer": 4,
         "start": 158166
     },
     {
         "action": "PlayMovie",
-        "end": 159000,
+        "end": 159350,
         "file": "Movie00/00-00/00-00-A00/00-00-A00-016",
         "start": 158166
     },
     {
         "action": "PrintText",
-        "end": 164000,
+        "end": 164233,
         "persona": "Макото",
         "start": 159200,
         "text": "С того самого дня она понравилась мне.^"
     },
     {
         "action": "PlayVoice",
-        "end": 164000,
+        "end": 164233,
         "file": "Voice00/00-00/00-00-A00/00-00-A00-0230",
         "layer": 1,
         "persona": "xxx",
@@ -347,26 +351,26 @@
     },
     {
         "action": "PlayMovie",
-        "end": 165000,
+        "end": 165150,
         "file": "Movie00/00-00/00-00-A00/00-00-A00-017",
         "start": 159350
     },
     {
         "action": "PlayMovie",
-        "end": 173000,
+        "end": 173383,
         "file": "Movie00/00-00/00-00-A00/00-00-A00-018",
         "start": 165133
     },
     {
         "action": "PrintText",
-        "end": 173000,
+        "end": 173266,
         "persona": "Макото",
         "start": 165333,
         "text": "Конечно, мне не хватало духу просто подойти и познакомиться. Не говоря уже о том, как узнать о ней больше...^"
     },
     {
         "action": "PlayVoice",
-        "end": 173000,
+        "end": 173266,
         "file": "Voice00/00-00/00-00-A00/00-00-A00-0250",
         "layer": 1,
         "persona": "xxx",
@@ -374,20 +378,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 178000,
+        "end": 178083,
         "file": "Movie00/00-00/00-00-A00/00-00-A00-019",
         "start": 173383
     },
     {
         "action": "PrintText",
-        "end": 183000,
+        "end": 183300,
         "persona": "Макото",
         "start": 174183,
         "text": "Оставалось лишь наблюдать за ней украдкой, но в тот день всё вышло немного по-другому.^"
     },
     {
         "action": "PlayVoice",
-        "end": 183000,
+        "end": 183300,
         "file": "Voice00/00-00/00-00-A00/00-00-A00-0270",
         "layer": 1,
         "persona": "xxx",
@@ -395,34 +399,38 @@
     },
     {
         "action": "PlaySe",
-        "end": 177000,
+        "end": 177200,
         "file": "Se00/00-00/00-00-A00/SE00-00-A00-011",
         "layer": 1,
         "start": 177100
     },
     {
         "action": "PlayMovie",
-        "end": 179000,
+        "end": 179383,
         "file": "Movie00/00-00/00-00-A00/00-00-A00-020",
         "start": 178083
     },
     {
         "action": "PlayMovie",
-        "end": 182000,
+        "end": 182150,
         "file": "Movie00/00-00/00-00-A00/00-00-A00-021",
         "start": 179383
     },
     {
         "action": "PlayMovie",
-        "end": 185000,
+        "end": 185250,
         "file": "Movie00/00-00/00-00-A00/00-00-A00-022",
         "start": 182150
     },
     {
         "action": "PlaySe",
-        "end": 184000,
+        "end": 184366,
         "file": "Se00/00-00/00-00-A00/SE00-00-A00-012",
         "layer": 2,
         "start": 184016
+    },
+    {
+        "action": "Next",
+        "start": 185250
     }
 ]

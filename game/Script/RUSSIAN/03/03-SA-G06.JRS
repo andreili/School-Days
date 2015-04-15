@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 8266
+    },
+    {
         "action": "PlayBgm",
-        "end": 8000,
+        "end": 8266,
         "file": "BGM/SD_BGM/sdbgm07",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 8000,
+        "end": 8266,
         "file": "Se03/03-SA/03-SA-G06/SE03-SA-G06-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3366,
         "file": "Event03/03-SA/03-SA-G06/03-SA-G06-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3366,
         "persona": "Макото",
         "start": 0,
         "text": "Сэкаи, я... это...^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3366,
         "file": "Voice03/03-SA/03-SA-G06/03-SA-G06-0030",
         "layer": 1,
         "persona": "mak",
@@ -35,20 +39,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8266,
         "file": "Event03/03-SA/03-SA-G06/03-SA-G06-002",
         "start": 3366
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7100,
         "persona": "Сэкаи",
         "start": 3366,
         "text": "Ну чего ты задумался-то?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7100,
         "file": "Voice03/03-SA/03-SA-G06/03-SA-G06-0040",
         "layer": 0,
         "persona": "sek",
@@ -56,17 +60,21 @@
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8116,
         "persona": "Макото",
         "start": 7100,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8116,
         "file": "Voice03/03-SA/03-SA-G06/03-SA-G06-0050",
         "layer": 1,
         "persona": "mak",
         "start": 7100
+    },
+    {
+        "action": "Next",
+        "start": 8266
     }
 ]

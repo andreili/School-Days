@@ -1,27 +1,31 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 5250
+    },
+    {
         "action": "PlaySe",
-        "end": 5000,
+        "end": 5183,
         "file": "SysSe/SE_all/gaya/kyousitu_rouka",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1116,
         "file": "Event05/05-5O/05-5O-H04/05-5O-H04-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 0,
+        "end": 283,
         "persona": "Макото",
         "start": 133,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 0,
+        "end": 283,
         "file": "Voice05/05-5O/05-5O-H04/05-5O-H04-0030",
         "layer": 1,
         "persona": "xxx",
@@ -29,20 +33,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3033,
         "file": "Event05/05-5O/05-5O-H04/05-5O-H04-002",
         "start": 1116
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2383,
         "persona": "Котоноха",
         "start": 1133,
         "text": "Н-ну?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2383,
         "file": "Voice05/05-5O/05-5O-H04/05-5O-H04-0040",
         "layer": 0,
         "persona": "kot",
@@ -50,20 +54,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4033,
         "file": "Event05/05-5O/05-5O-H04/05-5O-H04-003",
         "start": 3033
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3383,
         "persona": "Макото",
         "start": 3083,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3383,
         "file": "Voice05/05-5O/05-5O-H04/05-5O-H04-0050",
         "layer": 1,
         "persona": "xxx",
@@ -71,23 +75,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5250,
         "file": "Event05/05-5O/05-5O-H00/05-5O-H00-001",
         "start": 4033
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5183,
         "persona": "Котоноха",
         "start": 4050,
         "text": "Я пойду с тобой.^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5183,
         "file": "Voice05/05-5O/05-5O-H04/05-5O-H04-0060",
         "layer": 0,
         "persona": "kot",
         "start": 4050
+    },
+    {
+        "action": "Next",
+        "start": 5250
     }
 ]

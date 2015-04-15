@@ -1,5 +1,9 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 150066
+    },
+    {
         "action": "PlayBgm",
         "end": 12000,
         "file": "BGM/SD_BGM/sdbgm07",
@@ -14,13 +18,13 @@
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4033,
         "file": "Event03/03-B1/03-B1-D00/03-B1-D00-001",
         "start": 0
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4033,
         "file": "Voice03/03-B1/03-B1-D00/03-B1-D00-0050",
         "layer": 1,
         "persona": "mak",
@@ -28,20 +32,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8183,
         "file": "Event03/03-B1/03-B1-D00/03-B1-D00-002",
         "start": 4033
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5150,
         "persona": "Котоноха",
         "start": 4033,
         "text": "А...^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5150,
         "file": "Voice03/03-B1/03-B1-D00/03-B1-D00-0060",
         "layer": 0,
         "persona": "kot",
@@ -49,14 +53,14 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9250,
         "persona": "Макото",
         "start": 5150,
         "text": "Фух... Прости, я задержался.^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9250,
         "file": "Voice03/03-B1/03-B1-D00/03-B1-D00-0070",
         "layer": 1,
         "persona": "mak",
@@ -64,20 +68,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 13000,
+        "end": 13316,
         "file": "Event03/03-B1/03-B1-D00/03-B1-D00-003",
         "start": 8183
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13316,
         "persona": "Котоноха",
         "start": 9266,
         "text": "Ничего. Но подожди, почему ты здесь?^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13316,
         "file": "Voice03/03-B1/03-B1-D00/03-B1-D00-0080",
         "layer": 0,
         "persona": "kot",
@@ -85,26 +89,26 @@
     },
     {
         "action": "EndBGM",
-        "end": 150000,
+        "end": 150066,
         "file": "BGM/Vocal/SDV05A",
         "start": 12016
     },
     {
         "action": "CreateBG",
-        "end": 18000,
+        "end": 18316,
         "file": "Event03/03-B1/03-B1-D00/03-B1-D00-004",
         "start": 13316
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17350,
         "persona": "Макото",
         "start": 13316,
         "text": "Ну, мы днём не встретились, и я подумал, что ты, наверное, здесь.^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17350,
         "file": "Voice03/03-B1/03-B1-D00/03-B1-D00-0090",
         "layer": 1,
         "persona": "mak",
@@ -112,14 +116,14 @@
     },
     {
         "action": "PrintText",
-        "end": 18000,
+        "end": 18300,
         "persona": "Котоноха",
         "start": 17350,
         "text": "А...^"
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18300,
         "file": "Voice03/03-B1/03-B1-D00/03-B1-D00-0100",
         "layer": 0,
         "persona": "kot",
@@ -127,14 +131,14 @@
     },
     {
         "action": "PrintText",
-        "end": 21000,
+        "end": 21283,
         "persona": "Макото",
         "start": 18300,
         "text": "Пошли потанцуем?^"
     },
     {
         "action": "PlayVoice",
-        "end": 21000,
+        "end": 21283,
         "file": "Voice03/03-B1/03-B1-D00/03-B1-D00-0120",
         "layer": 1,
         "persona": "mak",
@@ -142,26 +146,26 @@
     },
     {
         "action": "CreateBG",
-        "end": 21000,
+        "end": 21283,
         "file": "Event03/03-B1/03-B1-D00/03-B1-D00-005A",
         "start": 18316
     },
     {
         "action": "CreateBG",
-        "end": 22000,
+        "end": 22350,
         "file": "Event03/03-B1/03-B1-D00/03-B1-D00-005B",
         "start": 21283
     },
     {
         "action": "PrintText",
-        "end": 22000,
+        "end": 22300,
         "persona": "Котоноха",
         "start": 21283,
         "text": "Пошли!^"
     },
     {
         "action": "PlayVoice",
-        "end": 22000,
+        "end": 22300,
         "file": "Voice03/03-B1/03-B1-D00/03-B1-D00-0130",
         "layer": 0,
         "persona": "kot",
@@ -181,8 +185,12 @@
     },
     {
         "action": "EndRoll",
-        "end": 150000,
+        "end": 150066,
         "file": "Movie03/ENDROLL/04-4",
         "start": 24000
+    },
+    {
+        "action": "Next",
+        "start": 151066
     }
 ]

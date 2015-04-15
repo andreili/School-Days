@@ -1,19 +1,23 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 31066
+    },
+    {
         "action": "PlayBgm",
-        "end": 31000,
+        "end": 31066,
         "file": "BGM/SD_BGM/sdbgm07",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2050,
         "file": "Event02/02-2S/02-2S-J01/02-2S-J01-001",
         "start": 0
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1266,
         "file": "Voice02/02-2S/02-2S-J01/02-2S-J01-0040",
         "layer": -1,
         "persona": "",
@@ -21,7 +25,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4016,
         "file": "Event02/02-2S/02-2S-J01/02-2S-J01-002",
         "start": 2050
     },
@@ -33,13 +37,13 @@
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7050,
         "file": "Event02/02-2S/02-2S-J01/02-2S-J01-003B",
         "start": 5000
     },
     {
         "action": "PlaySe",
-        "end": 8000,
+        "end": 8016,
         "file": "Voice02/02-2S/02-2S-J01/02-2S-J01-0050",
         "layer": 1,
         "start": 7050
@@ -52,33 +56,33 @@
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10066,
         "file": "Event02/02-2S/02-2S-J01/02-2S-J01-004B",
         "start": 8000
     },
     {
         "action": "PlaySe",
-        "end": 10000,
+        "end": 10066,
         "file": "Voice02/02-2S/02-2S-J01/02-2S-J01-0090",
         "layer": 1,
         "start": 9083
     },
     {
         "action": "CreateBG",
-        "end": 15000,
+        "end": 15200,
         "file": "Event02/02-2S/02-2S-J01/02-2S-J01-005",
         "start": 10066
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13366,
         "persona": "Сэкаи",
         "start": 10066,
         "text": "На самом деле, ты Кацуру больше любишь...^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13366,
         "file": "Voice02/02-2S/02-2S-J01/02-2S-J01-0100",
         "layer": 0,
         "persona": "sek",
@@ -86,14 +90,14 @@
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15200,
         "persona": "Макото",
         "start": 13316,
         "text": "Что?^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15200,
         "file": "Voice02/02-2S/02-2S-J01/02-2S-J01-0110",
         "layer": 1,
         "persona": "mak",
@@ -101,20 +105,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 20000,
+        "end": 20383,
         "file": "Event01/01-00/01-00-C00/01-00-C00-001",
         "start": 15200
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16200,
         "persona": "Сэкаи",
         "start": 15200,
         "text": "Ничего...^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16200,
         "file": "Voice02/02-2S/02-2S-J01/02-2S-J01-0120",
         "layer": 0,
         "persona": "sek",
@@ -122,14 +126,14 @@
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17183,
         "persona": "Макото",
         "start": 16166,
         "text": "Что ты сказала?^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17183,
         "file": "Voice02/02-2S/02-2S-J01/02-2S-J01-0130",
         "layer": 1,
         "persona": "mak",
@@ -137,14 +141,14 @@
     },
     {
         "action": "PrintText",
-        "end": 19000,
+        "end": 19266,
         "persona": "Учитель",
         "start": 17066,
         "text": "Тишина в классе!^"
     },
     {
         "action": "PlayVoice",
-        "end": 19000,
+        "end": 19266,
         "file": "Voice02/02-2S/02-2S-J01/02-2S-J01-0140",
         "layer": 1,
         "persona": "gnk",
@@ -152,14 +156,14 @@
     },
     {
         "action": "PrintText",
-        "end": 20000,
+        "end": 20333,
         "persona": "Макото",
         "start": 19166,
         "text": "Извините...^"
     },
     {
         "action": "PlayVoice",
-        "end": 20000,
+        "end": 20333,
         "file": "Voice02/02-2S/02-2S-J01/02-2S-J01-0150",
         "layer": 1,
         "persona": "mak",
@@ -167,19 +171,19 @@
     },
     {
         "action": "CreateBG",
-        "end": 21000,
+        "end": 21383,
         "file": "Event02/02-2S/02-2S-J01/02-2S-J01-007A",
         "start": 20383
     },
     {
         "action": "CreateBG",
-        "end": 24000,
+        "end": 24300,
         "file": "Event02/02-2S/02-2S-J01/02-2S-J01-007B",
         "start": 21383
     },
     {
         "action": "PlayVoice",
-        "end": 23000,
+        "end": 23250,
         "file": "Voice02/02-2S/02-2S-J01/02-2S-J01-0170",
         "layer": -1,
         "persona": "",
@@ -187,26 +191,26 @@
     },
     {
         "action": "CreateBG",
-        "end": 27000,
+        "end": 27250,
         "file": "Event02/02-2S/02-2S-J01/02-2S-J01-008",
         "start": 24300
     },
     {
         "action": "CreateBG",
-        "end": 31000,
+        "end": 31066,
         "file": "Event02/02-2S/02-2S-J01/02-2S-J01-009",
         "start": 27250
     },
     {
         "action": "PrintText",
-        "end": 29000,
+        "end": 29066,
         "persona": "Макото",
         "start": 27366,
         "text": "Да что с тобой?^"
     },
     {
         "action": "PlayVoice",
-        "end": 29000,
+        "end": 29066,
         "file": "Voice02/02-2S/02-2S-J01/02-2S-J01-0190",
         "layer": 1,
         "persona": "mak",
@@ -215,7 +219,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 31000,
+        "end": 31066,
         "start": 30066
+    },
+    {
+        "action": "Next",
+        "start": 31066
     }
 ]

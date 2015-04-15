@@ -1,61 +1,65 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 20366
+    },
+    {
         "action": "PlayBgm",
-        "end": 20000,
+        "end": 20366,
         "file": "BGM/SD_BGM/sdbgm06",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1050,
         "file": "Event04/04-SE/04-SE-D03/04-SE-D03-001",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2050,
         "file": "Event04/04-SE/04-SE-D03/04-SE-D03-001B",
         "start": 1050
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3200,
         "file": "Event04/04-SE/04-SE-D03/04-SE-D03-002",
         "start": 2066
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4233,
         "file": "Event04/04-SE/04-SE-D03/04-SE-D03-003A",
         "start": 3200
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5250,
         "file": "Event04/04-SE/04-SE-D03/04-SE-D03-003B",
         "start": 4233
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6366,
         "file": "Event04/04-SE/04-SE-D03/04-SE-D03-003C",
         "start": 5250
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8033,
         "file": "Event04/04-SE/04-SE-D03/04-SE-D03-003D",
         "start": 6366
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9316,
         "file": "Event04/04-SE/04-SE-D03/04-SE-D03-003E",
         "start": 8033
     },
     {
         "action": "CreateBG",
-        "end": 11000,
+        "end": 11216,
         "file": "Event04/04-SE/04-SE-D03/04-SE-D03-003F",
         "start": 9316
     },
@@ -67,34 +71,38 @@
     },
     {
         "action": "CreateBG",
-        "end": 15000,
+        "end": 15283,
         "file": "Event04/04-SE/04-SE-D03/04-SE-D03-003H",
         "start": 13000
     },
     {
         "action": "CreateBG",
-        "end": 16000,
+        "end": 16283,
         "file": "Event04/04-SE/04-SE-D03/04-SE-D03-004",
         "start": 15283
     },
     {
         "action": "CreateBG",
-        "end": 17000,
+        "end": 17200,
         "file": "Event04/04-SE/04-SE-D03/04-SE-D03-004B",
         "start": 16283
     },
     {
         "action": "CreateBG",
-        "end": 20000,
+        "end": 20366,
         "file": "Event04/04-SE/04-SE-D03/04-SE-D03-005",
         "start": 17200
     },
     {
         "action": "PlayVoice",
-        "end": 20000,
+        "end": 20083,
         "file": "Voice04/04-SE/04-SE-D03/04-SE-D03-0150",
         "layer": -1,
         "persona": "",
         "start": 18166
+    },
+    {
+        "action": "Next",
+        "start": 20366
     }
 ]

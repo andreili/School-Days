@@ -1,5 +1,9 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 14000
+    },
+    {
         "action": "PlaySe",
         "end": 14000,
         "file": "SysSe/SE_all/gaya/okujou",
@@ -8,20 +12,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5200,
         "file": "Event05/05-KA/05-KA-C01/05-KA-C01-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5200,
         "persona": "Макото",
         "start": 0,
         "text": "Я заснул... В классе. Говорил же уже об этом по телефону.^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5200,
         "file": "Voice05/05-KA/05-KA-C01/05-KA-C01-0030",
         "layer": 1,
         "persona": "mak",
@@ -29,20 +33,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6266,
         "file": "Event05/05-KA/05-KA-C01/05-KA-C01-002",
         "start": 5200
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6216,
         "persona": "Сэкаи",
         "start": 5200,
         "text": "Ты врёшь!^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6216,
         "file": "Voice05/05-KA/05-KA-C01/05-KA-C01-0040",
         "layer": 0,
         "persona": "sek",
@@ -50,20 +54,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7383,
         "file": "Event05/05-KA/05-KA-C01/05-KA-C01-003",
         "start": 6266
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7316,
         "persona": "Макото",
         "start": 6266,
         "text": "Э?^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7316,
         "file": "Voice05/05-KA/05-KA-C01/05-KA-C01-0050",
         "layer": 1,
         "persona": "mak",
@@ -71,20 +75,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 13000,
+        "end": 13050,
         "file": "Event05/05-KA/05-KA-C01/05-KA-C01-004",
         "start": 7383
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13016,
         "persona": "Сэкаи",
         "start": 7383,
         "text": "Во время танцев... Ты ведь остался в школе и трахался с Кацурой!^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13016,
         "file": "Voice05/05-KA/05-KA-C01/05-KA-C01-0060",
         "layer": 0,
         "persona": "sek",
@@ -98,17 +102,21 @@
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13383,
         "persona": "Макото",
         "start": 13050,
         "text": "А...^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13383,
         "file": "Voice05/05-KA/05-KA-C01/05-KA-C01-0070",
         "layer": 1,
         "persona": "mak",
         "start": 13050
+    },
+    {
+        "action": "Next",
+        "start": 14000
     }
 ]

@@ -1,27 +1,31 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 105366
+    },
+    {
         "action": "PlaySe",
-        "end": 105000,
+        "end": 105366,
         "file": "SysSe/SE_all/station_train/gakuenmae_yuugata",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1183,
         "file": "Event04/04-SB/04-SB-L00/04-SB-L00-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1100,
         "persona": "Макото",
         "start": 33,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1100,
         "file": "Voice04/04-SB/04-SB-L00/04-SB-L00-0030",
         "layer": 1,
         "persona": "xxx",
@@ -30,50 +34,50 @@
     {
         "action": "BlackFade",
         "dir": "IN",
-        "end": 1000,
+        "end": 1183,
         "start": 1083
     },
     {
         "action": "PlaySe",
-        "end": 27000,
+        "end": 27266,
         "file": "SysSe/SE_all/station_train/train_start",
         "layer": 2,
         "start": 1183
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3116,
         "file": "Event01/01-00/01-00-L00/01-00-L00-001",
         "start": 1183
     },
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 1000,
+        "end": 1283,
         "start": 1183
     },
     {
         "action": "PlayMovie",
-        "end": 6000,
+        "end": 6300,
         "file": "Movie00/00-00/00-00-L00/00-00-L00-024",
         "start": 3116
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10050,
         "file": "Event04/04-SB/04-SB-C09/04-SB-C09-004",
         "start": 6300
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7316,
         "persona": "Макото",
         "start": 6333,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7316,
         "file": "Voice04/04-SB/04-SB-L00/04-SB-L00-0070",
         "layer": 1,
         "persona": "mak",
@@ -81,14 +85,14 @@
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10033,
         "persona": "Хикари",
         "start": 7283,
         "text": "Вот оно всё как, значит...^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10033,
         "file": "Voice04/04-SB/04-SB-L00/04-SB-L00-0080",
         "layer": 0,
         "persona": "hik",
@@ -96,20 +100,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 18000,
+        "end": 18300,
         "file": "Event04/04-SB/04-SB-L00/04-SB-L00-006",
         "start": 10050
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15183,
         "persona": "Макото",
         "start": 10050,
         "text": "Курода... Нехорошо это... Подслушивать...^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15183,
         "file": "Voice04/04-SB/04-SB-L00/04-SB-L00-0100",
         "layer": 1,
         "persona": "mak",
@@ -117,14 +121,14 @@
     },
     {
         "action": "PrintText",
-        "end": 18000,
+        "end": 18300,
         "persona": "Хикари",
         "start": 15183,
         "text": "Прости... Но я хотела знать...^"
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18300,
         "file": "Voice04/04-SB/04-SB-L00/04-SB-L00-0110",
         "layer": 0,
         "persona": "hik",
@@ -132,20 +136,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 20000,
+        "end": 20283,
         "file": "Event04/04-SB/04-SB-L00/04-SB-L00-007",
         "start": 18300
     },
     {
         "action": "PrintText",
-        "end": 20000,
+        "end": 20283,
         "persona": "Макото",
         "start": 18300,
         "text": "Я и говорю.^"
     },
     {
         "action": "PlayVoice",
-        "end": 20000,
+        "end": 20283,
         "file": "Voice04/04-SB/04-SB-L00/04-SB-L00-0120",
         "layer": 1,
         "persona": "mak",
@@ -153,20 +157,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 28000,
+        "end": 28300,
         "file": "Event05/05-SE/05-SE-Q00/05-SE-Q00-001",
         "start": 20283
     },
     {
         "action": "PrintText",
-        "end": 24000,
+        "end": 24050,
         "persona": "Хикари",
         "start": 20283,
         "text": "Я хотела знать, какая она - девушка Саванаги!^"
     },
     {
         "action": "PlayVoice",
-        "end": 24000,
+        "end": 24050,
         "file": "Voice04/04-SB/04-SB-L00/04-SB-L00-0130",
         "layer": 0,
         "persona": "hik",
@@ -174,14 +178,14 @@
     },
     {
         "action": "PrintText",
-        "end": 25000,
+        "end": 25083,
         "persona": "Макото",
         "start": 24050,
         "text": "Ясно...^"
     },
     {
         "action": "PlayVoice",
-        "end": 25000,
+        "end": 25083,
         "file": "Voice04/04-SB/04-SB-L00/04-SB-L00-0140",
         "layer": 1,
         "persona": "mak",
@@ -189,14 +193,14 @@
     },
     {
         "action": "PrintText",
-        "end": 28000,
+        "end": 28300,
         "persona": "Хикари",
         "start": 25100,
         "text": "Она ведь... Тебя любит?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 28000,
+        "end": 28300,
         "file": "Voice04/04-SB/04-SB-L00/04-SB-L00-0150",
         "layer": 0,
         "persona": "hik",
@@ -204,20 +208,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 38000,
+        "end": 38150,
         "file": "Event04/04-SB/04-SB-L00/04-SB-L00-009",
         "start": 28300
     },
     {
         "action": "PrintText",
-        "end": 29000,
+        "end": 29216,
         "persona": "Макото",
         "start": 28300,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 29000,
+        "end": 29216,
         "file": "Voice04/04-SB/04-SB-L00/04-SB-L00-0160",
         "layer": 1,
         "persona": "xxx",
@@ -225,14 +229,14 @@
     },
     {
         "action": "PrintText",
-        "end": 38000,
+        "end": 38150,
         "persona": "Хикари",
         "start": 29216,
         "text": "Я-то думала, что ты просто с Сэкаи встречаешься... Беззаботный совсем... Возможно, я ошибалась.^"
     },
     {
         "action": "PlayVoice",
-        "end": 38000,
+        "end": 38150,
         "file": "Voice04/04-SB/04-SB-L00/04-SB-L00-0170",
         "layer": 0,
         "persona": "hik",
@@ -240,14 +244,14 @@
     },
     {
         "action": "PrintText",
-        "end": 39000,
+        "end": 39216,
         "persona": "Макото",
         "start": 38133,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 39000,
+        "end": 39216,
         "file": "Voice04/04-SB/04-SB-L00/04-SB-L00-0180",
         "layer": 1,
         "persona": "xxx",
@@ -255,20 +259,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 47000,
+        "end": 47133,
         "file": "Event04/04-SB/04-SB-L00/04-SB-L00-010",
         "start": 38150
     },
     {
         "action": "PrintText",
-        "end": 44000,
+        "end": 44366,
         "persona": "Хикари",
         "start": 39216,
         "text": "И Сэкаи... Страдала и плакала... Тоже из-за неё?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 44000,
+        "end": 44366,
         "file": "Voice04/04-SB/04-SB-L00/04-SB-L00-0190",
         "layer": 0,
         "persona": "hik",
@@ -276,14 +280,14 @@
     },
     {
         "action": "PrintText",
-        "end": 45000,
+        "end": 45266,
         "persona": "Макото",
         "start": 44366,
         "text": "Да...^"
     },
     {
         "action": "PlayVoice",
-        "end": 45000,
+        "end": 45266,
         "file": "Voice04/04-SB/04-SB-L00/04-SB-L00-0200",
         "layer": 1,
         "persona": "mak",
@@ -291,14 +295,14 @@
     },
     {
         "action": "PrintText",
-        "end": 47000,
+        "end": 47133,
         "persona": "Хикари",
         "start": 45266,
         "text": "Как всё сложно...^"
     },
     {
         "action": "PlayVoice",
-        "end": 47000,
+        "end": 47133,
         "file": "Voice04/04-SB/04-SB-L00/04-SB-L00-0210",
         "layer": 0,
         "persona": "hik",
@@ -306,20 +310,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 48000,
+        "end": 48083,
         "file": "Event04/04-SB/04-SB-L00/04-SB-L00-013",
         "start": 47133
     },
     {
         "action": "PrintText",
-        "end": 48000,
+        "end": 48050,
         "persona": "Макото",
         "start": 47133,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 48000,
+        "end": 48050,
         "file": "Voice04/04-SB/04-SB-L00/04-SB-L00-0220",
         "layer": 1,
         "persona": "xxx",
@@ -327,14 +331,14 @@
     },
     {
         "action": "PrintText",
-        "end": 53000,
+        "end": 53083,
         "persona": "Хикари",
         "start": 48050,
         "text": "Но... Зачем Саванагу-то было впутывать?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 53000,
+        "end": 53083,
         "file": "Voice04/04-SB/04-SB-L00/04-SB-L00-0230",
         "layer": 0,
         "persona": "hik",
@@ -342,20 +346,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 57000,
+        "end": 57216,
         "file": "Event05/05-SE/05-SE-Q00/05-SE-Q00-005",
         "start": 48083
     },
     {
         "action": "PrintText",
-        "end": 57000,
+        "end": 57200,
         "persona": "Хикари",
         "start": 53083,
         "text": "Он ведь теперь всё равно, что козёл отпущения! Нельзя же так!^"
     },
     {
         "action": "PlayVoice",
-        "end": 57000,
+        "end": 57200,
         "file": "Voice04/04-SB/04-SB-L00/04-SB-L00-0231",
         "layer": 0,
         "persona": "hik",
@@ -363,14 +367,14 @@
     },
     {
         "action": "PrintText",
-        "end": 58000,
+        "end": 58200,
         "persona": "Макото",
         "start": 57200,
         "text": "Ну да...^"
     },
     {
         "action": "PlayVoice",
-        "end": 58000,
+        "end": 58200,
         "file": "Voice04/04-SB/04-SB-L00/04-SB-L00-0240",
         "layer": 1,
         "persona": "mak",
@@ -378,7 +382,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 58000,
+        "end": 58216,
         "file": "Event04/04-SB/04-SB-L00/04-SB-L00-015",
         "start": 57216
     },
@@ -399,20 +403,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 78000,
+        "end": 78250,
         "file": "Event04/04-SB/04-SB-L00/04-SB-L00-016",
         "start": 58216
     },
     {
         "action": "PrintText",
-        "end": 67000,
+        "end": 67150,
         "persona": "Макото",
         "start": 62016,
         "text": "Да он просто рад, что теперь есть кого в постель завалить.^"
     },
     {
         "action": "PlayVoice",
-        "end": 67000,
+        "end": 67150,
         "file": "Voice04/04-SB/04-SB-L00/04-SB-L00-0260",
         "layer": 1,
         "persona": "mak",
@@ -420,14 +424,14 @@
     },
     {
         "action": "PrintText",
-        "end": 78000,
+        "end": 78266,
         "persona": "Хикари",
         "start": 67150,
         "text": "Завалить... У меня никаких шансов... У неё и фигурка очень даже ничего...^"
     },
     {
         "action": "PlayVoice",
-        "end": 78000,
+        "end": 78266,
         "file": "Voice04/04-SB/04-SB-L00/04-SB-L00-0270",
         "layer": 0,
         "persona": "hik",
@@ -435,20 +439,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 83000,
+        "end": 83133,
         "file": "Event04/04-SB/04-SB-L00/04-SB-L00-017",
         "start": 78250
     },
     {
         "action": "PrintText",
-        "end": 79000,
+        "end": 79233,
         "persona": "Макото",
         "start": 78266,
         "text": "Курода...^"
     },
     {
         "action": "PlayVoice",
-        "end": 79000,
+        "end": 79233,
         "file": "Voice04/04-SB/04-SB-L00/04-SB-L00-0280",
         "layer": 1,
         "persona": "mak",
@@ -456,14 +460,14 @@
     },
     {
         "action": "PrintText",
-        "end": 80000,
+        "end": 80216,
         "persona": "Хикари",
         "start": 79233,
         "text": "Что?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 80000,
+        "end": 80216,
         "file": "Voice04/04-SB/04-SB-L00/04-SB-L00-0290",
         "layer": 0,
         "persona": "hik",
@@ -471,14 +475,14 @@
     },
     {
         "action": "PrintText",
-        "end": 83000,
+        "end": 83133,
         "persona": "Макото",
         "start": 80216,
         "text": "Ты ведь... Любишь его?^"
     },
     {
         "action": "PlayVoice",
-        "end": 83000,
+        "end": 83133,
         "file": "Voice04/04-SB/04-SB-L00/04-SB-L00-0300",
         "layer": 1,
         "persona": "mak",
@@ -492,14 +496,14 @@
     },
     {
         "action": "PrintText",
-        "end": 83000,
+        "end": 83383,
         "persona": "Хикари",
         "start": 83133,
         "text": "Да.^"
     },
     {
         "action": "PlayVoice",
-        "end": 83000,
+        "end": 83383,
         "file": "Voice04/04-SB/04-SB-L00/04-SB-L00-0310",
         "layer": 0,
         "persona": "hik",
@@ -507,14 +511,14 @@
     },
     {
         "action": "PrintText",
-        "end": 85000,
+        "end": 85266,
         "persona": "Макото",
         "start": 83383,
         "text": "Тогда помоги мне!^"
     },
     {
         "action": "PlayVoice",
-        "end": 85000,
+        "end": 85266,
         "file": "Voice04/04-SB/04-SB-L00/04-SB-L00-0320",
         "layer": 1,
         "persona": "mak",
@@ -537,20 +541,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 93000,
+        "end": 93383,
         "file": "Event04/04-SB/04-SB-L00/04-SB-L00-017B",
         "start": 87000
     },
     {
         "action": "PrintText",
-        "end": 93000,
+        "end": 93383,
         "persona": "Макото",
         "start": 87000,
         "text": "Если Таисукэ, как я и думаю, за ней только из-за секса потянулся... Есть у меня одна идея...^"
     },
     {
         "action": "PlayVoice",
-        "end": 93000,
+        "end": 93383,
         "file": "Voice04/04-SB/04-SB-L00/04-SB-L00-0340",
         "layer": 1,
         "persona": "mak",
@@ -558,20 +562,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 95000,
+        "end": 95150,
         "file": "Event04/04-SB/04-SB-L00/04-SB-L00-018",
         "start": 93383
     },
     {
         "action": "PrintText",
-        "end": 95000,
+        "end": 95133,
         "persona": "Хикари",
         "start": 93383,
         "text": "Идея?^"
     },
     {
         "action": "PlayVoice",
-        "end": 95000,
+        "end": 95133,
         "file": "Voice04/04-SB/04-SB-L00/04-SB-L00-0350",
         "layer": 0,
         "persona": "hik",
@@ -579,14 +583,14 @@
     },
     {
         "action": "PrintText",
-        "end": 97000,
+        "end": 97116,
         "persona": "Макото",
         "start": 95133,
         "text": "Надо бы её проверить.^"
     },
     {
         "action": "PlayVoice",
-        "end": 97000,
+        "end": 97116,
         "file": "Voice04/04-SB/04-SB-L00/04-SB-L00-0360",
         "layer": 1,
         "persona": "mak",
@@ -594,20 +598,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 105000,
+        "end": 105366,
         "file": "Event04/04-SB/04-SB-L00/04-SB-L00-019",
         "start": 95150
     },
     {
         "action": "PrintText",
-        "end": 99000,
+        "end": 99116,
         "persona": "Хикари",
         "start": 97116,
         "text": "Чего проверить-то?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 99000,
+        "end": 99116,
         "file": "Voice04/04-SB/04-SB-L00/04-SB-L00-0370",
         "layer": 0,
         "persona": "hik",
@@ -615,14 +619,14 @@
     },
     {
         "action": "PrintText",
-        "end": 102000,
+        "end": 102166,
         "persona": "Макото",
         "start": 99116,
         "text": "Я тебе позвоню вечером. Тогда и объясню.^"
     },
     {
         "action": "PlayVoice",
-        "end": 102000,
+        "end": 102166,
         "file": "Voice04/04-SB/04-SB-L00/04-SB-L00-0380",
         "layer": 1,
         "persona": "mak",
@@ -630,17 +634,21 @@
     },
     {
         "action": "PrintText",
-        "end": 105000,
+        "end": 105250,
         "persona": "Хикари",
         "start": 102166,
         "text": "Хорошо... Буду ждать.^"
     },
     {
         "action": "PlayVoice",
-        "end": 105000,
+        "end": 105250,
         "file": "Voice04/04-SB/04-SB-L00/04-SB-L00-0390",
         "layer": 0,
         "persona": "hik",
         "start": 102166
+    },
+    {
+        "action": "Next",
+        "start": 105366
     }
 ]

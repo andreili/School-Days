@@ -1,20 +1,24 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 16233
+    },
+    {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3183,
         "file": "Event05/05-SD/05-SD-D00/05-SD-D00-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3166,
         "persona": "Макото",
         "start": 0,
         "text": "Дубак!..^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3166,
         "file": "Voice05/05-SD/05-SD-D00/05-SD-D00-0040",
         "layer": 1,
         "persona": "mak",
@@ -22,20 +26,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9166,
         "file": "Event05/05-SD/05-SD-D00/05-SD-D00-002B",
         "start": 3183
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4066,
         "persona": "Сэкаи",
         "start": 3183,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4066,
         "file": "Voice05/05-SD/05-SD-D00/05-SD-D00-0050",
         "layer": 0,
         "persona": "xxx",
@@ -43,14 +47,14 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9166,
         "persona": "Макото",
         "start": 4066,
         "text": "Так чего ты хотела? Говори скорее да пойдём.^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9166,
         "file": "Voice05/05-SD/05-SD-D00/05-SD-D00-0060",
         "layer": 1,
         "persona": "mak",
@@ -58,20 +62,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10233,
         "file": "Event05/05-SD/05-SD-D00/05-SD-D00-003",
         "start": 9166
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10233,
         "persona": "Сэкаи",
         "start": 9166,
         "text": "Макото...^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10233,
         "file": "Voice05/05-SD/05-SD-D00/05-SD-D00-0070",
         "layer": 0,
         "persona": "sek",
@@ -79,20 +83,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 11000,
+        "end": 11266,
         "file": "Event05/05-SD/05-SD-D00/05-SD-D00-004",
         "start": 10233
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11266,
         "persona": "Макото",
         "start": 10233,
         "text": "Что?^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11266,
         "file": "Voice05/05-SD/05-SD-D00/05-SD-D00-0080",
         "layer": 1,
         "persona": "mak",
@@ -100,20 +104,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 22000,
+        "end": 22233,
         "file": "Event05/05-SD/05-SD-D00/05-SD-D00-001",
         "start": 11266
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16016,
         "persona": "Сэкаи",
         "start": 11266,
         "text": "Ты ведь... Меня любишь?^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16016,
         "file": "Voice05/05-SD/05-SD-D00/05-SD-D00-0090",
         "layer": 0,
         "persona": "sek",
@@ -121,14 +125,14 @@
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16233,
         "persona": "Макото",
         "start": 16016,
         "text": "Э?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16233,
         "file": "Voice05/05-SD/05-SD-D00/05-SD-D00-0100",
         "layer": 1,
         "persona": "mak",
@@ -138,7 +142,11 @@
         "action": "SetSELECT",
         "answer1": "Конечно, люблю!^",
         "answer2": "Наверное...",
-        "end": 21000,
+        "end": 21233,
         "start": 16233
+    },
+    {
+        "action": "Next",
+        "start": 22233
     }
 ]

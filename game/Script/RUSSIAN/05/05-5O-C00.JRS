@@ -1,7 +1,11 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 12216
+    },
+    {
         "action": "PlayBgm",
-        "end": 12000,
+        "end": 12216,
         "file": "BGM/SD_BGM/sdbgm20",
         "start": 0
     },
@@ -13,34 +17,34 @@
     },
     {
         "action": "PlaySe",
-        "end": 1000,
+        "end": 1366,
         "file": "SysSe/SE_all/other/dog2",
         "layer": 1,
         "start": 50
     },
     {
         "action": "PlaySe",
-        "end": 2000,
+        "end": 2300,
         "file": "SysSe/SE_all/other/dog3",
         "layer": 1,
         "start": 2050
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5216,
         "file": "Event05/05-5O/05-5O-C00/05-5O-C00-002",
         "start": 3000
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3300,
         "persona": "Отомэ",
         "start": 3050,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3300,
         "file": "Voice05/05-5O/05-5O-C00/05-5O-C00-0040",
         "layer": 0,
         "persona": "xxx",
@@ -48,14 +52,14 @@
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5016,
         "persona": "Отомэ",
         "start": 4033,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5016,
         "file": "Voice05/05-5O/05-5O-C00/05-5O-C00-0060",
         "layer": 0,
         "persona": "oto",
@@ -63,27 +67,27 @@
     },
     {
         "action": "PlaySe",
-        "end": 5000,
+        "end": 5350,
         "file": "SysSe/SE_all/other/dog3",
         "layer": 1,
         "start": 5116
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12216,
         "file": "Event05/05-5O/05-5O-C00/05-5O-C00-003",
         "start": 5216
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8366,
         "persona": "Отомэ",
         "start": 5250,
         "text": "Да иду я уже, иду!^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8366,
         "file": "Voice05/05-5O/05-5O-C00/05-5O-C00-0080",
         "layer": 0,
         "persona": "oto",
@@ -91,21 +95,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 9000,
+        "end": 9233,
         "file": "SysSe/SE_all/other/dog2",
         "layer": 1,
         "start": 7316
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11233,
         "persona": "Отомэ",
         "start": 9050,
         "text": "Ито...^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11233,
         "file": "Voice05/05-5O/05-5O-C00/05-5O-C00-0100",
         "layer": 0,
         "persona": "oto",
@@ -114,7 +118,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 12000,
+        "end": 12216,
         "start": 11216
+    },
+    {
+        "action": "Next",
+        "start": 12216
     }
 ]

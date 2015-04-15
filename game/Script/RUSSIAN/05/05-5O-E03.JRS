@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 10100
+    },
+    {
         "action": "PlayBgm",
-        "end": 10000,
+        "end": 10100,
         "file": "BGM/SD_BGM/sdbgm20",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2100,
         "file": "Event05/05-5O/05-5O-E03/05-5O-E03-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1366,
         "persona": "Макото",
         "start": 133,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1366,
         "file": "Voice05/05-5O/05-5O-E03/05-5O-E03-0030",
         "layer": 1,
         "persona": "xxx",
@@ -28,20 +32,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6066,
         "file": "Event05/05-5O/05-5O-E03/05-5O-E03-002",
         "start": 2100
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6016,
         "persona": "Сэцуна",
         "start": 2166,
         "text": "Ясно. Больше просить не буду.^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6016,
         "file": "Voice05/05-5O/05-5O-E03/05-5O-E03-0040",
         "layer": 0,
         "persona": "set",
@@ -49,20 +53,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8300,
         "file": "Event05/05-5O/05-5O-E03/05-5O-E03-003",
         "start": 6066
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9066,
         "persona": "Хикари",
         "start": 6200,
         "text": "Сэцуна, постой!^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9066,
         "file": "Voice05/05-5O/05-5O-E03/05-5O-E03-0060",
         "layer": 0,
         "persona": "hik",
@@ -70,23 +74,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10100,
         "file": "Event05/05-5O/05-5O-E03/05-5O-E03-003B",
         "start": 8300
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9333,
         "persona": "Макото",
         "start": 9016,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9333,
         "file": "Voice05/05-5O/05-5O-E03/05-5O-E03-0080",
         "layer": 1,
         "persona": "xxx",
         "start": 9016
+    },
+    {
+        "action": "Next",
+        "start": 10100
     }
 ]

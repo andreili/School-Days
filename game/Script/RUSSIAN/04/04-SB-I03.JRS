@@ -1,5 +1,9 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 16000
+    },
+    {
         "action": "PlayBgm",
         "end": 16000,
         "file": "BGM/SD_BGM/sdbgm26",
@@ -7,20 +11,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9233,
         "file": "Event04/04-SB/04-SB-I03/04-SB-I03-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1233,
         "persona": "Макото",
         "start": 0,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1233,
         "file": "Voice04/04-SB/04-SB-I03/04-SB-I03-0030",
         "layer": 1,
         "persona": "xxx",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2216,
         "persona": "Хикари",
         "start": 1233,
         "text": "Слушай...^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2216,
         "file": "Voice04/04-SB/04-SB-I03/04-SB-I03-0040",
         "layer": 0,
         "persona": "hik",
@@ -43,14 +47,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4050,
         "persona": "Макото",
         "start": 2216,
         "text": "Ч-что?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4050,
         "file": "Voice04/04-SB/04-SB-I03/04-SB-I03-0050",
         "layer": 1,
         "persona": "mak",
@@ -58,14 +62,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6116,
         "persona": "Хикари",
         "start": 4050,
         "text": "Может... Пойдём?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6116,
         "file": "Voice04/04-SB/04-SB-I03/04-SB-I03-0060",
         "layer": 0,
         "persona": "hik",
@@ -73,14 +77,14 @@
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8033,
         "persona": "Макото",
         "start": 6116,
         "text": "Ага...^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8033,
         "file": "Voice04/04-SB/04-SB-I03/04-SB-I03-0070",
         "layer": 1,
         "persona": "mak",
@@ -88,14 +92,14 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9233,
         "persona": "Хикари",
         "start": 8033,
         "text": "Назад в класс...^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9233,
         "file": "Voice04/04-SB/04-SB-I03/04-SB-I03-0080",
         "layer": 0,
         "persona": "hik",
@@ -109,14 +113,14 @@
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10116,
         "persona": "Макото",
         "start": 9233,
         "text": "Ага...^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10116,
         "file": "Voice04/04-SB/04-SB-I03/04-SB-I03-0090",
         "layer": 1,
         "persona": "mak",
@@ -124,14 +128,14 @@
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11066,
         "persona": "Хикари",
         "start": 10116,
         "text": "Пошли...^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11066,
         "file": "Voice04/04-SB/04-SB-I03/04-SB-I03-0100",
         "layer": 0,
         "persona": "hik",
@@ -139,14 +143,14 @@
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12050,
         "persona": "Макото",
         "start": 11066,
         "text": "И я?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12050,
         "file": "Voice04/04-SB/04-SB-I03/04-SB-I03-0110",
         "layer": 1,
         "persona": "mak",
@@ -154,14 +158,14 @@
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13166,
         "persona": "Хикари",
         "start": 12050,
         "text": "Или ты остаёшься?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13166,
         "file": "Voice04/04-SB/04-SB-I03/04-SB-I03-0120",
         "layer": 0,
         "persona": "hik",
@@ -169,17 +173,21 @@
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15166,
         "persona": "Макото",
         "start": 13166,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15166,
         "file": "Voice04/04-SB/04-SB-I03/04-SB-I03-0130",
         "layer": 1,
         "persona": "mak",
         "start": 13166
+    },
+    {
+        "action": "Next",
+        "start": 16000
     }
 ]

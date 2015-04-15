@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 42333
+    },
+    {
         "action": "PlayBgm",
-        "end": 42000,
+        "end": 42333,
         "file": "BGM/SD_BGM/sdbgm01",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 42000,
+        "end": 42333,
         "file": "SysSe/SE_all/station_train/train_in",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2300,
         "file": "Event05/05-KB/05-KB-F07/05-KB-F07-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2383,
         "persona": "Макото",
         "start": 0,
         "text": "С Сэкаи по телефону болтал.^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2383,
         "file": "Voice05/05-KB/05-KB-F07/05-KB-F07-0030",
         "layer": 1,
         "persona": "mak",
@@ -35,14 +39,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4333,
         "persona": "Хикари",
         "start": 2266,
         "text": "Что?! Не прощу!^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4333,
         "file": "Voice05/05-KB/05-KB-F07/05-KB-F07-0040",
         "layer": 0,
         "persona": "hik",
@@ -50,20 +54,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10116,
         "file": "Event05/05-KB/05-KB-F07/05-KB-F07-002",
         "start": 2300
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7333,
         "persona": "Макото",
         "start": 4116,
         "text": "Э?.. С чего вдруг?^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7333,
         "file": "Voice05/05-KB/05-KB-F07/05-KB-F07-0050",
         "layer": 1,
         "persona": "mak",
@@ -71,14 +75,14 @@
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11050,
         "persona": "Хикари",
         "start": 7183,
         "text": "Я ещё не дала добро на ваши отно!..^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11050,
         "file": "Voice05/05-KB/05-KB-F07/05-KB-F07-0060",
         "layer": 0,
         "persona": "hik",
@@ -86,33 +90,33 @@
     },
     {
         "action": "PlaySe",
-        "end": 10000,
+        "end": 10233,
         "file": "Se05/05-KB/05-KB-F10/SE05-KB-F10-002",
         "layer": 2,
         "start": 10116
     },
     {
         "action": "CreateBG",
-        "end": 11000,
+        "end": 11200,
         "file": "System/Screen/Black",
         "start": 10116
     },
     {
         "action": "CreateBG",
-        "end": 15000,
+        "end": 15066,
         "file": "Event05/05-KB/05-KB-F07/05-KB-F07-004",
         "start": 11200
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14133,
         "persona": "Нанами",
         "start": 11200,
         "text": "Н-н-ничего! Не обращай внимания!^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14133,
         "file": "Voice05/05-KB/05-KB-F07/05-KB-F07-0070",
         "layer": 0,
         "persona": "nan",
@@ -120,14 +124,14 @@
     },
     {
         "action": "PrintText",
-        "end": 21000,
+        "end": 21383,
         "persona": "Макото",
         "start": 14150,
         "text": "Вау! Вот это удар!^"
     },
     {
         "action": "PlayVoice",
-        "end": 21000,
+        "end": 21383,
         "file": "Voice05/05-KB/05-KB-F07/05-KB-F07-0080",
         "layer": 1,
         "persona": "mak",
@@ -135,20 +139,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 32000,
+        "end": 32183,
         "file": "Event05/05-KB/05-KB-F07/05-KB-F07-004B",
         "start": 15066
     },
     {
         "action": "PrintText",
-        "end": 23000,
+        "end": 23050,
         "persona": "Хикари",
         "start": 21250,
         "text": "Кхе-кхе...^"
     },
     {
         "action": "PlayVoice",
-        "end": 23000,
+        "end": 23050,
         "file": "Voice05/05-KB/05-KB-F07/05-KB-F07-0090",
         "layer": 0,
         "persona": "hik",
@@ -156,14 +160,14 @@
     },
     {
         "action": "PrintText",
-        "end": 32000,
+        "end": 32183,
         "persona": "Нанами",
         "start": 24000,
         "text": "Я-ясненько... С Сэкаи болтал значит... Просто не разлей вода...^"
     },
     {
         "action": "PlayVoice",
-        "end": 32000,
+        "end": 32183,
         "file": "Voice05/05-KB/05-KB-F07/05-KB-F07-0100",
         "layer": 0,
         "persona": "nan",
@@ -171,20 +175,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 42000,
+        "end": 42333,
         "file": "Event05/05-KB/05-KB-F07/05-KB-F07-004C",
         "start": 32183
     },
     {
         "action": "PrintText",
-        "end": 36000,
+        "end": 36366,
         "persona": "Хикари",
         "start": 32183,
         "text": "На-на-ми...^"
     },
     {
         "action": "PlayVoice",
-        "end": 36000,
+        "end": 36366,
         "file": "Voice05/05-KB/05-KB-F07/05-KB-F07-0110",
         "layer": 0,
         "persona": "hik",
@@ -192,14 +196,14 @@
     },
     {
         "action": "PrintText",
-        "end": 39000,
+        "end": 39066,
         "persona": "Макото",
         "start": 36183,
         "text": "А на Куроду совсем забила?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 39000,
+        "end": 39066,
         "file": "Voice05/05-KB/05-KB-F07/05-KB-F07-0120",
         "layer": 1,
         "persona": "mak",
@@ -207,14 +211,14 @@
     },
     {
         "action": "PrintText",
-        "end": 40000,
+        "end": 40216,
         "persona": "Нанами",
         "start": 38133,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 40000,
+        "end": 40216,
         "file": "Voice05/05-KB/05-KB-F07/05-KB-F07-0130",
         "layer": 0,
         "persona": "nan",
@@ -223,7 +227,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 42000,
+        "end": 42333,
         "start": 42133
+    },
+    {
+        "action": "Next",
+        "start": 42333
     }
 ]

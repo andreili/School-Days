@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 50333
+    },
+    {
         "action": "PlayBgm",
-        "end": 50000,
+        "end": 50333,
         "file": "BGM/SD_BGM/sdbgm17",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2316,
         "file": "Event03/03-KA/03-KA-A06/03-KA-A06-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1133,
         "persona": "Макото",
         "start": 0,
         "text": "Да, конечно!^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1133,
         "file": "Voice03/03-KA/03-KA-A06/03-KA-A06-0030",
         "layer": 1,
         "persona": "mak",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2383,
         "persona": "Котоноха",
         "start": 1100,
         "text": "Макото! И ты туда же?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2383,
         "file": "Voice03/03-KA/03-KA-A06/03-KA-A06-0040",
         "layer": 0,
         "persona": "kot",
@@ -43,20 +47,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7366,
         "file": "Event03/03-KA/03-KA-A05/03-KA-A05-013",
         "start": 2316
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7383,
         "persona": "Макото",
         "start": 2316,
         "text": "Твоя сестра хочет с нами поиграть, было бы жестоко её прогонять.^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7383,
         "file": "Voice03/03-KA/03-KA-A06/03-KA-A06-0050",
         "layer": 1,
         "persona": "mak",
@@ -64,20 +68,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12083,
         "file": "Event03/03-KA/03-KA-A06/03-KA-A06-003",
         "start": 7366
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12083,
         "persona": "Котоноха",
         "start": 8000,
         "text": "Ты слишком добрый.^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12083,
         "file": "Voice03/03-KA/03-KA-A06/03-KA-A06-0060",
         "layer": 0,
         "persona": "kot",
@@ -85,20 +89,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 18000,
+        "end": 18066,
         "file": "Event03/03-KA/03-KA-A06/03-KA-A06-004",
         "start": 12083
     },
     {
         "action": "PrintText",
-        "end": 18000,
+        "end": 18016,
         "persona": "Макото",
         "start": 12100,
         "text": "Думаешь? Ну, может, ты и права. Я Итару тоже ни в чём не могу отказать.^"
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18016,
         "file": "Voice03/03-KA/03-KA-A06/03-KA-A06-0070",
         "layer": 1,
         "persona": "mak",
@@ -106,20 +110,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 24000,
+        "end": 24250,
         "file": "Event03/03-KA/03-KA-A06/03-KA-A06-005",
         "start": 18066
     },
     {
         "action": "PrintText",
-        "end": 20000,
+        "end": 20016,
         "persona": "Кокоро",
         "start": 18066,
         "text": "А кто это, Итару?^"
     },
     {
         "action": "PlayVoice",
-        "end": 20000,
+        "end": 20016,
         "file": "Voice03/03-KA/03-KA-A06/03-KA-A06-0080",
         "layer": 0,
         "persona": "kok",
@@ -127,14 +131,14 @@
     },
     {
         "action": "PrintText",
-        "end": 21000,
+        "end": 21183,
         "persona": "Макото",
         "start": 19350,
         "text": "Моя младшая сестра.^"
     },
     {
         "action": "PlayVoice",
-        "end": 21000,
+        "end": 21183,
         "file": "Voice03/03-KA/03-KA-A06/03-KA-A06-0090",
         "layer": 1,
         "persona": "mak",
@@ -142,14 +146,14 @@
     },
     {
         "action": "PrintText",
-        "end": 26000,
+        "end": 26383,
         "persona": "Кокоро",
         "start": 21266,
         "text": "У тебя есть сестра?! Мы с ней одного возраста?^"
     },
     {
         "action": "PlayVoice",
-        "end": 26000,
+        "end": 26383,
         "file": "Voice03/03-KA/03-KA-A06/03-KA-A06-0100",
         "layer": 0,
         "persona": "kok",
@@ -157,20 +161,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 29000,
+        "end": 29083,
         "file": "Event03/03-KA/03-KA-A06/03-KA-A06-006",
         "start": 24250
     },
     {
         "action": "PrintText",
-        "end": 29000,
+        "end": 29250,
         "persona": "Макото",
         "start": 26350,
         "text": "Нет, малышка, ты её намного старше.^"
     },
     {
         "action": "PlayVoice",
-        "end": 29000,
+        "end": 29250,
         "file": "Voice03/03-KA/03-KA-A06/03-KA-A06-0110",
         "layer": 1,
         "persona": "mak",
@@ -178,20 +182,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 30000,
+        "end": 30350,
         "file": "Event03/03-KA/03-KA-A06/03-KA-A06-007",
         "start": 29083
     },
     {
         "action": "PrintText",
-        "end": 30000,
+        "end": 30016,
         "persona": "Кокоро",
         "start": 29083,
         "text": "!^"
     },
     {
         "action": "PlayVoice",
-        "end": 30000,
+        "end": 30016,
         "file": "Voice03/03-KA/03-KA-A06/03-KA-A06-0120",
         "layer": 0,
         "persona": "kok",
@@ -199,20 +203,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 33000,
+        "end": 33050,
         "file": "Event03/03-KA/03-KA-A06/03-KA-A06-006",
         "start": 30350
     },
     {
         "action": "PrintText",
-        "end": 33000,
+        "end": 33016,
         "persona": "Макото",
         "start": 30366,
         "text": "М? Что-то не так?^"
     },
     {
         "action": "PlayVoice",
-        "end": 33000,
+        "end": 33016,
         "file": "Voice03/03-KA/03-KA-A06/03-KA-A06-0130",
         "layer": 1,
         "persona": "mak",
@@ -220,20 +224,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 38000,
+        "end": 38166,
         "file": "Event03/03-KA/03-KA-A06/03-KA-A06-003",
         "start": 33050
     },
     {
         "action": "PrintText",
-        "end": 38000,
+        "end": 38266,
         "persona": "Кокоро",
         "start": 33066,
         "text": "Он назвал меня малышка! Уваа!^"
     },
     {
         "action": "PlayVoice",
-        "end": 38000,
+        "end": 38266,
         "file": "Voice03/03-KA/03-KA-A06/03-KA-A06-0140",
         "layer": 0,
         "persona": "kok",
@@ -241,20 +245,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 40000,
+        "end": 40383,
         "file": "Event03/03-KA/03-KA-A06/03-KA-A06-010",
         "start": 38166
     },
     {
         "action": "PrintText",
-        "end": 40000,
+        "end": 40350,
         "persona": "Макото",
         "start": 38183,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 40000,
+        "end": 40350,
         "file": "Voice03/03-KA/03-KA-A06/03-KA-A06-0150",
         "layer": 1,
         "persona": "mak",
@@ -262,14 +266,14 @@
     },
     {
         "action": "PrintText",
-        "end": 46000,
+        "end": 46150,
         "persona": "Кокоро",
         "start": 40083,
         "text": "У моей сестры такой хороший, добрый парень!^"
     },
     {
         "action": "PlayVoice",
-        "end": 46000,
+        "end": 46150,
         "file": "Voice03/03-KA/03-KA-A06/03-KA-A06-0160",
         "layer": 0,
         "persona": "kok",
@@ -277,26 +281,26 @@
     },
     {
         "action": "CreateBG",
-        "end": 46000,
+        "end": 46116,
         "file": "Event03/03-KA/03-KA-A06/03-KA-A06-011",
         "start": 40383
     },
     {
         "action": "CreateBG",
-        "end": 50000,
+        "end": 50333,
         "file": "Event03/03-KA/03-KA-A06/03-KA-A06-012",
         "start": 46116
     },
     {
         "action": "PrintText",
-        "end": 48000,
+        "end": 48150,
         "persona": "Макото",
         "start": 46166,
         "text": "М?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 48000,
+        "end": 48150,
         "file": "Voice03/03-KA/03-KA-A06/03-KA-A06-0170",
         "layer": 1,
         "persona": "mak",
@@ -304,14 +308,14 @@
     },
     {
         "action": "PrintText",
-        "end": 49000,
+        "end": 49183,
         "persona": "Котоноха",
         "start": 48116,
         "text": "Блин...^"
     },
     {
         "action": "PlayVoice",
-        "end": 49000,
+        "end": 49183,
         "file": "Voice03/03-KA/03-KA-A06/03-KA-A06-0180",
         "layer": 0,
         "persona": "kot",
@@ -320,7 +324,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 50000,
+        "end": 50333,
         "start": 49333
+    },
+    {
+        "action": "Next",
+        "start": 50333
     }
 ]

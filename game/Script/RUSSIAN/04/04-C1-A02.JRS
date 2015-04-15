@@ -1,7 +1,11 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 56300
+    },
+    {
         "action": "PlayBgm",
-        "end": 56000,
+        "end": 56300,
         "file": "BGM/SD_BGM/sdbgm19",
         "start": 0
     },
@@ -20,14 +24,14 @@
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7233,
         "persona": "Котоноха",
         "start": 116,
         "text": "Макото... Со мной ведь... Намного лучше...^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7233,
         "file": "Voice04/04-C1/04-C1-A02/04-C1-A02-0030",
         "layer": 0,
         "persona": "kot",
@@ -35,14 +39,14 @@
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10200,
         "persona": "Котоноха",
         "start": 8116,
         "text": "Чем с Саиёндзи...^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10200,
         "file": "Voice04/04-C1/04-C1-A02/04-C1-A02-0040",
         "layer": 0,
         "persona": "kot",
@@ -50,14 +54,14 @@
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17233,
         "persona": "Котоноха",
         "start": 11033,
         "text": "Моя грудь... Намного лучше...^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17233,
         "file": "Voice04/04-C1/04-C1-A02/04-C1-A02-0050",
         "layer": 0,
         "persona": "kot",
@@ -65,14 +69,14 @@
     },
     {
         "action": "PrintText",
-        "end": 28000,
+        "end": 28050,
         "persona": "Котоноха",
         "start": 18050,
         "text": "Не стесняйся... Трогай её сколько хочешь...^"
     },
     {
         "action": "PlayVoice",
-        "end": 28000,
+        "end": 28050,
         "file": "Voice04/04-C1/04-C1-A02/04-C1-A02-0060",
         "layer": 0,
         "persona": "kot",
@@ -80,20 +84,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 56000,
+        "end": 56300,
         "file": "Event04/04-C1/04-C1-A00/04-C1-A00-002",
         "start": 28000
     },
     {
         "action": "PrintText",
-        "end": 39000,
+        "end": 39083,
         "persona": "Котоноха",
         "start": 28133,
         "text": "Сильнее... Сделай мне приятно...^"
     },
     {
         "action": "PlayVoice",
-        "end": 39000,
+        "end": 39083,
         "file": "Voice04/04-C1/04-C1-A02/04-C1-A02-0070",
         "layer": 0,
         "persona": "kot",
@@ -101,21 +105,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 56000,
+        "end": 56300,
         "file": "Se04/04-C1/04-C1-A02/SE04-C1-A02-001",
         "layer": 2,
         "start": 29283
     },
     {
         "action": "PrintText",
-        "end": 45000,
+        "end": 45133,
         "persona": "Котоноха",
         "start": 39266,
         "text": "Своими руками... Макото...^"
     },
     {
         "action": "PlayVoice",
-        "end": 45000,
+        "end": 45133,
         "file": "Voice04/04-C1/04-C1-A02/04-C1-A02-0080",
         "layer": 0,
         "persona": "kot",
@@ -123,17 +127,21 @@
     },
     {
         "action": "PrintText",
-        "end": 54000,
+        "end": 54250,
         "persona": "Котоноха",
         "start": 45316,
         "text": "Как... Как хорошо!..^"
     },
     {
         "action": "PlayVoice",
-        "end": 54000,
+        "end": 54250,
         "file": "Voice04/04-C1/04-C1-A02/04-C1-A02-0090",
         "layer": 0,
         "persona": "kot",
         "start": 45316
+    },
+    {
+        "action": "Next",
+        "start": 56300
     }
 ]

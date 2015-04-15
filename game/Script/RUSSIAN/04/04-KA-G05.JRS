@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 58083
+    },
+    {
         "action": "PlayBgm",
-        "end": 58000,
+        "end": 58083,
         "file": "BGM/SD_BGM/sdbgm16",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 58000,
+        "end": 58083,
         "file": "Se04/04-KA/04-KA-G05/SE04-KA-G05-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7083,
         "file": "Event04/04-KA/04-KA-G05/04-KA-G05-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1216,
         "persona": "Макото",
         "start": 100,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1216,
         "file": "Voice04/04-KA/04-KA-G05/04-KA-G05-0030",
         "layer": 1,
         "persona": "xxx",
@@ -35,14 +39,14 @@
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2200,
         "persona": "Сэцуна",
         "start": 1133,
         "text": "Секрет?^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2200,
         "file": "Voice04/04-KA/04-KA-G05/04-KA-G05-0040",
         "layer": 0,
         "persona": "set",
@@ -50,14 +54,14 @@
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7033,
         "persona": "Макото",
         "start": 2216,
         "text": "А... Ну, пожалуй, да...^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7033,
         "file": "Voice04/04-KA/04-KA-G05/04-KA-G05-0050",
         "layer": 1,
         "persona": "mak",
@@ -65,20 +69,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12383,
         "file": "Event04/04-KA/04-KA-G05/04-KA-G05-002",
         "start": 7083
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8250,
         "persona": "Сэцуна",
         "start": 7100,
         "text": "Тайня?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8250,
         "file": "Voice04/04-KA/04-KA-G05/04-KA-G05-0060",
         "layer": 0,
         "persona": "set",
@@ -86,14 +90,14 @@
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11250,
         "persona": "Макото",
         "start": 8333,
         "text": "Да-да. Тай-ня!^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11250,
         "file": "Voice04/04-KA/04-KA-G05/04-KA-G05-0070",
         "layer": 1,
         "persona": "mak",
@@ -101,14 +105,14 @@
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12316,
         "persona": "Сэцуна",
         "start": 11283,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12316,
         "file": "Voice04/04-KA/04-KA-G05/04-KA-G05-0080",
         "layer": 0,
         "persona": "xxx",
@@ -116,20 +120,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 15000,
+        "end": 15216,
         "file": "Event04/04-KA/04-KA-G05/04-KA-G05-003",
         "start": 12383
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15266,
         "persona": "Макото",
         "start": 13066,
         "text": "Так что отпусти меня уже...^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15266,
         "file": "Voice04/04-KA/04-KA-G05/04-KA-G05-0090",
         "layer": 1,
         "persona": "mak",
@@ -137,20 +141,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 28000,
+        "end": 28183,
         "file": "Movie04/04-KA/04-KA-G05/04-KA-G05-004",
         "start": 15216
     },
     {
         "action": "PrintText",
-        "end": 19000,
+        "end": 19216,
         "persona": "Сэцуна",
         "start": 15266,
         "text": "Тогда и с милафкой секретик сделай!^"
     },
     {
         "action": "PlayVoice",
-        "end": 19000,
+        "end": 19216,
         "file": "Voice04/04-KA/04-KA-G05/04-KA-G05-0100",
         "layer": 0,
         "persona": "set",
@@ -158,14 +162,14 @@
     },
     {
         "action": "PrintText",
-        "end": 21000,
+        "end": 21383,
         "persona": "Макото",
         "start": 19150,
         "text": "К-какой ещё милашкой?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 21000,
+        "end": 21383,
         "file": "Voice04/04-KA/04-KA-G05/04-KA-G05-0110",
         "layer": 1,
         "persona": "mak",
@@ -173,14 +177,14 @@
     },
     {
         "action": "PrintText",
-        "end": 23000,
+        "end": 23050,
         "persona": "Сэцуна",
         "start": 21383,
         "text": "Со мной!^"
     },
     {
         "action": "PlayVoice",
-        "end": 23000,
+        "end": 23050,
         "file": "Voice04/04-KA/04-KA-G05/04-KA-G05-0120",
         "layer": 0,
         "persona": "set",
@@ -188,14 +192,14 @@
     },
     {
         "action": "PrintText",
-        "end": 27000,
+        "end": 27166,
         "persona": "Макото",
         "start": 23200,
         "text": "Это ты у нас себя... милашкой кличешь?^"
     },
     {
         "action": "PlayVoice",
-        "end": 27000,
+        "end": 27166,
         "file": "Voice04/04-KA/04-KA-G05/04-KA-G05-0130",
         "layer": 1,
         "persona": "mak",
@@ -203,14 +207,14 @@
     },
     {
         "action": "PrintText",
-        "end": 28000,
+        "end": 28116,
         "persona": "Сэцуна",
         "start": 27083,
         "text": "Назови!^"
     },
     {
         "action": "PlayVoice",
-        "end": 28000,
+        "end": 28116,
         "file": "Voice04/04-KA/04-KA-G05/04-KA-G05-0140",
         "layer": 0,
         "persona": "set",
@@ -218,20 +222,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 31000,
+        "end": 31233,
         "file": "Event04/04-KA/04-KA-G05/04-KA-G05-005",
         "start": 28183
     },
     {
         "action": "PrintText",
-        "end": 31000,
+        "end": 31233,
         "persona": "Макото",
         "start": 28233,
         "text": "Опусти меня, пожалуйста, Милашка.^"
     },
     {
         "action": "PlayVoice",
-        "end": 31000,
+        "end": 31233,
         "file": "Voice04/04-KA/04-KA-G05/04-KA-G05-0150",
         "layer": 1,
         "persona": "mak",
@@ -239,20 +243,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 38000,
+        "end": 38316,
         "file": "Event04/04-KA/04-KA-G05/04-KA-G05-002",
         "start": 31233
     },
     {
         "action": "PrintText",
-        "end": 32000,
+        "end": 32250,
         "persona": "Сэцуна",
         "start": 31233,
         "text": "Двойка тебе.^"
     },
     {
         "action": "PlayVoice",
-        "end": 32000,
+        "end": 32250,
         "file": "Voice04/04-KA/04-KA-G05/04-KA-G05-0160",
         "layer": 0,
         "persona": "set",
@@ -260,14 +264,14 @@
     },
     {
         "action": "PrintText",
-        "end": 35000,
+        "end": 35150,
         "persona": "Макото",
         "start": 32300,
         "text": "И сколько ж надо набрать, чтобы отпустила?^"
     },
     {
         "action": "PlayVoice",
-        "end": 35000,
+        "end": 35150,
         "file": "Voice04/04-KA/04-KA-G05/04-KA-G05-0170",
         "layer": 1,
         "persona": "mak",
@@ -275,14 +279,14 @@
     },
     {
         "action": "PrintText",
-        "end": 37000,
+        "end": 37200,
         "persona": "Сэцуна",
         "start": 35100,
         "text": "100!^"
     },
     {
         "action": "PlayVoice",
-        "end": 37000,
+        "end": 37200,
         "file": "Voice04/04-KA/04-KA-G05/04-KA-G05-0180",
         "layer": 0,
         "persona": "set",
@@ -290,14 +294,14 @@
     },
     {
         "action": "PrintText",
-        "end": 38000,
+        "end": 38250,
         "persona": "Макото",
         "start": 37066,
         "text": "Не многовато ли?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 38000,
+        "end": 38250,
         "file": "Voice04/04-KA/04-KA-G05/04-KA-G05-0190",
         "layer": 1,
         "persona": "mak",
@@ -305,20 +309,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 47000,
+        "end": 47166,
         "file": "Event04/04-KA/04-KA-G05/04-KA-G05-003",
         "start": 38316
     },
     {
         "action": "PrintText",
-        "end": 42000,
+        "end": 42300,
         "persona": "Сэцуна",
         "start": 39000,
         "text": "Пройдёшь бонусный этап - получишь сразу 100 баллов!^"
     },
     {
         "action": "PlayVoice",
-        "end": 42000,
+        "end": 42300,
         "file": "Voice04/04-KA/04-KA-G05/04-KA-G05-0200",
         "layer": 0,
         "persona": "set",
@@ -326,14 +330,14 @@
     },
     {
         "action": "PrintText",
-        "end": 46000,
+        "end": 46183,
         "persona": "Макото",
         "start": 43016,
         "text": "Ладно, давай сюда этот свой бонусный этап...^"
     },
     {
         "action": "PlayVoice",
-        "end": 46000,
+        "end": 46183,
         "file": "Voice04/04-KA/04-KA-G05/04-KA-G05-0210",
         "layer": 1,
         "persona": "mak",
@@ -341,14 +345,14 @@
     },
     {
         "action": "PrintText",
-        "end": 47000,
+        "end": 47150,
         "persona": "Сэцуна",
         "start": 46150,
         "text": "Уверен?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 47000,
+        "end": 47150,
         "file": "Voice04/04-KA/04-KA-G05/04-KA-G05-0220",
         "layer": 0,
         "persona": "set",
@@ -356,20 +360,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 58000,
+        "end": 58083,
         "file": "Event04/04-KA/04-KA-G05/04-KA-G05-008",
         "start": 47166
     },
     {
         "action": "PrintText",
-        "end": 49000,
+        "end": 49366,
         "persona": "Макото",
         "start": 47183,
         "text": "Да. Что мне делать?^"
     },
     {
         "action": "PlayVoice",
-        "end": 49000,
+        "end": 49366,
         "file": "Voice04/04-KA/04-KA-G05/04-KA-G05-0230",
         "layer": 1,
         "persona": "mak",
@@ -377,14 +381,14 @@
     },
     {
         "action": "PrintText",
-        "end": 53000,
+        "end": 53183,
         "persona": "Сэцуна",
         "start": 49383,
         "text": "Закрой глаза и притворись зверюшкой.^"
     },
     {
         "action": "PlayVoice",
-        "end": 53000,
+        "end": 53183,
         "file": "Voice04/04-KA/04-KA-G05/04-KA-G05-0240",
         "layer": 0,
         "persona": "set",
@@ -392,17 +396,21 @@
     },
     {
         "action": "PrintText",
-        "end": 57000,
+        "end": 57366,
         "persona": "Макото",
         "start": 53200,
         "text": "Странные у тебя бонусы... Так?^"
     },
     {
         "action": "PlayVoice",
-        "end": 57000,
+        "end": 57366,
         "file": "Voice04/04-KA/04-KA-G05/04-KA-G05-0250",
         "layer": 1,
         "persona": "mak",
         "start": 53200
+    },
+    {
+        "action": "Next",
+        "start": 58083
     }
 ]

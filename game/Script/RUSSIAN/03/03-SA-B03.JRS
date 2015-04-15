@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 19283
+    },
+    {
         "action": "PlayBgm",
-        "end": 19000,
+        "end": 19283,
         "file": "BGM/SD_BGM/sdbgm01",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5066,
         "file": "Event03/03-SA/03-SA-B03/03-SA-B03-001B",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 0,
+        "end": 366,
         "persona": "Макото",
         "start": 0,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 0,
+        "end": 366,
         "file": "Voice03/03-SA/03-SA-B03/03-SA-B03-0030",
         "layer": 1,
         "persona": "xxx",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3133,
         "persona": "Сэкаи",
         "start": 366,
         "text": "У меня что, с одеждой что-то не так?^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3133,
         "file": "Voice03/03-SA/03-SA-B03/03-SA-B03-0040",
         "layer": 0,
         "persona": "sek",
@@ -43,14 +47,14 @@
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5066,
         "persona": "Макото",
         "start": 3150,
         "text": "Нет...^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5066,
         "file": "Voice03/03-SA/03-SA-B03/03-SA-B03-0050",
         "layer": 1,
         "persona": "mak",
@@ -58,20 +62,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7116,
         "file": "Event03/03-SA/03-SA-B03/03-SA-B03-002",
         "start": 5066
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7216,
         "persona": "Хикари",
         "start": 5066,
         "text": "Хватит на неё пялиться!^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7216,
         "file": "Voice03/03-SA/03-SA-B03/03-SA-B03-0060",
         "layer": 0,
         "persona": "hik",
@@ -79,20 +83,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8266,
         "file": "Event03/03-SA/03-SA-B03/03-SA-B03-003",
         "start": 7116
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11333,
         "persona": "Макото",
         "start": 7216,
         "text": "Ой! А, Курода, это ты...^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11333,
         "file": "Voice03/03-SA/03-SA-B03/03-SA-B03-0080",
         "layer": 1,
         "persona": "mak",
@@ -100,7 +104,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 17000,
+        "end": 17066,
         "file": "Event03/03-SA/03-SA-B03/03-SA-B03-004",
         "start": 8266
     },
@@ -136,23 +140,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 19000,
+        "end": 19283,
         "file": "Event03/03-SA/03-SA-B03/03-SA-B03-005",
         "start": 17066
     },
     {
         "action": "PrintText",
-        "end": 19000,
+        "end": 19266,
         "persona": "Макото",
         "start": 19000,
         "text": "Конечно!^"
     },
     {
         "action": "PlayVoice",
-        "end": 19000,
+        "end": 19266,
         "file": "Voice03/03-SA/03-SA-B03/03-SA-B03-0110",
         "layer": 1,
         "persona": "mak",
         "start": 19000
+    },
+    {
+        "action": "Next",
+        "start": 19283
     }
 ]

@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 22350
+    },
+    {
         "action": "PlayBgm",
-        "end": 22000,
+        "end": 22316,
         "file": "BGM/SD_BGM/sdbgm06",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8066,
         "file": "Event05/05-KG/05-KG-E00/05-KG-E00-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3066,
         "persona": "Макото",
         "start": 0,
         "text": "Я сегодня булками перекушу.^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3066,
         "file": "Voice05/05-KG/05-KG-E00/05-KG-E00-0040",
         "layer": 1,
         "persona": "mak",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5100,
         "persona": "Котоноха",
         "start": 3083,
         "text": "А, я тоже.^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5100,
         "file": "Voice05/05-KG/05-KG-E00/05-KG-E00-0050",
         "layer": 0,
         "persona": "kot",
@@ -43,14 +47,14 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9100,
         "persona": "Макото",
         "start": 5083,
         "text": "У них там пирожки особенно вкусные, знала?^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9100,
         "file": "Voice05/05-KG/05-KG-E00/05-KG-E00-0060",
         "layer": 1,
         "persona": "mak",
@@ -58,20 +62,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 17000,
+        "end": 17316,
         "file": "Event05/05-KG/05-KG-E00/05-KG-E00-002",
         "start": 8066
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10366,
         "persona": "Котоноха",
         "start": 9100,
         "text": "Первый раз слышу.^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10366,
         "file": "Voice05/05-KG/05-KG-E00/05-KG-E00-0070",
         "layer": 0,
         "persona": "kot",
@@ -79,14 +83,14 @@
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14233,
         "persona": "Макото",
         "start": 10366,
         "text": "Их как раз сегодня продают, будешь?^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14233,
         "file": "Voice05/05-KG/05-KG-E00/05-KG-E00-0080",
         "layer": 1,
         "persona": "mak",
@@ -94,14 +98,14 @@
     },
     {
         "action": "PrintText",
-        "end": 18000,
+        "end": 18016,
         "persona": "Котоноха",
         "start": 14233,
         "text": "Ну, давай тогда меняться...^"
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18016,
         "file": "Voice05/05-KG/05-KG-E00/05-KG-E00-0090",
         "layer": 0,
         "persona": "kot",
@@ -109,20 +113,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 22000,
+        "end": 22316,
         "file": "Event05/05-KG/05-KG-E00/05-KG-E00-003",
         "start": 17316
     },
     {
         "action": "PrintText",
-        "end": 20000,
+        "end": 20133,
         "persona": "Макото",
         "start": 18016,
         "text": "А что у тебя есть?^"
     },
     {
         "action": "PlayVoice",
-        "end": 20000,
+        "end": 20133,
         "file": "Voice05/05-KG/05-KG-E00/05-KG-E00-0100",
         "layer": 1,
         "persona": "mak",
@@ -130,17 +134,21 @@
     },
     {
         "action": "PrintText",
-        "end": 22000,
+        "end": 22350,
         "persona": "Котоноха",
         "start": 20133,
         "text": "Так...^"
     },
     {
         "action": "PlayVoice",
-        "end": 22000,
+        "end": 22350,
         "file": "Voice05/05-KG/05-KG-E00/05-KG-E00-0110",
         "layer": 0,
         "persona": "kot",
         "start": 20133
+    },
+    {
+        "action": "Next",
+        "start": 22350
     }
 ]

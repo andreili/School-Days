@@ -1,27 +1,31 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 176016
+    },
+    {
         "action": "PlaySe",
-        "end": 51000,
+        "end": 51050,
         "file": "SysSe/SE_all/station_train/gakuenmae_yuugata",
         "layer": 3,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3183,
         "file": "Event04/04-SB/04-SB-L01/04-SB-L01-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3183,
         "persona": "Макото",
         "start": 66,
         "text": "Я тоже тебя люблю!^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3183,
         "file": "Voice04/04-SB/04-SB-L01/04-SB-L01-0030",
         "layer": 1,
         "persona": "mak",
@@ -35,14 +39,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6266,
         "persona": "Котоноха",
         "start": 3183,
         "text": "Правда?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6266,
         "file": "Voice04/04-SB/04-SB-L01/04-SB-L01-0040",
         "layer": 0,
         "persona": "kot",
@@ -50,14 +54,14 @@
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7150,
         "persona": "Макото",
         "start": 6283,
         "text": "Да!^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7150,
         "file": "Voice04/04-SB/04-SB-L01/04-SB-L01-0050",
         "layer": 1,
         "persona": "mak",
@@ -65,14 +69,14 @@
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10383,
         "persona": "Котоноха",
         "start": 7133,
         "text": "Ты ещё можешь меня любить?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10383,
         "file": "Voice04/04-SB/04-SB-L01/04-SB-L01-0060",
         "layer": 0,
         "persona": "kot",
@@ -101,20 +105,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 25000,
+        "end": 25116,
         "file": "Event01/01-00/01-00-L00/01-00-L00-001",
         "start": 12000
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16383,
         "persona": "Котоноха",
         "start": 12000,
         "text": "Тогда... Я не сдамся!^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16383,
         "file": "Voice04/04-SB/04-SB-L01/04-SB-L01-0080",
         "layer": 0,
         "persona": "kot",
@@ -122,14 +126,14 @@
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17300,
         "persona": "Макото",
         "start": 17000,
         "text": "Э?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17300,
         "file": "Voice04/04-SB/04-SB-L01/04-SB-L01-0090",
         "layer": 1,
         "persona": "mak",
@@ -137,14 +141,14 @@
     },
     {
         "action": "PrintText",
-        "end": 21000,
+        "end": 21250,
         "persona": "Котоноха",
         "start": 17300,
         "text": "Я уведу тебя у Саиёндзи!^"
     },
     {
         "action": "PlayVoice",
-        "end": 21000,
+        "end": 21250,
         "file": "Voice04/04-SB/04-SB-L01/04-SB-L01-0100",
         "layer": 0,
         "persona": "kot",
@@ -152,21 +156,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 25000,
+        "end": 25250,
         "file": "SysSe/SE_all/station_train/train_door_close",
         "layer": 1,
         "start": 20333
     },
     {
         "action": "PrintText",
-        "end": 23000,
+        "end": 23183,
         "persona": "Макото",
         "start": 21250,
         "text": "А...^"
     },
     {
         "action": "PlayVoice",
-        "end": 23000,
+        "end": 23183,
         "file": "Voice04/04-SB/04-SB-L01/04-SB-L01-0130",
         "layer": 1,
         "persona": "mak",
@@ -174,33 +178,33 @@
     },
     {
         "action": "PlaySe",
-        "end": 50000,
+        "end": 50233,
         "file": "SysSe/SE_all/station_train/train_start",
         "layer": 2,
         "start": 24150
     },
     {
         "action": "PlayMovie",
-        "end": 29000,
+        "end": 29116,
         "file": "Movie00/00-00/00-00-L00/00-00-L00-024",
         "start": 25116
     },
     {
         "action": "CreateBG",
-        "end": 45000,
+        "end": 45133,
         "file": "Event04/04-SB/04-SB-L01/04-SB-L01-006",
         "start": 29116
     },
     {
         "action": "PrintText",
-        "end": 30000,
+        "end": 30183,
         "persona": "Макото",
         "start": 29116,
         "text": "Зачем?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 30000,
+        "end": 30183,
         "file": "Voice04/04-SB/04-SB-L01/04-SB-L01-0150",
         "layer": 1,
         "persona": "mak",
@@ -208,14 +212,14 @@
     },
     {
         "action": "PrintText",
-        "end": 34000,
+        "end": 34283,
         "persona": "Макото",
         "start": 30200,
         "text": "Ну зачем я это сказал! Почему я всегда иду на поводу у импульсов...^"
     },
     {
         "action": "PlayVoice",
-        "end": 34000,
+        "end": 34283,
         "file": "Voice04/04-SB/04-SB-L01/04-SB-L01-0160",
         "layer": 1,
         "persona": "mak",
@@ -223,14 +227,14 @@
     },
     {
         "action": "PrintText",
-        "end": 41000,
+        "end": 41083,
         "persona": "Макото",
         "start": 34283,
         "text": "Я её люблю, конечно... Но встречаюсь-то... С Сэкаи...^"
     },
     {
         "action": "PlayVoice",
-        "end": 41000,
+        "end": 41083,
         "file": "Voice04/04-SB/04-SB-L01/04-SB-L01-0170",
         "layer": 1,
         "persona": "mak",
@@ -238,14 +242,14 @@
     },
     {
         "action": "PrintText",
-        "end": 44000,
+        "end": 44116,
         "persona": "Макото",
         "start": 41083,
         "text": "Какой же я дурак!.. Чёрт!^"
     },
     {
         "action": "PlayVoice",
-        "end": 44000,
+        "end": 44116,
         "file": "Voice04/04-SB/04-SB-L01/04-SB-L01-0180",
         "layer": 1,
         "persona": "mak",
@@ -253,14 +257,14 @@
     },
     {
         "action": "PrintText",
-        "end": 45000,
+        "end": 45116,
         "persona": "Макото",
         "start": 44116,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 45000,
+        "end": 45116,
         "file": "Voice04/04-SB/04-SB-L01/04-SB-L01-0190",
         "layer": 1,
         "persona": "mak",
@@ -268,26 +272,26 @@
     },
     {
         "action": "EndBGM",
-        "end": 175000,
+        "end": 175383,
         "file": "BGM/Vocal/SDV04",
         "start": 45100
     },
     {
         "action": "CreateBG",
-        "end": 48000,
+        "end": 48233,
         "file": "Event04/04-SB/04-SB-L01/04-SB-L01-007",
         "start": 45133
     },
     {
         "action": "PrintText",
-        "end": 51000,
+        "end": 51200,
         "persona": "Хикари",
         "start": 46100,
         "text": "Вон оно как... Вот, значит, Кацура какая...^"
     },
     {
         "action": "PlayVoice",
-        "end": 51000,
+        "end": 51200,
         "file": "Voice04/04-SB/04-SB-L01/04-SB-L01-0210",
         "layer": 0,
         "persona": "hik",
@@ -295,14 +299,18 @@
     },
     {
         "action": "CreateBG",
-        "end": 51000,
+        "end": 51266,
         "file": "Event04/04-SB/04-SB-L01/04-SB-L01-008",
         "start": 48233
     },
     {
         "action": "EndRoll",
-        "end": 176000,
+        "end": 176016,
         "file": "Movie04/ENDROLL/05-19",
         "start": 51266
+    },
+    {
+        "action": "Next",
+        "start": 177016
     }
 ]

@@ -1,27 +1,31 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 17200
+    },
+    {
         "action": "PlaySe",
-        "end": 17000,
+        "end": 17200,
         "file": "SysSe/SE_all/gaya/okujou",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2266,
         "file": "Event05/05-KA/05-KA-C03/05-KA-C03-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 0,
+        "end": 316,
         "persona": "Макото",
         "start": 0,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 0,
+        "end": 316,
         "file": "Voice05/05-KA/05-KA-C03/05-KA-C03-0030",
         "layer": 1,
         "persona": "xxx",
@@ -29,14 +33,14 @@
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2266,
         "persona": "Сэкаи",
         "start": 350,
         "text": "Молчишь? Неудивительно.^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2266,
         "file": "Voice05/05-KA/05-KA-C03/05-KA-C03-0040",
         "layer": 0,
         "persona": "sek",
@@ -44,20 +48,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3200,
         "file": "Event05/05-KA/05-KA-C03/05-KA-C03-002",
         "start": 2266
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3150,
         "persona": "Макото",
         "start": 2300,
         "text": "Что?^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3150,
         "file": "Voice05/05-KA/05-KA-C03/05-KA-C03-0050",
         "layer": 1,
         "persona": "mak",
@@ -65,20 +69,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10133,
         "file": "Event05/05-KA/05-KA-C03/05-KA-C03-003",
         "start": 3200
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10133,
         "persona": "Сэкаи",
         "start": 3200,
         "text": "Ведь ты же у нас... Во время танцев... Кацуру трахнул!^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10133,
         "file": "Voice05/05-KA/05-KA-C03/05-KA-C03-0060",
         "layer": 0,
         "persona": "sek",
@@ -86,20 +90,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12283,
         "file": "Event05/05-KA/05-KA-C03/05-KA-C03-004",
         "start": 10133
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12200,
         "persona": "Макото",
         "start": 10133,
         "text": "Т-ты чего?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12200,
         "file": "Voice05/05-KA/05-KA-C03/05-KA-C03-0070",
         "layer": 1,
         "persona": "mak",
@@ -107,20 +111,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 16000,
+        "end": 16183,
         "file": "Event05/05-KA/05-KA-C03/05-KA-C03-005",
         "start": 12283
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16150,
         "persona": "Сэкаи",
         "start": 12283,
         "text": "Можешь не отрицать. Я всё знаю.^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16150,
         "file": "Voice05/05-KA/05-KA-C03/05-KA-C03-0080",
         "layer": 0,
         "persona": "sek",
@@ -128,23 +132,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 17000,
+        "end": 17200,
         "file": "Event05/05-KA/05-KA-C03/05-KA-C03-006",
         "start": 16183
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17200,
         "persona": "Макото",
         "start": 16183,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17200,
         "file": "Voice05/05-KA/05-KA-C03/05-KA-C03-0090",
         "layer": 1,
         "persona": "mak",
         "start": 16183
+    },
+    {
+        "action": "Next",
+        "start": 17200
     }
 ]

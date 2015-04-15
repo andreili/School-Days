@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 17066
+    },
+    {
         "action": "PlayBgm",
-        "end": 17000,
+        "end": 17066,
         "file": "BGM/SD_BGM/sdbgm03",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12166,
         "file": "Event03/03-KA/03-KA-I00/03-KA-I00-001A",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12150,
         "persona": "Учитель",
         "start": 0,
         "text": "Так, откройте распечатки. Начнём с мер предосторожности...^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12150,
         "file": "Voice03/03-KA/03-KA-I00/03-KA-I00-0030",
         "layer": 0,
         "persona": "jin",
@@ -28,20 +32,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 17000,
+        "end": 17066,
         "file": "Event03/03-KA/03-KA-I00/03-KA-I00-001B",
         "start": 12166
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16050,
         "persona": "Макото",
         "start": 12166,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16050,
         "file": "Voice03/03-KA/03-KA-I00/03-KA-I00-0050",
         "layer": 1,
         "persona": "mak",
@@ -50,7 +54,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 17000,
+        "end": 17066,
         "start": 16066
+    },
+    {
+        "action": "Next",
+        "start": 17066
     }
 ]

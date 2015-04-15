@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 42350
+    },
+    {
         "action": "PlayBgm",
-        "end": 42000,
+        "end": 42350,
         "file": "BGM/SD_BGM/sdbgm19",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 42000,
+        "end": 42350,
         "file": "SysSe/SE_all/gaya/okujou_yuugata",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1050,
         "file": "Event05/05-KA/05-KA-C06/05-KA-C06-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1016,
         "persona": "Макото",
         "start": 66,
         "text": "Люблю.^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1016,
         "file": "Voice05/05-KA/05-KA-C06/05-KA-C06-0030",
         "layer": 1,
         "persona": "mak",
@@ -35,20 +39,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 13000,
+        "end": 13150,
         "file": "Event05/05-KA/05-KA-C06/05-KA-C06-002",
         "start": 1050
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9016,
         "persona": "Сэцуна",
         "start": 1100,
         "text": "Да... Ты говорил... Что любишь Сэкаи.^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9016,
         "file": "Voice05/05-KA/05-KA-C06/05-KA-C06-0040",
         "layer": 0,
         "persona": "set",
@@ -56,14 +60,14 @@
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10016,
         "persona": "Макото",
         "start": 9050,
         "text": "А...^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10016,
         "file": "Voice05/05-KA/05-KA-C06/05-KA-C06-0050",
         "layer": 1,
         "persona": "mak",
@@ -71,14 +75,14 @@
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13183,
         "persona": "Сэцуна",
         "start": 10050,
         "text": "Помнишь про обещание?^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13183,
         "file": "Voice05/05-KA/05-KA-C06/05-KA-C06-0060",
         "layer": 0,
         "persona": "set",
@@ -86,20 +90,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 26000,
+        "end": 26133,
         "file": "Event05/05-KA/05-KA-C06/05-KA-C06-003",
         "start": 13150
     },
     {
         "action": "PrintText",
-        "end": 19000,
+        "end": 19016,
         "persona": "Макото",
         "start": 13183,
         "text": "Беречь Сэкаи... Ведь она такая одинокая...^"
     },
     {
         "action": "PlayVoice",
-        "end": 19000,
+        "end": 19016,
         "file": "Voice05/05-KA/05-KA-C06/05-KA-C06-0070",
         "layer": 1,
         "persona": "mak",
@@ -107,14 +111,14 @@
     },
     {
         "action": "PrintText",
-        "end": 20000,
+        "end": 20033,
         "persona": "Сэцуна",
         "start": 19083,
         "text": "И?^"
     },
     {
         "action": "PlayVoice",
-        "end": 20000,
+        "end": 20033,
         "file": "Voice05/05-KA/05-KA-C06/05-KA-C06-0080",
         "layer": 0,
         "persona": "set",
@@ -122,14 +126,14 @@
     },
     {
         "action": "PrintText",
-        "end": 26000,
+        "end": 26050,
         "persona": "Макото",
         "start": 20150,
         "text": "И то, что я её никогда не брошу...^"
     },
     {
         "action": "PlayVoice",
-        "end": 26000,
+        "end": 26050,
         "file": "Voice05/05-KA/05-KA-C06/05-KA-C06-0090",
         "layer": 1,
         "persona": "mak",
@@ -137,14 +141,14 @@
     },
     {
         "action": "PrintText",
-        "end": 27000,
+        "end": 27016,
         "persona": "Сэцуна",
         "start": 26116,
         "text": "Да.^"
     },
     {
         "action": "PlayVoice",
-        "end": 27000,
+        "end": 27016,
         "file": "Voice05/05-KA/05-KA-C06/05-KA-C06-0100",
         "layer": 0,
         "persona": "set",
@@ -152,20 +156,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 31000,
+        "end": 31133,
         "file": "Event05/05-KA/05-KA-C06/05-KA-C06-004",
         "start": 26133
     },
     {
         "action": "PrintText",
-        "end": 28000,
+        "end": 28133,
         "persona": "Макото",
         "start": 27116,
         "text": "Было такое...^"
     },
     {
         "action": "PlayVoice",
-        "end": 28000,
+        "end": 28133,
         "file": "Voice05/05-KA/05-KA-C06/05-KA-C06-0110",
         "layer": 1,
         "persona": "mak",
@@ -173,14 +177,14 @@
     },
     {
         "action": "PrintText",
-        "end": 31000,
+        "end": 31150,
         "persona": "Сэцуна",
         "start": 28233,
         "text": "А в итоге, Сэкаи плачет.^"
     },
     {
         "action": "PlayVoice",
-        "end": 31000,
+        "end": 31150,
         "file": "Voice05/05-KA/05-KA-C06/05-KA-C06-0120",
         "layer": 0,
         "persona": "set",
@@ -188,20 +192,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 42000,
+        "end": 42350,
         "file": "Event05/05-KA/05-KA-C06/05-KA-C06-005",
         "start": 31133
     },
     {
         "action": "PrintText",
-        "end": 31000,
+        "end": 31383,
         "persona": "Макото",
         "start": 31200,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 31000,
+        "end": 31383,
         "file": "Voice05/05-KA/05-KA-C06/05-KA-C06-0130",
         "layer": 1,
         "persona": "xxx",
@@ -209,14 +213,14 @@
     },
     {
         "action": "PrintText",
-        "end": 34000,
+        "end": 34016,
         "persona": "Сэцуна",
         "start": 32150,
         "text": "Потому что одна...^"
     },
     {
         "action": "PlayVoice",
-        "end": 34000,
+        "end": 34016,
         "file": "Voice05/05-KA/05-KA-C06/05-KA-C06-0140",
         "layer": 0,
         "persona": "set",
@@ -224,14 +228,14 @@
     },
     {
         "action": "PrintText",
-        "end": 35000,
+        "end": 35166,
         "persona": "Макото",
         "start": 34083,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 35000,
+        "end": 35166,
         "file": "Voice05/05-KA/05-KA-C06/05-KA-C06-0150",
         "layer": 1,
         "persona": "xxx",
@@ -239,14 +243,14 @@
     },
     {
         "action": "PrintText",
-        "end": 38000,
+        "end": 38200,
         "persona": "Сэцуна",
         "start": 35333,
         "text": "Потому что ты от неё отдалился...^"
     },
     {
         "action": "PlayVoice",
-        "end": 38000,
+        "end": 38200,
         "file": "Voice05/05-KA/05-KA-C06/05-KA-C06-0160",
         "layer": 0,
         "persona": "set",
@@ -254,14 +258,14 @@
     },
     {
         "action": "PrintText",
-        "end": 39000,
+        "end": 39366,
         "persona": "Макото",
         "start": 38250,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 39000,
+        "end": 39366,
         "file": "Voice05/05-KA/05-KA-C06/05-KA-C06-0170",
         "layer": 1,
         "persona": "xxx",
@@ -269,14 +273,14 @@
     },
     {
         "action": "PrintText",
-        "end": 41000,
+        "end": 41283,
         "persona": "Сэцуна",
         "start": 40100,
         "text": "Вот и плачет.^"
     },
     {
         "action": "PlayVoice",
-        "end": 41000,
+        "end": 41283,
         "file": "Voice05/05-KA/05-KA-C06/05-KA-C06-0180",
         "layer": 0,
         "persona": "set",
@@ -284,17 +288,21 @@
     },
     {
         "action": "PrintText",
-        "end": 42000,
+        "end": 42133,
         "persona": "Макото",
         "start": 41300,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 42000,
+        "end": 42133,
         "file": "Voice05/05-KA/05-KA-C06/05-KA-C06-0190",
         "layer": 1,
         "persona": "xxx",
         "start": 41300
+    },
+    {
+        "action": "Next",
+        "start": 42350
     }
 ]

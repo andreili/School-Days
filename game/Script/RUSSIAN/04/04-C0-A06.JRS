@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 7316
+    },
+    {
         "action": "PlayBgm",
-        "end": 7000,
+        "end": 7316,
         "file": "BGM/SD_BGM/sdbgm21",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1116,
         "file": "Event05/05-SA/05-SA-H06/05-SA-H06-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 0,
+        "end": 250,
         "persona": "Макото",
         "start": 100,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 0,
+        "end": 250,
         "file": "Voice05/05-SA/05-SA-H06/05-SA-H06-0030",
         "layer": 1,
         "persona": "xxx",
@@ -28,20 +32,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6200,
         "file": "Event05/05-SA/05-SA-H06/05-SA-H06-002",
         "start": 1116
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3383,
         "persona": "Котоноха",
         "start": 1116,
         "text": "Молчание - знак согласия.^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3383,
         "file": "Voice05/05-SA/05-SA-H06/05-SA-H06-0040",
         "layer": 0,
         "persona": "kot",
@@ -49,14 +53,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4350,
         "persona": "Макото",
         "start": 3366,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4350,
         "file": "Voice05/05-SA/05-SA-H06/05-SA-H06-0050",
         "layer": 1,
         "persona": "xxx",
@@ -64,14 +68,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6083,
         "persona": "Котоноха",
         "start": 5050,
         "text": "Я вхожу.^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6083,
         "file": "Voice05/05-SA/05-SA-H06/05-SA-H06-0060",
         "layer": 0,
         "persona": "kot",
@@ -79,23 +83,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7316,
         "file": "Event05/05-SA/05-SA-H06/05-SA-H06-001",
         "start": 6200
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7233,
         "persona": "Макото",
         "start": 6333,
         "text": "Хорошо...^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7233,
         "file": "Voice05/05-SA/05-SA-H06/05-SA-H06-0070",
         "layer": 1,
         "persona": "mak",
         "start": 6333
+    },
+    {
+        "action": "Next",
+        "start": 7316
     }
 ]

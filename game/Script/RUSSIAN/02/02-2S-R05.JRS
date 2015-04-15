@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 21016
+    },
+    {
         "action": "PlayBgm",
-        "end": 21000,
+        "end": 21016,
         "file": "BGM/SD_BGM/sdbgm07",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2166,
         "file": "Event02/02-2S/02-2S-R05/02-2S-R05-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2066,
         "persona": "Макото",
         "start": 0,
         "text": "Не хочу терять Котоноху?^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2066,
         "file": "Voice02/02-2S/02-2S-R05/02-2S-R05-0030",
         "layer": 1,
         "persona": "xxx",
@@ -29,31 +33,31 @@
     {
         "action": "WhiteFade",
         "dir": "OUT",
-        "end": 2000,
+        "end": 2166,
         "start": 2066
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4200,
         "file": "Event02/02-2S/02-2S-R05/02-2S-R05-002",
         "start": 2166
     },
     {
         "action": "WhiteFade",
         "dir": "IN",
-        "end": 2000,
+        "end": 2266,
         "start": 2166
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4083,
         "persona": "Макото",
         "start": 2266,
         "text": "Ну, может быть и так...^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4083,
         "file": "Voice02/02-2S/02-2S-R05/02-2S-R05-0050",
         "layer": 1,
         "persona": "xxx",
@@ -62,31 +66,31 @@
     {
         "action": "WhiteFade",
         "dir": "OUT",
-        "end": 4000,
+        "end": 4200,
         "start": 4100
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12250,
         "file": "Event01/01-00/01-00-C05/01-00-C05-003",
         "start": 4200
     },
     {
         "action": "WhiteFade",
         "dir": "IN",
-        "end": 4000,
+        "end": 4300,
         "start": 4200
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12150,
         "persona": "Макото",
         "start": 4300,
         "text": "Не так-то просто выбросить из головы девушку, о которой так долго мечтал.^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12150,
         "file": "Voice02/02-2S/02-2S-R05/02-2S-R05-0060",
         "layer": 1,
         "persona": "xxx",
@@ -95,31 +99,31 @@
     {
         "action": "WhiteFade",
         "dir": "OUT",
-        "end": 12000,
+        "end": 12250,
         "start": 12150
     },
     {
         "action": "CreateBG",
-        "end": 17000,
+        "end": 17350,
         "file": "Event02/02-2S/02-2S-R05/02-2S-R05-004",
         "start": 12250
     },
     {
         "action": "WhiteFade",
         "dir": "IN",
-        "end": 12000,
+        "end": 12350,
         "start": 12250
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17116,
         "persona": "Макото",
         "start": 13250,
         "text": "Но тогда Сэкаи и я...^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17116,
         "file": "Voice02/02-2S/02-2S-R05/02-2S-R05-0070",
         "layer": 1,
         "persona": "xxx",
@@ -127,14 +131,18 @@
     },
     {
         "action": "CreateBG",
-        "end": 21000,
+        "end": 21016,
         "file": "Event02/02-2S/02-2S-R05/02-2S-R05-005",
         "start": 17350
     },
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 21000,
+        "end": 21016,
         "start": 20016
+    },
+    {
+        "action": "Next",
+        "start": 21016
     }
 ]

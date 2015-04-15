@@ -1,20 +1,24 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 4133
+    },
+    {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4133,
         "file": "Event04/04-SB/04-SB-G04/04-SB-G04-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2050,
         "persona": "Макото",
         "start": 100,
         "text": "Пойду назад в класс.^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2050,
         "file": "Voice04/04-SB/04-SB-G04/04-SB-G04-0030",
         "layer": 1,
         "persona": "mak",
@@ -22,17 +26,21 @@
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3383,
         "persona": "Макото",
         "start": 2383,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3383,
         "file": "Voice04/04-SB/04-SB-G04/04-SB-G04-0040",
         "layer": 1,
         "persona": "mak",
         "start": 2383
+    },
+    {
+        "action": "Next",
+        "start": 4133
     }
 ]

@@ -1,27 +1,31 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 111066
+    },
+    {
         "action": "PlaySe",
-        "end": 111000,
+        "end": 111066,
         "file": "SysSe/SE_all/station_train/train_in",
         "layer": 1,
         "start": 0
     },
     {
         "action": "PlayMovie",
-        "end": 14000,
+        "end": 14166,
         "file": "Movie05/05-5O/05-5O-J03/05-5O-J03-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2350,
         "persona": "Отомэ",
         "start": 283,
         "text": "Ито... Ты сегодня как, не занят?^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2350,
         "file": "Voice05/05-5O/05-5O-J03/05-5O-J03-0030",
         "layer": 0,
         "persona": "oto",
@@ -29,14 +33,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4233,
         "persona": "Макото",
         "start": 3133,
         "text": "Хороший вопрос...^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4233,
         "file": "Voice05/05-5O/05-5O-J03/05-5O-J03-0040",
         "layer": 1,
         "persona": "mak",
@@ -44,14 +48,14 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9050,
         "persona": "Отомэ",
         "start": 4383,
         "text": "Я вот свободна... В секции выходной.^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9050,
         "file": "Voice05/05-5O/05-5O-J03/05-5O-J03-0050",
         "layer": 0,
         "persona": "oto",
@@ -59,14 +63,14 @@
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10100,
         "persona": "Макото",
         "start": 9250,
         "text": "Понятно...^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10100,
         "file": "Voice05/05-5O/05-5O-J03/05-5O-J03-0060",
         "layer": 1,
         "persona": "mak",
@@ -74,14 +78,14 @@
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14083,
         "persona": "Отомэ",
         "start": 10250,
         "text": "Я могу прийти к тебе?^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14083,
         "file": "Voice05/05-5O/05-5O-J03/05-5O-J03-0070",
         "layer": 0,
         "persona": "oto",
@@ -89,20 +93,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 16000,
+        "end": 16383,
         "file": "Event05/05-5O/05-5O-J03/05-5O-J03-003",
         "start": 14166
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15300,
         "persona": "Макото",
         "start": 15083,
         "text": "Э?^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15300,
         "file": "Voice05/05-5O/05-5O-J03/05-5O-J03-0080",
         "layer": 1,
         "persona": "mak",
@@ -110,20 +114,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 27000,
+        "end": 27133,
         "file": "Movie05/05-5O/05-5O-J03/05-5O-J03-004",
         "start": 16383
     },
     {
         "action": "PrintText",
-        "end": 24000,
+        "end": 24016,
         "persona": "Отомэ",
         "start": 17033,
         "text": "Мне кажется... Ты с самой средней школы меня за девушку и не считал...^"
     },
     {
         "action": "PlayVoice",
-        "end": 24000,
+        "end": 24016,
         "file": "Voice05/05-5O/05-5O-J03/05-5O-J03-0090",
         "layer": 0,
         "persona": "oto",
@@ -131,14 +135,14 @@
     },
     {
         "action": "PrintText",
-        "end": 25000,
+        "end": 25300,
         "persona": "Макото",
         "start": 24200,
         "text": "Не говори глупостей...^"
     },
     {
         "action": "PlayVoice",
-        "end": 25000,
+        "end": 25300,
         "file": "Voice05/05-5O/05-5O-J03/05-5O-J03-0100",
         "layer": 1,
         "persona": "mak",
@@ -146,14 +150,14 @@
     },
     {
         "action": "PrintText",
-        "end": 27000,
+        "end": 27016,
         "persona": "Отомэ",
         "start": 25250,
         "text": "А я - девушка.^"
     },
     {
         "action": "PlayVoice",
-        "end": 27000,
+        "end": 27016,
         "file": "Voice05/05-5O/05-5O-J03/05-5O-J03-0110",
         "layer": 0,
         "persona": "oto",
@@ -161,20 +165,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 33000,
+        "end": 33250,
         "file": "Event05/05-5O/05-5O-J03/05-5O-J03-005",
         "start": 27133
     },
     {
         "action": "PrintText",
-        "end": 29000,
+        "end": 29266,
         "persona": "Макото",
         "start": 27133,
         "text": "Знаю...^"
     },
     {
         "action": "PlayVoice",
-        "end": 29000,
+        "end": 29266,
         "file": "Voice05/05-5O/05-5O-J03/05-5O-J03-0120",
         "layer": 1,
         "persona": "mak",
@@ -182,14 +186,14 @@
     },
     {
         "action": "PrintText",
-        "end": 32000,
+        "end": 32366,
         "persona": "Отомэ",
         "start": 29283,
         "text": "И я хочу, чтобы ты это понял.^"
     },
     {
         "action": "PlayVoice",
-        "end": 32000,
+        "end": 32366,
         "file": "Voice05/05-5O/05-5O-J03/05-5O-J03-0130",
         "layer": 0,
         "persona": "oto",
@@ -197,14 +201,14 @@
     },
     {
         "action": "PrintText",
-        "end": 33000,
+        "end": 33233,
         "persona": "Макото",
         "start": 33016,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 33000,
+        "end": 33233,
         "file": "Voice05/05-5O/05-5O-J03/05-5O-J03-0140",
         "layer": 1,
         "persona": "xxx",
@@ -212,20 +216,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 37000,
+        "end": 37083,
         "file": "Event05/05-5O/05-5O-J03/05-5O-J03-006",
         "start": 33250
     },
     {
         "action": "PrintText",
-        "end": 36000,
+        "end": 36383,
         "persona": "Отомэ",
         "start": 33366,
         "text": "Так я приду?^"
     },
     {
         "action": "PlayVoice",
-        "end": 36000,
+        "end": 36383,
         "file": "Voice05/05-5O/05-5O-J03/05-5O-J03-0150",
         "layer": 0,
         "persona": "oto",
@@ -233,20 +237,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 38000,
+        "end": 38050,
         "file": "Event05/05-5O/05-5O-J03/05-5O-J03-007",
         "start": 37083
     },
     {
         "action": "PrintText",
-        "end": 37000,
+        "end": 37383,
         "persona": "Макото",
         "start": 37083,
         "text": "Сегодня?^"
     },
     {
         "action": "PlayVoice",
-        "end": 37000,
+        "end": 37383,
         "file": "Voice05/05-5O/05-5O-J03/05-5O-J03-0160",
         "layer": 1,
         "persona": "mak",
@@ -254,20 +258,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 47000,
+        "end": 47250,
         "file": "Movie05/05-5O/05-5O-J03/05-5O-J03-008",
         "start": 38050
     },
     {
         "action": "PrintText",
-        "end": 47000,
+        "end": 47133,
         "persona": "Отомэ",
         "start": 38116,
         "text": "Завтра ведь опять занятия в секции начнутся... Да и потом, может, ты так сможешь, наконец, кого-нибудь выбрать...^"
     },
     {
         "action": "PlayVoice",
-        "end": 47000,
+        "end": 47133,
         "file": "Voice05/05-5O/05-5O-J03/05-5O-J03-0170",
         "layer": 0,
         "persona": "oto",
@@ -275,20 +279,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 52000,
+        "end": 52016,
         "file": "Movie05/05-5O/05-5O-J03/05-5O-J03-009",
         "start": 47250
     },
     {
         "action": "PrintText",
-        "end": 48000,
+        "end": 48316,
         "persona": "Макото",
         "start": 47316,
         "text": "Выбрать?^"
     },
     {
         "action": "PlayVoice",
-        "end": 48000,
+        "end": 48316,
         "file": "Voice05/05-5O/05-5O-J03/05-5O-J03-0180",
         "layer": 1,
         "persona": "mak",
@@ -296,14 +300,14 @@
     },
     {
         "action": "PrintText",
-        "end": 51000,
+        "end": 51300,
         "persona": "Отомэ",
         "start": 48366,
         "text": "Саиёндзи или Кацуру...^"
     },
     {
         "action": "PlayVoice",
-        "end": 51000,
+        "end": 51300,
         "file": "Voice05/05-5O/05-5O-J03/05-5O-J03-0190",
         "layer": 0,
         "persona": "oto",
@@ -311,20 +315,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 71000,
+        "end": 71116,
         "file": "Event05/05-5O/05-5O-J03/05-5O-J03-010",
         "start": 52016
     },
     {
         "action": "PrintText",
-        "end": 53000,
+        "end": 53016,
         "persona": "Макото",
         "start": 52033,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 53000,
+        "end": 53016,
         "file": "Voice05/05-5O/05-5O-J03/05-5O-J03-0200",
         "layer": 1,
         "persona": "xxx",
@@ -332,14 +336,14 @@
     },
     {
         "action": "PrintText",
-        "end": 61000,
+        "end": 61016,
         "persona": "Отомэ",
         "start": 53166,
         "text": "Ты просил времени... И, возможно, оно тебе и нужно, чтобы всё для себя решить, но...^"
     },
     {
         "action": "PlayVoice",
-        "end": 61000,
+        "end": 61016,
         "file": "Voice05/05-5O/05-5O-J03/05-5O-J03-0210",
         "layer": 0,
         "persona": "oto",
@@ -347,14 +351,14 @@
     },
     {
         "action": "PrintText",
-        "end": 62000,
+        "end": 62016,
         "persona": "Макото",
         "start": 61083,
         "text": "Да...^"
     },
     {
         "action": "PlayVoice",
-        "end": 62000,
+        "end": 62016,
         "file": "Voice05/05-5O/05-5O-J03/05-5O-J03-0220",
         "layer": 1,
         "persona": "mak",
@@ -362,14 +366,14 @@
     },
     {
         "action": "PrintText",
-        "end": 69000,
+        "end": 69300,
         "persona": "Отомэ",
         "start": 61333,
         "text": "Они... Да нет. И я тоже... Не можем мы ждать.^"
     },
     {
         "action": "PlayVoice",
-        "end": 69000,
+        "end": 69300,
         "file": "Voice05/05-5O/05-5O-J03/05-5O-J03-0230",
         "layer": 0,
         "persona": "oto",
@@ -377,14 +381,14 @@
     },
     {
         "action": "PrintText",
-        "end": 71000,
+        "end": 71100,
         "persona": "Макото",
         "start": 69316,
         "text": "Ясно...^"
     },
     {
         "action": "PlayVoice",
-        "end": 71000,
+        "end": 71100,
         "file": "Voice05/05-5O/05-5O-J03/05-5O-J03-0240",
         "layer": 1,
         "persona": "mak",
@@ -392,20 +396,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 77000,
+        "end": 77316,
         "file": "Movie05/05-5O/05-5O-J03/05-5O-J03-011",
         "start": 71116
     },
     {
         "action": "PrintText",
-        "end": 77000,
+        "end": 77283,
         "persona": "Отомэ",
         "start": 71116,
         "text": "В таком постоянном волнении... Напряжении... Не вытерплю я.^"
     },
     {
         "action": "PlayVoice",
-        "end": 77000,
+        "end": 77283,
         "file": "Voice05/05-5O/05-5O-J03/05-5O-J03-0250",
         "layer": 0,
         "persona": "oto",
@@ -419,14 +423,14 @@
     },
     {
         "action": "PrintText",
-        "end": 78000,
+        "end": 78333,
         "persona": "Макото",
         "start": 77333,
         "text": "Ясно...^"
     },
     {
         "action": "PlayVoice",
-        "end": 78000,
+        "end": 78333,
         "file": "Voice05/05-5O/05-5O-J03/05-5O-J03-0260",
         "layer": 1,
         "persona": "mak",
@@ -434,20 +438,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 100000,
+        "end": 100333,
         "file": "Movie05/05-5O/05-5O-J03/05-5O-J03-013",
         "start": 79000
     },
     {
         "action": "PrintText",
-        "end": 87000,
+        "end": 87200,
         "persona": "Отомэ",
         "start": 79100,
         "text": "Я буду на побережье, неподалёку от твоего дома. Там, куда мы всей компанией из средней обычно ходили.^"
     },
     {
         "action": "PlayVoice",
-        "end": 87000,
+        "end": 87200,
         "file": "Voice05/05-5O/05-5O-J03/05-5O-J03-0270",
         "layer": 0,
         "persona": "oto",
@@ -470,14 +474,14 @@
     },
     {
         "action": "PrintText",
-        "end": 100000,
+        "end": 100233,
         "persona": "Отомэ",
         "start": 89100,
         "text": "Если ты... всё-таки любишь меня... Приходи.^"
     },
     {
         "action": "PlayVoice",
-        "end": 100000,
+        "end": 100233,
         "file": "Voice05/05-5O/05-5O-J03/05-5O-J03-0290",
         "layer": 0,
         "persona": "oto",
@@ -485,20 +489,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 106000,
+        "end": 106350,
         "file": "Event05/05-5O/05-5O-J03/05-5O-J03-014",
         "start": 100333
     },
     {
         "action": "PrintText",
-        "end": 101000,
+        "end": 101350,
         "persona": "Макото",
         "start": 100383,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 101000,
+        "end": 101350,
         "file": "Voice05/05-5O/05-5O-J03/05-5O-J03-0300",
         "layer": 1,
         "persona": "xxx",
@@ -506,14 +510,14 @@
     },
     {
         "action": "PrintText",
-        "end": 104000,
+        "end": 104233,
         "persona": "Отомэ",
         "start": 102083,
         "text": "Если нет... Я больше тебя не побеспокою.^"
     },
     {
         "action": "PlayVoice",
-        "end": 104000,
+        "end": 104233,
         "file": "Voice05/05-5O/05-5O-J03/05-5O-J03-0310",
         "layer": 0,
         "persona": "oto",
@@ -521,14 +525,14 @@
     },
     {
         "action": "PrintText",
-        "end": 106000,
+        "end": 106066,
         "persona": "Макото",
         "start": 105000,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 106000,
+        "end": 106066,
         "file": "Voice05/05-5O/05-5O-J03/05-5O-J03-0320",
         "layer": 1,
         "persona": "xxx",
@@ -536,20 +540,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 111000,
+        "end": 111066,
         "file": "Movie05/05-5O/05-5O-J03/05-5O-J03-009",
         "start": 106350
     },
     {
         "action": "PrintText",
-        "end": 110000,
+        "end": 110150,
         "persona": "Отомэ",
         "start": 107033,
         "text": "В общем... Я буду ждать.^"
     },
     {
         "action": "PlayVoice",
-        "end": 110000,
+        "end": 110150,
         "file": "Voice05/05-5O/05-5O-J03/05-5O-J03-0330",
         "layer": 0,
         "persona": "oto",
@@ -558,7 +562,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 111000,
+        "end": 111066,
         "start": 110066
+    },
+    {
+        "action": "Next",
+        "start": 111066
     }
 ]

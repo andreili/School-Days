@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 35016
+    },
+    {
         "action": "PlayBgm",
-        "end": 35000,
+        "end": 35016,
         "file": "BGM/SD_BGM/sdbgm19",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 35000,
+        "end": 35016,
         "file": "SysSe/SE_all/gaya/okujou_yuugata",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3350,
         "file": "Event05/05-KA/05-KA-F00/05-KA-F00-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3350,
         "persona": "Сэцуна",
         "start": 0,
         "text": "Я тут слышала, что Кацура к тебе подкатывает.^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3350,
         "file": "Voice05/05-KA/05-KA-F00/05-KA-F00-0030",
         "layer": 0,
         "persona": "set",
@@ -35,20 +39,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4266,
         "file": "Event05/05-KA/05-KA-F00/05-KA-F00-002",
         "start": 3350
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4200,
         "persona": "Макото",
         "start": 3350,
         "text": "Э?^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4200,
         "file": "Voice05/05-KA/05-KA-F00/05-KA-F00-0040",
         "layer": 1,
         "persona": "mak",
@@ -56,20 +60,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6350,
         "file": "Event05/05-KA/05-KA-F00/05-KA-F00-003",
         "start": 4266
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6333,
         "persona": "Сэцуна",
         "start": 4300,
         "text": "И если это так...^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6333,
         "file": "Voice05/05-KA/05-KA-F00/05-KA-F00-0050",
         "layer": 0,
         "persona": "set",
@@ -77,20 +81,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8033,
         "file": "Event05/05-KA/05-KA-F00/05-KA-F00-004",
         "start": 6350
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7383,
         "persona": "Макото",
         "start": 6366,
         "text": "Не так.^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7383,
         "file": "Voice05/05-KA/05-KA-F00/05-KA-F00-0060",
         "layer": 1,
         "persona": "mak",
@@ -98,20 +102,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9050,
         "file": "Event05/05-KA/05-KA-F00/05-KA-F00-005",
         "start": 8033
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8383,
         "persona": "Сэцуна",
         "start": 8083,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8383,
         "file": "Voice05/05-KA/05-KA-F00/05-KA-F00-0070",
         "layer": 0,
         "persona": "xxx",
@@ -119,20 +123,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12016,
         "file": "Event05/05-KA/05-KA-F00/05-KA-F00-006",
         "start": 9050
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11383,
         "persona": "Макото",
         "start": 9083,
         "text": "Во всём виноват... Я сам.^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11383,
         "file": "Voice05/05-KA/05-KA-F00/05-KA-F00-0080",
         "layer": 1,
         "persona": "mak",
@@ -140,20 +144,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 13000,
+        "end": 13183,
         "file": "Event05/05-KA/05-KA-F00/05-KA-F00-008",
         "start": 12016
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13166,
         "persona": "Сэцуна",
         "start": 12050,
         "text": "А Кацура?^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13166,
         "file": "Voice05/05-KA/05-KA-F00/05-KA-F00-0090",
         "layer": 0,
         "persona": "set",
@@ -167,14 +171,14 @@
     },
     {
         "action": "PrintText",
-        "end": 21000,
+        "end": 21366,
         "persona": "Макото",
         "start": 13200,
         "text": "Я просто воспользовался чувствами Котонохи... Предал Сэкаи... Я ужасный человек...^"
     },
     {
         "action": "PlayVoice",
-        "end": 21000,
+        "end": 21366,
         "file": "Voice05/05-KA/05-KA-F00/05-KA-F00-0100",
         "layer": 1,
         "persona": "mak",
@@ -182,14 +186,14 @@
     },
     {
         "action": "PrintText",
-        "end": 22000,
+        "end": 22366,
         "persona": "Сэцуна",
         "start": 22016,
         "text": "Ясно.^"
     },
     {
         "action": "PlayVoice",
-        "end": 22000,
+        "end": 22366,
         "file": "Voice05/05-KA/05-KA-F00/05-KA-F00-0110",
         "layer": 0,
         "persona": "set",
@@ -197,20 +201,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 35000,
+        "end": 35016,
         "file": "Event05/05-KA/05-KA-F00/05-KA-F00-010",
         "start": 23000
     },
     {
         "action": "PrintText",
-        "end": 23000,
+        "end": 23366,
         "persona": "Макото",
         "start": 23050,
         "text": "Прости.^"
     },
     {
         "action": "PlayVoice",
-        "end": 23000,
+        "end": 23366,
         "file": "Voice05/05-KA/05-KA-F00/05-KA-F00-0120",
         "layer": 1,
         "persona": "mak",
@@ -233,14 +237,14 @@
     },
     {
         "action": "PrintText",
-        "end": 26000,
+        "end": 26300,
         "persona": "Макото",
         "start": 26116,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 26000,
+        "end": 26300,
         "file": "Voice05/05-KA/05-KA-F00/05-KA-F00-0140",
         "layer": 1,
         "persona": "xxx",
@@ -248,14 +252,14 @@
     },
     {
         "action": "PrintText",
-        "end": 29000,
+        "end": 29316,
         "persona": "Сэцуна",
         "start": 26316,
         "text": "Это я тебе и хотела сказать.^"
     },
     {
         "action": "PlayVoice",
-        "end": 29000,
+        "end": 29316,
         "file": "Voice05/05-KA/05-KA-F00/05-KA-F00-0150",
         "layer": 0,
         "persona": "set",
@@ -263,14 +267,14 @@
     },
     {
         "action": "PrintText",
-        "end": 32000,
+        "end": 32133,
         "persona": "Макото",
         "start": 29366,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 32000,
+        "end": 32133,
         "file": "Voice05/05-KA/05-KA-F00/05-KA-F00-0160",
         "layer": 1,
         "persona": "xxx",
@@ -278,14 +282,14 @@
     },
     {
         "action": "PrintText",
-        "end": 33000,
+        "end": 33066,
         "persona": "Сэцуна",
         "start": 32183,
         "text": "Что ж...^"
     },
     {
         "action": "PlayVoice",
-        "end": 33000,
+        "end": 33066,
         "file": "Voice05/05-KA/05-KA-F00/05-KA-F00-0170",
         "layer": 0,
         "persona": "set",
@@ -309,7 +313,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 35000,
+        "end": 35016,
         "start": 34016
+    },
+    {
+        "action": "Next",
+        "start": 35016
     }
 ]

@@ -1,32 +1,36 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 12350
+    },
+    {
         "action": "PlayBgm",
-        "end": 12000,
+        "end": 12350,
         "file": "BGM/SD_BGM/sdbgm18",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1266,
         "file": "Event03/03-KB/03-KB-H03/03-KB-H03-001",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2366,
         "file": "Event03/03-KB/03-KB-H03/03-KB-H03-005",
         "start": 1266
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2366,
         "persona": "Макото",
         "start": 1266,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2366,
         "file": "Voice03/03-KB/03-KB-H03/03-KB-H03-0040",
         "layer": 1,
         "persona": "mak",
@@ -34,20 +38,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3366,
         "file": "Event03/03-KB/03-KB-H03/03-KB-H03-003",
         "start": 2366
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4116,
         "persona": "Макото",
         "start": 2366,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4116,
         "file": "Voice03/03-KB/03-KB-H03/03-KB-H03-0060",
         "layer": 1,
         "persona": "xxx",
@@ -61,14 +65,14 @@
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7333,
         "persona": "Макото",
         "start": 6300,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7333,
         "file": "Voice03/03-KB/03-KB-H03/03-KB-H03-0090",
         "layer": 1,
         "persona": "mak",
@@ -76,20 +80,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7350,
         "file": "Event03/03-KB/03-KB-H03/03-KB-H03-005",
         "start": 7000
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9300,
         "persona": "Макото",
         "start": 7333,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9300,
         "file": "Voice03/03-KB/03-KB-H03/03-KB-H03-0110",
         "layer": 1,
         "persona": "xxx",
@@ -97,8 +101,12 @@
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12350,
         "file": "Event03/03-KB/03-KB-H03/03-KB-H03-006",
         "start": 7350
+    },
+    {
+        "action": "Next",
+        "start": 12350
     }
 ]

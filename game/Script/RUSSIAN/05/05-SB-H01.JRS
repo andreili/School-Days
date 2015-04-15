@@ -1,5 +1,9 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 5000
+    },
+    {
         "action": "PlayBgm",
         "end": 5000,
         "file": "BGM/SD_BGM/sdbgm19",
@@ -13,14 +17,14 @@
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2100,
         "persona": "Макото",
         "start": 0,
         "text": "Да.^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2100,
         "file": "Voice05/05-SB/05-SB-H01/05-SB-H01-0030",
         "layer": 1,
         "persona": "mak",
@@ -28,17 +32,21 @@
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3150,
         "persona": "Нанами",
         "start": 2100,
         "text": "Так и знала.^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3150,
         "file": "Voice05/05-SB/05-SB-H01/05-SB-H01-0040",
         "layer": 0,
         "persona": "nan",
         "start": 2100
+    },
+    {
+        "action": "Next",
+        "start": 5000
     }
 ]

@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 89100
+    },
+    {
         "action": "PlayBgm",
-        "end": 89000,
+        "end": 89100,
         "file": "BGM/SD_BGM/sdbgm26",
         "start": 0
     },
     {
         "action": "PlayMovie",
-        "end": 8000,
+        "end": 8350,
         "file": "Movie04/04-KE/04-KE-E01/04-KE-E01-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5033,
         "persona": "Макото",
         "start": 0,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5033,
         "file": "Voice04/04-KE/04-KE-E01/04-KE-E01-0050",
         "layer": 1,
         "persona": "mak",
@@ -34,14 +38,14 @@
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10166,
         "persona": "Макото",
         "start": 5033,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10166,
         "file": "Voice04/04-KE/04-KE-E01/04-KE-E01-0070",
         "layer": 1,
         "persona": "mak",
@@ -50,31 +54,31 @@
     {
         "action": "WhiteFade",
         "dir": "OUT",
-        "end": 8000,
+        "end": 8350,
         "start": 7350
     },
     {
         "action": "PlayMovie",
-        "end": 60000,
+        "end": 60050,
         "file": "Movie04/04-KE/04-KE-E01/04-KE-E01-002",
         "start": 8350
     },
     {
         "action": "WhiteFade",
         "dir": "IN",
-        "end": 9000,
+        "end": 9350,
         "start": 8350
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15300,
         "persona": "Макото",
         "start": 10166,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15300,
         "file": "Voice04/04-KE/04-KE-E01/04-KE-E01-0080",
         "layer": 1,
         "persona": "mak",
@@ -82,14 +86,14 @@
     },
     {
         "action": "PrintText",
-        "end": 26000,
+        "end": 26016,
         "persona": "Макото",
         "start": 15300,
         "text": "У Сэкаи... Под юбкой... Ничего не было надето...^"
     },
     {
         "action": "PlayVoice",
-        "end": 26000,
+        "end": 26016,
         "file": "Voice04/04-KE/04-KE-E01/04-KE-E01-0090",
         "layer": 1,
         "persona": "mak",
@@ -97,14 +101,14 @@
     },
     {
         "action": "PrintText",
-        "end": 32000,
+        "end": 32033,
         "persona": "Макото",
         "start": 26016,
         "text": "К-как же это... Развратно...^"
     },
     {
         "action": "PlayVoice",
-        "end": 32000,
+        "end": 32033,
         "file": "Voice04/04-KE/04-KE-E01/04-KE-E01-0100",
         "layer": 1,
         "persona": "mak",
@@ -112,14 +116,14 @@
     },
     {
         "action": "PrintText",
-        "end": 40000,
+        "end": 40100,
         "persona": "Макото",
         "start": 32033,
         "text": "Таисукэ... Так даёт...^"
     },
     {
         "action": "PlayVoice",
-        "end": 40000,
+        "end": 40100,
         "file": "Voice04/04-KE/04-KE-E01/04-KE-E01-0110",
         "layer": 1,
         "persona": "mak",
@@ -127,14 +131,14 @@
     },
     {
         "action": "PrintText",
-        "end": 50000,
+        "end": 50083,
         "persona": "Макото",
         "start": 40100,
         "text": "Она... Наверняка... Каждый раз с него... Балдеет...^"
     },
     {
         "action": "PlayVoice",
-        "end": 50000,
+        "end": 50083,
         "file": "Voice04/04-KE/04-KE-E01/04-KE-E01-0120",
         "layer": 1,
         "persona": "mak",
@@ -142,14 +146,14 @@
     },
     {
         "action": "PrintText",
-        "end": 60000,
+        "end": 60050,
         "persona": "Макото",
         "start": 50083,
         "text": "Да так... Что... Пока в неё не кончил... Не могла остановиться...^"
     },
     {
         "action": "PlayVoice",
-        "end": 60000,
+        "end": 60050,
         "file": "Voice04/04-KE/04-KE-E01/04-KE-E01-0130",
         "layer": 1,
         "persona": "mak",
@@ -158,25 +162,25 @@
     {
         "action": "WhiteFade",
         "dir": "OUT",
-        "end": 60000,
+        "end": 60050,
         "start": 59050
     },
     {
         "action": "CreateBG",
-        "end": 67000,
+        "end": 67300,
         "file": "Event04/04-KE/04-KE-E01/04-KE-E01-005",
         "start": 60050
     },
     {
         "action": "PrintText",
-        "end": 67000,
+        "end": 67300,
         "persona": "Макото",
         "start": 60050,
         "text": "Сэкаи... Развратная девчёнка... Сэкаи!..^"
     },
     {
         "action": "PlayVoice",
-        "end": 67000,
+        "end": 67300,
         "file": "Voice04/04-KE/04-KE-E01/04-KE-E01-0140",
         "layer": 1,
         "persona": "mak",
@@ -185,25 +189,25 @@
     {
         "action": "WhiteFade",
         "dir": "IN",
-        "end": 61000,
+        "end": 61050,
         "start": 60050
     },
     {
         "action": "CreateBG",
-        "end": 80000,
+        "end": 80150,
         "file": "Event04/04-KE/04-KE-E01/04-KE-E01-006",
         "start": 67300
     },
     {
         "action": "PrintText",
-        "end": 77000,
+        "end": 77083,
         "persona": "Макото",
         "start": 67300,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 77000,
+        "end": 77083,
         "file": "Voice04/04-KE/04-KE-E01/04-KE-E01-0150",
         "layer": 1,
         "persona": "mak",
@@ -211,14 +215,14 @@
     },
     {
         "action": "PrintText",
-        "end": 89000,
+        "end": 89100,
         "persona": "Макото",
         "start": 77083,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 89000,
+        "end": 89100,
         "file": "Voice04/04-KE/04-KE-E01/04-KE-E01-0160",
         "layer": 1,
         "persona": "mak",
@@ -227,13 +231,17 @@
     {
         "action": "WhiteFade",
         "dir": "OUT",
-        "end": 80000,
+        "end": 80150,
         "start": 77100
     },
     {
         "action": "CreateBG",
-        "end": 89000,
+        "end": 89100,
         "file": "System/Screen/White",
         "start": 80150
+    },
+    {
+        "action": "Next",
+        "start": 89100
     }
 ]

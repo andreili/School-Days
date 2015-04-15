@@ -1,13 +1,17 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 4266
+    },
+    {
         "action": "PlayBgm",
-        "end": 4000,
+        "end": 4266,
         "file": "BGM/SD_BGM/sdbgm21",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4266,
         "file": "Event03/03-KB/03-KB-N01/03-KB-N01-002",
         "start": 0
     },
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3183,
         "persona": "Котоноха",
         "start": 2033,
         "text": "Как же так...^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3183,
         "file": "Voice04/04-SF/04-SF-A00/04-SF-A00-0050",
         "layer": 0,
         "persona": "kot",
@@ -44,7 +48,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 4000,
+        "end": 4266,
         "start": 3266
+    },
+    {
+        "action": "Next",
+        "start": 4266
     }
 ]

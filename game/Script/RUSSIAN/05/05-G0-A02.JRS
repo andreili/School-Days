@@ -1,13 +1,17 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 35200
+    },
+    {
         "action": "PlayBgm",
-        "end": 35000,
+        "end": 35200,
         "file": "BGM/SD_BGM/sdbgm17",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 15000,
+        "end": 15366,
         "file": "Se05/05-KB/05-KB-A03/SE05-KB-A03-002",
         "layer": 2,
         "start": 0
@@ -20,20 +24,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9316,
         "file": "Event05/05-KB/05-KB-A02/05-KB-A02-002",
         "start": 1000
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3366,
         "persona": "Кокоро",
         "start": 1033,
         "text": "Сестрёнка, ты чего это на кухне делаешь?^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3366,
         "file": "Voice05/05-KB/05-KB-A02/05-KB-A02-0050",
         "layer": 0,
         "persona": "kok",
@@ -41,21 +45,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 6000,
+        "end": 6100,
         "file": "Se05/05-KB/05-KB-A03/SE05-KB-A03-001",
         "layer": 1,
         "start": 3083
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6083,
         "persona": "Манами",
         "start": 3366,
         "text": "На завтра обед готовит.^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6083,
         "file": "Voice05/05-KB/05-KB-A02/05-KB-A02-0060",
         "layer": 0,
         "persona": "man",
@@ -63,14 +67,14 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9383,
         "persona": "Кокоро",
         "start": 6083,
         "text": "Мам, а ты помогать не будешь?^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9383,
         "file": "Voice05/05-KB/05-KB-A02/05-KB-A02-0070",
         "layer": 0,
         "persona": "kok",
@@ -78,27 +82,27 @@
     },
     {
         "action": "PlaySe",
-        "end": 12000,
+        "end": 12083,
         "file": "Se05/05-KB/05-KB-A03/SE05-KB-A03-001",
         "layer": 1,
         "start": 9066
     },
     {
         "action": "CreateBG",
-        "end": 15000,
+        "end": 15233,
         "file": "Event05/05-KB/05-KB-A02/05-KB-A02-003",
         "start": 9316
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15250,
         "persona": "Манами",
         "start": 9383,
         "text": "А она сказала, что сама всё приготовит, и помощь ей не нужна.^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15250,
         "file": "Voice05/05-KB/05-KB-A02/05-KB-A02-0080",
         "layer": 0,
         "persona": "man",
@@ -106,21 +110,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 26000,
+        "end": 26150,
         "file": "Se05/05-KB/05-KB-A03/SE05-KB-A03-002",
         "layer": 3,
         "start": 13383
     },
     {
         "action": "PlaySe",
-        "end": 18000,
+        "end": 18033,
         "file": "Se05/05-KB/05-KB-A03/SE05-KB-A03-001",
         "layer": 1,
         "start": 15016
     },
     {
         "action": "CreateBG",
-        "end": 29000,
+        "end": 29166,
         "file": "Event05/05-KB/05-KB-A02/05-KB-A02-004",
         "start": 15233
     },
@@ -141,14 +145,14 @@
     },
     {
         "action": "PrintText",
-        "end": 26000,
+        "end": 26300,
         "persona": "Манами",
         "start": 19000,
         "text": "Вот-вот! Про парня своего не рассказывает, в гости вести не хочет!..^"
     },
     {
         "action": "PlayVoice",
-        "end": 26000,
+        "end": 26300,
         "file": "Voice05/05-KB/05-KB-A02/05-KB-A02-0100",
         "layer": 0,
         "persona": "man",
@@ -156,28 +160,28 @@
     },
     {
         "action": "PlaySe",
-        "end": 27000,
+        "end": 27066,
         "file": "Se05/05-KB/05-KB-A03/SE05-KB-A03-003",
         "layer": 1,
         "start": 26066
     },
     {
         "action": "PlaySe",
-        "end": 29000,
+        "end": 29166,
         "file": "Se05/05-KB/05-KB-A03/SE05-KB-A03-004",
         "layer": 2,
         "start": 26233
     },
     {
         "action": "PrintText",
-        "end": 28000,
+        "end": 28083,
         "persona": "Котоноха",
         "start": 26316,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 28000,
+        "end": 28083,
         "file": "Voice05/05-KB/05-KB-A02/05-KB-A02-0120",
         "layer": 0,
         "persona": "kot",
@@ -185,20 +189,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 35000,
+        "end": 35200,
         "file": "Event05/05-KB/05-KB-A02/05-KB-A02-005",
         "start": 29166
     },
     {
         "action": "PrintText",
-        "end": 31000,
+        "end": 31300,
         "persona": "Кокоро",
         "start": 29166,
         "text": "Она... правда справится?^"
     },
     {
         "action": "PlayVoice",
-        "end": 31000,
+        "end": 31300,
         "file": "Voice05/05-KB/05-KB-A02/05-KB-A02-0140",
         "layer": 0,
         "persona": "kok",
@@ -206,14 +210,14 @@
     },
     {
         "action": "PrintText",
-        "end": 33000,
+        "end": 33216,
         "persona": "Манами",
         "start": 31316,
         "text": "Ну, помолимся за неё.^"
     },
     {
         "action": "PlayVoice",
-        "end": 33000,
+        "end": 33216,
         "file": "Voice05/05-KB/05-KB-A02/05-KB-A02-0150",
         "layer": 0,
         "persona": "man",
@@ -221,14 +225,14 @@
     },
     {
         "action": "PrintText",
-        "end": 34000,
+        "end": 34083,
         "persona": "Кокоро",
         "start": 33216,
         "text": "Угу...^"
     },
     {
         "action": "PlayVoice",
-        "end": 34000,
+        "end": 34083,
         "file": "Voice05/05-KB/05-KB-A02/05-KB-A02-0160",
         "layer": 0,
         "persona": "kok",
@@ -237,7 +241,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 35000,
+        "end": 35200,
         "start": 34200
+    },
+    {
+        "action": "Next",
+        "start": 35200
     }
 ]

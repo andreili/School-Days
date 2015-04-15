@@ -1,32 +1,36 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 22350
+    },
+    {
         "action": "PlayBgm",
-        "end": 22000,
+        "end": 22350,
         "file": "BGM/SD_BGM/sdbgm29",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1083,
         "file": "Event05/05-KF/05-KF-B05/05-KF-B05-001",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3116,
         "file": "Event00/00-00/00-00-F00/00-00-F00-004",
         "start": 1083
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3350,
         "persona": "Макото",
         "start": 1383,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3350,
         "file": "Voice05/05-KF/05-KF-B05/05-KF-B05-0030",
         "layer": 1,
         "persona": "xxx",
@@ -34,20 +38,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 13000,
+        "end": 13216,
         "file": "Event05/05-KF/05-KF-B05/05-KF-B05-003",
         "start": 3116
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6133,
         "persona": "Макото",
         "start": 3350,
         "text": "Всё верно...^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6133,
         "file": "Voice05/05-KF/05-KF-B05/05-KF-B05-0040",
         "layer": 1,
         "persona": "mak",
@@ -55,14 +59,14 @@
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8033,
         "persona": "Макото",
         "start": 6133,
         "text": "Мне...^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8033,
         "file": "Voice05/05-KF/05-KF-B05/05-KF-B05-0050",
         "layer": 1,
         "persona": "mak",
@@ -70,14 +74,14 @@
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12300,
         "persona": "Макото",
         "start": 8033,
         "text": "Всё... Больше ничего другого и не остаётся...^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12300,
         "file": "Voice05/05-KF/05-KF-B05/05-KF-B05-0060",
         "layer": 1,
         "persona": "mak",
@@ -85,14 +89,14 @@
     },
     {
         "action": "PrintText",
-        "end": 18000,
+        "end": 18016,
         "persona": "Макото",
         "start": 13000,
         "text": "Только один лишь этот... Путь...^"
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18016,
         "file": "Voice05/05-KF/05-KF-B05/05-KF-B05-0070",
         "layer": 1,
         "persona": "mak",
@@ -100,7 +104,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 22000,
+        "end": 22333,
         "file": "Event00/00-00/00-00-F00/00-00-F00-004",
         "start": 13200
     },
@@ -121,14 +125,14 @@
     },
     {
         "action": "PrintText",
-        "end": 21000,
+        "end": 21366,
         "persona": "Макото",
         "start": 20000,
         "text": "Я...^"
     },
     {
         "action": "PlayVoice",
-        "end": 21000,
+        "end": 21366,
         "file": "Voice05/05-KF/05-KF-B05/05-KF-B05-0090",
         "layer": 1,
         "persona": "mak",
@@ -137,7 +141,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 22000,
+        "end": 22333,
         "start": 21333
+    },
+    {
+        "action": "Next",
+        "start": 22350
     }
 ]

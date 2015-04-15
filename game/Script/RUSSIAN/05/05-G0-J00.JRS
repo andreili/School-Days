@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 16066
+    },
+    {
         "action": "PlaySe",
-        "end": 16000,
+        "end": 16066,
         "file": "SysSe/SE_all/station_train/gakuenmae_yuugata",
         "layer": 1,
         "start": 0
     },
     {
         "action": "PlayMovie",
-        "end": 3000,
+        "end": 3083,
         "file": "Movie05/05-KB/05-KB-J00/05-KB-J00-001",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5266,
         "file": "Event05/05-KB/05-KB-J00/05-KB-J00-002",
         "start": 3083
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5250,
         "persona": "Котоноха",
         "start": 4300,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5250,
         "file": "Voice05/05-KB/05-KB-J00/05-KB-J00-0030",
         "layer": 0,
         "persona": "kot",
@@ -35,20 +39,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7100,
         "file": "Event05/05-KB/05-KB-J00/05-KB-J00-003",
         "start": 5266
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6266,
         "persona": "Котоноха",
         "start": 6016,
         "text": "А...^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6266,
         "file": "Voice05/05-KB/05-KB-J00/05-KB-J00-0050",
         "layer": 0,
         "persona": "kot",
@@ -56,35 +60,39 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9366,
         "file": "Event05/05-KB/05-KB-J00/05-KB-J00-004A",
         "start": 7100
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12266,
         "file": "Event05/05-KB/05-KB-J00/05-KB-J00-004B",
         "start": 9366
     },
     {
         "action": "CreateBG",
-        "end": 16000,
+        "end": 16066,
         "file": "Event05/05-KB/05-KB-J00/05-KB-J00-004C",
         "start": 12266
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14150,
         "persona": "Котоноха",
         "start": 13033,
         "text": "Макото...^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14150,
         "file": "Voice05/05-KB/05-KB-J00/05-KB-J00-0070",
         "layer": 0,
         "persona": "kot",
         "start": 13033
+    },
+    {
+        "action": "Next",
+        "start": 16066
     }
 ]

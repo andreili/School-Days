@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 6116
+    },
+    {
         "action": "PlayBgm",
-        "end": 6000,
+        "end": 6116,
         "file": "BGM/SD_BGM/sdbgm19",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 6000,
+        "end": 6116,
         "file": "Se02/02-2K/02-2K-R00/SE02-2K-R00-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3166,
         "file": "Event02/02-2S/02-2S-P04/02-2S-P04-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3133,
         "persona": "Макото",
         "start": 0,
         "text": "Нам лучше расстаться!^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3133,
         "file": "Voice02/02-2S/02-2S-P04/02-2S-P04-0030",
         "layer": 1,
         "persona": "mak",
@@ -35,20 +39,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4183,
         "file": "Event02/02-2S/02-2S-P04/02-2S-P04-002",
         "start": 3166
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4050,
         "persona": "Сэкаи",
         "start": 3233,
         "text": "Что?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4050,
         "file": "Voice02/02-2S/02-2S-P04/02-2S-P04-0040",
         "layer": 0,
         "persona": "sek",
@@ -56,23 +60,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6116,
         "file": "Event02/02-2S/02-2S-P04/02-2S-P04-003",
         "start": 4183
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5266,
         "persona": "Макото",
         "start": 4316,
         "text": "Я...^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5266,
         "file": "Voice02/02-2S/02-2S-P04/02-2S-P04-0050",
         "layer": 1,
         "persona": "mak",
         "start": 4316
+    },
+    {
+        "action": "Next",
+        "start": 6116
     }
 ]

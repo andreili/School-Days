@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 28033
+    },
+    {
         "action": "PlayBgm",
-        "end": 34000,
+        "end": 34033,
         "file": "BGM/SD_BGM/sdbgm07",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3200,
         "file": "Event03/03-SB/03-SB-F03/03-SB-F03-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 0,
+        "end": 333,
         "persona": "Макото",
         "start": 0,
         "text": "Я не могу.^"
     },
     {
         "action": "PlayVoice",
-        "end": 0,
+        "end": 333,
         "file": "Voice03/03-SB/03-SB-F03/03-SB-F03-0030",
         "layer": 1,
         "persona": "mak",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3266,
         "persona": "Котоноха",
         "start": 333,
         "text": "Серьёзно?^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3266,
         "file": "Voice03/03-SB/03-SB-F03/03-SB-F03-0040",
         "layer": 0,
         "persona": "kot",
@@ -43,20 +47,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9316,
         "file": "Event03/03-SB/03-SB-F03/03-SB-F03-002",
         "start": 3200
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7150,
         "persona": "Макото",
         "start": 3266,
         "text": "Я буду занят в классе весь день.^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7150,
         "file": "Voice03/03-SB/03-SB-F03/03-SB-F03-0050",
         "layer": 1,
         "persona": "mak",
@@ -64,14 +68,14 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9066,
         "persona": "Котоноха",
         "start": 7150,
         "text": "Понятно...^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9066,
         "file": "Voice03/03-SB/03-SB-F03/03-SB-F03-0060",
         "layer": 0,
         "persona": "kot",
@@ -79,14 +83,14 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9366,
         "persona": "Макото",
         "start": 9050,
         "text": "Прости.^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9366,
         "file": "Voice03/03-SB/03-SB-F03/03-SB-F03-0070",
         "layer": 1,
         "persona": "mak",
@@ -94,20 +98,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 16000,
+        "end": 16100,
         "file": "Event03/03-SB/03-SB-F03/03-SB-F03-003",
         "start": 9316
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13216,
         "persona": "Котоноха",
         "start": 9350,
         "text": "Ничего, тогда...^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13216,
         "file": "Voice03/03-SB/03-SB-F03/03-SB-F03-0080",
         "layer": 0,
         "persona": "kot",
@@ -115,14 +119,14 @@
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14083,
         "persona": "Макото",
         "start": 13216,
         "text": "М?^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14083,
         "file": "Voice03/03-SB/03-SB-F03/03-SB-F03-0090",
         "layer": 1,
         "persona": "mak",
@@ -130,14 +134,14 @@
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16083,
         "persona": "Котоноха",
         "start": 14083,
         "text": "Как насчёт вечера, ты со мной потанцуешь?^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16083,
         "file": "Voice03/03-SB/03-SB-F03/03-SB-F03-0100",
         "layer": 0,
         "persona": "kot",
@@ -145,14 +149,14 @@
     },
     {
         "action": "PrintText",
-        "end": 21000,
+        "end": 21016,
         "persona": "Макото",
         "start": 16083,
         "text": "Танцы у костра?^"
     },
     {
         "action": "PlayVoice",
-        "end": 21000,
+        "end": 21016,
         "file": "Voice03/03-SB/03-SB-F03/03-SB-F03-0110",
         "layer": 1,
         "persona": "mak",
@@ -160,20 +164,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 26000,
+        "end": 26300,
         "file": "Event03/03-SB/03-SB-F03/03-SB-F03-004",
         "start": 16100
     },
     {
         "action": "PrintText",
-        "end": 26000,
+        "end": 26316,
         "persona": "Котоноха",
         "start": 21033,
         "text": "Да. Ты пойдешь... со мной?^"
     },
     {
         "action": "PlayVoice",
-        "end": 26000,
+        "end": 26316,
         "file": "Voice03/03-SB/03-SB-F03/03-SB-F03-0120",
         "layer": 0,
         "persona": "kot",
@@ -181,20 +185,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 34000,
+        "end": 34033,
         "file": "Event03/03-SB/03-SB-F03/03-SB-F03-005",
         "start": 26300
     },
     {
         "action": "PrintText",
-        "end": 28000,
+        "end": 28033,
         "persona": "Макото",
         "start": 26316,
         "text": "М-м-м...^"
     },
     {
         "action": "PlayVoice",
-        "end": 28000,
+        "end": 28033,
         "file": "Voice03/03-SB/03-SB-F03/03-SB-F03-0130",
         "layer": 1,
         "persona": "mak",
@@ -204,7 +208,11 @@
         "action": "SetSELECT",
         "answer1": "Да, конечно!^",
         "answer2": "Нет!^",
-        "end": 33000,
+        "end": 33033,
         "start": 28033
+    },
+    {
+        "action": "Next",
+        "start": 34033
     }
 ]

@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 4050
+    },
+    {
         "action": "PlayBgm",
-        "end": 10000,
+        "end": 10116,
         "file": "BGM/SD_BGM/sdbgm20",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1050,
         "file": "Event04/04-KE/04-KE-B00/04-KE-B00-008",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1033,
         "persona": "Котоноха",
         "start": 0,
         "text": "Макото...^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1033,
         "file": "Voice04/04-KE/04-KE-B03/04-KE-B03-0030",
         "layer": 0,
         "persona": "kot",
@@ -28,20 +32,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 10000,
+        "end": 10116,
         "file": "Movie04/04-KE/04-KE-B03/04-KE-B03-002",
         "start": 1050
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4250,
         "persona": "Макото",
         "start": 3233,
         "text": "А?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4250,
         "file": "Voice04/04-KE/04-KE-B03/04-KE-B03-0050",
         "layer": 1,
         "persona": "mak",
@@ -51,7 +55,11 @@
         "action": "SetSELECT",
         "answer1": "Да.",
         "answer2": "Нет.",
-        "end": 9000,
+        "end": 9050,
         "start": 4050
+    },
+    {
+        "action": "Next",
+        "start": 10116
     }
 ]

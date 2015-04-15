@@ -1,52 +1,56 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 11350
+    },
+    {
         "action": "PlayBgm",
-        "end": 11000,
+        "end": 11350,
         "file": "BGM/SD_BGM/sdbgm20",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 2000,
+        "end": 2283,
         "file": "SysSe/SE_all/gaya/okujou",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2283,
         "file": "Event01/01-1K/01-1K-I00/01-1K-I00-001",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 11000,
+        "end": 11350,
         "file": "SysSe/SE_all/gaya/kyousitu_rouka",
         "layer": 2,
         "start": 2283
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5266,
         "file": "Event01/01-00/01-00-B05/01-00-B05-003",
         "start": 2283
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8183,
         "file": "Event01/01-1K/01-1K-I00/01-1K-I00-003",
         "start": 5283
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7216,
         "persona": "Макото",
         "start": 6166,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7216,
         "file": "Voice01/01-1K/01-1K-I00/01-1K-I00-0030",
         "layer": 1,
         "persona": "mak",
@@ -54,14 +58,18 @@
     },
     {
         "action": "CreateBG",
-        "end": 11000,
+        "end": 11350,
         "file": "Event01/01-1K/01-1K-I00/01-1K-I00-004",
         "start": 8183
     },
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 11000,
+        "end": 11350,
         "start": 10350
+    },
+    {
+        "action": "Next",
+        "start": 11350
     }
 ]

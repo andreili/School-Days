@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 5350
+    },
+    {
         "action": "PlayBgm",
-        "end": 5000,
+        "end": 5350,
         "file": "BGM/SD_BGM/sdbgm06",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5350,
         "file": "Event03/03-KA/03-KA-L07/03-KA-L07-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1033,
         "persona": "Макото",
         "start": 100,
         "text": "Хочу её увидеть.^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1033,
         "file": "Voice03/03-KA/03-KA-L07/03-KA-L07-0030",
         "layer": 1,
         "persona": "xxx",
@@ -28,17 +32,21 @@
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5316,
         "persona": "Макото",
         "start": 1383,
         "text": "Если помечтать, то я с Котонохой...^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5316,
         "file": "Voice03/03-KA/03-KA-L07/03-KA-L07-0040",
         "layer": 1,
         "persona": "xxx",
         "start": 1383
+    },
+    {
+        "action": "Next",
+        "start": 5350
     }
 ]

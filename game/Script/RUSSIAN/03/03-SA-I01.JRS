@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 21333
+    },
+    {
         "action": "PlayBgm",
-        "end": 21000,
+        "end": 21333,
         "file": "BGM/SD_BGM/sdbgm19",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 21000,
+        "end": 21333,
         "file": "Se03/03-SA/03-SA-I01/SE03-SA-I01-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 11000,
+        "end": 11283,
         "file": "Event03/03-SA/03-SA-I01/03-SA-I01-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1100,
         "persona": "Котоноха",
         "start": 0,
         "text": "Танцы...^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1100,
         "file": "Voice03/03-SA/03-SA-I01/03-SA-I01-0070",
         "layer": 0,
         "persona": "kot",
@@ -35,14 +39,14 @@
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10266,
         "persona": "Котоноха",
         "start": 1100,
         "text": "Я бы хотела с тобой потанцевать.^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10266,
         "file": "Voice03/03-SA/03-SA-I01/03-SA-I01-0090",
         "layer": 0,
         "persona": "kot",
@@ -50,20 +54,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 14000,
+        "end": 14100,
         "file": "Event03/03-SA/03-SA-I01/03-SA-I01-002",
         "start": 11283
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12283,
         "persona": "Макото",
         "start": 11283,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12283,
         "file": "Voice03/03-SA/03-SA-I01/03-SA-I01-0130",
         "layer": 1,
         "persona": "xxx",
@@ -71,14 +75,14 @@
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14083,
         "persona": "Сэкаи",
         "start": 12283,
         "text": "Макото!^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14083,
         "file": "Voice03/03-SA/03-SA-I01/03-SA-I01-0140",
         "layer": 0,
         "persona": "sek",
@@ -86,14 +90,14 @@
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16283,
         "persona": "Сэкаи",
         "start": 14083,
         "text": "Всё нормально? Ты выглядишь немного грустным.^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16283,
         "file": "Voice03/03-SA/03-SA-I01/03-SA-I01-0160",
         "layer": 0,
         "persona": "sek",
@@ -101,26 +105,26 @@
     },
     {
         "action": "CreateBG",
-        "end": 16000,
+        "end": 16283,
         "file": "Event03/03-SA/03-SA-I01/03-SA-I01-003",
         "start": 14100
     },
     {
         "action": "CreateBG",
-        "end": 21000,
+        "end": 21333,
         "file": "Event03/03-SA/03-SA-I01/03-SA-I01-004",
         "start": 16283
     },
     {
         "action": "PrintText",
-        "end": 18000,
+        "end": 18016,
         "persona": "Макото",
         "start": 16283,
         "text": "Нет, ничего.^"
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18016,
         "file": "Voice03/03-SA/03-SA-I01/03-SA-I01-0170",
         "layer": 1,
         "persona": "mak",
@@ -128,14 +132,14 @@
     },
     {
         "action": "PrintText",
-        "end": 21000,
+        "end": 21100,
         "persona": "Сэкаи",
         "start": 18016,
         "text": "Конечно, ты, наверное, устал за день.^"
     },
     {
         "action": "PlayVoice",
-        "end": 21000,
+        "end": 21100,
         "file": "Voice03/03-SA/03-SA-I01/03-SA-I01-0180",
         "layer": 0,
         "persona": "sek",
@@ -143,17 +147,21 @@
     },
     {
         "action": "PrintText",
-        "end": 21000,
+        "end": 21316,
         "persona": "Макото",
         "start": 21100,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 21000,
+        "end": 21316,
         "file": "Voice03/03-SA/03-SA-I01/03-SA-I01-0190",
         "layer": 1,
         "persona": "xxx",
         "start": 21100
+    },
+    {
+        "action": "Next",
+        "start": 21333
     }
 ]

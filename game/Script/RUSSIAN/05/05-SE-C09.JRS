@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 27016
+    },
+    {
         "action": "PlayBgm",
-        "end": 27000,
+        "end": 27016,
         "file": "BGM/SD_BGM/sdbgm21",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8366,
         "file": "Event05/05-SE/05-SE-C09/05-SE-C09-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1083,
         "persona": "Макото",
         "start": 0,
         "text": "Он ведь Таисукэ?^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1083,
         "file": "Voice05/05-SE/05-SE-C09/05-SE-C09-0030",
         "layer": 1,
         "persona": "mak",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5066,
         "persona": "Сэкаи",
         "start": 1083,
         "text": "Э?.. Н-нет!.. Твой!^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5066,
         "file": "Voice05/05-SE/05-SE-C09/05-SE-C09-0040",
         "layer": 0,
         "persona": "sek",
@@ -43,14 +47,14 @@
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8350,
         "persona": "Макото",
         "start": 5066,
         "text": "Не ври! Мне Котоноха рассказала!^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8350,
         "file": "Voice05/05-SE/05-SE-C09/05-SE-C09-0050",
         "layer": 1,
         "persona": "mak",
@@ -58,14 +62,14 @@
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13200,
         "persona": "Сэкаи",
         "start": 8350,
         "text": "Э?.. Но я ей ничего не рассказывала!..^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13200,
         "file": "Voice05/05-SE/05-SE-C09/05-SE-C09-0060",
         "layer": 0,
         "persona": "sek",
@@ -73,20 +77,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 27000,
+        "end": 27016,
         "file": "Event05/05-SE/05-SE-C08/05-SE-C08-005",
         "start": 8366
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16183,
         "persona": "Макото",
         "start": 13200,
         "text": "На втором месяце беременности постоянная слабость...^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16183,
         "file": "Voice05/05-SE/05-SE-C09/05-SE-C09-0070",
         "layer": 1,
         "persona": "mak",
@@ -94,17 +98,21 @@
     },
     {
         "action": "PrintText",
-        "end": 27000,
+        "end": 27016,
         "persona": "Сэкаи",
         "start": 16183,
         "text": "А... Я когда к гинекологу ходила, она же со мной была...^"
     },
     {
         "action": "PlayVoice",
-        "end": 27000,
+        "end": 27016,
         "file": "Voice05/05-SE/05-SE-C09/05-SE-C09-0080",
         "layer": 0,
         "persona": "sek",
         "start": 16183
+    },
+    {
+        "action": "Next",
+        "start": 27016
     }
 ]

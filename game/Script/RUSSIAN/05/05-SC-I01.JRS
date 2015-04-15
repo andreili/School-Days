@@ -1,14 +1,18 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 95250
+    },
+    {
         "action": "PlaySe",
-        "end": 95000,
+        "end": 95250,
         "file": "SysSe/SE_all/gaya/kyousitu_rouka",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4133,
         "file": "Event05/05-KB/05-KB-I01/05-KB-I01-001",
         "start": 0
     },
@@ -29,20 +33,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 15000,
+        "end": 15066,
         "file": "Event05/05-KB/05-KB-I01/05-KB-I01-003",
         "start": 4133
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9233,
         "persona": "Минами",
         "start": 6000,
         "text": "Да всё по тому же делу ушла к баскетбольной секции, они там все собираются.^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9233,
         "file": "Voice05/05-KB/05-KB-I01/05-KB-I01-0060",
         "layer": 0,
         "persona": "min",
@@ -50,14 +54,14 @@
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11333,
         "persona": "Куми",
         "start": 9233,
         "text": "Какая наша Отомэ занятая-то...^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11333,
         "file": "Voice05/05-KB/05-KB-I01/05-KB-I01-0070",
         "layer": 0,
         "persona": "kum",
@@ -65,14 +69,14 @@
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14100,
         "persona": "Минами",
         "start": 11316,
         "text": "Это ведь всё указание Канродзи из 3-го?^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14100,
         "file": "Voice05/05-KB/05-KB-I01/05-KB-I01-0080",
         "layer": 0,
         "persona": "min",
@@ -80,14 +84,14 @@
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17350,
         "persona": "Куми",
         "start": 14100,
         "text": "Кацура... Правда с ним встречалась?^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17350,
         "file": "Voice05/05-KB/05-KB-I01/05-KB-I01-0090",
         "layer": 0,
         "persona": "kum",
@@ -95,20 +99,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 35000,
+        "end": 35050,
         "file": "Movie05/05-KB/05-KB-I01/05-KB-I01-003",
         "start": 15066
     },
     {
         "action": "PrintText",
-        "end": 24000,
+        "end": 24333,
         "persona": "Минами",
         "start": 17366,
         "text": "Да какая теперь уже разница? Теперь она в пролёте, раз подружка этой Канродзи в него влюблена.^"
     },
     {
         "action": "PlayVoice",
-        "end": 24000,
+        "end": 24333,
         "file": "Voice05/05-KB/05-KB-I01/05-KB-I01-0100",
         "layer": 0,
         "persona": "min",
@@ -116,14 +120,14 @@
     },
     {
         "action": "PrintText",
-        "end": 26000,
+        "end": 26150,
         "persona": "Куми",
         "start": 24333,
         "text": "Жуть!^"
     },
     {
         "action": "PlayVoice",
-        "end": 26000,
+        "end": 26150,
         "file": "Voice05/05-KB/05-KB-I01/05-KB-I01-0110",
         "layer": 0,
         "persona": "kum",
@@ -131,14 +135,14 @@
     },
     {
         "action": "PrintText",
-        "end": 32000,
+        "end": 32083,
         "persona": "Нацуми",
         "start": 26150,
         "text": "Из 3-го... Как её там... А... Точно. Саиёндзи!^"
     },
     {
         "action": "PlayVoice",
-        "end": 32000,
+        "end": 32083,
         "file": "Voice05/05-KB/05-KB-I01/05-KB-I01-0120",
         "layer": 0,
         "persona": "nat",
@@ -146,14 +150,14 @@
     },
     {
         "action": "PrintText",
-        "end": 35000,
+        "end": 35050,
         "persona": "Куми",
         "start": 32100,
         "text": "Она этим балом заправляет?^"
     },
     {
         "action": "PlayVoice",
-        "end": 35000,
+        "end": 35050,
         "file": "Voice05/05-KB/05-KB-I01/05-KB-I01-0130",
         "layer": 0,
         "persona": "kum",
@@ -161,20 +165,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 39000,
+        "end": 39366,
         "file": "Event05/05-KB/05-KB-I01/05-KB-I01-004",
         "start": 35050
     },
     {
         "action": "PrintText",
-        "end": 38000,
+        "end": 38200,
         "persona": "Нацуми",
         "start": 35050,
         "text": "Заправляет?.. По-моему, мимо кассы.^"
     },
     {
         "action": "PlayVoice",
-        "end": 38000,
+        "end": 38200,
         "file": "Voice05/05-KB/05-KB-I01/05-KB-I01-0140",
         "layer": 0,
         "persona": "nat",
@@ -182,14 +186,14 @@
     },
     {
         "action": "PrintText",
-        "end": 39000,
+        "end": 39350,
         "persona": "Куми",
         "start": 38200,
         "text": "Думаешь?^"
     },
     {
         "action": "PlayVoice",
-        "end": 39000,
+        "end": 39350,
         "file": "Voice05/05-KB/05-KB-I01/05-KB-I01-0150",
         "layer": 0,
         "persona": "kum",
@@ -203,14 +207,14 @@
     },
     {
         "action": "PrintText",
-        "end": 47000,
+        "end": 47383,
         "persona": "Минами",
         "start": 39366,
         "text": "Ну... Теперь уже не только мы, но и баскетболистки с остальными девчонками с подачки Канродзи накинутся на Кацуру. Тяжко ей теперь будет.^"
     },
     {
         "action": "PlayVoice",
-        "end": 47000,
+        "end": 47383,
         "file": "Voice05/05-KB/05-KB-I01/05-KB-I01-0160",
         "layer": 0,
         "persona": "min",
@@ -218,20 +222,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 74000,
+        "end": 74116,
         "file": "Event05/05-KB/05-KB-I01/05-KB-I01-003",
         "start": 48000
     },
     {
         "action": "PrintText",
-        "end": 52000,
+        "end": 52366,
         "persona": "Нацуми",
         "start": 48000,
         "text": "Но... Парень из 3-го... Это ведь... Нашей Отомэ?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 52000,
+        "end": 52366,
         "file": "Voice05/05-KB/05-KB-I01/05-KB-I01-0170",
         "layer": 0,
         "persona": "nat",
@@ -239,14 +243,14 @@
     },
     {
         "action": "PrintText",
-        "end": 55000,
+        "end": 55066,
         "persona": "Куми",
         "start": 52366,
         "text": "Э... Правда?^"
     },
     {
         "action": "PlayVoice",
-        "end": 55000,
+        "end": 55066,
         "file": "Voice05/05-KB/05-KB-I01/05-KB-I01-0180",
         "layer": 0,
         "persona": "kum",
@@ -254,14 +258,14 @@
     },
     {
         "action": "PrintText",
-        "end": 57000,
+        "end": 57233,
         "persona": "Минами",
         "start": 55050,
         "text": "О, так значит, и она подсобит!^"
     },
     {
         "action": "PlayVoice",
-        "end": 57000,
+        "end": 57233,
         "file": "Voice05/05-KB/05-KB-I01/05-KB-I01-0190",
         "layer": 0,
         "persona": "min",
@@ -269,14 +273,14 @@
     },
     {
         "action": "PrintText",
-        "end": 62000,
+        "end": 62016,
         "persona": "Нацуми",
         "start": 57233,
         "text": "Такие дела... Помнишь, какое у Кацуры лицо было?^"
     },
     {
         "action": "PlayVoice",
-        "end": 62000,
+        "end": 62016,
         "file": "Voice05/05-KB/05-KB-I01/05-KB-I01-0200",
         "layer": 0,
         "persona": "nat",
@@ -284,14 +288,14 @@
     },
     {
         "action": "PrintText",
-        "end": 66000,
+        "end": 66083,
         "persona": "Минами",
         "start": 62016,
         "text": "Ага! Глаза от слёз красные!.. На славу поржала!^"
     },
     {
         "action": "PlayVoice",
-        "end": 66000,
+        "end": 66083,
         "file": "Voice05/05-KB/05-KB-I01/05-KB-I01-0210",
         "layer": 0,
         "persona": "min",
@@ -299,14 +303,14 @@
     },
     {
         "action": "PrintText",
-        "end": 70000,
+        "end": 70250,
         "persona": "Куми",
         "start": 66083,
         "text": "А нефиг такой короб было тащить!^"
     },
     {
         "action": "PlayVoice",
-        "end": 70000,
+        "end": 70250,
         "file": "Voice05/05-KB/05-KB-I01/05-KB-I01-0220",
         "layer": 0,
         "persona": "kum",
@@ -314,14 +318,14 @@
     },
     {
         "action": "PrintText",
-        "end": 71000,
+        "end": 71250,
         "persona": "Минами",
         "start": 70233,
         "text": "И не говори.^"
     },
     {
         "action": "PlayVoice",
-        "end": 71000,
+        "end": 71250,
         "file": "Voice05/05-KB/05-KB-I01/05-KB-I01-0230",
         "layer": 0,
         "persona": "min",
@@ -329,14 +333,14 @@
     },
     {
         "action": "PrintText",
-        "end": 74000,
+        "end": 74100,
         "persona": "Нацуми",
         "start": 71250,
         "text": "Куми-то его душевно отфутболила-то!^"
     },
     {
         "action": "PlayVoice",
-        "end": 74000,
+        "end": 74100,
         "file": "Voice05/05-KB/05-KB-I01/05-KB-I01-0240",
         "layer": 0,
         "persona": "nat",
@@ -344,20 +348,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 95000,
+        "end": 95250,
         "file": "Movie05/05-KB/05-KB-I01/05-KB-I01-007",
         "start": 74116
     },
     {
         "action": "PrintText",
-        "end": 80000,
+        "end": 80250,
         "persona": "Минами",
         "start": 74116,
         "text": "Я ей когда подножку поставила, с обедом-то ничего не сталось... Но после пинка Куми всё по классу разлетелось!^"
     },
     {
         "action": "PlayVoice",
-        "end": 80000,
+        "end": 80250,
         "file": "Voice05/05-KB/05-KB-I01/05-KB-I01-0250",
         "layer": 0,
         "persona": "min",
@@ -365,14 +369,14 @@
     },
     {
         "action": "PrintText",
-        "end": 85000,
+        "end": 85333,
         "persona": "Куми",
         "start": 80250,
         "text": "Сработай твоя, Минами, подножка как надо, мне бы и пинать не пришлось.^"
     },
     {
         "action": "PlayVoice",
-        "end": 85000,
+        "end": 85333,
         "file": "Voice05/05-KB/05-KB-I01/05-KB-I01-0260",
         "layer": 0,
         "persona": "kum",
@@ -380,14 +384,14 @@
     },
     {
         "action": "PrintText",
-        "end": 87000,
+        "end": 87266,
         "persona": "Минами",
         "start": 85333,
         "text": "Зато отлично справилась!^"
     },
     {
         "action": "PlayVoice",
-        "end": 87000,
+        "end": 87266,
         "file": "Voice05/05-KB/05-KB-I01/05-KB-I01-0270",
         "layer": 0,
         "persona": "min",
@@ -395,14 +399,14 @@
     },
     {
         "action": "PrintText",
-        "end": 90000,
+        "end": 90033,
         "persona": "Куми",
         "start": 87266,
         "text": "Ага! Прямо бомбардир!^"
     },
     {
         "action": "PlayVoice",
-        "end": 90000,
+        "end": 90033,
         "file": "Voice05/05-KB/05-KB-I01/05-KB-I01-0280",
         "layer": 0,
         "persona": "kum",
@@ -410,14 +414,14 @@
     },
     {
         "action": "PrintText",
-        "end": 92000,
+        "end": 92066,
         "persona": "Нацуми",
         "start": 90033,
         "text": "Хоть сейчас в футболисты!^"
     },
     {
         "action": "PlayVoice",
-        "end": 92000,
+        "end": 92066,
         "file": "Voice05/05-KB/05-KB-I01/05-KB-I01-0290",
         "layer": 0,
         "persona": "nat",
@@ -426,7 +430,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 95000,
+        "end": 95250,
         "start": 95050
+    },
+    {
+        "action": "Next",
+        "start": 95250
     }
 ]

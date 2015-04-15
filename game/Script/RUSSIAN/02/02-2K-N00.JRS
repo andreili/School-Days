@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 60100
+    },
+    {
         "action": "PlayBgm",
-        "end": 60000,
+        "end": 60100,
         "file": "BGM/SD_BGM/sdbgm20",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 60000,
+        "end": 60100,
         "file": "Se01/01-00/01-00-B00/SE01-00-B00-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5100,
         "file": "Event02/02-2K/02-2K-N00/02-2K-N00-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4200,
         "persona": "Хикари",
         "start": 0,
         "text": "Я сегодня немного проспала, поэтому пришла так поздно.^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4200,
         "file": "Voice02/02-2K/02-2K-N00/02-2K-N00-0030",
         "layer": 0,
         "persona": "hik",
@@ -35,14 +39,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6133,
         "persona": "Сэкаи",
         "start": 4200,
         "text": "Ну и что?^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6133,
         "file": "Voice02/02-2K/02-2K-N00/02-2K-N00-0040",
         "layer": 0,
         "persona": "sek",
@@ -50,20 +54,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6216,
         "file": "Event02/02-2K/02-2K-N00/02-2K-N00-002",
         "start": 5100
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12016,
         "persona": "Хикари",
         "start": 5333,
         "text": "Нет, ты слушай дальше! Я проспала, поэтому поехала на другом поезде и видела там Макото!^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12016,
         "file": "Voice02/02-2K/02-2K-N00/02-2K-N00-0060",
         "layer": 0,
         "persona": "hik",
@@ -71,7 +75,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 17000,
+        "end": 17133,
         "file": "Event02/02-2K/02-2K-N00/02-2K-N00-003",
         "start": 6216
     },
@@ -92,14 +96,14 @@
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17183,
         "persona": "Хикари",
         "start": 13066,
         "text": "Макото был не один, а c другой девочкой!^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17183,
         "file": "Voice02/02-2K/02-2K-N00/02-2K-N00-0080",
         "layer": 0,
         "persona": "hik",
@@ -107,20 +111,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 21000,
+        "end": 21350,
         "file": "Event02/02-2K/02-2K-N00/02-2K-N00-004",
         "start": 17133
     },
     {
         "action": "PrintText",
-        "end": 18000,
+        "end": 18166,
         "persona": "Сэкаи",
         "start": 17133,
         "text": "А...^"
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18166,
         "file": "Voice02/02-2K/02-2K-N00/02-2K-N00-0090",
         "layer": 0,
         "persona": "sek",
@@ -128,14 +132,14 @@
     },
     {
         "action": "PrintText",
-        "end": 21000,
+        "end": 21316,
         "persona": "Хикари",
         "start": 18166,
         "text": "Знаешь такую тихую девочку из 4 группы?^"
     },
     {
         "action": "PlayVoice",
-        "end": 21000,
+        "end": 21316,
         "file": "Voice02/02-2K/02-2K-N00/02-2K-N00-0100",
         "layer": 0,
         "persona": "hik",
@@ -143,20 +147,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 35000,
+        "end": 35383,
         "file": "Event02/02-2K/02-2K-N00/02-2K-N00-005",
         "start": 21350
     },
     {
         "action": "PrintText",
-        "end": 23000,
+        "end": 23283,
         "persona": "Сэкаи",
         "start": 21366,
         "text": "Да, знаю...^"
     },
     {
         "action": "PlayVoice",
-        "end": 23000,
+        "end": 23283,
         "file": "Voice02/02-2K/02-2K-N00/02-2K-N00-0110",
         "layer": 0,
         "persona": "sek",
@@ -164,14 +168,14 @@
     },
     {
         "action": "PrintText",
-        "end": 27000,
+        "end": 27083,
         "persona": "Хикари",
         "start": 23216,
         "text": "И они, похоже, поссорились!^"
     },
     {
         "action": "PlayVoice",
-        "end": 27000,
+        "end": 27083,
         "file": "Voice02/02-2K/02-2K-N00/02-2K-N00-0120",
         "layer": 0,
         "persona": "hik",
@@ -179,14 +183,14 @@
     },
     {
         "action": "PrintText",
-        "end": 28000,
+        "end": 28183,
         "persona": "Сэкаи",
         "start": 27116,
         "text": "Правда?^"
     },
     {
         "action": "PlayVoice",
-        "end": 28000,
+        "end": 28183,
         "file": "Voice02/02-2K/02-2K-N00/02-2K-N00-0130",
         "layer": 0,
         "persona": "sek",
@@ -194,14 +198,14 @@
     },
     {
         "action": "PrintText",
-        "end": 35000,
+        "end": 35333,
         "persona": "Хикари",
         "start": 28316,
         "text": "Макото к ней вроде как приставал, а она на него рассердилась! Кошмар, да?^"
     },
     {
         "action": "PlayVoice",
-        "end": 35000,
+        "end": 35333,
         "file": "Voice02/02-2K/02-2K-N00/02-2K-N00-0140",
         "layer": 0,
         "persona": "hik",
@@ -209,20 +213,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 46000,
+        "end": 46033,
         "file": "Event02/02-2K/02-2K-N00/02-2K-N00-006",
         "start": 35383
     },
     {
         "action": "PrintText",
-        "end": 38000,
+        "end": 38066,
         "persona": "Сэкаи",
         "start": 36000,
         "text": "Думаю, ничего такого не было...^"
     },
     {
         "action": "PlayVoice",
-        "end": 38000,
+        "end": 38066,
         "file": "Voice02/02-2K/02-2K-N00/02-2K-N00-0150",
         "layer": 0,
         "persona": "sek",
@@ -252,14 +256,14 @@
     },
     {
         "action": "PrintText",
-        "end": 44000,
+        "end": 44300,
         "persona": "Сэкаи",
         "start": 44000,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 44000,
+        "end": 44300,
         "file": "Voice02/02-2K/02-2K-N00/02-2K-N00-0170",
         "layer": 0,
         "persona": "xxx",
@@ -267,14 +271,14 @@
     },
     {
         "action": "PrintText",
-        "end": 50000,
+        "end": 50350,
         "persona": "Хикари",
         "start": 44300,
         "text": "Твой парень шляется незнамо с кем! Зачем ты вообще с ним встречаешься?^"
     },
     {
         "action": "PlayVoice",
-        "end": 50000,
+        "end": 50350,
         "file": "Voice02/02-2K/02-2K-N00/02-2K-N00-0180",
         "layer": 0,
         "persona": "hik",
@@ -282,20 +286,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 51000,
+        "end": 51383,
         "file": "Event02/02-2K/02-2K-N00/02-2K-N00-007",
         "start": 46033
     },
     {
         "action": "PrintText",
-        "end": 52000,
+        "end": 52183,
         "persona": "Сэкаи",
         "start": 50216,
         "text": "Я же уже говорила, мы с ним...^"
     },
     {
         "action": "PlayVoice",
-        "end": 52000,
+        "end": 52183,
         "file": "Voice02/02-2K/02-2K-N00/02-2K-N00-0190",
         "layer": 0,
         "persona": "sek",
@@ -303,20 +307,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 60000,
+        "end": 60100,
         "file": "Event02/02-2K/02-2K-N00/02-2K-N00-008",
         "start": 51383
     },
     {
         "action": "PrintText",
-        "end": 54000,
+        "end": 54116,
         "persona": "Ямамото",
         "start": 51383,
         "text": "Эй, что вы тут делаете! Занятие начинается!^"
     },
     {
         "action": "PlayVoice",
-        "end": 54000,
+        "end": 54116,
         "file": "Voice02/02-2K/02-2K-N00/02-2K-N00-0200",
         "layer": 1,
         "persona": "ymt",
@@ -324,14 +328,14 @@
     },
     {
         "action": "PrintText",
-        "end": 55000,
+        "end": 55383,
         "persona": "Хикари",
         "start": 54016,
         "text": "Блин, Ямамото.^"
     },
     {
         "action": "PlayVoice",
-        "end": 55000,
+        "end": 55383,
         "file": "Voice02/02-2K/02-2K-N00/02-2K-N00-0220",
         "layer": 0,
         "persona": "hik",
@@ -339,14 +343,14 @@
     },
     {
         "action": "PrintText",
-        "end": 56000,
+        "end": 56033,
         "persona": "Сэкаи",
         "start": 55183,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 56000,
+        "end": 56033,
         "file": "Voice02/02-2K/02-2K-N00/02-2K-N00-0230",
         "layer": 0,
         "persona": "sek",
@@ -354,14 +358,14 @@
     },
     {
         "action": "PrintText",
-        "end": 57000,
+        "end": 57383,
         "persona": "Ямамото",
         "start": 56100,
         "text": "Скорее займите свои места.^"
     },
     {
         "action": "PlayVoice",
-        "end": 57000,
+        "end": 57383,
         "file": "Voice02/02-2K/02-2K-N00/02-2K-N00-0240",
         "layer": 1,
         "persona": "ymt",
@@ -369,14 +373,14 @@
     },
     {
         "action": "PrintText",
-        "end": 59000,
+        "end": 59116,
         "persona": "Хикари",
         "start": 58050,
         "text": "Уже идём!^"
     },
     {
         "action": "PlayVoice",
-        "end": 59000,
+        "end": 59116,
         "file": "Voice02/02-2K/02-2K-N00/02-2K-N00-0250",
         "layer": 0,
         "persona": "hik",
@@ -385,7 +389,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 60000,
+        "end": 60100,
         "start": 59100
+    },
+    {
+        "action": "Next",
+        "start": 60100
     }
 ]

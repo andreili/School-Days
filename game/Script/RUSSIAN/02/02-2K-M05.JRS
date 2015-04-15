@@ -1,39 +1,43 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 5333
+    },
+    {
         "action": "PlayBgm",
-        "end": 5000,
+        "end": 5333,
         "file": "BGM/SD_BGM/sdbgm01",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 5000,
+        "end": 5333,
         "file": "Se01/01-1K/01-1K-F00/SE01-1K-F00-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "PlayMovie",
-        "end": 2000,
+        "end": 2066,
         "file": "Movie02/02-2K/02-2K-M05/02-2K-M05-001",
         "start": 0
     },
     {
         "action": "PlayMovie",
-        "end": 5000,
+        "end": 5333,
         "file": "Movie02/02-2K/02-2K-M05/02-2K-M05-003",
         "start": 2066
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4050,
         "persona": "Хикари",
         "start": 2250,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4050,
         "file": "Voice02/02-2K/02-2K-M05/02-2K-M05-0040",
         "layer": 0,
         "persona": "xxx",
@@ -42,7 +46,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 5000,
+        "end": 5333,
         "start": 4333
+    },
+    {
+        "action": "Next",
+        "start": 5333
     }
 ]

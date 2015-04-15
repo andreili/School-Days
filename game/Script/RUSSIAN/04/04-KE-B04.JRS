@@ -1,20 +1,24 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 5283
+    },
+    {
         "action": "PlayMovie",
-        "end": 5000,
+        "end": 5283,
         "file": "Movie04/04-KE/04-KE-B04/04-KE-B04-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1100,
         "persona": "Макото",
         "start": 0,
         "text": "Котоноха...^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1100,
         "file": "Voice04/04-KE/04-KE-B04/04-KE-B04-0030",
         "layer": 1,
         "persona": "mak",
@@ -22,14 +26,14 @@
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2300,
         "persona": "Котоноха",
         "start": 2083,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2300,
         "file": "Voice04/04-KE/04-KE-B04/04-KE-B04-0040",
         "layer": 0,
         "persona": "xxx",
@@ -37,17 +41,21 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4150,
         "persona": "Котоноха",
         "start": 2300,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4150,
         "file": "Voice04/04-KE/04-KE-B04/04-KE-B04-0060",
         "layer": 0,
         "persona": "kot",
         "start": 2300
+    },
+    {
+        "action": "Next",
+        "start": 5283
     }
 ]

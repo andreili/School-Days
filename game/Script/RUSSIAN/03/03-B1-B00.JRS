@@ -1,13 +1,17 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 8050
+    },
+    {
         "action": "PlayBgm",
-        "end": 8000,
+        "end": 8050,
         "file": "BGM/SD_BGM/sdbgm14",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 5000,
+        "end": 5133,
         "file": "Se03/03-BK/03-BK-D06/SE03-BK-D06-002",
         "layer": 1,
         "start": 0
@@ -20,20 +24,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 6000,
+        "end": 6283,
         "file": "Movie03/03-B1/03-B1-B00/03-B1-B00-002",
         "start": 2000
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5250,
         "persona": "Макото",
         "start": 2000,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5250,
         "file": "Voice03/03-B1/03-B1-B00/03-B1-B00-0050",
         "layer": 1,
         "persona": "mak",
@@ -42,26 +46,26 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 6000,
+        "end": 6283,
         "start": 4083
     },
     {
         "action": "PlaySe",
-        "end": 8000,
+        "end": 8050,
         "file": "Se03/03-BK/03-BK-D06/SE03-BK-D06-002",
         "layer": 2,
         "start": 5133
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7233,
         "persona": "Макото",
         "start": 5316,
         "text": "Котоноха...^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7233,
         "file": "Voice03/03-B1/03-B1-B00/03-B1-B00-0070",
         "layer": 1,
         "persona": "mak",
@@ -69,8 +73,12 @@
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8050,
         "file": "Event03/03-AK/03-AK-B00/03-AK-B00-003",
         "start": 6283
+    },
+    {
+        "action": "Next",
+        "start": 8050
     }
 ]

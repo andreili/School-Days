@@ -1,7 +1,11 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 225050
+    },
+    {
         "action": "PlayBgm",
-        "end": 231000,
+        "end": 231100,
         "file": "BGM/SD_BGM/sdbgm07",
         "start": 0
     },
@@ -13,20 +17,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4200,
         "file": "Event01/01-1K/01-1K-C00/00-00-F00-010WIN",
         "start": 2000
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3016,
         "persona": "Макото",
         "start": 2000,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3016,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0040",
         "layer": 1,
         "persona": "xxx",
@@ -34,14 +38,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4150,
         "persona": "Сэкаи",
         "start": 3283,
         "text": "Аллё.^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4150,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0050",
         "layer": 0,
         "persona": "sek",
@@ -49,20 +53,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9283,
         "file": "Event00/00-00/00-00-H00/00-00-H00-003",
         "start": 4200
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6333,
         "persona": "Макото",
         "start": 4200,
         "text": "Сэкаи? Это я...^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6333,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0060",
         "layer": 1,
         "persona": "mak",
@@ -70,14 +74,14 @@
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7166,
         "persona": "Сэкаи",
         "start": 6216,
         "text": "Ага.^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7166,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0070",
         "layer": 0,
         "persona": "sek",
@@ -85,14 +89,14 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9150,
         "persona": "Макото",
         "start": 7216,
         "text": "Можешь говорить?^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9150,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0080",
         "layer": 1,
         "persona": "mak",
@@ -100,20 +104,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 13000,
+        "end": 13333,
         "file": "Event01/01-1K/01-1K-C00/01-1K-C00-005",
         "start": 9283
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13333,
         "persona": "Сэкаи",
         "start": 11283,
         "text": "Я... Да, могу.^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13333,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0110",
         "layer": 0,
         "persona": "sek",
@@ -121,20 +125,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 21000,
+        "end": 21050,
         "file": "Event01/01-1K/01-1K-C00/01-1K-C00-018",
         "start": 13333
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17383,
         "persona": "Макото",
         "start": 13333,
         "text": "Спасибо за купон.^"
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18033,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0130",
         "layer": 1,
         "persona": "mak",
@@ -142,14 +146,14 @@
     },
     {
         "action": "PrintText",
-        "end": 21000,
+        "end": 21050,
         "persona": "Сэкаи",
         "start": 17383,
         "text": "Извини, что не билеты.^"
     },
     {
         "action": "PlayVoice",
-        "end": 21000,
+        "end": 21050,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0140",
         "layer": 0,
         "persona": "sek",
@@ -170,14 +174,14 @@
     },
     {
         "action": "PrintText",
-        "end": 26000,
+        "end": 26333,
         "persona": "Макото",
         "start": 21050,
         "text": "Да это ладно. Я вот думаю, на какой фильм пойти...^"
     },
     {
         "action": "PlayVoice",
-        "end": 26000,
+        "end": 26333,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0150",
         "layer": 1,
         "persona": "mak",
@@ -185,14 +189,14 @@
     },
     {
         "action": "PrintText",
-        "end": 27000,
+        "end": 27150,
         "persona": "Сэкаи",
         "start": 26333,
         "text": "А?^"
     },
     {
         "action": "PlayVoice",
-        "end": 27000,
+        "end": 27150,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0160",
         "layer": 0,
         "persona": "sek",
@@ -207,14 +211,14 @@
     },
     {
         "action": "PrintText",
-        "end": 34000,
+        "end": 34133,
         "persona": "Макото",
         "start": 29000,
         "text": "Сейчас в кино много чего показывают.^"
     },
     {
         "action": "PlayVoice",
-        "end": 34000,
+        "end": 34133,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0170",
         "layer": 1,
         "persona": "mak",
@@ -222,20 +226,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 44000,
+        "end": 44316,
         "file": "Event01/01-1K/01-1K-C00/01-1K-C00-007",
         "start": 34133
     },
     {
         "action": "PrintText",
-        "end": 36000,
+        "end": 36366,
         "persona": "Сэкаи",
         "start": 34133,
         "text": "Может, ты у Кацуры спросишь?^"
     },
     {
         "action": "PlayVoice",
-        "end": 36000,
+        "end": 36366,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0180",
         "layer": 0,
         "persona": "sek",
@@ -243,14 +247,14 @@
     },
     {
         "action": "PrintText",
-        "end": 39000,
+        "end": 39133,
         "persona": "Макото",
         "start": 36383,
         "text": "Не могу! Это всё испортит!^"
     },
     {
         "action": "PlayVoice",
-        "end": 39000,
+        "end": 39133,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0190",
         "layer": 1,
         "persona": "mak",
@@ -258,14 +262,14 @@
     },
     {
         "action": "PrintText",
-        "end": 41000,
+        "end": 41166,
         "persona": "Сэкаи",
         "start": 39133,
         "text": "Ну, выбери сам, почему ты меня-то спрашиваешь?^"
     },
     {
         "action": "PlayVoice",
-        "end": 41000,
+        "end": 41166,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0200",
         "layer": 0,
         "persona": "sek",
@@ -273,14 +277,14 @@
     },
     {
         "action": "PrintText",
-        "end": 44000,
+        "end": 44316,
         "persona": "Макото",
         "start": 41116,
         "text": "Ну, ты же девушка, сможешь мне что-нибудь посоветовать.^"
     },
     {
         "action": "PlayVoice",
-        "end": 44000,
+        "end": 44316,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0210",
         "layer": 1,
         "persona": "mak",
@@ -288,20 +292,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 50000,
+        "end": 50116,
         "file": "Event01/01-1K/01-1K-C00/01-1K-C00-013A",
         "start": 44316
     },
     {
         "action": "PrintText",
-        "end": 50000,
+        "end": 50116,
         "persona": "Сэкаи",
         "start": 44316,
         "text": "А вдруг я специально выберу то, что ей не понравится?^"
     },
     {
         "action": "PlayVoice",
-        "end": 50000,
+        "end": 50116,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0220",
         "layer": 0,
         "persona": "sek",
@@ -309,7 +313,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 56000,
+        "end": 56050,
         "file": "Event01/01-1K/01-1K-C00/01-1K-C00-013B",
         "start": 50116
     },
@@ -330,14 +334,14 @@
     },
     {
         "action": "PrintText",
-        "end": 56000,
+        "end": 56050,
         "persona": "Сэкаи",
         "start": 52000,
         "text": "Ладно, что там идёт?^"
     },
     {
         "action": "PlayVoice",
-        "end": 56000,
+        "end": 56050,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0240",
         "layer": 0,
         "persona": "sek",
@@ -365,14 +369,14 @@
     },
     {
         "action": "PrintText",
-        "end": 63000,
+        "end": 63150,
         "persona": "Макото",
         "start": 56050,
         "text": "Так... «Сильмариллион»... Похоже, фэнтези какое-то...^"
     },
     {
         "action": "PlayVoice",
-        "end": 63000,
+        "end": 63150,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0250",
         "layer": 1,
         "persona": "mak",
@@ -380,20 +384,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 65000,
+        "end": 65183,
         "file": "Event01/01-1K/01-1K-C00/01-1K-C00-013A",
         "start": 63166
     },
     {
         "action": "PrintText",
-        "end": 65000,
+        "end": 65166,
         "persona": "Сэкаи",
         "start": 63166,
         "text": "Ага... Фэнтези.^"
     },
     {
         "action": "PlayVoice",
-        "end": 65000,
+        "end": 65166,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0260",
         "layer": 0,
         "persona": "sek",
@@ -408,14 +412,14 @@
     },
     {
         "action": "PrintText",
-        "end": 71000,
+        "end": 71233,
         "persona": "Макото",
         "start": 65183,
         "text": "Потом «Любовный треугольник»... Что-то про любовь?^"
     },
     {
         "action": "PlayMovie",
-        "end": 75000,
+        "end": 75183,
         "file": "Movie01/01-1K/01-1K-C00/LOVE10S",
         "start": 65183
     },
@@ -428,7 +432,7 @@
     },
     {
         "action": "PlayVoice",
-        "end": 71000,
+        "end": 71366,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0270",
         "layer": 1,
         "persona": "mak",
@@ -436,27 +440,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 77000,
+        "end": 77366,
         "file": "Event01/01-1K/01-1K-C00/01-1K-C00-018",
         "start": 71250
     },
     {
         "action": "PrintText",
-        "end": 75000,
+        "end": 75350,
         "persona": "Сэкаи",
         "start": 71250,
         "text": "Да, знаю это кино, по телеку рекламу крутили.^"
     },
     {
         "action": "PrintText",
-        "end": 77000,
+        "end": 77350,
         "persona": "Сэкаи",
         "start": 75350,
         "text": "Любовная драма...^"
     },
     {
         "action": "PlayVoice",
-        "end": 77000,
+        "end": 77350,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0280",
         "layer": 0,
         "persona": "sek",
@@ -471,34 +475,34 @@
     },
     {
         "action": "PlayMovie",
-        "end": 87000,
+        "end": 87050,
         "file": "Movie01/01-1K/01-1K-C00/NEMO10S",
         "start": 77366
     },
     {
         "action": "PlaySe",
-        "end": 87000,
+        "end": 87050,
         "file": "Se01/01-1K/01-1K-C00/10SEK",
         "layer": 1,
         "start": 77366
     },
     {
         "action": "PrintText",
-        "end": 85000,
+        "end": 85366,
         "persona": "Макото",
         "start": 77366,
         "text": "Ещё компьютерный мультик «Война Немо».^"
     },
     {
         "action": "PrintText",
-        "end": 87000,
+        "end": 87050,
         "persona": "Макото",
         "start": 85366,
         "text": "Кажется, это комедия.^"
     },
     {
         "action": "PlayVoice",
-        "end": 87000,
+        "end": 87050,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0290",
         "layer": 1,
         "persona": "mak",
@@ -506,13 +510,13 @@
     },
     {
         "action": "CreateBG",
-        "end": 89000,
+        "end": 89133,
         "file": "Event01/01-1K/01-1K-C00/01-1K-C00-018",
         "start": 87050
     },
     {
         "action": "PlayVoice",
-        "end": 89000,
+        "end": 89133,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0070",
         "layer": 0,
         "persona": "sek",
@@ -520,14 +524,14 @@
     },
     {
         "action": "PrintText",
-        "end": 89000,
+        "end": 89116,
         "persona": "Сэкаи",
         "start": 87050,
         "text": "Классный мультфильм! Немо!^"
     },
     {
         "action": "PlayVoice",
-        "end": 89000,
+        "end": 89116,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0300",
         "layer": 0,
         "persona": "sek",
@@ -535,7 +539,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 105000,
+        "end": 105216,
         "file": "Event01/01-1K/01-1K-C00/01-1K-C00-012B",
         "start": 89133
     },
@@ -556,14 +560,14 @@
     },
     {
         "action": "PrintText",
-        "end": 94000,
+        "end": 94150,
         "persona": "Сэкаи",
         "start": 91016,
         "text": "Ну и что! Мне нравится.^"
     },
     {
         "action": "PlayVoice",
-        "end": 94000,
+        "end": 94150,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0320",
         "layer": 0,
         "persona": "sek",
@@ -586,14 +590,14 @@
     },
     {
         "action": "PrintText",
-        "end": 97000,
+        "end": 97266,
         "persona": "Сэкаи",
         "start": 96000,
         "text": "М...^"
     },
     {
         "action": "PlayVoice",
-        "end": 97000,
+        "end": 97266,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0340",
         "layer": 0,
         "persona": "sek",
@@ -601,14 +605,14 @@
     },
     {
         "action": "PrintText",
-        "end": 101000,
+        "end": 101133,
         "persona": "Макото",
         "start": 97266,
         "text": "Нет? Тогда...^"
     },
     {
         "action": "PlayVoice",
-        "end": 101000,
+        "end": 101133,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0350",
         "layer": 1,
         "persona": "mak",
@@ -616,14 +620,14 @@
     },
     {
         "action": "PrintText",
-        "end": 103000,
+        "end": 103183,
         "persona": "Сэкаи",
         "start": 101166,
         "text": "А тебе самому какой фильм нравится?^"
     },
     {
         "action": "PlayVoice",
-        "end": 103000,
+        "end": 103183,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0360",
         "layer": 0,
         "persona": "sek",
@@ -631,14 +635,14 @@
     },
     {
         "action": "PrintText",
-        "end": 105000,
+        "end": 105200,
         "persona": "Макото",
         "start": 103083,
         "text": "Я не знаю! Потому тебя и спрашиваю!^"
     },
     {
         "action": "PlayVoice",
-        "end": 105000,
+        "end": 105200,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0370",
         "layer": 1,
         "persona": "mak",
@@ -646,20 +650,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 110000,
+        "end": 110016,
         "file": "Event01/01-1K/01-1K-C00/01-1K-C00-018",
         "start": 105216
     },
     {
         "action": "PrintText",
-        "end": 108000,
+        "end": 108083,
         "persona": "Сэкаи",
         "start": 105216,
         "text": "Лучше подумай не о том, что хочет посмотреть Кацура.^"
     },
     {
         "action": "PlayVoice",
-        "end": 108000,
+        "end": 108083,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0380",
         "layer": 0,
         "persona": "sek",
@@ -667,14 +671,14 @@
     },
     {
         "action": "PrintText",
-        "end": 110000,
+        "end": 110016,
         "persona": "Макото",
         "start": 108083,
         "text": "В смысле, что я хочу посмотреть?^"
     },
     {
         "action": "PlayVoice",
-        "end": 110000,
+        "end": 110016,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0390",
         "layer": 1,
         "persona": "mak",
@@ -688,21 +692,21 @@
     },
     {
         "action": "PrintText",
-        "end": 113000,
+        "end": 113050,
         "persona": "Сэкаи",
         "start": 110016,
         "text": "Нет, это тоже немного не то...^"
     },
     {
         "action": "PrintText",
-        "end": 117000,
+        "end": 117050,
         "persona": "Сэкаи",
         "start": 113050,
         "text": "Подумай, на какой фильм вы бы хотели пойти вместе?^"
     },
     {
         "action": "PlayVoice",
-        "end": 117000,
+        "end": 117050,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0400",
         "layer": 0,
         "persona": "sek",
@@ -710,14 +714,14 @@
     },
     {
         "action": "PrintText",
-        "end": 119000,
+        "end": 119233,
         "persona": "Макото",
         "start": 117066,
         "text": "Вместе...^"
     },
     {
         "action": "PlayVoice",
-        "end": 119000,
+        "end": 119233,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0410",
         "layer": 1,
         "persona": "mak",
@@ -725,14 +729,14 @@
     },
     {
         "action": "PrintText",
-        "end": 120000,
+        "end": 120050,
         "persona": "Сэкаи",
         "start": 119233,
         "text": "Да!^"
     },
     {
         "action": "PlayVoice",
-        "end": 120000,
+        "end": 120050,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0420",
         "layer": 0,
         "persona": "sek",
@@ -740,14 +744,14 @@
     },
     {
         "action": "PrintText",
-        "end": 122000,
+        "end": 122083,
         "persona": "Макото",
         "start": 120050,
         "text": "Вместе...^"
     },
     {
         "action": "PlayVoice",
-        "end": 122000,
+        "end": 122083,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0430",
         "layer": 1,
         "persona": "mak",
@@ -755,14 +759,14 @@
     },
     {
         "action": "PrintText",
-        "end": 124000,
+        "end": 124116,
         "persona": "Сэкаи",
         "start": 122083,
         "text": "Думай давай!^"
     },
     {
         "action": "PlayVoice",
-        "end": 124000,
+        "end": 124116,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0440",
         "layer": 0,
         "persona": "sek",
@@ -785,14 +789,14 @@
     },
     {
         "action": "PrintText",
-        "end": 128000,
+        "end": 128050,
         "persona": "Сэкаи",
         "start": 127000,
         "text": "Ладно, я кладу трубку.^"
     },
     {
         "action": "PlayVoice",
-        "end": 128000,
+        "end": 128050,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0460",
         "layer": 0,
         "persona": "sek",
@@ -800,20 +804,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 133000,
+        "end": 133033,
         "file": "Event01/01-1K/01-1K-C00/01-1K-C00-012B",
         "start": 128000
     },
     {
         "action": "PrintText",
-        "end": 131000,
+        "end": 131233,
         "persona": "Макото",
         "start": 128000,
         "text": "Эй! Подожди! Ты ведь так мне ничего и не подсказала!^"
     },
     {
         "action": "PlayVoice",
-        "end": 131000,
+        "end": 131233,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0470",
         "layer": 1,
         "persona": "mak",
@@ -821,14 +825,14 @@
     },
     {
         "action": "PrintText",
-        "end": 132000,
+        "end": 132116,
         "persona": "Сэкаи",
         "start": 131066,
         "text": "Подсказала!^"
     },
     {
         "action": "PlayVoice",
-        "end": 132000,
+        "end": 132116,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0480",
         "layer": 0,
         "persona": "sek",
@@ -836,14 +840,14 @@
     },
     {
         "action": "PrintText",
-        "end": 133000,
+        "end": 133100,
         "persona": "Макото",
         "start": 132033,
         "text": "И что?^"
     },
     {
         "action": "PlayVoice",
-        "end": 133000,
+        "end": 133100,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0490",
         "layer": 1,
         "persona": "mak",
@@ -851,27 +855,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 141000,
+        "end": 141250,
         "file": "Event01/01-1K/01-1K-C00/01-1K-C00-013A",
         "start": 133033
     },
     {
         "action": "PrintText",
-        "end": 135000,
+        "end": 135050,
         "persona": "Сэкаи",
         "start": 133033,
         "text": "Слушай, да не важно на самом деле,^"
     },
     {
         "action": "PrintText",
-        "end": 137000,
+        "end": 137050,
         "persona": "Сэкаи",
         "start": 135033,
         "text": "на какой фильм вы пойдёте. Главное...^"
     },
     {
         "action": "PlayVoice",
-        "end": 137000,
+        "end": 137050,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0500",
         "layer": 0,
         "persona": "sek",
@@ -879,14 +883,14 @@
     },
     {
         "action": "PrintText",
-        "end": 145000,
+        "end": 145366,
         "persona": "Сэкаи",
         "start": 137050,
         "text": "В полумраке кинозала ваши пальцы соприкасаются...^"
     },
     {
         "action": "PlayVoice",
-        "end": 145000,
+        "end": 145366,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0501",
         "layer": 0,
         "persona": "sek",
@@ -894,40 +898,40 @@
     },
     {
         "action": "CreateBG",
-        "end": 145000,
+        "end": 145383,
         "file": "Event01/01-1K/01-1K-C00/01-1K-C00-013B",
         "start": 141250
     },
     {
         "action": "CreateBG",
-        "end": 156000,
+        "end": 156200,
         "file": "Event01/01-1K/01-1K-C00/00-00-F00-010WIN",
         "start": 145383
     },
     {
         "action": "PrintText",
-        "end": 150000,
+        "end": 150166,
         "persona": "Сэкаи",
         "start": 145383,
         "text": "И вот вы уже смотрите не на экран,^"
     },
     {
         "action": "PrintText",
-        "end": 154000,
+        "end": 154250,
         "persona": "Сэкаи",
         "start": 150166,
         "text": "а только друг на друга и...^"
     },
     {
         "action": "PrintText",
-        "end": 156000,
+        "end": 156250,
         "persona": "Сэкаи",
         "start": 154250,
         "text": "Целуетесь!^"
     },
     {
         "action": "PlayVoice",
-        "end": 156000,
+        "end": 156250,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0520",
         "layer": 0,
         "persona": "sek",
@@ -935,20 +939,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 174000,
+        "end": 174166,
         "file": "Event01/01-1K/01-1K-C00/01-1K-C00-013B",
         "start": 156200
     },
     {
         "action": "PrintText",
-        "end": 159000,
+        "end": 159250,
         "persona": "Макото",
         "start": 156200,
         "text": "Хватит прикалываться! Ничего такого не будет!^"
     },
     {
         "action": "PlayVoice",
-        "end": 159000,
+        "end": 159250,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0530",
         "layer": 1,
         "persona": "mak",
@@ -956,14 +960,14 @@
     },
     {
         "action": "PrintText",
-        "end": 161000,
+        "end": 161250,
         "persona": "Сэкаи",
         "start": 159166,
         "text": "Конечно будет! Ты же на свидание идёшь!^"
     },
     {
         "action": "PlayVoice",
-        "end": 161000,
+        "end": 161250,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0540",
         "layer": 0,
         "persona": "sek",
@@ -971,14 +975,14 @@
     },
     {
         "action": "PrintText",
-        "end": 165000,
+        "end": 165250,
         "persona": "Макото",
         "start": 161216,
         "text": "И что, на свиданиях всегда так делают?^"
     },
     {
         "action": "PlayVoice",
-        "end": 165000,
+        "end": 165250,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0550",
         "layer": 1,
         "persona": "mak",
@@ -986,14 +990,14 @@
     },
     {
         "action": "PrintText",
-        "end": 168000,
+        "end": 168350,
         "persona": "Сэкаи",
         "start": 165183,
         "text": "Ну, иногда целуются.^"
     },
     {
         "action": "PlayVoice",
-        "end": 168000,
+        "end": 168350,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0560",
         "layer": 0,
         "persona": "sek",
@@ -1001,14 +1005,14 @@
     },
     {
         "action": "PrintText",
-        "end": 169000,
+        "end": 169250,
         "persona": "Макото",
         "start": 168233,
         "text": "Ты серьёзно?^"
     },
     {
         "action": "PlayVoice",
-        "end": 169000,
+        "end": 169250,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0570",
         "layer": 1,
         "persona": "mak",
@@ -1016,14 +1020,14 @@
     },
     {
         "action": "PrintText",
-        "end": 174000,
+        "end": 174100,
         "persona": "Сэкаи",
         "start": 169233,
         "text": "Ну, если ты, конечно, хочешь её целовать.^"
     },
     {
         "action": "PlayVoice",
-        "end": 174000,
+        "end": 174100,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0580",
         "layer": 0,
         "persona": "sek",
@@ -1031,7 +1035,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 190000,
+        "end": 190116,
         "file": "Event01/01-1K/01-1K-C00/00-00-F00-010WIN",
         "start": 174166
     },
@@ -1044,14 +1048,14 @@
     },
     {
         "action": "PrintText",
-        "end": 179000,
+        "end": 179333,
         "persona": "Макото",
         "start": 177000,
         "text": "что Котонохе это понравится?^"
     },
     {
         "action": "PlayVoice",
-        "end": 179000,
+        "end": 179333,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0590",
         "layer": 1,
         "persona": "mak",
@@ -1059,21 +1063,21 @@
     },
     {
         "action": "PrintText",
-        "end": 185000,
+        "end": 185216,
         "persona": "Сэкаи",
         "start": 179333,
         "text": "Ну, если бы ты ей не нравился,^"
     },
     {
         "action": "PrintText",
-        "end": 190000,
+        "end": 190216,
         "persona": "Сэкаи",
         "start": 185216,
         "text": "она бы и в кино с тобой не пошла.^"
     },
     {
         "action": "PlayVoice",
-        "end": 190000,
+        "end": 190216,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0600",
         "layer": 0,
         "persona": "sek",
@@ -1081,20 +1085,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 195000,
+        "end": 195166,
         "file": "Event01/01-1K/01-1K-C00/01-1K-C00-016",
         "start": 190116
     },
     {
         "action": "PrintText",
-        "end": 193000,
+        "end": 193383,
         "persona": "Макото",
         "start": 190116,
         "text": "Да, наверное, ты права...^"
     },
     {
         "action": "PlayVoice",
-        "end": 193000,
+        "end": 193383,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0610",
         "layer": 1,
         "persona": "mak",
@@ -1102,14 +1106,14 @@
     },
     {
         "action": "PrintText",
-        "end": 195000,
+        "end": 195300,
         "persona": "Сэкаи",
         "start": 193383,
         "text": "Какой же ты доверчивый!^"
     },
     {
         "action": "PlayVoice",
-        "end": 195000,
+        "end": 195300,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0620",
         "layer": 0,
         "persona": "sek",
@@ -1117,20 +1121,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 203000,
+        "end": 203333,
         "file": "Event01/01-1K/01-1K-C00/01-1K-C00-017",
         "start": 195166
     },
     {
         "action": "PrintText",
-        "end": 197000,
+        "end": 197116,
         "persona": "Макото",
         "start": 195233,
         "text": "А? Э! Что?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 197000,
+        "end": 197116,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0630",
         "layer": 1,
         "persona": "mak",
@@ -1138,14 +1142,14 @@
     },
     {
         "action": "PrintText",
-        "end": 203000,
+        "end": 203383,
         "persona": "Сэкаи",
         "start": 197183,
         "text": "Слушай, я уже спать ложусь. Так что дальше сам думай.^"
     },
     {
         "action": "PlayVoice",
-        "end": 203000,
+        "end": 203383,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0640",
         "layer": 0,
         "persona": "sek",
@@ -1153,20 +1157,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 207000,
+        "end": 207016,
         "file": "Event01/01-1K/01-1K-C00/01-1K-C00-018",
         "start": 203333
     },
     {
         "action": "PrintText",
-        "end": 205000,
+        "end": 205350,
         "persona": "Макото",
         "start": 203333,
         "text": "Эй! Подожди! Я ещё хотел спросить!^"
     },
     {
         "action": "PlayVoice",
-        "end": 205000,
+        "end": 205350,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0650",
         "layer": 1,
         "persona": "mak",
@@ -1174,20 +1178,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 231000,
+        "end": 231100,
         "file": "Event01/01-1K/01-1K-C00/00-00-F00-010WIN",
         "start": 207016
     },
     {
         "action": "PrintText",
-        "end": 214000,
+        "end": 214183,
         "persona": "Макото",
         "start": 210250,
         "text": "Чёрт! Что это на неё нашло...^"
     },
     {
         "action": "PlayVoice",
-        "end": 214000,
+        "end": 214183,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0670",
         "layer": 1,
         "persona": "mak",
@@ -1195,14 +1199,14 @@
     },
     {
         "action": "PrintText",
-        "end": 217000,
+        "end": 217016,
         "persona": "Макото",
         "start": 215200,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 217000,
+        "end": 217016,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0680",
         "layer": 1,
         "persona": "xxx",
@@ -1210,14 +1214,14 @@
     },
     {
         "action": "PrintText",
-        "end": 221000,
+        "end": 221300,
         "persona": "Макото",
         "start": 217200,
         "text": "Значит, фильм, который стоит посмотреть вдвоём...^"
     },
     {
         "action": "PlayVoice",
-        "end": 221000,
+        "end": 221300,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0690",
         "layer": 1,
         "persona": "mak",
@@ -1225,14 +1229,14 @@
     },
     {
         "action": "PrintText",
-        "end": 225000,
+        "end": 225216,
         "persona": "Макото",
         "start": 223000,
         "text": "На какой же мне пойти...^"
     },
     {
         "action": "PlayVoice",
-        "end": 225000,
+        "end": 225216,
         "file": "Voice01/01-1K/01-1K-C00/01-1K-C00-0700",
         "layer": 1,
         "persona": "mak",
@@ -1242,7 +1246,11 @@
         "action": "SetSELECT",
         "answer1": "На «Сильмариллион».^",
         "answer2": "На «Любовный треугольник».^",
-        "end": 230000,
+        "end": 230050,
         "start": 225050
+    },
+    {
+        "action": "Next",
+        "start": 231100
     }
 ]

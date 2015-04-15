@@ -1,39 +1,43 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 105100
+    },
+    {
         "action": "PlayBgm",
-        "end": 105000,
+        "end": 105100,
         "file": "BGM/SD_BGM/sdbgm18",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 104000,
+        "end": 104050,
         "file": "Se03/03-KB/03-KB-I04/SE03-KB-I04-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2233,
         "file": "Event03/03-KB/03-KB-I04/03-KB-I04-001",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8083,
         "file": "Event03/03-KB/03-KB-I04/03-KB-I04-002",
         "start": 2233
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8066,
         "persona": "Котоноха",
         "start": 2233,
         "text": "Добро пожаловать в наш страшный дом с привидениями! Пожалуйста проходите!^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8066,
         "file": "Voice03/03-KB/03-KB-I04/03-KB-I04-0050",
         "layer": 0,
         "persona": "kot",
@@ -41,14 +45,14 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9183,
         "persona": "Куми",
         "start": 8066,
         "text": "Кацура...^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9183,
         "file": "Voice03/03-KB/03-KB-I04/03-KB-I04-0070",
         "layer": 0,
         "persona": "kum",
@@ -56,20 +60,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9183,
         "file": "Event03/03-KB/03-KB-I04/03-KB-I04-003",
         "start": 8083
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10283,
         "persona": "Котоноха",
         "start": 9166,
         "text": "Да?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10283,
         "file": "Voice03/03-KB/03-KB-I04/03-KB-I04-0090",
         "layer": 0,
         "persona": "kot",
@@ -77,7 +81,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12283,
         "file": "Event03/03-KB/03-KB-I04/03-KB-I04-004",
         "start": 9183
     },
@@ -98,14 +102,14 @@
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12283,
         "persona": "Котоноха",
         "start": 12000,
         "text": "Э?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12283,
         "file": "Voice03/03-KB/03-KB-I04/03-KB-I04-0110",
         "layer": 0,
         "persona": "kot",
@@ -113,20 +117,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 17000,
+        "end": 17166,
         "file": "Event03/03-KB/03-KB-I04/03-KB-I04-005",
         "start": 12283
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16250,
         "persona": "Куми",
         "start": 12283,
         "text": "Ну, под столом лежит! Достань.^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16250,
         "file": "Voice03/03-KB/03-KB-I04/03-KB-I04-0120",
         "layer": 0,
         "persona": "kum",
@@ -134,14 +138,14 @@
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17150,
         "persona": "Котоноха",
         "start": 16250,
         "text": "Э?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17150,
         "file": "Voice03/03-KB/03-KB-I04/03-KB-I04-0130",
         "layer": 0,
         "persona": "kot",
@@ -149,14 +153,14 @@
     },
     {
         "action": "PrintText",
-        "end": 19000,
+        "end": 19016,
         "persona": "Котоноха",
         "start": 17150,
         "text": "А...^"
     },
     {
         "action": "PlayVoice",
-        "end": 19000,
+        "end": 19016,
         "file": "Voice03/03-KB/03-KB-I04/03-KB-I04-0150",
         "layer": 0,
         "persona": "kot",
@@ -164,13 +168,13 @@
     },
     {
         "action": "CreateBG",
-        "end": 18000,
+        "end": 18083,
         "file": "Event03/03-KB/03-KB-I04/03-KB-I04-006",
         "start": 17166
     },
     {
         "action": "PlayMovie",
-        "end": 20000,
+        "end": 20083,
         "file": "Movie03/03-KB/03-KB-I04/03-KB-I04-007",
         "start": 18083
     },
@@ -191,20 +195,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 24000,
+        "end": 24200,
         "file": "Event03/03-KB/03-KB-I04/03-KB-I04-008",
         "start": 20083
     },
     {
         "action": "PrintText",
-        "end": 21000,
+        "end": 21350,
         "persona": "Куми",
         "start": 21016,
         "text": "Спасибо.^"
     },
     {
         "action": "PlayVoice",
-        "end": 21000,
+        "end": 21350,
         "file": "Voice03/03-KB/03-KB-I04/03-KB-I04-0190",
         "layer": 0,
         "persona": "kum",
@@ -212,14 +216,14 @@
     },
     {
         "action": "PrintText",
-        "end": 24000,
+        "end": 24200,
         "persona": "Котоноха",
         "start": 21333,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 24000,
+        "end": 24200,
         "file": "Voice03/03-KB/03-KB-I04/03-KB-I04-0230",
         "layer": 0,
         "persona": "xxx",
@@ -227,20 +231,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 31000,
+        "end": 31083,
         "file": "Event03/03-KB/03-KB-I04/03-KB-I04-009",
         "start": 24200
     },
     {
         "action": "PrintText",
-        "end": 31000,
+        "end": 31083,
         "persona": "Котоноха",
         "start": 24200,
         "text": "Если я ему пошлю смс или позвоню, может ведь и опять не ответить.^"
     },
     {
         "action": "PlayVoice",
-        "end": 31000,
+        "end": 31083,
         "file": "Voice03/03-KB/03-KB-I04/03-KB-I04-0280",
         "layer": 0,
         "persona": "xxx",
@@ -248,20 +252,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 38000,
+        "end": 38033,
         "file": "Event03/03-KB/03-KB-I04/03-KB-I04-010",
         "start": 31083
     },
     {
         "action": "PrintText",
-        "end": 38000,
+        "end": 38016,
         "persona": "Котоноха",
         "start": 31083,
         "text": "Нужно с ним встретиться, поговорить. Но никто не приходит меня сменить...^"
     },
     {
         "action": "PlayVoice",
-        "end": 38000,
+        "end": 38016,
         "file": "Voice03/03-KB/03-KB-I04/03-KB-I04-0290",
         "layer": 0,
         "persona": "xxx",
@@ -290,14 +294,14 @@
     },
     {
         "action": "PrintText",
-        "end": 47000,
+        "end": 47183,
         "persona": "Таисукэ",
         "start": 42383,
         "text": "А можно мне в дом с привидениями заглянуть?^"
     },
     {
         "action": "PlayVoice",
-        "end": 47000,
+        "end": 47183,
         "file": "Voice03/03-KB/03-KB-I04/03-KB-I04-0320",
         "layer": 1,
         "persona": "tai",
@@ -305,20 +309,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 50000,
+        "end": 50366,
         "file": "Event03/03-KB/03-KB-I04/03-KB-I04-012",
         "start": 43000
     },
     {
         "action": "PrintText",
-        "end": 50000,
+        "end": 50350,
         "persona": "Котоноха",
         "start": 47183,
         "text": "А?! Да! Проходите!^"
     },
     {
         "action": "PlayVoice",
-        "end": 50000,
+        "end": 50350,
         "file": "Voice03/03-KB/03-KB-I04/03-KB-I04-0330",
         "layer": 0,
         "persona": "kot",
@@ -326,14 +330,14 @@
     },
     {
         "action": "PrintText",
-        "end": 52000,
+        "end": 52116,
         "persona": "Таисукэ",
         "start": 50350,
         "text": "Шучу, шучу.^"
     },
     {
         "action": "PlayVoice",
-        "end": 52000,
+        "end": 52116,
         "file": "Voice03/03-KB/03-KB-I04/03-KB-I04-0340",
         "layer": 1,
         "persona": "tai",
@@ -341,20 +345,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 55000,
+        "end": 55316,
         "file": "Event03/03-KB/03-KB-I04/03-KB-I04-013",
         "start": 50366
     },
     {
         "action": "PrintText",
-        "end": 55000,
+        "end": 55050,
         "persona": "Котоноха",
         "start": 52116,
         "text": "Саванага...^"
     },
     {
         "action": "PlayVoice",
-        "end": 55000,
+        "end": 55050,
         "file": "Voice03/03-KB/03-KB-I04/03-KB-I04-0350",
         "layer": 0,
         "persona": "kot",
@@ -362,14 +366,14 @@
     },
     {
         "action": "PrintText",
-        "end": 55000,
+        "end": 55316,
         "persona": "Таисукэ",
         "start": 55066,
         "text": "Привет!^"
     },
     {
         "action": "PlayVoice",
-        "end": 55000,
+        "end": 55316,
         "file": "Voice03/03-KB/03-KB-I04/03-KB-I04-0360",
         "layer": 1,
         "persona": "tai",
@@ -377,20 +381,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 60000,
+        "end": 60216,
         "file": "Event03/03-KB/03-KB-I04/03-KB-I04-014",
         "start": 55316
     },
     {
         "action": "PrintText",
-        "end": 56000,
+        "end": 56366,
         "persona": "Таисукэ",
         "start": 55316,
         "text": "Чего грустная такая?^"
     },
     {
         "action": "PlayVoice",
-        "end": 56000,
+        "end": 56366,
         "file": "Voice03/03-KB/03-KB-I04/03-KB-I04-0380",
         "layer": 1,
         "persona": "tai",
@@ -398,14 +402,14 @@
     },
     {
         "action": "PrintText",
-        "end": 58000,
+        "end": 58200,
         "persona": "Котоноха",
         "start": 56350,
         "text": "Не грустная вовсе...^"
     },
     {
         "action": "PlayVoice",
-        "end": 58000,
+        "end": 58200,
         "file": "Voice03/03-KB/03-KB-I04/03-KB-I04-0390",
         "layer": 0,
         "persona": "kot",
@@ -413,14 +417,14 @@
     },
     {
         "action": "PrintText",
-        "end": 60000,
+        "end": 60216,
         "persona": "Таисукэ",
         "start": 58200,
         "text": "С парнем так и не помирилась?^"
     },
     {
         "action": "PlayVoice",
-        "end": 60000,
+        "end": 60216,
         "file": "Voice03/03-KB/03-KB-I04/03-KB-I04-0400",
         "layer": 1,
         "persona": "tai",
@@ -428,20 +432,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 61000,
+        "end": 61050,
         "file": "Event03/03-KB/03-KB-I04/03-KB-I04-015",
         "start": 60216
     },
     {
         "action": "PrintText",
-        "end": 61000,
+        "end": 61033,
         "persona": "Котоноха",
         "start": 60216,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 61000,
+        "end": 61033,
         "file": "Voice03/03-KB/03-KB-I04/03-KB-I04-0410",
         "layer": 0,
         "persona": "xxx",
@@ -449,14 +453,14 @@
     },
     {
         "action": "PrintText",
-        "end": 65000,
+        "end": 65316,
         "persona": "Таисукэ",
         "start": 61033,
         "text": "Понятно. Упрямый он у тебя.^"
     },
     {
         "action": "PlayVoice",
-        "end": 65000,
+        "end": 65316,
         "file": "Voice03/03-KB/03-KB-I04/03-KB-I04-0420",
         "layer": 1,
         "persona": "tai",
@@ -464,20 +468,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 72000,
+        "end": 72233,
         "file": "Event03/03-KB/03-KB-I04/03-KB-I04-016",
         "start": 61050
     },
     {
         "action": "PrintText",
-        "end": 71000,
+        "end": 71200,
         "persona": "Котоноха",
         "start": 65316,
         "text": "Да нет, это я сама виновата.^"
     },
     {
         "action": "PlayVoice",
-        "end": 71000,
+        "end": 71200,
         "file": "Voice03/03-KB/03-KB-I04/03-KB-I04-0430",
         "layer": 0,
         "persona": "kot",
@@ -485,14 +489,14 @@
     },
     {
         "action": "PrintText",
-        "end": 72000,
+        "end": 72233,
         "persona": "Таисукэ",
         "start": 71200,
         "text": "Думаешь?^"
     },
     {
         "action": "PlayVoice",
-        "end": 72000,
+        "end": 72233,
         "file": "Voice03/03-KB/03-KB-I04/03-KB-I04-0440",
         "layer": 1,
         "persona": "tai",
@@ -500,20 +504,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 81000,
+        "end": 81033,
         "file": "Event03/03-KB/03-KB-I04/03-KB-I04-017",
         "start": 72233
     },
     {
         "action": "PrintText",
-        "end": 77000,
+        "end": 77300,
         "persona": "Котоноха",
         "start": 72233,
         "text": "Вчера позвонить собиралась, да так смелости и не набралась.^"
     },
     {
         "action": "PlayVoice",
-        "end": 77000,
+        "end": 77300,
         "file": "Voice03/03-KB/03-KB-I04/03-KB-I04-0450",
         "layer": 0,
         "persona": "kot",
@@ -521,14 +525,14 @@
     },
     {
         "action": "PrintText",
-        "end": 80000,
+        "end": 80133,
         "persona": "Таисукэ",
         "start": 77300,
         "text": "То есть уже и не звонит?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 80000,
+        "end": 80133,
         "file": "Voice03/03-KB/03-KB-I04/03-KB-I04-0460",
         "layer": 1,
         "persona": "tai",
@@ -536,14 +540,14 @@
     },
     {
         "action": "PrintText",
-        "end": 81000,
+        "end": 81033,
         "persona": "Котоноха",
         "start": 80133,
         "text": "Да.^"
     },
     {
         "action": "PlayVoice",
-        "end": 81000,
+        "end": 81033,
         "file": "Voice03/03-KB/03-KB-I04/03-KB-I04-0470",
         "layer": 0,
         "persona": "kot",
@@ -551,20 +555,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 85000,
+        "end": 85250,
         "file": "Event03/03-KB/03-KB-I04/03-KB-I04-018",
         "start": 81033
     },
     {
         "action": "PrintText",
-        "end": 83000,
+        "end": 83066,
         "persona": "Таисукэ",
         "start": 81033,
         "text": "Вы же так и не помиритесь...^"
     },
     {
         "action": "PlayVoice",
-        "end": 83000,
+        "end": 83066,
         "file": "Voice03/03-KB/03-KB-I04/03-KB-I04-0480",
         "layer": 1,
         "persona": "tai",
@@ -572,14 +576,14 @@
     },
     {
         "action": "PrintText",
-        "end": 84000,
+        "end": 84200,
         "persona": "Котоноха",
         "start": 83066,
         "text": "Такие дела.^"
     },
     {
         "action": "PlayVoice",
-        "end": 84000,
+        "end": 84200,
         "file": "Voice03/03-KB/03-KB-I04/03-KB-I04-0490",
         "layer": 0,
         "persona": "kot",
@@ -587,14 +591,14 @@
     },
     {
         "action": "PrintText",
-        "end": 85000,
+        "end": 85233,
         "persona": "Таисукэ",
         "start": 84200,
         "text": "Сочувствую.^"
     },
     {
         "action": "PlayVoice",
-        "end": 85000,
+        "end": 85233,
         "file": "Voice03/03-KB/03-KB-I04/03-KB-I04-0500",
         "layer": 1,
         "persona": "tai",
@@ -602,14 +606,14 @@
     },
     {
         "action": "PrintText",
-        "end": 88000,
+        "end": 88083,
         "persona": "Котоноха",
         "start": 85233,
         "text": "А у тебя, Саванага, как успехи?^"
     },
     {
         "action": "PlayVoice",
-        "end": 88000,
+        "end": 88083,
         "file": "Voice03/03-KB/03-KB-I04/03-KB-I04-0510",
         "layer": 0,
         "persona": "kot",
@@ -617,20 +621,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 93000,
+        "end": 93083,
         "file": "Event03/03-KB/03-KB-I04/03-KB-I04-019A",
         "start": 85250
     },
     {
         "action": "PrintText",
-        "end": 90000,
+        "end": 90016,
         "persona": "Таисукэ",
         "start": 88083,
         "text": "Э?.. У меня?^"
     },
     {
         "action": "PlayVoice",
-        "end": 90000,
+        "end": 90016,
         "file": "Voice03/03-KB/03-KB-I04/03-KB-I04-0520",
         "layer": 1,
         "persona": "tai",
@@ -638,14 +642,14 @@
     },
     {
         "action": "PrintText",
-        "end": 93000,
+        "end": 93083,
         "persona": "Котоноха",
         "start": 90016,
         "text": "Да. Ты ведь собирался с Саиёндзи встречаться.^"
     },
     {
         "action": "PlayVoice",
-        "end": 93000,
+        "end": 93083,
         "file": "Voice03/03-KB/03-KB-I04/03-KB-I04-0530",
         "layer": 0,
         "persona": "kot",
@@ -653,20 +657,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 96000,
+        "end": 96066,
         "file": "Event03/03-KB/03-KB-I04/03-KB-I04-019B",
         "start": 93083
     },
     {
         "action": "PrintText",
-        "end": 96000,
+        "end": 96050,
         "persona": "Таисукэ",
         "start": 93083,
         "text": "А!.. Ну, полон решимости!^"
     },
     {
         "action": "PlayVoice",
-        "end": 96000,
+        "end": 96050,
         "file": "Voice03/03-KB/03-KB-I04/03-KB-I04-0540",
         "layer": 1,
         "persona": "tai",
@@ -674,14 +678,14 @@
     },
     {
         "action": "PrintText",
-        "end": 99000,
+        "end": 99050,
         "persona": "Котоноха",
         "start": 96050,
         "text": "Правда? Ну и хорошо.^"
     },
     {
         "action": "PlayVoice",
-        "end": 99000,
+        "end": 99050,
         "file": "Voice03/03-KB/03-KB-I04/03-KB-I04-0550",
         "layer": 0,
         "persona": "kot",
@@ -689,20 +693,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 99000,
+        "end": 99066,
         "file": "Event03/03-KB/03-KB-I04/03-KB-I04-019C",
         "start": 96066
     },
     {
         "action": "PrintText",
-        "end": 103000,
+        "end": 103166,
         "persona": "Таисукэ",
         "start": 99050,
         "text": "Только вот где она - никак найти не могу.^"
     },
     {
         "action": "PlayVoice",
-        "end": 103000,
+        "end": 103166,
         "file": "Voice03/03-KB/03-KB-I04/03-KB-I04-0560",
         "layer": 1,
         "persona": "tai",
@@ -710,23 +714,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 105000,
+        "end": 105100,
         "file": "Event03/03-KB/03-KB-I04/03-KB-I04-020",
         "start": 99066
     },
     {
         "action": "PrintText",
-        "end": 105000,
+        "end": 105083,
         "persona": "Котоноха",
         "start": 103166,
         "text": "Вот как?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 105000,
+        "end": 105083,
         "file": "Voice03/03-KB/03-KB-I04/03-KB-I04-0570",
         "layer": 0,
         "persona": "kot",
         "start": 103166
+    },
+    {
+        "action": "Next",
+        "start": 105100
     }
 ]

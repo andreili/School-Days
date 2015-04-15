@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 8266
+    },
+    {
         "action": "PlaySe",
-        "end": 8000,
+        "end": 8266,
         "file": "SysSe/SE_all/gaya/kyousitu_rouka",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1283,
         "file": "Event05/05-KA/05-KA-B03/05-KA-B03-001",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3033,
         "file": "Event05/05-KA/05-KA-B03/05-KA-B03-002",
         "start": 1283
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3033,
         "persona": "Хикари",
         "start": 1283,
         "text": "Сэкаи?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3033,
         "file": "Voice05/05-KA/05-KA-B03/05-KA-B03-0040",
         "layer": 0,
         "persona": "hik",
@@ -35,7 +39,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3333,
         "file": "Event05/05-KA/05-KA-B03/05-KA-B03-003",
         "start": 3033
     },
@@ -56,32 +60,32 @@
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4216,
         "file": "Event05/05-KA/05-KA-B03/05-KA-B03-004",
         "start": 3333
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5033,
         "file": "Event05/05-KA/05-KA-B03/05-KA-B03-005",
         "start": 4216
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8266,
         "file": "Event05/05-KA/05-KA-B03/05-KA-B03-006",
         "start": 5033
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6200,
         "persona": "Хикари",
         "start": 5033,
         "text": "Сэкаи!^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6200,
         "file": "Voice05/05-KA/05-KA-B03/05-KA-B03-0080",
         "layer": 0,
         "persona": "hik",
@@ -89,14 +93,14 @@
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7266,
         "persona": "Киора",
         "start": 6250,
         "text": "Сэкаи...^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7266,
         "file": "Voice05/05-KA/05-KA-B03/05-KA-B03-0090",
         "layer": 0,
         "persona": "set",
@@ -105,7 +109,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 8000,
+        "end": 8266,
         "start": 7266
+    },
+    {
+        "action": "Next",
+        "start": 8266
     }
 ]

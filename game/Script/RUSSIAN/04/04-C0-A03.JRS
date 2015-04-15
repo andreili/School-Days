@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 4166
+    },
+    {
         "action": "PlayBgm",
-        "end": 4000,
+        "end": 4166,
         "file": "BGM/SD_BGM/sdbgm20",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 4000,
+        "end": 4166,
         "file": "Se04/04-C0/04-C0-A03/SE04-C0-A03-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1116,
         "file": "Event04/04-C0/04-C0-A03/04-C0-A03-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1116,
         "persona": "Макото",
         "start": 150,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1116,
         "file": "Voice04/04-C0/04-C0-A03/04-C0-A03-0030",
         "layer": 1,
         "persona": "xxx",
@@ -35,20 +39,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4166,
         "file": "Event04/04-C0/04-C0-A03/04-C0-A03-002",
         "start": 1116
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2233,
         "persona": "Котоноха",
         "start": 1116,
         "text": "Ты ведь не против?^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2233,
         "file": "Voice04/04-C0/04-C0-A03/04-C0-A03-0040",
         "layer": 0,
         "persona": "kot",
@@ -56,17 +60,21 @@
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3116,
         "persona": "Макото",
         "start": 2233,
         "text": "Нет...^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3116,
         "file": "Voice04/04-C0/04-C0-A03/04-C0-A03-0050",
         "layer": 1,
         "persona": "mak",
         "start": 2233
+    },
+    {
+        "action": "Next",
+        "start": 4166
     }
 ]

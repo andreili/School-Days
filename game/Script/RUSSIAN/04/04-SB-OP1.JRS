@@ -1,15 +1,23 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 124333
+    },
+    {
         "action": "PlaySe",
-        "end": 124000,
+        "end": 124333,
         "file": "BGM/Vocal/SDV01",
         "layer": 1,
         "start": 0
     },
     {
         "action": "PlayMovie",
-        "end": 124000,
+        "end": 124333,
         "file": "System/OP/SDHQ_SEKAI",
         "start": 0
+    },
+    {
+        "action": "Next",
+        "start": 124333
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 45000
+    },
+    {
         "action": "PlayBgm",
         "end": 45000,
         "file": "BGM/SD_BGM/sdbgm29",
@@ -7,34 +11,34 @@
     },
     {
         "action": "PlaySe",
-        "end": 10000,
+        "end": 10333,
         "file": "SysSe/SE_all/footsteps/asioto_okugai",
         "layer": 1,
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 39000,
+        "end": 39316,
         "file": "SysSe/SE_all/gaya/beach1",
         "layer": 2,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10333,
         "file": "Event05/05-SE/05-SE-H00/05-SE-H00-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4166,
         "persona": "Макото",
         "start": 0,
         "text": "Ну... Я ему сказал.^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4166,
         "file": "Voice05/05-KF/05-KF-H01/05-KF-H01-0030",
         "layer": 1,
         "persona": "mak",
@@ -42,14 +46,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4233,
         "persona": "Сэкаи",
         "start": 3300,
         "text": "Э?^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4233,
         "file": "Voice05/05-KF/05-KF-H01/05-KF-H01-0040",
         "layer": 0,
         "persona": "sek",
@@ -57,14 +61,14 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9383,
         "persona": "Макото",
         "start": 4166,
         "text": "Он спросил меня, не знаю ли я, кого ты любишь...^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9383,
         "file": "Voice05/05-KF/05-KF-H01/05-KF-H01-0050",
         "layer": 1,
         "persona": "mak",
@@ -78,14 +82,14 @@
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12033,
         "persona": "Сэкаи",
         "start": 10333,
         "text": "Сказал, значит...^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12033,
         "file": "Voice05/05-KF/05-KF-H01/05-KF-H01-0060",
         "layer": 0,
         "persona": "sek",
@@ -93,14 +97,14 @@
     },
     {
         "action": "PrintText",
-        "end": 22000,
+        "end": 22050,
         "persona": "Макото",
         "start": 12033,
         "text": "Я ведь Таисукэ... За друга считаю... И не смог от него этого скрыть.^"
     },
     {
         "action": "PlayVoice",
-        "end": 22000,
+        "end": 22050,
         "file": "Voice05/05-KF/05-KF-H01/05-KF-H01-0070",
         "layer": 1,
         "persona": "mak",
@@ -108,14 +112,14 @@
     },
     {
         "action": "PrintText",
-        "end": 23000,
+        "end": 23100,
         "persona": "Сэкаи",
         "start": 22066,
         "text": "Понимаю...^"
     },
     {
         "action": "PlayVoice",
-        "end": 23000,
+        "end": 23100,
         "file": "Voice05/05-KF/05-KF-H01/05-KF-H01-0080",
         "layer": 0,
         "persona": "sek",
@@ -123,14 +127,14 @@
     },
     {
         "action": "PrintText",
-        "end": 34000,
+        "end": 34383,
         "persona": "Макото",
         "start": 23100,
         "text": "Но... Он так разозлился... Что, похоже, больше мы не друзья.^"
     },
     {
         "action": "PlayVoice",
-        "end": 34000,
+        "end": 34383,
         "file": "Voice05/05-KF/05-KF-H01/05-KF-H01-0090",
         "layer": 1,
         "persona": "mak",
@@ -138,14 +142,14 @@
     },
     {
         "action": "PrintText",
-        "end": 38000,
+        "end": 38033,
         "persona": "Сэкаи",
         "start": 34383,
         "text": "Ты прости... Всё из-за меня...^"
     },
     {
         "action": "PlayVoice",
-        "end": 38000,
+        "end": 38033,
         "file": "Voice05/05-KF/05-KF-H01/05-KF-H01-0100",
         "layer": 0,
         "persona": "sek",
@@ -153,14 +157,14 @@
     },
     {
         "action": "PrintText",
-        "end": 43000,
+        "end": 43066,
         "persona": "Макото",
         "start": 38050,
         "text": "Не... Всё равно, это я сделал...^"
     },
     {
         "action": "PlayVoice",
-        "end": 43000,
+        "end": 43066,
         "file": "Voice05/05-KF/05-KF-H01/05-KF-H01-0110",
         "layer": 1,
         "persona": "mak",
@@ -175,17 +179,21 @@
     },
     {
         "action": "PrintText",
-        "end": 44000,
+        "end": 44183,
         "persona": "Сэкаи",
         "start": 43066,
         "text": "Угу...^"
     },
     {
         "action": "PlayVoice",
-        "end": 44000,
+        "end": 44183,
         "file": "Voice05/05-KF/05-KF-H01/05-KF-H01-0120",
         "layer": 0,
         "persona": "sek",
         "start": 43066
+    },
+    {
+        "action": "Next",
+        "start": 45000
     }
 ]

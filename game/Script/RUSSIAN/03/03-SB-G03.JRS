@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 11150
+    },
+    {
         "action": "PlayBgm",
-        "end": 11000,
+        "end": 11150,
         "file": "BGM/SD_BGM/sdbgm13",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 11000,
+        "end": 11150,
         "file": "Se03/03-SB/03-SB-G03/SE03-SB-G03-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8283,
         "file": "Event03/03-SB/03-SB-G03/03-SB-G03-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1033,
         "persona": "Макото",
         "start": 0,
         "text": "Секрет!^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1033,
         "file": "Voice03/03-SB/03-SB-G03/03-SB-G03-0030",
         "layer": 1,
         "persona": "mak",
@@ -35,14 +39,14 @@
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2300,
         "persona": "Таисукэ",
         "start": 1033,
         "text": "Ты о чем?^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2300,
         "file": "Voice03/03-SB/03-SB-G03/03-SB-G03-0040",
         "layer": 1,
         "persona": "tai",
@@ -50,14 +54,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4166,
         "persona": "Макото",
         "start": 2316,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4166,
         "file": "Voice03/03-SB/03-SB-G03/03-SB-G03-0050",
         "layer": 1,
         "persona": "mak",
@@ -65,14 +69,14 @@
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8300,
         "persona": "Таисукэ",
         "start": 4166,
         "text": "Ладно, у тебя есть Саиёндзи, так что иди и помирись с ней!^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8300,
         "file": "Voice03/03-SB/03-SB-G03/03-SB-G03-0060",
         "layer": 1,
         "persona": "tai",
@@ -80,20 +84,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 11000,
+        "end": 11150,
         "file": "Event03/03-SB/03-SB-G03/03-SB-G03-002",
         "start": 8283
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9383,
         "persona": "Макото",
         "start": 8283,
         "text": "Что?^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9383,
         "file": "Voice03/03-SB/03-SB-G03/03-SB-G03-0070",
         "layer": 1,
         "persona": "mak",
@@ -101,17 +105,21 @@
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11050,
         "persona": "Таисукэ",
         "start": 9383,
         "text": "Давай-давай!^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11050,
         "file": "Voice03/03-SB/03-SB-G03/03-SB-G03-0080",
         "layer": 1,
         "persona": "tai",
         "start": 9383
+    },
+    {
+        "action": "Next",
+        "start": 11150
     }
 ]

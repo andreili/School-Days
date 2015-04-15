@@ -1,7 +1,11 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 7183
+    },
+    {
         "action": "PlayBgm",
-        "end": 7000,
+        "end": 7183,
         "file": "BGM/SD_BGM/sdbgm20",
         "start": 0
     },
@@ -20,14 +24,14 @@
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2066,
         "persona": "Котоноха",
         "start": 383,
         "text": "Ох...^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2066,
         "file": "Voice01/01-00/01-00-P01/01-00-P01-0060",
         "layer": 0,
         "persona": "kot",
@@ -35,27 +39,27 @@
     },
     {
         "action": "PlaySe",
-        "end": 7000,
+        "end": 7183,
         "file": "Se01/01-00/01-00-P00/SE01-00-P00-001",
         "layer": 2,
         "start": 3000
     },
     {
         "action": "PlayMovie",
-        "end": 7000,
+        "end": 7183,
         "file": "Movie01/01-00/01-00-P01/01-00-P01-002",
         "start": 3000
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6033,
         "persona": "Котоноха",
         "start": 3000,
         "text": "Наверное, я ему больше не нравлюсь.^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6033,
         "file": "Voice01/01-00/01-00-P01/01-00-P01-0070",
         "layer": 0,
         "persona": "kot",
@@ -63,14 +67,14 @@
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7116,
         "persona": "Котоноха",
         "start": 6166,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7116,
         "file": "Voice01/01-00/01-00-P01/01-00-P01-0090",
         "layer": 0,
         "persona": "kot",
@@ -79,7 +83,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 7000,
+        "end": 7183,
         "start": 6183
+    },
+    {
+        "action": "Next",
+        "start": 7183
     }
 ]

@@ -1,13 +1,17 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 164216
+    },
+    {
         "action": "PlayBgm",
-        "end": 164000,
+        "end": 164216,
         "file": "BGM/SD_BGM/sdbgm06",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 119000,
+        "end": 119083,
         "file": "Se04/04-E0/04-E0-C00/SE04-E0-C00-001",
         "layer": 1,
         "start": 0
@@ -20,14 +24,14 @@
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2333,
         "persona": "Нацуми",
         "start": 0,
         "text": "Какая ж ты, Отомэ, бестолковая...^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2333,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0050",
         "layer": 0,
         "persona": "nat",
@@ -35,14 +39,14 @@
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5066,
         "persona": "Отомэ",
         "start": 2333,
         "text": "С... чего это?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5066,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0060",
         "layer": 0,
         "persona": "oto",
@@ -50,20 +54,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7333,
         "file": "Event04/04-E0/04-E0-C00/04-E0-C00-002",
         "start": 5000
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7333,
         "persona": "Нацуми",
         "start": 5066,
         "text": "Это ведь парень твой был?^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7333,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0080",
         "layer": 0,
         "persona": "nat",
@@ -71,20 +75,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10116,
         "file": "Event04/04-E0/04-E0-C00/04-E0-C00-003",
         "start": 7333
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10116,
         "persona": "Отомэ",
         "start": 7333,
         "text": "Д-да не встречались мы!^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10116,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0090",
         "layer": 0,
         "persona": "oto",
@@ -92,20 +96,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 16000,
+        "end": 16316,
         "file": "Event04/04-E0/04-E0-C00/04-E0-C00-004",
         "start": 10116
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16316,
         "persona": "Нацуми",
         "start": 10116,
         "text": "Ну, не будем гадать, взаимно у вас или нет, но... Нельзя же так.^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16316,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0100",
         "layer": 0,
         "persona": "nat",
@@ -113,14 +117,14 @@
     },
     {
         "action": "PrintText",
-        "end": 19000,
+        "end": 19216,
         "persona": "Минами",
         "start": 16300,
         "text": "Сил ведь набралась, обратилась к нему...^"
     },
     {
         "action": "PlayVoice",
-        "end": 19000,
+        "end": 19216,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0110",
         "layer": 0,
         "persona": "min",
@@ -128,20 +132,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 19000,
+        "end": 19233,
         "file": "Event04/04-E0/04-E0-C00/04-E0-C00-005",
         "start": 16316
     },
     {
         "action": "PrintText",
-        "end": 23000,
+        "end": 23150,
         "persona": "Нацуми",
         "start": 19216,
         "text": "Пала смертью храбрых в боях с его соседкой по парте...^"
     },
     {
         "action": "PlayVoice",
-        "end": 23000,
+        "end": 23150,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0120",
         "layer": 0,
         "persona": "nat",
@@ -149,7 +153,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 23000,
+        "end": 23150,
         "file": "Event04/04-E0/04-E0-C00/04-E0-C00-006",
         "start": 19233
     },
@@ -161,14 +165,14 @@
     },
     {
         "action": "PrintText",
-        "end": 25000,
+        "end": 25300,
         "persona": "Куми",
         "start": 23150,
         "text": "Э?.. О чём речь?^"
     },
     {
         "action": "PlayVoice",
-        "end": 25000,
+        "end": 25300,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0130",
         "layer": 0,
         "persona": "kum",
@@ -176,20 +180,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 25000,
+        "end": 25316,
         "file": "Event04/04-E0/04-E0-C00/04-E0-C00-008",
         "start": 25000
     },
     {
         "action": "PrintText",
-        "end": 27000,
+        "end": 27316,
         "persona": "Нацуми",
         "start": 25300,
         "text": "Что, стало легче, Куми?^"
     },
     {
         "action": "PlayVoice",
-        "end": 27000,
+        "end": 27316,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0140",
         "layer": 0,
         "persona": "nat",
@@ -197,20 +201,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 28000,
+        "end": 28200,
         "file": "Event04/04-E0/04-E0-C00/04-E0-C00-009",
         "start": 25316
     },
     {
         "action": "PrintText",
-        "end": 32000,
+        "end": 32266,
         "persona": "Куми",
         "start": 27316,
         "text": "Угу. Лекарство приняла. Так о чём речь?^"
     },
     {
         "action": "PlayVoice",
-        "end": 32000,
+        "end": 32266,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0150",
         "layer": 0,
         "persona": "kum",
@@ -218,26 +222,26 @@
     },
     {
         "action": "CreateBG",
-        "end": 32000,
+        "end": 32266,
         "file": "Event04/04-E0/04-E0-C00/04-E0-C00-010",
         "start": 28200
     },
     {
         "action": "CreateBG",
-        "end": 36000,
+        "end": 36333,
         "file": "Event04/04-E0/04-E0-C00/04-E0-C00-011",
         "start": 32266
     },
     {
         "action": "PrintText",
-        "end": 36000,
+        "end": 36316,
         "persona": "Нацуми",
         "start": 32266,
         "text": "Помнишь парня, о котором Отомэ рассказывала?.. Она с ним сейчас говорила.^"
     },
     {
         "action": "PlayVoice",
-        "end": 36000,
+        "end": 36316,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0160",
         "layer": 0,
         "persona": "nat",
@@ -245,20 +249,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 41000,
+        "end": 41283,
         "file": "Event04/04-E0/04-E0-C00/04-E0-C00-012",
         "start": 36333
     },
     {
         "action": "PrintText",
-        "end": 41000,
+        "end": 41283,
         "persona": "Куми",
         "start": 36333,
         "text": "Парня?.. Это того, к которому она с самой средней школы неровно дышит?^"
     },
     {
         "action": "PlayVoice",
-        "end": 41000,
+        "end": 41283,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0180",
         "layer": 0,
         "persona": "kum",
@@ -266,20 +270,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 43000,
+        "end": 43316,
         "file": "Event04/04-E0/04-E0-C00/04-E0-C00-013",
         "start": 41283
     },
     {
         "action": "PrintText",
-        "end": 43000,
+        "end": 43316,
         "persona": "Отомэ",
         "start": 41283,
         "text": "Н-не кричи ты так!^"
     },
     {
         "action": "PlayVoice",
-        "end": 43000,
+        "end": 43316,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0190",
         "layer": 0,
         "persona": "oto",
@@ -287,14 +291,14 @@
     },
     {
         "action": "PrintText",
-        "end": 45000,
+        "end": 45233,
         "persona": "Минами",
         "start": 43300,
         "text": "С ним, родимым...^"
     },
     {
         "action": "PlayVoice",
-        "end": 45000,
+        "end": 45233,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0210",
         "layer": 0,
         "persona": "min",
@@ -302,20 +306,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 51000,
+        "end": 51233,
         "file": "Event04/04-E0/04-E0-C00/04-E0-C00-014",
         "start": 43316
     },
     {
         "action": "PrintText",
-        "end": 48000,
+        "end": 48350,
         "persona": "Нацуми",
         "start": 45233,
         "text": "А он разве с этой своей соседкой не встречается?^"
     },
     {
         "action": "PlayVoice",
-        "end": 48000,
+        "end": 48350,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0220",
         "layer": 0,
         "persona": "nat",
@@ -323,14 +327,14 @@
     },
     {
         "action": "PrintText",
-        "end": 51000,
+        "end": 51233,
         "persona": "Отомэ",
         "start": 48350,
         "text": "Д-да говорю же, не так всё!^"
     },
     {
         "action": "PlayVoice",
-        "end": 51000,
+        "end": 51233,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0230",
         "layer": 0,
         "persona": "oto",
@@ -338,20 +342,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 61000,
+        "end": 61283,
         "file": "Event04/04-E0/04-E0-C00/04-E0-C00-015",
         "start": 51233
     },
     {
         "action": "PrintText",
-        "end": 53000,
+        "end": 53033,
         "persona": "Нацуми",
         "start": 51233,
         "text": "И вправду...^"
     },
     {
         "action": "PlayVoice",
-        "end": 53000,
+        "end": 53033,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0240",
         "layer": 0,
         "persona": "nat",
@@ -359,14 +363,14 @@
     },
     {
         "action": "PrintText",
-        "end": 58000,
+        "end": 58083,
         "persona": "Нацуми",
         "start": 53033,
         "text": "Ведь из кожи вон лезла, в одну с ним школу поступила, старалась...^"
     },
     {
         "action": "PlayVoice",
-        "end": 58000,
+        "end": 58083,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0241",
         "layer": 0,
         "persona": "nat",
@@ -374,14 +378,14 @@
     },
     {
         "action": "PrintText",
-        "end": 61000,
+        "end": 61266,
         "persona": "Нацуми",
         "start": 58083,
         "text": "И если его вдруг из-под носа уведут, вообще кошмар!^"
     },
     {
         "action": "PlayVoice",
-        "end": 61000,
+        "end": 61266,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0242",
         "layer": 0,
         "persona": "nat",
@@ -389,14 +393,14 @@
     },
     {
         "action": "PrintText",
-        "end": 62000,
+        "end": 62350,
         "persona": "Отомэ",
         "start": 61266,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 62000,
+        "end": 62350,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0250",
         "layer": 0,
         "persona": "oto",
@@ -404,20 +408,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 73000,
+        "end": 73033,
         "file": "Event04/04-E0/04-E0-C00/04-E0-C00-016",
         "start": 61283
     },
     {
         "action": "PrintText",
-        "end": 67000,
+        "end": 67050,
         "persona": "Нацуми",
         "start": 62366,
         "text": "Но эта девчонка так на тебя пялилась, что ты струхнула и сбежала, так?^"
     },
     {
         "action": "PlayVoice",
-        "end": 67000,
+        "end": 67050,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0260",
         "layer": 0,
         "persona": "nat",
@@ -425,14 +429,14 @@
     },
     {
         "action": "PrintText",
-        "end": 71000,
+        "end": 71333,
         "persona": "Отомэ",
         "start": 67050,
         "text": "Просто... Я влезла, когда они разговаривали... Вот и...^"
     },
     {
         "action": "PlayVoice",
-        "end": 71000,
+        "end": 71333,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0270",
         "layer": 0,
         "persona": "oto",
@@ -440,14 +444,14 @@
     },
     {
         "action": "PrintText",
-        "end": 73000,
+        "end": 73033,
         "persona": "Минами",
         "start": 71333,
         "text": "Именно.^"
     },
     {
         "action": "PlayVoice",
-        "end": 73000,
+        "end": 73033,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0280",
         "layer": 0,
         "persona": "min",
@@ -455,20 +459,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 79000,
+        "end": 79366,
         "file": "Event04/04-E0/04-E0-C00/04-E0-C00-017",
         "start": 73033
     },
     {
         "action": "PrintText",
-        "end": 79000,
+        "end": 79350,
         "persona": "Нацуми",
         "start": 73033,
         "text": "Ну да ладно. К себе ты его всё равно пригласила. Для Отомэ вполне себе прогресс.^"
     },
     {
         "action": "PlayVoice",
-        "end": 79000,
+        "end": 79350,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0290",
         "layer": 0,
         "persona": "nat",
@@ -476,14 +480,14 @@
     },
     {
         "action": "PrintText",
-        "end": 81000,
+        "end": 81216,
         "persona": "Отомэ",
         "start": 79350,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 81000,
+        "end": 81216,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0300",
         "layer": 0,
         "persona": "oto",
@@ -491,20 +495,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 87000,
+        "end": 87183,
         "file": "Event04/04-E0/04-E0-C00/04-E0-C00-018",
         "start": 79366
     },
     {
         "action": "PrintText",
-        "end": 85000,
+        "end": 85166,
         "persona": "Куми",
         "start": 81216,
         "text": "Так что, в гости к себе пригласила, в постель тоже потащишь?^"
     },
     {
         "action": "PlayVoice",
-        "end": 85000,
+        "end": 85166,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0310",
         "layer": 0,
         "persona": "kum",
@@ -512,14 +516,14 @@
     },
     {
         "action": "PrintText",
-        "end": 87000,
+        "end": 87183,
         "persona": "Отомэ",
         "start": 85166,
         "text": "Н-не потащу!^"
     },
     {
         "action": "PlayVoice",
-        "end": 87000,
+        "end": 87183,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0320",
         "layer": 0,
         "persona": "oto",
@@ -527,14 +531,14 @@
     },
     {
         "action": "PrintText",
-        "end": 92000,
+        "end": 92233,
         "persona": "Нацуми",
         "start": 87166,
         "text": "Угу. За всё лето так ни разу и не пригласила... Не вариант, совсем не вариант.^"
     },
     {
         "action": "PlayVoice",
-        "end": 92000,
+        "end": 92233,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0330",
         "layer": 0,
         "persona": "nat",
@@ -542,26 +546,26 @@
     },
     {
         "action": "CreateBG",
-        "end": 92000,
+        "end": 92233,
         "file": "Event04/04-E0/04-E0-C00/04-E0-C00-019",
         "start": 87183
     },
     {
         "action": "CreateBG",
-        "end": 109000,
+        "end": 109150,
         "file": "Event04/04-E0/04-E0-C00/04-E0-C00-020",
         "start": 92233
     },
     {
         "action": "PrintText",
-        "end": 99000,
+        "end": 99183,
         "persona": "Отомэ",
         "start": 92233,
         "text": "Но если... Карен отправить куда-нибудь погулять, и, пока мы вдвоём... Наедине...^"
     },
     {
         "action": "PlayVoice",
-        "end": 99000,
+        "end": 99183,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0340",
         "layer": 0,
         "persona": "oto",
@@ -569,14 +573,14 @@
     },
     {
         "action": "PrintText",
-        "end": 106000,
+        "end": 106166,
         "persona": "Нацуми",
         "start": 99183,
         "text": "О?.. Но вы ведь и раньше оставались наедине, да так ничего и не произошло.^"
     },
     {
         "action": "PlayVoice",
-        "end": 106000,
+        "end": 106166,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0350",
         "layer": 0,
         "persona": "nat",
@@ -584,14 +588,14 @@
     },
     {
         "action": "PrintText",
-        "end": 109000,
+        "end": 109116,
         "persona": "Отомэ",
         "start": 106166,
         "text": "Просто мы ещё детьми были...^"
     },
     {
         "action": "PlayVoice",
-        "end": 109000,
+        "end": 109116,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0360",
         "layer": 0,
         "persona": "oto",
@@ -599,14 +603,14 @@
     },
     {
         "action": "PrintText",
-        "end": 111000,
+        "end": 111383,
         "persona": "Куми",
         "start": 109133,
         "text": "То есть, теперь вы уже не дети?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 111000,
+        "end": 111383,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0370",
         "layer": 0,
         "persona": "kum",
@@ -614,20 +618,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 114000,
+        "end": 114333,
         "file": "Event04/04-E0/04-E0-C00/04-E0-C00-021",
         "start": 109150
     },
     {
         "action": "PrintText",
-        "end": 114000,
+        "end": 114333,
         "persona": "Минами",
         "start": 111383,
         "text": "А не... рановато ли?^"
     },
     {
         "action": "PlayVoice",
-        "end": 114000,
+        "end": 114333,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0380",
         "layer": 0,
         "persona": "min",
@@ -635,20 +639,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 119000,
+        "end": 119066,
         "file": "Event04/04-E0/04-E0-C00/04-E0-C00-022",
         "start": 114333
     },
     {
         "action": "PrintText",
-        "end": 119000,
+        "end": 119066,
         "persona": "Отомэ",
         "start": 114333,
         "text": "По... Посмотрим, как получится...^"
     },
     {
         "action": "PlayVoice",
-        "end": 119000,
+        "end": 119066,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0390",
         "layer": 0,
         "persona": "oto",
@@ -656,21 +660,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 164000,
+        "end": 164216,
         "file": "Se04/04-E0/04-E0-C00/SE04-E0-C00-001",
         "layer": 2,
         "start": 118166
     },
     {
         "action": "PrintText",
-        "end": 120000,
+        "end": 120250,
         "persona": "Нацуми",
         "start": 119050,
         "text": "Кончай заливать.^"
     },
     {
         "action": "PlayVoice",
-        "end": 120000,
+        "end": 120250,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0400",
         "layer": 0,
         "persona": "nat",
@@ -678,20 +682,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 120000,
+        "end": 120250,
         "file": "Event04/04-E0/04-E0-C00/04-E0-C00-023",
         "start": 119066
     },
     {
         "action": "PrintText",
-        "end": 122000,
+        "end": 122316,
         "persona": "Отомэ",
         "start": 120233,
         "text": "Надо будет - сделаю!^"
     },
     {
         "action": "PlayVoice",
-        "end": 122000,
+        "end": 122316,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0410",
         "layer": 0,
         "persona": "oto",
@@ -699,26 +703,26 @@
     },
     {
         "action": "CreateBG",
-        "end": 122000,
+        "end": 122316,
         "file": "Event04/04-E0/04-E0-C00/04-E0-C00-024",
         "start": 120250
     },
     {
         "action": "CreateBG",
-        "end": 126000,
+        "end": 126300,
         "file": "Event04/04-E0/04-E0-C00/04-E0-C00-025",
         "start": 122316
     },
     {
         "action": "PrintText",
-        "end": 124000,
+        "end": 124383,
         "persona": "Куми",
         "start": 122316,
         "text": "Ну, успехов тебе!^"
     },
     {
         "action": "PlayVoice",
-        "end": 124000,
+        "end": 124383,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0420",
         "layer": 0,
         "persona": "kum",
@@ -726,14 +730,14 @@
     },
     {
         "action": "PrintText",
-        "end": 126000,
+        "end": 126300,
         "persona": "Отомэ",
         "start": 124366,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 126000,
+        "end": 126300,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0430",
         "layer": 0,
         "persona": "oto",
@@ -741,20 +745,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 142000,
+        "end": 142166,
         "file": "Event04/04-E0/04-E0-C00/04-E0-C00-026",
         "start": 126300
     },
     {
         "action": "PrintText",
-        "end": 132000,
+        "end": 132283,
         "persona": "Нацуми",
         "start": 126300,
         "text": "С самой средней школы встречаться, да ни разу даже не поцеловаться. Не выйдет ничего...^"
     },
     {
         "action": "PlayVoice",
-        "end": 132000,
+        "end": 132283,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0440",
         "layer": 0,
         "persona": "nat",
@@ -762,14 +766,14 @@
     },
     {
         "action": "PrintText",
-        "end": 136000,
+        "end": 136383,
         "persona": "Куми",
         "start": 132266,
         "text": "Может, там и парень не особо расторопный?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 136000,
+        "end": 136383,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0450",
         "layer": 0,
         "persona": "kum",
@@ -777,14 +781,14 @@
     },
     {
         "action": "PrintText",
-        "end": 141000,
+        "end": 141116,
         "persona": "Нацуми",
         "start": 136383,
         "text": "Парень?.. Как там его... Из 3-го класса-то...^"
     },
     {
         "action": "PlayVoice",
-        "end": 141000,
+        "end": 141116,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0460",
         "layer": 0,
         "persona": "nat",
@@ -792,14 +796,14 @@
     },
     {
         "action": "PrintText",
-        "end": 142000,
+        "end": 142166,
         "persona": "Минами",
         "start": 141116,
         "text": "Ито, нет?^"
     },
     {
         "action": "PlayVoice",
-        "end": 142000,
+        "end": 142166,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0470",
         "layer": 0,
         "persona": "min",
@@ -807,20 +811,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 143000,
+        "end": 143166,
         "file": "Event04/04-E0/04-E0-C00/04-E0-C00-027",
         "start": 142166
     },
     {
         "action": "PrintText",
-        "end": 143000,
+        "end": 143166,
         "persona": "Котоноха",
         "start": 142183,
         "text": "Э?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 143000,
+        "end": 143166,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0480",
         "layer": 0,
         "persona": "kot",
@@ -828,14 +832,14 @@
     },
     {
         "action": "PrintText",
-        "end": 147000,
+        "end": 147233,
         "persona": "Нацуми",
         "start": 143150,
         "text": "Да-да, точно! На вид он не особо прыткий...^"
     },
     {
         "action": "PlayVoice",
-        "end": 147000,
+        "end": 147233,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0500",
         "layer": 0,
         "persona": "nat",
@@ -843,20 +847,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 162000,
+        "end": 162100,
         "file": "Event04/04-E0/04-E0-C00/04-E0-C00-028",
         "start": 143166
     },
     {
         "action": "PrintText",
-        "end": 149000,
+        "end": 149083,
         "persona": "Минами",
         "start": 147233,
         "text": "Может и так...^"
     },
     {
         "action": "PlayVoice",
-        "end": 149000,
+        "end": 149083,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0510",
         "layer": 0,
         "persona": "min",
@@ -864,14 +868,14 @@
     },
     {
         "action": "PrintText",
-        "end": 150000,
+        "end": 150050,
         "persona": "Нацуми",
         "start": 149100,
         "text": "Отомэ.^"
     },
     {
         "action": "PlayVoice",
-        "end": 150000,
+        "end": 150050,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0520",
         "layer": 0,
         "persona": "nat",
@@ -879,14 +883,14 @@
     },
     {
         "action": "PrintText",
-        "end": 151000,
+        "end": 151216,
         "persona": "Отомэ",
         "start": 150050,
         "text": "Что ещё?^"
     },
     {
         "action": "PlayVoice",
-        "end": 151000,
+        "end": 151216,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0530",
         "layer": 0,
         "persona": "oto",
@@ -894,14 +898,14 @@
     },
     {
         "action": "PrintText",
-        "end": 154000,
+        "end": 154016,
         "persona": "Нацуми",
         "start": 151216,
         "text": "Тебе остаётся лишь его завалить. Да.^"
     },
     {
         "action": "PlayVoice",
-        "end": 154000,
+        "end": 154016,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0540",
         "layer": 0,
         "persona": "nat",
@@ -909,14 +913,14 @@
     },
     {
         "action": "PrintText",
-        "end": 160000,
+        "end": 160133,
         "persona": "Отомэ",
         "start": 154033,
         "text": "Хватит уже! Я тут на полном серьёзе, а вы всё на постель сводите! Извращенки!^"
     },
     {
         "action": "PlayVoice",
-        "end": 160000,
+        "end": 160133,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0550",
         "layer": 0,
         "persona": "oto",
@@ -924,14 +928,14 @@
     },
     {
         "action": "PrintText",
-        "end": 162000,
+        "end": 162100,
         "persona": "Нацуми",
         "start": 160133,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 162000,
+        "end": 162100,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0560",
         "layer": 0,
         "persona": "nat",
@@ -939,23 +943,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 164000,
+        "end": 164216,
         "file": "Event04/04-E0/04-E0-C00/04-E0-C00-029",
         "start": 162100
     },
     {
         "action": "PrintText",
-        "end": 164000,
+        "end": 164200,
         "persona": "Котоноха",
         "start": 162100,
         "text": "Вот оно как...^"
     },
     {
         "action": "PlayVoice",
-        "end": 164000,
+        "end": 164200,
         "file": "Voice04/04-E0/04-E0-C00/04-E0-C00-0590",
         "layer": 0,
         "persona": "kot",
         "start": 162100
+    },
+    {
+        "action": "Next",
+        "start": 164216
     }
 ]

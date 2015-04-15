@@ -1,7 +1,11 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 107000
+    },
+    {
         "action": "PlaySe",
-        "end": 9000,
+        "end": 9300,
         "file": "Se01/01-1S/01-1S-E00/SE01-1S-E00-001",
         "layer": 1,
         "start": 0
@@ -14,20 +18,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9300,
         "file": "Event02/02-2K/02-2K-C00/02-2K-C00-002",
         "start": 3000
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8033,
         "persona": "Макото",
         "start": 5350,
         "text": "Как раз фильм начинается.^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8033,
         "file": "Voice02/02-2K/02-2K-C00/02-2K-C00-0080",
         "layer": 1,
         "persona": "mak",
@@ -35,7 +39,7 @@
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8100,
         "persona": "Котоноха",
         "start": 7283,
         "text": "Ага.^"
@@ -51,12 +55,12 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 9000,
+        "end": 9300,
         "start": 8100
     },
     {
         "action": "PlayMovie",
-        "end": 107000,
+        "end": 107250,
         "file": "Movie02/02-2K/02-2K-C00/LOVE",
         "start": 9300
     },
@@ -72,5 +76,9 @@
         "dir": "OUT",
         "end": 107000,
         "start": 106000
+    },
+    {
+        "action": "Next",
+        "start": 107000
     }
 ]

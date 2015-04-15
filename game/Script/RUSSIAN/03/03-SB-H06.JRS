@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 23116
+    },
+    {
         "action": "PlayBgm",
-        "end": 23000,
+        "end": 23116,
         "file": "BGM/SD_BGM/sdbgm16",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 23000,
+        "end": 23116,
         "file": "Se03/03-SB/03-SB-H06/SE03-SB-H06-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1233,
         "file": "Event03/03-SB/03-SB-H06/03-SB-H06-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 0,
+        "end": 333,
         "persona": "Макото",
         "start": 0,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 0,
+        "end": 333,
         "file": "Voice03/03-SB/03-SB-H06/03-SB-H06-0030",
         "layer": 1,
         "persona": "xxx",
@@ -35,14 +39,14 @@
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1233,
         "persona": "Сэкаи",
         "start": 333,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1233,
         "file": "Voice03/03-SB/03-SB-H06/03-SB-H06-0040",
         "layer": 0,
         "persona": "xxx",
@@ -50,20 +54,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3033,
         "file": "Event03/03-SB/03-SB-H06/03-SB-H06-002",
         "start": 1233
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3016,
         "persona": "Макото",
         "start": 1233,
         "text": "И что это было?^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3016,
         "file": "Voice03/03-SB/03-SB-H06/03-SB-H06-0050",
         "layer": 1,
         "persona": "mak",
@@ -71,14 +75,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6366,
         "persona": "Сэкаи",
         "start": 3016,
         "text": "Наверное, Нанами по-своему решила нам не мешать.^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6366,
         "file": "Voice03/03-SB/03-SB-H06/03-SB-H06-0060",
         "layer": 0,
         "persona": "sek",
@@ -86,26 +90,26 @@
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6366,
         "file": "Event03/03-SB/03-SB-H06/03-SB-H06-003",
         "start": 3033
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7366,
         "file": "Event03/03-SB/03-SB-H06/03-SB-H06-004",
         "start": 6366
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7366,
         "persona": "Макото",
         "start": 6366,
         "text": "С чего вдруг?^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7366,
         "file": "Voice03/03-SB/03-SB-H06/03-SB-H06-0070",
         "layer": 1,
         "persona": "mak",
@@ -113,20 +117,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 11000,
+        "end": 11250,
         "file": "Event03/03-SB/03-SB-H06/03-SB-H06-005",
         "start": 7366
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11300,
         "persona": "Сэкаи",
         "start": 7366,
         "text": "Ну, она думает, что мы встречаемся.^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11300,
         "file": "Voice03/03-SB/03-SB-H06/03-SB-H06-0080",
         "layer": 0,
         "persona": "sek",
@@ -134,20 +138,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 16000,
+        "end": 16283,
         "file": "Event03/03-SB/03-SB-H06/03-SB-H06-006",
         "start": 11250
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14266,
         "persona": "Макото",
         "start": 11300,
         "text": "А, ясно.^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14266,
         "file": "Voice03/03-SB/03-SB-H06/03-SB-H06-0090",
         "layer": 1,
         "persona": "mak",
@@ -155,14 +159,14 @@
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16300,
         "persona": "Сэкаи",
         "start": 14283,
         "text": "Угу. Ты уж прости.^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16300,
         "file": "Voice03/03-SB/03-SB-H06/03-SB-H06-0100",
         "layer": 0,
         "persona": "sek",
@@ -170,20 +174,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 22000,
+        "end": 22166,
         "file": "Event03/03-SB/03-SB-H06/03-SB-H06-007",
         "start": 16283
     },
     {
         "action": "PrintText",
-        "end": 18000,
+        "end": 18166,
         "persona": "Макото",
         "start": 16300,
         "text": "Да чего там извиняться.^"
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18166,
         "file": "Voice03/03-SB/03-SB-H06/03-SB-H06-0110",
         "layer": 1,
         "persona": "mak",
@@ -191,14 +195,14 @@
     },
     {
         "action": "PrintText",
-        "end": 19000,
+        "end": 19066,
         "persona": "Сэкаи",
         "start": 18166,
         "text": "Угу.^"
     },
     {
         "action": "PlayVoice",
-        "end": 19000,
+        "end": 19066,
         "file": "Voice03/03-SB/03-SB-H06/03-SB-H06-0120",
         "layer": 0,
         "persona": "sek",
@@ -206,14 +210,14 @@
     },
     {
         "action": "PrintText",
-        "end": 22000,
+        "end": 22183,
         "persona": "Макото",
         "start": 19066,
         "text": "Слушай, пойдём куда обычно?^"
     },
     {
         "action": "PlayVoice",
-        "end": 22000,
+        "end": 22183,
         "file": "Voice03/03-SB/03-SB-H06/03-SB-H06-0130",
         "layer": 1,
         "persona": "mak",
@@ -221,23 +225,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 23000,
+        "end": 23116,
         "file": "Event03/03-SB/03-SB-H06/03-SB-H06-008",
         "start": 22166
     },
     {
         "action": "PrintText",
-        "end": 23000,
+        "end": 23066,
         "persona": "Сэкаи",
         "start": 22166,
         "text": "Да.^"
     },
     {
         "action": "PlayVoice",
-        "end": 23000,
+        "end": 23066,
         "file": "Voice03/03-SB/03-SB-H06/03-SB-H06-0140",
         "layer": 0,
         "persona": "sek",
         "start": 22166
+    },
+    {
+        "action": "Next",
+        "start": 23116
     }
 ]

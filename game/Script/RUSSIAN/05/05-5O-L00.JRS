@@ -1,20 +1,24 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 10166
+    },
+    {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3316,
         "file": "Event05/05-5O/05-5O-F09/05-5O-F09-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3200,
         "persona": "Макото",
         "start": 133,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3200,
         "file": "Voice05/05-5O/05-5O-L00/05-5O-L00-0030",
         "layer": 1,
         "persona": "xxx",
@@ -22,20 +26,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10166,
         "file": "Event05/05-5O/05-5O-L00/05-5O-L00-002",
         "start": 3316
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8083,
         "persona": "Сэкаи",
         "start": 3366,
         "text": "Садись, Макото. Я приготовила поесть.^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8083,
         "file": "Voice05/05-5O/05-5O-L00/05-5O-L00-0040",
         "layer": 0,
         "persona": "sek",
@@ -43,17 +47,21 @@
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10116,
         "persona": "Макото",
         "start": 8116,
         "text": "А?.. Хорошо...^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10116,
         "file": "Voice05/05-5O/05-5O-L00/05-5O-L00-0050",
         "layer": 1,
         "persona": "mak",
         "start": 8116
+    },
+    {
+        "action": "Next",
+        "start": 10166
     }
 ]

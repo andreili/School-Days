@@ -1,5 +1,9 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 26000
+    },
+    {
         "action": "PlayBgm",
         "end": 26000,
         "file": "BGM/SD_BGM/sdbgm20",
@@ -13,20 +17,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 11000,
+        "end": 11033,
         "file": "Event05/05-KA/05-KA-E00/05-KA-E00-002",
         "start": 3000
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11016,
         "persona": "Сэкаи",
         "start": 3016,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11016,
         "file": "Voice05/05-KA/05-KA-E00/05-KA-E00-0040",
         "layer": 0,
         "persona": "sek",
@@ -34,20 +38,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 21000,
+        "end": 21016,
         "file": "Event05/05-KA/05-KA-E00/05-KA-E00-004",
         "start": 11033
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12033,
         "persona": "Сэцуна",
         "start": 11066,
         "text": "Сэкаи.^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12033,
         "file": "Voice05/05-KA/05-KA-E00/05-KA-E00-0060",
         "layer": 0,
         "persona": "set",
@@ -55,14 +59,14 @@
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14150,
         "persona": "Сэкаи",
         "start": 12050,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14150,
         "file": "Voice05/05-KA/05-KA-E00/05-KA-E00-0070",
         "layer": 0,
         "persona": "sek",
@@ -70,14 +74,14 @@
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15350,
         "persona": "Сэцуна",
         "start": 14183,
         "text": "Что случилось?^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15350,
         "file": "Voice05/05-KA/05-KA-E00/05-KA-E00-0080",
         "layer": 0,
         "persona": "set",
@@ -85,14 +89,14 @@
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16383,
         "persona": "Сэкаи",
         "start": 15350,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16383,
         "file": "Voice05/05-KA/05-KA-E00/05-KA-E00-0090",
         "layer": 0,
         "persona": "xxx",
@@ -115,14 +119,14 @@
     },
     {
         "action": "PrintText",
-        "end": 19000,
+        "end": 19283,
         "persona": "Сэкаи",
         "start": 18016,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 19000,
+        "end": 19283,
         "file": "Voice05/05-KA/05-KA-E00/05-KA-E00-0110",
         "layer": 0,
         "persona": "xxx",
@@ -151,14 +155,14 @@
     },
     {
         "action": "PrintText",
-        "end": 23000,
+        "end": 23300,
         "persona": "Сэкаи",
         "start": 21016,
         "text": "Угу...^"
     },
     {
         "action": "PlayVoice",
-        "end": 23000,
+        "end": 23300,
         "file": "Voice05/05-KA/05-KA-E00/05-KA-E00-0130",
         "layer": 0,
         "persona": "sek",
@@ -166,14 +170,14 @@
     },
     {
         "action": "PrintText",
-        "end": 24000,
+        "end": 24333,
         "persona": "Сэцуна",
         "start": 24000,
         "text": "Ясно.^"
     },
     {
         "action": "PlayVoice",
-        "end": 24000,
+        "end": 24333,
         "file": "Voice05/05-KA/05-KA-E00/05-KA-E00-0140",
         "layer": 0,
         "persona": "set",
@@ -184,5 +188,9 @@
         "dir": "OUT",
         "end": 26000,
         "start": 25000
+    },
+    {
+        "action": "Next",
+        "start": 26000
     }
 ]

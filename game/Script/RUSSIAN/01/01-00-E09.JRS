@@ -1,34 +1,38 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 14333
+    },
+    {
         "action": "PlaySe",
-        "end": 14000,
+        "end": 14333,
         "file": "Se01/01-00/01-00-E00/SE01-00-E00-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 14000,
+        "end": 14333,
         "file": "SysSe/SE_all/school/chime",
         "layer": 2,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5250,
         "file": "Event01/01-00/01-00-E09/01-00-E09-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5150,
         "persona": "Котоноха",
         "start": 100,
         "text": "Не подумай только, что я навязываюсь...^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5150,
         "file": "Voice01/01-00/01-00-E09/01-00-E09-0030",
         "layer": 0,
         "persona": "kot",
@@ -36,20 +40,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6383,
         "file": "Event01/01-00/01-00-E09/01-00-E09-002",
         "start": 5250
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6283,
         "persona": "Макото",
         "start": 5300,
         "text": "М...^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6283,
         "file": "Voice01/01-00/01-00-E09/01-00-E09-0040",
         "layer": 1,
         "persona": "mak",
@@ -57,20 +61,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9166,
         "file": "Event01/01-00/01-00-E09/01-00-E09-003",
         "start": 6383
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8216,
         "persona": "Котоноха",
         "start": 7033,
         "text": "Извини...^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8216,
         "file": "Voice01/01-00/01-00-E09/01-00-E09-0050",
         "layer": 0,
         "persona": "kot",
@@ -78,14 +82,14 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9116,
         "persona": "Макото",
         "start": 8250,
         "text": "Нет, всё хорошо.^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9116,
         "file": "Voice01/01-00/01-00-E09/01-00-E09-0060",
         "layer": 1,
         "persona": "mak",
@@ -93,20 +97,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 13000,
+        "end": 13050,
         "file": "Event01/01-00/01-00-E09/01-00-E09-004",
         "start": 9166
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12016,
         "persona": "Сэкаи",
         "start": 9216,
         "text": "Да чего вы паритесь из-за ерунды?^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12016,
         "file": "Voice01/01-00/01-00-E09/01-00-E09-0070",
         "layer": 0,
         "persona": "sek",
@@ -114,14 +118,14 @@
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13033,
         "persona": "Макото",
         "start": 11316,
         "text": "Отстань!^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13033,
         "file": "Voice01/01-00/01-00-E09/01-00-E09-0080",
         "layer": 1,
         "persona": "mak",
@@ -129,23 +133,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 14000,
+        "end": 14333,
         "file": "Event01/01-00/01-00-E09/01-00-E09-005",
         "start": 13050
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14166,
         "persona": "Котоноха",
         "start": 13216,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14166,
         "file": "Voice01/01-00/01-00-E09/01-00-E09-0090",
         "layer": 0,
         "persona": "xxx",
         "start": 13216
+    },
+    {
+        "action": "Next",
+        "start": 14333
     }
 ]

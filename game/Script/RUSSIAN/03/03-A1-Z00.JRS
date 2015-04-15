@@ -1,77 +1,81 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 14066
+    },
+    {
         "action": "PlayBgm",
-        "end": 14000,
+        "end": 14066,
         "file": "BGM/SD_BGM/sdbgm25",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 3000,
+        "end": 3083,
         "file": "Voice03/03-A1/03-A1-E08/03-A1-E08-1631",
         "layer": 1,
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 9000,
+        "end": 9050,
         "file": "SysSe/SE_all/h/h_03",
         "layer": 3,
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 9000,
+        "end": 9050,
         "file": "SysSe/SE_all/h/h_04",
         "layer": 4,
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 9000,
+        "end": 9050,
         "file": "SysSe/SE_all/h/h_01",
         "layer": 5,
         "start": 0
     },
     {
         "action": "PlayMovie",
-        "end": 5000,
+        "end": 5066,
         "file": "Movie03/03-A1/03-A1-E08/03-A1-E08-044",
         "start": 0
     },
     {
         "action": "MoveSom",
-        "end": 5000,
+        "end": 5066,
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 5000,
+        "end": 5050,
         "file": "Voice03/03-A1/03-A1-E08/03-A1-E08-1621",
         "layer": 2,
         "start": 3083
     },
     {
         "action": "PlaySe",
-        "end": 12000,
+        "end": 12383,
         "file": "Voice03/03-A1/03-A1-E08/03-A1-E08-1661",
         "layer": 1,
         "start": 5066
     },
     {
         "action": "PlayMovie",
-        "end": 14000,
+        "end": 14066,
         "file": "Movie03/03-A1/03-A1-Z00/03-A1-Z00-002",
         "start": 5066
     },
     {
         "action": "MoveSom",
-        "end": 11000,
+        "end": 11066,
         "start": 5066
     },
     {
         "action": "PlaySe",
-        "end": 11000,
+        "end": 11233,
         "file": "SysSe/SE_all/h/gucho1",
         "layer": 6,
         "start": 8383
@@ -79,12 +83,16 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 14000,
+        "end": 14066,
         "start": 11066
     },
     {
         "action": "MoveSom",
-        "end": 14000,
+        "end": 14066,
         "start": 11066
+    },
+    {
+        "action": "Next",
+        "start": 14066
     }
 ]

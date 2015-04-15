@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 28183
+    },
+    {
         "action": "PlayBgm",
-        "end": 34000,
+        "end": 34200,
         "file": "BGM/SD_BGM/sdbgm12",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 14000,
+        "end": 14083,
         "file": "Event03/03-KB/03-KB-D09/03-KB-D09-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1216,
         "persona": "Макото",
         "start": 0,
         "text": "Я люблю Сэкаи!^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1216,
         "file": "Voice03/03-KB/03-KB-D09/03-KB-D09-0030",
         "layer": 1,
         "persona": "mak",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2100,
         "persona": "Таисукэ",
         "start": 1216,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2100,
         "file": "Voice03/03-KB/03-KB-D09/03-KB-D09-0040",
         "layer": 1,
         "persona": "tai",
@@ -43,14 +47,14 @@
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3166,
         "persona": "Макото",
         "start": 2100,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3166,
         "file": "Voice03/03-KB/03-KB-D09/03-KB-D09-0050",
         "layer": 1,
         "persona": "xxx",
@@ -58,14 +62,14 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9300,
         "persona": "Таисукэ",
         "start": 3166,
         "text": "Понятно. Значит, вы всё-таки встречаетесь...^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9300,
         "file": "Voice03/03-KB/03-KB-D09/03-KB-D09-0060",
         "layer": 1,
         "persona": "tai",
@@ -73,14 +77,14 @@
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14066,
         "persona": "Макото",
         "start": 9300,
         "text": "Ну, честно говоря, мы не встречаемся.^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14066,
         "file": "Voice03/03-KB/03-KB-D09/03-KB-D09-0070",
         "layer": 1,
         "persona": "mak",
@@ -88,20 +92,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 27000,
+        "end": 27283,
         "file": "Event03/03-KB/03-KB-D09/03-KB-D09-002",
         "start": 14083
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15016,
         "persona": "Таисукэ",
         "start": 14083,
         "text": "Что?^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15016,
         "file": "Voice03/03-KB/03-KB-D09/03-KB-D09-0080",
         "layer": 1,
         "persona": "tai",
@@ -109,14 +113,14 @@
     },
     {
         "action": "PrintText",
-        "end": 23000,
+        "end": 23383,
         "persona": "Макото",
         "start": 15016,
         "text": "Я люблю её, но она не разделяет моих чувств.^"
     },
     {
         "action": "PlayVoice",
-        "end": 23000,
+        "end": 23383,
         "file": "Voice03/03-KB/03-KB-D09/03-KB-D09-0090",
         "layer": 1,
         "persona": "mak",
@@ -124,14 +128,14 @@
     },
     {
         "action": "PrintText",
-        "end": 27000,
+        "end": 27283,
         "persona": "Таисукэ",
         "start": 23383,
         "text": "Вот почему ты начал встречаться с другой девушкой?^"
     },
     {
         "action": "PlayVoice",
-        "end": 27000,
+        "end": 27283,
         "file": "Voice03/03-KB/03-KB-D09/03-KB-D09-0100",
         "layer": 1,
         "persona": "tai",
@@ -139,14 +143,14 @@
     },
     {
         "action": "PrintText",
-        "end": 28000,
+        "end": 28183,
         "persona": "Макото",
         "start": 27266,
         "text": "Э?^"
     },
     {
         "action": "PlayVoice",
-        "end": 28000,
+        "end": 28183,
         "file": "Voice03/03-KB/03-KB-D09/03-KB-D09-0110",
         "layer": 1,
         "persona": "mak",
@@ -154,7 +158,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 34000,
+        "end": 34200,
         "file": "Event03/03-KB/03-KB-D09/03-KB-D09-003",
         "start": 27283
     },
@@ -162,7 +166,11 @@
         "action": "SetSELECT",
         "answer1": "Да, верно.^",
         "answer2": "Нет!^",
-        "end": 33000,
+        "end": 33200,
         "start": 28183
+    },
+    {
+        "action": "Next",
+        "start": 34200
     }
 ]

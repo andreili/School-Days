@@ -1,20 +1,24 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 13333
+    },
+    {
         "action": "PlayBgm",
-        "end": 13000,
+        "end": 13333,
         "file": "BGM/SD_BGM/sdbgm25",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 13000,
+        "end": 13333,
         "file": "Se03/03-BK/03-BK-K04/SE03-BK-K04-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4033,
         "file": "Event03/03-BK/03-BK-K04/03-BK-K04-001",
         "start": 0
     },
@@ -26,20 +30,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9083,
         "file": "Event03/03-BK/03-BK-K03/03-BK-K03-002",
         "start": 4033
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11150,
         "persona": "Макото",
         "start": 4183,
         "text": "Слушай! Обеденный перерыв-то давно закончился!^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11150,
         "file": "Voice03/03-BK/03-BK-K04/03-BK-K04-0070",
         "layer": 1,
         "persona": "mak",
@@ -47,23 +51,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 13000,
+        "end": 13333,
         "file": "Event03/03-BK/03-BK-K04/03-BK-K04-004",
         "start": 9083
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13116,
         "persona": "Котоноха",
         "start": 11333,
         "text": "Да, ты прав!^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13116,
         "file": "Voice03/03-BK/03-BK-K04/03-BK-K04-0080",
         "layer": 0,
         "persona": "kot",
         "start": 11333
+    },
+    {
+        "action": "Next",
+        "start": 13333
     }
 ]

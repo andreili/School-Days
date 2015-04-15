@@ -1,5 +1,9 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 17000
+    },
+    {
         "action": "PlayBgm",
         "end": 17000,
         "file": "BGM/SD_BGM/sdbgm28",
@@ -7,20 +11,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9216,
         "file": "Event03/03-A1/03-A1-D07/03-A1-D07-004",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 0,
+        "end": 383,
         "persona": "Макото",
         "start": 0,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 0,
+        "end": 383,
         "file": "Voice03/03-A1/03-A1-D10/03-A1-D10-0030",
         "layer": 1,
         "persona": "xxx",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1216,
         "persona": "Сэцуна",
         "start": 1050,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1216,
         "file": "Voice03/03-A1/03-A1-D10/03-A1-D10-0040",
         "layer": 0,
         "persona": "xxx",
@@ -43,14 +47,14 @@
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5350,
         "persona": "Макото",
         "start": 2050,
         "text": "Значит, в покое ты меня не оставишь?^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5350,
         "file": "Voice03/03-A1/03-A1-D10/03-A1-D10-0050",
         "layer": 1,
         "persona": "mak",
@@ -58,14 +62,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6316,
         "persona": "Сэцуна",
         "start": 6066,
         "text": "Нет!^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6316,
         "file": "Voice03/03-A1/03-A1-D10/03-A1-D10-0060",
         "layer": 0,
         "persona": "set",
@@ -73,14 +77,14 @@
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8233,
         "persona": "Макото",
         "start": 7116,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8233,
         "file": "Voice03/03-A1/03-A1-D10/03-A1-D10-0070",
         "layer": 1,
         "persona": "xxx",
@@ -88,14 +92,14 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9100,
         "persona": "Сэцуна",
         "start": 8333,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9100,
         "file": "Voice03/03-A1/03-A1-D10/03-A1-D10-0080",
         "layer": 0,
         "persona": "xxx",
@@ -109,14 +113,14 @@
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12250,
         "persona": "Макото",
         "start": 9300,
         "text": "Ладно! Я понял...^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12250,
         "file": "Voice03/03-A1/03-A1-D10/03-A1-D10-0090",
         "layer": 1,
         "persona": "mak",
@@ -124,14 +128,14 @@
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14016,
         "persona": "Сэцуна",
         "start": 12300,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14016,
         "file": "Voice03/03-A1/03-A1-D10/03-A1-D10-0100",
         "layer": 0,
         "persona": "xxx",
@@ -139,14 +143,14 @@
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15366,
         "persona": "Макото",
         "start": 14133,
         "text": "Хочешь, чтобы я все тебе рассказал?^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15366,
         "file": "Voice03/03-A1/03-A1-D10/03-A1-D10-0110",
         "layer": 1,
         "persona": "mak",
@@ -154,17 +158,21 @@
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16233,
         "persona": "Сэцуна",
         "start": 15383,
         "text": "Да.^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16233,
         "file": "Voice03/03-A1/03-A1-D10/03-A1-D10-0120",
         "layer": 0,
         "persona": "set",
         "start": 15383
+    },
+    {
+        "action": "Next",
+        "start": 17000
     }
 ]

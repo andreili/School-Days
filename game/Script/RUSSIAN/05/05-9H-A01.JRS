@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 19366
+    },
+    {
         "action": "PlayBgm",
-        "end": 19000,
+        "end": 19316,
         "file": "BGM/SD_BGM/sdbgm17_semilong",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 11000,
+        "end": 11050,
         "file": "Event05/05-9H/05-9H-A01/05-9H-A01-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5166,
         "persona": "Мать Макото",
         "start": 0,
         "text": "Заходи-заходи, Сэкаи! О, а это кто?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5166,
         "file": "Voice05/05-9H/05-9H-A01/05-9H-A01-0020",
         "layer": 0,
         "persona": "mkm",
@@ -49,14 +53,14 @@
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12133,
         "persona": "Сэцуна",
         "start": 11083,
         "text": "Ваша невестка.^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12133,
         "file": "Voice05/05-9H/05-9H-A01/05-9H-A01-0040",
         "layer": 0,
         "persona": "set",
@@ -64,15 +68,19 @@
     },
     {
         "action": "PlaySe",
-        "end": 19000,
+        "end": 19300,
         "file": "Se05/05-9H/05-9H-A01/SE05-9H-A01-002",
         "layer": 1,
         "start": 15000
     },
     {
         "action": "CreateBG",
-        "end": 19000,
+        "end": 19366,
         "file": "System/Screen/Black",
         "start": 15000
+    },
+    {
+        "action": "Next",
+        "start": 19366
     }
 ]

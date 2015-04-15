@@ -1,7 +1,11 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 207350
+    },
+    {
         "action": "PlaySe",
-        "end": 9000,
+        "end": 9133,
         "file": "Se03/03-SA/03-SA-I03/SE03-SA-I03-001",
         "layer": 1,
         "start": 0
@@ -20,20 +24,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 9000,
+        "end": 9133,
         "file": "Movie03/03-SA/03-SA-I03/03-SA-I03-003",
         "start": 4000
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8283,
         "persona": "Сэкаи",
         "start": 7016,
         "text": "Идём! Потанцуем!^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8283,
         "file": "Voice03/03-SA/03-SA-I03/03-SA-I03-0030",
         "layer": 0,
         "persona": "sek",
@@ -41,14 +45,14 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9133,
         "persona": "Макото",
         "start": 8250,
         "text": "Ага...^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9133,
         "file": "Voice03/03-SA/03-SA-I03/03-SA-I03-0040",
         "layer": 1,
         "persona": "mak",
@@ -56,39 +60,39 @@
     },
     {
         "action": "PlaySe",
-        "end": 78000,
+        "end": 78116,
         "file": "Se03/03-SA/03-SA-I03/SE03-SA-I03-002",
         "layer": 2,
         "start": 9133
     },
     {
         "action": "PlayMovie",
-        "end": 29000,
+        "end": 29133,
         "file": "Movie03/03-SA/03-SA-I03/03-SA-I03-004",
         "start": 9133
     },
     {
         "action": "PlayMovie",
-        "end": 38000,
+        "end": 38083,
         "file": "Movie03/03-SA/03-SA-I03/03-SA-I03-005",
         "start": 29133
     },
     {
         "action": "PlayMovie",
-        "end": 41000,
+        "end": 41116,
         "file": "Movie03/03-SA/03-SA-I03/03-SA-I03-006",
         "start": 38083
     },
     {
         "action": "PrintText",
-        "end": 41000,
+        "end": 41233,
         "persona": "Котоноха",
         "start": 40016,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 41000,
+        "end": 41233,
         "file": "Voice03/03-SA/03-SA-I03/03-SA-I03-0070",
         "layer": 0,
         "persona": "xxx",
@@ -96,32 +100,32 @@
     },
     {
         "action": "PlayMovie",
-        "end": 45000,
+        "end": 45016,
         "file": "Movie03/03-SA/03-SA-I03/03-SA-I03-007",
         "start": 41116
     },
     {
         "action": "PlayMovie",
-        "end": 55000,
+        "end": 55216,
         "file": "Movie03/03-SA/03-SA-I03/03-SA-I03-008",
         "start": 45016
     },
     {
         "action": "PlayMovie",
-        "end": 59000,
+        "end": 59183,
         "file": "Movie03/03-SA/03-SA-I03/03-SA-I03-009",
         "start": 55216
     },
     {
         "action": "PrintText",
-        "end": 59000,
+        "end": 59216,
         "persona": "Котоноха",
         "start": 55266,
         "text": "Макото... Нет...^"
     },
     {
         "action": "PlayVoice",
-        "end": 59000,
+        "end": 59216,
         "file": "Voice03/03-SA/03-SA-I03/03-SA-I03-0090",
         "layer": 0,
         "persona": "kot",
@@ -141,14 +145,14 @@
     },
     {
         "action": "PrintText",
-        "end": 68000,
+        "end": 68166,
         "persona": "Котоноха",
         "start": 67116,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 68000,
+        "end": 68166,
         "file": "Voice03/03-SA/03-SA-I03/03-SA-I03-0120",
         "layer": 0,
         "persona": "kot",
@@ -156,14 +160,14 @@
     },
     {
         "action": "PrintText",
-        "end": 75000,
+        "end": 75250,
         "persona": "Котоноха",
         "start": 68300,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 75000,
+        "end": 75250,
         "file": "Voice03/03-SA/03-SA-I03/03-SA-I03-0160",
         "layer": 0,
         "persona": "kot",
@@ -192,14 +196,18 @@
     },
     {
         "action": "EndBGM",
-        "end": 207000,
+        "end": 207283,
         "file": "BGM/Vocal/SDV04",
         "start": 77000
     },
     {
         "action": "EndRoll",
-        "end": 207000,
+        "end": 207350,
         "file": "patch101/endroll/04-15",
         "start": 86000
+    },
+    {
+        "action": "Next",
+        "start": 208350
     }
 ]

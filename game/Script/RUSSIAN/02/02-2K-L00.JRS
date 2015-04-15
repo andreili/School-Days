@@ -1,13 +1,17 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 11166
+    },
+    {
         "action": "PlayBgm",
-        "end": 11000,
+        "end": 11166,
         "file": "BGM/SD_BGM/sdbgm07",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 8000,
+        "end": 8316,
         "file": "SysSe/SE_all/keitai/tyakusin_kotonoha",
         "layer": 1,
         "start": 0
@@ -20,26 +24,26 @@
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5050,
         "file": "Event02/02-2K/02-2K-L00/02-2K-L00-002",
         "start": 2000
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7116,
         "file": "Event02/02-2K/02-2K-L00/02-2K-L00-003",
         "start": 5050
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6200,
         "persona": "Котоноха",
         "start": 5316,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6200,
         "file": "Voice02/02-2K/02-2K-L00/02-2K-L00-0040",
         "layer": 0,
         "persona": "kot",
@@ -47,20 +51,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8266,
         "file": "Event02/02-2K/02-2K-L00/02-2K-L00-004",
         "start": 7116
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7316,
         "persona": "Котоноха",
         "start": 7116,
         "text": "А...^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7316,
         "file": "Voice02/02-2K/02-2K-L00/02-2K-L00-0060",
         "layer": 0,
         "persona": "kot",
@@ -68,30 +72,34 @@
     },
     {
         "action": "CreateBG",
-        "end": 11000,
+        "end": 11166,
         "file": "Event02/02-2K/02-2K-L00/02-2K-L00-005",
         "start": 8266
     },
     {
         "action": "PlaySe",
-        "end": 9000,
+        "end": 9016,
         "file": "SysSe/SE_all/keitai/keitai_push2",
         "layer": 2,
         "start": 8383
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11150,
         "persona": "Котоноха",
         "start": 9083,
         "text": "Аллё? Макото?^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11150,
         "file": "Voice02/02-2K/02-2K-L00/02-2K-L00-0080",
         "layer": 0,
         "persona": "kot",
         "start": 9083
+    },
+    {
+        "action": "Next",
+        "start": 11166
     }
 ]

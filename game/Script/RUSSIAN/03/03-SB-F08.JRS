@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 17316
+    },
+    {
         "action": "PlayBgm",
-        "end": 17000,
+        "end": 17316,
         "file": "BGM/SD_BGM/sdbgm07",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4366,
         "file": "Event03/03-SB/03-SB-F08/03-SB-F08-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 0,
+        "end": 316,
         "persona": "Макото",
         "start": 0,
         "text": "...^"
     },
     {
         "action": "PlayVoice",
-        "end": 0,
+        "end": 316,
         "file": "Voice03/03-SB/03-SB-F08/03-SB-F08-0030",
         "layer": 1,
         "persona": "xxx",
@@ -43,20 +47,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9283,
         "file": "Event03/03-SB/03-SB-F08/03-SB-F08-002",
         "start": 4366
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7316,
         "persona": "Макото",
         "start": 5000,
         "text": "А... Э... Прости.^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7316,
         "file": "Voice03/03-SB/03-SB-F08/03-SB-F08-0050",
         "layer": 1,
         "persona": "mak",
@@ -64,14 +68,14 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9300,
         "persona": "Котоноха",
         "start": 7316,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9300,
         "file": "Voice03/03-SB/03-SB-F08/03-SB-F08-0060",
         "layer": 0,
         "persona": "xxx",
@@ -79,7 +83,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 13000,
+        "end": 13016,
         "file": "Event03/03-SB/03-SB-F08/03-SB-F08-003",
         "start": 9266
     },
@@ -100,14 +104,14 @@
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14233,
         "persona": "Котоноха",
         "start": 13000,
         "text": "Неважно уже!^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14233,
         "file": "Voice03/03-SB/03-SB-F08/03-SB-F08-0080",
         "layer": 0,
         "persona": "kot",
@@ -115,26 +119,26 @@
     },
     {
         "action": "CreateBG",
-        "end": 14000,
+        "end": 14250,
         "file": "Event03/03-SB/03-SB-F08/03-SB-F08-003B",
         "start": 13016
     },
     {
         "action": "CreateBG",
-        "end": 15000,
+        "end": 15100,
         "file": "Event03/03-SB/03-SB-F08/03-SB-F08-003C",
         "start": 14250
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15083,
         "persona": "Макото",
         "start": 14250,
         "text": "Э?^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15083,
         "file": "Voice03/03-SB/03-SB-F08/03-SB-F08-0090",
         "layer": 1,
         "persona": "mak",
@@ -142,14 +146,14 @@
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16333,
         "persona": "Котоноха",
         "start": 15083,
         "text": "Забудь.^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16333,
         "file": "Voice03/03-SB/03-SB-F08/03-SB-F08-0100",
         "layer": 0,
         "persona": "kot",
@@ -157,23 +161,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 17000,
+        "end": 17316,
         "file": "Event03/03-SB/03-SB-F08/03-SB-F08-004",
         "start": 15100
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17233,
         "persona": "Макото",
         "start": 16350,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17233,
         "file": "Voice03/03-SB/03-SB-F08/03-SB-F08-0110",
         "layer": 1,
         "persona": "xxx",
         "start": 16350
+    },
+    {
+        "action": "Next",
+        "start": 17316
     }
 ]

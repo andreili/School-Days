@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 204016
+    },
+    {
         "action": "PlayBgm",
-        "end": 204000,
+        "end": 204016,
         "file": "BGM/SD_BGM/sdbgm17",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5083,
         "file": "Event04/04-KB/04-KB-E00/04-KB-E00-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1316,
         "persona": "Сэкаи",
         "start": 250,
         "text": "Я дома!^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1316,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0030",
         "layer": 0,
         "persona": "sek",
@@ -43,14 +47,14 @@
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5166,
         "persona": "Сэкаи",
         "start": 3000,
         "text": "Рано ты сегодня, мам...^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5166,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0050",
         "layer": 0,
         "persona": "sek",
@@ -64,14 +68,14 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9050,
         "persona": "Ёко",
         "start": 5166,
         "text": "На парнишку с работы немножко надавила, вот и сумела пораньше уйти.^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9050,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0060",
         "layer": 0,
         "persona": "yko",
@@ -79,14 +83,14 @@
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12333,
         "persona": "Сэкаи",
         "start": 9050,
         "text": "Смотри, опять неправильно поймут.^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12333,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0070",
         "layer": 0,
         "persona": "sek",
@@ -109,7 +113,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 28000,
+        "end": 28166,
         "file": "Event04/04-KB/04-KB-E00/04-KB-E00-002B",
         "start": 18000
     },
@@ -130,14 +134,14 @@
     },
     {
         "action": "PrintText",
-        "end": 26000,
+        "end": 26233,
         "persona": "Ёко",
         "start": 23000,
         "text": "Да? А как насчёт помоложе?^"
     },
     {
         "action": "PlayVoice",
-        "end": 26000,
+        "end": 26233,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0100",
         "layer": 0,
         "persona": "yko",
@@ -145,14 +149,14 @@
     },
     {
         "action": "PrintText",
-        "end": 28000,
+        "end": 28166,
         "persona": "Сэкаи",
         "start": 26216,
         "text": "Прекрати!^"
     },
     {
         "action": "PlayVoice",
-        "end": 28000,
+        "end": 28166,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0110",
         "layer": 0,
         "persona": "sek",
@@ -160,20 +164,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 38000,
+        "end": 38300,
         "file": "Event04/04-KB/04-KB-E00/04-KB-E00-002",
         "start": 28166
     },
     {
         "action": "PrintText",
-        "end": 29000,
+        "end": 29100,
         "persona": "Ёко",
         "start": 28166,
         "text": "Сэкаи.^"
     },
     {
         "action": "PlayVoice",
-        "end": 29000,
+        "end": 29100,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0120",
         "layer": 0,
         "persona": "yko",
@@ -181,14 +185,14 @@
     },
     {
         "action": "PrintText",
-        "end": 30000,
+        "end": 30050,
         "persona": "Сэкаи",
         "start": 29100,
         "text": "Что?^"
     },
     {
         "action": "PlayVoice",
-        "end": 30000,
+        "end": 30050,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0130",
         "layer": 0,
         "persona": "sek",
@@ -196,14 +200,14 @@
     },
     {
         "action": "PrintText",
-        "end": 31000,
+        "end": 31300,
         "persona": "Ёко",
         "start": 30033,
         "text": "Смотрю, ты оживилась.^"
     },
     {
         "action": "PlayVoice",
-        "end": 31000,
+        "end": 31300,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0140",
         "layer": 0,
         "persona": "yko",
@@ -211,14 +215,14 @@
     },
     {
         "action": "PrintText",
-        "end": 34000,
+        "end": 34183,
         "persona": "Сэкаи",
         "start": 31300,
         "text": "Э?.. Правда?^"
     },
     {
         "action": "PlayVoice",
-        "end": 34000,
+        "end": 34183,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0150",
         "layer": 0,
         "persona": "sek",
@@ -241,20 +245,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 46000,
+        "end": 46316,
         "file": "Event04/04-KB/04-KB-E00/04-KB-E00-003",
         "start": 38300
     },
     {
         "action": "PrintText",
-        "end": 41000,
+        "end": 41183,
         "persona": "Сэкаи",
         "start": 39000,
         "text": "Да нет, ничего такого.^"
     },
     {
         "action": "PlayVoice",
-        "end": 41000,
+        "end": 41183,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0170",
         "layer": 0,
         "persona": "sek",
@@ -262,14 +266,14 @@
     },
     {
         "action": "PrintText",
-        "end": 44000,
+        "end": 44133,
         "persona": "Ёко",
         "start": 41183,
         "text": "Всё благодаря мальчику, что за тобой заходил?^"
     },
     {
         "action": "PlayVoice",
-        "end": 44000,
+        "end": 44133,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0180",
         "layer": 0,
         "persona": "yko",
@@ -277,14 +281,14 @@
     },
     {
         "action": "PrintText",
-        "end": 46000,
+        "end": 46383,
         "persona": "Сэкаи",
         "start": 44133,
         "text": "Нет! Он тут вообще ни при чём!^"
     },
     {
         "action": "PlayVoice",
-        "end": 46000,
+        "end": 46383,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0190",
         "layer": 0,
         "persona": "sek",
@@ -292,20 +296,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 65000,
+        "end": 65316,
         "file": "Event04/04-KB/04-KB-E00/04-KB-E00-004",
         "start": 46316
     },
     {
         "action": "PrintText",
-        "end": 51000,
+        "end": 51333,
         "persona": "Ёко",
         "start": 46383,
         "text": "Рассказывай давай. Который? Лохматый?^"
     },
     {
         "action": "PlayVoice",
-        "end": 51000,
+        "end": 51333,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0200",
         "layer": 0,
         "persona": "yko",
@@ -313,14 +317,14 @@
     },
     {
         "action": "PrintText",
-        "end": 53000,
+        "end": 53300,
         "persona": "Сэкаи",
         "start": 51333,
         "text": "Да какой там Саванага?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 53000,
+        "end": 53300,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0210",
         "layer": 0,
         "persona": "sek",
@@ -328,14 +332,14 @@
     },
     {
         "action": "PrintText",
-        "end": 59000,
+        "end": 59250,
         "persona": "Ёко",
         "start": 53300,
         "text": "О... Лохматый у нас, значит, Саванага. А второй?^"
     },
     {
         "action": "PlayVoice",
-        "end": 59000,
+        "end": 59250,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0220",
         "layer": 0,
         "persona": "yko",
@@ -343,14 +347,14 @@
     },
     {
         "action": "PrintText",
-        "end": 60000,
+        "end": 60216,
         "persona": "Сэкаи",
         "start": 59250,
         "text": "Макото.^"
     },
     {
         "action": "PlayVoice",
-        "end": 60000,
+        "end": 60216,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0230",
         "layer": 0,
         "persona": "sek",
@@ -358,14 +362,14 @@
     },
     {
         "action": "PrintText",
-        "end": 66000,
+        "end": 66016,
         "persona": "Ёко",
         "start": 60216,
         "text": "А! Так это тот самый Макото!^"
     },
     {
         "action": "PlayVoice",
-        "end": 66000,
+        "end": 66016,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0240",
         "layer": 0,
         "persona": "yko",
@@ -373,20 +377,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 80000,
+        "end": 80133,
         "file": "Event04/04-KB/04-KB-E00/04-KB-E00-005",
         "start": 65316
     },
     {
         "action": "PrintText",
-        "end": 70000,
+        "end": 70033,
         "persona": "Сэкаи",
         "start": 66016,
         "text": "А! Блин! Проехали!^"
     },
     {
         "action": "PlayVoice",
-        "end": 70000,
+        "end": 70033,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0250",
         "layer": 0,
         "persona": "sek",
@@ -394,14 +398,14 @@
     },
     {
         "action": "PrintText",
-        "end": 79000,
+        "end": 79133,
         "persona": "Ёко",
         "start": 70033,
         "text": "Да ладно тебе... Значит, вот он какой, Макото... Очень даже неплох.^"
     },
     {
         "action": "PlayVoice",
-        "end": 79000,
+        "end": 79133,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0260",
         "layer": 0,
         "persona": "yko",
@@ -409,14 +413,14 @@
     },
     {
         "action": "PrintText",
-        "end": 80000,
+        "end": 80216,
         "persona": "Сэкаи",
         "start": 79150,
         "text": "Может быть...^"
     },
     {
         "action": "PlayVoice",
-        "end": 80000,
+        "end": 80216,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0270",
         "layer": 0,
         "persona": "sek",
@@ -424,20 +428,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 99000,
+        "end": 99083,
         "file": "Event04/04-KB/04-KB-E00/04-KB-E00-006",
         "start": 80133
     },
     {
         "action": "PrintText",
-        "end": 87000,
+        "end": 87283,
         "persona": "Ёко",
         "start": 80216,
         "text": "Ты как узнала про отъезд Сэцуны, сама не своя стала. Я за тебя волновалась.^"
     },
     {
         "action": "PlayVoice",
-        "end": 87000,
+        "end": 87283,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0280",
         "layer": 0,
         "persona": "yko",
@@ -445,14 +449,14 @@
     },
     {
         "action": "PrintText",
-        "end": 88000,
+        "end": 88216,
         "persona": "Сэкаи",
         "start": 87283,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 88000,
+        "end": 88216,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0290",
         "layer": 0,
         "persona": "sek",
@@ -460,14 +464,14 @@
     },
     {
         "action": "PrintText",
-        "end": 92000,
+        "end": 92200,
         "persona": "Ёко",
         "start": 88216,
         "text": "Поэтому! Приведи-ка Макото к нам в гости!^"
     },
     {
         "action": "PlayVoice",
-        "end": 92000,
+        "end": 92200,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0300",
         "layer": 0,
         "persona": "yko",
@@ -475,14 +479,14 @@
     },
     {
         "action": "PrintText",
-        "end": 95000,
+        "end": 95233,
         "persona": "Сэкаи",
         "start": 92200,
         "text": "Что-то я связи не вижу!^"
     },
     {
         "action": "PlayVoice",
-        "end": 95000,
+        "end": 95233,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0310",
         "layer": 0,
         "persona": "sek",
@@ -490,14 +494,14 @@
     },
     {
         "action": "PrintText",
-        "end": 99000,
+        "end": 99166,
         "persona": "Ёко",
         "start": 95233,
         "text": "Да будет тебе! Познакомь нас!^"
     },
     {
         "action": "PlayVoice",
-        "end": 99000,
+        "end": 99166,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0320",
         "layer": 0,
         "persona": "yko",
@@ -505,20 +509,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 118000,
+        "end": 118233,
         "file": "Event04/04-KB/04-KB-E00/04-KB-E00-001",
         "start": 99083
     },
     {
         "action": "PrintText",
-        "end": 100000,
+        "end": 100116,
         "persona": "Сэкаи",
         "start": 99166,
         "text": "Нет уж!^"
     },
     {
         "action": "PlayVoice",
-        "end": 100000,
+        "end": 100116,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0330",
         "layer": 0,
         "persona": "sek",
@@ -526,14 +530,14 @@
     },
     {
         "action": "PrintText",
-        "end": 104000,
+        "end": 104200,
         "persona": "Ёко",
         "start": 100100,
         "text": "И как далеко вы уже зашли? Целовались?^"
     },
     {
         "action": "PlayVoice",
-        "end": 104000,
+        "end": 104200,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0340",
         "layer": 0,
         "persona": "yko",
@@ -541,14 +545,14 @@
     },
     {
         "action": "PrintText",
-        "end": 106000,
+        "end": 106200,
         "persona": "Сэкаи",
         "start": 104200,
         "text": "Ничего мы не делали!^"
     },
     {
         "action": "PlayVoice",
-        "end": 106000,
+        "end": 106200,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0350",
         "layer": 0,
         "persona": "sek",
@@ -556,14 +560,14 @@
     },
     {
         "action": "PrintText",
-        "end": 117000,
+        "end": 117133,
         "persona": "Ёко",
         "start": 106200,
         "text": "Материнских глаз не обмануть!.. Вижу... Как ты с ним целуешься...^"
     },
     {
         "action": "PlayVoice",
-        "end": 117000,
+        "end": 117133,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0360",
         "layer": 0,
         "persona": "yko",
@@ -571,14 +575,14 @@
     },
     {
         "action": "PrintText",
-        "end": 118000,
+        "end": 118316,
         "persona": "Сэкаи",
         "start": 117133,
         "text": "Э?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 118000,
+        "end": 118316,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0370",
         "layer": 0,
         "persona": "sek",
@@ -586,20 +590,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 145000,
+        "end": 145033,
         "file": "Event04/04-KB/04-KB-E00/04-KB-E00-008",
         "start": 118233
     },
     {
         "action": "PrintText",
-        "end": 123000,
+        "end": 123283,
         "persona": "Ёко",
         "start": 118316,
         "text": "Макото сопротивляется, но не может вырваться!^"
     },
     {
         "action": "PlayVoice",
-        "end": 123000,
+        "end": 123283,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0380",
         "layer": 0,
         "persona": "yko",
@@ -607,14 +611,14 @@
     },
     {
         "action": "PrintText",
-        "end": 129000,
+        "end": 129050,
         "persona": "Ёко",
         "start": 123250,
         "text": "Ах! Какая же вредная дочь! Не помню, чтобы я тебя так растила!..^"
     },
     {
         "action": "PlayVoice",
-        "end": 129000,
+        "end": 129050,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0381",
         "layer": 0,
         "persona": "yko",
@@ -622,14 +626,14 @@
     },
     {
         "action": "PrintText",
-        "end": 131000,
+        "end": 131150,
         "persona": "Сэкаи",
         "start": 129133,
         "text": "И ничего он не сопротивлялся!^"
     },
     {
         "action": "PlayVoice",
-        "end": 131000,
+        "end": 131150,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0390",
         "layer": 0,
         "persona": "sek",
@@ -667,14 +671,14 @@
     },
     {
         "action": "PrintText",
-        "end": 144000,
+        "end": 144066,
         "persona": "Ёко",
         "start": 138000,
         "text": "Да ладно тебе. Ты уж не сдавайся со своим Макото...^"
     },
     {
         "action": "PlayVoice",
-        "end": 144000,
+        "end": 144066,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0420",
         "layer": 0,
         "persona": "yko",
@@ -682,14 +686,14 @@
     },
     {
         "action": "PrintText",
-        "end": 145000,
+        "end": 145133,
         "persona": "Сэкаи",
         "start": 144066,
         "text": "Не буду!^"
     },
     {
         "action": "PlayVoice",
-        "end": 145000,
+        "end": 145133,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0430",
         "layer": 0,
         "persona": "sek",
@@ -697,20 +701,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 167000,
+        "end": 167033,
         "file": "Event04/04-KB/04-KB-E00/04-KB-E00-002",
         "start": 145033
     },
     {
         "action": "PrintText",
-        "end": 149000,
+        "end": 149183,
         "persona": "Ёко",
         "start": 145133,
         "text": "А я, в свою очередь, какого-нибудь юношу охмурю!^"
     },
     {
         "action": "PlayVoice",
-        "end": 149000,
+        "end": 149183,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0440",
         "layer": 0,
         "persona": "yko",
@@ -718,14 +722,14 @@
     },
     {
         "action": "PrintText",
-        "end": 151000,
+        "end": 151083,
         "persona": "Сэкаи",
         "start": 149183,
         "text": "Не вздумай!^"
     },
     {
         "action": "PlayVoice",
-        "end": 151000,
+        "end": 151083,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0450",
         "layer": 0,
         "persona": "sek",
@@ -733,14 +737,14 @@
     },
     {
         "action": "PrintText",
-        "end": 152000,
+        "end": 152200,
         "persona": "Ёко",
         "start": 151083,
         "text": "Вредина.^"
     },
     {
         "action": "PlayVoice",
-        "end": 152000,
+        "end": 152200,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0460",
         "layer": 0,
         "persona": "yko",
@@ -748,14 +752,14 @@
     },
     {
         "action": "PrintText",
-        "end": 157000,
+        "end": 157200,
         "persona": "Сэкаи",
         "start": 152200,
         "text": "От твоих разговоров и двинуться можно...^"
     },
     {
         "action": "PlayVoice",
-        "end": 157000,
+        "end": 157200,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0470",
         "layer": 0,
         "persona": "sek",
@@ -763,14 +767,14 @@
     },
     {
         "action": "PrintText",
-        "end": 160000,
+        "end": 160083,
         "persona": "Ёко",
         "start": 157200,
         "text": "Я польщена.^"
     },
     {
         "action": "PlayVoice",
-        "end": 160000,
+        "end": 160083,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0480",
         "layer": 0,
         "persona": "yko",
@@ -778,14 +782,14 @@
     },
     {
         "action": "PrintText",
-        "end": 161000,
+        "end": 161083,
         "persona": "Сэкаи",
         "start": 160083,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 161000,
+        "end": 161083,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0490",
         "layer": 0,
         "persona": "sek",
@@ -793,14 +797,14 @@
     },
     {
         "action": "PrintText",
-        "end": 163000,
+        "end": 163150,
         "persona": "Ёко",
         "start": 161083,
         "text": "Любовные вздохи.^"
     },
     {
         "action": "PlayVoice",
-        "end": 163000,
+        "end": 163150,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0500",
         "layer": 0,
         "persona": "yko",
@@ -808,14 +812,14 @@
     },
     {
         "action": "PrintText",
-        "end": 165000,
+        "end": 165266,
         "persona": "Сэкаи",
         "start": 163150,
         "text": "Скажи, мам...^"
     },
     {
         "action": "PlayVoice",
-        "end": 165000,
+        "end": 165266,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0510",
         "layer": 0,
         "persona": "sek",
@@ -823,14 +827,14 @@
     },
     {
         "action": "PrintText",
-        "end": 166000,
+        "end": 166200,
         "persona": "Ёко",
         "start": 165266,
         "text": "Что?^"
     },
     {
         "action": "PlayVoice",
-        "end": 166000,
+        "end": 166200,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0520",
         "layer": 0,
         "persona": "yko",
@@ -838,20 +842,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 185000,
+        "end": 185100,
         "file": "Event04/04-KB/04-KB-E00/04-KB-E00-010",
         "start": 167033
     },
     {
         "action": "PrintText",
-        "end": 175000,
+        "end": 175100,
         "persona": "Сэкаи",
         "start": 167066,
         "text": "Я ведь... Твоя дочь... Значит... И меня парень потом бросит?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 175000,
+        "end": 175100,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0530",
         "layer": 0,
         "persona": "sek",
@@ -859,14 +863,14 @@
     },
     {
         "action": "PrintText",
-        "end": 177000,
+        "end": 177183,
         "persona": "Ёко",
         "start": 175100,
         "text": "А меня никто не бросал!^"
     },
     {
         "action": "PlayVoice",
-        "end": 177000,
+        "end": 177183,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0540",
         "layer": 0,
         "persona": "yko",
@@ -874,14 +878,14 @@
     },
     {
         "action": "PrintText",
-        "end": 179000,
+        "end": 179033,
         "persona": "Сэкаи",
         "start": 177200,
         "text": "Ещё как бросил!^"
     },
     {
         "action": "PlayVoice",
-        "end": 179000,
+        "end": 179033,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0550",
         "layer": 0,
         "persona": "sek",
@@ -889,14 +893,14 @@
     },
     {
         "action": "PrintText",
-        "end": 183000,
+        "end": 183033,
         "persona": "Ёко",
         "start": 179016,
         "text": "Нет! Я сама от него ушла!^"
     },
     {
         "action": "PlayVoice",
-        "end": 183000,
+        "end": 183033,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0560",
         "layer": 0,
         "persona": "yko",
@@ -904,14 +908,14 @@
     },
     {
         "action": "PrintText",
-        "end": 185000,
+        "end": 185183,
         "persona": "Сэкаи",
         "start": 183033,
         "text": "Да какая разница...^"
     },
     {
         "action": "PlayVoice",
-        "end": 185000,
+        "end": 185183,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0570",
         "layer": 0,
         "persona": "sek",
@@ -919,20 +923,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 204000,
+        "end": 204016,
         "file": "Event04/04-KB/04-KB-E00/04-KB-E00-011",
         "start": 185100
     },
     {
         "action": "PrintText",
-        "end": 193000,
+        "end": 193266,
         "persona": "Ёко",
         "start": 185166,
         "text": "Блин! Как вспомню, так аж и хочется рвать и метать! Сэкаи, я котлеты жарить буду, поешь?^"
     },
     {
         "action": "PlayVoice",
-        "end": 193000,
+        "end": 193266,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0580",
         "layer": 0,
         "persona": "yko",
@@ -940,14 +944,14 @@
     },
     {
         "action": "PrintText",
-        "end": 198000,
+        "end": 198050,
         "persona": "Сэкаи",
         "start": 193266,
         "text": "Мам... Ты скорее не рвать и метать, а просто есть хочешь...^"
     },
     {
         "action": "PlayVoice",
-        "end": 198000,
+        "end": 198050,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0590",
         "layer": 0,
         "persona": "sek",
@@ -955,14 +959,14 @@
     },
     {
         "action": "PrintText",
-        "end": 200000,
+        "end": 200283,
         "persona": "Ёко",
         "start": 198050,
         "text": "Да какая разница?! Ешь давай!^"
     },
     {
         "action": "PlayVoice",
-        "end": 200000,
+        "end": 200283,
         "file": "Voice04/04-KB/04-KB-E00/04-KB-E00-0600",
         "layer": 0,
         "persona": "yko",
@@ -986,7 +990,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 204000,
+        "end": 204016,
         "start": 203016
+    },
+    {
+        "action": "Next",
+        "start": 204016
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 146066
+    },
+    {
         "action": "PlayBgm",
         "end": 10000,
         "file": "BGM/SD_BGM/sdbgm19",
@@ -7,20 +11,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6100,
         "file": "Event04/04-SE/04-SE-K01/04-SE-K01-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1100,
         "persona": "Макото",
         "start": 0,
         "text": "Не понимаю...^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1100,
         "file": "Voice04/04-SE/04-SE-K01/04-SE-K01-0030",
         "layer": 1,
         "persona": "mak",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2066,
         "persona": "Котоноха",
         "start": 1100,
         "text": "Э?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2066,
         "file": "Voice04/04-SE/04-SE-K01/04-SE-K01-0040",
         "layer": 0,
         "persona": "kot",
@@ -43,14 +47,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6116,
         "persona": "Макото",
         "start": 2066,
         "text": "Мне уже... Собственных чувств не понять...^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6116,
         "file": "Voice04/04-SE/04-SE-K01/04-SE-K01-0050",
         "layer": 1,
         "persona": "mak",
@@ -58,20 +62,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 14000,
+        "end": 14116,
         "file": "Event04/04-SE/04-SE-K01/04-SE-K01-002",
         "start": 6100
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8100,
         "persona": "Котоноха",
         "start": 6116,
         "text": "Ну, тогда со мной!..^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8100,
         "file": "Voice04/04-SE/04-SE-K01/04-SE-K01-0060",
         "layer": 0,
         "persona": "kot",
@@ -79,14 +83,14 @@
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12350,
         "persona": "Макото",
         "start": 8100,
         "text": "Нет. Сейчас... Я не буду ни с кем встречаться.^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12350,
         "file": "Voice04/04-SE/04-SE-K01/04-SE-K01-0070",
         "layer": 1,
         "persona": "mak",
@@ -94,14 +98,14 @@
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14100,
         "persona": "Котоноха",
         "start": 12350,
         "text": "Но...^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14100,
         "file": "Voice04/04-SE/04-SE-K01/04-SE-K01-0080",
         "layer": 0,
         "persona": "kot",
@@ -109,14 +113,14 @@
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16133,
         "persona": "Макото",
         "start": 14100,
         "text": "Надо успокоиться. И всё обдумать.^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16133,
         "file": "Voice04/04-SE/04-SE-K01/04-SE-K01-0090",
         "layer": 1,
         "persona": "mak",
@@ -124,26 +128,26 @@
     },
     {
         "action": "EndBGM",
-        "end": 144000,
+        "end": 144383,
         "file": "BGM/Vocal/SDV04",
         "start": 14100
     },
     {
         "action": "CreateBG",
-        "end": 16000,
+        "end": 16166,
         "file": "Event04/04-SE/04-SE-K01/04-SE-K01-003",
         "start": 14116
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17183,
         "persona": "Котоноха",
         "start": 16133,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17183,
         "file": "Voice04/04-SE/04-SE-K01/04-SE-K01-0100",
         "layer": 0,
         "persona": "xxx",
@@ -151,20 +155,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 21000,
+        "end": 21166,
         "file": "Event04/04-SE/04-SE-K01/04-SE-K01-001",
         "start": 16166
     },
     {
         "action": "PrintText",
-        "end": 19000,
+        "end": 19016,
         "persona": "Сэкаи",
         "start": 17166,
         "text": "Макото...^"
     },
     {
         "action": "PlayVoice",
-        "end": 19000,
+        "end": 19016,
         "file": "Voice04/04-SE/04-SE-K01/04-SE-K01-0110",
         "layer": 0,
         "persona": "sek",
@@ -172,8 +176,12 @@
     },
     {
         "action": "EndRoll",
-        "end": 146000,
+        "end": 146066,
         "file": "Movie04/ENDROLL/05-22",
         "start": 21166
+    },
+    {
+        "action": "Next",
+        "start": 147066
     }
 ]

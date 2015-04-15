@@ -1,27 +1,31 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 19283
+    },
+    {
         "action": "PlaySe",
-        "end": 19000,
+        "end": 19283,
         "file": "Se01/01-00/01-00-E00/SE01-00-E00-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8133,
         "file": "Event02/02-2K/02-2K-F08/02-2K-F08-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1100,
         "persona": "Макото",
         "start": 0,
         "text": "Что-то не так?^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1100,
         "file": "Voice02/02-2K/02-2K-F08/02-2K-F08-0030",
         "layer": 1,
         "persona": "mak",
@@ -29,14 +33,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4133,
         "persona": "Котоноха",
         "start": 1116,
         "text": "Прости, я не могу...^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4133,
         "file": "Voice02/02-2K/02-2K-F08/02-2K-F08-0040",
         "layer": 0,
         "persona": "kot",
@@ -44,14 +48,14 @@
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5350,
         "persona": "Макото",
         "start": 4133,
         "text": "Что ты не можешь?^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5350,
         "file": "Voice02/02-2K/02-2K-F08/02-2K-F08-0050",
         "layer": 1,
         "persona": "mak",
@@ -59,14 +63,14 @@
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8133,
         "persona": "Котоноха",
         "start": 5366,
         "text": "Всё слишком быстро...^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8133,
         "file": "Voice02/02-2K/02-2K-F08/02-2K-F08-0060",
         "layer": 0,
         "persona": "kot",
@@ -74,20 +78,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 19000,
+        "end": 19283,
         "file": "Event02/02-2K/02-2K-F03/02-2K-F03-003",
         "start": 8133
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10350,
         "persona": "Макото",
         "start": 8133,
         "text": "Ничего не быстро! Я же только...^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10350,
         "file": "Voice02/02-2K/02-2K-F08/02-2K-F08-0070",
         "layer": 1,
         "persona": "mak",
@@ -95,14 +99,14 @@
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13083,
         "persona": "Котоноха",
         "start": 10366,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13083,
         "file": "Voice02/02-2K/02-2K-F08/02-2K-F08-0080",
         "layer": 0,
         "persona": "xxx",
@@ -110,14 +114,14 @@
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17050,
         "persona": "Макото",
         "start": 13083,
         "text": "Ладно, я всё понял...^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17050,
         "file": "Voice02/02-2K/02-2K-F08/02-2K-F08-0090",
         "layer": 1,
         "persona": "mak",
@@ -125,17 +129,21 @@
     },
     {
         "action": "PrintText",
-        "end": 19000,
+        "end": 19016,
         "persona": "Котоноха",
         "start": 17316,
         "text": "Извини...^"
     },
     {
         "action": "PlayVoice",
-        "end": 19000,
+        "end": 19016,
         "file": "Voice02/02-2K/02-2K-F08/02-2K-F08-0100",
         "layer": 0,
         "persona": "kot",
         "start": 17316
+    },
+    {
+        "action": "Next",
+        "start": 19283
     }
 ]

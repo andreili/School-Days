@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 3016
+    },
+    {
         "action": "PlayBgm",
-        "end": 3000,
+        "end": 3016,
         "file": "BGM/SD_BGM/sdbgm07",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 3000,
+        "end": 3016,
         "file": "Se03/03-SA/03-SA-G04/SE03-SA-G04-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3016,
         "file": "Event03/03-SA/03-SA-G04/03-SA-G04-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1216,
         "persona": "Макото",
         "start": 0,
         "text": "Сэкаи, ты другая!^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1216,
         "file": "Voice03/03-SA/03-SA-G04/03-SA-G04-0030",
         "layer": 1,
         "persona": "mak",
@@ -35,17 +39,21 @@
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2233,
         "persona": "Сэкаи",
         "start": 1216,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2233,
         "file": "Voice03/03-SA/03-SA-G04/03-SA-G04-0040",
         "layer": 0,
         "persona": "sek",
         "start": 1216
+    },
+    {
+        "action": "Next",
+        "start": 3016
     }
 ]

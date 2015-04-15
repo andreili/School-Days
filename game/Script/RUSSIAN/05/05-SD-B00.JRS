@@ -1,20 +1,24 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 87150
+    },
+    {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4016,
         "file": "Event05/05-SD/05-SD-B00/05-SD-B00-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4033,
         "persona": "Сэкаи",
         "start": 0,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4033,
         "file": "Voice05/05-SD/05-SD-B00/05-SD-B00-0040",
         "layer": 0,
         "persona": "sek",
@@ -22,20 +26,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12250,
         "file": "Event05/05-SD/05-SD-B00/05-SD-B00-002",
         "start": 4016
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7166,
         "persona": "Ёко",
         "start": 4033,
         "text": "Сэкаи! Пора вставать!^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7166,
         "file": "Voice05/05-SD/05-SD-B00/05-SD-B00-0050",
         "layer": 0,
         "persona": "yko",
@@ -43,14 +47,14 @@
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12233,
         "persona": "Сэкаи",
         "start": 7183,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12233,
         "file": "Voice05/05-SD/05-SD-B00/05-SD-B00-0060",
         "layer": 0,
         "persona": "sek",
@@ -58,20 +62,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 20000,
+        "end": 20316,
         "file": "Event05/05-SD/05-SD-B00/05-SD-B00-003",
         "start": 12250
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13316,
         "persona": "Ёко",
         "start": 12250,
         "text": "Сэкаи!^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13316,
         "file": "Voice05/05-SD/05-SD-B00/05-SD-B00-0070",
         "layer": 0,
         "persona": "yko",
@@ -79,14 +83,14 @@
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17383,
         "persona": "Сэкаи",
         "start": 13316,
         "text": "Встаю уже!..^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17383,
         "file": "Voice05/05-SD/05-SD-B00/05-SD-B00-0080",
         "layer": 0,
         "persona": "sek",
@@ -94,14 +98,14 @@
     },
     {
         "action": "PrintText",
-        "end": 20000,
+        "end": 20250,
         "persona": "Сэкаи",
         "start": 17383,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 20000,
+        "end": 20250,
         "file": "Voice05/05-SD/05-SD-B00/05-SD-B00-0100",
         "layer": 0,
         "persona": "sek",
@@ -109,14 +113,14 @@
     },
     {
         "action": "PrintText",
-        "end": 24000,
+        "end": 24066,
         "persona": "Сэкаи",
         "start": 20250,
         "text": "Ты когда вернуться успела?^"
     },
     {
         "action": "PlayVoice",
-        "end": 24000,
+        "end": 24066,
         "file": "Voice05/05-SD/05-SD-B00/05-SD-B00-0140",
         "layer": 0,
         "persona": "sek",
@@ -124,20 +128,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 30000,
+        "end": 30316,
         "file": "Event05/05-SD/05-SD-B00/05-SD-B00-004",
         "start": 20316
     },
     {
         "action": "PrintText",
-        "end": 28000,
+        "end": 28183,
         "persona": "Ёко",
         "start": 24083,
         "text": "Только что. Поесть я приготовила, так что иду уже спать.^"
     },
     {
         "action": "PlayVoice",
-        "end": 28000,
+        "end": 28183,
         "file": "Voice05/05-SD/05-SD-B00/05-SD-B00-0150",
         "layer": 0,
         "persona": "yko",
@@ -145,14 +149,14 @@
     },
     {
         "action": "PrintText",
-        "end": 29000,
+        "end": 29266,
         "persona": "Сэкаи",
         "start": 28166,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 29000,
+        "end": 29266,
         "file": "Voice05/05-SD/05-SD-B00/05-SD-B00-0160",
         "layer": 0,
         "persona": "sek",
@@ -161,43 +165,43 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 30000,
+        "end": 30316,
         "start": 29316
     },
     {
         "action": "CreateBG",
-        "end": 31000,
+        "end": 31316,
         "file": "System/Screen/Black",
         "start": 30316
     },
     {
         "action": "PlayBgm",
-        "end": 87000,
+        "end": 87150,
         "file": "BGM/SD_BGM/sdbgm21",
         "start": 31316
     },
     {
         "action": "CreateBG",
-        "end": 48000,
+        "end": 48033,
         "file": "Event05/05-SD/05-SD-B00/05-SD-B00-005A",
         "start": 31316
     },
     {
         "action": "BlackFade",
         "dir": "IN",
-        "end": 32000,
+        "end": 32316,
         "start": 31316
     },
     {
         "action": "PrintText",
-        "end": 35000,
+        "end": 35183,
         "persona": "Ёко",
         "start": 32300,
         "text": "Я тут много думала, Сэкаи...^"
     },
     {
         "action": "PlayVoice",
-        "end": 35000,
+        "end": 35183,
         "file": "Voice05/05-SD/05-SD-B00/05-SD-B00-0170",
         "layer": 0,
         "persona": "yko",
@@ -205,14 +209,14 @@
     },
     {
         "action": "PrintText",
-        "end": 37000,
+        "end": 37150,
         "persona": "Сэкаи",
         "start": 35166,
         "text": "А-ага...^"
     },
     {
         "action": "PlayVoice",
-        "end": 37000,
+        "end": 37150,
         "file": "Voice05/05-SD/05-SD-B00/05-SD-B00-0180",
         "layer": 0,
         "persona": "sek",
@@ -220,14 +224,14 @@
     },
     {
         "action": "PrintText",
-        "end": 44000,
+        "end": 44150,
         "persona": "Ёко",
         "start": 37150,
         "text": "Всё же не могу я тебя здесь одну оставить. Поэтому хочу тебя убедить.^"
     },
     {
         "action": "PlayVoice",
-        "end": 44000,
+        "end": 44150,
         "file": "Voice05/05-SD/05-SD-B00/05-SD-B00-0190",
         "layer": 0,
         "persona": "yko",
@@ -235,14 +239,14 @@
     },
     {
         "action": "PrintText",
-        "end": 47000,
+        "end": 47083,
         "persona": "Сэкаи",
         "start": 44150,
         "text": "Убедить?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 47000,
+        "end": 47083,
         "file": "Voice05/05-SD/05-SD-B00/05-SD-B00-0200",
         "layer": 0,
         "persona": "sek",
@@ -250,27 +254,27 @@
     },
     {
         "action": "PlaySe",
-        "end": 49000,
+        "end": 49100,
         "file": "SysSe/SE_all/keitai/mail_sekai",
         "layer": 1,
         "start": 47100
     },
     {
         "action": "CreateBG",
-        "end": 64000,
+        "end": 64316,
         "file": "Event05/05-SD/05-SD-B00/05-SD-B00-005B",
         "start": 48033
     },
     {
         "action": "PrintText",
-        "end": 56000,
+        "end": 56316,
         "persona": "Ёко",
         "start": 48033,
         "text": "Париж - просто нечто! А, вот, гостинцы... Умебоси называются. Хоть и из Парижа, а название японское!^"
     },
     {
         "action": "PlayVoice",
-        "end": 56000,
+        "end": 56316,
         "file": "Voice05/05-SD/05-SD-B00/05-SD-B00-0220",
         "layer": 0,
         "persona": "yko",
@@ -278,14 +282,14 @@
     },
     {
         "action": "PrintText",
-        "end": 64000,
+        "end": 64316,
         "persona": "Ёко",
         "start": 56366,
         "text": "Так вот, во времена правления Наполеона 3-го была учреждена Международная Выставка, и посланники многих стран...^"
     },
     {
         "action": "PlayVoice",
-        "end": 64000,
+        "end": 64316,
         "file": "Voice05/05-SD/05-SD-B00/05-SD-B00-0221",
         "layer": 0,
         "persona": "yko",
@@ -299,14 +303,14 @@
     },
     {
         "action": "PrintText",
-        "end": 67000,
+        "end": 67350,
         "persona": "Сэкаи",
         "start": 66000,
         "text": "Что за... Чёрт?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 67000,
+        "end": 67350,
         "file": "Voice05/05-SD/05-SD-B00/05-SD-B00-0230",
         "layer": 0,
         "persona": "sek",
@@ -314,14 +318,14 @@
     },
     {
         "action": "PrintText",
-        "end": 68000,
+        "end": 68216,
         "persona": "Ёко",
         "start": 67350,
         "text": "Э?^"
     },
     {
         "action": "PlayVoice",
-        "end": 68000,
+        "end": 68216,
         "file": "Voice05/05-SD/05-SD-B00/05-SD-B00-0240",
         "layer": 0,
         "persona": "yko",
@@ -344,20 +348,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 72000,
+        "end": 72283,
         "file": "Event05/05-SD/05-SD-B00/05-SD-B00-007",
         "start": 70000
     },
     {
         "action": "PrintText",
-        "end": 70000,
+        "end": 70383,
         "persona": "Ёко",
         "start": 70000,
         "text": "Чего?^"
     },
     {
         "action": "PlayVoice",
-        "end": 70000,
+        "end": 70383,
         "file": "Voice05/05-SD/05-SD-B00/05-SD-B00-0260",
         "layer": 0,
         "persona": "yko",
@@ -365,14 +369,14 @@
     },
     {
         "action": "PrintText",
-        "end": 72000,
+        "end": 72266,
         "persona": "Сэкаи",
         "start": 70383,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 72000,
+        "end": 72266,
         "file": "Voice05/05-SD/05-SD-B00/05-SD-B00-0270",
         "layer": 0,
         "persona": "xxx",
@@ -380,14 +384,14 @@
     },
     {
         "action": "PrintText",
-        "end": 73000,
+        "end": 73266,
         "persona": "Ёко",
         "start": 72266,
         "text": "Сэкаи?^"
     },
     {
         "action": "PlayVoice",
-        "end": 73000,
+        "end": 73266,
         "file": "Voice05/05-SD/05-SD-B00/05-SD-B00-0280",
         "layer": 0,
         "persona": "yko",
@@ -395,20 +399,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 75000,
+        "end": 75100,
         "file": "Movie05/05-SD/05-SD-B00/05-SD-B00-008",
         "start": 72283
     },
     {
         "action": "PrintText",
-        "end": 74000,
+        "end": 74383,
         "persona": "Сэкаи",
         "start": 73266,
         "text": "Я пошла!^"
     },
     {
         "action": "PlayVoice",
-        "end": 74000,
+        "end": 74383,
         "file": "Voice05/05-SD/05-SD-B00/05-SD-B00-0290",
         "layer": 0,
         "persona": "sek",
@@ -416,20 +420,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 87000,
+        "end": 87150,
         "file": "Event05/05-SD/05-SD-B00/05-SD-B00-009",
         "start": 75100
     },
     {
         "action": "PrintText",
-        "end": 81000,
+        "end": 81216,
         "persona": "Ёко",
         "start": 75100,
         "text": "Ты подумай всерьёз о переводе!.. Эх, убежала уже.^"
     },
     {
         "action": "PlayVoice",
-        "end": 81000,
+        "end": 81216,
         "file": "Voice05/05-SD/05-SD-B00/05-SD-B00-0310",
         "layer": 0,
         "persona": "yko",
@@ -437,17 +441,21 @@
     },
     {
         "action": "PrintText",
-        "end": 86000,
+        "end": 86166,
         "persona": "Ёко",
         "start": 82300,
         "text": "Пойду спать...^"
     },
     {
         "action": "PlayVoice",
-        "end": 86000,
+        "end": 86166,
         "file": "Voice05/05-SD/05-SD-B00/05-SD-B00-0320",
         "layer": 0,
         "persona": "yko",
         "start": 82300
+    },
+    {
+        "action": "Next",
+        "start": 87150
     }
 ]

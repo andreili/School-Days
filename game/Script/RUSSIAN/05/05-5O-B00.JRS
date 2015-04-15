@@ -1,7 +1,11 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 36300
+    },
+    {
         "action": "PlayBgm",
-        "end": 36000,
+        "end": 36300,
         "file": "BGM/SD_BGM/sdbgm20",
         "start": 0
     },
@@ -13,20 +17,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 15000,
+        "end": 15383,
         "file": "Event05/05-5O/05-5O-B00/05-5O-B00-002",
         "start": 3000
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4016,
         "persona": "Котоноха",
         "start": 3100,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4016,
         "file": "Voice05/05-5O/05-5O-B00/05-5O-B00-0040",
         "layer": 0,
         "persona": "kot",
@@ -34,14 +38,14 @@
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12233,
         "persona": "Котоноха",
         "start": 5066,
         "text": "И Саиёндзи, и Като... Обе влюблены в Макото.^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12233,
         "file": "Voice05/05-5O/05-5O-B00/05-5O-B00-0050",
         "layer": 0,
         "persona": "kot",
@@ -49,14 +53,14 @@
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15033,
         "persona": "Котоноха",
         "start": 13300,
         "text": "Макото...^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15033,
         "file": "Voice05/05-5O/05-5O-B00/05-5O-B00-0060",
         "layer": 0,
         "persona": "kot",
@@ -64,20 +68,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 33000,
+        "end": 33150,
         "file": "Event05/05-5O/05-5O-B00/05-5O-B00-003",
         "start": 15383
     },
     {
         "action": "PrintText",
-        "end": 20000,
+        "end": 20233,
         "persona": "Котоноха",
         "start": 15383,
         "text": "Поведи я себя правильно, ты бы так не терзался...^"
     },
     {
         "action": "PlayVoice",
-        "end": 20000,
+        "end": 20233,
         "file": "Voice05/05-5O/05-5O-B00/05-5O-B00-0070",
         "layer": 0,
         "persona": "kot",
@@ -85,14 +89,14 @@
     },
     {
         "action": "PrintText",
-        "end": 25000,
+        "end": 25316,
         "persona": "Котоноха",
         "start": 20283,
         "text": "А значит... Я должна поддержать тебя.^"
     },
     {
         "action": "PlayVoice",
-        "end": 25000,
+        "end": 25316,
         "file": "Voice05/05-5O/05-5O-B00/05-5O-B00-0080",
         "layer": 0,
         "persona": "kot",
@@ -100,14 +104,14 @@
     },
     {
         "action": "PrintText",
-        "end": 32000,
+        "end": 32283,
         "persona": "Котоноха",
         "start": 25383,
         "text": "Ведь я твоя девушка... Только я...^"
     },
     {
         "action": "PlayVoice",
-        "end": 32000,
+        "end": 32283,
         "file": "Voice05/05-5O/05-5O-B00/05-5O-B00-0090",
         "layer": 0,
         "persona": "kot",
@@ -115,20 +119,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 36000,
+        "end": 36300,
         "file": "Event05/05-5O/05-5O-B00/05-5O-B00-004B",
         "start": 33150
     },
     {
         "action": "PrintText",
-        "end": 35000,
+        "end": 35050,
         "persona": "Котоноха",
         "start": 34000,
         "text": "Макото...^"
     },
     {
         "action": "PlayVoice",
-        "end": 35000,
+        "end": 35050,
         "file": "Voice05/05-5O/05-5O-B00/05-5O-B00-0100",
         "layer": 0,
         "persona": "kot",
@@ -137,7 +141,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 36000,
+        "end": 36300,
         "start": 35300
+    },
+    {
+        "action": "Next",
+        "start": 36300
     }
 ]

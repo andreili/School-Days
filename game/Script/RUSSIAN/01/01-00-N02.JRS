@@ -1,5 +1,9 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 10016
+    },
+    {
         "action": "PlayBgm",
         "end": 10000,
         "file": "BGM/SD_BGM/sdbgm07",
@@ -7,20 +11,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10016,
         "file": "Event01/01-00/01-00-N00/01-00-N00-002",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3316,
         "persona": "Макото",
         "start": 183,
         "text": "Кацура чувствует то же самое...^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3316,
         "file": "Voice01/01-00/01-00-N02/01-00-N02-0030",
         "layer": 1,
         "persona": "mak",
@@ -28,17 +32,21 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9166,
         "persona": "Макото",
         "start": 4183,
         "text": "Может быть и так, вот только как мне поступить...^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9166,
         "file": "Voice01/01-00/01-00-N02/01-00-N02-0040",
         "layer": 1,
         "persona": "mak",
         "start": 4183
+    },
+    {
+        "action": "Next",
+        "start": 10016
     }
 ]

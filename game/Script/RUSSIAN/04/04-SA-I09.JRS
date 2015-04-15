@@ -1,32 +1,36 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 65033
+    },
+    {
         "action": "PlayBgm",
-        "end": 180000,
+        "end": 180033,
         "file": "BGM/SD_BGM/sdbgm08",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1033,
         "file": "Event04/04-SA/04-SA-I09/04-SA-I09-001",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7250,
         "file": "Event04/04-SA/04-SA-I09/04-SA-I09-002",
         "start": 1033
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2383,
         "persona": "Макото",
         "start": 1150,
         "text": "Что случилось?^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2383,
         "file": "Voice04/04-SA/04-SA-I09/04-SA-I09-0030",
         "layer": 1,
         "persona": "mak",
@@ -34,14 +38,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4350,
         "persona": "Итару",
         "start": 3000,
         "text": "Привидение!^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4350,
         "file": "Voice04/04-SA/04-SA-I09/04-SA-I09-0040",
         "layer": 0,
         "persona": "ita",
@@ -49,14 +53,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6033,
         "persona": "Макото",
         "start": 4366,
         "text": "Привидение?^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6033,
         "file": "Voice04/04-SA/04-SA-I09/04-SA-I09-0050",
         "layer": 1,
         "persona": "mak",
@@ -64,14 +68,14 @@
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7250,
         "persona": "Итару",
         "start": 6050,
         "text": "Вон там было!^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7250,
         "file": "Voice04/04-SA/04-SA-I09/04-SA-I09-0060",
         "layer": 0,
         "persona": "ita",
@@ -79,20 +83,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 15000,
+        "end": 15050,
         "file": "Event04/04-SA/04-SA-I09/04-SA-I09-002B",
         "start": 7250
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9083,
         "persona": "Макото",
         "start": 8000,
         "text": "Где?^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9083,
         "file": "Voice04/04-SA/04-SA-I09/04-SA-I09-0070",
         "layer": 1,
         "persona": "mak",
@@ -100,14 +104,14 @@
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12150,
         "persona": "Итару",
         "start": 9150,
         "text": "За окном!.. Извивалось!..^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12150,
         "file": "Voice04/04-SA/04-SA-I09/04-SA-I09-0080",
         "layer": 0,
         "persona": "ita",
@@ -115,14 +119,14 @@
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15066,
         "persona": "Макото",
         "start": 12150,
         "text": "Так там бельё сохнет.^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15066,
         "file": "Voice04/04-SA/04-SA-I09/04-SA-I09-0090",
         "layer": 1,
         "persona": "mak",
@@ -130,20 +134,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 23000,
+        "end": 23050,
         "file": "Event04/04-SA/04-SA-I09/04-SA-I09-002C",
         "start": 15050
     },
     {
         "action": "PrintText",
-        "end": 19000,
+        "end": 19250,
         "persona": "Итару",
         "start": 15183,
         "text": "Не только!.. Привидение тоже там!^"
     },
     {
         "action": "PlayVoice",
-        "end": 19000,
+        "end": 19250,
         "file": "Voice04/04-SA/04-SA-I09/04-SA-I09-0100",
         "layer": 0,
         "persona": "ita",
@@ -151,14 +155,14 @@
     },
     {
         "action": "PrintText",
-        "end": 20000,
+        "end": 20300,
         "persona": "Макото",
         "start": 19250,
         "text": "Правда?^"
     },
     {
         "action": "PlayVoice",
-        "end": 20000,
+        "end": 20300,
         "file": "Voice04/04-SA/04-SA-I09/04-SA-I09-0110",
         "layer": 1,
         "persona": "mak",
@@ -166,14 +170,14 @@
     },
     {
         "action": "PrintText",
-        "end": 23000,
+        "end": 23066,
         "persona": "Итару",
         "start": 20333,
         "text": "Мне страшно!^"
     },
     {
         "action": "PlayVoice",
-        "end": 23000,
+        "end": 23066,
         "file": "Voice04/04-SA/04-SA-I09/04-SA-I09-0120",
         "layer": 0,
         "persona": "ita",
@@ -181,20 +185,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 30000,
+        "end": 30083,
         "file": "Event04/04-SA/04-SA-I09/04-SA-I09-002D",
         "start": 23050
     },
     {
         "action": "PrintText",
-        "end": 28000,
+        "end": 28166,
         "persona": "Макото",
         "start": 23216,
         "text": "Ну, что уж с тобой поделаешь? Давай вместе спать.^"
     },
     {
         "action": "PlayVoice",
-        "end": 28000,
+        "end": 28166,
         "file": "Voice04/04-SA/04-SA-I09/04-SA-I09-0130",
         "layer": 1,
         "persona": "mak",
@@ -202,14 +206,14 @@
     },
     {
         "action": "PrintText",
-        "end": 29000,
+        "end": 29233,
         "persona": "Итару",
         "start": 28183,
         "text": "Правда?^"
     },
     {
         "action": "PlayVoice",
-        "end": 29000,
+        "end": 29233,
         "file": "Voice04/04-SA/04-SA-I09/04-SA-I09-0140",
         "layer": 0,
         "persona": "ita",
@@ -217,14 +221,14 @@
     },
     {
         "action": "PrintText",
-        "end": 31000,
+        "end": 31350,
         "persona": "Макото",
         "start": 29150,
         "text": "Ага. Довольна?^"
     },
     {
         "action": "PlayVoice",
-        "end": 31000,
+        "end": 31350,
         "file": "Voice04/04-SA/04-SA-I09/04-SA-I09-0150",
         "layer": 1,
         "persona": "mak",
@@ -232,20 +236,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 37000,
+        "end": 37166,
         "file": "Event04/04-SA/04-SA-I09/04-SA-I09-003",
         "start": 30083
     },
     {
         "action": "PrintText",
-        "end": 33000,
+        "end": 33250,
         "persona": "Итару",
         "start": 31350,
         "text": "И мишка с нами будет!^"
     },
     {
         "action": "PlayVoice",
-        "end": 33000,
+        "end": 33250,
         "file": "Voice04/04-SA/04-SA-I09/04-SA-I09-0160",
         "layer": 0,
         "persona": "ita",
@@ -253,14 +257,14 @@
     },
     {
         "action": "PrintText",
-        "end": 37000,
+        "end": 37150,
         "persona": "Макото",
         "start": 33266,
         "text": "Ага, и мишка тоже. Все вместе.^"
     },
     {
         "action": "PlayVoice",
-        "end": 37000,
+        "end": 37150,
         "file": "Voice04/04-SA/04-SA-I09/04-SA-I09-0170",
         "layer": 1,
         "persona": "mak",
@@ -268,20 +272,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 41000,
+        "end": 41066,
         "file": "Event04/04-SA/04-SA-I09/04-SA-I09-004",
         "start": 37166
     },
     {
         "action": "PrintText",
-        "end": 38000,
+        "end": 38300,
         "persona": "Итару",
         "start": 37233,
         "text": "А ещё...^"
     },
     {
         "action": "PlayVoice",
-        "end": 38000,
+        "end": 38300,
         "file": "Voice04/04-SA/04-SA-I09/04-SA-I09-0180",
         "layer": 0,
         "persona": "ita",
@@ -289,14 +293,14 @@
     },
     {
         "action": "PrintText",
-        "end": 39000,
+        "end": 39366,
         "persona": "Макото",
         "start": 38216,
         "text": "Что-то ещё?^"
     },
     {
         "action": "PlayVoice",
-        "end": 39000,
+        "end": 39366,
         "file": "Voice04/04-SA/04-SA-I09/04-SA-I09-0190",
         "layer": 1,
         "persona": "mak",
@@ -304,14 +308,14 @@
     },
     {
         "action": "PrintText",
-        "end": 41000,
+        "end": 41116,
         "persona": "Итару",
         "start": 39366,
         "text": "Книжку почитай!^"
     },
     {
         "action": "PlayVoice",
-        "end": 41000,
+        "end": 41116,
         "file": "Voice04/04-SA/04-SA-I09/04-SA-I09-0200",
         "layer": 0,
         "persona": "ita",
@@ -319,7 +323,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 42000,
+        "end": 42383,
         "file": "Event04/04-SA/04-SA-I09/04-SA-I09-005",
         "start": 41066
     },
@@ -340,20 +344,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 45000,
+        "end": 45300,
         "file": "Event04/04-SA/04-SA-I09/04-SA-I09-006",
         "start": 42383
     },
     {
         "action": "PrintText",
-        "end": 44000,
+        "end": 44166,
         "persona": "Итару",
         "start": 43100,
         "text": "Почитай!^"
     },
     {
         "action": "PlayVoice",
-        "end": 44000,
+        "end": 44166,
         "file": "Voice04/04-SA/04-SA-I09/04-SA-I09-0220",
         "layer": 0,
         "persona": "ita",
@@ -361,14 +365,14 @@
     },
     {
         "action": "PrintText",
-        "end": 52000,
+        "end": 52150,
         "persona": "Макото",
         "start": 44116,
         "text": "Ладно... Что ж, что тут у нас за детскую книжку сойдёт...^"
     },
     {
         "action": "PlayVoice",
-        "end": 52000,
+        "end": 52150,
         "file": "Voice04/04-SA/04-SA-I09/04-SA-I09-0230",
         "layer": 1,
         "persona": "mak",
@@ -376,40 +380,40 @@
     },
     {
         "action": "CreateBG",
-        "end": 50000,
+        "end": 50233,
         "file": "Event04/04-SA/04-SA-I09/04-SA-I09-010",
         "start": 45300
     },
     {
         "action": "PlaySe",
-        "end": 49000,
+        "end": 49050,
         "file": "Se04/04-SA/04-SA-I09/SE04-SA-I09-001",
         "layer": 1,
         "start": 48300
     },
     {
         "action": "PlaySe",
-        "end": 50000,
+        "end": 50116,
         "file": "Se04/04-SA/04-SA-I09/SE04-SA-I09-001",
         "layer": 2,
         "start": 49133
     },
     {
         "action": "CreateBG",
-        "end": 53000,
+        "end": 53083,
         "file": "Event04/04-SA/04-SA-I09/04-SA-I09-008",
         "start": 50233
     },
     {
         "action": "PrintText",
-        "end": 53000,
+        "end": 53100,
         "persona": "Итару",
         "start": 52116,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 53000,
+        "end": 53100,
         "file": "Voice04/04-SA/04-SA-I09/04-SA-I09-0240",
         "layer": 0,
         "persona": "ita",
@@ -418,25 +422,25 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 55000,
+        "end": 55083,
         "start": 53083
     },
     {
         "action": "CreateBG",
-        "end": 65000,
+        "end": 65033,
         "file": "Event04/04-SA/04-SA-I09/04-SA-I09-010",
         "start": 56150
     },
     {
         "action": "PrintText",
-        "end": 60000,
+        "end": 60233,
         "persona": "Итару",
         "start": 56183,
         "text": "Бра... тик...^"
     },
     {
         "action": "PlayVoice",
-        "end": 60000,
+        "end": 60233,
         "file": "Voice04/04-SA/04-SA-I09/04-SA-I09-0330",
         "layer": 0,
         "persona": "ita",
@@ -444,17 +448,21 @@
     },
     {
         "action": "PrintText",
-        "end": 65000,
+        "end": 65016,
         "persona": "Макото",
         "start": 60233,
         "text": "Пора бы и мне укладываться.^"
     },
     {
         "action": "PlayVoice",
-        "end": 65000,
+        "end": 65016,
         "file": "Voice04/04-SA/04-SA-I09/04-SA-I09-0340",
         "layer": 1,
         "persona": "mak",
         "start": 60233
+    },
+    {
+        "action": "Next",
+        "start": 65033
     }
 ]

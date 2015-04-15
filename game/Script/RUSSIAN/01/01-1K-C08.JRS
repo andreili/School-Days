@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 21183
+    },
+    {
         "action": "PlayBgm",
-        "end": 21000,
+        "end": 21183,
         "file": "BGM/SD_BGM/sdbgm07",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6116,
         "file": "Event01/01-1K/01-1K-C08/01-1K-C08-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2366,
         "persona": "Макото",
         "start": 0,
         "text": "Попробуем на эротику пойти.^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2366,
         "file": "Voice01/01-1K/01-1K-C08/01-1K-C08-0030",
         "layer": 1,
         "persona": "mak",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6033,
         "persona": "Макото",
         "start": 3133,
         "text": "Я ведь её хочу...^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6033,
         "file": "Voice01/01-1K/01-1K-C08/01-1K-C08-0040",
         "layer": 1,
         "persona": "mak",
@@ -43,27 +47,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 21000,
+        "end": 21183,
         "file": "Event01/01-1K/01-1K-C00/00-00-F00-010WIN",
         "start": 6116
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9050,
         "persona": "Макото",
         "start": 6116,
         "text": "Может, она только на вид такая тихоня, а на самом деле.^"
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13050,
         "persona": "Макото",
         "start": 9050,
         "text": "«Я давно хотела такой фильм посмотреть!»^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16050,
         "file": "Voice01/01-1K/01-1K-C08/01-1K-C08-0050",
         "layer": 1,
         "persona": "mak",
@@ -71,28 +75,28 @@
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16100,
         "persona": "Макото",
         "start": 13050,
         "text": "Точно! И чего я смущался?^"
     },
     {
         "action": "PrintText",
-        "end": 19000,
+        "end": 19100,
         "persona": "Макото",
         "start": 16100,
         "text": "....^"
     },
     {
         "action": "PrintText",
-        "end": 20000,
+        "end": 20100,
         "persona": "Макото",
         "start": 19100,
         "text": "Так и поступим!^"
     },
     {
         "action": "PlayVoice",
-        "end": 20000,
+        "end": 20100,
         "file": "Voice01/01-1K/01-1K-C08/01-1K-C08-0060",
         "layer": 1,
         "persona": "mak",
@@ -101,7 +105,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 21000,
+        "end": 21183,
         "start": 20183
+    },
+    {
+        "action": "Next",
+        "start": 21183
     }
 ]

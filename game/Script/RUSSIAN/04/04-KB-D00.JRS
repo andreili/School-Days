@@ -1,5 +1,9 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 23000
+    },
+    {
         "action": "PlaySe",
         "end": 23000,
         "file": "SysSe/SE_all/station_train/train_in",
@@ -8,26 +12,26 @@
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2200,
         "file": "Event04/04-KB/04-KB-D00/04-KB-D00-001",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8250,
         "file": "Event04/04-KB/04-KB-D00/04-KB-D00-002",
         "start": 2200
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3250,
         "persona": "Макото",
         "start": 2200,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3250,
         "file": "Voice04/04-KB/04-KB-D00/04-KB-D00-0030",
         "layer": 1,
         "persona": "mak",
@@ -35,14 +39,14 @@
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7116,
         "persona": "Котоноха",
         "start": 3250,
         "text": "Саиёндзи немного развеселилась...^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7116,
         "file": "Voice04/04-KB/04-KB-D00/04-KB-D00-0040",
         "layer": 0,
         "persona": "kot",
@@ -50,14 +54,14 @@
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8233,
         "persona": "Макото",
         "start": 7116,
         "text": "Ага.^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8233,
         "file": "Voice04/04-KB/04-KB-D00/04-KB-D00-0050",
         "layer": 1,
         "persona": "mak",
@@ -65,20 +69,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12016,
         "file": "Event04/04-KB/04-KB-D00/04-KB-D00-003",
         "start": 8250
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10366,
         "persona": "Котоноха",
         "start": 8250,
         "text": "Она тебе, похоже, очень доверяет.^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10366,
         "file": "Voice04/04-KB/04-KB-D00/04-KB-D00-0060",
         "layer": 0,
         "persona": "kot",
@@ -86,14 +90,14 @@
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12016,
         "persona": "Макото",
         "start": 10350,
         "text": "Думаешь?^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12016,
         "file": "Voice04/04-KB/04-KB-D00/04-KB-D00-0070",
         "layer": 1,
         "persona": "mak",
@@ -101,20 +105,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 18000,
+        "end": 18300,
         "file": "Event04/04-KB/04-KB-D00/04-KB-D00-004",
         "start": 12016
     },
     {
         "action": "PrintText",
-        "end": 18000,
+        "end": 18300,
         "persona": "Котоноха",
         "start": 12016,
         "text": "Да... Я даже ревную немного. Хоть и понимаю, что между вами ничего нет.^"
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18300,
         "file": "Voice04/04-KB/04-KB-D00/04-KB-D00-0080",
         "layer": 0,
         "persona": "kot",
@@ -122,20 +126,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 20000,
+        "end": 20200,
         "file": "Event04/04-KB/04-KB-D00/04-KB-D00-005",
         "start": 18300
     },
     {
         "action": "PrintText",
-        "end": 19000,
+        "end": 19200,
         "persona": "Макото",
         "start": 18300,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 19000,
+        "end": 19200,
         "file": "Voice04/04-KB/04-KB-D00/04-KB-D00-0090",
         "layer": 1,
         "persona": "xxx",
@@ -149,17 +153,21 @@
     },
     {
         "action": "PrintText",
-        "end": 21000,
+        "end": 21350,
         "persona": "Котоноха",
         "start": 20200,
         "text": "Макото?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 21000,
+        "end": 21350,
         "file": "Voice04/04-KB/04-KB-D00/04-KB-D00-0100",
         "layer": 0,
         "persona": "kot",
         "start": 20200
+    },
+    {
+        "action": "Next",
+        "start": 23000
     }
 ]

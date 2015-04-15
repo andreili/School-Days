@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 7116
+    },
+    {
         "action": "PlayBgm",
-        "end": 7000,
+        "end": 7116,
         "file": "BGM/SD_BGM/sdbgm20",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2066,
         "file": "Event04/04-SA/04-SA-I01/04-SA-I01-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2100,
         "persona": "Макото",
         "start": 83,
         "text": "Надо с Сэкаи посоветоваться...^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2100,
         "file": "Voice04/04-SA/04-SA-I01/04-SA-I01-0030",
         "layer": 1,
         "persona": "mak",
@@ -28,29 +32,33 @@
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4033,
         "file": "Event04/04-SA/04-SA-I01/04-SA-I01-002",
         "start": 2066
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7083,
         "file": "Event04/04-SA/04-SA-I01/04-SA-I01-003",
         "start": 4033
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5316,
         "persona": "Макото",
         "start": 4083,
         "text": "Только ответь...^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5316,
         "file": "Voice04/04-SA/04-SA-I01/04-SA-I01-0050",
         "layer": 1,
         "persona": "mak",
         "start": 4083
+    },
+    {
+        "action": "Next",
+        "start": 7116
     }
 ]

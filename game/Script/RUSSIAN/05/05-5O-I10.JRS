@@ -1,7 +1,11 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 5100
+    },
+    {
         "action": "PlaySe",
-        "end": 5000,
+        "end": 5100,
         "file": "SysSe/SE_all/station_train/train_in",
         "layer": 1,
         "start": 0
@@ -14,7 +18,7 @@
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2166,
         "file": "Voice05/05-5O/05-5O-I10/05-5O-I10-0050",
         "layer": -1,
         "persona": "",
@@ -22,16 +26,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5100,
         "file": "Event05/05-5O/05-5O-I10/05-5O-I10-002",
         "start": 3000
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5100,
         "file": "Voice05/05-5O/05-5O-I10/05-5O-I10-0070",
         "layer": -1,
         "persona": "",
         "start": 4200
+    },
+    {
+        "action": "Next",
+        "start": 5100
     }
 ]

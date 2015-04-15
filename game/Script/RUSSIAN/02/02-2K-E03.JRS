@@ -1,7 +1,11 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 34216
+    },
+    {
         "action": "PlayBgm",
-        "end": 34000,
+        "end": 34216,
         "file": "BGM/SD_BGM/sdbgm20",
         "start": 0
     },
@@ -13,58 +17,58 @@
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8033,
         "persona": "Учитель",
         "start": 1050,
         "text": "Итак, давайте рассмотрим подробнее противопоставление и самоанализ, например...^"
     },
     {
         "action": "PlaySe",
-        "end": 8000,
+        "end": 8033,
         "file": "Voice02/02-2K/02-2K-E03/02-2K-E03-0040",
         "layer": 1,
         "start": 50
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5183,
         "file": "Event02/02-2K/02-2K-E03/02-2K-E03-002",
         "start": 3000
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8033,
         "file": "Event02/02-2K/02-2K-E03/02-2K-E03-003",
         "start": 5183
     },
     {
         "action": "WhiteFade",
         "dir": "OUT",
-        "end": 8000,
+        "end": 8033,
         "start": 7233
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12050,
         "file": "Event02/02-2K/02-2K-E03/02-2K-E03-004",
         "start": 8033
     },
     {
         "action": "WhiteFade",
         "dir": "IN",
-        "end": 8000,
+        "end": 8233,
         "start": 8033
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11383,
         "persona": "Хикари",
         "start": 8233,
         "text": "Слушай, ты знаешь Кацуру? Такую тихую девушку из 4 группы?^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11383,
         "file": "Voice02/02-2K/02-2K-E03/02-2K-E03-0100",
         "layer": 0,
         "persona": "hik",
@@ -72,20 +76,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 13000,
+        "end": 13383,
         "file": "Event02/02-2K/02-2K-E03/02-2K-E03-005",
         "start": 12050
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16166,
         "persona": "Хикари",
         "start": 12266,
         "text": "Ты представляешь, я сегодня такое видела...^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16166,
         "file": "Voice02/02-2K/02-2K-E03/02-2K-E03-0140",
         "layer": 0,
         "persona": "hik",
@@ -93,20 +97,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 24000,
+        "end": 24200,
         "file": "Event02/02-2K/02-2K-E03/02-2K-E03-004",
         "start": 13383
     },
     {
         "action": "PrintText",
-        "end": 24000,
+        "end": 24016,
         "persona": "Хикари",
         "start": 17000,
         "text": "Похоже, твой Макото к ней приставал, и она на него рассердилась!^"
     },
     {
         "action": "PlayVoice",
-        "end": 24000,
+        "end": 24016,
         "file": "Voice02/02-2K/02-2K-E03/02-2K-E03-0180",
         "layer": 0,
         "persona": "hik",
@@ -114,20 +118,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 31000,
+        "end": 31083,
         "file": "Event02/02-2K/02-2K-E03/02-2K-E03-007",
         "start": 24200
     },
     {
         "action": "PrintText",
-        "end": 30000,
+        "end": 30300,
         "persona": "Хикари",
         "start": 24383,
         "text": "Я не слышала, что они говорили, но похоже, эти двое серьёзно поссорились!^"
     },
     {
         "action": "PlayVoice",
-        "end": 30000,
+        "end": 30300,
         "file": "Voice02/02-2K/02-2K-E03/02-2K-E03-0220",
         "layer": 0,
         "persona": "hik",
@@ -136,31 +140,31 @@
     {
         "action": "WhiteFade",
         "dir": "OUT",
-        "end": 31000,
+        "end": 31083,
         "start": 30283
     },
     {
         "action": "CreateBG",
-        "end": 34000,
+        "end": 34216,
         "file": "Event02/02-2K/02-2K-E03/02-2K-E03-008",
         "start": 31083
     },
     {
         "action": "WhiteFade",
         "dir": "IN",
-        "end": 31000,
+        "end": 31283,
         "start": 31083
     },
     {
         "action": "PrintText",
-        "end": 33000,
+        "end": 33016,
         "persona": "Сэкаи",
         "start": 31383,
         "text": "Макото...^"
     },
     {
         "action": "PlayVoice",
-        "end": 33000,
+        "end": 33016,
         "file": "Voice02/02-2K/02-2K-E03/02-2K-E03-0240",
         "layer": 0,
         "persona": "sek",
@@ -169,7 +173,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 34000,
+        "end": 34216,
         "start": 33216
+    },
+    {
+        "action": "Next",
+        "start": 34216
     }
 ]

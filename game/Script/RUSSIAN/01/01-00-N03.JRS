@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 12166
+    },
+    {
         "action": "PlayBgm",
-        "end": 12000,
+        "end": 12166,
         "file": "BGM/SD_BGM/sdbgm07",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12166,
         "file": "Event01/01-00/01-00-N00/01-00-N00-002",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5150,
         "persona": "Макото",
         "start": 233,
         "text": "Я люблю Кацуру...^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5150,
         "file": "Voice01/01-00/01-00-N03/01-00-N03-0030",
         "layer": 1,
         "persona": "mak",
@@ -28,17 +32,21 @@
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11333,
         "persona": "Макото",
         "start": 6083,
         "text": "Поэтому нельзя всё так оставлять, нужно что-то делать...^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11333,
         "file": "Voice01/01-00/01-00-N03/01-00-N03-0040",
         "layer": 1,
         "persona": "mak",
         "start": 6083
+    },
+    {
+        "action": "Next",
+        "start": 12166
     }
 ]

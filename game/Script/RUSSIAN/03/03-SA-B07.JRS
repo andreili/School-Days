@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 325333
+    },
+    {
         "action": "PlayBgm",
-        "end": 325000,
+        "end": 325333,
         "file": "BGM/SD_BGM/sdbgm25",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12200,
         "file": "Event03/03-SA/03-SA-B07/03-SA-B07-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5266,
         "persona": "Котоноха",
         "start": 4100,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5266,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0060",
         "layer": 0,
         "persona": "kot",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10350,
         "persona": "Котоноха",
         "start": 6083,
         "text": "Макото...^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10350,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0080",
         "layer": 0,
         "persona": "kot",
@@ -43,14 +47,14 @@
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12100,
         "persona": "Макото",
         "start": 11083,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12100,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0090",
         "layer": 1,
         "persona": "mak",
@@ -58,27 +62,27 @@
     },
     {
         "action": "PlaySe",
-        "end": 13000,
+        "end": 13250,
         "file": "SysSe/SE_all/h/nuno1",
         "layer": 1,
         "start": 12016
     },
     {
         "action": "PlayMovie",
-        "end": 30000,
+        "end": 30183,
         "file": "Movie03/03-KB/03-KB-N00/H3-KB-N00-002",
         "start": 12200
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16200,
         "persona": "Котоноха",
         "start": 12283,
         "text": "Мне так стыдно...^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16200,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0100",
         "layer": 0,
         "persona": "kot",
@@ -86,7 +90,7 @@
     },
     {
         "action": "PlaySe",
-        "end": 17000,
+        "end": 17066,
         "file": "SysSe/SE_all/h/nuno2",
         "layer": 1,
         "start": 16050
@@ -108,21 +112,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 20000,
+        "end": 20283,
         "file": "SysSe/SE_all/h/nuno1",
         "layer": 1,
         "start": 19050
     },
     {
         "action": "PrintText",
-        "end": 24000,
+        "end": 24133,
         "persona": "Котоноха",
         "start": 20016,
         "text": "Но всё равно.^"
     },
     {
         "action": "PlayVoice",
-        "end": 24000,
+        "end": 24133,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0120",
         "layer": 0,
         "persona": "kot",
@@ -137,21 +141,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 24000,
+        "end": 24066,
         "file": "SysSe/SE_all/h/nuno1",
         "layer": 1,
         "start": 22250
     },
     {
         "action": "PrintText",
-        "end": 25000,
+        "end": 25366,
         "persona": "Макото",
         "start": 24200,
         "text": "Котоноха...^"
     },
     {
         "action": "PlayVoice",
-        "end": 25000,
+        "end": 25366,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0130",
         "layer": 1,
         "persona": "mak",
@@ -159,21 +163,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 26000,
+        "end": 26050,
         "file": "SysSe/SE_all/h/nuno1",
         "layer": 1,
         "start": 24216
     },
     {
         "action": "PrintText",
-        "end": 30000,
+        "end": 30150,
         "persona": "Котоноха",
         "start": 26116,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 30000,
+        "end": 30150,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0140",
         "layer": 0,
         "persona": "kot",
@@ -181,34 +185,34 @@
     },
     {
         "action": "PlaySe",
-        "end": 28000,
+        "end": 28300,
         "file": "SysSe/SE_all/h/nuno2",
         "layer": 1,
         "start": 27283
     },
     {
         "action": "PlaySe",
-        "end": 30000,
+        "end": 30350,
         "file": "SysSe/SE_all/h/nuno1",
         "layer": 1,
         "start": 29116
     },
     {
         "action": "PlayMovie",
-        "end": 59000,
+        "end": 59183,
         "file": "Movie03/03-KB/03-KB-N00/H3-KB-N00-003",
         "start": 30183
     },
     {
         "action": "PrintText",
-        "end": 34000,
+        "end": 34200,
         "persona": "Макото",
         "start": 30283,
         "text": "Ты красивая. Очень...^"
     },
     {
         "action": "PlayVoice",
-        "end": 34000,
+        "end": 34200,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0150",
         "layer": 1,
         "persona": "mak",
@@ -216,28 +220,28 @@
     },
     {
         "action": "PlaySe",
-        "end": 33000,
+        "end": 33350,
         "file": "SysSe/SE_all/h/nuno1",
         "layer": 1,
         "start": 32116
     },
     {
         "action": "PlaySe",
-        "end": 55000,
+        "end": 55016,
         "file": "SysSe/SE_all/h/h_04",
         "layer": 2,
         "start": 33083
     },
     {
         "action": "PrintText",
-        "end": 37000,
+        "end": 37333,
         "persona": "Котоноха",
         "start": 34350,
         "text": "Что ты...^"
     },
     {
         "action": "PlayVoice",
-        "end": 37000,
+        "end": 37333,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0160",
         "layer": 0,
         "persona": "kot",
@@ -245,14 +249,14 @@
     },
     {
         "action": "PrintText",
-        "end": 40000,
+        "end": 40250,
         "persona": "Котоноха",
         "start": 38000,
         "text": "Там же...^"
     },
     {
         "action": "PlayVoice",
-        "end": 40000,
+        "end": 40250,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0180",
         "layer": 0,
         "persona": "kot",
@@ -260,21 +264,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 41000,
+        "end": 41050,
         "file": "SysSe/SE_all/h/nuno1",
         "layer": 1,
         "start": 39233
     },
     {
         "action": "PrintText",
-        "end": 41000,
+        "end": 41250,
         "persona": "Макото",
         "start": 40250,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 41000,
+        "end": 41250,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0190",
         "layer": 1,
         "persona": "mak",
@@ -282,14 +286,14 @@
     },
     {
         "action": "PrintText",
-        "end": 45000,
+        "end": 45083,
         "persona": "Котоноха",
         "start": 42100,
         "text": "Не надо... Там...^"
     },
     {
         "action": "PlayVoice",
-        "end": 45000,
+        "end": 45083,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0200",
         "layer": 0,
         "persona": "kot",
@@ -297,14 +301,14 @@
     },
     {
         "action": "PrintText",
-        "end": 46000,
+        "end": 46350,
         "persona": "Макото",
         "start": 45083,
         "text": "Надо.^"
     },
     {
         "action": "PlayVoice",
-        "end": 46000,
+        "end": 46350,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0210",
         "layer": 1,
         "persona": "mak",
@@ -327,14 +331,14 @@
     },
     {
         "action": "PrintText",
-        "end": 51000,
+        "end": 51366,
         "persona": "Макото",
         "start": 49383,
         "text": "Неправда!^"
     },
     {
         "action": "PlayVoice",
-        "end": 51000,
+        "end": 51366,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0230",
         "layer": 1,
         "persona": "mak",
@@ -342,21 +346,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 52000,
+        "end": 52016,
         "file": "SysSe/SE_all/h/nuno1",
         "layer": 1,
         "start": 50200
     },
     {
         "action": "PrintText",
-        "end": 56000,
+        "end": 56233,
         "persona": "Котоноха",
         "start": 52133,
         "text": "Тише.^"
     },
     {
         "action": "PlayVoice",
-        "end": 56000,
+        "end": 56233,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0240",
         "layer": 0,
         "persona": "kot",
@@ -364,35 +368,35 @@
     },
     {
         "action": "PlaySe",
-        "end": 53000,
+        "end": 53266,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 52366
     },
     {
         "action": "PlaySe",
-        "end": 76000,
+        "end": 76033,
         "file": "SysSe/SE_all/h/h_04",
         "layer": 1,
         "start": 54116
     },
     {
         "action": "PlaySe",
-        "end": 56000,
+        "end": 56216,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 2,
         "start": 55316
     },
     {
         "action": "PrintText",
-        "end": 60000,
+        "end": 60216,
         "persona": "Макото",
         "start": 56150,
         "text": "Но смотри... Как намокла...^"
     },
     {
         "action": "PlayVoice",
-        "end": 60000,
+        "end": 60216,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0250",
         "layer": 1,
         "persona": "mak",
@@ -400,27 +404,27 @@
     },
     {
         "action": "PlaySe",
-        "end": 60000,
+        "end": 60366,
         "file": "SysSe/SE_all/h/nuno1",
         "layer": 2,
         "start": 59133
     },
     {
         "action": "PlayMovie",
-        "end": 98000,
+        "end": 98066,
         "file": "Movie03/03-SA/03-SA-B07/03-SA-B07-004",
         "start": 59183
     },
     {
         "action": "PrintText",
-        "end": 64000,
+        "end": 64283,
         "persona": "Котоноха",
         "start": 60333,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 64000,
+        "end": 64283,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0260",
         "layer": 0,
         "persona": "kot",
@@ -428,14 +432,14 @@
     },
     {
         "action": "PrintText",
-        "end": 66000,
+        "end": 66066,
         "persona": "Макото",
         "start": 64166,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 66000,
+        "end": 66066,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0270",
         "layer": 1,
         "persona": "mak",
@@ -443,21 +447,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 65000,
+        "end": 65083,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 2,
         "start": 64183
     },
     {
         "action": "PrintText",
-        "end": 70000,
+        "end": 70200,
         "persona": "Котоноха",
         "start": 66133,
         "text": "Нет!.. Нет!..^"
     },
     {
         "action": "PlayVoice",
-        "end": 70000,
+        "end": 70200,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0280",
         "layer": 0,
         "persona": "kot",
@@ -465,14 +469,14 @@
     },
     {
         "action": "PrintText",
-        "end": 75000,
+        "end": 75083,
         "persona": "Макото",
         "start": 70216,
         "text": "Если прекращу... Не сможем дальше...^"
     },
     {
         "action": "PlayVoice",
-        "end": 75000,
+        "end": 75083,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0290",
         "layer": 1,
         "persona": "mak",
@@ -480,14 +484,14 @@
     },
     {
         "action": "PrintText",
-        "end": 78000,
+        "end": 78366,
         "persona": "Котоноха",
         "start": 75033,
         "text": "Не... сможем?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 78000,
+        "end": 78366,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0300",
         "layer": 0,
         "persona": "kot",
@@ -510,14 +514,14 @@
     },
     {
         "action": "PrintText",
-        "end": 87000,
+        "end": 87083,
         "persona": "Котоноха",
         "start": 84283,
         "text": "А...^"
     },
     {
         "action": "PlayVoice",
-        "end": 87000,
+        "end": 87083,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0330",
         "layer": 0,
         "persona": "kot",
@@ -525,21 +529,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 85000,
+        "end": 85200,
         "file": "SysSe/SE_all/h/nuno3",
         "layer": 1,
         "start": 85066
     },
     {
         "action": "PrintText",
-        "end": 91000,
+        "end": 91033,
         "persona": "Макото",
         "start": 87066,
         "text": "Я... Котоноху...^"
     },
     {
         "action": "PlayVoice",
-        "end": 91000,
+        "end": 91033,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0340",
         "layer": 1,
         "persona": "mak",
@@ -547,21 +551,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 112000,
+        "end": 112083,
         "file": "SysSe/SE_all/h/h_04",
         "layer": 2,
         "start": 90166
     },
     {
         "action": "PrintText",
-        "end": 96000,
+        "end": 96383,
         "persona": "Котоноха",
         "start": 91233,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 96000,
+        "end": 96383,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0350",
         "layer": 0,
         "persona": "kot",
@@ -569,21 +573,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 98000,
+        "end": 98366,
         "file": "SysSe/SE_all/h/nuno1",
         "layer": 1,
         "start": 97133
     },
     {
         "action": "PrintText",
-        "end": 101000,
+        "end": 101366,
         "persona": "Котоноха",
         "start": 97383,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 101000,
+        "end": 101366,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0390",
         "layer": 0,
         "persona": "kot",
@@ -591,20 +595,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 105000,
+        "end": 105216,
         "file": "Event03/03-SA/03-SA-B07/03-SA-B07-001",
         "start": 98066
     },
     {
         "action": "PrintText",
-        "end": 103000,
+        "end": 103150,
         "persona": "Макото",
         "start": 101316,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 103000,
+        "end": 103150,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0400",
         "layer": 1,
         "persona": "mak",
@@ -619,20 +623,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 116000,
+        "end": 116033,
         "file": "Movie03/03-KB/03-KB-N00/H3-KB-N00-004",
         "start": 105216
     },
     {
         "action": "PrintText",
-        "end": 107000,
+        "end": 107100,
         "persona": "Котоноха",
         "start": 105366,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 107000,
+        "end": 107100,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0410",
         "layer": 0,
         "persona": "kot",
@@ -640,14 +644,14 @@
     },
     {
         "action": "PrintText",
-        "end": 110000,
+        "end": 110233,
         "persona": "Макото",
         "start": 107333,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 110000,
+        "end": 110233,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0420",
         "layer": 1,
         "persona": "mak",
@@ -655,14 +659,14 @@
     },
     {
         "action": "PrintText",
-        "end": 114000,
+        "end": 114100,
         "persona": "Котоноха",
         "start": 110233,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 114000,
+        "end": 114100,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0450",
         "layer": 0,
         "persona": "kot",
@@ -670,35 +674,35 @@
     },
     {
         "action": "PlaySe",
-        "end": 112000,
+        "end": 112116,
         "file": "SysSe/SE_all/h/nuno1",
         "layer": 1,
         "start": 110300
     },
     {
         "action": "PlaySe",
-        "end": 132000,
+        "end": 132383,
         "file": "SysSe/SE_all/h/h_04",
         "layer": 3,
         "start": 111066
     },
     {
         "action": "PlaySe",
-        "end": 113000,
+        "end": 113083,
         "file": "SysSe/SE_all/h/bed4",
         "layer": 2,
         "start": 112350
     },
     {
         "action": "PrintText",
-        "end": 116000,
+        "end": 116166,
         "persona": "Макото",
         "start": 114066,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 116000,
+        "end": 116166,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0460",
         "layer": 1,
         "persona": "mak",
@@ -706,20 +710,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 134000,
+        "end": 134016,
         "file": "Movie03/03-KB/03-KB-N00/H3-KB-N00-002",
         "start": 116033
     },
     {
         "action": "PrintText",
-        "end": 118000,
+        "end": 118216,
         "persona": "Котоноха",
         "start": 116066,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 118000,
+        "end": 118216,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0470",
         "layer": 0,
         "persona": "kot",
@@ -727,14 +731,14 @@
     },
     {
         "action": "PrintText",
-        "end": 122000,
+        "end": 122200,
         "persona": "Макото",
         "start": 118150,
         "text": "У тебя... шикарная грудь.^"
     },
     {
         "action": "PlayVoice",
-        "end": 122000,
+        "end": 122200,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0480",
         "layer": 1,
         "persona": "mak",
@@ -742,14 +746,14 @@
     },
     {
         "action": "PrintText",
-        "end": 124000,
+        "end": 124350,
         "persona": "Котоноха",
         "start": 121333,
         "text": "Стыдно-то как...^"
     },
     {
         "action": "PlayVoice",
-        "end": 124000,
+        "end": 124350,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0490",
         "layer": 0,
         "persona": "kot",
@@ -772,14 +776,14 @@
     },
     {
         "action": "PrintText",
-        "end": 134000,
+        "end": 134366,
         "persona": "Котоноха",
         "start": 130350,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 134000,
+        "end": 134366,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0510",
         "layer": 0,
         "persona": "kot",
@@ -794,27 +798,27 @@
     },
     {
         "action": "PlaySe",
-        "end": 143000,
+        "end": 143283,
         "file": "SysSe/SE_all/h/h_04",
         "layer": 1,
         "start": 132000
     },
     {
         "action": "PlayMovie",
-        "end": 144000,
+        "end": 144233,
         "file": "Movie03/03-KB/03-KB-N00/H3-KB-N00-004",
         "start": 134016
     },
     {
         "action": "PrintText",
-        "end": 137000,
+        "end": 137116,
         "persona": "Макото",
         "start": 135016,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 137000,
+        "end": 137116,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0520",
         "layer": 1,
         "persona": "mak",
@@ -844,14 +848,14 @@
     },
     {
         "action": "PrintText",
-        "end": 146000,
+        "end": 146116,
         "persona": "Макото",
         "start": 143366,
         "text": "Соски...^"
     },
     {
         "action": "PlayVoice",
-        "end": 146000,
+        "end": 146116,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0540",
         "layer": 1,
         "persona": "mak",
@@ -859,20 +863,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 162000,
+        "end": 162216,
         "file": "Movie03/03-KB/03-KB-N00/H3-KB-N00-002",
         "start": 144233
     },
     {
         "action": "PrintText",
-        "end": 151000,
+        "end": 151283,
         "persona": "Котоноха",
         "start": 146050,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 151000,
+        "end": 151283,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0550",
         "layer": 0,
         "persona": "kot",
@@ -880,21 +884,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 149000,
+        "end": 149033,
         "file": "SysSe/SE_all/h/nuno1",
         "layer": 2,
         "start": 147216
     },
     {
         "action": "PrintText",
-        "end": 155000,
+        "end": 155066,
         "persona": "Макото",
         "start": 152016,
         "text": "Стали... такими твёрдыми.^"
     },
     {
         "action": "PlayVoice",
-        "end": 155000,
+        "end": 155066,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0560",
         "layer": 1,
         "persona": "mak",
@@ -902,14 +906,14 @@
     },
     {
         "action": "PrintText",
-        "end": 162000,
+        "end": 162166,
         "persona": "Котоноха",
         "start": 155166,
         "text": "Потому что... ты их... так...^"
     },
     {
         "action": "PlayVoice",
-        "end": 162000,
+        "end": 162166,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0570",
         "layer": 0,
         "persona": "kot",
@@ -917,42 +921,42 @@
     },
     {
         "action": "PlaySe",
-        "end": 157000,
+        "end": 157050,
         "file": "SysSe/SE_all/h/nuno1",
         "layer": 1,
         "start": 155216
     },
     {
         "action": "PlaySe",
-        "end": 158000,
+        "end": 158016,
         "file": "SysSe/SE_all/h/bed4",
         "layer": 2,
         "start": 157283
     },
     {
         "action": "PlaySe",
-        "end": 159000,
+        "end": 159016,
         "file": "SysSe/SE_all/h/bed4",
         "layer": 2,
         "start": 158283
     },
     {
         "action": "PlaySe",
-        "end": 161000,
+        "end": 161300,
         "file": "SysSe/SE_all/h/nuno1",
         "layer": 1,
         "start": 160066
     },
     {
         "action": "PrintText",
-        "end": 165000,
+        "end": 165250,
         "persona": "Макото",
         "start": 162150,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 165000,
+        "end": 165250,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0580",
         "layer": 1,
         "persona": "mak",
@@ -960,27 +964,27 @@
     },
     {
         "action": "PlayMovie",
-        "end": 173000,
+        "end": 173033,
         "file": "Movie03/03-KB/03-KB-N00/H3-KB-N00-004",
         "start": 162216
     },
     {
         "action": "PlaySe",
-        "end": 171000,
+        "end": 171166,
         "file": "SysSe/SE_all/h/h_04",
         "layer": 3,
         "start": 162266
     },
     {
         "action": "PrintText",
-        "end": 172000,
+        "end": 172216,
         "persona": "Котоноха",
         "start": 165183,
         "text": "Язык. Чувствую.^"
     },
     {
         "action": "PlayVoice",
-        "end": 172000,
+        "end": 172216,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0590",
         "layer": 0,
         "persona": "kot",
@@ -988,35 +992,35 @@
     },
     {
         "action": "PlaySe",
-        "end": 169000,
+        "end": 169150,
         "file": "SysSe/SE_all/h/nuno1",
         "layer": 2,
         "start": 167316
     },
     {
         "action": "PlaySe",
-        "end": 168000,
+        "end": 168100,
         "file": "SysSe/SE_all/h/bed4",
         "layer": 1,
         "start": 167366
     },
     {
         "action": "PlaySe",
-        "end": 170000,
+        "end": 170383,
         "file": "SysSe/SE_all/h/bed4",
         "layer": 2,
         "start": 170250
     },
     {
         "action": "PrintText",
-        "end": 176000,
+        "end": 176266,
         "persona": "Макото",
         "start": 172183,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 176000,
+        "end": 176266,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0600",
         "layer": 1,
         "persona": "mak",
@@ -1024,34 +1028,34 @@
     },
     {
         "action": "PlaySe",
-        "end": 181000,
+        "end": 181333,
         "file": "SysSe/SE_all/h/h_04",
         "layer": 3,
         "start": 173016
     },
     {
         "action": "PlayMovie",
-        "end": 183000,
+        "end": 183250,
         "file": "Movie03/03-KB/03-KB-N00/H3-KB-N00-004",
         "start": 173033
     },
     {
         "action": "PlaySe",
-        "end": 176000,
+        "end": 176233,
         "file": "SysSe/SE_all/h/bed4",
         "layer": 2,
         "start": 176100
     },
     {
         "action": "PrintText",
-        "end": 184000,
+        "end": 184316,
         "persona": "Котоноха",
         "start": 177166,
         "text": "Макото...^"
     },
     {
         "action": "PlayVoice",
-        "end": 184000,
+        "end": 184316,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0610",
         "layer": 0,
         "persona": "kot",
@@ -1059,20 +1063,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 199000,
+        "end": 199133,
         "file": "Movie03/03-KB/03-KB-N00/H3-KB-N00-002",
         "start": 183250
     },
     {
         "action": "PrintText",
-        "end": 190000,
+        "end": 190116,
         "persona": "Макото",
         "start": 184183,
         "text": "Котоноха... Я уже не могу.^"
     },
     {
         "action": "PlayVoice",
-        "end": 190000,
+        "end": 190116,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0620",
         "layer": 1,
         "persona": "mak",
@@ -1080,14 +1084,14 @@
     },
     {
         "action": "PrintText",
-        "end": 195000,
+        "end": 195116,
         "persona": "Котоноха",
         "start": 190250,
         "text": "Х-хорошо...^"
     },
     {
         "action": "PlayVoice",
-        "end": 195000,
+        "end": 195116,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0630",
         "layer": 0,
         "persona": "kot",
@@ -1095,14 +1099,14 @@
     },
     {
         "action": "PrintText",
-        "end": 197000,
+        "end": 197350,
         "persona": "Макото",
         "start": 195116,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 197000,
+        "end": 197350,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0640",
         "layer": 1,
         "persona": "mak",
@@ -1110,14 +1114,14 @@
     },
     {
         "action": "PrintText",
-        "end": 202000,
+        "end": 202016,
         "persona": "Котоноха",
         "start": 198183,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 202000,
+        "end": 202016,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0650",
         "layer": 0,
         "persona": "xxx",
@@ -1125,20 +1129,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 208000,
+        "end": 208366,
         "file": "Movie03/03-KB/03-KB-N02/03-KB-N02-001",
         "start": 199133
     },
     {
         "action": "PrintText",
-        "end": 203000,
+        "end": 203383,
         "persona": "Макото",
         "start": 202200,
         "text": "Презерватив...^"
     },
     {
         "action": "PlayVoice",
-        "end": 203000,
+        "end": 203383,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0660",
         "layer": 1,
         "persona": "mak",
@@ -1146,14 +1150,14 @@
     },
     {
         "action": "PrintText",
-        "end": 207000,
+        "end": 207083,
         "persona": "Котоноха",
         "start": 204116,
         "text": "Я...^"
     },
     {
         "action": "PlayVoice",
-        "end": 207000,
+        "end": 207083,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0680",
         "layer": 0,
         "persona": "kot",
@@ -1161,21 +1165,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 206000,
+        "end": 206283,
         "file": "SysSe/SE_all/h/nuno1",
         "layer": 2,
         "start": 205050
     },
     {
         "action": "PrintText",
-        "end": 208000,
+        "end": 208233,
         "persona": "Макото",
         "start": 207233,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 208000,
+        "end": 208233,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0690",
         "layer": 1,
         "persona": "mak",
@@ -1183,20 +1187,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 211000,
+        "end": 211116,
         "file": "Movie03/03-KB/03-KB-O07/03-KB-O07-001",
         "start": 208366
     },
     {
         "action": "PrintText",
-        "end": 210000,
+        "end": 210300,
         "persona": "Макото",
         "start": 209233,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 210000,
+        "end": 210300,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0730",
         "layer": 1,
         "persona": "mak",
@@ -1204,20 +1208,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 214000,
+        "end": 214033,
         "file": "Movie03/03-KB/03-KB-O07/H3-KB-O07-002",
         "start": 211116
     },
     {
         "action": "PrintText",
-        "end": 213000,
+        "end": 213333,
         "persona": "Котоноха",
         "start": 211216,
         "text": "Так?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 213000,
+        "end": 213333,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0740",
         "layer": 0,
         "persona": "kot",
@@ -1225,39 +1229,39 @@
     },
     {
         "action": "MoveSom",
-        "end": 216000,
+        "end": 216316,
         "start": 211316
     },
     {
         "action": "PlaySe",
-        "end": 213000,
+        "end": 213166,
         "file": "SysSe/SE_all/h/nuno1",
         "layer": 2,
         "start": 211333
     },
     {
         "action": "PlayMovie",
-        "end": 218000,
+        "end": 218050,
         "file": "Movie03/03-KB/03-KB-O07/03-KB-O07-003",
         "start": 214033
     },
     {
         "action": "PlaySe",
-        "end": 215000,
+        "end": 215016,
         "file": "SysSe/SE_all/h/condom1",
         "layer": 1,
         "start": 214066
     },
     {
         "action": "PrintText",
-        "end": 217000,
+        "end": 217350,
         "persona": "Макото",
         "start": 215150,
         "text": "Да.^"
     },
     {
         "action": "PlayVoice",
-        "end": 217000,
+        "end": 217350,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0750",
         "layer": 1,
         "persona": "mak",
@@ -1271,14 +1275,14 @@
     },
     {
         "action": "PrintText",
-        "end": 220000,
+        "end": 220116,
         "persona": "Котоноха",
         "start": 218250,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 220000,
+        "end": 220116,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0760",
         "layer": 0,
         "persona": "xxx",
@@ -1286,14 +1290,14 @@
     },
     {
         "action": "PrintText",
-        "end": 230000,
+        "end": 230216,
         "persona": "Макото",
         "start": 222050,
         "text": "Котоноха... Уверена?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 230000,
+        "end": 230216,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0770",
         "layer": 1,
         "persona": "mak",
@@ -1301,14 +1305,14 @@
     },
     {
         "action": "PrintText",
-        "end": 232000,
+        "end": 232200,
         "persona": "Котоноха",
         "start": 230316,
         "text": "Д-да...^"
     },
     {
         "action": "PlayVoice",
-        "end": 232000,
+        "end": 232200,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0780",
         "layer": 0,
         "persona": "kot",
@@ -1316,14 +1320,14 @@
     },
     {
         "action": "PrintText",
-        "end": 237000,
+        "end": 237033,
         "persona": "Макото",
         "start": 233116,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 237000,
+        "end": 237033,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0790",
         "layer": 1,
         "persona": "mak",
@@ -1331,28 +1335,28 @@
     },
     {
         "action": "PlaySe",
-        "end": 235000,
+        "end": 235333,
         "file": "SysSe/SE_all/h/h_02",
         "layer": 1,
         "start": 234083
     },
     {
         "action": "PlaySe",
-        "end": 238000,
+        "end": 238250,
         "file": "SysSe/SE_all/h/h_02",
         "layer": 1,
         "start": 237016
     },
     {
         "action": "PrintText",
-        "end": 239000,
+        "end": 239316,
         "persona": "Котоноха",
         "start": 237116,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 239000,
+        "end": 239316,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0810",
         "layer": 0,
         "persona": "kot",
@@ -1366,14 +1370,14 @@
     },
     {
         "action": "PrintText",
-        "end": 246000,
+        "end": 246100,
         "persona": "Макото",
         "start": 240033,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 246000,
+        "end": 246100,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0820",
         "layer": 1,
         "persona": "mak",
@@ -1386,21 +1390,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 244000,
+        "end": 244366,
         "file": "SysSe/SE_all/h/h_02",
         "layer": 1,
         "start": 243116
     },
     {
         "action": "PrintText",
-        "end": 248000,
+        "end": 248116,
         "persona": "Котоноха",
         "start": 244366,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 248000,
+        "end": 248116,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0830",
         "layer": 0,
         "persona": "kot",
@@ -1408,21 +1412,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 246000,
+        "end": 246366,
         "file": "SysSe/SE_all/h/bed4",
         "layer": 2,
         "start": 246250
     },
     {
         "action": "PrintText",
-        "end": 256000,
+        "end": 256066,
         "persona": "Макото",
         "start": 248150,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 256000,
+        "end": 256066,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0840",
         "layer": 1,
         "persona": "mak",
@@ -1430,21 +1434,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 251000,
+        "end": 251133,
         "file": "SysSe/SE_all/h/h_02",
         "layer": 1,
         "start": 249283
     },
     {
         "action": "PrintText",
-        "end": 256000,
+        "end": 256066,
         "persona": "Котоноха",
         "start": 255033,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 256000,
+        "end": 256066,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0850",
         "layer": 0,
         "persona": "kot",
@@ -1452,21 +1456,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 256000,
+        "end": 256350,
         "file": "SysSe/SE_all/h/h_02",
         "layer": 1,
         "start": 255366
     },
     {
         "action": "PrintText",
-        "end": 261000,
+        "end": 261116,
         "persona": "Макото",
         "start": 256066,
         "text": "Сюда?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 261000,
+        "end": 261116,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0860",
         "layer": 1,
         "persona": "mak",
@@ -1474,21 +1478,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 261000,
+        "end": 261316,
         "file": "SysSe/SE_all/h/h_02",
         "layer": 1,
         "start": 260083
     },
     {
         "action": "PrintText",
-        "end": 264000,
+        "end": 264316,
         "persona": "Макото",
         "start": 261233,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 264000,
+        "end": 264316,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0880",
         "layer": 1,
         "persona": "mak",
@@ -1496,7 +1500,7 @@
     },
     {
         "action": "PlayVoice",
-        "end": 263000,
+        "end": 263116,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0870",
         "layer": -1,
         "persona": "",
@@ -1511,14 +1515,14 @@
     },
     {
         "action": "PrintText",
-        "end": 265000,
+        "end": 265266,
         "persona": "Котоноха",
         "start": 263233,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 265000,
+        "end": 265266,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0890",
         "layer": 0,
         "persona": "kot",
@@ -1526,21 +1530,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 264000,
+        "end": 264183,
         "file": "SysSe/SE_all/h/bed4",
         "layer": 2,
         "start": 264050
     },
     {
         "action": "PrintText",
-        "end": 267000,
+        "end": 267366,
         "persona": "Макото",
         "start": 265366,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 267000,
+        "end": 267366,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0900",
         "layer": 1,
         "persona": "mak",
@@ -1548,14 +1552,14 @@
     },
     {
         "action": "PrintText",
-        "end": 272000,
+        "end": 272016,
         "persona": "Котоноха",
         "start": 268066,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 272000,
+        "end": 272016,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0910",
         "layer": 0,
         "persona": "kot",
@@ -1569,26 +1573,26 @@
     },
     {
         "action": "MoveSom",
-        "end": 296000,
+        "end": 296166,
         "start": 270000
     },
     {
         "action": "PlaySe",
-        "end": 272000,
+        "end": 272083,
         "file": "SysSe/SE_all/h/nuno1",
         "layer": 1,
         "start": 270250
     },
     {
         "action": "PrintText",
-        "end": 278000,
+        "end": 278016,
         "persona": "Макото",
         "start": 271383,
         "text": "В-вошёл...^"
     },
     {
         "action": "PlayVoice",
-        "end": 278000,
+        "end": 278016,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0920",
         "layer": 1,
         "persona": "mak",
@@ -1596,14 +1600,14 @@
     },
     {
         "action": "PrintText",
-        "end": 286000,
+        "end": 286100,
         "persona": "Котоноха",
         "start": 278150,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 286000,
+        "end": 286100,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0930",
         "layer": 0,
         "persona": "kot",
@@ -1617,21 +1621,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 284000,
+        "end": 284366,
         "file": "SysSe/SE_all/h/gucho1",
         "layer": 1,
         "start": 282100
     },
     {
         "action": "PrintText",
-        "end": 288000,
+        "end": 288316,
         "persona": "Макото",
         "start": 285383,
         "text": "Вошёл!..^"
     },
     {
         "action": "PlayVoice",
-        "end": 288000,
+        "end": 288316,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0940",
         "layer": 1,
         "persona": "mak",
@@ -1639,21 +1643,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 290000,
+        "end": 290016,
         "file": "SysSe/SE_all/h/gucho1",
         "layer": 1,
         "start": 288183
     },
     {
         "action": "PrintText",
-        "end": 289000,
+        "end": 289366,
         "persona": "Котоноха",
         "start": 289050,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 289000,
+        "end": 289366,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0950",
         "layer": 0,
         "persona": "kot",
@@ -1661,14 +1665,14 @@
     },
     {
         "action": "PrintText",
-        "end": 294000,
+        "end": 294283,
         "persona": "Макото",
         "start": 290233,
         "text": "Больно, да?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 294000,
+        "end": 294283,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0960",
         "layer": 1,
         "persona": "mak",
@@ -1676,21 +1680,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 297000,
+        "end": 297350,
         "file": "SysSe/SE_all/h/gucho1",
         "layer": 1,
         "start": 295083
     },
     {
         "action": "PrintText",
-        "end": 302000,
+        "end": 302216,
         "persona": "Макото",
         "start": 295333,
         "text": "Но... Так горячо...^"
     },
     {
         "action": "PlayVoice",
-        "end": 302000,
+        "end": 302216,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0980",
         "layer": 1,
         "persona": "mak",
@@ -1698,7 +1702,7 @@
     },
     {
         "action": "PlayVoice",
-        "end": 296000,
+        "end": 296350,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0970",
         "layer": -1,
         "persona": "",
@@ -1706,33 +1710,33 @@
     },
     {
         "action": "MoveSom",
-        "end": 325000,
+        "end": 325333,
         "start": 296166
     },
     {
         "action": "PlaySe",
-        "end": 299000,
+        "end": 299166,
         "file": "SysSe/SE_all/h/nuno1",
         "layer": 2,
         "start": 297350
     },
     {
         "action": "PlaySe",
-        "end": 302000,
+        "end": 302083,
         "file": "SysSe/SE_all/h/nuno1",
         "layer": 2,
         "start": 300250
     },
     {
         "action": "PrintText",
-        "end": 305000,
+        "end": 305266,
         "persona": "Котоноха",
         "start": 303083,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 305000,
+        "end": 305266,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-0990",
         "layer": 0,
         "persona": "kot",
@@ -1740,21 +1744,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 305000,
+        "end": 305366,
         "file": "SysSe/SE_all/h/gucho1",
         "layer": 1,
         "start": 303116
     },
     {
         "action": "PrintText",
-        "end": 308000,
+        "end": 308200,
         "persona": "Макото",
         "start": 306033,
         "text": "Можно?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 308000,
+        "end": 308200,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-1000",
         "layer": 1,
         "persona": "mak",
@@ -1762,14 +1766,14 @@
     },
     {
         "action": "PrintText",
-        "end": 310000,
+        "end": 310016,
         "persona": "Котоноха",
         "start": 308000,
         "text": "Э?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 310000,
+        "end": 310016,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-1010",
         "layer": 0,
         "persona": "kot",
@@ -1777,21 +1781,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 310000,
+        "end": 310350,
         "file": "SysSe/SE_all/h/gucho1",
         "layer": 1,
         "start": 308083
     },
     {
         "action": "PrintText",
-        "end": 314000,
+        "end": 314100,
         "persona": "Макото",
         "start": 309200,
         "text": "Двигаться?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 314000,
+        "end": 314100,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-1020",
         "layer": 1,
         "persona": "mak",
@@ -1805,21 +1809,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 313000,
+        "end": 313283,
         "file": "SysSe/SE_all/h/nuno1",
         "layer": 2,
         "start": 312066
     },
     {
         "action": "PrintText",
-        "end": 320000,
+        "end": 320200,
         "persona": "Котоноха",
         "start": 314350,
         "text": "Делай так... Как захочешь...^"
     },
     {
         "action": "PlayVoice",
-        "end": 320000,
+        "end": 320200,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-1030",
         "layer": 0,
         "persona": "kot",
@@ -1827,28 +1831,28 @@
     },
     {
         "action": "PlaySe",
-        "end": 318000,
+        "end": 318066,
         "file": "SysSe/SE_all/h/gucho1",
         "layer": 1,
         "start": 315216
     },
     {
         "action": "PlaySe",
-        "end": 318000,
+        "end": 318383,
         "file": "SysSe/SE_all/h/nuno1",
         "layer": 2,
         "start": 317150
     },
     {
         "action": "PrintText",
-        "end": 324000,
+        "end": 324016,
         "persona": "Макото",
         "start": 320233,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 324000,
+        "end": 324016,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-1040",
         "layer": 1,
         "persona": "mak",
@@ -1856,30 +1860,34 @@
     },
     {
         "action": "PlayMovie",
-        "end": 325000,
+        "end": 325333,
         "file": "Movie03/03-KB/03-KB-O09/H3-KB-O09-008",
         "start": 321000
     },
     {
         "action": "PlaySe",
-        "end": 324000,
+        "end": 324100,
         "file": "SysSe/SE_all/h/gucho1",
         "layer": 1,
         "start": 321233
     },
     {
         "action": "PrintText",
-        "end": 325000,
+        "end": 325216,
         "persona": "Котоноха",
         "start": 324000,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 325000,
+        "end": 325216,
         "file": "Voice03/03-SA/03-SA-B07/03-SA-B07-1050",
         "layer": 0,
         "persona": "kot",
         "start": 324000
+    },
+    {
+        "action": "Next",
+        "start": 325333
     }
 ]

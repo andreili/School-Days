@@ -1,13 +1,17 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 7283
+    },
+    {
         "action": "PlayBgm",
-        "end": 13000,
+        "end": 13283,
         "file": "BGM/SD_BGM/sdbgm06",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 5000,
+        "end": 5350,
         "file": "Voice01/01-00/01-00-R00/01-00-R00-0054",
         "layer": 1,
         "start": 0
@@ -20,39 +24,39 @@
     },
     {
         "action": "PlayMovie",
-        "end": 4000,
+        "end": 4100,
         "file": "Movie01/01-00/01-00-R02/01-00-R02-002",
         "start": 2000
     },
     {
         "action": "PlayMovie",
-        "end": 6000,
+        "end": 6266,
         "file": "Movie01/01-00/01-00-R02/01-00-R02-003",
         "start": 4100
     },
     {
         "action": "PlaySe",
-        "end": 13000,
+        "end": 13266,
         "file": "Voice01/01-00/01-00-R00/01-00-R00-0055",
         "layer": 2,
         "start": 5350
     },
     {
         "action": "CreateBG",
-        "end": 13000,
+        "end": 13283,
         "file": "Event01/01-00/01-00-R02/01-00-R02-004",
         "start": 6266
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9300,
         "persona": "Макото",
         "start": 6350,
         "text": "Ты имеешь в виду...^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9300,
         "file": "Voice01/01-00/01-00-R02/01-00-R02-0040",
         "layer": 1,
         "persona": "mak",
@@ -62,7 +66,11 @@
         "action": "SetSELECT",
         "answer1": "То, что мы целовались?^",
         "answer2": "Наше с ней свидание вчера?^",
-        "end": 12000,
+        "end": 12283,
         "start": 7283
+    },
+    {
+        "action": "Next",
+        "start": 13283
     }
 ]

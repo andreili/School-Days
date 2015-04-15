@@ -1,27 +1,31 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 14283
+    },
+    {
         "action": "PlaySe",
-        "end": 14000,
+        "end": 14283,
         "file": "SysSe/SE_all/gaya/kyousitu_rouka",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1350,
         "file": "Event05/05-KB/05-KB-H00/05-KB-H00-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1350,
         "persona": "Таисукэ",
         "start": 0,
         "text": "Э, Кацура?^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1350,
         "file": "Voice05/05-KB/05-KB-H00/05-KB-H00-0050",
         "layer": 1,
         "persona": "tai",
@@ -29,14 +33,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4133,
         "persona": "Котоноха",
         "start": 1333,
         "text": "Саванага...^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4133,
         "file": "Voice05/05-KB/05-KB-H00/05-KB-H00-0060",
         "layer": 0,
         "persona": "kot",
@@ -44,20 +48,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9250,
         "file": "Event05/05-KB/05-KB-H00/05-KB-H00-002",
         "start": 1350
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5233,
         "persona": "Таисукэ",
         "start": 4150,
         "text": "На обед идёшь?^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5233,
         "file": "Voice05/05-KB/05-KB-H00/05-KB-H00-0070",
         "layer": 1,
         "persona": "tai",
@@ -65,14 +69,14 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9250,
         "persona": "Котоноха",
         "start": 5233,
         "text": "Да... А где Макото?^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9250,
         "file": "Voice05/05-KB/05-KB-H00/05-KB-H00-0080",
         "layer": 0,
         "persona": "kot",
@@ -80,20 +84,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12133,
         "file": "Event05/05-KB/05-KB-H00/05-KB-H00-003",
         "start": 9250
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12133,
         "persona": "Таисукэ",
         "start": 9250,
         "text": "Да он, вроде, в столовку собирался...^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12133,
         "file": "Voice05/05-KB/05-KB-H00/05-KB-H00-0090",
         "layer": 1,
         "persona": "tai",
@@ -101,20 +105,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 14000,
+        "end": 14283,
         "file": "Event05/05-KB/05-KB-H00/05-KB-H00-004",
         "start": 12133
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13383,
         "persona": "Котоноха",
         "start": 12133,
         "text": "Спасибо большое.^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13383,
         "file": "Voice05/05-KB/05-KB-H00/05-KB-H00-0100",
         "layer": 0,
         "persona": "kot",
@@ -123,7 +127,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 14000,
+        "end": 14283,
         "start": 14083
+    },
+    {
+        "action": "Next",
+        "start": 14283
     }
 ]

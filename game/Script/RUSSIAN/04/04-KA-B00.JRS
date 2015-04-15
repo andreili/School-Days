@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 10233
+    },
+    {
         "action": "PlayBgm",
-        "end": 10000,
+        "end": 10233,
         "file": "BGM/SD_BGM/sdbgm01",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3350,
         "file": "Event04/04-KA/04-KA-B00/04-KA-B00-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5116,
         "persona": "Макото",
         "start": 1150,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5116,
         "file": "Voice04/04-KA/04-KA-B00/04-KA-B00-0030",
         "layer": 1,
         "persona": "mak",
@@ -28,35 +32,39 @@
     },
     {
         "action": "PlayMovie",
-        "end": 7000,
+        "end": 7083,
         "file": "Movie04/04-KA/04-KA-B00/04-KA-B00-002",
         "start": 3350
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8383,
         "file": "Event04/04-KA/04-KA-B00/04-KA-B00-003",
         "start": 7083
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10233,
         "file": "Event04/04-KA/04-KA-B00/04-KA-B00-004",
         "start": 8383
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10100,
         "persona": "Макото",
         "start": 9033,
         "text": "Проспал!..^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10100,
         "file": "Voice04/04-KA/04-KA-B00/04-KA-B00-0050",
         "layer": 1,
         "persona": "mak",
         "start": 9033
+    },
+    {
+        "action": "Next",
+        "start": 10233
     }
 ]

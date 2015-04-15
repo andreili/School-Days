@@ -1,39 +1,43 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 7283
+    },
+    {
         "action": "PlayBgm",
-        "end": 13000,
+        "end": 13300,
         "file": "BGM/SD_BGM/sdbgm07",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3316,
         "file": "Event03/03-KB/03-KB-H00/03-KB-H00-001",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 5000,
+        "end": 5216,
         "file": "SysSe/SE_all/keitai/keitai_vib",
         "layer": 1,
         "start": 3050
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6166,
         "file": "Event03/03-KB/03-KB-H00/03-KB-H00-002",
         "start": 3316
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6166,
         "persona": "Макото",
         "start": 3316,
         "text": "Хм... Телефон?^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6166,
         "file": "Voice03/03-KB/03-KB-H00/03-KB-H00-0050",
         "layer": 1,
         "persona": "mak",
@@ -41,27 +45,27 @@
     },
     {
         "action": "PlaySe",
-        "end": 8000,
+        "end": 8083,
         "file": "SysSe/SE_all/keitai/keitai_vib",
         "layer": 1,
         "start": 5316
     },
     {
         "action": "CreateBG",
-        "end": 13000,
+        "end": 13300,
         "file": "Event03/03-KB/03-KB-H03/03-KB-H03-005",
         "start": 6150
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7383,
         "persona": "Макото",
         "start": 6166,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7383,
         "file": "Voice03/03-KB/03-KB-H00/03-KB-H00-0060",
         "layer": 1,
         "persona": "mak",
@@ -71,21 +75,25 @@
         "action": "SetSELECT",
         "answer1": "Ответить.^",
         "answer2": "NULL",
-        "end": 12000,
+        "end": 12283,
         "start": 7283
     },
     {
         "action": "PlaySe",
-        "end": 10000,
+        "end": 10366,
         "file": "SysSe/SE_all/keitai/keitai_vib",
         "layer": 1,
         "start": 8183
     },
     {
         "action": "PlaySe",
-        "end": 13000,
+        "end": 13233,
         "file": "SysSe/SE_all/keitai/keitai_vib",
         "layer": 1,
         "start": 11050
+    },
+    {
+        "action": "Next",
+        "start": 13300
     }
 ]

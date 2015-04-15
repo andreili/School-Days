@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 165833
+    },
+    {
         "action": "PlayBgm",
-        "end": 38000,
+        "end": 38200,
         "file": "BGM/SD_BGM/sdbgm28",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 41000,
+        "end": 41216,
         "file": "Se03/03-KB/03-KB-M07/SE03-KB-M07-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 11000,
+        "end": 11166,
         "file": "Event03/03-KB/03-KB-M07/03-KB-M07-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6050,
         "persona": "Макото",
         "start": 0,
         "text": "Прости. Такой весёлый вечер, а тут я со своими глупостями...^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6050,
         "file": "Voice03/03-KB/03-KB-Z00/03-KB-Z00-0030",
         "layer": 1,
         "persona": "mak",
@@ -35,14 +39,14 @@
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7300,
         "persona": "Сэкаи",
         "start": 6050,
         "text": "Н-ничего!^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7300,
         "file": "Voice03/03-KB/03-KB-Z00/03-KB-Z00-0040",
         "layer": 0,
         "persona": "sek",
@@ -50,14 +54,14 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9183,
         "persona": "Макото",
         "start": 7333,
         "text": "Ну, я пошёл.^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9183,
         "file": "Voice03/03-KB/03-KB-Z00/03-KB-Z00-0050",
         "layer": 1,
         "persona": "mak",
@@ -65,14 +69,14 @@
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10266,
         "persona": "Сэкаи",
         "start": 9183,
         "text": "С-скажи...^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10266,
         "file": "Voice03/03-KB/03-KB-Z00/03-KB-Z00-0060",
         "layer": 0,
         "persona": "sek",
@@ -80,14 +84,14 @@
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11150,
         "persona": "Макото",
         "start": 10316,
         "text": "Что?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11150,
         "file": "Voice03/03-KB/03-KB-Z00/03-KB-Z00-0070",
         "layer": 1,
         "persona": "mak",
@@ -95,14 +99,14 @@
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14033,
         "persona": "Сэкаи",
         "start": 11150,
         "text": "Могу я?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14033,
         "file": "Voice03/03-KB/03-KB-Z00/03-KB-Z00-0080",
         "layer": 0,
         "persona": "sek",
@@ -110,20 +114,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 34000,
+        "end": 34266,
         "file": "Movie03/03-KB/03-KB-M07/03-KB-M07-002",
         "start": 11166
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14333,
         "persona": "Макото",
         "start": 14050,
         "text": "Можешь?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14333,
         "file": "Voice03/03-KB/03-KB-Z00/03-KB-Z00-0090",
         "layer": 1,
         "persona": "mak",
@@ -131,14 +135,14 @@
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16200,
         "persona": "Сэкаи",
         "start": 14366,
         "text": "Быть с тобой...^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16200,
         "file": "Voice03/03-KB/03-KB-Z00/03-KB-Z00-0100",
         "layer": 0,
         "persona": "sek",
@@ -146,14 +150,14 @@
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17166,
         "persona": "Макото",
         "start": 16200,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17166,
         "file": "Voice03/03-KB/03-KB-Z00/03-KB-Z00-0110",
         "layer": 1,
         "persona": "mak",
@@ -161,14 +165,14 @@
     },
     {
         "action": "PrintText",
-        "end": 21000,
+        "end": 21200,
         "persona": "Сэкаи",
         "start": 17216,
         "text": "Могу я снова быть вместе с тобой?^"
     },
     {
         "action": "PlayVoice",
-        "end": 21000,
+        "end": 21200,
         "file": "Voice03/03-KB/03-KB-Z00/03-KB-Z00-0120",
         "layer": 0,
         "persona": "sek",
@@ -176,14 +180,14 @@
     },
     {
         "action": "PrintText",
-        "end": 22000,
+        "end": 22183,
         "persona": "Макото",
         "start": 21283,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 22000,
+        "end": 22183,
         "file": "Voice03/03-KB/03-KB-Z00/03-KB-Z00-0130",
         "layer": 1,
         "persona": "xxx",
@@ -191,14 +195,14 @@
     },
     {
         "action": "PrintText",
-        "end": 24000,
+        "end": 24366,
         "persona": "Сэкаи",
         "start": 22283,
         "text": "Пусть и вместо Кацуры...^"
     },
     {
         "action": "PlayVoice",
-        "end": 24000,
+        "end": 24366,
         "file": "Voice03/03-KB/03-KB-Z00/03-KB-Z00-0140",
         "layer": 0,
         "persona": "sek",
@@ -206,14 +210,14 @@
     },
     {
         "action": "PrintText",
-        "end": 26000,
+        "end": 26100,
         "persona": "Макото",
         "start": 24366,
         "text": "Так...^"
     },
     {
         "action": "PlayVoice",
-        "end": 26000,
+        "end": 26100,
         "file": "Voice03/03-KB/03-KB-Z00/03-KB-Z00-0150",
         "layer": 1,
         "persona": "mak",
@@ -221,14 +225,14 @@
     },
     {
         "action": "PrintText",
-        "end": 29000,
+        "end": 29233,
         "persona": "Сэкаи",
         "start": 26150,
         "text": "Я хочу... Вместе...^"
     },
     {
         "action": "PlayVoice",
-        "end": 29000,
+        "end": 29233,
         "file": "Voice03/03-KB/03-KB-Z00/03-KB-Z00-0160",
         "layer": 0,
         "persona": "sek",
@@ -236,14 +240,14 @@
     },
     {
         "action": "PrintText",
-        "end": 30000,
+        "end": 30016,
         "persona": "Макото",
         "start": 29233,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 30000,
+        "end": 30016,
         "file": "Voice03/03-KB/03-KB-Z00/03-KB-Z00-0170",
         "layer": 1,
         "persona": "xxx",
@@ -251,14 +255,14 @@
     },
     {
         "action": "PrintText",
-        "end": 32000,
+        "end": 32200,
         "persona": "Сэкаи",
         "start": 30016,
         "text": "Можно ведь?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 32000,
+        "end": 32200,
         "file": "Voice03/03-KB/03-KB-Z00/03-KB-Z00-0180",
         "layer": 0,
         "persona": "sek",
@@ -266,14 +270,14 @@
     },
     {
         "action": "PrintText",
-        "end": 33000,
+        "end": 33033,
         "persona": "Макото",
         "start": 32183,
         "text": "Да.^"
     },
     {
         "action": "PlayVoice",
-        "end": 33000,
+        "end": 33033,
         "file": "Voice03/03-KB/03-KB-Z00/03-KB-Z00-0200",
         "layer": 1,
         "persona": "mak",
@@ -281,14 +285,14 @@
     },
     {
         "action": "PrintText",
-        "end": 34000,
+        "end": 34266,
         "persona": "Сэкаи",
         "start": 33050,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 34000,
+        "end": 34266,
         "file": "Voice03/03-KB/03-KB-Z00/03-KB-Z00-0210",
         "layer": 0,
         "persona": "sek",
@@ -296,20 +300,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 39000,
+        "end": 39233,
         "file": "Event03/03-KB/03-KB-M07/03-KB-M07-003",
         "start": 34266
     },
     {
         "action": "PrintText",
-        "end": 36000,
+        "end": 36350,
         "persona": "Таисукэ",
         "start": 35066,
         "text": "Эх...^"
     },
     {
         "action": "PlayVoice",
-        "end": 36000,
+        "end": 36350,
         "file": "Voice03/03-KB/03-KB-Z00/03-KB-Z00-0230",
         "layer": 1,
         "persona": "tai",
@@ -317,14 +321,18 @@
     },
     {
         "action": "EndBGM",
-        "end": 167000,
+        "end": 167083,
         "file": "BGM/Vocal/SDV18",
         "start": 39200
     },
     {
         "action": "EndRoll",
-        "end": 165000,
+        "end": 165833,
         "file": "Movie03/ENDROLL/04-9",
         "start": 42233
+    },
+    {
+        "action": "Next",
+        "start": 166833
     }
 ]

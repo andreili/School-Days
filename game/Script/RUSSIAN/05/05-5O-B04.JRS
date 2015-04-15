@@ -1,7 +1,11 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 132050
+    },
+    {
         "action": "PlayBgm",
-        "end": 9000,
+        "end": 9366,
         "file": "BGM/SD_BGM/sdbgm20",
         "start": 0
     },
@@ -13,26 +17,26 @@
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4200,
         "file": "Event05/05-5O/05-5O-B04/05-5O-B04-002",
         "start": 3000
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6350,
         "file": "Event05/05-5O/05-5O-C01/05-5O-C01-002B",
         "start": 4200
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5200,
         "persona": "Котоноха",
         "start": 4250,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5200,
         "file": "Voice05/05-5O/05-5O-B04/05-5O-B04-0050",
         "layer": 0,
         "persona": "xxx",
@@ -41,25 +45,25 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 6000,
+        "end": 6350,
         "start": 5350
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8383,
         "file": "Event05/05-5O/05-5O-B04/05-5O-B04-004",
         "start": 6350
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8016,
         "persona": "Макото",
         "start": 7033,
         "text": "Котоноха...^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8016,
         "file": "Voice05/05-5O/05-5O-B04/05-5O-B04-0080",
         "layer": 1,
         "persona": "mak",
@@ -67,20 +71,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12066,
         "file": "Event05/05-5O/05-5O-B04/05-5O-B04-005",
         "start": 8383
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12066,
         "persona": "Котоноха",
         "start": 9016,
         "text": "Макото...^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12066,
         "file": "Voice05/05-5O/05-5O-B04/05-5O-B04-0100",
         "layer": 0,
         "persona": "kot",
@@ -88,20 +92,24 @@
     },
     {
         "action": "EndBGM",
-        "end": 132000,
+        "end": 132050,
         "file": "BGM/Vocal/SDV07",
         "start": 9366
     },
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 12000,
+        "end": 12066,
         "start": 11066
     },
     {
         "action": "EndRoll",
-        "end": 132000,
+        "end": 132050,
         "file": "Movie05/ENDROLL/06-4",
         "start": 12066
+    },
+    {
+        "action": "Next",
+        "start": 133050
     }
 ]

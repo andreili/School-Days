@@ -1,98 +1,102 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 26083
+    },
+    {
         "action": "PlayBgm",
-        "end": 32000,
+        "end": 32100,
         "file": "BGM/SD_BGM/sdbgm01",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 32000,
+        "end": 32100,
         "file": "Se02/02-2S/02-2S-Q00/SE02-2S-Q00-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3033,
         "file": "Event02/02-2S/02-2S-Q00/02-2S-Q00-001",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 32000,
+        "end": 32100,
         "file": "Se01/01-1K/01-1K-H00/SE01-1K-H00-001",
         "layer": 2,
         "start": 3033
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7016,
         "file": "Event02/02-2S/02-2S-Q00/02-2S-Q00-002",
         "start": 3033
     },
     {
         "action": "PlaySe",
-        "end": 15000,
+        "end": 15200,
         "file": "Se01/01-00/01-00-M03/SE01-00-M03-002",
         "layer": 3,
         "start": 7000
     },
     {
         "action": "PlayMovie",
-        "end": 15000,
+        "end": 15300,
         "file": "Movie02/02-2S/02-2S-Q00/02-2S-Q00-003",
         "start": 7016
     },
     {
         "action": "PlaySe",
-        "end": 19000,
+        "end": 19050,
         "file": "SysSe/SE_all/footsteps/asioto_okugai",
         "layer": 4,
         "start": 15300
     },
     {
         "action": "PlayMovie",
-        "end": 19000,
+        "end": 19050,
         "file": "Movie02/02-2S/02-2S-Q00/02-2S-Q00-004",
         "start": 15300
     },
     {
         "action": "PlaySe",
-        "end": 20000,
+        "end": 20333,
         "file": "SysSe/SE_all/station_train/train_door_open",
         "layer": 3,
         "start": 18316
     },
     {
         "action": "PlayMovie",
-        "end": 20000,
+        "end": 20333,
         "file": "Movie02/02-2S/02-2S-Q00/02-2S-Q00-005",
         "start": 19050
     },
     {
         "action": "PlaySe",
-        "end": 22000,
+        "end": 22300,
         "file": "SysSe/SE_all/footsteps/asioto_okugai",
         "layer": 4,
         "start": 20333
     },
     {
         "action": "PlayMovie",
-        "end": 24000,
+        "end": 24016,
         "file": "Movie02/02-2S/02-2S-Q00/02-2S-Q00-006",
         "start": 20333
     },
     {
         "action": "PrintText",
-        "end": 23000,
+        "end": 23166,
         "persona": "Котоноха",
         "start": 21333,
         "text": "Макото!^"
     },
     {
         "action": "PlayVoice",
-        "end": 23000,
+        "end": 23166,
         "file": "Voice02/02-2S/02-2S-Q00/02-2S-Q00-0040",
         "layer": 0,
         "persona": "kot",
@@ -100,14 +104,14 @@
     },
     {
         "action": "PrintText",
-        "end": 24000,
+        "end": 24250,
         "persona": "Макото",
         "start": 24000,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 24000,
+        "end": 24250,
         "file": "Voice02/02-2S/02-2S-Q00/02-2S-Q00-0050",
         "layer": 1,
         "persona": "mak",
@@ -115,27 +119,27 @@
     },
     {
         "action": "PlaySe",
-        "end": 25000,
+        "end": 25150,
         "file": "SysSe/SE_all/footsteps/asioto_okugai",
         "layer": 4,
         "start": 24016
     },
     {
         "action": "PlayMovie",
-        "end": 25000,
+        "end": 25266,
         "file": "Movie02/02-2S/02-2S-Q00/02-2S-Q00-007",
         "start": 24016
     },
     {
         "action": "PrintText",
-        "end": 26000,
+        "end": 26216,
         "persona": "Котоноха",
         "start": 25250,
         "text": "Доброе утро!^"
     },
     {
         "action": "PlayVoice",
-        "end": 26000,
+        "end": 26216,
         "file": "Voice02/02-2S/02-2S-Q00/02-2S-Q00-0060",
         "layer": 0,
         "persona": "kot",
@@ -143,7 +147,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 32000,
+        "end": 32100,
         "file": "Event02/02-2S/02-2S-Q00/02-2S-Q00-008",
         "start": 25266
     },
@@ -151,7 +155,11 @@
         "action": "SetSELECT",
         "answer1": "Доброе утро!",
         "answer2": "NULL",
-        "end": 31000,
+        "end": 31083,
         "start": 26083
+    },
+    {
+        "action": "Next",
+        "start": 32100
     }
 ]

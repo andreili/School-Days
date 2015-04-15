@@ -1,13 +1,17 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 5150
+    },
+    {
         "action": "PlayBgm",
-        "end": 11000,
+        "end": 11216,
         "file": "BGM/SD_BGM/sdbgm03",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 11000,
+        "end": 11200,
         "file": "Se04/04-KA/04-KA-G00/SE04-KA-G00-001",
         "layer": 1,
         "start": 0
@@ -20,26 +24,26 @@
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4100,
         "file": "Event04/04-KA/04-KA-F04/04-KA-F04-002",
         "start": 3000
     },
     {
         "action": "CreateBG",
-        "end": 11000,
+        "end": 11216,
         "file": "Event04/04-KA/04-KA-F04/04-KA-F04-002B",
         "start": 4100
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5050,
         "persona": "Макото",
         "start": 4183,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5050,
         "file": "Voice04/04-KA/04-KA-F04/04-KA-F04-0040",
         "layer": 1,
         "persona": "mak",
@@ -49,7 +53,11 @@
         "action": "SetSELECT",
         "answer1": "Доброе утро...",
         "answer2": "Хех..",
-        "end": 10000,
+        "end": 10150,
         "start": 5150
+    },
+    {
+        "action": "Next",
+        "start": 11216
     }
 ]

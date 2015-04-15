@@ -1,5 +1,9 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 20000
+    },
+    {
         "action": "PlayBgm",
         "end": 20000,
         "file": "BGM/SD_BGM/sdbgm28",
@@ -38,17 +42,21 @@
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16066,
         "persona": "Сэцуна",
         "start": 15000,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16066,
         "file": "Voice03/03-KB/03-KB-M01/03-KB-M01-0050",
         "layer": 0,
         "persona": "xxx",
         "start": 15000
+    },
+    {
+        "action": "Next",
+        "start": 20000
     }
 ]

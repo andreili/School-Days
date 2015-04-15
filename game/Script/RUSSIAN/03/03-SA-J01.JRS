@@ -1,27 +1,31 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 22050
+    },
+    {
         "action": "PlaySe",
-        "end": 22000,
+        "end": 22050,
         "file": "Se03/03-SA/03-SA-J01/SE03-SA-J01-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "PlayMovie",
-        "end": 22000,
+        "end": 22050,
         "file": "Movie03/03-SA/03-SA-J01/03-SA-J01-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1233,
         "persona": "Макото",
         "start": 0,
         "text": "Да, просто проходил мимо.^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1233,
         "file": "Voice03/03-SA/03-SA-J01/03-SA-J01-0030",
         "layer": 1,
         "persona": "mak",
@@ -29,14 +33,14 @@
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2233,
         "persona": "Котоноха",
         "start": 1250,
         "text": "Что?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2233,
         "file": "Voice03/03-SA/03-SA-J01/03-SA-J01-0040",
         "layer": 0,
         "persona": "kot",
@@ -44,14 +48,14 @@
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7266,
         "persona": "Отомэ",
         "start": 2233,
         "text": "Вот видишь! Я так и думала! Блин, а я-то почти поверила...^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7266,
         "file": "Voice03/03-SA/03-SA-J01/03-SA-J01-0050",
         "layer": 0,
         "persona": "oto",
@@ -59,14 +63,14 @@
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8266,
         "persona": "Макото",
         "start": 7266,
         "text": "Котоноха.^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8266,
         "file": "Voice03/03-SA/03-SA-J01/03-SA-J01-0060",
         "layer": 1,
         "persona": "mak",
@@ -74,14 +78,14 @@
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10333,
         "persona": "Котоноха",
         "start": 8283,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10333,
         "file": "Voice03/03-SA/03-SA-J01/03-SA-J01-0070",
         "layer": 0,
         "persona": "xxx",
@@ -89,14 +93,14 @@
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17066,
         "persona": "Макото",
         "start": 10333,
         "text": "Прости, давно хотел тебе всё объяснить, но не находил слов...^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17066,
         "file": "Voice03/03-SA/03-SA-J01/03-SA-J01-0080",
         "layer": 1,
         "persona": "mak",
@@ -104,14 +108,14 @@
     },
     {
         "action": "PrintText",
-        "end": 18000,
+        "end": 18316,
         "persona": "Котоноха",
         "start": 17066,
         "text": "Нет...^"
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18316,
         "file": "Voice03/03-SA/03-SA-J01/03-SA-J01-0090",
         "layer": 0,
         "persona": "kot",
@@ -119,14 +123,14 @@
     },
     {
         "action": "PrintText",
-        "end": 19000,
+        "end": 19383,
         "persona": "Макото",
         "start": 18333,
         "text": "Прощай.^"
     },
     {
         "action": "PlayVoice",
-        "end": 19000,
+        "end": 19383,
         "file": "Voice03/03-SA/03-SA-J01/03-SA-J01-0100",
         "layer": 1,
         "persona": "mak",
@@ -134,17 +138,21 @@
     },
     {
         "action": "PrintText",
-        "end": 22000,
+        "end": 22050,
         "persona": "Котоноха",
         "start": 19383,
         "text": "Нет! Макото!^"
     },
     {
         "action": "PlayVoice",
-        "end": 22000,
+        "end": 22050,
         "file": "Voice03/03-SA/03-SA-J01/03-SA-J01-0110",
         "layer": 0,
         "persona": "kot",
         "start": 19383
+    },
+    {
+        "action": "Next",
+        "start": 22050
     }
 ]

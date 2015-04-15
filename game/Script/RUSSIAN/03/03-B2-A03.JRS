@@ -1,5 +1,9 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 4350
+    },
+    {
         "action": "CreateBG",
         "end": 2000,
         "file": "Event03/03-B2/03-B2-A03/03-B2-A03-001",
@@ -22,20 +26,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4350,
         "file": "Event03/03-B2/03-B2-A03/03-B2-A03-002",
         "start": 2000
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3166,
         "persona": "Котоноха",
         "start": 2000,
         "text": "Как ты можешь...^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3166,
         "file": "Voice03/03-B2/03-B2-A03/03-B2-A03-0050",
         "layer": 0,
         "persona": "kot",
@@ -44,7 +48,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 4000,
+        "end": 4350,
         "start": 3350
+    },
+    {
+        "action": "Next",
+        "start": 4350
     }
 ]

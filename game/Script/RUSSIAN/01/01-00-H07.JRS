@@ -1,20 +1,24 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 19066
+    },
+    {
         "action": "PlayBgm",
-        "end": 19000,
+        "end": 19066,
         "file": "BGM/SD_BGM/sdbgm06",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 19000,
+        "end": 19066,
         "file": "Se01/01-00/01-00-E00/SE01-00-E00-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6283,
         "file": "Event01/01-00/01-00-H07/01-00-H07-001",
         "start": 0
     },
@@ -35,14 +39,14 @@
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2116,
         "persona": "Котоноха",
         "start": 1216,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2116,
         "file": "Voice01/01-00/01-00-H07/01-00-H07-0040",
         "layer": 0,
         "persona": "xxx",
@@ -50,14 +54,14 @@
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7350,
         "persona": "Макото",
         "start": 2316,
         "text": "Сэкаи права. Когда у тебя будет время, тогда и сходим куда-нибудь.^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7350,
         "file": "Voice01/01-00/01-00-H07/01-00-H07-0050",
         "layer": 1,
         "persona": "mak",
@@ -65,20 +69,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9250,
         "file": "Event01/01-00/01-00-H07/01-00-H07-003",
         "start": 6283
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9166,
         "persona": "Котоноха",
         "start": 7350,
         "text": "Хорошо!^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9166,
         "file": "Voice01/01-00/01-00-H07/01-00-H07-0060",
         "layer": 0,
         "persona": "kot",
@@ -86,20 +90,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 11000,
+        "end": 11383,
         "file": "Event01/01-00/01-00-H07/01-00-H07-001",
         "start": 9250
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10116,
         "persona": "Макото",
         "start": 9250,
         "text": "Значит, решено!^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10116,
         "file": "Voice01/01-00/01-00-H07/01-00-H07-0070",
         "layer": 1,
         "persona": "mak",
@@ -107,14 +111,14 @@
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11250,
         "persona": "Котоноха",
         "start": 10266,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11250,
         "file": "Voice01/01-00/01-00-H07/01-00-H07-0080",
         "layer": 0,
         "persona": "xxx",
@@ -122,20 +126,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 15000,
+        "end": 15166,
         "file": "Event01/01-00/01-00-H07/01-00-H07-004",
         "start": 11383
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14333,
         "persona": "Котоноха",
         "start": 12033,
         "text": "Я хотела...^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14333,
         "file": "Voice01/01-00/01-00-H07/01-00-H07-0090",
         "layer": 0,
         "persona": "kot",
@@ -143,14 +147,14 @@
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15066,
         "persona": "Макото",
         "start": 14250,
         "text": "М?^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15066,
         "file": "Voice01/01-00/01-00-H07/01-00-H07-0100",
         "layer": 1,
         "persona": "mak",
@@ -158,20 +162,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 19000,
+        "end": 19066,
         "file": "Event01/01-00/01-00-H07/01-00-H07-005",
         "start": 15166
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17350,
         "persona": "Котоноха",
         "start": 15333,
         "text": "Нет, ничего...^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17350,
         "file": "Voice01/01-00/01-00-H07/01-00-H07-0110",
         "layer": 0,
         "persona": "kot",
@@ -179,17 +183,21 @@
     },
     {
         "action": "PrintText",
-        "end": 19000,
+        "end": 19016,
         "persona": "Сэкаи",
         "start": 18000,
         "text": "Кацура?^"
     },
     {
         "action": "PlayVoice",
-        "end": 19000,
+        "end": 19016,
         "file": "Voice01/01-00/01-00-H07/01-00-H07-0120",
         "layer": 0,
         "persona": "sek",
         "start": 18000
+    },
+    {
+        "action": "Next",
+        "start": 19066
     }
 ]

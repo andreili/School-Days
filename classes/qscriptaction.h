@@ -19,6 +19,7 @@ public:
         WhiteFade,
         PlayMovie,
         PlaySe,
+        PlayES,
         PlayBgm,
         PlayVoice,
         PrintText,

@@ -1,5 +1,9 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 18000
+    },
+    {
         "action": "PlayBgm",
         "end": 18000,
         "file": "BGM/SD_BGM/sdbgm01",
@@ -14,20 +18,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 1000,
+        "end": 1250,
         "file": "Movie03/03-SB/03-SB-C07/03-SB-C07-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 0,
+        "end": 250,
         "persona": "Макото",
         "start": 0,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 0,
+        "end": 250,
         "file": "Voice03/03-SB/03-SB-C07/03-SB-C07-0030",
         "layer": 1,
         "persona": "xxx",
@@ -35,14 +39,14 @@
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1233,
         "persona": "Котоноха",
         "start": 250,
         "text": "Ладно, проехали...^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1233,
         "file": "Voice03/03-SB/03-SB-C07/03-SB-C07-0040",
         "layer": 0,
         "persona": "kot",
@@ -50,20 +54,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2100,
         "file": "Event03/03-SB/03-SB-C07/03-SB-C07-002",
         "start": 1250
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2083,
         "persona": "Макото",
         "start": 1250,
         "text": "Что?^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2083,
         "file": "Voice03/03-SB/03-SB-C07/03-SB-C07-0050",
         "layer": 1,
         "persona": "mak",
@@ -71,14 +75,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4050,
         "persona": "Котоноха",
         "start": 2083,
         "text": "Забудь.^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4050,
         "file": "Voice03/03-SB/03-SB-C07/03-SB-C07-0060",
         "layer": 0,
         "persona": "kot",
@@ -86,13 +90,13 @@
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4050,
         "file": "Event03/03-SB/03-SB-C07/03-SB-C07-003",
         "start": 2100
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5016,
         "file": "Event03/03-SB/03-SB-C07/03-SB-C07-004",
         "start": 4050
     },
@@ -113,14 +117,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6216,
         "persona": "Котоноха",
         "start": 5000,
         "text": "Я просто хотела спросить.^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6216,
         "file": "Voice03/03-SB/03-SB-C07/03-SB-C07-0080",
         "layer": 0,
         "persona": "kot",
@@ -128,20 +132,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 7000,
+        "end": 7200,
         "file": "Movie03/03-SB/03-SB-C07/03-SB-C07-005",
         "start": 5016
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7166,
         "persona": "Макото",
         "start": 6216,
         "text": "Ага.^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7166,
         "file": "Voice03/03-SB/03-SB-C07/03-SB-C07-0090",
         "layer": 1,
         "persona": "mak",
@@ -149,14 +153,14 @@
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11283,
         "persona": "Котоноха",
         "start": 7183,
         "text": "Я тоже, наверное, застряну на весь день на ресепшене...^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11283,
         "file": "Voice03/03-SB/03-SB-C07/03-SB-C07-0100",
         "layer": 0,
         "persona": "kot",
@@ -164,20 +168,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 11000,
+        "end": 11316,
         "file": "Movie03/03-SB/03-SB-C07/03-SB-C07-006",
         "start": 7200
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15316,
         "persona": "Макото",
         "start": 11283,
         "text": "Это верно, мы оба весь день будем очень заняты.^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15316,
         "file": "Voice03/03-SB/03-SB-C07/03-SB-C07-0110",
         "layer": 1,
         "persona": "mak",
@@ -185,20 +189,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 15000,
+        "end": 15333,
         "file": "Event03/03-SB/03-SB-C07/03-SB-C07-007",
         "start": 11316
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16366,
         "persona": "Котоноха",
         "start": 15316,
         "text": "Да...^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16366,
         "file": "Voice03/03-SB/03-SB-C07/03-SB-C07-0120",
         "layer": 0,
         "persona": "kot",
@@ -209,5 +213,9 @@
         "end": 18000,
         "file": "Movie03/03-SB/03-SB-C07/03-SB-C07-008",
         "start": 15333
+    },
+    {
+        "action": "Next",
+        "start": 18000
     }
 ]

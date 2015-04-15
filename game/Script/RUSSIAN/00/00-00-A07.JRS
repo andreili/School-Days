@@ -1,23 +1,31 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 6283
+    },
+    {
         "action": "PlayMovie",
-        "end": 6000,
+        "end": 6283,
         "file": "Movie00/00-00/00-00-A07/00-00-A07-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2083,
         "persona": "Макото",
         "start": 1066,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2083,
         "file": "Voice00/00-00/00-00-A07/00-00-A07-0040",
         "layer": 1,
         "persona": "mak",
         "start": 1066
+    },
+    {
+        "action": "Next",
+        "start": 6283
     }
 ]

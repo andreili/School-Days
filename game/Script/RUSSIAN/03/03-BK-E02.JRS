@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 269083
+    },
+    {
         "action": "PlayBgm",
-        "end": 269000,
+        "end": 269083,
         "file": "BGM/SD_BGM/sdbgm06",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 99000,
+        "end": 99166,
         "file": "Se03/03-BK/03-BK-E02/SE03-BK-E02-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2116,
         "file": "Event03/03-BK/03-BK-E02/03-BK-E02-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2100,
         "persona": "Таисукэ",
         "start": 0,
         "text": "Ты ведь завтра не занят?^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2100,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0030",
         "layer": 1,
         "persona": "tai",
@@ -35,14 +39,14 @@
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2333,
         "persona": "Макото",
         "start": 2100,
         "text": "Э?^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2333,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0040",
         "layer": 1,
         "persona": "mak",
@@ -50,20 +54,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2350,
         "file": "Event03/03-BK/03-BK-E02/03-BK-E02-002",
         "start": 2116
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6083,
         "persona": "Таисукэ",
         "start": 2333,
         "text": "Даже если занят, отменяй все дела!^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6083,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0050",
         "layer": 1,
         "persona": "tai",
@@ -71,20 +75,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6100,
         "file": "Event03/03-BK/03-BK-E02/03-BK-E02-003",
         "start": 2350
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7333,
         "persona": "Макото",
         "start": 6083,
         "text": "А что случилось?^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7333,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0060",
         "layer": 1,
         "persona": "mak",
@@ -92,20 +96,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 13000,
+        "end": 13233,
         "file": "Event03/03-BK/03-BK-E02/03-BK-E02-004",
         "start": 6100
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9333,
         "persona": "Таисукэ",
         "start": 7333,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9333,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0070",
         "layer": 1,
         "persona": "xxx",
@@ -113,14 +117,14 @@
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13216,
         "persona": "Макото",
         "start": 9366,
         "text": "Ну давай, рассказывай!^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13216,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0080",
         "layer": 1,
         "persona": "mak",
@@ -128,14 +132,14 @@
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15233,
         "persona": "Таисукэ",
         "start": 13216,
         "text": "Верно, ты прав.^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15233,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0090",
         "layer": 1,
         "persona": "tai",
@@ -143,26 +147,26 @@
     },
     {
         "action": "CreateBG",
-        "end": 15000,
+        "end": 15233,
         "file": "Event03/03-BK/03-BK-E02/03-BK-E02-005",
         "start": 13233
     },
     {
         "action": "CreateBG",
-        "end": 19000,
+        "end": 19100,
         "file": "Event03/03-BK/03-BK-E02/03-BK-E02-006",
         "start": 15233
     },
     {
         "action": "PrintText",
-        "end": 19000,
+        "end": 19100,
         "persona": "Макото",
         "start": 15233,
         "text": "Просто скажи мне правду...^"
     },
     {
         "action": "PlayVoice",
-        "end": 19000,
+        "end": 19100,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0100",
         "layer": 1,
         "persona": "mak",
@@ -170,20 +174,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 21000,
+        "end": 21366,
         "file": "Event03/03-BK/03-BK-E02/03-BK-E02-007",
         "start": 19100
     },
     {
         "action": "PrintText",
-        "end": 21000,
+        "end": 21366,
         "persona": "Таисукэ",
         "start": 19100,
         "text": "Блин! Уже не смешно!^"
     },
     {
         "action": "PlayVoice",
-        "end": 21000,
+        "end": 21366,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0110",
         "layer": 1,
         "persona": "tai",
@@ -191,7 +195,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 24000,
+        "end": 24200,
         "file": "Event03/03-BK/03-BK-E02/03-BK-E02-008",
         "start": 21366
     },
@@ -212,14 +216,14 @@
     },
     {
         "action": "PrintText",
-        "end": 28000,
+        "end": 28300,
         "persona": "Таисукэ",
         "start": 23000,
         "text": "В общем... Я иду на свидание с Саиёндзи.^"
     },
     {
         "action": "PlayVoice",
-        "end": 28000,
+        "end": 28300,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0140",
         "layer": 1,
         "persona": "tai",
@@ -227,20 +231,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 41000,
+        "end": 41200,
         "file": "Event03/03-BK/03-BK-E02/03-BK-E02-001",
         "start": 24200
     },
     {
         "action": "PrintText",
-        "end": 29000,
+        "end": 29150,
         "persona": "Макото",
         "start": 28300,
         "text": "Э?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 29000,
+        "end": 29150,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0150",
         "layer": 1,
         "persona": "mak",
@@ -248,14 +252,14 @@
     },
     {
         "action": "PrintText",
-        "end": 34000,
+        "end": 34200,
         "persona": "Таисукэ",
         "start": 29150,
         "text": "Помнишь, я позавчера тебе по телефону говорил? Что приглашу её, даже если она меня отошьет?^"
     },
     {
         "action": "PlayVoice",
-        "end": 34000,
+        "end": 34200,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0160",
         "layer": 1,
         "persona": "tai",
@@ -263,14 +267,14 @@
     },
     {
         "action": "PrintText",
-        "end": 36000,
+        "end": 36216,
         "persona": "Макото",
         "start": 34200,
         "text": "Ага...^"
     },
     {
         "action": "PlayVoice",
-        "end": 36000,
+        "end": 36216,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0170",
         "layer": 1,
         "persona": "mak",
@@ -278,14 +282,14 @@
     },
     {
         "action": "PrintText",
-        "end": 41000,
+        "end": 41200,
         "persona": "Таисукэ",
         "start": 36216,
         "text": "Вместе на школьном фестивале с ней погулять не получилось. Но потом я встретил её на танцах у костра.^"
     },
     {
         "action": "PlayVoice",
-        "end": 41000,
+        "end": 41200,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0180",
         "layer": 1,
         "persona": "tai",
@@ -293,20 +297,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 48000,
+        "end": 48366,
         "file": "Event03/03-BK/03-BK-E02/03-BK-E02-010",
         "start": 41200
     },
     {
         "action": "PrintText",
-        "end": 43000,
+        "end": 43283,
         "persona": "Макото",
         "start": 41200,
         "text": "На танцах...^"
     },
     {
         "action": "PlayVoice",
-        "end": 43000,
+        "end": 43283,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0190",
         "layer": 1,
         "persona": "mak",
@@ -314,14 +318,14 @@
     },
     {
         "action": "PrintText",
-        "end": 47000,
+        "end": 47316,
         "persona": "Таисукэ",
         "start": 43283,
         "text": "Да! И я её пригласил!^"
     },
     {
         "action": "PlayVoice",
-        "end": 47000,
+        "end": 47316,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0200",
         "layer": 1,
         "persona": "tai",
@@ -329,14 +333,14 @@
     },
     {
         "action": "PrintText",
-        "end": 48000,
+        "end": 48366,
         "persona": "Макото",
         "start": 47300,
         "text": "Хм-м-м...^"
     },
     {
         "action": "PlayVoice",
-        "end": 48000,
+        "end": 48366,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0210",
         "layer": 1,
         "persona": "mak",
@@ -344,20 +348,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 67000,
+        "end": 67050,
         "file": "Event03/03-BK/03-BK-E02/03-BK-E02-007",
         "start": 48366
     },
     {
         "action": "PrintText",
-        "end": 52000,
+        "end": 52100,
         "persona": "Таисукэ",
         "start": 48366,
         "text": "Что значит «Хм-м»? Мы танцевали вместе!^"
     },
     {
         "action": "PlayVoice",
-        "end": 52000,
+        "end": 52100,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0220",
         "layer": 1,
         "persona": "tai",
@@ -365,14 +369,14 @@
     },
     {
         "action": "PrintText",
-        "end": 58000,
+        "end": 58316,
         "persona": "Макото",
         "start": 52116,
         "text": "Ну и что, мы в начальной школе тоже часто у костра танцевали...^"
     },
     {
         "action": "PlayVoice",
-        "end": 58000,
+        "end": 58316,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0230",
         "layer": 1,
         "persona": "mak",
@@ -387,14 +391,14 @@
     },
     {
         "action": "PrintText",
-        "end": 67000,
+        "end": 67066,
         "persona": "Таисукэ",
         "start": 63000,
         "text": "это все равно, что признаться ей в любви!^"
     },
     {
         "action": "PlayVoice",
-        "end": 67000,
+        "end": 67066,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0240",
         "layer": 1,
         "persona": "tai",
@@ -402,20 +406,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 83000,
+        "end": 83166,
         "file": "Event03/03-BK/03-BK-E02/03-BK-E02-012",
         "start": 67050
     },
     {
         "action": "PrintText",
-        "end": 68000,
+        "end": 68183,
         "persona": "Макото",
         "start": 67066,
         "text": "Да ну?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 68000,
+        "end": 68183,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0250",
         "layer": 1,
         "persona": "mak",
@@ -423,14 +427,14 @@
     },
     {
         "action": "PrintText",
-        "end": 72000,
+        "end": 72183,
         "persona": "Таисукэ",
         "start": 68183,
         "text": "Ты бы хоть немного школьным мероприятиям внимание уделял...^"
     },
     {
         "action": "PlayVoice",
-        "end": 72000,
+        "end": 72183,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0260",
         "layer": 1,
         "persona": "tai",
@@ -438,14 +442,14 @@
     },
     {
         "action": "PrintText",
-        "end": 74000,
+        "end": 74166,
         "persona": "Макото",
         "start": 72183,
         "text": "Ну не то чтобы я совсем ими не интересуюсь...^"
     },
     {
         "action": "PlayVoice",
-        "end": 74000,
+        "end": 74166,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0270",
         "layer": 1,
         "persona": "mak",
@@ -453,14 +457,14 @@
     },
     {
         "action": "PrintText",
-        "end": 82000,
+        "end": 82233,
         "persona": "Таисукэ",
         "start": 74183,
         "text": "Не важно! Я её пригласил, и она со мной танцевала!^"
     },
     {
         "action": "PlayVoice",
-        "end": 82000,
+        "end": 82233,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0280",
         "layer": 1,
         "persona": "tai",
@@ -468,14 +472,14 @@
     },
     {
         "action": "PrintText",
-        "end": 83000,
+        "end": 83166,
         "persona": "Макото",
         "start": 82233,
         "text": "Вот как...^"
     },
     {
         "action": "PlayVoice",
-        "end": 83000,
+        "end": 83166,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0290",
         "layer": 1,
         "persona": "mak",
@@ -483,20 +487,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 108000,
+        "end": 108150,
         "file": "Event03/03-BK/03-BK-E02/03-BK-E02-008",
         "start": 83166
     },
     {
         "action": "PrintText",
-        "end": 89000,
+        "end": 89183,
         "persona": "Таисукэ",
         "start": 83166,
         "text": "И, значит, я вёл, и мы всё кружились, кружились...^"
     },
     {
         "action": "PlayVoice",
-        "end": 89000,
+        "end": 89183,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0300",
         "layer": 1,
         "persona": "tai",
@@ -504,14 +508,14 @@
     },
     {
         "action": "PrintText",
-        "end": 92000,
+        "end": 92250,
         "persona": "Макото",
         "start": 89183,
         "text": "Ну да, танцы, они, в общем-то, как раз об этом... Кружиться и всё такое...^"
     },
     {
         "action": "PlayVoice",
-        "end": 92000,
+        "end": 92250,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0310",
         "layer": 1,
         "persona": "mak",
@@ -519,21 +523,21 @@
     },
     {
         "action": "PrintText",
-        "end": 99000,
+        "end": 99250,
         "persona": "Таисукэ",
         "start": 92250,
         "text": "Может, это просто свет от огня так падал, но мне показалось,^"
     },
     {
         "action": "PrintText",
-        "end": 102000,
+        "end": 102216,
         "persona": "Таисукэ",
         "start": 99250,
         "text": "что Саиёндзи вся раскраснелась...^"
     },
     {
         "action": "PlayVoice",
-        "end": 102000,
+        "end": 102216,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0320",
         "layer": 1,
         "persona": "tai",
@@ -541,21 +545,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 198000,
+        "end": 198350,
         "file": "Se03/03-BK/03-BK-E02/SE03-BK-E02-001",
         "layer": 2,
         "start": 99116
     },
     {
         "action": "PrintText",
-        "end": 104000,
+        "end": 104283,
         "persona": "Макото",
         "start": 102066,
         "text": "Думаю, тебе показалось...^"
     },
     {
         "action": "PlayVoice",
-        "end": 104000,
+        "end": 104283,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0330",
         "layer": 1,
         "persona": "mak",
@@ -563,14 +567,14 @@
     },
     {
         "action": "PrintText",
-        "end": 106000,
+        "end": 106116,
         "persona": "Таисукэ",
         "start": 104200,
         "text": "Блин! Да ты что, за друга даже порадоваться не можешь?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 106000,
+        "end": 106116,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0340",
         "layer": 1,
         "persona": "tai",
@@ -578,14 +582,14 @@
     },
     {
         "action": "PrintText",
-        "end": 108000,
+        "end": 108100,
         "persona": "Макото",
         "start": 105300,
         "text": "Ага, поздравляю.^"
     },
     {
         "action": "PlayVoice",
-        "end": 108000,
+        "end": 108100,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0350",
         "layer": 1,
         "persona": "mak",
@@ -593,20 +597,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 121000,
+        "end": 121033,
         "file": "Event03/03-BK/03-BK-E02/03-BK-E02-014",
         "start": 108150
     },
     {
         "action": "PrintText",
-        "end": 116000,
+        "end": 116083,
         "persona": "Таисукэ",
         "start": 108183,
         "text": "Я понимаю, теперь тебе, наверное, одиноко, что я увёл твою любимую Сэкаи...^"
     },
     {
         "action": "PlayVoice",
-        "end": 116000,
+        "end": 116083,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0360",
         "layer": 1,
         "persona": "tai",
@@ -614,14 +618,14 @@
     },
     {
         "action": "PrintText",
-        "end": 116000,
+        "end": 116350,
         "persona": "Макото",
         "start": 116033,
         "text": "Чего?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 116000,
+        "end": 116350,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0370",
         "layer": 1,
         "persona": "mak",
@@ -629,14 +633,14 @@
     },
     {
         "action": "PrintText",
-        "end": 121000,
+        "end": 121200,
         "persona": "Таисукэ",
         "start": 117016,
         "text": "Так вот, мой дорогой друг, у меня есть план!^"
     },
     {
         "action": "PlayVoice",
-        "end": 121000,
+        "end": 121200,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0380",
         "layer": 1,
         "persona": "tai",
@@ -644,20 +648,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 122000,
+        "end": 122233,
         "file": "Event03/03-BK/03-BK-E02/03-BK-E02-015",
         "start": 121033
     },
     {
         "action": "PrintText",
-        "end": 122000,
+        "end": 122316,
         "persona": "Макото",
         "start": 121033,
         "text": "Как ты меня назвал?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 122000,
+        "end": 122316,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0390",
         "layer": 1,
         "persona": "mak",
@@ -665,20 +669,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 138000,
+        "end": 138100,
         "file": "Event03/03-BK/03-BK-E02/03-BK-E02-016",
         "start": 122233
     },
     {
         "action": "PrintText",
-        "end": 124000,
+        "end": 124016,
         "persona": "Таисукэ",
         "start": 122233,
         "text": "Вот!^"
     },
     {
         "action": "PlayVoice",
-        "end": 124000,
+        "end": 124016,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0400",
         "layer": 1,
         "persona": "tai",
@@ -686,14 +690,14 @@
     },
     {
         "action": "PrintText",
-        "end": 124000,
+        "end": 124366,
         "persona": "Макото",
         "start": 123283,
         "text": "Эй, подожди...^"
     },
     {
         "action": "PlayVoice",
-        "end": 124000,
+        "end": 124366,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0410",
         "layer": 1,
         "persona": "mak",
@@ -701,14 +705,14 @@
     },
     {
         "action": "PrintText",
-        "end": 126000,
+        "end": 126116,
         "persona": "Таисукэ",
         "start": 124283,
         "text": "Да посмотри же ты!^"
     },
     {
         "action": "PlayVoice",
-        "end": 126000,
+        "end": 126116,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0420",
         "layer": 1,
         "persona": "tai",
@@ -716,14 +720,14 @@
     },
     {
         "action": "PrintText",
-        "end": 135000,
+        "end": 135250,
         "persona": "Макото",
         "start": 126183,
         "text": "Хм... Ну, билеты в «Aqua Square», и что?^"
     },
     {
         "action": "PlayVoice",
-        "end": 135000,
+        "end": 135250,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0430",
         "layer": 1,
         "persona": "mak",
@@ -731,14 +735,14 @@
     },
     {
         "action": "PrintText",
-        "end": 137000,
+        "end": 137116,
         "persona": "Таисукэ",
         "start": 135216,
         "text": "Это бассейн!^"
     },
     {
         "action": "PlayVoice",
-        "end": 137000,
+        "end": 137116,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0440",
         "layer": 1,
         "persona": "tai",
@@ -746,14 +750,14 @@
     },
     {
         "action": "PrintText",
-        "end": 138000,
+        "end": 138100,
         "persona": "Макото",
         "start": 137100,
         "text": "Бассейн...^"
     },
     {
         "action": "PlayVoice",
-        "end": 138000,
+        "end": 138100,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0450",
         "layer": 1,
         "persona": "mak",
@@ -761,20 +765,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 153000,
+        "end": 153266,
         "file": "Event03/03-BK/03-BK-E02/03-BK-E02-017",
         "start": 138100
     },
     {
         "action": "PrintText",
-        "end": 142000,
+        "end": 142116,
         "persona": "Таисукэ",
         "start": 138233,
         "text": "Это аквапарк в комплексе «Сакакино Хиллз»!^"
     },
     {
         "action": "PlayVoice",
-        "end": 142000,
+        "end": 142116,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0460",
         "layer": 1,
         "persona": "tai",
@@ -782,14 +786,14 @@
     },
     {
         "action": "PrintText",
-        "end": 148000,
+        "end": 148016,
         "persona": "Таисукэ",
         "start": 142116,
         "text": "Там есть бассейны, джакузи, водные горки, спа и сауна!^"
     },
     {
         "action": "PlayVoice",
-        "end": 148000,
+        "end": 148016,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0461",
         "layer": 1,
         "persona": "tai",
@@ -797,14 +801,14 @@
     },
     {
         "action": "PrintText",
-        "end": 152000,
+        "end": 152133,
         "persona": "Макото",
         "start": 148066,
         "text": "Я даже и не знал, что в «Сакакино Хиллз» такое есть...^"
     },
     {
         "action": "PlayVoice",
-        "end": 152000,
+        "end": 152133,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0470",
         "layer": 1,
         "persona": "mak",
@@ -812,14 +816,14 @@
     },
     {
         "action": "PrintText",
-        "end": 154000,
+        "end": 154100,
         "persona": "Таисукэ",
         "start": 152066,
         "text": "Круто, да?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 154000,
+        "end": 154100,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0480",
         "layer": 1,
         "persona": "tai",
@@ -827,20 +831,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 172000,
+        "end": 172233,
         "file": "Event03/03-BK/03-BK-E02/03-BK-E02-018",
         "start": 153266
     },
     {
         "action": "PrintText",
-        "end": 158000,
+        "end": 158266,
         "persona": "Макото",
         "start": 153300,
         "text": "Ага. Откуда у тебя эти билеты? Они, наверное, немало стоят.^"
     },
     {
         "action": "PlayVoice",
-        "end": 158000,
+        "end": 158266,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0490",
         "layer": 1,
         "persona": "mak",
@@ -848,14 +852,14 @@
     },
     {
         "action": "PrintText",
-        "end": 160000,
+        "end": 160050,
         "persona": "Таисукэ",
         "start": 158216,
         "text": "Сестрица подогнала.^"
     },
     {
         "action": "PlayVoice",
-        "end": 160000,
+        "end": 160050,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0500",
         "layer": 1,
         "persona": "tai",
@@ -863,14 +867,14 @@
     },
     {
         "action": "PrintText",
-        "end": 166000,
+        "end": 166300,
         "persona": "Макото",
         "start": 160033,
         "text": "Вот это я понимаю, заботливая сестрёнка.^"
     },
     {
         "action": "PlayVoice",
-        "end": 166000,
+        "end": 166300,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0510",
         "layer": 1,
         "persona": "mak",
@@ -878,14 +882,14 @@
     },
     {
         "action": "PrintText",
-        "end": 172000,
+        "end": 172283,
         "persona": "Таисукэ",
         "start": 166200,
         "text": "Да нет, она хотела своего парня пригласить, а он не смог поехать.^"
     },
     {
         "action": "PlayVoice",
-        "end": 172000,
+        "end": 172283,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0520",
         "layer": 1,
         "persona": "tai",
@@ -893,20 +897,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 199000,
+        "end": 199050,
         "file": "Event03/03-BK/03-BK-E02/03-BK-E02-019",
         "start": 172233
     },
     {
         "action": "PrintText",
-        "end": 175000,
+        "end": 175100,
         "persona": "Макото",
         "start": 172250,
         "text": "Ага, но тут четыре билета.^"
     },
     {
         "action": "PlayVoice",
-        "end": 175000,
+        "end": 175100,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0530",
         "layer": 1,
         "persona": "mak",
@@ -914,14 +918,14 @@
     },
     {
         "action": "PrintText",
-        "end": 182000,
+        "end": 182316,
         "persona": "Таисукэ",
         "start": 175216,
         "text": "Они планировали на все выходные туда забуриться. И не вылезать... из бассейна...^"
     },
     {
         "action": "PlayVoice",
-        "end": 182000,
+        "end": 182316,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0540",
         "layer": 1,
         "persona": "tai",
@@ -944,14 +948,14 @@
     },
     {
         "action": "PrintText",
-        "end": 196000,
+        "end": 196266,
         "persona": "Таисукэ",
         "start": 191316,
         "text": "Ну, как сказать бесплатно... Я теперь буду три месяца для неё завтраки готовить...^"
     },
     {
         "action": "PlayVoice",
-        "end": 196000,
+        "end": 196266,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0560",
         "layer": 1,
         "persona": "tai",
@@ -959,14 +963,14 @@
     },
     {
         "action": "PrintText",
-        "end": 198000,
+        "end": 198383,
         "persona": "Макото",
         "start": 196266,
         "text": "Это сурово...^"
     },
     {
         "action": "PlayVoice",
-        "end": 198000,
+        "end": 198383,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0570",
         "layer": 1,
         "persona": "mak",
@@ -974,27 +978,27 @@
     },
     {
         "action": "PlaySe",
-        "end": 269000,
+        "end": 269083,
         "file": "Se03/03-BK/03-BK-E02/SE03-BK-E02-001",
         "layer": 1,
         "start": 198116
     },
     {
         "action": "CreateBG",
-        "end": 218000,
+        "end": 218366,
         "file": "Event03/03-BK/03-BK-E02/03-BK-E02-001",
         "start": 199050
     },
     {
         "action": "PrintText",
-        "end": 204000,
+        "end": 204133,
         "persona": "Таисукэ",
         "start": 199050,
         "text": "Да ладно, оно того стоит!^"
     },
     {
         "action": "PlayVoice",
-        "end": 204000,
+        "end": 204133,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0580",
         "layer": 1,
         "persona": "tai",
@@ -1002,14 +1006,14 @@
     },
     {
         "action": "PrintText",
-        "end": 205000,
+        "end": 205116,
         "persona": "Макото",
         "start": 204133,
         "text": "Это верно.^"
     },
     {
         "action": "PlayVoice",
-        "end": 205000,
+        "end": 205116,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0590",
         "layer": 1,
         "persona": "mak",
@@ -1017,14 +1021,14 @@
     },
     {
         "action": "PrintText",
-        "end": 207000,
+        "end": 207383,
         "persona": "Таисукэ",
         "start": 205100,
         "text": "Так что рассчитываю увидеть тебя завтра у бортика.^"
     },
     {
         "action": "PlayVoice",
-        "end": 207000,
+        "end": 207383,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0600",
         "layer": 1,
         "persona": "tai",
@@ -1032,14 +1036,14 @@
     },
     {
         "action": "PrintText",
-        "end": 211000,
+        "end": 211050,
         "persona": "Макото",
         "start": 207366,
         "text": "Билетов ведь четыре, то есть...^"
     },
     {
         "action": "PlayVoice",
-        "end": 211000,
+        "end": 211050,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0610",
         "layer": 1,
         "persona": "mak",
@@ -1047,14 +1051,14 @@
     },
     {
         "action": "PrintText",
-        "end": 214000,
+        "end": 214300,
         "persona": "Таисукэ",
         "start": 211050,
         "text": "Я с Саиёндзи, а ты с Кацурой.^"
     },
     {
         "action": "PlayVoice",
-        "end": 214000,
+        "end": 214300,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0620",
         "layer": 1,
         "persona": "tai",
@@ -1062,14 +1066,14 @@
     },
     {
         "action": "PrintText",
-        "end": 216000,
+        "end": 216216,
         "persona": "Макото",
         "start": 214316,
         "text": "Я так и подумал...^"
     },
     {
         "action": "PlayVoice",
-        "end": 216000,
+        "end": 216216,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0630",
         "layer": 1,
         "persona": "mak",
@@ -1077,14 +1081,14 @@
     },
     {
         "action": "PrintText",
-        "end": 218000,
+        "end": 218366,
         "persona": "Таисукэ",
         "start": 216216,
         "text": "У нас будет двойное свидание.^"
     },
     {
         "action": "PlayVoice",
-        "end": 218000,
+        "end": 218366,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0640",
         "layer": 1,
         "persona": "tai",
@@ -1092,20 +1096,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 231000,
+        "end": 231033,
         "file": "Event03/03-BK/03-BK-E02/03-BK-E02-021",
         "start": 218366
     },
     {
         "action": "PrintText",
-        "end": 219000,
+        "end": 219383,
         "persona": "Макото",
         "start": 218383,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 219000,
+        "end": 219383,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0650",
         "layer": 1,
         "persona": "xxx",
@@ -1113,14 +1117,14 @@
     },
     {
         "action": "PrintText",
-        "end": 222000,
+        "end": 222016,
         "persona": "Макото",
         "start": 219383,
         "text": "Слушай, давай в этот раз вы уж как-нибудь вдвоём.^"
     },
     {
         "action": "PlayVoice",
-        "end": 222000,
+        "end": 222016,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0660",
         "layer": 1,
         "persona": "mak",
@@ -1128,14 +1132,14 @@
     },
     {
         "action": "PrintText",
-        "end": 222000,
+        "end": 222300,
         "persona": "Таисукэ",
         "start": 222000,
         "text": "Ты не можешь отказаться!^"
     },
     {
         "action": "PlayVoice",
-        "end": 222000,
+        "end": 222300,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0670",
         "layer": 1,
         "persona": "tai",
@@ -1143,14 +1147,14 @@
     },
     {
         "action": "PrintText",
-        "end": 224000,
+        "end": 224033,
         "persona": "Макото",
         "start": 222300,
         "text": "Почему нет?^"
     },
     {
         "action": "PlayVoice",
-        "end": 224000,
+        "end": 224033,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0680",
         "layer": 1,
         "persona": "mak",
@@ -1158,14 +1162,14 @@
     },
     {
         "action": "PrintText",
-        "end": 227000,
+        "end": 227150,
         "persona": "Таисукэ",
         "start": 224033,
         "text": "Потому что кроме тебя я уже всех пригласил!^"
     },
     {
         "action": "PlayVoice",
-        "end": 227000,
+        "end": 227150,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0690",
         "layer": 1,
         "persona": "tai",
@@ -1173,14 +1177,14 @@
     },
     {
         "action": "PrintText",
-        "end": 229000,
+        "end": 229150,
         "persona": "Макото",
         "start": 227133,
         "text": "И Котоноха согласилась?^"
     },
     {
         "action": "PlayVoice",
-        "end": 229000,
+        "end": 229150,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0700",
         "layer": 1,
         "persona": "mak",
@@ -1188,14 +1192,14 @@
     },
     {
         "action": "PrintText",
-        "end": 230000,
+        "end": 230050,
         "persona": "Таисукэ",
         "start": 229150,
         "text": "Да!^"
     },
     {
         "action": "PlayVoice",
-        "end": 230000,
+        "end": 230050,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0710",
         "layer": 1,
         "persona": "tai",
@@ -1203,14 +1207,14 @@
     },
     {
         "action": "PrintText",
-        "end": 231000,
+        "end": 231033,
         "persona": "Макото",
         "start": 230066,
         "text": "И Сэкаи тоже?^"
     },
     {
         "action": "PlayVoice",
-        "end": 231000,
+        "end": 231033,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0720",
         "layer": 1,
         "persona": "mak",
@@ -1218,14 +1222,14 @@
     },
     {
         "action": "PrintText",
-        "end": 232000,
+        "end": 232083,
         "persona": "Таисукэ",
         "start": 231033,
         "text": "Ну конечно!^"
     },
     {
         "action": "PlayVoice",
-        "end": 232000,
+        "end": 232083,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0730",
         "layer": 1,
         "persona": "tai",
@@ -1233,20 +1237,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 238000,
+        "end": 238166,
         "file": "Event03/03-BK/03-BK-E02/03-BK-E02-014",
         "start": 231050
     },
     {
         "action": "PrintText",
-        "end": 233000,
+        "end": 233166,
         "persona": "Макото",
         "start": 232083,
         "text": "Ох...^"
     },
     {
         "action": "PlayVoice",
-        "end": 233000,
+        "end": 233166,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0740",
         "layer": 1,
         "persona": "mak",
@@ -1254,14 +1258,14 @@
     },
     {
         "action": "PrintText",
-        "end": 235000,
+        "end": 235266,
         "persona": "Таисукэ",
         "start": 233166,
         "text": "И конечно же ты тоже пойдешь!^"
     },
     {
         "action": "PlayVoice",
-        "end": 235000,
+        "end": 235266,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0750",
         "layer": 1,
         "persona": "tai",
@@ -1269,14 +1273,14 @@
     },
     {
         "action": "PrintText",
-        "end": 237000,
+        "end": 237066,
         "persona": "Макото",
         "start": 235283,
         "text": "Ладно, пойду.^"
     },
     {
         "action": "PlayVoice",
-        "end": 237000,
+        "end": 237066,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0760",
         "layer": 1,
         "persona": "mak",
@@ -1284,14 +1288,14 @@
     },
     {
         "action": "PrintText",
-        "end": 238000,
+        "end": 238100,
         "persona": "Таисукэ",
         "start": 236066,
         "text": "Отлично!^"
     },
     {
         "action": "PlayVoice",
-        "end": 238000,
+        "end": 238100,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0770",
         "layer": 1,
         "persona": "tai",
@@ -1299,20 +1303,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 239000,
+        "end": 239250,
         "file": "Event03/03-BK/03-BK-E02/03-BK-E02-012",
         "start": 238166
     },
     {
         "action": "PrintText",
-        "end": 239000,
+        "end": 239250,
         "persona": "Макото",
         "start": 238200,
         "text": "Ага, обалдеть.^"
     },
     {
         "action": "PlayVoice",
-        "end": 239000,
+        "end": 239250,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0780",
         "layer": 1,
         "persona": "mak",
@@ -1320,20 +1324,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 260000,
+        "end": 260333,
         "file": "Event03/03-BK/03-BK-E02/03-BK-E02-008",
         "start": 239250
     },
     {
         "action": "PrintText",
-        "end": 243000,
+        "end": 243233,
         "persona": "Таисукэ",
         "start": 239250,
         "text": "Встречаемся утром в 10 у входа в «Сакакино Хиллз»...^"
     },
     {
         "action": "PlayVoice",
-        "end": 243000,
+        "end": 243233,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0790",
         "layer": 1,
         "persona": "tai",
@@ -1341,14 +1345,14 @@
     },
     {
         "action": "PrintText",
-        "end": 245000,
+        "end": 245166,
         "persona": "Макото",
         "start": 243233,
         "text": "Что, прямо там?^"
     },
     {
         "action": "PlayVoice",
-        "end": 245000,
+        "end": 245166,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0800",
         "layer": 1,
         "persona": "mak",
@@ -1356,14 +1360,14 @@
     },
     {
         "action": "PrintText",
-        "end": 250000,
+        "end": 250233,
         "persona": "Таисукэ",
         "start": 245166,
         "text": "Ну да, это же совсем рядом с моим домом, и Саиёндзи тоже близко.^"
     },
     {
         "action": "PlayVoice",
-        "end": 250000,
+        "end": 250233,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0810",
         "layer": 1,
         "persona": "tai",
@@ -1371,14 +1375,14 @@
     },
     {
         "action": "PrintText",
-        "end": 253000,
+        "end": 253033,
         "persona": "Макото",
         "start": 250233,
         "text": "Да, верно.^"
     },
     {
         "action": "PlayVoice",
-        "end": 253000,
+        "end": 253033,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0820",
         "layer": 1,
         "persona": "mak",
@@ -1386,14 +1390,14 @@
     },
     {
         "action": "PrintText",
-        "end": 258000,
+        "end": 258166,
         "persona": "Таисукэ",
         "start": 253033,
         "text": "Ты можешь с Кацурой пораньше встретиться и по дороге пообжиматься, если хочешь.^"
     },
     {
         "action": "PlayVoice",
-        "end": 258000,
+        "end": 258166,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0830",
         "layer": 1,
         "persona": "tai",
@@ -1401,14 +1405,14 @@
     },
     {
         "action": "PrintText",
-        "end": 259000,
+        "end": 259283,
         "persona": "Макото",
         "start": 257133,
         "text": "Перестань!^"
     },
     {
         "action": "PlayVoice",
-        "end": 259000,
+        "end": 259283,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0840",
         "layer": 1,
         "persona": "mak",
@@ -1416,14 +1420,14 @@
     },
     {
         "action": "PrintText",
-        "end": 261000,
+        "end": 261016,
         "persona": "Таисукэ",
         "start": 259200,
         "text": "Ладно, завтра я на тебя рассчитываю.^"
     },
     {
         "action": "PlayVoice",
-        "end": 261000,
+        "end": 261016,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0860",
         "layer": 1,
         "persona": "tai",
@@ -1431,20 +1435,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 263000,
+        "end": 263283,
         "file": "Event03/03-BK/03-BK-E02/03-BK-E02-025",
         "start": 260333
     },
     {
         "action": "PrintText",
-        "end": 262000,
+        "end": 262266,
         "persona": "Макото",
         "start": 260333,
         "text": "Ты специально всё так подстроил...^"
     },
     {
         "action": "PlayVoice",
-        "end": 262000,
+        "end": 262266,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0870",
         "layer": 1,
         "persona": "mak",
@@ -1452,20 +1456,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 269000,
+        "end": 269083,
         "file": "Event03/03-BK/03-BK-E02/03-BK-E02-026",
         "start": 263283
     },
     {
         "action": "PrintText",
-        "end": 265000,
+        "end": 265233,
         "persona": "Макото",
         "start": 263283,
         "text": "Блин...^"
     },
     {
         "action": "PlayVoice",
-        "end": 265000,
+        "end": 265233,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0890",
         "layer": 1,
         "persona": "mak",
@@ -1473,14 +1477,14 @@
     },
     {
         "action": "PrintText",
-        "end": 267000,
+        "end": 267333,
         "persona": "Макото",
         "start": 266066,
         "text": "Двойное свидание...^"
     },
     {
         "action": "PlayVoice",
-        "end": 267000,
+        "end": 267333,
         "file": "Voice03/03-BK/03-BK-E02/03-BK-E02-0900",
         "layer": 1,
         "persona": "mak",
@@ -1489,7 +1493,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 269000,
+        "end": 269083,
         "start": 268066
+    },
+    {
+        "action": "Next",
+        "start": 269083
     }
 ]

@@ -1,109 +1,117 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 37083
+    },
+    {
         "action": "PlayBgm",
-        "end": 37000,
+        "end": 37083,
         "file": "BGM/SD_BGM/sdbgm19",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 6000,
+        "end": 6350,
         "file": "SysSe/SE_all/footsteps/asioto_okugai",
         "layer": 2,
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 37000,
+        "end": 37083,
         "file": "SysSe/SE_all/station_train/gakuenmae_yuugata",
         "layer": 4,
         "start": 0
     },
     {
         "action": "PlayMovie",
-        "end": 2000,
+        "end": 2350,
         "file": "Movie00/00-00/00-00-L00/00-00-L00-018",
         "start": 0
     },
     {
         "action": "PlayMovie",
-        "end": 6000,
+        "end": 6350,
         "file": "Movie00/00-00/00-00-L00/00-00-L00-019",
         "start": 2350
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9166,
         "file": "Event05/05-KB/05-KB-J01/05-KB-J01-003",
         "start": 6350
     },
     {
         "action": "PlaySe",
-        "end": 21000,
+        "end": 21050,
         "file": "SysSe/SE_all/station_train/train_stopping",
         "layer": 1,
         "start": 7016
     },
     {
         "action": "PlayMovie",
-        "end": 14000,
+        "end": 14083,
         "file": "Movie00/00-00/00-00-L00/00-00-L00-020",
         "start": 9166
     },
     {
         "action": "PlayMovie",
-        "end": 18000,
+        "end": 18383,
         "file": "Movie00/00-00/00-00-L00/00-00-L00-021",
         "start": 14083
     },
     {
         "action": "PlayMovie",
-        "end": 20000,
+        "end": 20383,
         "file": "Movie00/00-00/00-00-L00/00-00-L00-022",
         "start": 18383
     },
     {
         "action": "PlaySe",
-        "end": 25000,
+        "end": 25300,
         "file": "SysSe/SE_all/station_train/train_door_close",
         "layer": 2,
         "start": 20383
     },
     {
         "action": "PlayMovie",
-        "end": 24000,
+        "end": 24083,
         "file": "Movie05/05-KB/05-KB-J01/05-KB-J01-007",
         "start": 20383
     },
     {
         "action": "PlaySe",
-        "end": 37000,
+        "end": 37083,
         "file": "SysSe/SE_all/station_train/train_start",
         "layer": 3,
         "start": 23083
     },
     {
         "action": "PlayMovie",
-        "end": 30000,
+        "end": 30366,
         "file": "Movie00/00-00/00-00-L00/00-00-L00-024",
         "start": 24083
     },
     {
         "action": "PlayMovie",
-        "end": 32000,
+        "end": 32083,
         "file": "Movie00/00-00/00-00-L00/00-00-L00-025",
         "start": 30366
     },
     {
         "action": "CreateBG",
-        "end": 37000,
+        "end": 37083,
         "file": "Event05/05-KB/05-KB-J01/05-KB-J01-010",
         "start": 32083
     },
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 37000,
+        "end": 37083,
         "start": 36083
+    },
+    {
+        "action": "Next",
+        "start": 37083
     }
 ]

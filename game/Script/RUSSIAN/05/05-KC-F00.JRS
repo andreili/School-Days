@@ -1,5 +1,9 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 828216
+    },
+    {
         "action": "CreateBG",
         "end": 5000,
         "file": "Event05/05-KC/05-KC-F00/05-KC-F00-001",
@@ -14,20 +18,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8250,
         "file": "Event05/05-KC/05-KC-F00/05-KC-F00-002",
         "start": 5000
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6033,
         "persona": "Котоноха",
         "start": 5000,
         "text": "Макото.^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6033,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0080",
         "layer": 0,
         "persona": "kot",
@@ -35,14 +39,14 @@
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8233,
         "persona": "Макото",
         "start": 6050,
         "text": "Котоноха...^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8233,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0090",
         "layer": 1,
         "persona": "mak",
@@ -50,14 +54,14 @@
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10300,
         "persona": "Котоноха",
         "start": 8233,
         "text": "Мы опять сюда пришли...^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10300,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0100",
         "layer": 0,
         "persona": "kot",
@@ -65,20 +69,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 35000,
+        "end": 35200,
         "file": "Event05/05-KC/05-KC-F00/05-KC-F00-003",
         "start": 8250
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15250,
         "persona": "Макото",
         "start": 10300,
         "text": "Ага... Ведь здесь...^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15250,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0110",
         "layer": 1,
         "persona": "mak",
@@ -86,14 +90,14 @@
     },
     {
         "action": "PrintText",
-        "end": 20000,
+        "end": 20116,
         "persona": "Котоноха",
         "start": 15266,
         "text": "Магазинчик, где раньше Саиёндзи подрабатывала, так?^"
     },
     {
         "action": "PlayVoice",
-        "end": 20000,
+        "end": 20116,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0130",
         "layer": 0,
         "persona": "kot",
@@ -101,14 +105,14 @@
     },
     {
         "action": "PrintText",
-        "end": 22000,
+        "end": 22133,
         "persona": "Макото",
         "start": 20116,
         "text": "Ага.^"
     },
     {
         "action": "PlayVoice",
-        "end": 22000,
+        "end": 22133,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0140",
         "layer": 1,
         "persona": "mak",
@@ -116,14 +120,14 @@
     },
     {
         "action": "PrintText",
-        "end": 23000,
+        "end": 23316,
         "persona": "Котоноха",
         "start": 22150,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 23000,
+        "end": 23316,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0150",
         "layer": 0,
         "persona": "xxx",
@@ -131,14 +135,14 @@
     },
     {
         "action": "PrintText",
-        "end": 31000,
+        "end": 31016,
         "persona": "Макото",
         "start": 23316,
         "text": "С тех пор... Как Сэкаи пропала, уже полгода прошло...^"
     },
     {
         "action": "PlayVoice",
-        "end": 31000,
+        "end": 31016,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0160",
         "layer": 1,
         "persona": "mak",
@@ -146,14 +150,14 @@
     },
     {
         "action": "PrintText",
-        "end": 32000,
+        "end": 32216,
         "persona": "Котоноха",
         "start": 31033,
         "text": "Да...^"
     },
     {
         "action": "PlayVoice",
-        "end": 32000,
+        "end": 32216,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0170",
         "layer": 0,
         "persona": "kot",
@@ -161,14 +165,14 @@
     },
     {
         "action": "PrintText",
-        "end": 41000,
+        "end": 41333,
         "persona": "Макото",
         "start": 32233,
         "text": "Я... Не жалею... О наших с тобой отношениях...^"
     },
     {
         "action": "PlayVoice",
-        "end": 41000,
+        "end": 41333,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0180",
         "layer": 1,
         "persona": "mak",
@@ -176,20 +180,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 64000,
+        "end": 64100,
         "file": "Movie05/05-KC/05-KC-F00/05-KC-F00-004",
         "start": 35200
     },
     {
         "action": "PrintText",
-        "end": 42000,
+        "end": 42233,
         "persona": "Котоноха",
         "start": 41316,
         "text": "И я.^"
     },
     {
         "action": "PlayVoice",
-        "end": 42000,
+        "end": 42233,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0190",
         "layer": 0,
         "persona": "kot",
@@ -197,14 +201,14 @@
     },
     {
         "action": "PrintText",
-        "end": 47000,
+        "end": 47333,
         "persona": "Макото",
         "start": 42233,
         "text": "Твои родители, правда, порядочно на нас обиделись...^"
     },
     {
         "action": "PlayVoice",
-        "end": 47000,
+        "end": 47333,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0210",
         "layer": 1,
         "persona": "mak",
@@ -212,14 +216,14 @@
     },
     {
         "action": "PrintText",
-        "end": 50000,
+        "end": 50333,
         "persona": "Котоноха",
         "start": 47333,
         "text": "Но, похоже, скоро уже простят.^"
     },
     {
         "action": "PlayVoice",
-        "end": 50000,
+        "end": 50333,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0220",
         "layer": 0,
         "persona": "kot",
@@ -227,14 +231,14 @@
     },
     {
         "action": "PrintText",
-        "end": 52000,
+        "end": 52266,
         "persona": "Макото",
         "start": 50333,
         "text": "Да?^"
     },
     {
         "action": "PlayVoice",
-        "end": 52000,
+        "end": 52266,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0230",
         "layer": 1,
         "persona": "mak",
@@ -242,14 +246,14 @@
     },
     {
         "action": "PrintText",
-        "end": 58000,
+        "end": 58283,
         "persona": "Котоноха",
         "start": 52283,
         "text": "Я им сказала, что если не простят, то так и останусь жить у тебя дома. Да и с внуком не познакомлю.^"
     },
     {
         "action": "PlayVoice",
-        "end": 58000,
+        "end": 58283,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0240",
         "layer": 0,
         "persona": "kot",
@@ -257,14 +261,14 @@
     },
     {
         "action": "PrintText",
-        "end": 64000,
+        "end": 64100,
         "persona": "Макото",
         "start": 58300,
         "text": "Да уж, папа твой такое не перенёс бы...^"
     },
     {
         "action": "PlayVoice",
-        "end": 64000,
+        "end": 64100,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0250",
         "layer": 1,
         "persona": "mak",
@@ -272,20 +276,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 67000,
+        "end": 67316,
         "file": "Event05/05-KC/05-KC-F00/05-KC-F00-002",
         "start": 64100
     },
     {
         "action": "PrintText",
-        "end": 67000,
+        "end": 67316,
         "persona": "Котоноха",
         "start": 64100,
         "text": "Они мне и сказали, что если всё хорошо, то и ладно.^"
     },
     {
         "action": "PlayVoice",
-        "end": 67000,
+        "end": 67316,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0260",
         "layer": 0,
         "persona": "kot",
@@ -293,20 +297,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 71000,
+        "end": 71100,
         "file": "Event05/05-KC/05-KC-F00/05-KC-F00-006",
         "start": 67316
     },
     {
         "action": "PrintText",
-        "end": 70000,
+        "end": 70066,
         "persona": "Макото",
         "start": 67316,
         "text": "Ясно.^"
     },
     {
         "action": "PlayVoice",
-        "end": 70000,
+        "end": 70066,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0270",
         "layer": 1,
         "persona": "mak",
@@ -314,14 +318,14 @@
     },
     {
         "action": "PrintText",
-        "end": 76000,
+        "end": 76016,
         "persona": "Котоноха",
         "start": 70066,
         "text": "И я сама ни капельки не жалею, что жду от тебя ребёнка.^"
     },
     {
         "action": "PlayVoice",
-        "end": 76000,
+        "end": 76016,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0280",
         "layer": 0,
         "persona": "kot",
@@ -329,13 +333,13 @@
     },
     {
         "action": "PlayMovie",
-        "end": 76000,
+        "end": 76033,
         "file": "Movie05/05-KC/05-KC-F00/05-KC-F00-007",
         "start": 71100
     },
     {
         "action": "PlaySe",
-        "end": 148000,
+        "end": 148283,
         "file": "SysSe/SE_all/gaya/yuugata",
         "layer": 5,
         "start": 73283
@@ -363,14 +367,14 @@
     },
     {
         "action": "PrintText",
-        "end": 83000,
+        "end": 83016,
         "persona": "Котоноха",
         "start": 78000,
         "text": "И я тебя люблю больше всего на свете.^"
     },
     {
         "action": "PlayVoice",
-        "end": 83000,
+        "end": 83016,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0300",
         "layer": 0,
         "persona": "kot",
@@ -378,20 +382,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 83000,
+        "end": 83033,
         "file": "Movie05/05-KC/05-KC-F00/05-KC-F00-009",
         "start": 80000
     },
     {
         "action": "PrintText",
-        "end": 85000,
+        "end": 85133,
         "persona": "Макото",
         "start": 83016,
         "text": "Я тебя тоже.^"
     },
     {
         "action": "PlayVoice",
-        "end": 85000,
+        "end": 85133,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0310",
         "layer": 1,
         "persona": "mak",
@@ -399,20 +403,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 107000,
+        "end": 107366,
         "file": "Movie05/05-KC/05-KC-F00/05-KC-F00-010",
         "start": 83033
     },
     {
         "action": "PrintText",
-        "end": 89000,
+        "end": 89116,
         "persona": "Котоноха",
         "start": 85133,
         "text": "Даже и представить себе не могу жизнь без тебя.^"
     },
     {
         "action": "PlayVoice",
-        "end": 89000,
+        "end": 89116,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0320",
         "layer": 0,
         "persona": "kot",
@@ -435,14 +439,14 @@
     },
     {
         "action": "PrintText",
-        "end": 93000,
+        "end": 93333,
         "persona": "Котоноха",
         "start": 91000,
         "text": "Я буду твоей невестой.^"
     },
     {
         "action": "PlayVoice",
-        "end": 93000,
+        "end": 93333,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0340",
         "layer": 0,
         "persona": "kot",
@@ -450,14 +454,14 @@
     },
     {
         "action": "PrintText",
-        "end": 95000,
+        "end": 95233,
         "persona": "Макото",
         "start": 93350,
         "text": "Ага.^"
     },
     {
         "action": "PlayVoice",
-        "end": 95000,
+        "end": 95233,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0350",
         "layer": 1,
         "persona": "mak",
@@ -465,14 +469,14 @@
     },
     {
         "action": "PrintText",
-        "end": 97000,
+        "end": 97250,
         "persona": "Котоноха",
         "start": 95216,
         "text": "И стану прекрасной женой.^"
     },
     {
         "action": "PlayVoice",
-        "end": 97000,
+        "end": 97250,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0360",
         "layer": 0,
         "persona": "kot",
@@ -480,14 +484,14 @@
     },
     {
         "action": "PrintText",
-        "end": 100000,
+        "end": 100133,
         "persona": "Макото",
         "start": 97250,
         "text": "Уж я-то на это надеюсь.^"
     },
     {
         "action": "PlayVoice",
-        "end": 100000,
+        "end": 100133,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0370",
         "layer": 1,
         "persona": "mak",
@@ -495,14 +499,14 @@
     },
     {
         "action": "PrintText",
-        "end": 103000,
+        "end": 103233,
         "persona": "Котоноха",
         "start": 100133,
         "text": "Только из школы выпустимся - сыграем свадьбу!^"
     },
     {
         "action": "PlayVoice",
-        "end": 103000,
+        "end": 103233,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0380",
         "layer": 0,
         "persona": "kot",
@@ -510,14 +514,14 @@
     },
     {
         "action": "PrintText",
-        "end": 105000,
+        "end": 105216,
         "persona": "Макото",
         "start": 103250,
         "text": "Обещаю.^"
     },
     {
         "action": "PlayVoice",
-        "end": 105000,
+        "end": 105216,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0390",
         "layer": 1,
         "persona": "mak",
@@ -525,14 +529,14 @@
     },
     {
         "action": "PrintText",
-        "end": 106000,
+        "end": 106350,
         "persona": "Котоноха",
         "start": 105216,
         "text": "А я верю.^"
     },
     {
         "action": "PlayVoice",
-        "end": 106000,
+        "end": 106350,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0400",
         "layer": 0,
         "persona": "kot",
@@ -540,14 +544,14 @@
     },
     {
         "action": "PrintText",
-        "end": 108000,
+        "end": 108100,
         "persona": "Макото",
         "start": 106250,
         "text": "Ага.^"
     },
     {
         "action": "PlayVoice",
-        "end": 108000,
+        "end": 108100,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0410",
         "layer": 1,
         "persona": "mak",
@@ -555,20 +559,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 123000,
+        "end": 123100,
         "file": "Movie05/05-KC/05-KC-F00/05-KC-F00-011",
         "start": 107366
     },
     {
         "action": "PrintText",
-        "end": 112000,
+        "end": 112016,
         "persona": "Котоноха",
         "start": 109183,
         "text": "Ветер поднимается...^"
     },
     {
         "action": "PlayVoice",
-        "end": 112000,
+        "end": 112016,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0420",
         "layer": 0,
         "persona": "kot",
@@ -591,14 +595,14 @@
     },
     {
         "action": "PrintText",
-        "end": 121000,
+        "end": 121316,
         "persona": "Котоноха",
         "start": 116050,
         "text": "Всё хорошо. Мне не холодно.^"
     },
     {
         "action": "PlayVoice",
-        "end": 121000,
+        "end": 121316,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0460",
         "layer": 0,
         "persona": "kot",
@@ -606,14 +610,14 @@
     },
     {
         "action": "PrintText",
-        "end": 123000,
+        "end": 123033,
         "persona": "Макото",
         "start": 121266,
         "text": "Ага.^"
     },
     {
         "action": "PlayVoice",
-        "end": 123000,
+        "end": 123033,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0470",
         "layer": 1,
         "persona": "mak",
@@ -621,20 +625,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 126000,
+        "end": 126083,
         "file": "Movie05/05-KC/05-KC-F00/05-KC-F00-012",
         "start": 123100
     },
     {
         "action": "PrintText",
-        "end": 131000,
+        "end": 131133,
         "persona": "Макото",
         "start": 126016,
         "text": "Домой возвращайся давай. Простынешь, не дай бог.^"
     },
     {
         "action": "PlayVoice",
-        "end": 131000,
+        "end": 131133,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0450",
         "layer": 1,
         "persona": "mak",
@@ -642,20 +646,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 190000,
+        "end": 190333,
         "file": "Movie05/05-KC/05-KC-F00/05-KC-F00-013",
         "start": 126083
     },
     {
         "action": "PrintText",
-        "end": 133000,
+        "end": 133366,
         "persona": "Котоноха",
         "start": 131166,
         "text": "Ну тогда я пошла.^"
     },
     {
         "action": "PlayVoice",
-        "end": 133000,
+        "end": 133366,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0440",
         "layer": 0,
         "persona": "kot",
@@ -663,14 +667,14 @@
     },
     {
         "action": "PrintText",
-        "end": 135000,
+        "end": 135066,
         "persona": "Котоноха",
         "start": 134066,
         "text": "Макото.^"
     },
     {
         "action": "PlayVoice",
-        "end": 135000,
+        "end": 135066,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0480",
         "layer": 0,
         "persona": "kot",
@@ -693,14 +697,14 @@
     },
     {
         "action": "PrintText",
-        "end": 139000,
+        "end": 139250,
         "persona": "Котоноха",
         "start": 136166,
         "text": "Может, сегодня проведём ночь вместе?^"
     },
     {
         "action": "PlayVoice",
-        "end": 139000,
+        "end": 139250,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0500",
         "layer": 0,
         "persona": "kot",
@@ -708,14 +712,14 @@
     },
     {
         "action": "PrintText",
-        "end": 141000,
+        "end": 141100,
         "persona": "Макото",
         "start": 139266,
         "text": "Э?^"
     },
     {
         "action": "PlayVoice",
-        "end": 141000,
+        "end": 141100,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0510",
         "layer": 1,
         "persona": "mak",
@@ -723,14 +727,14 @@
     },
     {
         "action": "PrintText",
-        "end": 144000,
+        "end": 144333,
         "persona": "Котоноха",
         "start": 141100,
         "text": "Я себя и чувствую хорошо... Да ещё и...^"
     },
     {
         "action": "PlayVoice",
-        "end": 144000,
+        "end": 144333,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0520",
         "layer": 0,
         "persona": "kot",
@@ -738,14 +742,14 @@
     },
     {
         "action": "PrintText",
-        "end": 146000,
+        "end": 146266,
         "persona": "Макото",
         "start": 144350,
         "text": "Ещё?^"
     },
     {
         "action": "PlayVoice",
-        "end": 146000,
+        "end": 146266,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0530",
         "layer": 1,
         "persona": "mak",
@@ -753,14 +757,14 @@
     },
     {
         "action": "PrintText",
-        "end": 150000,
+        "end": 150233,
         "persona": "Котоноха",
         "start": 146266,
         "text": "Ещё и как-то самой захотелось...^"
     },
     {
         "action": "PlayVoice",
-        "end": 150000,
+        "end": 150233,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0540",
         "layer": 0,
         "persona": "kot",
@@ -768,7 +772,7 @@
     },
     {
         "action": "PlaySe",
-        "end": 221000,
+        "end": 221150,
         "file": "SysSe/SE_all/gaya/yuugata",
         "layer": 4,
         "start": 148050
@@ -790,14 +794,14 @@
     },
     {
         "action": "PrintText",
-        "end": 157000,
+        "end": 157383,
         "persona": "Котоноха",
         "start": 153000,
         "text": "Ты прямо так весь обрадовался.^"
     },
     {
         "action": "PlayVoice",
-        "end": 157000,
+        "end": 157383,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0560",
         "layer": 0,
         "persona": "kot",
@@ -805,14 +809,14 @@
     },
     {
         "action": "PrintText",
-        "end": 160000,
+        "end": 160316,
         "persona": "Макото",
         "start": 158000,
         "text": "А...^"
     },
     {
         "action": "PlayVoice",
-        "end": 160000,
+        "end": 160316,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0570",
         "layer": 1,
         "persona": "mak",
@@ -820,14 +824,14 @@
     },
     {
         "action": "PrintText",
-        "end": 163000,
+        "end": 163216,
         "persona": "Котоноха",
         "start": 160316,
         "text": "Мы ведь последнее время совсем не занимались любовью...^"
     },
     {
         "action": "PlayVoice",
-        "end": 163000,
+        "end": 163216,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0580",
         "layer": 0,
         "persona": "kot",
@@ -835,14 +839,14 @@
     },
     {
         "action": "PrintText",
-        "end": 169000,
+        "end": 169183,
         "persona": "Макото",
         "start": 163216,
         "text": "Ну, говорят же, что во время беременности большинство женщин и не хотят.^"
     },
     {
         "action": "PlayVoice",
-        "end": 169000,
+        "end": 169183,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0590",
         "layer": 1,
         "persona": "mak",
@@ -850,14 +854,14 @@
     },
     {
         "action": "PrintText",
-        "end": 172000,
+        "end": 172083,
         "persona": "Котоноха",
         "start": 169183,
         "text": "А я вот... Хочу.^"
     },
     {
         "action": "PlayVoice",
-        "end": 172000,
+        "end": 172083,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0600",
         "layer": 0,
         "persona": "kot",
@@ -865,14 +869,14 @@
     },
     {
         "action": "PrintText",
-        "end": 176000,
+        "end": 176150,
         "persona": "Макото",
         "start": 172083,
         "text": "Понимаю. Сам такой.^"
     },
     {
         "action": "PlayVoice",
-        "end": 176000,
+        "end": 176150,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0610",
         "layer": 1,
         "persona": "mak",
@@ -880,14 +884,14 @@
     },
     {
         "action": "PrintText",
-        "end": 181000,
+        "end": 181366,
         "persona": "Котоноха",
         "start": 176166,
         "text": "Я тогда приму душ и буду тебя ждать.^"
     },
     {
         "action": "PlayVoice",
-        "end": 181000,
+        "end": 181366,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0620",
         "layer": 0,
         "persona": "kot",
@@ -895,14 +899,14 @@
     },
     {
         "action": "PrintText",
-        "end": 188000,
+        "end": 188350,
         "persona": "Макото",
         "start": 181366,
         "text": "Ага. Я ещё немного на море посмотрю и приду.^"
     },
     {
         "action": "PlayVoice",
-        "end": 188000,
+        "end": 188350,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0630",
         "layer": 1,
         "persona": "mak",
@@ -910,14 +914,14 @@
     },
     {
         "action": "PrintText",
-        "end": 189000,
+        "end": 189216,
         "persona": "Котоноха",
         "start": 188350,
         "text": "Хорошо.^"
     },
     {
         "action": "PlayVoice",
-        "end": 189000,
+        "end": 189216,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0640",
         "layer": 0,
         "persona": "kot",
@@ -925,40 +929,40 @@
     },
     {
         "action": "PlaySe",
-        "end": 190000,
+        "end": 190250,
         "file": "Voice05/05-KC/05-KC-A02/05-KC-A02-0110",
         "layer": 1,
         "start": 190083
     },
     {
         "action": "PlayMovie",
-        "end": 200000,
+        "end": 200350,
         "file": "Movie05/05-KC/05-KC-F00/05-KC-F00-014",
         "start": 190333
     },
     {
         "action": "PlaySe",
-        "end": 204000,
+        "end": 204150,
         "file": "Se05/05-KC/05-KC-F00/SE05-KC-F00-001",
         "layer": 1,
         "start": 192266
     },
     {
         "action": "PlayMovie",
-        "end": 233000,
+        "end": 233366,
         "file": "Movie05/05-KC/05-KC-F00/05-KC-F00-015",
         "start": 200350
     },
     {
         "action": "PrintText",
-        "end": 205000,
+        "end": 205366,
         "persona": "Макото",
         "start": 200350,
         "text": "И куда только... Сэкаи отправилась?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 205000,
+        "end": 205366,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0660",
         "layer": 1,
         "persona": "mak",
@@ -966,14 +970,14 @@
     },
     {
         "action": "PrintText",
-        "end": 211000,
+        "end": 211050,
         "persona": "Макото",
         "start": 205383,
         "text": "Всё ж таки... Это моя вина?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 211000,
+        "end": 211050,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0670",
         "layer": 1,
         "persona": "mak",
@@ -981,14 +985,14 @@
     },
     {
         "action": "PrintText",
-        "end": 213000,
+        "end": 213283,
         "persona": "Макото",
         "start": 211050,
         "text": "А чья же ещё?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 213000,
+        "end": 213283,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0680",
         "layer": 1,
         "persona": "mak",
@@ -996,14 +1000,14 @@
     },
     {
         "action": "PrintText",
-        "end": 220000,
+        "end": 220050,
         "persona": "Макото",
         "start": 213300,
         "text": "Но... Хорошо бы, чтобы с ней всё было в порядке.^"
     },
     {
         "action": "PlayVoice",
-        "end": 220000,
+        "end": 220050,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0690",
         "layer": 1,
         "persona": "mak",
@@ -1011,14 +1015,14 @@
     },
     {
         "action": "PrintText",
-        "end": 224000,
+        "end": 224016,
         "persona": "Макото",
         "start": 220066,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 224000,
+        "end": 224016,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0700",
         "layer": 1,
         "persona": "xxx",
@@ -1026,21 +1030,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 294000,
+        "end": 294216,
         "file": "SysSe/SE_all/gaya/yuugata",
         "layer": 5,
         "start": 220300
     },
     {
         "action": "PrintText",
-        "end": 229000,
+        "end": 229183,
         "persona": "Макото",
         "start": 224033,
         "text": "Пойду-ка я домой...^"
     },
     {
         "action": "PlayVoice",
-        "end": 229000,
+        "end": 229183,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0710",
         "layer": 1,
         "persona": "mak",
@@ -1048,21 +1052,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 234000,
+        "end": 234100,
         "file": "Se05/05-KC/05-KC-F00/SE05-KC-F00-004",
         "layer": 3,
         "start": 229016
     },
     {
         "action": "PrintText",
-        "end": 230000,
+        "end": 230366,
         "persona": "Макото",
         "start": 229200,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 230000,
+        "end": 230366,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0730",
         "layer": 1,
         "persona": "xxx",
@@ -1070,21 +1074,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 231000,
+        "end": 231266,
         "file": "Se05/05-KC/05-KC-F00/SE05-KC-F00-002",
         "layer": 1,
         "start": 230050
     },
     {
         "action": "PlaySe",
-        "end": 233000,
+        "end": 233016,
         "file": "Se05/05-KC/05-KC-F00/SE05-KC-F00-003",
         "layer": 1,
         "start": 232133
     },
     {
         "action": "PlaySe",
-        "end": 233000,
+        "end": 233333,
         "file": "Se05/05-KC/05-KC-F00/SE05-KC-F00-003",
         "layer": 2,
         "start": 233050
@@ -1092,25 +1096,25 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 233000,
+        "end": 233366,
         "start": 233166
     },
     {
         "action": "CreateBG",
-        "end": 235000,
+        "end": 235183,
         "file": "Event05/05-KC/05-KC-F00/05-KC-F00-015",
         "start": 233366
     },
     {
         "action": "PrintText",
-        "end": 235000,
+        "end": 235200,
         "persona": "Макото",
         "start": 233383,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 235000,
+        "end": 235200,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0760",
         "layer": 1,
         "persona": "mak",
@@ -1118,20 +1122,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 236000,
+        "end": 236383,
         "file": "Event05/05-KC/05-KC-F00/05-KC-F00-016",
         "start": 235183
     },
     {
         "action": "PrintText",
-        "end": 236000,
+        "end": 236233,
         "persona": "Сэкаи",
         "start": 235183,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 236000,
+        "end": 236233,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0770",
         "layer": 0,
         "persona": "sek",
@@ -1139,27 +1143,27 @@
     },
     {
         "action": "PlaySe",
-        "end": 236000,
+        "end": 236366,
         "file": "Se05/05-KC/05-KC-F00/SE05-KC-F00-005",
         "layer": 1,
         "start": 235366
     },
     {
         "action": "PlayMovie",
-        "end": 252000,
+        "end": 252383,
         "file": "Movie05/05-KC/05-KC-F00/05-KC-F00-018",
         "start": 236383
     },
     {
         "action": "PrintText",
-        "end": 241000,
+        "end": 241083,
         "persona": "Макото",
         "start": 238383,
         "text": "Сэкаи?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 241000,
+        "end": 241083,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0790",
         "layer": 1,
         "persona": "mak",
@@ -1167,14 +1171,14 @@
     },
     {
         "action": "PrintText",
-        "end": 242000,
+        "end": 242200,
         "persona": "Сэкаи",
         "start": 241083,
         "text": "Сдохни!^"
     },
     {
         "action": "PlayVoice",
-        "end": 242000,
+        "end": 242200,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0800",
         "layer": 0,
         "persona": "sek",
@@ -1182,21 +1186,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 242000,
+        "end": 242150,
         "file": "Se05/05-KC/05-KC-F00/SE05-KC-F00-006",
         "layer": 1,
         "start": 241350
     },
     {
         "action": "PrintText",
-        "end": 247000,
+        "end": 247083,
         "persona": "Макото",
         "start": 242383,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 247000,
+        "end": 247083,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0810",
         "layer": 1,
         "persona": "mak",
@@ -1204,14 +1208,14 @@
     },
     {
         "action": "PrintText",
-        "end": 254000,
+        "end": 254316,
         "persona": "Макото",
         "start": 247250,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 254000,
+        "end": 254316,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0880",
         "layer": 1,
         "persona": "mak",
@@ -1219,14 +1223,14 @@
     },
     {
         "action": "PrintText",
-        "end": 258000,
+        "end": 258183,
         "persona": "Сэкаи",
         "start": 250283,
         "text": "До чего меня довёл... А сам... С Кацурой!.. Счастливый!..^"
     },
     {
         "action": "PlayVoice",
-        "end": 258000,
+        "end": 258183,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0840",
         "layer": 0,
         "persona": "sek",
@@ -1234,20 +1238,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 262000,
+        "end": 262233,
         "file": "Movie05/05-KC/05-KC-F00/05-KC-F00-019",
         "start": 252383
     },
     {
         "action": "PrintText",
-        "end": 263000,
+        "end": 263066,
         "persona": "Макото",
         "start": 258283,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 263000,
+        "end": 263066,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0850",
         "layer": 1,
         "persona": "mak",
@@ -1255,20 +1259,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 268000,
+        "end": 268233,
         "file": "Movie05/05-KC/05-KC-F00/05-KC-F00-020",
         "start": 262233
     },
     {
         "action": "PrintText",
-        "end": 264000,
+        "end": 264050,
         "persona": "Сэкаи",
         "start": 262250,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 264000,
+        "end": 264050,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0860",
         "layer": 0,
         "persona": "sek",
@@ -1276,7 +1280,7 @@
     },
     {
         "action": "PlaySe",
-        "end": 264000,
+        "end": 264016,
         "file": "Se05/05-KC/05-KC-F00/SE05-KC-F00-006",
         "layer": 1,
         "start": 263216
@@ -1298,34 +1302,34 @@
     },
     {
         "action": "PlaySe",
-        "end": 266000,
+        "end": 266283,
         "file": "Se05/05-KC/05-KC-F00/SE05-KC-F00-007",
         "layer": 1,
         "start": 265350
     },
     {
         "action": "PlaySe",
-        "end": 267000,
+        "end": 267316,
         "file": "Se05/05-KC/05-KC-F00/SE05-KC-F00-008",
         "layer": 2,
         "start": 267016
     },
     {
         "action": "PlayMovie",
-        "end": 288000,
+        "end": 288216,
         "file": "Movie05/05-KC/05-KC-F00/05-KC-F00-021",
         "start": 268233
     },
     {
         "action": "PrintText",
-        "end": 272000,
+        "end": 272166,
         "persona": "Сэкаи",
         "start": 268233,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 272000,
+        "end": 272166,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0900",
         "layer": 0,
         "persona": "sek",
@@ -1333,14 +1337,14 @@
     },
     {
         "action": "PrintText",
-        "end": 273000,
+        "end": 273116,
         "persona": "Сэкаи",
         "start": 272166,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 273000,
+        "end": 273116,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0950",
         "layer": 0,
         "persona": "sek",
@@ -1348,14 +1352,14 @@
     },
     {
         "action": "PrintText",
-        "end": 283000,
+        "end": 283016,
         "persona": "Макото",
         "start": 273083,
         "text": "Сэкаи...^"
     },
     {
         "action": "PlayVoice",
-        "end": 283000,
+        "end": 283016,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0920",
         "layer": 1,
         "persona": "mak",
@@ -1363,14 +1367,14 @@
     },
     {
         "action": "PrintText",
-        "end": 283000,
+        "end": 283333,
         "persona": "Сэкаи",
         "start": 282133,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 283000,
+        "end": 283333,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0930",
         "layer": 0,
         "persona": "xxx",
@@ -1378,14 +1382,14 @@
     },
     {
         "action": "PrintText",
-        "end": 293000,
+        "end": 293366,
         "persona": "Макото",
         "start": 283366,
         "text": "Как хорошо... Что ты в порядке...^"
     },
     {
         "action": "PlayVoice",
-        "end": 293000,
+        "end": 293366,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0940",
         "layer": 1,
         "persona": "mak",
@@ -1393,27 +1397,27 @@
     },
     {
         "action": "PlayMovie",
-        "end": 302000,
+        "end": 302250,
         "file": "Movie05/05-KC/05-KC-F00/05-KC-F00-022",
         "start": 288216
     },
     {
         "action": "PlaySe",
-        "end": 368000,
+        "end": 368250,
         "file": "SysSe/SE_all/gaya/yuugata",
         "layer": 4,
         "start": 293250
     },
     {
         "action": "PrintText",
-        "end": 302000,
+        "end": 302233,
         "persona": "Макото",
         "start": 294333,
         "text": "Я... Всё переживал...^"
     },
     {
         "action": "PlayVoice",
-        "end": 302000,
+        "end": 302233,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0960",
         "layer": 1,
         "persona": "mak",
@@ -1421,20 +1425,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 303000,
+        "end": 303266,
         "file": "Movie05/05-KC/05-KC-F00/05-KC-F00-023",
         "start": 302250
     },
     {
         "action": "PrintText",
-        "end": 303000,
+        "end": 303250,
         "persona": "Сэкаи",
         "start": 302250,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 303000,
+        "end": 303250,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0970",
         "layer": 0,
         "persona": "xxx",
@@ -1442,20 +1446,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 310000,
+        "end": 310300,
         "file": "Movie05/05-KC/05-KC-F00/05-KC-F00-024",
         "start": 303266
     },
     {
         "action": "PrintText",
-        "end": 313000,
+        "end": 313150,
         "persona": "Макото",
         "start": 303266,
         "text": "Ребёнок...^"
     },
     {
         "action": "PlayVoice",
-        "end": 313000,
+        "end": 313150,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-0980",
         "layer": 1,
         "persona": "mak",
@@ -1463,26 +1467,26 @@
     },
     {
         "action": "PlayMovie",
-        "end": 315000,
+        "end": 315066,
         "file": "Movie05/05-KC/05-KC-F00/05-KC-F00-025",
         "start": 310300
     },
     {
         "action": "PlayMovie",
-        "end": 319000,
+        "end": 319266,
         "file": "Movie05/05-KC/05-KC-F00/05-KC-F00-026",
         "start": 315066
     },
     {
         "action": "PrintText",
-        "end": 319000,
+        "end": 319283,
         "persona": "Макото",
         "start": 315066,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 319000,
+        "end": 319283,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-1000",
         "layer": 1,
         "persona": "mak",
@@ -1490,20 +1494,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 321000,
+        "end": 321016,
         "file": "Movie05/05-KC/05-KC-F00/05-KC-F00-027",
         "start": 319266
     },
     {
         "action": "PrintText",
-        "end": 321000,
+        "end": 321016,
         "persona": "Сэкаи",
         "start": 319283,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 321000,
+        "end": 321016,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-1010",
         "layer": 0,
         "persona": "xxx",
@@ -1511,20 +1515,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 367000,
+        "end": 367300,
         "file": "Movie05/05-KC/05-KC-F00/05-KC-F00-028",
         "start": 321016
     },
     {
         "action": "PrintText",
-        "end": 325000,
+        "end": 325366,
         "persona": "Макото",
         "start": 321016,
         "text": "Рожать собираешься?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 325000,
+        "end": 325366,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-1020",
         "layer": 1,
         "persona": "mak",
@@ -1532,14 +1536,14 @@
     },
     {
         "action": "PrintText",
-        "end": 329000,
+        "end": 329200,
         "persona": "Сэкаи",
         "start": 325350,
         "text": "Ну а как же... Ещё?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 329000,
+        "end": 329200,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-1030",
         "layer": 0,
         "persona": "sek",
@@ -1547,14 +1551,14 @@
     },
     {
         "action": "PrintText",
-        "end": 333000,
+        "end": 333033,
         "persona": "Макото",
         "start": 329200,
         "text": "Спасибо...^"
     },
     {
         "action": "PlayVoice",
-        "end": 333000,
+        "end": 333033,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-1040",
         "layer": 1,
         "persona": "mak",
@@ -1562,14 +1566,14 @@
     },
     {
         "action": "PrintText",
-        "end": 334000,
+        "end": 334166,
         "persona": "Сэкаи",
         "start": 333033,
         "text": "А...^"
     },
     {
         "action": "PlayVoice",
-        "end": 334000,
+        "end": 334166,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-1050",
         "layer": 0,
         "persona": "sek",
@@ -1577,14 +1581,14 @@
     },
     {
         "action": "PrintText",
-        "end": 346000,
+        "end": 346133,
         "persona": "Макото",
         "start": 334150,
         "text": "Спасибо... Что оставила...^"
     },
     {
         "action": "PlayVoice",
-        "end": 346000,
+        "end": 346133,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-1060",
         "layer": 1,
         "persona": "mak",
@@ -1592,14 +1596,14 @@
     },
     {
         "action": "PrintText",
-        "end": 348000,
+        "end": 348050,
         "persona": "Сэкаи",
         "start": 346133,
         "text": "Нет!..^"
     },
     {
         "action": "PlayVoice",
-        "end": 348000,
+        "end": 348050,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-1070",
         "layer": 0,
         "persona": "sek",
@@ -1607,14 +1611,14 @@
     },
     {
         "action": "PrintText",
-        "end": 355000,
+        "end": 355033,
         "persona": "Макото",
         "start": 348050,
         "text": "Я ведь так... Волновался...^"
     },
     {
         "action": "PlayVoice",
-        "end": 355000,
+        "end": 355033,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-1080",
         "layer": 1,
         "persona": "mak",
@@ -1622,14 +1626,14 @@
     },
     {
         "action": "PrintText",
-        "end": 367000,
+        "end": 367366,
         "persona": "Макото",
         "start": 355033,
         "text": "Сэкаи... Я день ото дня... Тебя...^"
     },
     {
         "action": "PlayVoice",
-        "end": 367000,
+        "end": 367366,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-1100",
         "layer": 1,
         "persona": "mak",
@@ -1637,20 +1641,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 371000,
+        "end": 371233,
         "file": "Movie05/05-KC/05-KC-F00/05-KC-F00-029",
         "start": 367300
     },
     {
         "action": "PrintText",
-        "end": 369000,
+        "end": 369266,
         "persona": "Сэкаи",
         "start": 367300,
         "text": "Нет!..^"
     },
     {
         "action": "PlayVoice",
-        "end": 369000,
+        "end": 369266,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-1090",
         "layer": 0,
         "persona": "sek",
@@ -1658,21 +1662,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 441000,
+        "end": 441366,
         "file": "SysSe/SE_all/gaya/yuugata",
         "layer": 5,
         "start": 368050
     },
     {
         "action": "PrintText",
-        "end": 371000,
+        "end": 371133,
         "persona": "Сэкаи",
         "start": 369283,
         "text": "Нет!^"
     },
     {
         "action": "PlayVoice",
-        "end": 371000,
+        "end": 371133,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-1110",
         "layer": 0,
         "persona": "sek",
@@ -1680,20 +1684,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 376000,
+        "end": 376016,
         "file": "Movie05/05-KC/05-KC-F00/05-KC-F00-030",
         "start": 371233
     },
     {
         "action": "PrintText",
-        "end": 376000,
+        "end": 376016,
         "persona": "Макото",
         "start": 371233,
         "text": "Тебя...^"
     },
     {
         "action": "PlayVoice",
-        "end": 376000,
+        "end": 376016,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-1120",
         "layer": 1,
         "persona": "mak",
@@ -1701,20 +1705,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 381000,
+        "end": 381316,
         "file": "Movie05/05-KC/05-KC-F00/05-KC-F00-031",
         "start": 376016
     },
     {
         "action": "PrintText",
-        "end": 380000,
+        "end": 380283,
         "persona": "Сэкаи",
         "start": 377100,
         "text": "Нет!!!^"
     },
     {
         "action": "PlayVoice",
-        "end": 380000,
+        "end": 380283,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-1130",
         "layer": 0,
         "persona": "sek",
@@ -1722,27 +1726,27 @@
     },
     {
         "action": "PlaySe",
-        "end": 381000,
+        "end": 381216,
         "file": "Se05/05-KC/05-KC-F00/SE05-KC-F00-009",
         "layer": 1,
         "start": 378066
     },
     {
         "action": "PlayMovie",
-        "end": 416000,
+        "end": 416316,
         "file": "Movie05/05-KC/05-KC-F00/05-KC-F00-032",
         "start": 381316
     },
     {
         "action": "PrintText",
-        "end": 394000,
+        "end": 394266,
         "persona": "Макото",
         "start": 381316,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 394000,
+        "end": 394266,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-1150",
         "layer": 1,
         "persona": "xxx",
@@ -1750,14 +1754,14 @@
     },
     {
         "action": "PrintText",
-        "end": 400000,
+        "end": 400316,
         "persona": "Макото",
         "start": 394266,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 400000,
+        "end": 400316,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-1170",
         "layer": 1,
         "persona": "mak",
@@ -1765,14 +1769,14 @@
     },
     {
         "action": "PrintText",
-        "end": 409000,
+        "end": 409216,
         "persona": "Макото",
         "start": 400316,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 409000,
+        "end": 409216,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-1190",
         "layer": 1,
         "persona": "mak",
@@ -1780,14 +1784,14 @@
     },
     {
         "action": "PrintText",
-        "end": 416000,
+        "end": 416300,
         "persona": "Макото",
         "start": 409216,
         "text": "Сколько ж... Крови...^"
     },
     {
         "action": "PlayVoice",
-        "end": 416000,
+        "end": 416300,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-1200",
         "layer": 1,
         "persona": "mak",
@@ -1795,14 +1799,14 @@
     },
     {
         "action": "PrintText",
-        "end": 425000,
+        "end": 425183,
         "persona": "Макото",
         "start": 416300,
         "text": "Сэкаи... Вот ведь дура!^"
     },
     {
         "action": "PlayVoice",
-        "end": 425000,
+        "end": 425183,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-1210",
         "layer": 1,
         "persona": "mak",
@@ -1810,13 +1814,13 @@
     },
     {
         "action": "CreateBG",
-        "end": 451000,
+        "end": 451266,
         "file": "Event05/05-KC/05-KC-F00/05-KC-F00-035",
         "start": 416316
     },
     {
         "action": "PlayVoice",
-        "end": 433000,
+        "end": 433216,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-1220",
         "layer": -1,
         "persona": "",
@@ -1824,14 +1828,14 @@
     },
     {
         "action": "PrintText",
-        "end": 441000,
+        "end": 441150,
         "persona": "Макото",
         "start": 433216,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 441000,
+        "end": 441150,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-1230",
         "layer": 1,
         "persona": "mak",
@@ -1839,21 +1843,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 514000,
+        "end": 514033,
         "file": "SysSe/SE_all/gaya/yuugata",
         "layer": 4,
         "start": 441016
     },
     {
         "action": "PrintText",
-        "end": 451000,
+        "end": 451250,
         "persona": "Макото",
         "start": 441150,
         "text": "Надо идти домой...^"
     },
     {
         "action": "PlayVoice",
-        "end": 451000,
+        "end": 451250,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-1250",
         "layer": 1,
         "persona": "mak",
@@ -1861,20 +1865,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 461000,
+        "end": 461250,
         "file": "Movie05/05-KC/05-KC-F00/05-KC-F00-034",
         "start": 451266
     },
     {
         "action": "PrintText",
-        "end": 459000,
+        "end": 459233,
         "persona": "Макото",
         "start": 451266,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 459000,
+        "end": 459233,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-1280",
         "layer": 1,
         "persona": "mak",
@@ -1882,47 +1886,47 @@
     },
     {
         "action": "PlaySe",
-        "end": 453000,
+        "end": 453316,
         "file": "Se05/05-KC/05-KC-F00/SE05-KC-F00-010",
         "layer": 1,
         "start": 453133
     },
     {
         "action": "PlayBgm",
-        "end": 643000,
+        "end": 643050,
         "file": "BGM/SD_BGM/sdbgm27",
         "start": 454116
     },
     {
         "action": "PlaySe",
-        "end": 455000,
+        "end": 455350,
         "file": "Se05/05-KC/05-KC-F00/SE05-KC-F00-010",
         "layer": 1,
         "start": 455166
     },
     {
         "action": "PlaySe",
-        "end": 460000,
+        "end": 460200,
         "file": "Se05/05-KC/05-KC-F00/SE05-KC-F00-010",
         "layer": 1,
         "start": 460016
     },
     {
         "action": "CreateBG",
-        "end": 500000,
+        "end": 500133,
         "file": "Event05/05-KC/05-KC-F00/05-KC-F00-037",
         "start": 461250
     },
     {
         "action": "PrintText",
-        "end": 473000,
+        "end": 473300,
         "persona": "Макото",
         "start": 461250,
         "text": "Хорошо... Что с ней всё в порядке...^"
     },
     {
         "action": "PlayVoice",
-        "end": 473000,
+        "end": 473300,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-1300",
         "layer": 1,
         "persona": "mak",
@@ -1930,14 +1934,14 @@
     },
     {
         "action": "PrintText",
-        "end": 490000,
+        "end": 490316,
         "persona": "Макото",
         "start": 473300,
         "text": "Ребёнка... оставила...^"
     },
     {
         "action": "PlayVoice",
-        "end": 490000,
+        "end": 490316,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-1310",
         "layer": 1,
         "persona": "mak",
@@ -1945,14 +1949,14 @@
     },
     {
         "action": "PrintText",
-        "end": 497000,
+        "end": 497283,
         "persona": "Макото",
         "start": 490316,
         "text": "Вполне в её духе...^"
     },
     {
         "action": "PlayVoice",
-        "end": 497000,
+        "end": 497283,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-1320",
         "layer": 1,
         "persona": "mak",
@@ -1960,14 +1964,14 @@
     },
     {
         "action": "PrintText",
-        "end": 500000,
+        "end": 500116,
         "persona": "Макото",
         "start": 497283,
         "text": "Сэкаи...^"
     },
     {
         "action": "PlayVoice",
-        "end": 500000,
+        "end": 500116,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-1330",
         "layer": 1,
         "persona": "mak",
@@ -1975,14 +1979,14 @@
     },
     {
         "action": "PrintText",
-        "end": 511000,
+        "end": 511033,
         "persona": "Макото",
         "start": 500116,
         "text": "Интересно, она придумала... Как назовёт...^"
     },
     {
         "action": "PlayVoice",
-        "end": 511000,
+        "end": 511033,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-1340",
         "layer": 1,
         "persona": "mak",
@@ -1990,62 +1994,62 @@
     },
     {
         "action": "PlaySe",
-        "end": 500000,
+        "end": 500316,
         "file": "Se05/05-KC/05-KC-F00/SE05-KC-F00-010",
         "layer": 1,
         "start": 500133
     },
     {
         "action": "PlayMovie",
-        "end": 514000,
+        "end": 514383,
         "file": "Movie05/05-KC/05-KC-F00/05-KC-F00-036",
         "start": 500133
     },
     {
         "action": "PlaySe",
-        "end": 502000,
+        "end": 502366,
         "file": "Se05/05-KC/05-KC-F00/SE05-KC-F00-010",
         "layer": 1,
         "start": 502183
     },
     {
         "action": "PlaySe",
-        "end": 504000,
+        "end": 504316,
         "file": "Se05/05-KC/05-KC-F00/SE05-KC-F00-010",
         "layer": 1,
         "start": 504133
     },
     {
         "action": "PlaySe",
-        "end": 506000,
+        "end": 506266,
         "file": "Se05/05-KC/05-KC-F00/SE05-KC-F00-010",
         "layer": 1,
         "start": 506083
     },
     {
         "action": "PlaySe",
-        "end": 508000,
+        "end": 508150,
         "file": "Se05/05-KC/05-KC-F00/SE05-KC-F00-010",
         "layer": 1,
         "start": 507366
     },
     {
         "action": "PlaySe",
-        "end": 510000,
+        "end": 510133,
         "file": "Se05/05-KC/05-KC-F00/SE05-KC-F00-010",
         "layer": 1,
         "start": 509350
     },
     {
         "action": "PrintText",
-        "end": 514000,
+        "end": 514366,
         "persona": "Макото",
         "start": 511033,
         "text": "Я бы...^"
     },
     {
         "action": "PlayVoice",
-        "end": 514000,
+        "end": 514366,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-1350",
         "layer": 1,
         "persona": "mak",
@@ -2053,42 +2057,42 @@
     },
     {
         "action": "PlaySe",
-        "end": 511000,
+        "end": 511266,
         "file": "Se05/05-KC/05-KC-F00/SE05-KC-F00-010",
         "layer": 1,
         "start": 511083
     },
     {
         "action": "PlaySe",
-        "end": 513000,
+        "end": 513166,
         "file": "Se05/05-KC/05-KC-F00/SE05-KC-F00-010",
         "layer": 1,
         "start": 512383
     },
     {
         "action": "PlaySe",
-        "end": 587000,
+        "end": 587066,
         "file": "SysSe/SE_all/gaya/yuugata",
         "layer": 5,
         "start": 512383
     },
     {
         "action": "PlaySe",
-        "end": 515000,
+        "end": 515050,
         "file": "Se05/05-KC/05-KC-F00/SE05-KC-F00-010",
         "layer": 1,
         "start": 514266
     },
     {
         "action": "PrintText",
-        "end": 521000,
+        "end": 521100,
         "persona": "Макото",
         "start": 514366,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 521000,
+        "end": 521100,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-1360",
         "layer": 1,
         "persona": "xxx",
@@ -2096,34 +2100,34 @@
     },
     {
         "action": "PlayMovie",
-        "end": 521000,
+        "end": 521133,
         "file": "Movie05/05-KC/05-KC-F00/05-KC-F00-037",
         "start": 514383
     },
     {
         "action": "PlaySe",
-        "end": 517000,
+        "end": 517066,
         "file": "Se05/05-KC/05-KC-F00/SE05-KC-F00-010",
         "layer": 1,
         "start": 516283
     },
     {
         "action": "PlaySe",
-        "end": 521000,
+        "end": 521033,
         "file": "Se05/05-KC/05-KC-F00/SE05-KC-F00-010",
         "layer": 1,
         "start": 520250
     },
     {
         "action": "PrintText",
-        "end": 536000,
+        "end": 536250,
         "persona": "Макото",
         "start": 521100,
         "text": "Беда... Что-то я... Теряюсь...^"
     },
     {
         "action": "PlayVoice",
-        "end": 536000,
+        "end": 536250,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-1370",
         "layer": 1,
         "persona": "mak",
@@ -2131,54 +2135,54 @@
     },
     {
         "action": "PlayMovie",
-        "end": 533000,
+        "end": 533066,
         "file": "Movie05/05-KC/05-KC-F00/05-KC-F00-038",
         "start": 521133
     },
     {
         "action": "PlaySe",
-        "end": 523000,
+        "end": 523150,
         "file": "Se05/05-KC/05-KC-F00/SE05-KC-F00-010",
         "layer": 1,
         "start": 522366
     },
     {
         "action": "PlaySe",
-        "end": 527000,
+        "end": 527233,
         "file": "Se05/05-KC/05-KC-F00/SE05-KC-F00-010",
         "layer": 1,
         "start": 527050
     },
     {
         "action": "PlaySe",
-        "end": 530000,
+        "end": 530166,
         "file": "Se05/05-KC/05-KC-F00/SE05-KC-F00-010",
         "layer": 1,
         "start": 529383
     },
     {
         "action": "PlayMovie",
-        "end": 542000,
+        "end": 542216,
         "file": "Movie05/05-KC/05-KC-F00/05-KC-F00-039",
         "start": 533066
     },
     {
         "action": "PlaySe",
-        "end": 535000,
+        "end": 535150,
         "file": "Se05/05-KC/05-KC-F00/SE05-KC-F00-010",
         "layer": 1,
         "start": 534366
     },
     {
         "action": "PrintText",
-        "end": 542000,
+        "end": 542200,
         "persona": "Макото",
         "start": 536250,
         "text": "Сэкаи...^"
     },
     {
         "action": "PlayVoice",
-        "end": 542000,
+        "end": 542200,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-1380",
         "layer": 1,
         "persona": "mak",
@@ -2186,14 +2190,14 @@
     },
     {
         "action": "PlaySe",
-        "end": 539000,
+        "end": 539200,
         "file": "Se05/05-KC/05-KC-F00/SE05-KC-F00-010",
         "layer": 1,
         "start": 539016
     },
     {
         "action": "PlaySe",
-        "end": 542000,
+        "end": 542100,
         "file": "Se05/05-KC/05-KC-F00/SE05-KC-F00-010",
         "layer": 1,
         "start": 541316
@@ -2215,34 +2219,34 @@
     },
     {
         "action": "PlayMovie",
-        "end": 555000,
+        "end": 555183,
         "file": "Movie05/05-KC/05-KC-F00/05-KC-F00-040",
         "start": 542216
     },
     {
         "action": "PlaySe",
-        "end": 544000,
+        "end": 544266,
         "file": "Se05/05-KC/05-KC-F00/SE05-KC-F00-010",
         "layer": 1,
         "start": 544083
     },
     {
         "action": "PlaySe",
-        "end": 548000,
+        "end": 548266,
         "file": "Se05/05-KC/05-KC-F00/SE05-KC-F00-010",
         "layer": 1,
         "start": 548083
     },
     {
         "action": "PrintText",
-        "end": 562000,
+        "end": 562066,
         "persona": "Макото",
         "start": 550000,
         "text": "Нельзя же так... Таким-то ножом...^"
     },
     {
         "action": "PlayVoice",
-        "end": 562000,
+        "end": 562066,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-1400",
         "layer": 1,
         "persona": "mak",
@@ -2250,48 +2254,48 @@
     },
     {
         "action": "PlaySe",
-        "end": 551000,
+        "end": 551283,
         "file": "Se05/05-KC/05-KC-F00/SE05-KC-F00-010",
         "layer": 1,
         "start": 551100
     },
     {
         "action": "PlaySe",
-        "end": 555000,
+        "end": 555166,
         "file": "Se05/05-KC/05-KC-F00/SE05-KC-F00-010",
         "layer": 1,
         "start": 554383
     },
     {
         "action": "PlayMovie",
-        "end": 564000,
+        "end": 564333,
         "file": "Movie05/05-KC/05-KC-F00/05-KC-F00-041",
         "start": 555183
     },
     {
         "action": "PlaySe",
-        "end": 557000,
+        "end": 557233,
         "file": "Se05/05-KC/05-KC-F00/SE05-KC-F00-010",
         "layer": 1,
         "start": 557050
     },
     {
         "action": "PlaySe",
-        "end": 561000,
+        "end": 561200,
         "file": "Se05/05-KC/05-KC-F00/SE05-KC-F00-010",
         "layer": 1,
         "start": 561016
     },
     {
         "action": "PrintText",
-        "end": 569000,
+        "end": 569050,
         "persona": "Макото",
         "start": 562066,
         "text": "И ведь Котоноха ждёт...^"
     },
     {
         "action": "PlayVoice",
-        "end": 569000,
+        "end": 569050,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-1410",
         "layer": 1,
         "persona": "mak",
@@ -2299,34 +2303,34 @@
     },
     {
         "action": "PlaySe",
-        "end": 564000,
+        "end": 564250,
         "file": "Se05/05-KC/05-KC-F00/SE05-KC-F00-010",
         "layer": 1,
         "start": 564066
     },
     {
         "action": "PlayMovie",
-        "end": 583000,
+        "end": 583116,
         "file": "Movie05/05-KC/05-KC-F00/05-KC-F00-042",
         "start": 564333
     },
     {
         "action": "PlaySe",
-        "end": 567000,
+        "end": 567050,
         "file": "Se05/05-KC/05-KC-F00/SE05-KC-F00-010",
         "layer": 1,
         "start": 566266
     },
     {
         "action": "PrintText",
-        "end": 577000,
+        "end": 577200,
         "persona": "Макото",
         "start": 569050,
         "text": "В нашей... Комнате...^"
     },
     {
         "action": "PlayVoice",
-        "end": 577000,
+        "end": 577200,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-1420",
         "layer": 1,
         "persona": "mak",
@@ -2341,28 +2345,28 @@
     },
     {
         "action": "PlaySe",
-        "end": 574000,
+        "end": 574016,
         "file": "Se05/05-KC/05-KC-F00/SE05-KC-F00-010",
         "layer": 1,
         "start": 573233
     },
     {
         "action": "PlaySe",
-        "end": 577000,
+        "end": 577350,
         "file": "Se05/05-KC/05-KC-F00/SE05-KC-F00-010",
         "layer": 1,
         "start": 577166
     },
     {
         "action": "PrintText",
-        "end": 589000,
+        "end": 589050,
         "persona": "Макото",
         "start": 577200,
         "text": "И что я только с Сэкаи делал...^"
     },
     {
         "action": "PlayVoice",
-        "end": 589000,
+        "end": 589050,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-1430",
         "layer": 1,
         "persona": "mak",
@@ -2377,41 +2381,41 @@
     },
     {
         "action": "PlayMovie",
-        "end": 593000,
+        "end": 593383,
         "file": "Movie05/05-KC/05-KC-F00/05-KC-F00-043",
         "start": 583116
     },
     {
         "action": "PlaySe",
-        "end": 585000,
+        "end": 585200,
         "file": "Se05/05-KC/05-KC-F00/SE05-KC-F00-010",
         "layer": 1,
         "start": 585016
     },
     {
         "action": "PlaySe",
-        "end": 661000,
+        "end": 661233,
         "file": "SysSe/SE_all/gaya/yuugata",
         "layer": 4,
         "start": 586366
     },
     {
         "action": "PlaySe",
-        "end": 589000,
+        "end": 589216,
         "file": "Se05/05-KC/05-KC-F00/SE05-KC-F00-010",
         "layer": 1,
         "start": 589033
     },
     {
         "action": "PrintText",
-        "end": 599000,
+        "end": 599333,
         "persona": "Макото",
         "start": 589050,
         "text": "Котоноха ведь всё не так понимает...^"
     },
     {
         "action": "PlayVoice",
-        "end": 599000,
+        "end": 599333,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-1440",
         "layer": 1,
         "persona": "mak",
@@ -2419,41 +2423,41 @@
     },
     {
         "action": "PlaySe",
-        "end": 592000,
+        "end": 592216,
         "file": "Se05/05-KC/05-KC-F00/SE05-KC-F00-010",
         "layer": 1,
         "start": 592033
     },
     {
         "action": "PlayMovie",
-        "end": 599000,
+        "end": 599350,
         "file": "Movie05/05-KC/05-KC-F00/05-KC-F00-044",
         "start": 593383
     },
     {
         "action": "PlaySe",
-        "end": 596000,
+        "end": 596033,
         "file": "Se05/05-KC/05-KC-F00/SE05-KC-F00-010",
         "layer": 1,
         "start": 595250
     },
     {
         "action": "PlaySe",
-        "end": 600000,
+        "end": 600033,
         "file": "Se05/05-KC/05-KC-F00/SE05-KC-F00-010",
         "layer": 1,
         "start": 599250
     },
     {
         "action": "PrintText",
-        "end": 614000,
+        "end": 614300,
         "persona": "Макото",
         "start": 599333,
         "text": "Ревнует... Делает вид, что не замечает...^"
     },
     {
         "action": "PlayVoice",
-        "end": 614000,
+        "end": 614300,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-1450",
         "layer": 1,
         "persona": "mak",
@@ -2467,21 +2471,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 601000,
+        "end": 601316,
         "file": "Se05/05-KC/05-KC-F00/SE05-KC-F00-002",
         "layer": 2,
         "start": 600100
     },
     {
         "action": "PrintText",
-        "end": 627000,
+        "end": 627366,
         "persona": "Макото",
         "start": 614300,
         "text": "Ведь как только о Сэкаи разговор... Сразу подрываюсь...^"
     },
     {
         "action": "PlayVoice",
-        "end": 627000,
+        "end": 627366,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-1460",
         "layer": 1,
         "persona": "mak",
@@ -2504,20 +2508,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 661000,
+        "end": 661233,
         "file": "Movie05/05-KC/05-KC-F00/05-KC-F00-046",
         "start": 638000
     },
     {
         "action": "PrintText",
-        "end": 644000,
+        "end": 644216,
         "persona": "Макото",
         "start": 638000,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 644000,
+        "end": 644216,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-1480",
         "layer": 1,
         "persona": "xxx",
@@ -2525,14 +2529,14 @@
     },
     {
         "action": "PrintText",
-        "end": 654000,
+        "end": 654250,
         "persona": "Макото",
         "start": 644216,
         "text": "Но ведь... Я и вправду люблю...^"
     },
     {
         "action": "PlayVoice",
-        "end": 654000,
+        "end": 654250,
         "file": "Voice05/05-KC/05-KC-F00/05-KC-F00-1490",
         "layer": 1,
         "persona": "mak",
@@ -2541,19 +2545,23 @@
     {
         "action": "WhiteFade",
         "dir": "OUT",
-        "end": 661000,
+        "end": 661233,
         "start": 659233
     },
     {
         "action": "EndRoll",
-        "end": 831000,
+        "end": 831216,
         "file": "Movie05/ENDROLL/06-11",
         "start": 661233
     },
     {
         "action": "EndBGM",
-        "end": 828000,
+        "end": 828366,
         "file": "BGM/Vocal/SDV10",
         "start": 661233
+    },
+    {
+        "action": "Next",
+        "start": 829216
     }
 ]

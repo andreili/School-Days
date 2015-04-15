@@ -1,33 +1,41 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 8350
+    },
+    {
         "action": "PlayBgm",
-        "end": 8000,
+        "end": 8350,
         "file": "BGM/SD_BGM/sdbgm20",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 8000,
+        "end": 8350,
         "file": "Voice01/01-1K/01-1K-K00/01-1K-K00-0091",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2216,
         "file": "Event01/01-1K/01-1K-K01/01-1K-K01-001",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5283,
         "file": "Event01/01-1K/01-1K-K02/01-1K-K02-001B",
         "start": 2216
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8350,
         "file": "Event01/01-1K/01-1K-K02/01-1K-K02-001C",
         "start": 5283
+    },
+    {
+        "action": "Next",
+        "start": 8350
     }
 ]

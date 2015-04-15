@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 76133
+    },
+    {
         "action": "PlayBgm",
-        "end": 76000,
+        "end": 76133,
         "file": "BGM/SD_BGM/sdbgm19",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2100,
         "file": "Event05/05-SB/05-SB-G00/05-SB-G00-002",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 0,
+        "end": 200,
         "persona": "Сэкаи",
         "start": 0,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 0,
+        "end": 200,
         "file": "Voice05/05-SB/05-SB-G01/05-SB-G01-0030",
         "layer": 0,
         "persona": "sek",
@@ -34,14 +38,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4050,
         "persona": "Нанами",
         "start": 2133,
         "text": "Проснулась?^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4050,
         "file": "Voice05/05-SB/05-SB-G01/05-SB-G01-0040",
         "layer": 0,
         "persona": "nan",
@@ -49,14 +53,14 @@
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5033,
         "persona": "Сэкаи",
         "start": 4100,
         "text": "Где?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5033,
         "file": "Voice05/05-SB/05-SB-G01/05-SB-G01-0060",
         "layer": 0,
         "persona": "sek",
@@ -64,14 +68,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6250,
         "persona": "Нанами",
         "start": 5100,
         "text": "В медкабинете.^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6250,
         "file": "Voice05/05-SB/05-SB-G01/05-SB-G01-0070",
         "layer": 0,
         "persona": "nan",
@@ -94,7 +98,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 32000,
+        "end": 32133,
         "file": "Event05/05-SB/05-SB-G01/05-SB-G01-003",
         "start": 8000
     },
@@ -115,14 +119,14 @@
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12333,
         "persona": "Сэкаи",
         "start": 9000,
         "text": "Прости... За мной приглядывать пришлось...^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12333,
         "file": "Voice05/05-SB/05-SB-G01/05-SB-G01-0100",
         "layer": 0,
         "persona": "sek",
@@ -130,14 +134,14 @@
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16333,
         "persona": "Нанами",
         "start": 12333,
         "text": "Да я просто волновалась за тебя, вот и зашла после уроков.^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16333,
         "file": "Voice05/05-SB/05-SB-G01/05-SB-G01-0110",
         "layer": 0,
         "persona": "nan",
@@ -145,14 +149,14 @@
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17183,
         "persona": "Сэкаи",
         "start": 16350,
         "text": "Угу...^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17183,
         "file": "Voice05/05-SB/05-SB-G01/05-SB-G01-0120",
         "layer": 0,
         "persona": "sek",
@@ -160,14 +164,14 @@
     },
     {
         "action": "PrintText",
-        "end": 18000,
+        "end": 18116,
         "persona": "Сэкаи",
         "start": 17183,
         "text": "А...^"
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18116,
         "file": "Voice05/05-SB/05-SB-G01/05-SB-G01-0130",
         "layer": 0,
         "persona": "sek",
@@ -175,14 +179,14 @@
     },
     {
         "action": "PrintText",
-        "end": 19000,
+        "end": 19033,
         "persona": "Нанами",
         "start": 18133,
         "text": "Что?^"
     },
     {
         "action": "PlayVoice",
-        "end": 19000,
+        "end": 19033,
         "file": "Voice05/05-SB/05-SB-G01/05-SB-G01-0140",
         "layer": 0,
         "persona": "nan",
@@ -190,14 +194,14 @@
     },
     {
         "action": "PrintText",
-        "end": 21000,
+        "end": 21333,
         "persona": "Сэкаи",
         "start": 19033,
         "text": "Нанами... Сколько время?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 21000,
+        "end": 21333,
         "file": "Voice05/05-SB/05-SB-G01/05-SB-G01-0150",
         "layer": 0,
         "persona": "sek",
@@ -205,14 +209,14 @@
     },
     {
         "action": "PrintText",
-        "end": 23000,
+        "end": 23283,
         "persona": "Нанами",
         "start": 21333,
         "text": "Почти 7 вечера.^"
     },
     {
         "action": "PlayVoice",
-        "end": 23000,
+        "end": 23283,
         "file": "Voice05/05-SB/05-SB-G01/05-SB-G01-0160",
         "layer": 0,
         "persona": "nan",
@@ -220,14 +224,14 @@
     },
     {
         "action": "PrintText",
-        "end": 24000,
+        "end": 24300,
         "persona": "Сэкаи",
         "start": 23300,
         "text": "Э?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 24000,
+        "end": 24300,
         "file": "Voice05/05-SB/05-SB-G01/05-SB-G01-0170",
         "layer": 0,
         "persona": "sek",
@@ -235,14 +239,14 @@
     },
     {
         "action": "PrintText",
-        "end": 31000,
+        "end": 31150,
         "persona": "Нанами",
         "start": 24316,
         "text": "Ты просто так хорошо спала, что я попросила медсестру тебя не будить... Зря?^"
     },
     {
         "action": "PlayVoice",
-        "end": 31000,
+        "end": 31150,
         "file": "Voice05/05-SB/05-SB-G01/05-SB-G01-0180",
         "layer": 0,
         "persona": "nan",
@@ -250,14 +254,14 @@
     },
     {
         "action": "PrintText",
-        "end": 32000,
+        "end": 32150,
         "persona": "Сэкаи",
         "start": 31133,
         "text": "Нет...^"
     },
     {
         "action": "PlayVoice",
-        "end": 32000,
+        "end": 32150,
         "file": "Voice05/05-SB/05-SB-G01/05-SB-G01-0190",
         "layer": 0,
         "persona": "sek",
@@ -265,20 +269,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 40000,
+        "end": 40316,
         "file": "Movie05/05-SB/05-SB-G01/05-SB-G01-004",
         "start": 32133
     },
     {
         "action": "PrintText",
-        "end": 35000,
+        "end": 35350,
         "persona": "Нанами",
         "start": 32150,
         "text": "Ты, похоже, порядком вымоталась...^"
     },
     {
         "action": "PlayVoice",
-        "end": 35000,
+        "end": 35350,
         "file": "Voice05/05-SB/05-SB-G01/05-SB-G01-0200",
         "layer": 0,
         "persona": "nan",
@@ -286,14 +290,14 @@
     },
     {
         "action": "PrintText",
-        "end": 39000,
+        "end": 39183,
         "persona": "Сэкаи",
         "start": 35350,
         "text": "Угу... Но теперь всё хорошо.^"
     },
     {
         "action": "PlayVoice",
-        "end": 39000,
+        "end": 39183,
         "file": "Voice05/05-SB/05-SB-G01/05-SB-G01-0210",
         "layer": 0,
         "persona": "sek",
@@ -301,14 +305,14 @@
     },
     {
         "action": "PrintText",
-        "end": 40000,
+        "end": 40283,
         "persona": "Нанами",
         "start": 39366,
         "text": "Да?^"
     },
     {
         "action": "PlayVoice",
-        "end": 40000,
+        "end": 40283,
         "file": "Voice05/05-SB/05-SB-G01/05-SB-G01-0220",
         "layer": 0,
         "persona": "nan",
@@ -316,20 +320,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 63000,
+        "end": 63016,
         "file": "Event05/05-SB/05-SB-G01/05-SB-G00-005",
         "start": 40316
     },
     {
         "action": "PrintText",
-        "end": 48000,
+        "end": 48116,
         "persona": "Сэкаи",
         "start": 40366,
         "text": "Нанами... Сейчас ведь Рождество... Ничего что ты здесь?.. К парню не надо?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 48000,
+        "end": 48116,
         "file": "Voice05/05-SB/05-SB-G01/05-SB-G01-0230",
         "layer": 0,
         "persona": "sek",
@@ -337,14 +341,14 @@
     },
     {
         "action": "PrintText",
-        "end": 50000,
+        "end": 50350,
         "persona": "Нанами",
         "start": 48133,
         "text": "Да я потом их догоню.^"
     },
     {
         "action": "PlayVoice",
-        "end": 50000,
+        "end": 50350,
         "file": "Voice05/05-SB/05-SB-G01/05-SB-G01-0240",
         "layer": 0,
         "persona": "nan",
@@ -352,14 +356,14 @@
     },
     {
         "action": "PrintText",
-        "end": 51000,
+        "end": 51366,
         "persona": "Сэкаи",
         "start": 50350,
         "text": "Потом?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 51000,
+        "end": 51366,
         "file": "Voice05/05-SB/05-SB-G01/05-SB-G01-0250",
         "layer": 0,
         "persona": "sek",
@@ -367,14 +371,14 @@
     },
     {
         "action": "PrintText",
-        "end": 57000,
+        "end": 57266,
         "persona": "Нанами",
         "start": 51366,
         "text": "Мы втроём отмечаем. Я, он да его сестра.^"
     },
     {
         "action": "PlayVoice",
-        "end": 57000,
+        "end": 57266,
         "file": "Voice05/05-SB/05-SB-G01/05-SB-G01-0260",
         "layer": 0,
         "persona": "nan",
@@ -382,14 +386,14 @@
     },
     {
         "action": "PrintText",
-        "end": 62000,
+        "end": 62133,
         "persona": "Сэкаи",
         "start": 57266,
         "text": "Ясно... Слушай.^"
     },
     {
         "action": "PlayVoice",
-        "end": 62000,
+        "end": 62133,
         "file": "Voice05/05-SB/05-SB-G01/05-SB-G01-0270",
         "layer": 0,
         "persona": "sek",
@@ -412,20 +416,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 76000,
+        "end": 76133,
         "file": "Event05/05-SB/05-SB-G01/05-SB-G01-005",
         "start": 63016
     },
     {
         "action": "PrintText",
-        "end": 64000,
+        "end": 64300,
         "persona": "Сэкаи",
         "start": 63233,
         "text": "Макото... Где?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 64000,
+        "end": 64300,
         "file": "Voice05/05-SB/05-SB-G01/05-SB-G01-0290",
         "layer": 0,
         "persona": "sek",
@@ -433,14 +437,14 @@
     },
     {
         "action": "PrintText",
-        "end": 65000,
+        "end": 65333,
         "persona": "Нанами",
         "start": 64300,
         "text": "Ушёл.^"
     },
     {
         "action": "PlayVoice",
-        "end": 65000,
+        "end": 65333,
         "file": "Voice05/05-SB/05-SB-G01/05-SB-G01-0300",
         "layer": 0,
         "persona": "nan",
@@ -448,14 +452,14 @@
     },
     {
         "action": "PrintText",
-        "end": 66000,
+        "end": 66333,
         "persona": "Сэкаи",
         "start": 65333,
         "text": "Ясно.^"
     },
     {
         "action": "PlayVoice",
-        "end": 66000,
+        "end": 66333,
         "file": "Voice05/05-SB/05-SB-G01/05-SB-G01-0310",
         "layer": 0,
         "persona": "sek",
@@ -463,14 +467,14 @@
     },
     {
         "action": "PrintText",
-        "end": 74000,
+        "end": 74233,
         "persona": "Нанами",
         "start": 66333,
         "text": "Я пыталась его остановить... Думала... Нехорошо же тебя так бросать...^"
     },
     {
         "action": "PlayVoice",
-        "end": 74000,
+        "end": 74233,
         "file": "Voice05/05-SB/05-SB-G01/05-SB-G01-0320",
         "layer": 0,
         "persona": "nan",
@@ -478,17 +482,21 @@
     },
     {
         "action": "PrintText",
-        "end": 75000,
+        "end": 75216,
         "persona": "Сэкаи",
         "start": 74250,
         "text": "Ничего.^"
     },
     {
         "action": "PlayVoice",
-        "end": 75000,
+        "end": 75216,
         "file": "Voice05/05-SB/05-SB-G01/05-SB-G01-0330",
         "layer": 0,
         "persona": "sek",
         "start": 74250
+    },
+    {
+        "action": "Next",
+        "start": 76133
     }
 ]

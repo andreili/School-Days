@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 6016
+    },
+    {
         "action": "PlayBgm",
-        "end": 6000,
+        "end": 6016,
         "file": "BGM/SD_BGM/sdbgm19",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6016,
         "file": "Event03/03-A1/03-A1-D06/03-A1-D06-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1066,
         "persona": "Макото",
         "start": 0,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1066,
         "file": "Voice03/03-A1/03-A1-D06/03-A1-D06-0030",
         "layer": 1,
         "persona": "xxx",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1333,
         "persona": "Сэцуна",
         "start": 1183,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1333,
         "file": "Voice03/03-A1/03-A1-D06/03-A1-D06-0040",
         "layer": 0,
         "persona": "xxx",
@@ -43,14 +47,14 @@
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3033,
         "persona": "Макото",
         "start": 2066,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3033,
         "file": "Voice03/03-A1/03-A1-D06/03-A1-D06-0050",
         "layer": 1,
         "persona": "xxx",
@@ -58,14 +62,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4350,
         "persona": "Сэцуна",
         "start": 3183,
         "text": "Сам не знаешь?^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4350,
         "file": "Voice03/03-A1/03-A1-D06/03-A1-D06-0060",
         "layer": 0,
         "persona": "set",
@@ -73,17 +77,21 @@
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5316,
         "persona": "Макото",
         "start": 5000,
         "text": "Да...^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5316,
         "file": "Voice03/03-A1/03-A1-D06/03-A1-D06-0070",
         "layer": 1,
         "persona": "mak",
         "start": 5000
+    },
+    {
+        "action": "Next",
+        "start": 6016
     }
 ]

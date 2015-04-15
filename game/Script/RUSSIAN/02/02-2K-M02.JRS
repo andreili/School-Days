@@ -1,36 +1,44 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 3066
+    },
+    {
         "action": "PlayBgm",
-        "end": 3000,
+        "end": 3066,
         "file": "BGM/SD_BGM/sdbgm01",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 2000,
+        "end": 2033,
         "file": "SysSe/SE_all/footsteps/asioto_okugai",
         "layer": 1,
         "start": 0
     },
     {
         "action": "PlayMovie",
-        "end": 3000,
+        "end": 3066,
         "file": "Movie02/02-2K/02-2K-M02/02-2K-M02-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2233,
         "persona": "Макото",
         "start": 200,
         "text": "До-доброе утро...^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2233,
         "file": "Voice02/02-2K/02-2K-M02/02-2K-M02-0040",
         "layer": 1,
         "persona": "mak",
         "start": 200
+    },
+    {
+        "action": "Next",
+        "start": 3066
     }
 ]

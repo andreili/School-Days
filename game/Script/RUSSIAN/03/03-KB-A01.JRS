@@ -1,20 +1,24 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 3050
+    },
+    {
         "action": "PlayBgm",
-        "end": 9000,
+        "end": 9100,
         "file": "BGM/SD_BGM/sdbgm19",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 9000,
+        "end": 9100,
         "file": "Se03/03-KB/03-KB-A01/SE03-KB-A01-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1166,
         "file": "Event03/03-KB/03-KB-A01/03-KB-A01-001A",
         "start": 0
     },
@@ -41,7 +45,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3016,
         "file": "Event03/03-KB/03-KB-A01/03-KB-A01-001C",
         "start": 2000
     },
@@ -62,7 +66,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9100,
         "file": "Event03/03-KB/03-KB-A01/03-KB-A01-002",
         "start": 3016
     },
@@ -70,7 +74,11 @@
         "action": "SetSELECT",
         "answer1": "Здравствуй.^",
         "answer2": "Как поживаешь?^",
-        "end": 8000,
+        "end": 8050,
         "start": 3050
+    },
+    {
+        "action": "Next",
+        "start": 9100
     }
 ]

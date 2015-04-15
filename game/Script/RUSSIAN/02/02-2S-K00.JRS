@@ -1,20 +1,24 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 15083
+    },
+    {
         "action": "PlayBgm",
-        "end": 15000,
+        "end": 15083,
         "file": "BGM/SD_BGM/sdbgm06",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 15000,
+        "end": 15083,
         "file": "Se01/01-00/01-00-B00/SE01-00-B00-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 15000,
+        "end": 15083,
         "file": "SysSe/SE_all/school/chime",
         "layer": 2,
         "start": 0
@@ -27,23 +31,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 15000,
+        "end": 15083,
         "file": "Event02/02-2S/02-2S-K00/02-2S-K00-002",
         "start": 10000
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14216,
         "persona": "Макото",
         "start": 13066,
         "text": "Эй! Подожди!^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14216,
         "file": "Voice02/02-2S/02-2S-K00/02-2S-K00-0060",
         "layer": 1,
         "persona": "mak",
         "start": 13066
+    },
+    {
+        "action": "Next",
+        "start": 15083
     }
 ]

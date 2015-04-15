@@ -1,27 +1,31 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 12333
+    },
+    {
         "action": "PlaySe",
-        "end": 12000,
+        "end": 12333,
         "file": "Se03/03-KA/03-KA-G03/SE03-KA-G03-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1383,
         "file": "Event03/03-KA/03-KA-G03/03-KA-G03-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1216,
         "persona": "Макото",
         "start": 166,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1216,
         "file": "Voice03/03-KA/03-KA-G03/03-KA-G03-0030",
         "layer": 1,
         "persona": "xxx",
@@ -29,20 +33,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4333,
         "file": "Event03/03-KA/03-KA-G03/03-KA-G03-002",
         "start": 1383
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4366,
         "persona": "Сэцуна",
         "start": 2050,
         "text": "Не витай в облаках, садись вон там.^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4366,
         "file": "Voice03/03-KA/03-KA-G03/03-KA-G03-0040",
         "layer": 0,
         "persona": "set",
@@ -50,20 +54,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10366,
         "file": "Event03/03-KA/03-KA-G03/03-KA-G03-003",
         "start": 4333
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6066,
         "persona": "Макото",
         "start": 4333,
         "text": "Ладно, ладно...^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6066,
         "file": "Voice03/03-KA/03-KA-G03/03-KA-G03-0050",
         "layer": 1,
         "persona": "mak",
@@ -71,14 +75,14 @@
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10350,
         "persona": "Сэцуна",
         "start": 6300,
         "text": "Доставай распечатки, я их проверю.^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10350,
         "file": "Voice03/03-KA/03-KA-G03/03-KA-G03-0060",
         "layer": 0,
         "persona": "set",
@@ -86,20 +90,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12333,
         "file": "Event03/03-KA/03-KA-G03/03-KA-G03-004",
         "start": 10366
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11266,
         "persona": "Макото",
         "start": 10366,
         "text": "Хорошо.^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11266,
         "file": "Voice03/03-KA/03-KA-G03/03-KA-G03-0070",
         "layer": 1,
         "persona": "mak",
@@ -108,7 +112,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 12000,
+        "end": 12333,
         "start": 11333
+    },
+    {
+        "action": "Next",
+        "start": 12333
     }
 ]

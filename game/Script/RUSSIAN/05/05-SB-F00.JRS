@@ -1,32 +1,36 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 37250
+    },
+    {
         "action": "PlayBgm",
-        "end": 37000,
+        "end": 37250,
         "file": "BGM/SD_BGM/sdbgm01",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1200,
         "file": "Event05/05-SB/05-SB-F00/05-SB-F00-001",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2333,
         "file": "Event05/05-SB/05-SB-F00/05-SB-F00-001B",
         "start": 1200
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2183,
         "persona": "Сэкаи",
         "start": 1300,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2183,
         "file": "Voice05/05-SB/05-SB-F00/05-SB-F00-0030",
         "layer": 0,
         "persona": "xxx",
@@ -34,26 +38,26 @@
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3333,
         "file": "Event05/05-SB/05-SB-F00/05-SB-F00-001",
         "start": 2333
     },
     {
         "action": "CreateBG",
-        "end": 15000,
+        "end": 15383,
         "file": "Event05/05-SB/05-SB-F00/05-SB-F00-002",
         "start": 3333
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5116,
         "persona": "Котоноха",
         "start": 3333,
         "text": "Доброе утро!^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5116,
         "file": "Voice05/05-SB/05-SB-F00/05-SB-F00-0050",
         "layer": 0,
         "persona": "kot",
@@ -61,14 +65,14 @@
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8200,
         "persona": "Сэкаи",
         "start": 5116,
         "text": "Да... Доброе...^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8200,
         "file": "Voice05/05-SB/05-SB-F00/05-SB-F00-0060",
         "layer": 0,
         "persona": "sek",
@@ -76,14 +80,14 @@
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14266,
         "persona": "Котоноха",
         "start": 8200,
         "text": "Холодно-то сегодня как! Может даже снег пойдёт, в прогнозе погоды предупреждали.^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14266,
         "file": "Voice05/05-SB/05-SB-F00/05-SB-F00-0070",
         "layer": 0,
         "persona": "kot",
@@ -91,14 +95,14 @@
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15266,
         "persona": "Сэкаи",
         "start": 15000,
         "text": "Угу.^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15266,
         "file": "Voice05/05-SB/05-SB-F00/05-SB-F00-0080",
         "layer": 0,
         "persona": "sek",
@@ -106,20 +110,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 24000,
+        "end": 24333,
         "file": "Event05/05-SB/05-SB-F00/05-SB-F00-003",
         "start": 15383
     },
     {
         "action": "PrintText",
-        "end": 23000,
+        "end": 23100,
         "persona": "Котоноха",
         "start": 16016,
         "text": "Но если пойдёт... Будет так романтично. Сочельник станет просто волшебным!^"
     },
     {
         "action": "PlayVoice",
-        "end": 23000,
+        "end": 23100,
         "file": "Voice05/05-SB/05-SB-F00/05-SB-F00-0090",
         "layer": 0,
         "persona": "kot",
@@ -127,14 +131,14 @@
     },
     {
         "action": "PrintText",
-        "end": 24000,
+        "end": 24266,
         "persona": "Сэкаи",
         "start": 23100,
         "text": "Да уж.^"
     },
     {
         "action": "PlayVoice",
-        "end": 24000,
+        "end": 24266,
         "file": "Voice05/05-SB/05-SB-F00/05-SB-F00-0100",
         "layer": 0,
         "persona": "sek",
@@ -142,20 +146,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 30000,
+        "end": 30033,
         "file": "Event05/05-SB/05-SB-F00/05-SB-F00-004",
         "start": 24333
     },
     {
         "action": "PrintText",
-        "end": 29000,
+        "end": 29333,
         "persona": "Котоноха",
         "start": 25016,
         "text": "Впрочем, даже если и не пойдёт. Всё равно Сочельник волшебный.^"
     },
     {
         "action": "PlayVoice",
-        "end": 29000,
+        "end": 29333,
         "file": "Voice05/05-SB/05-SB-F00/05-SB-F00-0110",
         "layer": 0,
         "persona": "kot",
@@ -163,7 +167,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 37000,
+        "end": 37250,
         "file": "Event05/05-SB/05-SB-F00/05-SB-F00-005",
         "start": 30033
     },
@@ -184,14 +188,14 @@
     },
     {
         "action": "PrintText",
-        "end": 34000,
+        "end": 34133,
         "persona": "Котоноха",
         "start": 31100,
         "text": "Что ж, счастливого Рождества, Саиёндзи!^"
     },
     {
         "action": "PlayVoice",
-        "end": 34000,
+        "end": 34133,
         "file": "Voice05/05-SB/05-SB-F00/05-SB-F00-0130",
         "layer": 0,
         "persona": "kot",
@@ -199,14 +203,14 @@
     },
     {
         "action": "PrintText",
-        "end": 36000,
+        "end": 36033,
         "persona": "Сэкаи",
         "start": 34383,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 36000,
+        "end": 36033,
         "file": "Voice05/05-SB/05-SB-F00/05-SB-F00-0150",
         "layer": 0,
         "persona": "sek",
@@ -215,7 +219,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 37000,
+        "end": 37250,
         "start": 36250
+    },
+    {
+        "action": "Next",
+        "start": 37250
     }
 ]

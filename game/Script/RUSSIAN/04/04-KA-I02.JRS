@@ -1,5 +1,9 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 28000
+    },
+    {
         "action": "PlayBgm",
         "end": 28000,
         "file": "BGM/SD_BGM/sdbgm20",
@@ -7,20 +11,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6183,
         "file": "Event04/04-KA/04-KA-I02/04-KA-I02-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2383,
         "persona": "Макото",
         "start": 266,
         "text": "Она меня за твоего парня приняла.^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2383,
         "file": "Voice04/04-KA/04-KA-I02/04-KA-I02-0030",
         "layer": 1,
         "persona": "mak",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4183,
         "persona": "Котоноха",
         "start": 3100,
         "text": "Ты и есть парень.^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4183,
         "file": "Voice04/04-KA/04-KA-I02/04-KA-I02-0040",
         "layer": 0,
         "persona": "kot",
@@ -43,14 +47,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6216,
         "persona": "Макото",
         "start": 4233,
         "text": "Нет... Я...^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6216,
         "file": "Voice04/04-KA/04-KA-I02/04-KA-I02-0050",
         "layer": 1,
         "persona": "mak",
@@ -58,20 +62,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 15000,
+        "end": 15200,
         "file": "Event04/04-KA/04-KA-I02/04-KA-I02-002",
         "start": 6183
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15233,
         "persona": "Котоноха",
         "start": 6383,
         "text": "Мы не расставались... Я люблю тебя!^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15233,
         "file": "Voice04/04-KA/04-KA-I02/04-KA-I02-0060",
         "layer": 0,
         "persona": "kot",
@@ -79,20 +83,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 25000,
+        "end": 25016,
         "file": "Event04/04-KA/04-KA-I01/04-KA-I01-011",
         "start": 15200
     },
     {
         "action": "PrintText",
-        "end": 20000,
+        "end": 20133,
         "persona": "Макото",
         "start": 15216,
         "text": "Давай этот разговор отложим?^"
     },
     {
         "action": "PlayVoice",
-        "end": 20000,
+        "end": 20133,
         "file": "Voice04/04-KA/04-KA-I02/04-KA-I02-0080",
         "layer": 1,
         "persona": "mak",
@@ -100,14 +104,14 @@
     },
     {
         "action": "PrintText",
-        "end": 21000,
+        "end": 21166,
         "persona": "Котоноха",
         "start": 20150,
         "text": "Э?^"
     },
     {
         "action": "PlayVoice",
-        "end": 21000,
+        "end": 21166,
         "file": "Voice04/04-KA/04-KA-I02/04-KA-I02-0090",
         "layer": 0,
         "persona": "kot",
@@ -136,17 +140,21 @@
     },
     {
         "action": "PrintText",
-        "end": 26000,
+        "end": 26300,
         "persona": "Котоноха",
         "start": 25050,
         "text": "Хорошо...^"
     },
     {
         "action": "PlayVoice",
-        "end": 26000,
+        "end": 26300,
         "file": "Voice04/04-KA/04-KA-I02/04-KA-I02-0110",
         "layer": 0,
         "persona": "kot",
         "start": 25050
+    },
+    {
+        "action": "Next",
+        "start": 28000
     }
 ]

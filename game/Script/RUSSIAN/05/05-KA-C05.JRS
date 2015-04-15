@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 9066
+    },
+    {
         "action": "PlayBgm",
-        "end": 9000,
+        "end": 9066,
         "file": "BGM/SD_BGM/sdbgm19",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 9000,
+        "end": 9066,
         "file": "SysSe/SE_all/gaya/okujou_yuugata",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2216,
         "file": "Event05/05-KA/05-KA-C05/05-KA-C05-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3250,
         "persona": "Макото",
         "start": 0,
         "text": "Что за разговор такой, что на крышу надо идти?^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3250,
         "file": "Voice05/05-KA/05-KA-C05/05-KA-C05-0030",
         "layer": 1,
         "persona": "mak",
@@ -35,26 +39,26 @@
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3283,
         "file": "Event05/05-KA/05-KA-C05/05-KA-C05-002",
         "start": 2216
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4383,
         "file": "Event05/05-KA/05-KA-C05/05-KA-C05-003",
         "start": 3283
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6216,
         "persona": "Сэцуна",
         "start": 3283,
         "text": "Ито... Ты любишь Сэкаи?^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6216,
         "file": "Voice05/05-KA/05-KA-C05/05-KA-C05-0040",
         "layer": 0,
         "persona": "set",
@@ -62,26 +66,26 @@
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6216,
         "file": "Event05/05-KA/05-KA-C05/05-KA-C05-004",
         "start": 4383
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7183,
         "file": "Event05/05-KA/05-KA-C05/05-KA-C05-005",
         "start": 6216
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7183,
         "persona": "Макото",
         "start": 6216,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7183,
         "file": "Voice05/05-KA/05-KA-C05/05-KA-C05-0050",
         "layer": 1,
         "persona": "xxx",
@@ -89,23 +93,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9066,
         "file": "Event05/05-KA/05-KA-C05/05-KA-C05-004",
         "start": 7183
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8300,
         "persona": "Сэцуна",
         "start": 7233,
         "text": "Любишь?^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8300,
         "file": "Voice05/05-KA/05-KA-C05/05-KA-C05-0060",
         "layer": 0,
         "persona": "set",
         "start": 7233
+    },
+    {
+        "action": "Next",
+        "start": 9066
     }
 ]

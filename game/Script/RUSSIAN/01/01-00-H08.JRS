@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 18200
+    },
+    {
         "action": "PlayBgm",
-        "end": 18000,
+        "end": 18200,
         "file": "BGM/SD_BGM/sdbgm06",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 18000,
+        "end": 18200,
         "file": "Se01/01-00/01-00-E00/SE01-00-E00-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5116,
         "file": "Event01/01-00/01-00-E00/01-00-E00-006",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3250,
         "persona": "Сэкаи",
         "start": 100,
         "text": "Макото, чего ты молчишь?^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3250,
         "file": "Voice01/01-00/01-00-H08/01-00-H08-0030",
         "layer": 0,
         "persona": "sek",
@@ -35,14 +39,14 @@
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5083,
         "persona": "Макото",
         "start": 3216,
         "text": "Да...^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5083,
         "file": "Voice01/01-00/01-00-H08/01-00-H08-0040",
         "layer": 1,
         "persona": "mak",
@@ -50,27 +54,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 14000,
+        "end": 14383,
         "file": "Event01/01-00/01-00-H08/01-00-H08-002",
         "start": 5116
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9333,
         "persona": "Сэкаи",
         "start": 5183,
         "text": "У вас часто не будет время совпадать,^"
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14333,
         "persona": "Сэкаи",
         "start": 9333,
         "text": "но не нужно из-за этого расстраиваться!^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14333,
         "file": "Voice01/01-00/01-00-H08/01-00-H08-0050",
         "layer": 0,
         "persona": "sek",
@@ -78,20 +82,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 18000,
+        "end": 18200,
         "file": "Event01/01-00/01-00-H08/01-00-H08-003",
         "start": 14383
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17300,
         "persona": "Котоноха",
         "start": 15216,
         "text": "Я тоже так думаю.^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17300,
         "file": "Voice01/01-00/01-00-H08/01-00-H08-0060",
         "layer": 0,
         "persona": "kot",
@@ -99,17 +103,21 @@
     },
     {
         "action": "PrintText",
-        "end": 18000,
+        "end": 18150,
         "persona": "Сэкаи",
         "start": 17250,
         "text": "Угу...^"
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18150,
         "file": "Voice01/01-00/01-00-H08/01-00-H08-0070",
         "layer": 0,
         "persona": "sek",
         "start": 17250
+    },
+    {
+        "action": "Next",
+        "start": 18200
     }
 ]

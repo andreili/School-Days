@@ -1,7 +1,11 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 6083
+    },
+    {
         "action": "PlayBgm",
-        "end": 6000,
+        "end": 6083,
         "file": "BGM/SD_BGM/sdbgm07",
         "start": 0
     },
@@ -13,23 +17,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6083,
         "file": "Event01/01-00/01-00-N08/01-00-N08-002",
         "start": 3000
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5350,
         "persona": "Макото",
         "start": 4016,
         "text": "Не отвечает...^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5350,
         "file": "Voice01/01-00/01-00-N08/01-00-N08-0030",
         "layer": 1,
         "persona": "mak",
         "start": 4016
+    },
+    {
+        "action": "Next",
+        "start": 6083
     }
 ]

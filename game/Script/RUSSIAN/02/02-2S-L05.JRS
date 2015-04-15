@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 32383
+    },
+    {
         "action": "PlayBgm",
-        "end": 32000,
+        "end": 32383,
         "file": "BGM/SD_BGM/sdbgm06",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4166,
         "file": "Event02/02-2K/02-2K-N00/02-2K-N00-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5383,
         "persona": "Котоноха",
         "start": 2066,
         "text": "Ой! Я проболталась...^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5383,
         "file": "Voice02/02-2S/02-2S-L05/02-2S-L05-0050",
         "layer": 0,
         "persona": "kot",
@@ -28,20 +32,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 17000,
+        "end": 17200,
         "file": "Event02/02-2S/02-2S-L05/02-2S-L05-002",
         "start": 4166
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16316,
         "persona": "Котоноха",
         "start": 6366,
         "text": "Наверное, стоило промолчать... Думаю, Макото хотел бы пока сохранить наши отношения в тайне.^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16316,
         "file": "Voice02/02-2S/02-2S-L05/02-2S-L05-0060",
         "layer": 0,
         "persona": "kot",
@@ -49,20 +53,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 28000,
+        "end": 28283,
         "file": "Event02/02-2S/02-2S-L05/02-2S-L05-003",
         "start": 17200
     },
     {
         "action": "PrintText",
-        "end": 27000,
+        "end": 27350,
         "persona": "Котоноха",
         "start": 17200,
         "text": "Ну и ладно! Мы ведь вместе, думаю, Макото всё поймёт.^"
     },
     {
         "action": "PlayVoice",
-        "end": 27000,
+        "end": 27350,
         "file": "Voice02/02-2S/02-2S-L05/02-2S-L05-0080",
         "layer": 0,
         "persona": "kot",
@@ -70,20 +74,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 32000,
+        "end": 32383,
         "file": "Event02/02-2S/02-2S-L05/02-2S-L05-004",
         "start": 28283
     },
     {
         "action": "PrintText",
-        "end": 31000,
+        "end": 31233,
         "persona": "Котоноха",
         "start": 28350,
         "text": "Ладно, пойду сделаю распечатки.^"
     },
     {
         "action": "PlayVoice",
-        "end": 31000,
+        "end": 31233,
         "file": "Voice02/02-2S/02-2S-L05/02-2S-L05-0090",
         "layer": 0,
         "persona": "kot",
@@ -92,7 +96,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 32000,
+        "end": 32383,
         "start": 31383
+    },
+    {
+        "action": "Next",
+        "start": 32383
     }
 ]

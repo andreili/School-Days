@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 64166
+    },
+    {
         "action": "PlayBgm",
-        "end": 64000,
+        "end": 64166,
         "file": "BGM/SD_BGM/sdbgm06",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 64000,
+        "end": 64166,
         "file": "Se03/03-KA/03-KA-C01/SE03-KA-C01-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1350,
         "file": "Event03/03-KA/03-KA-C01/03-KA-C01-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1333,
         "persona": "Макото",
         "start": 0,
         "text": "А из девочек кто участвует?^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1333,
         "file": "Voice03/03-KA/03-KA-C01/03-KA-C01-0030",
         "layer": 1,
         "persona": "mak",
@@ -35,14 +39,14 @@
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2366,
         "persona": "Хикари",
         "start": 1333,
         "text": "Сэцуна.^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2366,
         "file": "Voice03/03-KA/03-KA-C01/03-KA-C01-0040",
         "layer": 0,
         "persona": "hik",
@@ -50,20 +54,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9300,
         "file": "Event03/03-KA/03-KA-C01/03-KA-C01-002",
         "start": 1350
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4383,
         "persona": "Макото",
         "start": 2366,
         "text": "А, староста?^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4383,
         "file": "Voice03/03-KA/03-KA-C01/03-KA-C01-0050",
         "layer": 1,
         "persona": "mak",
@@ -71,14 +75,14 @@
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8150,
         "persona": "Хикари",
         "start": 5000,
         "text": "Все старосты классов занимаются организацией праздника.^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8150,
         "file": "Voice03/03-KA/03-KA-C01/03-KA-C01-0060",
         "layer": 0,
         "persona": "hik",
@@ -86,14 +90,14 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9300,
         "persona": "Макото",
         "start": 8150,
         "text": "Вот как?^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9300,
         "file": "Voice03/03-KA/03-KA-C01/03-KA-C01-0070",
         "layer": 1,
         "persona": "mak",
@@ -108,14 +112,14 @@
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15383,
         "persona": "Хикари",
         "start": 12000,
         "text": "Не чувствуешь себя глупо, глядя со стороны, как другие работают?^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15383,
         "file": "Voice03/03-KA/03-KA-C01/03-KA-C01-0080",
         "layer": 0,
         "persona": "hik",
@@ -123,26 +127,26 @@
     },
     {
         "action": "CreateBG",
-        "end": 15000,
+        "end": 15383,
         "file": "Event03/03-KA/03-KA-C01/03-KA-C01-003",
         "start": 9300
     },
     {
         "action": "CreateBG",
-        "end": 17000,
+        "end": 17133,
         "file": "Event03/03-KA/03-KA-C01/03-KA-C01-004",
         "start": 15383
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17133,
         "persona": "Макото",
         "start": 15383,
         "text": "Ой, да перестань.^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17133,
         "file": "Voice03/03-KA/03-KA-C01/03-KA-C01-0090",
         "layer": 1,
         "persona": "mak",
@@ -150,20 +154,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 26000,
+        "end": 26166,
         "file": "Event03/03-KA/03-KA-C01/03-KA-C01-005",
         "start": 17133
     },
     {
         "action": "PrintText",
-        "end": 21000,
+        "end": 21133,
         "persona": "Хикари",
         "start": 17133,
         "text": "О, точно! Ты заменишь Танаку!^"
     },
     {
         "action": "PlayVoice",
-        "end": 21000,
+        "end": 21133,
         "file": "Voice03/03-KA/03-KA-C01/03-KA-C01-0100",
         "layer": 0,
         "persona": "hik",
@@ -171,14 +175,14 @@
     },
     {
         "action": "PrintText",
-        "end": 22000,
+        "end": 22166,
         "persona": "Макото",
         "start": 21133,
         "text": "С чего бы это вдруг?^"
     },
     {
         "action": "PlayVoice",
-        "end": 22000,
+        "end": 22166,
         "file": "Voice03/03-KA/03-KA-C01/03-KA-C01-0110",
         "layer": 1,
         "persona": "mak",
@@ -186,14 +190,14 @@
     },
     {
         "action": "PrintText",
-        "end": 25000,
+        "end": 25183,
         "persona": "Хикари",
         "start": 22166,
         "text": "Ну на пару недель, пока его из больницы не выпишут. Тебе ведь не трудно, правда?^"
     },
     {
         "action": "PlayVoice",
-        "end": 25000,
+        "end": 25183,
         "file": "Voice03/03-KA/03-KA-C01/03-KA-C01-0120",
         "layer": 0,
         "persona": "hik",
@@ -201,14 +205,14 @@
     },
     {
         "action": "PrintText",
-        "end": 26000,
+        "end": 26166,
         "persona": "Макото",
         "start": 25183,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 26000,
+        "end": 26166,
         "file": "Voice03/03-KA/03-KA-C01/03-KA-C01-0130",
         "layer": 1,
         "persona": "mak",
@@ -216,20 +220,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 32000,
+        "end": 32366,
         "file": "Event03/03-KA/03-KA-C01/03-KA-C01-006",
         "start": 26166
     },
     {
         "action": "PrintText",
-        "end": 31000,
+        "end": 31166,
         "persona": "Хикари",
         "start": 26166,
         "text": "И потом лучше бы тебе с Сэцуной подружиться, она ведь лучшая подруга Сэкаи.^"
     },
     {
         "action": "PlayVoice",
-        "end": 31000,
+        "end": 31166,
         "file": "Voice03/03-KA/03-KA-C01/03-KA-C01-0140",
         "layer": 0,
         "persona": "hik",
@@ -237,14 +241,14 @@
     },
     {
         "action": "PrintText",
-        "end": 32000,
+        "end": 32350,
         "persona": "Макото",
         "start": 31166,
         "text": "Да очень мне это надо...^"
     },
     {
         "action": "PlayVoice",
-        "end": 32000,
+        "end": 32350,
         "file": "Voice03/03-KA/03-KA-C01/03-KA-C01-0150",
         "layer": 1,
         "persona": "mak",
@@ -252,27 +256,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 40000,
+        "end": 40183,
         "file": "Event03/03-KA/03-KA-C01/03-KA-C01-007",
         "start": 32366
     },
     {
         "action": "PrintText",
-        "end": 36000,
+        "end": 36116,
         "persona": "Макото",
         "start": 33116,
         "text": "Но с другой стороны, Котоноха тоже староста,^"
     },
     {
         "action": "PrintText",
-        "end": 39000,
+        "end": 39383,
         "persona": "Макото",
         "start": 36116,
         "text": "и участвует в организации фестиваля, мы сможем чаще видеться.^"
     },
     {
         "action": "PlayVoice",
-        "end": 39000,
+        "end": 39383,
         "file": "Voice03/03-KA/03-KA-C01/03-KA-C01-0160",
         "layer": 1,
         "persona": "xxx",
@@ -316,20 +320,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 50000,
+        "end": 50066,
         "file": "Event03/03-KA/03-KA-C01/03-KA-C01-009",
         "start": 46000
     },
     {
         "action": "PrintText",
-        "end": 46000,
+        "end": 46383,
         "persona": "Хикари",
         "start": 46000,
         "text": "Серьёзно?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 46000,
+        "end": 46383,
         "file": "Voice03/03-KA/03-KA-C01/03-KA-C01-0190",
         "layer": 0,
         "persona": "hik",
@@ -337,14 +341,14 @@
     },
     {
         "action": "PrintText",
-        "end": 50000,
+        "end": 50100,
         "persona": "Макото",
         "start": 46366,
         "text": "Но только пока Танака не поправится. Идёт?^"
     },
     {
         "action": "PlayVoice",
-        "end": 50000,
+        "end": 50100,
         "file": "Voice03/03-KA/03-KA-C01/03-KA-C01-0200",
         "layer": 1,
         "persona": "mak",
@@ -352,7 +356,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 55000,
+        "end": 55066,
         "file": "Event03/03-KA/03-KA-C01/03-KA-C01-010",
         "start": 50066
     },
@@ -365,14 +369,14 @@
     },
     {
         "action": "PrintText",
-        "end": 57000,
+        "end": 57283,
         "persona": "Хикари",
         "start": 55000,
         "text": "Сэцуна, он сказал, что поможет!^"
     },
     {
         "action": "PlayVoice",
-        "end": 57000,
+        "end": 57283,
         "file": "Voice03/03-KA/03-KA-C01/03-KA-C01-0210",
         "layer": 0,
         "persona": "hik",
@@ -380,26 +384,26 @@
     },
     {
         "action": "CreateBG",
-        "end": 57000,
+        "end": 57350,
         "file": "Event03/03-KA/03-KA-C01/03-KA-C01-011",
         "start": 55066
     },
     {
         "action": "CreateBG",
-        "end": 64000,
+        "end": 64166,
         "file": "Event03/03-KA/03-KA-C01/03-KA-C01-012",
         "start": 57350
     },
     {
         "action": "PrintText",
-        "end": 61000,
+        "end": 61066,
         "persona": "Макото",
         "start": 58000,
         "text": "Вот как будто мне нужно твоё разрешение...^"
     },
     {
         "action": "PlayVoice",
-        "end": 61000,
+        "end": 61066,
         "file": "Voice03/03-KA/03-KA-C01/03-KA-C01-0220",
         "layer": 1,
         "persona": "mak",
@@ -407,14 +411,14 @@
     },
     {
         "action": "PrintText",
-        "end": 63000,
+        "end": 63150,
         "persona": "Макото",
         "start": 61333,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 63000,
+        "end": 63150,
         "file": "Voice03/03-KA/03-KA-C01/03-KA-C01-0230",
         "layer": 1,
         "persona": "mak",
@@ -423,7 +427,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 64000,
+        "end": 64166,
         "start": 63166
+    },
+    {
+        "action": "Next",
+        "start": 64166
     }
 ]

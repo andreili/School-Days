@@ -1,20 +1,24 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 13083
+    },
+    {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2233,
         "file": "Event05/05-5O/05-5O-E10/05-5O-E10-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2150,
         "persona": "Макото",
         "start": 116,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2150,
         "file": "Voice05/05-5O/05-5O-E10/05-5O-E10-0030",
         "layer": 1,
         "persona": "xxx",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5083,
         "persona": "Таисукэ",
         "start": 2300,
         "text": "Ты чего ворон считаешь?^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5083,
         "file": "Voice05/05-5O/05-5O-E10/05-5O-E10-0040",
         "layer": 1,
         "persona": "tai",
@@ -43,14 +47,14 @@
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5333,
         "persona": "Макото",
         "start": 5100,
         "text": "Да так...^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5333,
         "file": "Voice05/05-5O/05-5O-E10/05-5O-E10-0050",
         "layer": 1,
         "persona": "mak",
@@ -58,26 +62,26 @@
     },
     {
         "action": "PlayBgm",
-        "end": 13000,
+        "end": 13083,
         "file": "BGM/SD_BGM/sdbgm17",
         "start": 6000
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8166,
         "file": "Event05/05-5O/05-5O-E10/05-5O-E10-003",
         "start": 6000
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8183,
         "persona": "Хикари",
         "start": 6000,
         "text": "Таисукэ, пошли обедать!^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8183,
         "file": "Voice05/05-5O/05-5O-E10/05-5O-E10-0060",
         "layer": 0,
         "persona": "hik",
@@ -85,20 +89,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9050,
         "file": "Event05/05-5O/05-5O-E10/05-5O-E10-004",
         "start": 8166
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9033,
         "persona": "Таисукэ",
         "start": 8200,
         "text": "Э?^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9033,
         "file": "Voice05/05-5O/05-5O-E10/05-5O-E10-0070",
         "layer": 1,
         "persona": "tai",
@@ -106,23 +110,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 13000,
+        "end": 13083,
         "file": "Event05/05-5O/05-5O-E10/05-5O-E10-005",
         "start": 9050
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13066,
         "persona": "Хикари",
         "start": 9050,
         "text": "Чего «э»?! Я тебе еду приготовила!^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13066,
         "file": "Voice05/05-5O/05-5O-E10/05-5O-E10-0080",
         "layer": 0,
         "persona": "hik",
         "start": 9050
+    },
+    {
+        "action": "Next",
+        "start": 13083
     }
 ]

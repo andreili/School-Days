@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 3200
+    },
+    {
         "action": "PlayBgm",
-        "end": 3000,
+        "end": 3200,
         "file": "BGM/SD_BGM/sdbgm01",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3200,
         "file": "Event04/04-KB/04-KB-B02/04-KB-B02-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 0,
+        "end": 333,
         "persona": "Макото",
         "start": 0,
         "text": "Крепись.^"
     },
     {
         "action": "PlayVoice",
-        "end": 0,
+        "end": 333,
         "file": "Voice04/04-KB/04-KB-B02/04-KB-B02-0030",
         "layer": 1,
         "persona": "mak",
@@ -28,17 +32,21 @@
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3016,
         "persona": "Сэкаи",
         "start": 333,
         "text": "Ага... Спасибо.^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3016,
         "file": "Voice04/04-KB/04-KB-B02/04-KB-B02-0040",
         "layer": 0,
         "persona": "sek",
         "start": 333
+    },
+    {
+        "action": "Next",
+        "start": 3200
     }
 ]

@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 4050
+    },
+    {
         "action": "PlayBgm",
-        "end": 15000,
+        "end": 15333,
         "file": "BGM/SD_BGM/sdbgm01",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 15000,
+        "end": 15333,
         "file": "Se01/01-00/01-00-Q03/SE01-00-Q03-002",
         "layer": 1,
         "start": 0
     },
     {
         "action": "PlayMovie",
-        "end": 4000,
+        "end": 4050,
         "file": "Movie01/01-00/01-00-Q03/01-00-Q03-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1183,
         "persona": "Котоноха",
         "start": 0,
         "text": "Доброе утро!^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1183,
         "file": "Voice01/01-00/01-00-Q03/01-00-Q03-0030",
         "layer": 0,
         "persona": "kot",
@@ -35,14 +39,14 @@
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2116,
         "persona": "Макото",
         "start": 1200,
         "text": "Доброе.^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2116,
         "file": "Voice01/01-00/01-00-Q03/01-00-Q03-0040",
         "layer": 1,
         "persona": "mak",
@@ -51,7 +55,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 4000,
+        "end": 4050,
         "start": 3333
+    },
+    {
+        "action": "Next",
+        "start": 4050
     }
 ]

@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 52133
+    },
+    {
         "action": "PlayBgm",
-        "end": 52000,
+        "end": 52133,
         "file": "BGM/SD_BGM/sdbgm20",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 52000,
+        "end": 52133,
         "file": "Se03/03-SA/03-SA-J09/SE03-SA-J09-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "PlayMovie",
-        "end": 10000,
+        "end": 10050,
         "file": "Movie03/03-SA/03-SA-J09/03-SA-J09-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5200,
         "persona": "Отомэ",
         "start": 0,
         "text": "Я ведь перед тем, как сюда придти, на Ито наткнулась.^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5200,
         "file": "Voice03/03-SA/03-SA-J09/03-SA-J09-0040",
         "layer": 0,
         "persona": "oto",
@@ -35,14 +39,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6133,
         "persona": "Котоноха",
         "start": 5216,
         "text": "Э?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6133,
         "file": "Voice03/03-SA/03-SA-J09/03-SA-J09-0050",
         "layer": 0,
         "persona": "kot",
@@ -50,14 +54,14 @@
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10083,
         "persona": "Отомэ",
         "start": 6133,
         "text": "И спросила у него, обещал ли он сегодня кому чего.^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10083,
         "file": "Voice03/03-SA/03-SA-J09/03-SA-J09-0060",
         "layer": 0,
         "persona": "oto",
@@ -65,20 +69,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 11000,
+        "end": 11100,
         "file": "Event03/03-SA/03-SA-J09/03-SA-J09-002",
         "start": 10000
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11083,
         "persona": "Котоноха",
         "start": 10083,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11083,
         "file": "Voice03/03-SA/03-SA-J09/03-SA-J09-0070",
         "layer": 0,
         "persona": "xxx",
@@ -86,20 +90,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 14000,
+        "end": 14033,
         "file": "Event03/03-SA/03-SA-J09/03-SA-J09-003",
         "start": 11100
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13350,
         "persona": "Отомэ",
         "start": 11216,
         "text": "Ты сегодня никому ничего не обещал?^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13350,
         "file": "Voice03/03-SA/03-SA-J09/03-SA-J09-0090",
         "layer": 0,
         "persona": "oto",
@@ -107,20 +111,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 28000,
+        "end": 28200,
         "file": "Event03/03-SA/03-SA-J09/03-SA-J09-004",
         "start": 14033
     },
     {
         "action": "PrintText",
-        "end": 18000,
+        "end": 18150,
         "persona": "Отомэ",
         "start": 14050,
         "text": "Что-то не сходится с твоими словами, нет?^"
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18150,
         "file": "Voice03/03-SA/03-SA-J09/03-SA-J09-0120",
         "layer": 0,
         "persona": "oto",
@@ -128,14 +132,14 @@
     },
     {
         "action": "PrintText",
-        "end": 20000,
+        "end": 20200,
         "persona": "Куми",
         "start": 18150,
         "text": "Не сходится?^"
     },
     {
         "action": "PlayVoice",
-        "end": 20000,
+        "end": 20200,
         "file": "Voice03/03-SA/03-SA-J09/03-SA-J09-0130",
         "layer": 0,
         "persona": "kum",
@@ -158,14 +162,14 @@
     },
     {
         "action": "PrintText",
-        "end": 25000,
+        "end": 25383,
         "persona": "Минами",
         "start": 23000,
         "text": "Очень даже не сходится!^"
     },
     {
         "action": "PlayVoice",
-        "end": 25000,
+        "end": 25383,
         "file": "Voice03/03-SA/03-SA-J09/03-SA-J09-0150",
         "layer": 0,
         "persona": "min",
@@ -173,14 +177,14 @@
     },
     {
         "action": "PrintText",
-        "end": 28000,
+        "end": 28200,
         "persona": "Отомэ",
         "start": 25366,
         "text": "Что, правда?^"
     },
     {
         "action": "PlayVoice",
-        "end": 28000,
+        "end": 28200,
         "file": "Voice03/03-SA/03-SA-J09/03-SA-J09-0160",
         "layer": 0,
         "persona": "oto",
@@ -188,20 +192,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 34000,
+        "end": 34366,
         "file": "Event03/03-SA/03-SA-J09/03-SA-J09-005",
         "start": 28200
     },
     {
         "action": "PrintText",
-        "end": 31000,
+        "end": 31133,
         "persona": "Котоноха",
         "start": 28200,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 31000,
+        "end": 31133,
         "file": "Voice03/03-SA/03-SA-J09/03-SA-J09-0170",
         "layer": 0,
         "persona": "xxx",
@@ -209,14 +213,14 @@
     },
     {
         "action": "PrintText",
-        "end": 33000,
+        "end": 33183,
         "persona": "Куми",
         "start": 31133,
         "text": "Вот и попалась, врунья!^"
     },
     {
         "action": "PlayVoice",
-        "end": 33000,
+        "end": 33183,
         "file": "Voice03/03-SA/03-SA-J09/03-SA-J09-0180",
         "layer": 0,
         "persona": "kum",
@@ -224,14 +228,14 @@
     },
     {
         "action": "PrintText",
-        "end": 34000,
+        "end": 34383,
         "persona": "Котоноха",
         "start": 33166,
         "text": "Не врала я.^"
     },
     {
         "action": "PlayVoice",
-        "end": 34000,
+        "end": 34383,
         "file": "Voice03/03-SA/03-SA-J09/03-SA-J09-0190",
         "layer": 0,
         "persona": "kot",
@@ -239,20 +243,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 41000,
+        "end": 41200,
         "file": "Movie03/03-SA/03-SA-J09/03-SA-J09-006",
         "start": 34366
     },
     {
         "action": "PrintText",
-        "end": 35000,
+        "end": 35316,
         "persona": "Минами",
         "start": 34366,
         "text": "А?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 35000,
+        "end": 35316,
         "file": "Voice03/03-SA/03-SA-J09/03-SA-J09-0200",
         "layer": 0,
         "persona": "min",
@@ -260,14 +264,14 @@
     },
     {
         "action": "PrintText",
-        "end": 36000,
+        "end": 36283,
         "persona": "Котоноха",
         "start": 35300,
         "text": "Он придёт.^"
     },
     {
         "action": "PlayVoice",
-        "end": 36000,
+        "end": 36283,
         "file": "Voice03/03-SA/03-SA-J09/03-SA-J09-0210",
         "layer": 0,
         "persona": "kot",
@@ -275,14 +279,14 @@
     },
     {
         "action": "PrintText",
-        "end": 38000,
+        "end": 38150,
         "persona": "Нацуми",
         "start": 36283,
         "text": "Ты чего несёшь?^"
     },
     {
         "action": "PlayVoice",
-        "end": 38000,
+        "end": 38150,
         "file": "Voice03/03-SA/03-SA-J09/03-SA-J09-0220",
         "layer": 0,
         "persona": "nat",
@@ -290,14 +294,14 @@
     },
     {
         "action": "PrintText",
-        "end": 41000,
+        "end": 41200,
         "persona": "Котоноха",
         "start": 38150,
         "text": "Макото!.. Обязательно придёт!^"
     },
     {
         "action": "PlayVoice",
-        "end": 41000,
+        "end": 41200,
         "file": "Voice03/03-SA/03-SA-J09/03-SA-J09-0230",
         "layer": 0,
         "persona": "kot",
@@ -305,20 +309,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 46000,
+        "end": 46050,
         "file": "Event03/03-SA/03-SA-J09/03-SA-J09-005",
         "start": 41200
     },
     {
         "action": "PrintText",
-        "end": 46000,
+        "end": 46066,
         "persona": "Куми",
         "start": 41200,
         "text": "Дура! Не придёт он! Хватит пургу нести!^"
     },
     {
         "action": "PlayVoice",
-        "end": 46000,
+        "end": 46066,
         "file": "Voice03/03-SA/03-SA-J09/03-SA-J09-0240",
         "layer": 0,
         "persona": "kum",
@@ -326,20 +330,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 50000,
+        "end": 50016,
         "file": "Event03/03-SA/03-SA-J09/03-SA-J09-008",
         "start": 46050
     },
     {
         "action": "PrintText",
-        "end": 50000,
+        "end": 50016,
         "persona": "Отомэ",
         "start": 46050,
         "text": "Стоп-стоп. А то получится, что это мы над ней издеваемся.^"
     },
     {
         "action": "PlayVoice",
-        "end": 50000,
+        "end": 50016,
         "file": "Voice03/03-SA/03-SA-J09/03-SA-J09-0250",
         "layer": 0,
         "persona": "oto",
@@ -347,23 +351,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 52000,
+        "end": 52133,
         "file": "Event03/03-SA/03-SA-J09/03-SA-J09-009",
         "start": 50016
     },
     {
         "action": "PrintText",
-        "end": 52000,
+        "end": 52133,
         "persona": "Котоноха",
         "start": 50016,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 52000,
+        "end": 52133,
         "file": "Voice03/03-SA/03-SA-J09/03-SA-J09-0260",
         "layer": 0,
         "persona": "xxx",
         "start": 50016
+    },
+    {
+        "action": "Next",
+        "start": 52133
     }
 ]

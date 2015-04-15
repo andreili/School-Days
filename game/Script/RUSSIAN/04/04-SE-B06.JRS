@@ -1,32 +1,36 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 48166
+    },
+    {
         "action": "PlayBgm",
-        "end": 48000,
+        "end": 48166,
         "file": "BGM/SD_BGM/sdbgm07",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1350,
         "file": "Event04/04-SE/04-SE-B06/04-SE-B06-001",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5050,
         "file": "Event04/04-SE/04-SE-B06/04-SE-B06-001B",
         "start": 1350
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5050,
         "persona": "Отомэ",
         "start": 1350,
         "text": "Ты, кстати, в курсе?.. Про Ариму.^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5050,
         "file": "Voice04/04-SE/04-SE-B06/04-SE-B06-0030",
         "layer": 0,
         "persona": "oto",
@@ -34,20 +38,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9166,
         "file": "Event04/04-SE/04-SE-B06/04-SE-B06-001C",
         "start": 5050
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7283,
         "persona": "Макото",
         "start": 5100,
         "text": "Нет, а что с ним?^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7283,
         "file": "Voice04/04-SE/04-SE-B06/04-SE-B06-0040",
         "layer": 1,
         "persona": "mak",
@@ -55,14 +59,14 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9150,
         "persona": "Отомэ",
         "start": 7233,
         "text": "Женится!^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9150,
         "file": "Voice04/04-SE/04-SE-B06/04-SE-B06-0050",
         "layer": 0,
         "persona": "oto",
@@ -70,20 +74,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10200,
         "file": "Event04/04-SE/04-SE-B06/04-SE-B06-002",
         "start": 9166
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10233,
         "persona": "Макото",
         "start": 9200,
         "text": "Серьёзно?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10233,
         "file": "Voice04/04-SE/04-SE-B06/04-SE-B06-0060",
         "layer": 1,
         "persona": "mak",
@@ -91,14 +95,14 @@
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11250,
         "persona": "Отомэ",
         "start": 10183,
         "text": "Ага!^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11250,
         "file": "Voice04/04-SE/04-SE-B06/04-SE-B06-0070",
         "layer": 0,
         "persona": "oto",
@@ -106,26 +110,26 @@
     },
     {
         "action": "CreateBG",
-        "end": 11000,
+        "end": 11250,
         "file": "Event04/04-SE/04-SE-B06/04-SE-B06-002B",
         "start": 10200
     },
     {
         "action": "CreateBG",
-        "end": 13000,
+        "end": 13333,
         "file": "Event04/04-SE/04-SE-B06/04-SE-B06-003",
         "start": 11250
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13366,
         "persona": "Макото",
         "start": 11300,
         "text": "Бывают на свете чудаки...^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13366,
         "file": "Voice04/04-SE/04-SE-B06/04-SE-B06-0080",
         "layer": 1,
         "persona": "mak",
@@ -148,20 +152,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 18000,
+        "end": 18066,
         "file": "Event04/04-SE/04-SE-B06/04-SE-B06-003B",
         "start": 13333
     },
     {
         "action": "PrintText",
-        "end": 18000,
+        "end": 18100,
         "persona": "Макото",
         "start": 17050,
         "text": "Неа.^"
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18100,
         "file": "Voice04/04-SE/04-SE-B06/04-SE-B06-0100",
         "layer": 1,
         "persona": "mak",
@@ -169,14 +173,14 @@
     },
     {
         "action": "PrintText",
-        "end": 22000,
+        "end": 22233,
         "persona": "Отомэ",
         "start": 18050,
         "text": "Так и знала. Ии жаловался, что никак с тобой связаться не может.^"
     },
     {
         "action": "PlayVoice",
-        "end": 22000,
+        "end": 22233,
         "file": "Voice04/04-SE/04-SE-B06/04-SE-B06-0110",
         "layer": 0,
         "persona": "oto",
@@ -184,26 +188,26 @@
     },
     {
         "action": "CreateBG",
-        "end": 22000,
+        "end": 22233,
         "file": "Event04/04-SE/04-SE-B06/04-SE-B06-004",
         "start": 18066
     },
     {
         "action": "CreateBG",
-        "end": 24000,
+        "end": 24300,
         "file": "Event04/04-SE/04-SE-B06/04-SE-B06-005",
         "start": 22233
     },
     {
         "action": "PrintText",
-        "end": 24000,
+        "end": 24350,
         "persona": "Макото",
         "start": 22283,
         "text": "Ну и пусть. Переживёт.^"
     },
     {
         "action": "PlayVoice",
-        "end": 24000,
+        "end": 24350,
         "file": "Voice04/04-SE/04-SE-B06/04-SE-B06-0120",
         "layer": 1,
         "persona": "mak",
@@ -211,14 +215,14 @@
     },
     {
         "action": "PrintText",
-        "end": 30000,
+        "end": 30116,
         "persona": "Отомэ",
         "start": 24283,
         "text": "А ты знаешь, что Икеда с Рейдзей встречаться начали?^"
     },
     {
         "action": "PlayVoice",
-        "end": 30000,
+        "end": 30116,
         "file": "Voice04/04-SE/04-SE-B06/04-SE-B06-0130",
         "layer": 0,
         "persona": "oto",
@@ -226,20 +230,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 35000,
+        "end": 35183,
         "file": "Event04/04-SE/04-SE-B06/04-SE-B06-006",
         "start": 24300
     },
     {
         "action": "PrintText",
-        "end": 35000,
+        "end": 35233,
         "persona": "Макото",
         "start": 30166,
         "text": "Правда? Да я, похоже, совсем от мира отстал...^"
     },
     {
         "action": "PlayVoice",
-        "end": 35000,
+        "end": 35233,
         "file": "Voice04/04-SE/04-SE-B06/04-SE-B06-0140",
         "layer": 1,
         "persona": "mak",
@@ -247,20 +251,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 42000,
+        "end": 42066,
         "file": "Event04/04-SE/04-SE-B06/04-SE-B06-007",
         "start": 35183
     },
     {
         "action": "PrintText",
-        "end": 42000,
+        "end": 42066,
         "persona": "Отомэ",
         "start": 35183,
         "text": "Надо будет как-нибудь всем собраться. Например, там, где раньше. На побережье, рядом с твоим домом.^"
     },
     {
         "action": "PlayVoice",
-        "end": 42000,
+        "end": 42066,
         "file": "Voice04/04-SE/04-SE-B06/04-SE-B06-0150",
         "layer": 0,
         "persona": "oto",
@@ -268,20 +272,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 48000,
+        "end": 48166,
         "file": "Event04/04-SE/04-SE-B06/04-SE-B06-008",
         "start": 42066
     },
     {
         "action": "PrintText",
-        "end": 45000,
+        "end": 45083,
         "persona": "Макото",
         "start": 42116,
         "text": "И не говори. Сам не прочь народ повидать.^"
     },
     {
         "action": "PlayVoice",
-        "end": 45000,
+        "end": 45083,
         "file": "Voice04/04-SE/04-SE-B06/04-SE-B06-0160",
         "layer": 1,
         "persona": "mak",
@@ -289,17 +293,21 @@
     },
     {
         "action": "PrintText",
-        "end": 46000,
+        "end": 46050,
         "persona": "Отомэ",
         "start": 45016,
         "text": "Вот!^"
     },
     {
         "action": "PlayVoice",
-        "end": 46000,
+        "end": 46050,
         "file": "Voice04/04-SE/04-SE-B06/04-SE-B06-0170",
         "layer": 0,
         "persona": "oto",
         "start": 45016
+    },
+    {
+        "action": "Next",
+        "start": 48166
     }
 ]

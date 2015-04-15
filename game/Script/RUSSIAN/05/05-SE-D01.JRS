@@ -1,27 +1,31 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 23183
+    },
+    {
         "action": "PlaySe",
-        "end": 23000,
+        "end": 23183,
         "file": "SysSe/SE_all/gaya/okujou",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7366,
         "file": "Event05/05-SE/05-SE-D01/05-SE-D01-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2366,
         "persona": "Макото",
         "start": 0,
         "text": "Похвастаться, значит, мной хочешь.^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2366,
         "file": "Voice05/05-KF/05-KF-D01/05-KF-D01-0030",
         "layer": 1,
         "persona": "mak",
@@ -29,14 +33,14 @@
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7350,
         "persona": "Котоноха",
         "start": 2383,
         "text": "Да нет... Не в этом дело...^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7350,
         "file": "Voice05/05-KF/05-KF-D01/05-KF-D01-0040",
         "layer": 0,
         "persona": "kot",
@@ -44,14 +48,14 @@
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10150,
         "persona": "Макото",
         "start": 7350,
         "text": "В этом, в чём же ещё?^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10150,
         "file": "Voice05/05-KF/05-KF-D01/05-KF-D01-0050",
         "layer": 1,
         "persona": "mak",
@@ -59,20 +63,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 14000,
+        "end": 14350,
         "file": "Event05/05-SE/05-SE-D01/05-SE-D01-002",
         "start": 7366
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12333,
         "persona": "Котоноха",
         "start": 10150,
         "text": "Ну и не надо.^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12333,
         "file": "Voice05/05-KF/05-KF-D01/05-KF-D01-0060",
         "layer": 0,
         "persona": "kot",
@@ -80,14 +84,14 @@
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14350,
         "persona": "Макото",
         "start": 12316,
         "text": "Ты чего?^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14350,
         "file": "Voice05/05-KF/05-KF-D01/05-KF-D01-0070",
         "layer": 1,
         "persona": "mak",
@@ -95,20 +99,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 23000,
+        "end": 23183,
         "file": "Event05/05-SE/05-SE-D01/05-SE-D01-003",
         "start": 14350
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17283,
         "persona": "Котоноха",
         "start": 14350,
         "text": "Ничего. Извини.^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17283,
         "file": "Voice05/05-KF/05-KF-D01/05-KF-D01-0080",
         "layer": 0,
         "persona": "kot",
@@ -116,14 +120,14 @@
     },
     {
         "action": "PrintText",
-        "end": 22000,
+        "end": 22150,
         "persona": "Макото",
         "start": 17283,
         "text": "Извиняться надо сначала.^"
     },
     {
         "action": "PlayVoice",
-        "end": 22000,
+        "end": 22150,
         "file": "Voice05/05-KF/05-KF-D01/05-KF-D01-0090",
         "layer": 1,
         "persona": "mak",
@@ -131,17 +135,21 @@
     },
     {
         "action": "PrintText",
-        "end": 23000,
+        "end": 23133,
         "persona": "Котоноха",
         "start": 22066,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 23000,
+        "end": 23133,
         "file": "Voice05/05-KF/05-KF-D01/05-KF-D01-0100",
         "layer": 0,
         "persona": "xxx",
         "start": 22066
+    },
+    {
+        "action": "Next",
+        "start": 23183
     }
 ]

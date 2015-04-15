@@ -1,13 +1,17 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 20033
+    },
+    {
         "action": "PlayBgm",
-        "end": 20000,
+        "end": 20033,
         "file": "BGM/SD_BGM/sdbgm29",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 20000,
+        "end": 20016,
         "file": "Se03/03-SA/03-SA-J07/SE03-SA-J07-001",
         "layer": 1,
         "start": 0
@@ -20,14 +24,14 @@
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3200,
         "persona": "Макото",
         "start": 0,
         "text": "Котоноха, послушай. Я...^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3200,
         "file": "Voice03/03-SA/03-SA-J07/03-SA-J07-0040",
         "layer": 1,
         "persona": "mak",
@@ -35,14 +39,14 @@
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5200,
         "persona": "Отомэ",
         "start": 3200,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5200,
         "file": "Voice03/03-SA/03-SA-J07/03-SA-J07-0060",
         "layer": 0,
         "persona": "oto",
@@ -50,14 +54,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6333,
         "persona": "Минами",
         "start": 5200,
         "text": "Отомэ...^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6333,
         "file": "Voice03/03-SA/03-SA-J07/03-SA-J07-0070",
         "layer": 0,
         "persona": "min",
@@ -65,14 +69,14 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9133,
         "persona": "Нацуми",
         "start": 6333,
         "text": "Так, тут нам делать нечего...^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9133,
         "file": "Voice03/03-SA/03-SA-J07/03-SA-J07-0080",
         "layer": 0,
         "persona": "nat",
@@ -95,20 +99,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12133,
         "file": "Event03/03-SA/03-SA-J07/03-SA-J07-002",
         "start": 11000
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13050,
         "persona": "Макото",
         "start": 11000,
         "text": "Э? Что?^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13050,
         "file": "Voice03/03-SA/03-SA-J07/03-SA-J07-0100",
         "layer": 1,
         "persona": "mak",
@@ -116,7 +120,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 13000,
+        "end": 13066,
         "file": "Event03/03-SA/03-SA-J07/03-SA-J07-003",
         "start": 12133
     },
@@ -158,20 +162,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 17000,
+        "end": 17183,
         "file": "Event03/03-SA/03-SA-J07/03-SA-J07-005",
         "start": 15000
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16216,
         "persona": "Нацуми",
         "start": 15000,
         "text": "Тебе наша комната нужна?^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16216,
         "file": "Voice03/03-SA/03-SA-J07/03-SA-J07-0140",
         "layer": 0,
         "persona": "nat",
@@ -179,14 +183,14 @@
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17183,
         "persona": "Отомэ",
         "start": 16216,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17183,
         "file": "Voice03/03-SA/03-SA-J07/03-SA-J07-0150",
         "layer": 0,
         "persona": "oto",
@@ -194,14 +198,14 @@
     },
     {
         "action": "PrintText",
-        "end": 18000,
+        "end": 18083,
         "persona": "Котоноха",
         "start": 17166,
         "text": "Да!^"
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18083,
         "file": "Voice03/03-SA/03-SA-J07/03-SA-J07-0160",
         "layer": 0,
         "persona": "kot",
@@ -209,23 +213,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 20000,
+        "end": 20033,
         "file": "Event03/03-SA/03-SA-J07/03-SA-J07-004",
         "start": 17183
     },
     {
         "action": "PrintText",
-        "end": 19000,
+        "end": 19200,
         "persona": "Нацуми",
         "start": 18083,
         "text": "Так, девочки, идёмте отсюда.^"
     },
     {
         "action": "PlayVoice",
-        "end": 19000,
+        "end": 19200,
         "file": "Voice03/03-SA/03-SA-J07/03-SA-J07-0170",
         "layer": 0,
         "persona": "nat",
         "start": 18083
+    },
+    {
+        "action": "Next",
+        "start": 20033
     }
 ]

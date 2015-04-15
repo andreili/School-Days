@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 14183
+    },
+    {
         "action": "PlayBgm",
-        "end": 14000,
+        "end": 14183,
         "file": "BGM/SD_BGM/sdbgm06",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5333,
         "file": "Event03/03-KA/03-KA-L05/03-KA-L05-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5133,
         "persona": "Макото",
         "start": 166,
         "text": "Нет, наверное, лучше себе голову лишним не забивать.^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5133,
         "file": "Voice03/03-KA/03-KA-L05/03-KA-L05-0030",
         "layer": 1,
         "persona": "xxx",
@@ -28,20 +32,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10333,
         "file": "Event03/03-KA/03-KA-L05/03-KA-L05-002",
         "start": 5333
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10250,
         "persona": "Макото",
         "start": 6083,
         "text": "Лучше пусть всё остается как есть, а то неизвестно, до чего так можно додуматься.^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10250,
         "file": "Voice03/03-KA/03-KA-L05/03-KA-L05-0040",
         "layer": 1,
         "persona": "xxx",
@@ -49,20 +53,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 14000,
+        "end": 14183,
         "file": "Event03/03-KA/03-KA-L05/03-KA-L05-003",
         "start": 10333
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12350,
         "persona": "Макото",
         "start": 11183,
         "text": "Как-то так...^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12350,
         "file": "Voice03/03-KA/03-KA-L05/03-KA-L05-0050",
         "layer": 1,
         "persona": "xxx",
@@ -71,7 +75,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 14000,
+        "end": 14183,
         "start": 13183
+    },
+    {
+        "action": "Next",
+        "start": 14183
     }
 ]

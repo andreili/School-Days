@@ -1,5 +1,9 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 24000
+    },
+    {
         "action": "PlayBgm",
         "end": 24000,
         "file": "BGM/SD_BGM/sdbgm07",
@@ -14,20 +18,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2133,
         "file": "Event03/03-KA/03-KA-D00/03-KA-D00-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2133,
         "persona": "Макото",
         "start": 0,
         "text": "Кокоро нам немного мешала...^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2133,
         "file": "Voice03/03-KA/03-KA-D02/03-KA-D02-0030",
         "layer": 1,
         "persona": "mak",
@@ -35,7 +39,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12266,
         "file": "Event03/03-KA/03-KA-D02/03-KA-D02-002",
         "start": 2133
     },
@@ -48,14 +52,14 @@
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11166,
         "persona": "Котоноха",
         "start": 8000,
         "text": "Тогда мы будем только вдвоём и...^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11166,
         "file": "Voice03/03-KA/03-KA-D02/03-KA-D02-0040",
         "layer": 0,
         "persona": "kot",
@@ -63,14 +67,14 @@
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12266,
         "persona": "Макото",
         "start": 11183,
         "text": "И?^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12266,
         "file": "Voice03/03-KA/03-KA-D02/03-KA-D02-0050",
         "layer": 1,
         "persona": "mak",
@@ -78,20 +82,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 16000,
+        "end": 16233,
         "file": "Event03/03-KA/03-KA-D02/03-KA-D02-003A",
         "start": 12266
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13250,
         "persona": "Котоноха",
         "start": 13000,
         "text": "А...^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13250,
         "file": "Voice03/03-KA/03-KA-D02/03-KA-D02-0060",
         "layer": 0,
         "persona": "kot",
@@ -99,14 +103,14 @@
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16300,
         "persona": "Макото",
         "start": 14033,
         "text": "Может, в следующий раз мы наконец поцелуемся?^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16300,
         "file": "Voice03/03-KA/03-KA-D02/03-KA-D02-0070",
         "layer": 1,
         "persona": "mak",
@@ -114,7 +118,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 17000,
+        "end": 17300,
         "file": "Event03/03-KA/03-KA-D02/03-KA-D02-003B",
         "start": 16233
     },
@@ -126,17 +130,21 @@
     },
     {
         "action": "PrintText",
-        "end": 23000,
+        "end": 23333,
         "persona": "Котоноха",
         "start": 17316,
         "text": "Ну... Я имела в виду...^"
     },
     {
         "action": "PlayVoice",
-        "end": 23000,
+        "end": 23333,
         "file": "Voice03/03-KA/03-KA-D02/03-KA-D02-0080",
         "layer": 0,
         "persona": "kot",
         "start": 17316
+    },
+    {
+        "action": "Next",
+        "start": 24000
     }
 ]

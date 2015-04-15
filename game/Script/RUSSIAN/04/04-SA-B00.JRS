@@ -1,32 +1,36 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 161116
+    },
+    {
         "action": "PlayBgm",
-        "end": 38000,
+        "end": 38150,
         "file": "BGM/SD_BGM/sdbgm20",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1250,
         "file": "Event04/04-SA/04-SA-B00/04-SA-B00-001",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12050,
         "file": "Event04/04-SA/04-SA-B00/04-SA-B00-002",
         "start": 1250
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4316,
         "persona": "Ёко",
         "start": 2100,
         "text": "Ты и сегодня не пойдёшь?^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4316,
         "file": "Voice04/04-SA/04-SA-B00/04-SA-B00-0030",
         "layer": 0,
         "persona": "yko",
@@ -34,14 +38,14 @@
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5233,
         "persona": "Сэкаи",
         "start": 4316,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5233,
         "file": "Voice04/04-SA/04-SA-B00/04-SA-B00-0040",
         "layer": 0,
         "persona": "sek",
@@ -49,14 +53,14 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9166,
         "persona": "Ёко",
         "start": 5266,
         "text": "Столько уже пропустила... Ничего?^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9166,
         "file": "Voice04/04-SA/04-SA-B00/04-SA-B00-0050",
         "layer": 0,
         "persona": "yko",
@@ -64,14 +68,14 @@
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12066,
         "persona": "Сэкаи",
         "start": 9183,
         "text": "Не знаю... Наверное.^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12066,
         "file": "Voice04/04-SA/04-SA-B00/04-SA-B00-0060",
         "layer": 0,
         "persona": "sek",
@@ -79,20 +83,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 17000,
+        "end": 17383,
         "file": "Event04/04-SA/04-SA-B00/04-SA-B00-003",
         "start": 12050
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17200,
         "persona": "Ёко",
         "start": 12183,
         "text": "Ну вот что с тобой делать? Завтра обязательно пойдёшь.^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17200,
         "file": "Voice04/04-SA/04-SA-B00/04-SA-B00-0070",
         "layer": 0,
         "persona": "yko",
@@ -100,14 +104,14 @@
     },
     {
         "action": "PrintText",
-        "end": 18000,
+        "end": 18250,
         "persona": "Сэкаи",
         "start": 17350,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18250,
         "file": "Voice04/04-SA/04-SA-B00/04-SA-B00-0080",
         "layer": 0,
         "persona": "sek",
@@ -115,20 +119,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 23000,
+        "end": 23233,
         "file": "Event04/04-SA/04-SA-B00/04-SA-B00-004",
         "start": 17383
     },
     {
         "action": "PrintText",
-        "end": 22000,
+        "end": 22300,
         "persona": "Ёко",
         "start": 18266,
         "text": "Я уже пойду. Смотри, позавтракай.^"
     },
     {
         "action": "PlayVoice",
-        "end": 22000,
+        "end": 22300,
         "file": "Voice04/04-SA/04-SA-B00/04-SA-B00-0090",
         "layer": 0,
         "persona": "yko",
@@ -136,14 +140,14 @@
     },
     {
         "action": "PrintText",
-        "end": 23000,
+        "end": 23233,
         "persona": "Сэкаи",
         "start": 22316,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 23000,
+        "end": 23233,
         "file": "Voice04/04-SA/04-SA-B00/04-SA-B00-0100",
         "layer": 0,
         "persona": "sek",
@@ -151,20 +155,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 38000,
+        "end": 38150,
         "file": "Event04/04-SA/04-SA-B00/04-SA-B00-005",
         "start": 23233
     },
     {
         "action": "PrintText",
-        "end": 25000,
+        "end": 25183,
         "persona": "Сэкаи",
         "start": 24000,
         "text": "Сэцуна...^"
     },
     {
         "action": "PlayVoice",
-        "end": 25000,
+        "end": 25183,
         "file": "Voice04/04-SA/04-SA-B00/04-SA-B00-0130",
         "layer": 0,
         "persona": "sek",
@@ -172,14 +176,14 @@
     },
     {
         "action": "PrintText",
-        "end": 32000,
+        "end": 32183,
         "persona": "Сэкаи",
         "start": 26183,
         "text": "Без неё... Я совсем одна осталась...^"
     },
     {
         "action": "PlayVoice",
-        "end": 32000,
+        "end": 32183,
         "file": "Voice04/04-SA/04-SA-B00/04-SA-B00-0140",
         "layer": 0,
         "persona": "sek",
@@ -187,14 +191,14 @@
     },
     {
         "action": "PrintText",
-        "end": 36000,
+        "end": 36350,
         "persona": "Сэкаи",
         "start": 33100,
         "text": "Сэцуна...^"
     },
     {
         "action": "PlayVoice",
-        "end": 36000,
+        "end": 36350,
         "file": "Voice04/04-SA/04-SA-B00/04-SA-B00-0150",
         "layer": 0,
         "persona": "sek",
@@ -203,25 +207,25 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 38000,
+        "end": 38150,
         "start": 36150
     },
     {
         "action": "CreateBG",
-        "end": 41000,
+        "end": 41383,
         "file": "Event04/04-SA/04-SA-B00/04-SA-B00-006",
         "start": 38150
     },
     {
         "action": "PrintText",
-        "end": 41000,
+        "end": 41383,
         "persona": "Сэкаи",
         "start": 38166,
         "text": "И сегодня прогуляла...^"
     },
     {
         "action": "PlayVoice",
-        "end": 41000,
+        "end": 41383,
         "file": "Voice04/04-SA/04-SA-B00/04-SA-B00-0190",
         "layer": 0,
         "persona": "sek",
@@ -229,34 +233,34 @@
     },
     {
         "action": "PlaySe",
-        "end": 44000,
+        "end": 44033,
         "file": "SysSe/SE_all/home/door_chime1",
         "layer": 1,
         "start": 41200
     },
     {
         "action": "CreateBG",
-        "end": 47000,
+        "end": 47100,
         "file": "Event04/04-SA/04-SA-B00/04-SA-B00-007",
         "start": 41383
     },
     {
         "action": "PlaySe",
-        "end": 46000,
+        "end": 46033,
         "file": "SysSe/SE_all/home/makoto_door_opn",
         "layer": 2,
         "start": 43100
     },
     {
         "action": "PrintText",
-        "end": 47000,
+        "end": 47200,
         "persona": "Хикари",
         "start": 45383,
         "text": "Привет!^"
     },
     {
         "action": "PlayVoice",
-        "end": 47000,
+        "end": 47200,
         "file": "Voice04/04-SA/04-SA-B00/04-SA-B00-0220",
         "layer": 0,
         "persona": "hik",
@@ -264,32 +268,32 @@
     },
     {
         "action": "CreateBG",
-        "end": 47000,
+        "end": 47283,
         "file": "System/Screen/Black",
         "start": 47100
     },
     {
         "action": "PlayBgm",
-        "end": 161000,
+        "end": 161116,
         "file": "BGM/SD_BGM/sdbgm17",
         "start": 47283
     },
     {
         "action": "CreateBG",
-        "end": 51000,
+        "end": 51066,
         "file": "Event04/04-SA/04-SA-B00/04-SA-B00-009",
         "start": 47283
     },
     {
         "action": "PrintText",
-        "end": 50000,
+        "end": 50183,
         "persona": "Хикари",
         "start": 47300,
         "text": "Вот, гостинцев принесла!^"
     },
     {
         "action": "PlayVoice",
-        "end": 50000,
+        "end": 50183,
         "file": "Voice04/04-SA/04-SA-B00/04-SA-B00-0240",
         "layer": 0,
         "persona": "hik",
@@ -297,14 +301,14 @@
     },
     {
         "action": "PrintText",
-        "end": 52000,
+        "end": 52216,
         "persona": "Сэкаи",
         "start": 50200,
         "text": "С-спасибо...^"
     },
     {
         "action": "PlayVoice",
-        "end": 52000,
+        "end": 52216,
         "file": "Voice04/04-SA/04-SA-B00/04-SA-B00-0250",
         "layer": 0,
         "persona": "sek",
@@ -312,26 +316,26 @@
     },
     {
         "action": "CreateBG",
-        "end": 52000,
+        "end": 52183,
         "file": "Event04/04-SA/04-SA-B00/04-SA-B00-010",
         "start": 51066
     },
     {
         "action": "CreateBG",
-        "end": 71000,
+        "end": 71250,
         "file": "Event04/04-SA/04-SA-B00/04-SA-B00-011",
         "start": 52183
     },
     {
         "action": "PrintText",
-        "end": 61000,
+        "end": 61016,
         "persona": "Хикари",
         "start": 52300,
         "text": "Правда, я их из дому притащила... Каштановый тортик «Осенние Чувства»! Это тебе не какой-нибудь «Монблан».^"
     },
     {
         "action": "PlayVoice",
-        "end": 61000,
+        "end": 61016,
         "file": "Voice04/04-SA/04-SA-B00/04-SA-B00-0260",
         "layer": 0,
         "persona": "hik",
@@ -339,14 +343,14 @@
     },
     {
         "action": "PrintText",
-        "end": 62000,
+        "end": 62100,
         "persona": "Сэкаи",
         "start": 61050,
         "text": "Ты чего это вдруг?^"
     },
     {
         "action": "PlayVoice",
-        "end": 62000,
+        "end": 62100,
         "file": "Voice04/04-SA/04-SA-B00/04-SA-B00-0280",
         "layer": 0,
         "persona": "sek",
@@ -354,14 +358,14 @@
     },
     {
         "action": "PrintText",
-        "end": 70000,
+        "end": 70283,
         "persona": "Хикари",
         "start": 62100,
         "text": "М... Хотела с тобой кое-что обсудить. А я ведь к тебе впервые в гости пришла...^"
     },
     {
         "action": "PlayVoice",
-        "end": 70000,
+        "end": 70283,
         "file": "Voice04/04-SA/04-SA-B00/04-SA-B00-0290",
         "layer": 0,
         "persona": "hik",
@@ -369,14 +373,14 @@
     },
     {
         "action": "PrintText",
-        "end": 71000,
+        "end": 71250,
         "persona": "Сэкаи",
         "start": 70266,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 71000,
+        "end": 71250,
         "file": "Voice04/04-SA/04-SA-B00/04-SA-B00-0300",
         "layer": 0,
         "persona": "sek",
@@ -384,20 +388,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 81000,
+        "end": 81050,
         "file": "Event04/04-SA/04-SA-B00/04-SA-B00-011B",
         "start": 71250
     },
     {
         "action": "PrintText",
-        "end": 74000,
+        "end": 74166,
         "persona": "Хикари",
         "start": 71350,
         "text": "А ты вот у меня уже была несколько раз.^"
     },
     {
         "action": "PlayVoice",
-        "end": 74000,
+        "end": 74166,
         "file": "Voice04/04-SA/04-SA-B00/04-SA-B00-0310",
         "layer": 0,
         "persona": "hik",
@@ -405,14 +409,14 @@
     },
     {
         "action": "PrintText",
-        "end": 81000,
+        "end": 81016,
         "persona": "Хикари",
         "start": 74166,
         "text": "Нанами ж наши тортики обожает! Частенько всей гурьбой забегают.^"
     },
     {
         "action": "PlayVoice",
-        "end": 81000,
+        "end": 81016,
         "file": "Voice04/04-SA/04-SA-B00/04-SA-B00-0311",
         "layer": 0,
         "persona": "hik",
@@ -420,20 +424,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 83000,
+        "end": 83250,
         "file": "Event04/04-SA/04-SA-B00/04-SA-B00-011C",
         "start": 81050
     },
     {
         "action": "PrintText",
-        "end": 83000,
+        "end": 83316,
         "persona": "Сэкаи",
         "start": 81133,
         "text": "Да...^"
     },
     {
         "action": "PlayVoice",
-        "end": 83000,
+        "end": 83316,
         "file": "Voice04/04-SA/04-SA-B00/04-SA-B00-0320",
         "layer": 0,
         "persona": "sek",
@@ -441,20 +445,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 94000,
+        "end": 94033,
         "file": "Event04/04-SA/04-SA-B00/04-SA-B00-011D",
         "start": 83250
     },
     {
         "action": "PrintText",
-        "end": 94000,
+        "end": 94033,
         "persona": "Хикари",
         "start": 84016,
         "text": "Я зря зашла?.. Ты в школу не ходишь, ну я и... Просто, Сэцуна...^"
     },
     {
         "action": "PlayVoice",
-        "end": 94000,
+        "end": 94033,
         "file": "Voice04/04-SA/04-SA-B00/04-SA-B00-0330",
         "layer": 0,
         "persona": "hik",
@@ -462,20 +466,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 97000,
+        "end": 97350,
         "file": "Event04/04-SA/04-SA-B00/04-SA-B00-011E",
         "start": 94033
     },
     {
         "action": "PrintText",
-        "end": 97000,
+        "end": 97350,
         "persona": "Сэкаи",
         "start": 94166,
         "text": "Сэцуна?.. Она что-то тебе сказала?^"
     },
     {
         "action": "PlayVoice",
-        "end": 97000,
+        "end": 97350,
         "file": "Voice04/04-SA/04-SA-B00/04-SA-B00-0340",
         "layer": 0,
         "persona": "sek",
@@ -483,20 +487,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 115000,
+        "end": 115216,
         "file": "Event04/04-SA/04-SA-B00/04-SA-B00-012",
         "start": 97350
     },
     {
         "action": "PrintText",
-        "end": 102000,
+        "end": 102300,
         "persona": "Хикари",
         "start": 98066,
         "text": "Я с ней пыталась посоветоваться, когда она ещё здесь была, но она отправила к тебе...^"
     },
     {
         "action": "PlayVoice",
-        "end": 102000,
+        "end": 102300,
         "file": "Voice04/04-SA/04-SA-B00/04-SA-B00-0350",
         "layer": 0,
         "persona": "hik",
@@ -504,14 +508,14 @@
     },
     {
         "action": "PrintText",
-        "end": 104000,
+        "end": 104050,
         "persona": "Сэкаи",
         "start": 102300,
         "text": "Сэцуна?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 104000,
+        "end": 104050,
         "file": "Voice04/04-SA/04-SA-B00/04-SA-B00-0360",
         "layer": 0,
         "persona": "sek",
@@ -519,14 +523,14 @@
     },
     {
         "action": "PrintText",
-        "end": 111000,
+        "end": 111066,
         "persona": "Хикари",
         "start": 104066,
         "text": "Телефон у тебя выключен... Да и, я так понимаю, на звонки ты отвечать всё равно не в настроении...^"
     },
     {
         "action": "PlayVoice",
-        "end": 111000,
+        "end": 111066,
         "file": "Voice04/04-SA/04-SA-B00/04-SA-B00-0370",
         "layer": 0,
         "persona": "hik",
@@ -534,14 +538,14 @@
     },
     {
         "action": "PrintText",
-        "end": 111000,
+        "end": 111366,
         "persona": "Сэкаи",
         "start": 111066,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 111000,
+        "end": 111366,
         "file": "Voice04/04-SA/04-SA-B00/04-SA-B00-0380",
         "layer": 0,
         "persona": "sek",
@@ -549,14 +553,14 @@
     },
     {
         "action": "PrintText",
-        "end": 115000,
+        "end": 115233,
         "persona": "Хикари",
         "start": 111383,
         "text": "Так-то я могу и подождать, пока ты в школу вернёшься...^"
     },
     {
         "action": "PlayVoice",
-        "end": 115000,
+        "end": 115233,
         "file": "Voice04/04-SA/04-SA-B00/04-SA-B00-0390",
         "layer": 0,
         "persona": "hik",
@@ -564,20 +568,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 126000,
+        "end": 126316,
         "file": "Event04/04-SA/04-SA-B00/04-SA-B00-013",
         "start": 115216
     },
     {
         "action": "PrintText",
-        "end": 117000,
+        "end": 117050,
         "persona": "Сэкаи",
         "start": 115316,
         "text": "Да нет.^"
     },
     {
         "action": "PlayVoice",
-        "end": 117000,
+        "end": 117050,
         "file": "Voice04/04-SA/04-SA-B00/04-SA-B00-0400",
         "layer": 0,
         "persona": "sek",
@@ -585,14 +589,14 @@
     },
     {
         "action": "PrintText",
-        "end": 126000,
+        "end": 126183,
         "persona": "Сэкаи",
         "start": 117050,
         "text": "Мне мама уже все уши прожужжала, чтобы я на занятия шла. Да и пропускать уже больше нельзя, как раз завтра выходить собиралась....^"
     },
     {
         "action": "PlayVoice",
-        "end": 126000,
+        "end": 126183,
         "file": "Voice04/04-SA/04-SA-B00/04-SA-B00-0401",
         "layer": 0,
         "persona": "sek",
@@ -600,14 +604,14 @@
     },
     {
         "action": "PrintText",
-        "end": 134000,
+        "end": 134233,
         "persona": "Хикари",
         "start": 126300,
         "text": "Вот как?.. Да! Правильно! Надо ходить! Все за тебя переживают!^"
     },
     {
         "action": "PlayVoice",
-        "end": 134000,
+        "end": 134233,
         "file": "Voice04/04-SA/04-SA-B00/04-SA-B00-0410",
         "layer": 0,
         "persona": "hik",
@@ -615,20 +619,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 144000,
+        "end": 144033,
         "file": "Event04/04-SA/04-SA-B00/04-SA-B00-014",
         "start": 126316
     },
     {
         "action": "PrintText",
-        "end": 137000,
+        "end": 137333,
         "persona": "Сэкаи",
         "start": 134250,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 137000,
+        "end": 137333,
         "file": "Voice04/04-SA/04-SA-B00/04-SA-B00-0420",
         "layer": 0,
         "persona": "sek",
@@ -636,14 +640,14 @@
     },
     {
         "action": "PrintText",
-        "end": 144000,
+        "end": 144033,
         "persona": "Хикари",
         "start": 137333,
         "text": "Можно спросить, чего ты так дома засела?.. Впрочем, догадываюсь...^"
     },
     {
         "action": "PlayVoice",
-        "end": 144000,
+        "end": 144033,
         "file": "Voice04/04-SA/04-SA-B00/04-SA-B00-0430",
         "layer": 0,
         "persona": "hik",
@@ -651,20 +655,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 147000,
+        "end": 147316,
         "file": "Event04/04-SA/04-SA-B00/04-SA-B00-015",
         "start": 144033
     },
     {
         "action": "PrintText",
-        "end": 147000,
+        "end": 147316,
         "persona": "Сэкаи",
         "start": 144133,
         "text": "Именно из-за этого, да.^"
     },
     {
         "action": "PlayVoice",
-        "end": 147000,
+        "end": 147316,
         "file": "Voice04/04-SA/04-SA-B00/04-SA-B00-0440",
         "layer": 0,
         "persona": "sek",
@@ -672,20 +676,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 155000,
+        "end": 155383,
         "file": "Event04/04-SA/04-SA-B00/04-SA-B00-016",
         "start": 147316
     },
     {
         "action": "PrintText",
-        "end": 155000,
+        "end": 155050,
         "persona": "Хикари",
         "start": 148033,
         "text": "Ну, ты всегда за Сэцуну цеплялась... Она пусть и мелкая, но крайне надёжная.^"
     },
     {
         "action": "PlayVoice",
-        "end": 155000,
+        "end": 155050,
         "file": "Voice04/04-SA/04-SA-B00/04-SA-B00-0460",
         "layer": 0,
         "persona": "hik",
@@ -693,14 +697,14 @@
     },
     {
         "action": "PrintText",
-        "end": 155000,
+        "end": 155366,
         "persona": "Сэкаи",
         "start": 155133,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 155000,
+        "end": 155366,
         "file": "Voice04/04-SA/04-SA-B00/04-SA-B00-0470",
         "layer": 0,
         "persona": "sek",
@@ -708,20 +712,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 161000,
+        "end": 161116,
         "file": "Event04/04-SA/04-SA-B00/04-SA-B00-012",
         "start": 155383
     },
     {
         "action": "PrintText",
-        "end": 160000,
+        "end": 160116,
         "persona": "Хикари",
         "start": 156283,
         "text": "Так вот... Чего я пришла-то...^"
     },
     {
         "action": "PlayVoice",
-        "end": 160000,
+        "end": 160116,
         "file": "Voice04/04-SA/04-SA-B00/04-SA-B00-0480",
         "layer": 0,
         "persona": "hik",
@@ -730,7 +734,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 161000,
+        "end": 161116,
         "start": 160116
+    },
+    {
+        "action": "Next",
+        "start": 161116
     }
 ]

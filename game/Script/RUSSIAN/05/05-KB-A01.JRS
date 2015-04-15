@@ -1,40 +1,44 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 18183
+    },
+    {
         "action": "PlayBgm",
-        "end": 18000,
+        "end": 18183,
         "file": "BGM/SD_BGM/sdbgm20",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 2000,
+        "end": 2316,
         "file": "SysSe/SE_all/keitai/hanasityuu",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8083,
         "file": "Event05/05-KB/05-KB-A01/05-KB-A01-002",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 3000,
+        "end": 3133,
         "file": "SysSe/SE_all/keitai/mailedit",
         "layer": 3,
         "start": 2316
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4266,
         "persona": "Котоноха",
         "start": 3033,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4266,
         "file": "Voice05/05-KB/05-KB-A01/05-KB-A01-0050",
         "layer": 0,
         "persona": "xxx",
@@ -42,56 +46,60 @@
     },
     {
         "action": "PlaySe",
-        "end": 6000,
+        "end": 6200,
         "file": "SysSe/SE_all/keitai/mailedit",
         "layer": 4,
         "start": 4200
     },
     {
         "action": "PlayMovie",
-        "end": 11000,
+        "end": 11383,
         "file": "Movie05/05-KB/05-KB-A01/05-KB-A01-003",
         "start": 8083
     },
     {
         "action": "PlaySe",
-        "end": 11000,
+        "end": 11233,
         "file": "SysSe/SE_all/keitai/hanasityuu",
         "layer": 2,
         "start": 8266
     },
     {
         "action": "PlaySe",
-        "end": 11000,
+        "end": 11383,
         "file": "SysSe/SE_all/keitai/mailedit",
         "layer": 5,
         "start": 11233
     },
     {
         "action": "CreateBG",
-        "end": 13000,
+        "end": 13283,
         "file": "Event05/05-KB/05-KB-A01/05-KB-A01-004",
         "start": 11383
     },
     {
         "action": "CreateBG",
-        "end": 18000,
+        "end": 18183,
         "file": "Event05/05-KB/05-KB-A01/05-KB-A01-007",
         "start": 13283
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17216,
         "persona": "Котоноха",
         "start": 13383,
         "text": "По телефону что ли с кем-то разговаривает?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17216,
         "file": "Voice05/05-KB/05-KB-A01/05-KB-A01-0090",
         "layer": 0,
         "persona": "kot",
         "start": 13383
+    },
+    {
+        "action": "Next",
+        "start": 18183
     }
 ]

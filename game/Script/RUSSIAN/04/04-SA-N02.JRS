@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 9383
+    },
+    {
         "action": "PlayBgm",
-        "end": 9000,
+        "end": 9383,
         "file": "BGM/SD_BGM/sdbgm14",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5066,
         "file": "Event04/04-SA/04-SA-N02/04-SA-N02-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5050,
         "persona": "Макото",
         "start": 0,
         "text": "Ну, блин!.. Тоже мне, затея! Всё на меня спихнула!^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5050,
         "file": "Voice04/04-SA/04-SA-N02/04-SA-N02-0030",
         "layer": 1,
         "persona": "mak",
@@ -28,20 +32,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6033,
         "file": "Event04/04-SA/04-SA-N02/04-SA-N02-002",
         "start": 5066
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6033,
         "persona": "Таисукэ",
         "start": 5066,
         "text": "Что такое?^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6033,
         "file": "Voice04/04-SA/04-SA-N02/04-SA-N02-0040",
         "layer": 1,
         "persona": "tai",
@@ -49,20 +53,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9383,
         "file": "Event04/04-SA/04-SA-N02/04-SA-N02-003",
         "start": 6033
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8333,
         "persona": "Макото",
         "start": 6033,
         "text": "Ничего. Пойдёмте.^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8333,
         "file": "Voice04/04-SA/04-SA-N02/04-SA-N02-0050",
         "layer": 1,
         "persona": "mak",
@@ -70,17 +74,21 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9216,
         "persona": "Таисукэ",
         "start": 8333,
         "text": "Ага.^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9216,
         "file": "Voice04/04-SA/04-SA-N02/04-SA-N02-0060",
         "layer": 1,
         "persona": "tai",
         "start": 8333
+    },
+    {
+        "action": "Next",
+        "start": 9383
     }
 ]

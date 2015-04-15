@@ -1,20 +1,24 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 10350
+    },
+    {
         "action": "PlayBgm",
-        "end": 10000,
+        "end": 10350,
         "file": "BGM/SD_BGM/sdbgm03",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 10000,
+        "end": 10333,
         "file": "Se03/03-KA/03-KA-L00/SE03-KA-L00-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1383,
         "file": "Event03/03-KA/03-KA-L00/03-KA-L00-001",
         "start": 0
     },
@@ -35,14 +39,14 @@
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1300,
         "persona": "Сэцуна",
         "start": 1066,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1300,
         "file": "Voice03/03-KA/03-KA-L00/03-KA-L00-0040",
         "layer": 0,
         "persona": "set",
@@ -50,20 +54,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8033,
         "file": "Event03/03-KA/03-KA-L00/03-KA-L00-002",
         "start": 1383
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7366,
         "persona": "Макото",
         "start": 1383,
         "text": "Тогда давай тут поедим. Ты ведь тоже обед принесла?^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7366,
         "file": "Voice03/03-KA/03-KA-L00/03-KA-L00-0050",
         "layer": 1,
         "persona": "mak",
@@ -71,20 +75,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10350,
         "file": "Event03/03-KA/03-KA-L00/03-KA-L00-003",
         "start": 8033
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9133,
         "persona": "Сэцуна",
         "start": 8266,
         "text": "Угу...^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9133,
         "file": "Voice03/03-KA/03-KA-L00/03-KA-L00-0060",
         "layer": 0,
         "persona": "set",
@@ -93,7 +97,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 10000,
+        "end": 10350,
         "start": 9350
+    },
+    {
+        "action": "Next",
+        "start": 10350
     }
 ]

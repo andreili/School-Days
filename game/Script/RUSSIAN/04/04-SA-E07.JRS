@@ -1,27 +1,31 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 20016
+    },
+    {
         "action": "PlaySe",
-        "end": 20000,
+        "end": 20016,
         "file": "SysSe/SE_all/gaya/kyousitu_rouka",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1100,
         "file": "Event04/04-SA/04-SA-E07/04-SA-E07-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1116,
         "persona": "Макото",
         "start": 166,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1116,
         "file": "Voice04/04-SA/04-SA-E07/04-SA-E07-0030",
         "layer": 1,
         "persona": "xxx",
@@ -29,20 +33,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7366,
         "file": "Event04/04-SA/04-SA-E07/04-SA-E07-002",
         "start": 1100
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5066,
         "persona": "Сэкаи",
         "start": 1233,
         "text": "Прости... Не стоит мне, наверное, не в своё дело лезть...^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5066,
         "file": "Voice04/04-SA/04-SA-E07/04-SA-E07-0040",
         "layer": 0,
         "persona": "sek",
@@ -50,14 +54,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6266,
         "persona": "Макото",
         "start": 5066,
         "text": "Не в этом дело...^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6266,
         "file": "Voice04/04-SA/04-SA-E07/04-SA-E07-0050",
         "layer": 1,
         "persona": "mak",
@@ -80,20 +84,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 16000,
+        "end": 16366,
         "file": "Event04/04-SA/04-SA-E07/04-SA-E07-003",
         "start": 7366
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17033,
         "persona": "Макото",
         "start": 8100,
         "text": "Ну... Если не вдаваться в подробности, то я к ней немного поприставал... А она обиделась...^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17033,
         "file": "Voice04/04-SA/04-SA-E07/04-SA-E07-0070",
         "layer": 1,
         "persona": "mak",
@@ -101,23 +105,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 20000,
+        "end": 20016,
         "file": "Event04/04-SA/04-SA-E07/04-SA-E07-004",
         "start": 16366
     },
     {
         "action": "PrintText",
-        "end": 18000,
+        "end": 18283,
         "persona": "Сэкаи",
         "start": 17100,
         "text": "Понятно.^"
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18283,
         "file": "Voice04/04-SA/04-SA-E07/04-SA-E07-0080",
         "layer": 0,
         "persona": "sek",
         "start": 17100
+    },
+    {
+        "action": "Next",
+        "start": 20016
     }
 ]

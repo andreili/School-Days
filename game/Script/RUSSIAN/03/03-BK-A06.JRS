@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 13116
+    },
+    {
         "action": "PlayBgm",
-        "end": 13000,
+        "end": 13116,
         "file": "BGM/SD_BGM/sdbgm20",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 13000,
+        "end": 13116,
         "file": "Event03/03-BK/03-BK-A06/03-BK-A06-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3083,
         "persona": "Макото",
         "start": 0,
         "text": "Девчонки... Что с ними теперь будет...^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3083,
         "file": "Voice03/03-BK/03-BK-A06/03-BK-A06-0030",
         "layer": 1,
         "persona": "mak",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8350,
         "persona": "Макото",
         "start": 3300,
         "text": "Я и с Сэкаи целовался, и с Котонохой...^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8350,
         "file": "Voice03/03-BK/03-BK-A06/03-BK-A06-0040",
         "layer": 1,
         "persona": "mak",
@@ -43,14 +47,14 @@
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11150,
         "persona": "Макото",
         "start": 9166,
         "text": "Что я наделал...^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11150,
         "file": "Voice03/03-BK/03-BK-A06/03-BK-A06-0050",
         "layer": 1,
         "persona": "mak",
@@ -70,5 +74,9 @@
         "layer": 1,
         "persona": "mak",
         "start": 11366
+    },
+    {
+        "action": "Next",
+        "start": 13116
     }
 ]

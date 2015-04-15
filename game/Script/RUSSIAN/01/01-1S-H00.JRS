@@ -1,44 +1,48 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 23216
+    },
+    {
         "action": "PlayBgm",
-        "end": 23000,
+        "end": 23216,
         "file": "BGM/SD_BGM/sdbgm28",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3300,
         "file": "Event01/01-1K/01-1K-C00/01-1K-C00-001",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6233,
         "file": "Event01/01-00/01-00-N05/01-00-N05-001",
         "start": 3300
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10366,
         "file": "Event01/01-1S/01-1S-H00/01-1S-H00-003",
         "start": 6233
     },
     {
         "action": "CreateBG",
-        "end": 15000,
+        "end": 15050,
         "file": "Event01/01-1S/01-1S-H00/01-1S-H00-004",
         "start": 10366
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14200,
         "persona": "Макото",
         "start": 11050,
         "text": "Да я её только за руку хотел взять...^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14200,
         "file": "Voice01/01-1S/01-1S-H00/01-1S-H00-0070",
         "layer": 1,
         "persona": "mak",
@@ -46,33 +50,33 @@
     },
     {
         "action": "CreateBG",
-        "end": 19000,
+        "end": 19016,
         "file": "Event01/01-00/01-00-N00/01-00-N00-001",
         "start": 15050
     },
     {
         "action": "PlaySe",
-        "end": 17000,
+        "end": 17266,
         "file": "Voice01/01-1S/01-1S-H00/01-1S-H00-0080",
         "layer": 1,
         "start": 16066
     },
     {
         "action": "CreateBG",
-        "end": 23000,
+        "end": 23216,
         "file": "Event01/01-00/01-00-N00/01-00-N00-002",
         "start": 19016
     },
     {
         "action": "PrintText",
-        "end": 21000,
+        "end": 21116,
         "persona": "Макото",
         "start": 19266,
         "text": "Чёрт...^"
     },
     {
         "action": "PlayVoice",
-        "end": 21000,
+        "end": 21116,
         "file": "Voice01/01-1S/01-1S-H00/01-1S-H00-0090",
         "layer": 1,
         "persona": "mak",
@@ -81,7 +85,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 23000,
+        "end": 23216,
         "start": 22216
+    },
+    {
+        "action": "Next",
+        "start": 23216
     }
 ]

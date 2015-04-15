@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 30100
+    },
+    {
         "action": "PlayBgm",
-        "end": 30000,
+        "end": 30100,
         "file": "BGM/SD_BGM/sdbgm06",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3033,
         "file": "Event03/03-KA/03-KA-L08/03-KA-L08-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1066,
         "persona": "Макото",
         "start": 100,
         "text": "Скорее бы...^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1066,
         "file": "Voice03/03-KA/03-KA-L08/03-KA-L08-0030",
         "layer": 1,
         "persona": "xxx",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2150,
         "persona": "Макото",
         "start": 1366,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2150,
         "file": "Voice03/03-KA/03-KA-L08/03-KA-L08-0040",
         "layer": 1,
         "persona": "xxx",
@@ -44,31 +48,31 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 3000,
+        "end": 3033,
         "start": 2333
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6150,
         "file": "Event03/03-KA/03-KA-L08/03-KA-L08-002",
         "start": 3033
     },
     {
         "action": "BlackFade",
         "dir": "IN",
-        "end": 3000,
+        "end": 3133,
         "start": 3033
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5333,
         "persona": "Макото",
         "start": 3166,
         "text": "Прижать Котоноху к себе, почувствовать её мягкое, нежное тело.^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5333,
         "file": "Voice03/03-KA/03-KA-L08/03-KA-L08-0050",
         "layer": 1,
         "persona": "xxx",
@@ -77,31 +81,31 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 6000,
+        "end": 6150,
         "start": 6050
     },
     {
         "action": "CreateBG",
-        "end": 14000,
+        "end": 14133,
         "file": "Event03/03-KA/03-KA-L08/03-KA-L08-003",
         "start": 6150
     },
     {
         "action": "BlackFade",
         "dir": "IN",
-        "end": 6000,
+        "end": 6250,
         "start": 6150
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13300,
         "persona": "Макото",
         "start": 6283,
         "text": "Чтобы от эмоций все было как в тумане.^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13300,
         "file": "Voice03/03-KA/03-KA-L08/03-KA-L08-0060",
         "layer": 1,
         "persona": "xxx",
@@ -109,20 +113,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 21000,
+        "end": 21366,
         "file": "Event03/03-KA/03-KA-L08/03-KA-L08-004",
         "start": 14133
     },
     {
         "action": "PrintText",
-        "end": 21000,
+        "end": 21083,
         "persona": "Макото",
         "start": 14366,
         "text": "Наверное, сейчас не стоит слишком глубоко копаться в себе.^"
     },
     {
         "action": "PlayVoice",
-        "end": 21000,
+        "end": 21083,
         "file": "Voice03/03-KA/03-KA-L08/03-KA-L08-0070",
         "layer": 1,
         "persona": "xxx",
@@ -130,20 +134,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 30000,
+        "end": 30100,
         "file": "Event03/03-KA/03-KA-L08/03-KA-L08-001",
         "start": 21366
     },
     {
         "action": "PrintText",
-        "end": 28000,
+        "end": 28150,
         "persona": "Макото",
         "start": 22266,
         "text": "Пусть пока всё будет как есть...^"
     },
     {
         "action": "PlayVoice",
-        "end": 28000,
+        "end": 28150,
         "file": "Voice03/03-KA/03-KA-L08/03-KA-L08-0080",
         "layer": 1,
         "persona": "xxx",
@@ -152,7 +156,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 30000,
+        "end": 30100,
         "start": 29100
+    },
+    {
+        "action": "Next",
+        "start": 30100
     }
 ]

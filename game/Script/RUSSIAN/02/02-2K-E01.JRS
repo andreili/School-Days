@@ -1,20 +1,24 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 34100
+    },
+    {
         "action": "PlayBgm",
-        "end": 34000,
+        "end": 34100,
         "file": "BGM/SD_BGM/sdbgm03",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 34000,
+        "end": 34100,
         "file": "Se02/02-2K/02-2K-E01/SE02-2K-E01-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 18000,
+        "end": 18166,
         "file": "SysSe/SE_all/school/chime",
         "layer": 2,
         "start": 0
@@ -27,20 +31,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12316,
         "file": "Event02/02-2K/02-2K-E01/02-2K-E01-002",
         "start": 10000
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11050,
         "persona": "Макото",
         "start": 10116,
         "text": "Так, ладно...^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11050,
         "file": "Voice02/02-2K/02-2K-E01/02-2K-E01-0040",
         "layer": 1,
         "persona": "mak",
@@ -48,20 +52,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 15000,
+        "end": 15016,
         "file": "Event02/02-2K/02-2K-E01/02-2K-E01-003",
         "start": 12316
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13200,
         "persona": "Сэкаи",
         "start": 12316,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13200,
         "file": "Voice02/02-2K/02-2K-E01/02-2K-E01-0070",
         "layer": 0,
         "persona": "xxx",
@@ -69,14 +73,14 @@
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15033,
         "persona": "Сэцуна",
         "start": 14050,
         "text": "Сэкаи?^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15033,
         "file": "Voice02/02-2K/02-2K-E01/02-2K-E01-0080",
         "layer": 0,
         "persona": "set",
@@ -84,20 +88,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 19000,
+        "end": 19133,
         "file": "Event02/02-2K/02-2K-E01/02-2K-E01-004",
         "start": 15016
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15266,
         "persona": "Сэкаи",
         "start": 15016,
         "text": "Да?^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15266,
         "file": "Voice02/02-2K/02-2K-E01/02-2K-E01-0090",
         "layer": 0,
         "persona": "sek",
@@ -105,14 +109,14 @@
     },
     {
         "action": "PrintText",
-        "end": 18000,
+        "end": 18116,
         "persona": "Сэцуна",
         "start": 15333,
         "text": "Пошли сегодня с нами обедать?^"
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18116,
         "file": "Voice02/02-2K/02-2K-E01/02-2K-E01-0100",
         "layer": 0,
         "persona": "set",
@@ -120,14 +124,14 @@
     },
     {
         "action": "PrintText",
-        "end": 20000,
+        "end": 20150,
         "persona": "Сэкаи",
         "start": 18250,
         "text": "Нет, я...^"
     },
     {
         "action": "PlayVoice",
-        "end": 20000,
+        "end": 20150,
         "file": "Voice02/02-2K/02-2K-E01/02-2K-E01-0110",
         "layer": 0,
         "persona": "sek",
@@ -135,26 +139,26 @@
     },
     {
         "action": "CreateBG",
-        "end": 21000,
+        "end": 21150,
         "file": "Event02/02-2K/02-2K-E01/02-2K-E01-005",
         "start": 19116
     },
     {
         "action": "CreateBG",
-        "end": 25000,
+        "end": 25300,
         "file": "Event02/02-2K/02-2K-E01/02-2K-E01-006",
         "start": 21150
     },
     {
         "action": "PrintText",
-        "end": 24000,
+        "end": 24116,
         "persona": "Сэкаи",
         "start": 21250,
         "text": "А хотя, да, давай. Куда пойдём?^"
     },
     {
         "action": "PlayVoice",
-        "end": 24000,
+        "end": 24116,
         "file": "Voice02/02-2K/02-2K-E01/02-2K-E01-0140",
         "layer": 0,
         "persona": "sek",
@@ -177,14 +181,14 @@
     },
     {
         "action": "PrintText",
-        "end": 29000,
+        "end": 29283,
         "persona": "Нанами",
         "start": 25200,
         "text": "Сэкаи, сегодня погода хорошая, пошли на улицу.^"
     },
     {
         "action": "PlayVoice",
-        "end": 29000,
+        "end": 29283,
         "file": "Voice02/02-2K/02-2K-E01/02-2K-E01-0160",
         "layer": 0,
         "persona": "nan",
@@ -192,20 +196,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 31000,
+        "end": 31216,
         "file": "Event02/02-2K/02-2K-E01/02-2K-E01-007",
         "start": 25300
     },
     {
         "action": "PrintText",
-        "end": 31000,
+        "end": 31250,
         "persona": "Сэкаи",
         "start": 29166,
         "text": "Да, давай.^"
     },
     {
         "action": "PlayVoice",
-        "end": 31000,
+        "end": 31250,
         "file": "Voice02/02-2K/02-2K-E01/02-2K-E01-0170",
         "layer": 0,
         "persona": "sek",
@@ -213,20 +217,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 34000,
+        "end": 34100,
         "file": "Event02/02-2K/02-2K-E01/02-2K-E01-004",
         "start": 31216
     },
     {
         "action": "PrintText",
-        "end": 33000,
+        "end": 33100,
         "persona": "Хикари",
         "start": 31216,
         "text": "Идём скорее!^"
     },
     {
         "action": "PlayVoice",
-        "end": 33000,
+        "end": 33100,
         "file": "Voice02/02-2K/02-2K-E01/02-2K-E01-0180",
         "layer": 0,
         "persona": "hik",
@@ -235,7 +239,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 34000,
+        "end": 34100,
         "start": 33100
+    },
+    {
+        "action": "Next",
+        "start": 34100
     }
 ]

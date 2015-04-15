@@ -1,7 +1,11 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 26350
+    },
+    {
         "action": "PlayBgm",
-        "end": 32000,
+        "end": 32366,
         "file": "BGM/SD_BGM/sdbgm33",
         "start": 0
     },
@@ -19,20 +23,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8166,
         "file": "Event03/03-KA/03-KA-F00/03-KA-F00-005",
         "start": 5000
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7350,
         "persona": "Макото",
         "start": 6283,
         "text": "Хех...^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7350,
         "file": "Voice03/03-KA/03-KA-F00/03-KA-F00-0040",
         "layer": 1,
         "persona": "mak",
@@ -40,20 +44,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 14000,
+        "end": 14183,
         "file": "Event03/03-KA/03-KA-F00/03-KA-F00-009",
         "start": 8166
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14033,
         "persona": "Макото",
         "start": 9016,
         "text": "Поцелуй в щёку...^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14033,
         "file": "Voice03/03-KA/03-KA-F00/03-KA-F00-0050",
         "layer": 1,
         "persona": "mak",
@@ -61,53 +65,53 @@
     },
     {
         "action": "PlayMovie",
-        "end": 16000,
+        "end": 16050,
         "file": "Movie03/03-KA/03-KA-F00/03-KA-F00-006",
         "start": 14183
     },
     {
         "action": "PlaySe",
-        "end": 15000,
+        "end": 15216,
         "file": "SysSe/SE_all/keitai/mail_Макото",
         "layer": 1,
         "start": 14283
     },
     {
         "action": "PlayMovie",
-        "end": 17000,
+        "end": 17216,
         "file": "Movie03/03-KA/03-KA-F00/03-KA-F00-007",
         "start": 16050
     },
     {
         "action": "PlaySe",
-        "end": 16000,
+        "end": 16350,
         "file": "Se03/03-KA/03-KA-F00/SE03-KA-F00-001",
         "layer": 1,
         "start": 16216
     },
     {
         "action": "PlaySe",
-        "end": 17000,
+        "end": 17216,
         "file": "SysSe/SE_all/keitai/keitai_sousa",
         "layer": 1,
         "start": 17183
     },
     {
         "action": "PlayMovie",
-        "end": 21000,
+        "end": 21383,
         "file": "Movie03/03-KA/03-KA-F00/03-KA-F00-008",
         "start": 17216
     },
     {
         "action": "PrintText",
-        "end": 21000,
+        "end": 21100,
         "persona": "Макото",
         "start": 20100,
         "text": "Хех...^"
     },
     {
         "action": "PlayVoice",
-        "end": 21000,
+        "end": 21100,
         "file": "Voice03/03-KA/03-KA-F00/03-KA-F00-0080",
         "layer": 1,
         "persona": "mak",
@@ -115,20 +119,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 25000,
+        "end": 25033,
         "file": "Event03/03-KA/03-KA-F00/03-KA-F00-003",
         "start": 21383
     },
     {
         "action": "PrintText",
-        "end": 24000,
+        "end": 24366,
         "persona": "Макото",
         "start": 22000,
         "text": "Наверное, стоит ей ответить.^"
     },
     {
         "action": "PlayVoice",
-        "end": 24000,
+        "end": 24366,
         "file": "Voice03/03-KA/03-KA-F00/03-KA-F00-0090",
         "layer": 1,
         "persona": "mak",
@@ -136,20 +140,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 32000,
+        "end": 32366,
         "file": "Event03/03-KA/03-KA-F00/03-KA-F00-002",
         "start": 25033
     },
     {
         "action": "PrintText",
-        "end": 27000,
+        "end": 27250,
         "persona": "Макото",
         "start": 25166,
         "text": "Хм...^"
     },
     {
         "action": "PlayVoice",
-        "end": 27000,
+        "end": 27250,
         "file": "Voice03/03-KA/03-KA-F00/03-KA-F00-0100",
         "layer": 1,
         "persona": "mak",
@@ -159,7 +163,11 @@
         "action": "SetSELECT",
         "answer1": "Сладких снов.^",
         "answer2": "Я хочу, чтобы наши отношения развивались.^",
-        "end": 31000,
+        "end": 31350,
         "start": 26350
+    },
+    {
+        "action": "Next",
+        "start": 32366
     }
 ]

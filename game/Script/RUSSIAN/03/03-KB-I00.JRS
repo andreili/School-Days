@@ -1,40 +1,44 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 20050
+    },
+    {
         "action": "PlayBgm",
-        "end": 20000,
+        "end": 20050,
         "file": "BGM/SD_BGM/sdbgm16",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 20000,
+        "end": 20050,
         "file": "Se03/03-KB/03-KB-I00/SE03-KB-I00-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7366,
         "file": "Event03/03-KB/03-KB-I00/03-KB-I00-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9300,
         "persona": "Сэцуна",
         "start": 4300,
         "text": "Приготовления в целом закончены...^"
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14300,
         "persona": "Сэцуна",
         "start": 9300,
         "text": "Когда будете уходить, обязательно дождитесь вашего сменщика.^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14300,
         "file": "Voice03/03-KB/03-KB-I00/03-KB-I00-0050",
         "layer": 0,
         "persona": "set",
@@ -42,20 +46,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 17000,
+        "end": 17250,
         "file": "Event03/03-KB/03-KB-I00/03-KB-I00-002",
         "start": 7366
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17233,
         "persona": "Сэцуна",
         "start": 14300,
         "text": "Ну и желаю всем удачи сегодня.^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17233,
         "file": "Voice03/03-KB/03-KB-I00/03-KB-I00-0060",
         "layer": 0,
         "persona": "set",
@@ -63,23 +67,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 20000,
+        "end": 20050,
         "file": "Event03/03-KB/03-KB-I00/03-KB-I00-003",
         "start": 17250
     },
     {
         "action": "PrintText",
-        "end": 19000,
+        "end": 19100,
         "persona": "Макото",
         "start": 17250,
         "text": "Таисукэ, слушай...^"
     },
     {
         "action": "PlayVoice",
-        "end": 19000,
+        "end": 19100,
         "file": "Voice03/03-KB/03-KB-I00/03-KB-I00-0080",
         "layer": 1,
         "persona": "mak",
         "start": 17250
+    },
+    {
+        "action": "Next",
+        "start": 20050
     }
 ]

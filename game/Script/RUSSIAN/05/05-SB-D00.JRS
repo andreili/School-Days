@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 79033
+    },
+    {
         "action": "PlaySe",
-        "end": 14000,
+        "end": 14250,
         "file": "SysSe/SE_all/school/chime",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7016,
         "file": "Event05/05-SB/05-SB-D00/05-SB-D00-001",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 15000,
+        "end": 15383,
         "file": "Event05/05-SB/05-SB-D00/05-SB-D00-002",
         "start": 7016
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15366,
         "persona": "Нанами",
         "start": 15033,
         "text": "Ито!^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15366,
         "file": "Voice05/05-SB/05-SB-D00/05-SB-D00-0050",
         "layer": 0,
         "persona": "nan",
@@ -35,20 +39,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 21000,
+        "end": 21333,
         "file": "Event05/05-SB/05-SB-D00/05-SB-D00-003",
         "start": 15383
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17283,
         "persona": "Макото",
         "start": 15383,
         "text": "Чего?^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17283,
         "file": "Voice05/05-SB/05-SB-D00/05-SB-D00-0060",
         "layer": 1,
         "persona": "mak",
@@ -56,21 +60,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 85000,
+        "end": 85033,
         "file": "SysSe/SE_all/gaya/kyousitu_rouka",
         "layer": 1,
         "start": 16350
     },
     {
         "action": "PrintText",
-        "end": 19000,
+        "end": 19316,
         "persona": "Хикари",
         "start": 17283,
         "text": "Давай вместе поедим.^"
     },
     {
         "action": "PlayVoice",
-        "end": 19000,
+        "end": 19316,
         "file": "Voice05/05-SB/05-SB-D00/05-SB-D00-0070",
         "layer": 0,
         "persona": "hik",
@@ -78,14 +82,14 @@
     },
     {
         "action": "PrintText",
-        "end": 21000,
+        "end": 21316,
         "persona": "Макото",
         "start": 19316,
         "text": "А?^"
     },
     {
         "action": "PlayVoice",
-        "end": 21000,
+        "end": 21316,
         "file": "Voice05/05-SB/05-SB-D00/05-SB-D00-0080",
         "layer": 1,
         "persona": "mak",
@@ -93,14 +97,14 @@
     },
     {
         "action": "PrintText",
-        "end": 26000,
+        "end": 26233,
         "persona": "Нанами",
         "start": 21316,
         "text": "Чего? Что, с нами кусок в горло не полезет?^"
     },
     {
         "action": "PlayVoice",
-        "end": 26000,
+        "end": 26233,
         "file": "Voice05/05-SB/05-SB-D00/05-SB-D00-0090",
         "layer": 0,
         "persona": "nan",
@@ -108,20 +112,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 30000,
+        "end": 30066,
         "file": "Event05/05-SB/05-SB-D00/05-SB-D00-004A",
         "start": 21333
     },
     {
         "action": "PrintText",
-        "end": 30000,
+        "end": 30366,
         "persona": "Макото",
         "start": 26233,
         "text": "Ну так я с вами обычно и не ем же.^"
     },
     {
         "action": "PlayVoice",
-        "end": 30000,
+        "end": 30366,
         "file": "Voice05/05-SB/05-SB-D00/05-SB-D00-0100",
         "layer": 1,
         "persona": "mak",
@@ -129,20 +133,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 38000,
+        "end": 38116,
         "file": "Event05/05-SB/05-SB-D00/05-SB-D00-004B",
         "start": 30066
     },
     {
         "action": "PrintText",
-        "end": 32000,
+        "end": 32116,
         "persona": "Нанами",
         "start": 30066,
         "text": "Обижаешь!^"
     },
     {
         "action": "PlayVoice",
-        "end": 32000,
+        "end": 32116,
         "file": "Voice05/05-SB/05-SB-D00/05-SB-D00-0110",
         "layer": 0,
         "persona": "nan",
@@ -150,14 +154,14 @@
     },
     {
         "action": "PrintText",
-        "end": 35000,
+        "end": 35133,
         "persona": "Макото",
         "start": 31233,
         "text": "Никого я не обижаю!^"
     },
     {
         "action": "PlayVoice",
-        "end": 35000,
+        "end": 35133,
         "file": "Voice05/05-SB/05-SB-D00/05-SB-D00-0120",
         "layer": 1,
         "persona": "mak",
@@ -165,14 +169,14 @@
     },
     {
         "action": "PrintText",
-        "end": 40000,
+        "end": 40283,
         "persona": "Нанами",
         "start": 35000,
         "text": "Ну ладно, Саванагу можешь заодно взять.^"
     },
     {
         "action": "PlayVoice",
-        "end": 40000,
+        "end": 40283,
         "file": "Voice05/05-SB/05-SB-D00/05-SB-D00-0130",
         "layer": 0,
         "persona": "nan",
@@ -180,20 +184,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 48000,
+        "end": 48050,
         "file": "Event05/05-SB/05-SB-D00/05-SB-D00-004C",
         "start": 38116
     },
     {
         "action": "PrintText",
-        "end": 43000,
+        "end": 43066,
         "persona": "Таисукэ",
         "start": 40333,
         "text": "Э?.. Что?^"
     },
     {
         "action": "PlayVoice",
-        "end": 43000,
+        "end": 43066,
         "file": "Voice05/05-SB/05-SB-D00/05-SB-D00-0140",
         "layer": 1,
         "persona": "tai",
@@ -201,14 +205,14 @@
     },
     {
         "action": "PrintText",
-        "end": 45000,
+        "end": 45150,
         "persona": "Хикари",
         "start": 43066,
         "text": "Саванага...^"
     },
     {
         "action": "PlayVoice",
-        "end": 45000,
+        "end": 45150,
         "file": "Voice05/05-SB/05-SB-D00/05-SB-D00-0150",
         "layer": 0,
         "persona": "hik",
@@ -216,14 +220,14 @@
     },
     {
         "action": "PrintText",
-        "end": 48000,
+        "end": 48033,
         "persona": "Нанами",
         "start": 45083,
         "text": "Саванага, пойдёшь с нами обедать?^"
     },
     {
         "action": "PlayVoice",
-        "end": 48000,
+        "end": 48033,
         "file": "Voice05/05-SB/05-SB-D00/05-SB-D00-0160",
         "layer": 0,
         "persona": "nan",
@@ -231,20 +235,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 54000,
+        "end": 54033,
         "file": "Event05/05-SB/05-SB-D00/05-SB-D00-004D",
         "start": 48050
     },
     {
         "action": "PrintText",
-        "end": 52000,
+        "end": 52233,
         "persona": "Таисукэ",
         "start": 48133,
         "text": "Э, но мы с Танакой собрались...^"
     },
     {
         "action": "PlayVoice",
-        "end": 52000,
+        "end": 52233,
         "file": "Voice05/05-SB/05-SB-D00/05-SB-D00-0170",
         "layer": 1,
         "persona": "tai",
@@ -252,14 +256,14 @@
     },
     {
         "action": "PrintText",
-        "end": 53000,
+        "end": 53316,
         "persona": "Нанами",
         "start": 52250,
         "text": "Нет.^"
     },
     {
         "action": "PlayVoice",
-        "end": 53000,
+        "end": 53316,
         "file": "Voice05/05-SB/05-SB-D00/05-SB-D00-0180",
         "layer": 0,
         "persona": "nan",
@@ -267,14 +271,14 @@
     },
     {
         "action": "PrintText",
-        "end": 55000,
+        "end": 55183,
         "persona": "Таисукэ",
         "start": 54000,
         "text": "Ладно...^"
     },
     {
         "action": "PlayVoice",
-        "end": 55000,
+        "end": 55183,
         "file": "Voice05/05-SB/05-SB-D00/05-SB-D00-0190",
         "layer": 1,
         "persona": "tai",
@@ -282,20 +286,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 63000,
+        "end": 63350,
         "file": "Event05/05-SB/05-SB-D00/05-SB-D00-006",
         "start": 54033
     },
     {
         "action": "PrintText",
-        "end": 57000,
+        "end": 57250,
         "persona": "Нанами",
         "start": 55200,
         "text": "Такие дела. Ито, ты ведь тоже за?^"
     },
     {
         "action": "PlayVoice",
-        "end": 57000,
+        "end": 57250,
         "file": "Voice05/05-SB/05-SB-D00/05-SB-D00-0200",
         "layer": 0,
         "persona": "nan",
@@ -303,14 +307,14 @@
     },
     {
         "action": "PrintText",
-        "end": 60000,
+        "end": 60216,
         "persona": "Макото",
         "start": 57200,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 60000,
+        "end": 60216,
         "file": "Voice05/05-SB/05-SB-D00/05-SB-D00-0210",
         "layer": 1,
         "persona": "xxx",
@@ -318,14 +322,14 @@
     },
     {
         "action": "PrintText",
-        "end": 63000,
+        "end": 63283,
         "persona": "Хикари",
         "start": 60233,
         "text": "А, Сэкаи, ты тоже давай с нами.^"
     },
     {
         "action": "PlayVoice",
-        "end": 63000,
+        "end": 63283,
         "file": "Voice05/05-SB/05-SB-D00/05-SB-D00-0220",
         "layer": 0,
         "persona": "hik",
@@ -333,20 +337,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 67000,
+        "end": 67316,
         "file": "Event05/05-SB/05-SB-D00/05-SB-D00-007",
         "start": 63350
     },
     {
         "action": "PrintText",
-        "end": 64000,
+        "end": 64233,
         "persona": "Сэкаи",
         "start": 63350,
         "text": "Э?^"
     },
     {
         "action": "PlayVoice",
-        "end": 64000,
+        "end": 64233,
         "file": "Voice05/05-SB/05-SB-D00/05-SB-D00-0230",
         "layer": 0,
         "persona": "sek",
@@ -354,14 +358,14 @@
     },
     {
         "action": "PrintText",
-        "end": 66000,
+        "end": 66250,
         "persona": "Нанами",
         "start": 64266,
         "text": "Точно! И Сэкаи тоже!^"
     },
     {
         "action": "PlayVoice",
-        "end": 66000,
+        "end": 66250,
         "file": "Voice05/05-SB/05-SB-D00/05-SB-D00-0240",
         "layer": 0,
         "persona": "nan",
@@ -369,14 +373,14 @@
     },
     {
         "action": "PrintText",
-        "end": 67000,
+        "end": 67350,
         "persona": "Сэкаи",
         "start": 66333,
         "text": "Я?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 67000,
+        "end": 67350,
         "file": "Voice05/05-SB/05-SB-D00/05-SB-D00-0250",
         "layer": 0,
         "persona": "sek",
@@ -384,20 +388,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 73000,
+        "end": 73133,
         "file": "Event05/05-SB/05-SB-D00/05-SB-D00-008",
         "start": 67316
     },
     {
         "action": "PrintText",
-        "end": 68000,
+        "end": 68333,
         "persona": "Хикари",
         "start": 67316,
         "text": "А кто ещё?^"
     },
     {
         "action": "PlayVoice",
-        "end": 68000,
+        "end": 68333,
         "file": "Voice05/05-SB/05-SB-D00/05-SB-D00-0260",
         "layer": 0,
         "persona": "hik",
@@ -405,14 +409,14 @@
     },
     {
         "action": "PrintText",
-        "end": 70000,
+        "end": 70200,
         "persona": "Сэкаи",
         "start": 69000,
         "text": "Ну ладно...^"
     },
     {
         "action": "PlayVoice",
-        "end": 70000,
+        "end": 70200,
         "file": "Voice05/05-SB/05-SB-D00/05-SB-D00-0280",
         "layer": 0,
         "persona": "sek",
@@ -420,14 +424,14 @@
     },
     {
         "action": "PrintText",
-        "end": 71000,
+        "end": 71250,
         "persona": "Нанами",
         "start": 70116,
         "text": "Ну, вперёд!^"
     },
     {
         "action": "PlayVoice",
-        "end": 71000,
+        "end": 71250,
         "file": "Voice05/05-SB/05-SB-D00/05-SB-D00-0290",
         "layer": 0,
         "persona": "nan",
@@ -435,14 +439,14 @@
     },
     {
         "action": "PrintText",
-        "end": 73000,
+        "end": 73133,
         "persona": "Сэкаи",
         "start": 71300,
         "text": "Вперёд... Куда?^"
     },
     {
         "action": "PlayVoice",
-        "end": 73000,
+        "end": 73133,
         "file": "Voice05/05-SB/05-SB-D00/05-SB-D00-0300",
         "layer": 0,
         "persona": "sek",
@@ -450,7 +454,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 85000,
+        "end": 85033,
         "file": "Event05/05-SB/05-SB-D00/05-SB-D00-009",
         "start": 73133
     },
@@ -471,14 +475,14 @@
     },
     {
         "action": "PrintText",
-        "end": 78000,
+        "end": 78200,
         "persona": "Макото",
         "start": 75383,
         "text": "Я..^"
     },
     {
         "action": "PlayVoice",
-        "end": 78000,
+        "end": 78200,
         "file": "Voice05/05-SB/05-SB-D00/05-SB-D00-0320",
         "layer": 1,
         "persona": "mak",
@@ -488,7 +492,11 @@
         "action": "SetSELECT",
         "answer1": "Ладно...",
         "answer2": "Не пойду.",
-        "end": 84000,
+        "end": 84033,
         "start": 79033
+    },
+    {
+        "action": "Next",
+        "start": 85033
     }
 ]

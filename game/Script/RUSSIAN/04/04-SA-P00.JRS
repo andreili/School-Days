@@ -1,5 +1,9 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 212100
+    },
+    {
         "action": "PlaySe",
         "end": 50000,
         "file": "SysSe/SE_all/station_train/station",
@@ -8,20 +12,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 13000,
+        "end": 13350,
         "file": "Event04/04-SA/04-SA-P00/04-SA-P00-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2183,
         "persona": "Макото",
         "start": 150,
         "text": "Могла бы только до турникета проводить.^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2183,
         "file": "Voice04/04-SA/04-SA-P00/04-SA-P00-0040",
         "layer": 1,
         "persona": "mak",
@@ -29,14 +33,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6200,
         "persona": "Сэкаи",
         "start": 2183,
         "text": "У меня проездной с собой, так что могу и до платформы.^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6200,
         "file": "Voice04/04-SA/04-SA-P00/04-SA-P00-0050",
         "layer": 0,
         "persona": "sek",
@@ -44,14 +48,14 @@
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7316,
         "persona": "Макото",
         "start": 6200,
         "text": "Ну, я не против.^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7316,
         "file": "Voice04/04-SA/04-SA-P00/04-SA-P00-0060",
         "layer": 1,
         "persona": "mak",
@@ -59,14 +63,14 @@
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11333,
         "persona": "Сэкаи",
         "start": 7300,
         "text": "Следующий... О, экспресс!^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11333,
         "file": "Voice04/04-SA/04-SA-P00/04-SA-P00-0070",
         "layer": 0,
         "persona": "sek",
@@ -74,14 +78,14 @@
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13366,
         "persona": "Макото",
         "start": 11350,
         "text": "Здесь вроде не останавливается?^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13366,
         "file": "Voice04/04-SA/04-SA-P00/04-SA-P00-0080",
         "layer": 1,
         "persona": "mak",
@@ -89,20 +93,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 71000,
+        "end": 71216,
         "file": "Movie04/04-SA/04-SA-P00/04-SA-P00-002",
         "start": 13350
     },
     {
         "action": "PrintText",
-        "end": 18000,
+        "end": 18100,
         "persona": "Сэкаи",
         "start": 13366,
         "text": "Угу. А значит, следующий поезд...^"
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18100,
         "file": "Voice04/04-SA/04-SA-P00/04-SA-P00-0090",
         "layer": 0,
         "persona": "sek",
@@ -110,14 +114,14 @@
     },
     {
         "action": "PrintText",
-        "end": 28000,
+        "end": 28166,
         "persona": "Сэкаи",
         "start": 18100,
         "text": "Сначала, значит, экспресс пройдёт... Похоже, подождать придётся. А тут холодновато...^"
     },
     {
         "action": "PlayVoice",
-        "end": 28000,
+        "end": 28166,
         "file": "Voice04/04-SA/04-SA-P00/04-SA-P00-0110",
         "layer": 0,
         "persona": "sek",
@@ -125,14 +129,14 @@
     },
     {
         "action": "PrintText",
-        "end": 31000,
+        "end": 31383,
         "persona": "Макото",
         "start": 28150,
         "text": "Осень уж к концу подходит...^"
     },
     {
         "action": "PlayVoice",
-        "end": 31000,
+        "end": 31383,
         "file": "Voice04/04-SA/04-SA-P00/04-SA-P00-0120",
         "layer": 1,
         "persona": "mak",
@@ -140,14 +144,14 @@
     },
     {
         "action": "PrintText",
-        "end": 33000,
+        "end": 33200,
         "persona": "Сэкаи",
         "start": 32000,
         "text": "Да уж...^"
     },
     {
         "action": "PlayVoice",
-        "end": 33000,
+        "end": 33200,
         "file": "Voice04/04-SA/04-SA-P00/04-SA-P00-0130",
         "layer": 0,
         "persona": "sek",
@@ -155,14 +159,14 @@
     },
     {
         "action": "PrintText",
-        "end": 34000,
+        "end": 34166,
         "persona": "Макото",
         "start": 33216,
         "text": "Сэкаи.^"
     },
     {
         "action": "PlayVoice",
-        "end": 34000,
+        "end": 34166,
         "file": "Voice04/04-SA/04-SA-P00/04-SA-P00-0140",
         "layer": 1,
         "persona": "mak",
@@ -170,14 +174,14 @@
     },
     {
         "action": "PrintText",
-        "end": 35000,
+        "end": 35150,
         "persona": "Сэкаи",
         "start": 34183,
         "text": "Э?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 35000,
+        "end": 35150,
         "file": "Voice04/04-SA/04-SA-P00/04-SA-P00-0150",
         "layer": 0,
         "persona": "sek",
@@ -185,14 +189,14 @@
     },
     {
         "action": "PrintText",
-        "end": 37000,
+        "end": 37350,
         "persona": "Сэкаи",
         "start": 36283,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 37000,
+        "end": 37350,
         "file": "Voice04/04-SA/04-SA-P00/04-SA-P00-0170",
         "layer": 0,
         "persona": "sek",
@@ -200,14 +204,14 @@
     },
     {
         "action": "PrintText",
-        "end": 39000,
+        "end": 39233,
         "persona": "Макото",
         "start": 37133,
         "text": "Так теплее будет.^"
     },
     {
         "action": "PlayVoice",
-        "end": 39000,
+        "end": 39233,
         "file": "Voice04/04-SA/04-SA-P00/04-SA-P00-0180",
         "layer": 1,
         "persona": "mak",
@@ -215,14 +219,14 @@
     },
     {
         "action": "PrintText",
-        "end": 41000,
+        "end": 41333,
         "persona": "Сэкаи",
         "start": 39150,
         "text": "Макото!..^"
     },
     {
         "action": "PlayVoice",
-        "end": 41000,
+        "end": 41333,
         "file": "Voice04/04-SA/04-SA-P00/04-SA-P00-0190",
         "layer": 0,
         "persona": "sek",
@@ -230,14 +234,14 @@
     },
     {
         "action": "PrintText",
-        "end": 43000,
+        "end": 43200,
         "persona": "Макото",
         "start": 42350,
         "text": "Против?^"
     },
     {
         "action": "PlayVoice",
-        "end": 43000,
+        "end": 43200,
         "file": "Voice04/04-SA/04-SA-P00/04-SA-P00-0200",
         "layer": 1,
         "persona": "mak",
@@ -245,14 +249,14 @@
     },
     {
         "action": "PrintText",
-        "end": 46000,
+        "end": 46200,
         "persona": "Сэкаи",
         "start": 43266,
         "text": "Нет, конечно...^"
     },
     {
         "action": "PlayVoice",
-        "end": 46000,
+        "end": 46200,
         "file": "Voice04/04-SA/04-SA-P00/04-SA-P00-0210",
         "layer": 0,
         "persona": "sek",
@@ -260,14 +264,14 @@
     },
     {
         "action": "PrintText",
-        "end": 49000,
+        "end": 49083,
         "persona": "Макото",
         "start": 48083,
         "text": "Ну и отлично.^"
     },
     {
         "action": "PlayVoice",
-        "end": 49000,
+        "end": 49083,
         "file": "Voice04/04-SA/04-SA-P00/04-SA-P00-0230",
         "layer": 1,
         "persona": "mak",
@@ -275,14 +279,14 @@
     },
     {
         "action": "PrintText",
-        "end": 51000,
+        "end": 51016,
         "persona": "Сэкаи",
         "start": 50200,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 51000,
+        "end": 51016,
         "file": "Voice04/04-SA/04-SA-P00/04-SA-P00-0240",
         "layer": 0,
         "persona": "xxx",
@@ -290,14 +294,14 @@
     },
     {
         "action": "PrintText",
-        "end": 55000,
+        "end": 55266,
         "persona": "Макото",
         "start": 52033,
         "text": "Знаешь... Я тебя...^"
     },
     {
         "action": "PlayVoice",
-        "end": 55000,
+        "end": 55266,
         "file": "Voice04/04-SA/04-SA-P00/04-SA-P00-0250",
         "layer": 1,
         "persona": "mak",
@@ -305,14 +309,14 @@
     },
     {
         "action": "PrintText",
-        "end": 57000,
+        "end": 57316,
         "persona": "Макото",
         "start": 56216,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 57000,
+        "end": 57316,
         "file": "Voice04/04-SA/04-SA-P00/04-SA-P00-0270",
         "layer": 1,
         "persona": "xxx",
@@ -320,28 +324,28 @@
     },
     {
         "action": "PlaySe",
-        "end": 65000,
+        "end": 65066,
         "file": "SysSe/SE_all/station_train/train_stop",
         "layer": 1,
         "start": 56266
     },
     {
         "action": "PlaySe",
-        "end": 81000,
+        "end": 81133,
         "file": "SysSe/SE_all/station_train/train_stopping",
         "layer": 2,
         "start": 56266
     },
     {
         "action": "PrintText",
-        "end": 60000,
+        "end": 60066,
         "persona": "Сэкаи",
         "start": 59033,
         "text": "Я...^"
     },
     {
         "action": "PlayVoice",
-        "end": 60000,
+        "end": 60066,
         "file": "Voice04/04-SA/04-SA-P00/04-SA-P00-0300",
         "layer": 0,
         "persona": "sek",
@@ -349,14 +353,14 @@
     },
     {
         "action": "PrintText",
-        "end": 60000,
+        "end": 60283,
         "persona": "Макото",
         "start": 60033,
         "text": "Э?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 60000,
+        "end": 60283,
         "file": "Voice04/04-SA/04-SA-P00/04-SA-P00-0320",
         "layer": 1,
         "persona": "mak",
@@ -364,26 +368,26 @@
     },
     {
         "action": "PlayMovie",
-        "end": 76000,
+        "end": 76216,
         "file": "Movie04/04-SA/04-SA-P00/04-SA-P00-003",
         "start": 71216
     },
     {
         "action": "PlayMovie",
-        "end": 81000,
+        "end": 81216,
         "file": "Movie04/04-SA/04-SA-P00/04-SA-P00-004",
         "start": 76216
     },
     {
         "action": "PrintText",
-        "end": 81000,
+        "end": 81166,
         "persona": "Котоноха",
         "start": 77266,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 81000,
+        "end": 81166,
         "file": "Voice04/04-SA/04-SA-P00/04-SA-P00-0380",
         "layer": 0,
         "persona": "kot",
@@ -391,32 +395,36 @@
     },
     {
         "action": "EndBGM",
-        "end": 212000,
+        "end": 212033,
         "file": "BGM/Vocal/SDV04",
         "start": 81150
     },
     {
         "action": "CreateBG",
-        "end": 84000,
+        "end": 84133,
         "file": "Event04/04-SA/04-SA-P00/04-SA-P00-005",
         "start": 81216
     },
     {
         "action": "PlayMovie",
-        "end": 88000,
+        "end": 88033,
         "file": "Movie04/04-SA/04-SA-P00/04-SA-P00-006",
         "start": 84133
     },
     {
         "action": "CreateBG",
-        "end": 90000,
+        "end": 90016,
         "file": "Event04/04-SA/04-SA-P00/04-SA-P00-007",
         "start": 88033
     },
     {
         "action": "EndRoll",
-        "end": 212000,
+        "end": 212100,
         "file": "Movie04/ENDROLL/05-15",
         "start": 90016
+    },
+    {
+        "action": "Next",
+        "start": 213100
     }
 ]

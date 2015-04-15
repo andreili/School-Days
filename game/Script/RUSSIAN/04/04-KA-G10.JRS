@@ -1,27 +1,31 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 24033
+    },
+    {
         "action": "PlaySe",
-        "end": 24000,
+        "end": 24033,
         "file": "SysSe/SE_all/gaya/kyousitu_rouka",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2116,
         "file": "Event04/04-KA/04-KA-G10/04-KA-G10-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3066,
         "persona": "Макото",
         "start": 2066,
         "text": "Привет...^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3066,
         "file": "Voice04/04-KA/04-KA-G10/04-KA-G10-0030",
         "layer": 1,
         "persona": "mak",
@@ -29,20 +33,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5283,
         "file": "Event04/04-KA/04-KA-G10/04-KA-G10-002",
         "start": 2116
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5300,
         "persona": "Сэкаи",
         "start": 3066,
         "text": "Привет! Рано ты сегодня.^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5300,
         "file": "Voice04/04-KA/04-KA-G10/04-KA-G10-0040",
         "layer": 0,
         "persona": "sek",
@@ -50,20 +54,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7233,
         "file": "Event04/04-KA/04-KA-G10/04-KA-G10-003",
         "start": 5283
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7216,
         "persona": "Макото",
         "start": 6033,
         "text": "Ага...^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7216,
         "file": "Voice04/04-KA/04-KA-G10/04-KA-G10-0050",
         "layer": 1,
         "persona": "mak",
@@ -71,20 +75,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 11000,
+        "end": 11383,
         "file": "Event04/04-KA/04-KA-G10/04-KA-G10-004",
         "start": 7233
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11383,
         "persona": "Сэкаи",
         "start": 8066,
         "text": "Случилось чего? Какой-то ты усталый...^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11383,
         "file": "Voice04/04-KA/04-KA-G10/04-KA-G10-0060",
         "layer": 0,
         "persona": "sek",
@@ -92,20 +96,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 15000,
+        "end": 15233,
         "file": "Event04/04-KA/04-KA-G10/04-KA-G10-005",
         "start": 11383
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15200,
         "persona": "Макото",
         "start": 12166,
         "text": "Вовсе нет, обычный!^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15200,
         "file": "Voice04/04-KA/04-KA-G10/04-KA-G10-0070",
         "layer": 1,
         "persona": "mak",
@@ -113,23 +117,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 24000,
+        "end": 24033,
         "file": "Event04/04-KA/04-KA-G10/04-KA-G10-006",
         "start": 15233
     },
     {
         "action": "PrintText",
-        "end": 22000,
+        "end": 22333,
         "persona": "Сэкаи",
         "start": 15300,
         "text": "Да?.. Впрочем, не мне тебя упрекать... Сама не с той ноги встала...^"
     },
     {
         "action": "PlayVoice",
-        "end": 22000,
+        "end": 22333,
         "file": "Voice04/04-KA/04-KA-G10/04-KA-G10-0080",
         "layer": 0,
         "persona": "sek",
         "start": 15300
+    },
+    {
+        "action": "Next",
+        "start": 24033
     }
 ]

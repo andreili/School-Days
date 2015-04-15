@@ -1,38 +1,42 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 51316
+    },
+    {
         "action": "PlayBgm",
-        "end": 57000,
+        "end": 57133,
         "file": "BGM/SD_BGM/sdbgm20",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1066,
         "file": "Event05/05-KB/05-KB-D00/05-KB-D00-001",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2150,
         "file": "Event05/05-KB/05-KB-D00/05-KB-D00-002",
         "start": 1066
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5183,
         "file": "Event05/05-KB/05-KB-D00/05-KB-D00-003",
         "start": 2150
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5033,
         "persona": "Котоноха",
         "start": 3066,
         "text": "Макото...^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5033,
         "file": "Voice05/05-KB/05-KB-D00/05-KB-D00-0050",
         "layer": 0,
         "persona": "kot",
@@ -41,31 +45,31 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 5000,
+        "end": 5183,
         "start": 4383
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9150,
         "file": "Event05/05-KB/05-KB-D00/05-KB-D00-002",
         "start": 5183
     },
     {
         "action": "BlackFade",
         "dir": "IN",
-        "end": 5000,
+        "end": 5383,
         "start": 5183
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7283,
         "persona": "Котоноха",
         "start": 6316,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7283,
         "file": "Voice05/05-KB/05-KB-D00/05-KB-D00-0070",
         "layer": 0,
         "persona": "xxx",
@@ -73,14 +77,14 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9200,
         "persona": "Мать Макото",
         "start": 8016,
         "text": "Ау.^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9200,
         "file": "Voice05/05-KB/05-KB-D00/05-KB-D00-0080",
         "layer": 0,
         "persona": "mkm",
@@ -88,20 +92,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12250,
         "file": "Event05/05-KB/05-KB-D00/05-KB-D00-005",
         "start": 9150
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12050,
         "persona": "Котоноха",
         "start": 9200,
         "text": "Д-да! И-извините!^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12050,
         "file": "Voice05/05-KB/05-KB-D00/05-KB-D00-0090",
         "layer": 0,
         "persona": "kot",
@@ -109,7 +113,7 @@
     },
     {
         "action": "PlaySe",
-        "end": 12000,
+        "end": 12366,
         "file": "SysSe/SE_all/footsteps/asioto_out_walk",
         "layer": 1,
         "start": 12050
@@ -117,19 +121,19 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 12000,
+        "end": 12250,
         "start": 12050
     },
     {
         "action": "PrintText",
-        "end": 26000,
+        "end": 26033,
         "persona": "Макото",
         "start": 12200,
         "text": "А, похоже, мама вернулась... Я потом ещё позвоню. Э? Да, угу. Хорошо. Спокойной.^"
     },
     {
         "action": "PlayVoice",
-        "end": 26000,
+        "end": 26033,
         "file": "Voice05/05-KB/05-KB-D00/05-KB-D00-0130",
         "layer": 1,
         "persona": "mak",
@@ -143,21 +147,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 25000,
+        "end": 25250,
         "file": "SysSe/SE_all/keitai/keitai_sousa",
         "layer": 2,
         "start": 25216
     },
     {
         "action": "PrintText",
-        "end": 27000,
+        "end": 27066,
         "persona": "Мать Макото",
         "start": 26033,
         "text": "Макото!^"
     },
     {
         "action": "PlayVoice",
-        "end": 27000,
+        "end": 27066,
         "file": "Voice05/05-KB/05-KB-D00/05-KB-D00-0140",
         "layer": 0,
         "persona": "mkm",
@@ -165,20 +169,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 57000,
+        "end": 57133,
         "file": "Event05/05-KB/05-KB-D00/05-KB-D00-007",
         "start": 27000
     },
     {
         "action": "PrintText",
-        "end": 29000,
+        "end": 29050,
         "persona": "Макото",
         "start": 27066,
         "text": "Да?^"
     },
     {
         "action": "PlayVoice",
-        "end": 29000,
+        "end": 29050,
         "file": "Voice05/05-KB/05-KB-D00/05-KB-D00-0150",
         "layer": 1,
         "persona": "mak",
@@ -186,14 +190,14 @@
     },
     {
         "action": "PrintText",
-        "end": 30000,
+        "end": 30316,
         "persona": "Мать Макото",
         "start": 29050,
         "text": "К тебе гости.^"
     },
     {
         "action": "PlayVoice",
-        "end": 30000,
+        "end": 30316,
         "file": "Voice05/05-KB/05-KB-D00/05-KB-D00-0160",
         "layer": 0,
         "persona": "mkm",
@@ -201,14 +205,14 @@
     },
     {
         "action": "PrintText",
-        "end": 37000,
+        "end": 37150,
         "persona": "Макото",
         "start": 30316,
         "text": "Э?.. Кто?.. Като? Или Асикага?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 37000,
+        "end": 37150,
         "file": "Voice05/05-KB/05-KB-D00/05-KB-D00-0170",
         "layer": 1,
         "persona": "mak",
@@ -216,14 +220,14 @@
     },
     {
         "action": "PrintText",
-        "end": 40000,
+        "end": 40016,
         "persona": "Мать Макото",
         "start": 37133,
         "text": "Не из средней школы друзья.^"
     },
     {
         "action": "PlayVoice",
-        "end": 40000,
+        "end": 40016,
         "file": "Voice05/05-KB/05-KB-D00/05-KB-D00-0180",
         "layer": 0,
         "persona": "mkm",
@@ -231,14 +235,14 @@
     },
     {
         "action": "PrintText",
-        "end": 41000,
+        "end": 41116,
         "persona": "Макото",
         "start": 40033,
         "text": "А кто?^"
     },
     {
         "action": "PlayVoice",
-        "end": 41000,
+        "end": 41116,
         "file": "Voice05/05-KB/05-KB-D00/05-KB-D00-0190",
         "layer": 1,
         "persona": "mak",
@@ -246,14 +250,14 @@
     },
     {
         "action": "PrintText",
-        "end": 42000,
+        "end": 42250,
         "persona": "Мать Макото",
         "start": 41116,
         "text": "Котоноха.^"
     },
     {
         "action": "PlayVoice",
-        "end": 42000,
+        "end": 42250,
         "file": "Voice05/05-KB/05-KB-D00/05-KB-D00-0200",
         "layer": 0,
         "persona": "mkm",
@@ -261,14 +265,14 @@
     },
     {
         "action": "PrintText",
-        "end": 44000,
+        "end": 44033,
         "persona": "Макото",
         "start": 42383,
         "text": "Э?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 44000,
+        "end": 44033,
         "file": "Voice05/05-KB/05-KB-D00/05-KB-D00-0210",
         "layer": 1,
         "persona": "mak",
@@ -276,14 +280,14 @@
     },
     {
         "action": "PrintText",
-        "end": 49000,
+        "end": 49150,
         "persona": "Мать Макото",
         "start": 44033,
         "text": "Красивую ты себе девушку нашёл! Я аж удивилась!^"
     },
     {
         "action": "PlayVoice",
-        "end": 49000,
+        "end": 49150,
         "file": "Voice05/05-KB/05-KB-D00/05-KB-D00-0220",
         "layer": 0,
         "persona": "mkm",
@@ -291,14 +295,14 @@
     },
     {
         "action": "PrintText",
-        "end": 51000,
+        "end": 51300,
         "persona": "Макото",
         "start": 49200,
         "text": "Э?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 51000,
+        "end": 51300,
         "file": "Voice05/05-KB/05-KB-D00/05-KB-D00-0230",
         "layer": 1,
         "persona": "mak",
@@ -308,7 +312,11 @@
         "action": "SetSELECT",
         "answer1": "Она не моя девушка.",
         "answer2": "Вроде того...",
-        "end": 56000,
+        "end": 56316,
         "start": 51316
+    },
+    {
+        "action": "Next",
+        "start": 57133
     }
 ]

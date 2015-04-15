@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 16116
+    },
+    {
         "action": "PlayBgm",
-        "end": 22000,
+        "end": 22183,
         "file": "BGM/SD_BGM/sdbgm06",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 22000,
+        "end": 22183,
         "file": "Se01/01-00/01-00-B00/SE01-00-B00-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2050,
         "file": "Event02/02-2S/02-2S-C02/02-2S-C02-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2050,
         "persona": "Макото",
         "start": 0,
         "text": "Ничего не рассказывать!^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2050,
         "file": "Voice02/02-2S/02-2S-C02/02-2S-C02-0030",
         "layer": 1,
         "persona": "mak",
@@ -35,20 +39,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7050,
         "file": "Event02/02-2S/02-2S-C02/02-2S-C02-002",
         "start": 2050
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3050,
         "persona": "Сэкаи",
         "start": 2050,
         "text": "Что?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3050,
         "file": "Voice02/02-2S/02-2S-C02/02-2S-C02-0040",
         "layer": 0,
         "persona": "sek",
@@ -71,14 +75,14 @@
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7050,
         "persona": "Сэкаи",
         "start": 5016,
         "text": "Но... Но...^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7050,
         "file": "Voice02/02-2S/02-2S-C02/02-2S-C02-0060",
         "layer": 0,
         "persona": "sek",
@@ -86,14 +90,14 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9166,
         "persona": "Макото",
         "start": 7033,
         "text": "Котоноха наверняка рассердится.^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9166,
         "file": "Voice02/02-2S/02-2S-C02/02-2S-C02-0070",
         "layer": 1,
         "persona": "mak",
@@ -101,20 +105,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 11000,
+        "end": 11183,
         "file": "Event01/01-00/01-00-D00/01-00-D00-008",
         "start": 7050
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14366,
         "persona": "Сэкаи",
         "start": 9166,
         "text": "Я понимаю, но мы не можем её так обманывать!^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14366,
         "file": "Voice02/02-2S/02-2S-C02/02-2S-C02-0080",
         "layer": 0,
         "persona": "sek",
@@ -122,20 +126,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 22000,
+        "end": 22183,
         "file": "Event02/02-2S/02-2S-C02/02-2S-C02-004",
         "start": 11183
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16383,
         "persona": "Макото",
         "start": 14366,
         "text": "Знаешь...^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16383,
         "file": "Voice02/02-2S/02-2S-C02/02-2S-C02-0090",
         "layer": 1,
         "persona": "mak",
@@ -145,7 +149,11 @@
         "action": "SetSELECT",
         "answer1": "Ты права... Давай расскажем.^",
         "answer2": "Я не знаю, как ей это сказать...",
-        "end": 21000,
+        "end": 21116,
         "start": 16116
+    },
+    {
+        "action": "Next",
+        "start": 22183
     }
 ]

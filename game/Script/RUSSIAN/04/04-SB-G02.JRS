@@ -1,5 +1,9 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 5000
+    },
+    {
         "action": "PlaySe",
         "end": 5000,
         "file": "SysSe/SE_all/gaya/kyousitu_rouka",
@@ -14,14 +18,14 @@
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2216,
         "persona": "Макото",
         "start": 0,
         "text": "Значит, ничего не поделаешь...^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2216,
         "file": "Voice04/04-SB/04-SB-G02/04-SB-G02-0030",
         "layer": 1,
         "persona": "mak",
@@ -29,17 +33,21 @@
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3200,
         "persona": "Макото",
         "start": 2216,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3200,
         "file": "Voice04/04-SB/04-SB-G02/04-SB-G02-0040",
         "layer": 1,
         "persona": "mak",
         "start": 2216
+    },
+    {
+        "action": "Next",
+        "start": 5000
     }
 ]

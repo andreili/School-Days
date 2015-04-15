@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 9383
+    },
+    {
         "action": "PlayBgm",
-        "end": 9000,
+        "end": 9383,
         "file": "BGM/SD_BGM/sdbgm20",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9383,
         "file": "Event05/05-KB/05-KB-D02/05-KB-D02-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1383,
         "persona": "Макото",
         "start": 0,
         "text": "Вроде того...^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1383,
         "file": "Voice05/05-KB/05-KB-D02/05-KB-D02-0030",
         "layer": 1,
         "persona": "mak",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4150,
         "persona": "Мать Макото",
         "start": 1383,
         "text": "Познакомишь нас?^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4150,
         "file": "Voice05/05-KB/05-KB-D02/05-KB-D02-0040",
         "layer": 0,
         "persona": "mkm",
@@ -43,14 +47,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6266,
         "persona": "Макото",
         "start": 4150,
         "text": "В следующий раз.^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6266,
         "file": "Voice05/05-KB/05-KB-D02/05-KB-D02-0050",
         "layer": 1,
         "persona": "mak",
@@ -58,14 +62,14 @@
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7366,
         "persona": "Мать Макото",
         "start": 6266,
         "text": "Обязательно!^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7366,
         "file": "Voice05/05-KB/05-KB-D02/05-KB-D02-0060",
         "layer": 0,
         "persona": "mkm",
@@ -73,17 +77,21 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9300,
         "persona": "Макото",
         "start": 7366,
         "text": "Ага.^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9300,
         "file": "Voice05/05-KB/05-KB-D02/05-KB-D02-0070",
         "layer": 1,
         "persona": "mak",
         "start": 7366
+    },
+    {
+        "action": "Next",
+        "start": 9383
     }
 ]

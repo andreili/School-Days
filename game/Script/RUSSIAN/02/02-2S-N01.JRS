@@ -1,74 +1,78 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 13250
+    },
+    {
         "action": "PlayBgm",
-        "end": 13000,
+        "end": 13250,
         "file": "BGM/SD_BGM/sdbgm29",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 1000,
+        "end": 1050,
         "file": "Se02/02-2S/02-2S-N01/SE02-2S-N01-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "PlayMovie",
-        "end": 5000,
+        "end": 5233,
         "file": "Movie02/02-2S/02-2S-N01/02-2S-N01-001",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 2000,
+        "end": 2100,
         "file": "Se02/02-2S/02-2S-N01/SE02-2S-N01-001",
         "layer": 2,
         "start": 1050
     },
     {
         "action": "PlaySe",
-        "end": 3000,
+        "end": 3150,
         "file": "Se02/02-2S/02-2S-N01/SE02-2S-N01-001",
         "layer": 1,
         "start": 2100
     },
     {
         "action": "PlaySe",
-        "end": 4000,
+        "end": 4200,
         "file": "Se02/02-2S/02-2S-N01/SE02-2S-N01-001",
         "layer": 2,
         "start": 3150
     },
     {
         "action": "PlaySe",
-        "end": 5000,
+        "end": 5250,
         "file": "Se02/02-2S/02-2S-N01/SE02-2S-N01-001",
         "layer": 1,
         "start": 4200
     },
     {
         "action": "PlaySe",
-        "end": 13000,
+        "end": 13250,
         "file": "Se01/01-1K/01-1K-F00/SE01-1K-F00-001",
         "layer": 3,
         "start": 5233
     },
     {
         "action": "PlayMovie",
-        "end": 8000,
+        "end": 8333,
         "file": "Movie02/02-2S/02-2S-N01/02-2S-N01-002",
         "start": 5233
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7100,
         "persona": "Сэкаи",
         "start": 6033,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7100,
         "file": "Voice02/02-2S/02-2S-N01/02-2S-N01-0050",
         "layer": 0,
         "persona": "xxx",
@@ -76,14 +80,18 @@
     },
     {
         "action": "PlayMovie",
-        "end": 13000,
+        "end": 13250,
         "file": "Movie02/02-2S/02-2S-N01/02-2S-N01-003",
         "start": 8333
     },
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 13000,
+        "end": 13250,
         "start": 12250
+    },
+    {
+        "action": "Next",
+        "start": 13250
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 28000
+    },
+    {
         "action": "PlayBgm",
         "end": 28000,
         "file": "BGM/SD_BGM/sdbgm20",
@@ -7,20 +11,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1316,
         "file": "Event05/05-SC/05-SC-A00/05-SC-A00-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1133,
         "persona": "Макото",
         "start": 0,
         "text": "Я люблю!..^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1133,
         "file": "Voice05/05-SC/05-SC-A00/05-SC-A00-0050",
         "layer": 1,
         "persona": "mak",
@@ -28,20 +32,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3100,
         "file": "Event05/05-SC/05-SC-A00/05-SC-A00-002",
         "start": 1316
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2300,
         "persona": "Сэкаи",
         "start": 1316,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2300,
         "file": "Voice05/05-SC/05-SC-A00/05-SC-A00-0070",
         "layer": 0,
         "persona": "sek",
@@ -55,14 +59,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4133,
         "persona": "Макото",
         "start": 3100,
         "text": "Её!^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4133,
         "file": "Voice05/05-SC/05-SC-A00/05-SC-A00-0080",
         "layer": 1,
         "persona": "mak",
@@ -70,20 +74,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6250,
         "file": "Event05/05-SC/05-SC-A00/05-SC-A00-004",
         "start": 5000
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5333,
         "persona": "Котоноха",
         "start": 5000,
         "text": "Э?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5333,
         "file": "Voice05/05-SC/05-SC-A00/05-SC-A00-0090",
         "layer": 0,
         "persona": "kot",
@@ -97,14 +101,14 @@
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8083,
         "persona": "Котоноха",
         "start": 6250,
         "text": "То есть?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8083,
         "file": "Voice05/05-SC/05-SC-A00/05-SC-A00-0110",
         "layer": 0,
         "persona": "kot",
@@ -112,14 +116,14 @@
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13066,
         "persona": "Котоноха",
         "start": 9000,
         "text": "Вы с Саиёндзи вместе?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13066,
         "file": "Voice05/05-SC/05-SC-A00/05-SC-A00-0120",
         "layer": 0,
         "persona": "kot",
@@ -133,14 +137,14 @@
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16250,
         "persona": "Котоноха",
         "start": 14000,
         "text": "Но ведь этого не может быть...^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16250,
         "file": "Voice05/05-SC/05-SC-A00/05-SC-A00-0130",
         "layer": 0,
         "persona": "kot",
@@ -148,14 +152,14 @@
     },
     {
         "action": "PrintText",
-        "end": 18000,
+        "end": 18283,
         "persona": "Котоноха",
         "start": 17183,
         "text": "Но...^"
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18283,
         "file": "Voice05/05-SC/05-SC-A00/05-SC-A00-0140",
         "layer": 0,
         "persona": "kot",
@@ -163,14 +167,14 @@
     },
     {
         "action": "PrintText",
-        "end": 22000,
+        "end": 22200,
         "persona": "Котоноха",
         "start": 19200,
         "text": "Макото!..^"
     },
     {
         "action": "PlayVoice",
-        "end": 22000,
+        "end": 22200,
         "file": "Voice05/05-SC/05-SC-A00/05-SC-A00-0150",
         "layer": 0,
         "persona": "kot",
@@ -178,17 +182,21 @@
     },
     {
         "action": "PrintText",
-        "end": 27000,
+        "end": 27066,
         "persona": "Котоноха",
         "start": 23116,
         "text": "Ничего... Не понимаю...^"
     },
     {
         "action": "PlayVoice",
-        "end": 27000,
+        "end": 27066,
         "file": "Voice05/05-SC/05-SC-A00/05-SC-A00-0160",
         "layer": 0,
         "persona": "kot",
         "start": 23116
+    },
+    {
+        "action": "Next",
+        "start": 28000
     }
 ]

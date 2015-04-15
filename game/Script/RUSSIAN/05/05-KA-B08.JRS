@@ -1,5 +1,9 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 7000
+    },
+    {
         "action": "PlaySe",
         "end": 7000,
         "file": "SysSe/SE_all/gaya/kyousitu_rouka",
@@ -8,13 +12,13 @@
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1116,
         "file": "Event05/05-KA/05-KA-B08/05-KA-B08-001",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3066,
         "file": "Event05/05-KA/05-KA-B08/05-KA-B08-002",
         "start": 1116
     },
@@ -26,14 +30,14 @@
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5150,
         "persona": "Макото",
         "start": 3383,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5150,
         "file": "Voice05/05-KA/05-KA-B08/05-KA-B08-0060",
         "layer": 1,
         "persona": "xxx",
@@ -44,5 +48,9 @@
         "dir": "OUT",
         "end": 7000,
         "start": 6000
+    },
+    {
+        "action": "Next",
+        "start": 7000
     }
 ]

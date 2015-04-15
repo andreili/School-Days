@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 16233
+    },
+    {
         "action": "PlayBgm",
-        "end": 16000,
+        "end": 16233,
         "file": "BGM/SD_BGM/sdbgm06",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 16000,
+        "end": 16233,
         "file": "Se03/03-KA/03-KA-G06/SE03-KA-G06-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1233,
         "file": "Event03/03-KA/03-KA-G06/03-KA-G06-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1100,
         "persona": "Макото",
         "start": 0,
         "text": "Думаю да.^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1100,
         "file": "Voice03/03-KA/03-KA-G06/03-KA-G06-0030",
         "layer": 1,
         "persona": "mak",
@@ -35,20 +39,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5266,
         "file": "Event03/03-KA/03-KA-G06/03-KA-G06-002",
         "start": 1250
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5100,
         "persona": "Макото",
         "start": 1350,
         "text": "Наверняка она где-то во дворе...^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5100,
         "file": "Voice03/03-KA/03-KA-G06/03-KA-G06-0040",
         "layer": 1,
         "persona": "xxx",
@@ -56,20 +60,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7100,
         "file": "Event03/03-KA/03-KA-G06/03-KA-G06-003",
         "start": 5266
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6383,
         "persona": "Сэцуна",
         "start": 5366,
         "text": "Ты к ней не пойдешь?^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6383,
         "file": "Voice03/03-KA/03-KA-G06/03-KA-G06-0050",
         "layer": 0,
         "persona": "set",
@@ -77,20 +81,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8116,
         "file": "Event03/03-KA/03-KA-G06/03-KA-G06-004",
         "start": 7100
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7366,
         "persona": "Макото",
         "start": 7116,
         "text": "Нет...^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7366,
         "file": "Voice03/03-KA/03-KA-G06/03-KA-G06-0060",
         "layer": 1,
         "persona": "mak",
@@ -98,20 +102,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9333,
         "file": "Event03/03-KA/03-KA-G06/03-KA-G06-005",
         "start": 8116
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9250,
         "persona": "Сэцуна",
         "start": 8266,
         "text": "Вы поссорились?^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9250,
         "file": "Voice03/03-KA/03-KA-G06/03-KA-G06-0070",
         "layer": 0,
         "persona": "set",
@@ -119,20 +123,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 13000,
+        "end": 13216,
         "file": "Event03/03-KA/03-KA-G06/03-KA-G06-006",
         "start": 9333
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13183,
         "persona": "Макото",
         "start": 10083,
         "text": "Не твоё дело.^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13183,
         "file": "Voice03/03-KA/03-KA-G06/03-KA-G06-0080",
         "layer": 1,
         "persona": "mak",
@@ -140,20 +144,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 16000,
+        "end": 16233,
         "file": "Event03/03-KA/03-KA-G06/03-KA-G06-007",
         "start": 13216
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14383,
         "persona": "Сэцуна",
         "start": 14100,
         "text": "Угу...^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14383,
         "file": "Voice03/03-KA/03-KA-G06/03-KA-G06-0090",
         "layer": 0,
         "persona": "set",
@@ -162,7 +166,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 16000,
+        "end": 16233,
         "start": 15233
+    },
+    {
+        "action": "Next",
+        "start": 16233
     }
 ]

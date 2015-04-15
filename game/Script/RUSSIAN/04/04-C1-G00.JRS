@@ -1,34 +1,38 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 24333
+    },
+    {
         "action": "PlaySe",
-        "end": 24000,
+        "end": 24333,
         "file": "Se04/04-C1/04-C1-G00/SE04-C1-G00-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 7000,
+        "end": 7383,
         "file": "SysSe/SE_all/station_train/train_in",
         "layer": 2,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3383,
         "file": "Event04/04-C1/04-C1-G00/04-C1-G00-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3383,
         "persona": "Сэкаи",
         "start": 3000,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3383,
         "file": "Voice04/04-C1/04-C1-G00/04-C1-G00-0060",
         "layer": 0,
         "persona": "sek",
@@ -36,20 +40,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12350,
         "file": "Event04/04-C1/04-C1-G00/04-C1-G00-002",
         "start": 3383
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6283,
         "persona": "Макото",
         "start": 3383,
         "text": "Гляди, поезд пришёл.^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6283,
         "file": "Voice04/04-C1/04-C1-G00/04-C1-G00-0070",
         "layer": 1,
         "persona": "mak",
@@ -57,14 +61,14 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9383,
         "persona": "Сэкаи",
         "start": 6283,
         "text": "Пойдёшь... И сегодня ко мне?^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9383,
         "file": "Voice04/04-C1/04-C1-G00/04-C1-G00-0080",
         "layer": 0,
         "persona": "sek",
@@ -72,21 +76,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 10000,
+        "end": 10066,
         "file": "SysSe/SE_all/station_train/train_door_open",
         "layer": 3,
         "start": 8050
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12366,
         "persona": "Макото",
         "start": 10000,
         "text": "Дурёха. Ты чего вдруг?^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12366,
         "file": "Voice04/04-C1/04-C1-G00/04-C1-G00-0090",
         "layer": 1,
         "persona": "mak",
@@ -94,27 +98,27 @@
     },
     {
         "action": "PlaySe",
-        "end": 19000,
+        "end": 19050,
         "file": "SysSe/SE_all/station_train/start_bell",
         "layer": 2,
         "start": 10266
     },
     {
         "action": "CreateBG",
-        "end": 24000,
+        "end": 24333,
         "file": "Event04/04-C1/04-C1-G00/04-C1-G00-003",
         "start": 12350
     },
     {
         "action": "PrintText",
-        "end": 18000,
+        "end": 18016,
         "persona": "Сэкаи",
         "start": 13000,
         "text": "Тогда, давай я к тебе в гости?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18016,
         "file": "Voice04/04-C1/04-C1-G00/04-C1-G00-0100",
         "layer": 0,
         "persona": "sek",
@@ -122,21 +126,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 24000,
+        "end": 24333,
         "file": "SysSe/SE_all/station_train/train_start",
         "layer": 3,
         "start": 16216
     },
     {
         "action": "PrintText",
-        "end": 19000,
+        "end": 19133,
         "persona": "Макото",
         "start": 18033,
         "text": "Ну, знаешь...^"
     },
     {
         "action": "PlayVoice",
-        "end": 19000,
+        "end": 19133,
         "file": "Voice04/04-C1/04-C1-G00/04-C1-G00-0110",
         "layer": 1,
         "persona": "mak",
@@ -144,14 +148,14 @@
     },
     {
         "action": "PrintText",
-        "end": 23000,
+        "end": 23016,
         "persona": "Сэкаи",
         "start": 19150,
         "text": "Хотелось бы... К тебе в гости...^"
     },
     {
         "action": "PlayVoice",
-        "end": 23000,
+        "end": 23016,
         "file": "Voice04/04-C1/04-C1-G00/04-C1-G00-0120",
         "layer": 0,
         "persona": "sek",
@@ -159,17 +163,21 @@
     },
     {
         "action": "PrintText",
-        "end": 24000,
+        "end": 24083,
         "persona": "Макото",
         "start": 23033,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 24000,
+        "end": 24083,
         "file": "Voice04/04-C1/04-C1-G00/04-C1-G00-0130",
         "layer": 1,
         "persona": "mak",
         "start": 23033
+    },
+    {
+        "action": "Next",
+        "start": 24333
     }
 ]

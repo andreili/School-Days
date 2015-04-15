@@ -1,27 +1,31 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 6200
+    },
+    {
         "action": "PlaySe",
-        "end": 6000,
+        "end": 6200,
         "file": "SysSe/SE_all/gaya/kyousitu_rouka",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2316,
         "file": "Event05/05-5O/05-5O-F09/05-5O-F09-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2166,
         "persona": "Макото",
         "start": 150,
         "text": "С Сэкаи... Наверное.^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2166,
         "file": "Voice05/05-5O/05-5O-F09/05-5O-F09-0030",
         "layer": 1,
         "persona": "mak",
@@ -29,20 +33,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4233,
         "file": "Event05/05-5O/05-5O-F09/05-5O-F09-002",
         "start": 2316
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4183,
         "persona": "Сэкаи",
         "start": 3016,
         "text": "Макото...^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4183,
         "file": "Voice05/05-5O/05-5O-F09/05-5O-F09-0040",
         "layer": 0,
         "persona": "sek",
@@ -50,23 +54,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6200,
         "file": "Event05/05-5O/05-5O-F09/05-5O-F09-003",
         "start": 4233
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6166,
         "persona": "Котоноха",
         "start": 4250,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6166,
         "file": "Voice05/05-5O/05-5O-F09/05-5O-F09-0050",
         "layer": 0,
         "persona": "xxx",
         "start": 4250
+    },
+    {
+        "action": "Next",
+        "start": 6200
     }
 ]

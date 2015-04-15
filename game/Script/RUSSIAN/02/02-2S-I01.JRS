@@ -1,27 +1,31 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 116183
+    },
+    {
         "action": "PlaySe",
-        "end": 69000,
+        "end": 69083,
         "file": "Se01/01-00/01-00-E00/SE01-00-E00-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6166,
         "file": "Event02/02-2S/02-2S-I01/02-2S-I01-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 0,
+        "end": 366,
         "persona": "Макото",
         "start": 0,
         "text": "Ты очень красивая!^"
     },
     {
         "action": "PlayVoice",
-        "end": 0,
+        "end": 366,
         "file": "Voice02/02-2S/02-2S-I01/02-2S-I01-0030",
         "layer": 1,
         "persona": "mak",
@@ -29,14 +33,14 @@
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1333,
         "persona": "Котоноха",
         "start": 383,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1333,
         "file": "Voice02/02-2S/02-2S-I01/02-2S-I01-0040",
         "layer": 0,
         "persona": "kot",
@@ -44,14 +48,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6150,
         "persona": "Макото",
         "start": 1316,
         "text": "Сегодня ты как-то по-другому выглядишь.^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6150,
         "file": "Voice02/02-2S/02-2S-I01/02-2S-I01-0050",
         "layer": 1,
         "persona": "mak",
@@ -59,20 +63,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 11000,
+        "end": 11366,
         "file": "Event02/02-2S/02-2S-I01/02-2S-I01-002",
         "start": 6166
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11150,
         "persona": "Котоноха",
         "start": 6166,
         "text": "С-спасибо...^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11150,
         "file": "Voice02/02-2S/02-2S-I01/02-2S-I01-0060",
         "layer": 0,
         "persona": "kot",
@@ -81,25 +85,25 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 11000,
+        "end": 11366,
         "start": 11166
     },
     {
         "action": "CreateBG",
-        "end": 32000,
+        "end": 32250,
         "file": "Event02/02-2S/02-2S-I01/02-2S-I01-003_",
         "start": 11366
     },
     {
         "action": "PrintText",
-        "end": 23000,
+        "end": 23116,
         "persona": "Макото",
         "start": 11366,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 23000,
+        "end": 23116,
         "file": "Voice02/02-2S/02-2S-I01/02-2S-I01-0100",
         "layer": 1,
         "persona": "mak",
@@ -107,14 +111,14 @@
     },
     {
         "action": "PrintText",
-        "end": 30000,
+        "end": 30333,
         "persona": "Макото",
         "start": 23183,
         "text": "Что-то я лимонада слишком много выпил. Отлучусь на минутку.^"
     },
     {
         "action": "PlayVoice",
-        "end": 30000,
+        "end": 30333,
         "file": "Voice02/02-2S/02-2S-I01/02-2S-I01-0120",
         "layer": 1,
         "persona": "mak",
@@ -122,34 +126,34 @@
     },
     {
         "action": "PlaySe",
-        "end": 34000,
+        "end": 34150,
         "file": "SysSe/SE_all/door/okujou_door_open",
         "layer": 2,
         "start": 30200
     },
     {
         "action": "CreateBG",
-        "end": 38000,
+        "end": 38366,
         "file": "Event02/02-2S/02-2S-I01/02-2S-I01-004",
         "start": 32250
     },
     {
         "action": "PlaySe",
-        "end": 35000,
+        "end": 35300,
         "file": "SysSe/SE_all/door/okujou_door_close",
         "layer": 3,
         "start": 33283
     },
     {
         "action": "PrintText",
-        "end": 38000,
+        "end": 38133,
         "persona": "Котоноха",
         "start": 37083,
         "text": "Слушай...^"
     },
     {
         "action": "PlayVoice",
-        "end": 38000,
+        "end": 38133,
         "file": "Voice02/02-2S/02-2S-I01/02-2S-I01-0150",
         "layer": 0,
         "persona": "kot",
@@ -157,14 +161,14 @@
     },
     {
         "action": "PrintText",
-        "end": 38000,
+        "end": 38366,
         "persona": "Сэкаи",
         "start": 38133,
         "text": "М?^"
     },
     {
         "action": "PlayVoice",
-        "end": 38000,
+        "end": 38366,
         "file": "Voice02/02-2S/02-2S-I01/02-2S-I01-0160",
         "layer": 0,
         "persona": "sek",
@@ -172,14 +176,14 @@
     },
     {
         "action": "PrintText",
-        "end": 42000,
+        "end": 42016,
         "persona": "Котоноха",
         "start": 38350,
         "text": "Слышала, что он сказал?^"
     },
     {
         "action": "PlayVoice",
-        "end": 42000,
+        "end": 42016,
         "file": "Voice02/02-2S/02-2S-I01/02-2S-I01-0170",
         "layer": 0,
         "persona": "kot",
@@ -187,20 +191,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 52000,
+        "end": 52133,
         "file": "Event02/02-2S/02-2S-I01/02-2S-I01-005",
         "start": 38366
     },
     {
         "action": "PrintText",
-        "end": 43000,
+        "end": 43016,
         "persona": "Сэкаи",
         "start": 42016,
         "text": "Что?^"
     },
     {
         "action": "PlayVoice",
-        "end": 43000,
+        "end": 43016,
         "file": "Voice02/02-2S/02-2S-I01/02-2S-I01-0180",
         "layer": 0,
         "persona": "sek",
@@ -208,14 +212,14 @@
     },
     {
         "action": "PrintText",
-        "end": 46000,
+        "end": 46066,
         "persona": "Котоноха",
         "start": 43033,
         "text": "Ну, что я красивая...^"
     },
     {
         "action": "PlayVoice",
-        "end": 46000,
+        "end": 46066,
         "file": "Voice02/02-2S/02-2S-I01/02-2S-I01-0190",
         "layer": 0,
         "persona": "kot",
@@ -223,14 +227,14 @@
     },
     {
         "action": "PrintText",
-        "end": 46000,
+        "end": 46366,
         "persona": "Сэкаи",
         "start": 46066,
         "text": "Да...^"
     },
     {
         "action": "PlayVoice",
-        "end": 46000,
+        "end": 46366,
         "file": "Voice02/02-2S/02-2S-I01/02-2S-I01-0200",
         "layer": 0,
         "persona": "sek",
@@ -238,14 +242,14 @@
     },
     {
         "action": "PrintText",
-        "end": 52000,
+        "end": 52116,
         "persona": "Котоноха",
         "start": 46383,
         "text": "Даже не верится... Ты тоже думаешь, что я симпатичная?^"
     },
     {
         "action": "PlayVoice",
-        "end": 52000,
+        "end": 52116,
         "file": "Voice02/02-2S/02-2S-I01/02-2S-I01-0210",
         "layer": 0,
         "persona": "kot",
@@ -253,20 +257,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 71000,
+        "end": 71066,
         "file": "Event02/02-2S/02-2S-I01/02-2S-I01-006",
         "start": 52133
     },
     {
         "action": "PrintText",
-        "end": 58000,
+        "end": 58216,
         "persona": "Сэкаи",
         "start": 52133,
         "text": "Ну, ты миленькая и Макото ты нравишься.^"
     },
     {
         "action": "PlayVoice",
-        "end": 58000,
+        "end": 58216,
         "file": "Voice02/02-2S/02-2S-I01/02-2S-I01-0220",
         "layer": 0,
         "persona": "sek",
@@ -274,14 +278,14 @@
     },
     {
         "action": "PrintText",
-        "end": 62000,
+        "end": 62166,
         "persona": "Котоноха",
         "start": 58233,
         "text": "Да я не про это. Ты знаешь, на самом деле...^"
     },
     {
         "action": "PlayVoice",
-        "end": 62000,
+        "end": 62166,
         "file": "Voice02/02-2S/02-2S-I01/02-2S-I01-0230",
         "layer": 0,
         "persona": "kot",
@@ -289,14 +293,14 @@
     },
     {
         "action": "PrintText",
-        "end": 63000,
+        "end": 63066,
         "persona": "Сэкаи",
         "start": 62183,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 63000,
+        "end": 63066,
         "file": "Voice02/02-2S/02-2S-I01/02-2S-I01-0240",
         "layer": 0,
         "persona": "sek",
@@ -304,14 +308,14 @@
     },
     {
         "action": "PrintText",
-        "end": 69000,
+        "end": 69033,
         "persona": "Котоноха",
         "start": 63066,
         "text": "Этот лимонад меня мама готовить научила.^"
     },
     {
         "action": "PlayVoice",
-        "end": 69000,
+        "end": 69033,
         "file": "Voice02/02-2S/02-2S-I01/02-2S-I01-0250",
         "layer": 0,
         "persona": "kot",
@@ -319,21 +323,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 116000,
+        "end": 116183,
         "file": "Se01/01-00/01-00-E00/SE01-00-E00-001",
         "layer": 2,
         "start": 69000
     },
     {
         "action": "PrintText",
-        "end": 71000,
+        "end": 71066,
         "persona": "Сэкаи",
         "start": 69033,
         "text": "Правда?^"
     },
     {
         "action": "PlayVoice",
-        "end": 71000,
+        "end": 71066,
         "file": "Voice02/02-2S/02-2S-I01/02-2S-I01-0260",
         "layer": 0,
         "persona": "sek",
@@ -341,20 +345,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 93000,
+        "end": 93300,
         "file": "Event02/02-2S/02-2S-I01/02-2S-I01-007",
         "start": 71066
     },
     {
         "action": "PrintText",
-        "end": 77000,
+        "end": 77266,
         "persona": "Котоноха",
         "start": 71066,
         "text": "Ага, мама сказала, что он как выпьет, так сразу станет от меня без ума.^"
     },
     {
         "action": "PlayVoice",
-        "end": 77000,
+        "end": 77266,
         "file": "Voice02/02-2S/02-2S-I01/02-2S-I01-0270",
         "layer": 0,
         "persona": "kot",
@@ -362,14 +366,14 @@
     },
     {
         "action": "PrintText",
-        "end": 78000,
+        "end": 78383,
         "persona": "Сэкаи",
         "start": 77266,
         "text": "Да уж... Без ума...^"
     },
     {
         "action": "PlayVoice",
-        "end": 78000,
+        "end": 78383,
         "file": "Voice02/02-2S/02-2S-I01/02-2S-I01-0280",
         "layer": 0,
         "persona": "sek",
@@ -377,14 +381,14 @@
     },
     {
         "action": "PrintText",
-        "end": 83000,
+        "end": 83150,
         "persona": "Котоноха",
         "start": 79000,
         "text": "Ну, наверное, это просто совпадение...^"
     },
     {
         "action": "PlayVoice",
-        "end": 83000,
+        "end": 83150,
         "file": "Voice02/02-2S/02-2S-I01/02-2S-I01-0290",
         "layer": 0,
         "persona": "kot",
@@ -392,14 +396,14 @@
     },
     {
         "action": "PrintText",
-        "end": 91000,
+        "end": 91300,
         "persona": "Котоноха",
         "start": 83150,
         "text": "Я ведь и не думала всерьёз, что может так подействовать...^"
     },
     {
         "action": "PlayVoice",
-        "end": 91000,
+        "end": 91300,
         "file": "Voice02/02-2S/02-2S-I01/02-2S-I01-0291",
         "layer": 0,
         "persona": "kot",
@@ -407,14 +411,14 @@
     },
     {
         "action": "PrintText",
-        "end": 93000,
+        "end": 93016,
         "persona": "Сэкаи",
         "start": 91333,
         "text": "Лимонад?^"
     },
     {
         "action": "PlayVoice",
-        "end": 93000,
+        "end": 93016,
         "file": "Voice02/02-2S/02-2S-I01/02-2S-I01-0300",
         "layer": 0,
         "persona": "sek",
@@ -422,14 +426,14 @@
     },
     {
         "action": "PrintText",
-        "end": 93000,
+        "end": 93283,
         "persona": "Котоноха",
         "start": 93016,
         "text": "Ну да...^"
     },
     {
         "action": "PlayVoice",
-        "end": 93000,
+        "end": 93283,
         "file": "Voice02/02-2S/02-2S-I01/02-2S-I01-0310",
         "layer": 0,
         "persona": "kot",
@@ -437,26 +441,26 @@
     },
     {
         "action": "CreateBG",
-        "end": 97000,
+        "end": 97216,
         "file": "Event02/02-2S/02-2S-I01/02-2S-I01-008",
         "start": 93300
     },
     {
         "action": "CreateBG",
-        "end": 101000,
+        "end": 101216,
         "file": "Event02/02-2S/02-2S-I01/02-2S-I01-009",
         "start": 97216
     },
     {
         "action": "PrintText",
-        "end": 101000,
+        "end": 101200,
         "persona": "Сэкаи",
         "start": 97216,
         "text": "Ну результат же налицо!^"
     },
     {
         "action": "PlayVoice",
-        "end": 101000,
+        "end": 101200,
         "file": "Voice02/02-2S/02-2S-I01/02-2S-I01-0330",
         "layer": 0,
         "persona": "sek",
@@ -464,20 +468,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 109000,
+        "end": 109266,
         "file": "Event02/02-2S/02-2S-I01/02-2S-I01-010",
         "start": 101216
     },
     {
         "action": "PrintText",
-        "end": 102000,
+        "end": 102383,
         "persona": "Котоноха",
         "start": 101216,
         "text": "Думаешь?^"
     },
     {
         "action": "PlayVoice",
-        "end": 102000,
+        "end": 102383,
         "file": "Voice02/02-2S/02-2S-I01/02-2S-I01-0340",
         "layer": 0,
         "persona": "kot",
@@ -485,14 +489,14 @@
     },
     {
         "action": "PrintText",
-        "end": 108000,
+        "end": 108050,
         "persona": "Сэкаи",
         "start": 102383,
         "text": "Ну ещё бы, Макото сегодня к тебе совсем по-другому относится.^"
     },
     {
         "action": "PlayVoice",
-        "end": 108000,
+        "end": 108050,
         "file": "Voice02/02-2S/02-2S-I01/02-2S-I01-0350",
         "layer": 0,
         "persona": "sek",
@@ -500,14 +504,14 @@
     },
     {
         "action": "PrintText",
-        "end": 109000,
+        "end": 109250,
         "persona": "Котоноха",
         "start": 108066,
         "text": "Правда?^"
     },
     {
         "action": "PlayVoice",
-        "end": 109000,
+        "end": 109250,
         "file": "Voice02/02-2S/02-2S-I01/02-2S-I01-0360",
         "layer": 0,
         "persona": "kot",
@@ -515,20 +519,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 116000,
+        "end": 116183,
         "file": "Event02/02-2S/02-2S-I01/02-2S-I01-011",
         "start": 109266
     },
     {
         "action": "PrintText",
-        "end": 113000,
+        "end": 113100,
         "persona": "Сэкаи",
         "start": 109266,
         "text": "Да, думаю, он по-прежнему... очень тебя любит.^"
     },
     {
         "action": "PlayVoice",
-        "end": 113000,
+        "end": 113100,
         "file": "Voice02/02-2S/02-2S-I01/02-2S-I01-0370",
         "layer": 0,
         "persona": "sek",
@@ -536,14 +540,14 @@
     },
     {
         "action": "PrintText",
-        "end": 114000,
+        "end": 114333,
         "persona": "Котоноха",
         "start": 113083,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 114000,
+        "end": 114333,
         "file": "Voice02/02-2S/02-2S-I01/02-2S-I01-0380",
         "layer": 0,
         "persona": "kot",
@@ -552,7 +556,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 116000,
+        "end": 116183,
         "start": 115183
+    },
+    {
+        "action": "Next",
+        "start": 116183
     }
 ]

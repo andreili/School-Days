@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 44150
+    },
+    {
         "action": "PlaySe",
-        "end": 44000,
+        "end": 44150,
         "file": "SysSe/SE_all/gaya/kyousitu_rouka",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1250,
         "file": "Event04/04-KB/04-KB-F00/04-KB-F00-001",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7250,
         "file": "Event04/04-KB/04-KB-F00/04-KB-F00-002",
         "start": 1250
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4100,
         "persona": "Нанами",
         "start": 1300,
         "text": "Сэкаи, где обедать будешь?^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4100,
         "file": "Voice04/04-KB/04-KB-F00/04-KB-F00-0040",
         "layer": 0,
         "persona": "nan",
@@ -35,14 +39,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6016,
         "persona": "Сэкаи",
         "start": 4116,
         "text": "Э...^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6016,
         "file": "Voice04/04-KB/04-KB-F00/04-KB-F00-0050",
         "layer": 0,
         "persona": "sek",
@@ -50,14 +54,14 @@
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7216,
         "persona": "Хикари",
         "start": 6050,
         "text": "Пошли в столовку!^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7216,
         "file": "Voice04/04-KB/04-KB-F00/04-KB-F00-0060",
         "layer": 0,
         "persona": "hik",
@@ -65,20 +69,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8316,
         "file": "Event04/04-KB/04-KB-F00/04-KB-F00-003",
         "start": 7250
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8316,
         "persona": "Сэкаи",
         "start": 7350,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8316,
         "file": "Voice04/04-KB/04-KB-F00/04-KB-F00-0070",
         "layer": 0,
         "persona": "sek",
@@ -86,20 +90,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 25000,
+        "end": 25083,
         "file": "Event04/04-KB/04-KB-F00/04-KB-F00-004",
         "start": 8316
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11033,
         "persona": "Котоноха",
         "start": 9050,
         "text": "Саиёндзи!..^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11033,
         "file": "Voice04/04-KB/04-KB-F00/04-KB-F00-0090",
         "layer": 0,
         "persona": "kot",
@@ -107,14 +111,14 @@
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12183,
         "persona": "Сэкаи",
         "start": 11083,
         "text": "Что такое?^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12183,
         "file": "Voice04/04-KB/04-KB-F00/04-KB-F00-0100",
         "layer": 0,
         "persona": "sek",
@@ -122,14 +126,14 @@
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13383,
         "persona": "Котоноха",
         "start": 12233,
         "text": "Ну...^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13383,
         "file": "Voice04/04-KB/04-KB-F00/04-KB-F00-0110",
         "layer": 0,
         "persona": "kot",
@@ -137,14 +141,14 @@
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16350,
         "persona": "Сэкаи",
         "start": 13383,
         "text": "Если ты к Макото, то он с Саванагой в магазин пошёл.^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16350,
         "file": "Voice04/04-KB/04-KB-F00/04-KB-F00-0120",
         "layer": 0,
         "persona": "sek",
@@ -152,14 +156,14 @@
     },
     {
         "action": "PrintText",
-        "end": 20000,
+        "end": 20300,
         "persona": "Котоноха",
         "start": 16383,
         "text": "Нет... Я к тебе...^"
     },
     {
         "action": "PlayVoice",
-        "end": 20000,
+        "end": 20300,
         "file": "Voice04/04-KB/04-KB-F00/04-KB-F00-0130",
         "layer": 0,
         "persona": "kot",
@@ -167,14 +171,14 @@
     },
     {
         "action": "PrintText",
-        "end": 21000,
+        "end": 21333,
         "persona": "Сэкаи",
         "start": 20333,
         "text": "Ко мне?^"
     },
     {
         "action": "PlayVoice",
-        "end": 21000,
+        "end": 21333,
         "file": "Voice04/04-KB/04-KB-F00/04-KB-F00-0140",
         "layer": 0,
         "persona": "sek",
@@ -182,14 +186,14 @@
     },
     {
         "action": "PrintText",
-        "end": 25000,
+        "end": 25066,
         "persona": "Котоноха",
         "start": 22183,
         "text": "Посоветоваться хочу...^"
     },
     {
         "action": "PlayVoice",
-        "end": 25000,
+        "end": 25066,
         "file": "Voice04/04-KB/04-KB-F00/04-KB-F00-0150",
         "layer": 0,
         "persona": "kot",
@@ -197,20 +201,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 26000,
+        "end": 26383,
         "file": "Event04/04-KB/04-KB-F00/04-KB-F00-005",
         "start": 25083
     },
     {
         "action": "PrintText",
-        "end": 26000,
+        "end": 26383,
         "persona": "Сэкаи",
         "start": 25216,
         "text": "Ну, можно...^"
     },
     {
         "action": "PlayVoice",
-        "end": 26000,
+        "end": 26383,
         "file": "Voice04/04-KB/04-KB-F00/04-KB-F00-0160",
         "layer": 0,
         "persona": "sek",
@@ -218,7 +222,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 39000,
+        "end": 39100,
         "file": "Event04/04-KB/04-KB-F00/04-KB-F00-006",
         "start": 26383
     },
@@ -239,14 +243,14 @@
     },
     {
         "action": "PrintText",
-        "end": 31000,
+        "end": 31066,
         "persona": "Сэкаи",
         "start": 29000,
         "text": "Извини, сегодня не пойду.^"
     },
     {
         "action": "PlayVoice",
-        "end": 31000,
+        "end": 31066,
         "file": "Voice04/04-KB/04-KB-F00/04-KB-F00-0180",
         "layer": 0,
         "persona": "sek",
@@ -254,14 +258,14 @@
     },
     {
         "action": "PrintText",
-        "end": 32000,
+        "end": 32150,
         "persona": "Нанами",
         "start": 31083,
         "text": "Блин!^"
     },
     {
         "action": "PlayVoice",
-        "end": 32000,
+        "end": 32150,
         "file": "Voice04/04-KB/04-KB-F00/04-KB-F00-0190",
         "layer": 0,
         "persona": "nan",
@@ -269,14 +273,14 @@
     },
     {
         "action": "PrintText",
-        "end": 33000,
+        "end": 33383,
         "persona": "Сэкаи",
         "start": 32166,
         "text": "Завтра уж точно!^"
     },
     {
         "action": "PlayVoice",
-        "end": 33000,
+        "end": 33383,
         "file": "Voice04/04-KB/04-KB-F00/04-KB-F00-0200",
         "layer": 0,
         "persona": "sek",
@@ -284,14 +288,14 @@
     },
     {
         "action": "PrintText",
-        "end": 35000,
+        "end": 35233,
         "persona": "Хикари",
         "start": 33350,
         "text": "Угостишь нас заодно!^"
     },
     {
         "action": "PlayVoice",
-        "end": 35000,
+        "end": 35233,
         "file": "Voice04/04-KB/04-KB-F00/04-KB-F00-0210",
         "layer": 0,
         "persona": "hik",
@@ -299,14 +303,14 @@
     },
     {
         "action": "PrintText",
-        "end": 37000,
+        "end": 37350,
         "persona": "Сэкаи",
         "start": 35216,
         "text": "С чего вдруг?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 37000,
+        "end": 37350,
         "file": "Voice04/04-KB/04-KB-F00/04-KB-F00-0220",
         "layer": 0,
         "persona": "sek",
@@ -314,14 +318,14 @@
     },
     {
         "action": "PrintText",
-        "end": 39000,
+        "end": 39083,
         "persona": "Нанами",
         "start": 37350,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 39000,
+        "end": 39083,
         "file": "Voice04/04-KB/04-KB-F00/04-KB-F00-0230",
         "layer": 0,
         "persona": "nan",
@@ -329,20 +333,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 44000,
+        "end": 44150,
         "file": "Event04/04-KB/04-KB-F00/04-KB-F00-007",
         "start": 39100
     },
     {
         "action": "PrintText",
-        "end": 41000,
+        "end": 41216,
         "persona": "Сэкаи",
         "start": 39250,
         "text": "Ну что, пошли?^"
     },
     {
         "action": "PlayVoice",
-        "end": 41000,
+        "end": 41216,
         "file": "Voice04/04-KB/04-KB-F00/04-KB-F00-0250",
         "layer": 0,
         "persona": "sek",
@@ -350,17 +354,21 @@
     },
     {
         "action": "PrintText",
-        "end": 44000,
+        "end": 44116,
         "persona": "Котоноха",
         "start": 41266,
         "text": "Да. Спасибо большое.^"
     },
     {
         "action": "PlayVoice",
-        "end": 44000,
+        "end": 44116,
         "file": "Voice04/04-KB/04-KB-F00/04-KB-F00-0260",
         "layer": 0,
         "persona": "kot",
         "start": 41266
+    },
+    {
+        "action": "Next",
+        "start": 44150
     }
 ]

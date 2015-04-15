@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 143333
+    },
+    {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4166,
         "file": "Event04/04-KA/04-KA-L00/04-KA-L00-007",
         "start": 0
     },
     {
         "action": "EndBGM",
-        "end": 143000,
+        "end": 143333,
         "file": "BGM/Vocal/SDV14",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4166,
         "persona": "Сэкаи",
         "start": 3083,
         "text": "Макото...^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4166,
         "file": "Voice04/04-KA/04-KA-L01/04-KA-L01-0050",
         "layer": 0,
         "persona": "sek",
@@ -28,14 +32,18 @@
     },
     {
         "action": "PlayMovie",
-        "end": 9000,
+        "end": 9100,
         "file": "Movie04/04-KA/04-KA-L00/04-KA-L00-023",
         "start": 4166
     },
     {
         "action": "EndRoll",
-        "end": 143000,
+        "end": 143333,
         "file": "Movie04/ENDROLL/05-5",
         "start": 9100
+    },
+    {
+        "action": "Next",
+        "start": 144333
     }
 ]

@@ -1,7 +1,11 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 8350
+    },
+    {
         "action": "PlayBgm",
-        "end": 8000,
+        "end": 8350,
         "file": "BGM/SD_BGM/sdbgm20",
         "start": 0
     },
@@ -13,20 +17,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6200,
         "file": "Event02/02-2K/02-2K-H02/02-2K-H02-002",
         "start": 3000
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4350,
         "persona": "Котоноха",
         "start": 3216,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4350,
         "file": "Voice02/02-2K/02-2K-H02/02-2K-H02-0050",
         "layer": 0,
         "persona": "xxx",
@@ -34,23 +38,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8350,
         "file": "Event02/02-2K/02-2K-H02/02-2K-H02-003",
         "start": 6200
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7216,
         "persona": "Котоноха",
         "start": 6250,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7216,
         "file": "Voice02/02-2K/02-2K-H02/02-2K-H02-0070",
         "layer": 0,
         "persona": "",
         "start": 6250
+    },
+    {
+        "action": "Next",
+        "start": 8350
     }
 ]

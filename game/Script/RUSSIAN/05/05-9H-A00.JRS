@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 79166
+    },
+    {
         "action": "PlayBgm",
-        "end": 79000,
+        "end": 79166,
         "file": "BGM/SD_BGM/sdbgm17_semilong",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7183,
         "file": "Event05/05-9H/05-9H-A00/05-9H-A00-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2250,
         "persona": "Макото",
         "start": 0,
         "text": "Жарень...^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2250,
         "file": "Voice05/05-9H/05-9H-A00/05-9H-A00-0030",
         "layer": 1,
         "persona": "mak",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5283,
         "persona": "Макото",
         "start": 2250,
         "text": "Что ни говори, а вот оно... Лето...^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5283,
         "file": "Voice05/05-9H/05-9H-A00/05-9H-A00-0040",
         "layer": 1,
         "persona": "mak",
@@ -43,14 +47,14 @@
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12100,
         "persona": "Макото",
         "start": 5383,
         "text": "И опять семечко...^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12100,
         "file": "Voice05/05-9H/05-9H-A00/05-9H-A00-0050",
         "layer": 1,
         "persona": "mak",
@@ -58,27 +62,27 @@
     },
     {
         "action": "PlayMovie",
-        "end": 31000,
+        "end": 31216,
         "file": "Movie05/05-9H/05-9H-A00/05-9H-A00-002",
         "start": 7183
     },
     {
         "action": "PlaySe",
-        "end": 14000,
+        "end": 14116,
         "file": "Se05/05-9H/05-9H-A00/SE05-9H-A00-001",
         "layer": 1,
         "start": 10083
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16016,
         "persona": "Мать Макото",
         "start": 12383,
         "text": "Макото, скоро уже идти пора.^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16016,
         "file": "Voice05/05-9H/05-9H-A00/05-9H-A00-0060",
         "layer": 0,
         "persona": "mkm",
@@ -86,21 +90,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 16000,
+        "end": 16016,
         "file": "Se05/05-9H/05-9H-A00/SE05-9H-A00-001",
         "layer": 2,
         "start": 14100
     },
     {
         "action": "PrintText",
-        "end": 18000,
+        "end": 18383,
         "persona": "Макото",
         "start": 16033,
         "text": "Знаю...^"
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18383,
         "file": "Voice05/05-9H/05-9H-A00/05-9H-A00-0070",
         "layer": 1,
         "persona": "mak",
@@ -123,21 +127,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 23000,
+        "end": 23350,
         "file": "Se05/05-9H/05-9H-A00/SE05-9H-A00-006",
         "layer": 1,
         "start": 23200
     },
     {
         "action": "PrintText",
-        "end": 30000,
+        "end": 30150,
         "persona": "Макото",
         "start": 24283,
         "text": "Ладно-ладно... Иду уже...^"
     },
     {
         "action": "PlayVoice",
-        "end": 30000,
+        "end": 30150,
         "file": "Voice05/05-9H/05-9H-A00/05-9H-A00-0090",
         "layer": 1,
         "persona": "mak",
@@ -145,20 +149,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 48000,
+        "end": 48316,
         "file": "Movie05/05-9H/05-9H-A00/05-9H-A00-003",
         "start": 31216
     },
     {
         "action": "PrintText",
-        "end": 32000,
+        "end": 32250,
         "persona": "Мать Макото",
         "start": 31233,
         "text": "Что-то не так?^"
     },
     {
         "action": "PlayVoice",
-        "end": 32000,
+        "end": 32250,
         "file": "Voice05/05-9H/05-9H-A00/05-9H-A00-0100",
         "layer": 0,
         "persona": "mkm",
@@ -166,14 +170,14 @@
     },
     {
         "action": "PrintText",
-        "end": 35000,
+        "end": 35200,
         "persona": "Макото",
         "start": 33000,
         "text": "Да нет, письмо заграничное...^"
     },
     {
         "action": "PlayVoice",
-        "end": 35000,
+        "end": 35200,
         "file": "Voice05/05-9H/05-9H-A00/05-9H-A00-0110",
         "layer": 1,
         "persona": "mak",
@@ -181,14 +185,14 @@
     },
     {
         "action": "PrintText",
-        "end": 39000,
+        "end": 39266,
         "persona": "Мать Макото",
         "start": 35333,
         "text": "Ага. Утром пришло. Необычно, правда?^"
     },
     {
         "action": "PlayVoice",
-        "end": 39000,
+        "end": 39266,
         "file": "Voice05/05-9H/05-9H-A00/05-9H-A00-0120",
         "layer": 0,
         "persona": "mkm",
@@ -196,14 +200,14 @@
     },
     {
         "action": "PrintText",
-        "end": 44000,
+        "end": 44200,
         "persona": "Макото",
         "start": 40100,
         "text": "О... Ты английский знаешь?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 44000,
+        "end": 44200,
         "file": "Voice05/05-9H/05-9H-A00/05-9H-A00-0130",
         "layer": 1,
         "persona": "mak",
@@ -226,14 +230,14 @@
     },
     {
         "action": "PrintText",
-        "end": 47000,
+        "end": 47233,
         "persona": "Макото",
         "start": 47000,
         "text": "Э?^"
     },
     {
         "action": "PlayVoice",
-        "end": 47000,
+        "end": 47233,
         "file": "Voice05/05-9H/05-9H-A00/05-9H-A00-0150",
         "layer": 1,
         "persona": "mak",
@@ -241,14 +245,14 @@
     },
     {
         "action": "PrintText",
-        "end": 52000,
+        "end": 52366,
         "persona": "Мать Макото",
         "start": 47233,
         "text": "Французский. Да и потом, отправлено тебе. Открой да посмотри.^"
     },
     {
         "action": "PlayVoice",
-        "end": 52000,
+        "end": 52366,
         "file": "Voice05/05-9H/05-9H-A00/05-9H-A00-0160",
         "layer": 0,
         "persona": "mkm",
@@ -256,20 +260,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 75000,
+        "end": 75166,
         "file": "Movie05/05-9H/05-9H-A00/05-9H-A00-004",
         "start": 48316
     },
     {
         "action": "PrintText",
-        "end": 54000,
+        "end": 54200,
         "persona": "Макото",
         "start": 52366,
         "text": "От кого интересно?^"
     },
     {
         "action": "PlayVoice",
-        "end": 54000,
+        "end": 54200,
         "file": "Voice05/05-9H/05-9H-A00/05-9H-A00-0170",
         "layer": 1,
         "persona": "mak",
@@ -277,14 +281,14 @@
     },
     {
         "action": "PrintText",
-        "end": 57000,
+        "end": 57183,
         "persona": "Макото",
         "start": 54200,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 57000,
+        "end": 57183,
         "file": "Voice05/05-9H/05-9H-A00/05-9H-A00-0180",
         "layer": 1,
         "persona": "xxx",
@@ -307,7 +311,7 @@
     },
     {
         "action": "PlaySe",
-        "end": 61000,
+        "end": 61066,
         "file": "Se05/05-9H/05-9H-A00/SE05-9H-A00-002",
         "layer": 1,
         "start": 58316
@@ -329,21 +333,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 66000,
+        "end": 66183,
         "file": "Se05/05-9H/05-9H-A00/SE05-9H-A00-004",
         "layer": 1,
         "start": 65266
     },
     {
         "action": "PrintText",
-        "end": 68000,
+        "end": 68050,
         "persona": "Макото",
         "start": 66000,
         "text": "Н-н-н-не от кого!^"
     },
     {
         "action": "PlayVoice",
-        "end": 68000,
+        "end": 68050,
         "file": "Voice05/05-9H/05-9H-A00/05-9H-A00-0210",
         "layer": 1,
         "persona": "mak",
@@ -351,21 +355,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 70000,
+        "end": 70383,
         "file": "Se05/05-9H/05-9H-A00/SE05-9H-A00-003",
         "layer": 1,
         "start": 68216
     },
     {
         "action": "PrintText",
-        "end": 75000,
+        "end": 75066,
         "persona": "Мать Макото",
         "start": 71216,
         "text": "Видишь, пришла уже. Опять ждать тебя будет?^"
     },
     {
         "action": "PlayVoice",
-        "end": 75000,
+        "end": 75066,
         "file": "Voice05/05-9H/05-9H-A00/05-9H-A00-0220",
         "layer": 0,
         "persona": "mkm",
@@ -373,20 +377,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 79000,
+        "end": 79166,
         "file": "Movie05/05-9H/05-9H-A00/05-9H-A00-005",
         "start": 75166
     },
     {
         "action": "PrintText",
-        "end": 77000,
+        "end": 77116,
         "persona": "Мать Макото",
         "start": 76033,
         "text": "Уже иду!^"
     },
     {
         "action": "PlayVoice",
-        "end": 77000,
+        "end": 77116,
         "file": "Voice05/05-9H/05-9H-A00/05-9H-A00-0230",
         "layer": 0,
         "persona": "mkm",
@@ -394,9 +398,13 @@
     },
     {
         "action": "PlaySe",
-        "end": 79000,
+        "end": 79150,
         "file": "Se05/05-9H/05-9H-A00/SE05-9H-A00-005",
         "layer": 1,
         "start": 76283
+    },
+    {
+        "action": "Next",
+        "start": 79166
     }
 ]

@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 6216
+    },
+    {
         "action": "PlayBgm",
-        "end": 6000,
+        "end": 6216,
         "file": "BGM/SD_BGM/sdbgm07",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3183,
         "file": "Event01/01-00/01-00-N09/01-00-N09-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1100,
         "persona": "Макото",
         "start": 100,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1100,
         "file": "Voice01/01-00/01-00-N09/01-00-N09-0040",
         "layer": 1,
         "persona": "mak",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3066,
         "persona": "Макото",
         "start": 2016,
         "text": "Ладно...^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3066,
         "file": "Voice01/01-00/01-00-N09/01-00-N09-0050",
         "layer": 1,
         "persona": "mak",
@@ -43,23 +47,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6216,
         "file": "Event01/01-00/01-00-N00/01-00-N00-001",
         "start": 3183
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6016,
         "persona": "Макото",
         "start": 4133,
         "text": "Пойду спать...^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6016,
         "file": "Voice01/01-00/01-00-N09/01-00-N09-0070",
         "layer": 1,
         "persona": "mak",
         "start": 4133
+    },
+    {
+        "action": "Next",
+        "start": 6216
     }
 ]

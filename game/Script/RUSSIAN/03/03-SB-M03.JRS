@@ -1,27 +1,31 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 10016
+    },
+    {
         "action": "PlaySe",
-        "end": 15000,
+        "end": 15016,
         "file": "Se03/03-SB/03-SB-M03/SE03-SB-M03-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1016,
         "file": "Event03/03-SB/03-SB-M03/03-SB-M03-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 0,
+        "end": 366,
         "persona": "Макото",
         "start": 100,
         "text": "...^"
     },
     {
         "action": "PlayVoice",
-        "end": 0,
+        "end": 366,
         "file": "Voice03/03-SB/03-SB-M03/03-SB-M03-0030",
         "layer": 1,
         "persona": "xxx",
@@ -29,7 +33,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4350,
         "file": "Event03/03-SB/03-SB-M03/03-SB-M03-002",
         "start": 1016
     },
@@ -50,14 +54,14 @@
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2316,
         "persona": "Макото",
         "start": 2000,
         "text": "Ничего.^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2316,
         "file": "Voice03/03-SB/03-SB-M03/03-SB-M03-0050",
         "layer": 1,
         "persona": "mak",
@@ -65,14 +69,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4333,
         "persona": "Сэкаи",
         "start": 2316,
         "text": "Я просто была немного расстроена...^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4333,
         "file": "Voice03/03-SB/03-SB-M03/03-SB-M03-0060",
         "layer": 0,
         "persona": "sek",
@@ -80,14 +84,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6100,
         "persona": "Макото",
         "start": 4333,
         "text": "Да это мне нужно извиняться...^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6100,
         "file": "Voice03/03-SB/03-SB-M03/03-SB-M03-0070",
         "layer": 1,
         "persona": "mak",
@@ -95,20 +99,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6116,
         "file": "Event03/03-SB/03-SB-M03/03-SB-M03-003",
         "start": 4350
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9016,
         "persona": "Сэкаи",
         "start": 6100,
         "text": "Ну что, друзья?^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9016,
         "file": "Voice03/03-SB/03-SB-M03/03-SB-M03-0080",
         "layer": 0,
         "persona": "sek",
@@ -116,20 +120,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 15000,
+        "end": 15016,
         "file": "Movie03/03-SB/03-SB-M03/03-SB-M03-004",
         "start": 6116
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10300,
         "persona": "Макото",
         "start": 9000,
         "text": "Ага...^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10300,
         "file": "Voice03/03-SB/03-SB-M03/03-SB-M03-0090",
         "layer": 1,
         "persona": "mak",
@@ -139,7 +143,11 @@
         "action": "SetSELECT",
         "answer1": "Пожать Сэкаи руку.^",
         "answer2": "Поцеловать её.^",
-        "end": 14000,
+        "end": 14016,
         "start": 10016
+    },
+    {
+        "action": "Next",
+        "start": 15016
     }
 ]

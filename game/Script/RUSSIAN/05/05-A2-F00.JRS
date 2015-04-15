@@ -1,20 +1,24 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 244183
+    },
+    {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3300,
         "file": "Event05/05-A2/05-A2-F00/05-A2-F00-001",
         "start": 0
     },
     {
         "action": "BlackFade",
         "dir": "IN",
-        "end": 0,
+        "end": 200,
         "start": 0
     },
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 3000,
+        "end": 3300,
         "start": 2300
     },
     {
@@ -25,26 +29,26 @@
     },
     {
         "action": "PlayMovie",
-        "end": 45000,
+        "end": 45350,
         "file": "Movie05/05-A2/05-A2-F00/05-A2-F00-002_003",
         "start": 3300
     },
     {
         "action": "BlackFade",
         "dir": "IN",
-        "end": 4000,
+        "end": 4300,
         "start": 3300
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8350,
         "persona": "Макото",
         "start": 5200,
         "text": "С тех пор... Уже много воды утекло.^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8350,
         "file": "Voice05/05-A2/05-A2-F00/05-A2-F00-0050",
         "layer": 1,
         "persona": "xxx",
@@ -52,14 +56,14 @@
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16333,
         "persona": "Макото",
         "start": 9300,
         "text": "Я окончил школу и стал помогать маме в больнице... И, со временем, стал медбратом...^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16333,
         "file": "Voice05/05-A2/05-A2-F00/05-A2-F00-0060",
         "layer": 1,
         "persona": "xxx",
@@ -67,14 +71,14 @@
     },
     {
         "action": "PrintText",
-        "end": 23000,
+        "end": 23316,
         "persona": "Макото",
         "start": 19083,
         "text": "С того самого дня... Мы с Сэкаи стали словно чужими.^"
     },
     {
         "action": "PlayVoice",
-        "end": 23000,
+        "end": 23316,
         "file": "Voice05/05-A2/05-A2-F00/05-A2-F00-0070",
         "layer": 1,
         "persona": "xxx",
@@ -82,14 +86,14 @@
     },
     {
         "action": "PrintText",
-        "end": 28000,
+        "end": 28016,
         "persona": "Макото",
         "start": 25166,
         "text": "И ведь так любили друг друга...^"
     },
     {
         "action": "PlayVoice",
-        "end": 28000,
+        "end": 28016,
         "file": "Voice05/05-A2/05-A2-F00/05-A2-F00-0080",
         "layer": 1,
         "persona": "xxx",
@@ -97,14 +101,14 @@
     },
     {
         "action": "PrintText",
-        "end": 40000,
+        "end": 40083,
         "persona": "Макото",
         "start": 29383,
         "text": "Но... Стоило нам встретиться, просто заметить друг друга, как тут же перед глазами была Котоноха...^"
     },
     {
         "action": "PlayVoice",
-        "end": 40000,
+        "end": 40083,
         "file": "Voice05/05-A2/05-A2-F00/05-A2-F00-0090",
         "layer": 1,
         "persona": "xxx",
@@ -112,14 +116,14 @@
     },
     {
         "action": "PrintText",
-        "end": 44000,
+        "end": 44333,
         "persona": "Макото",
         "start": 41316,
         "text": "И мы не выдержали... Расстались.^"
     },
     {
         "action": "PlayVoice",
-        "end": 44000,
+        "end": 44333,
         "file": "Voice05/05-A2/05-A2-F00/05-A2-F00-0100",
         "layer": 1,
         "persona": "xxx",
@@ -127,20 +131,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 56000,
+        "end": 56233,
         "file": "Event05/05-A2/05-A2-F00/05-A2-F00-004",
         "start": 45350
     },
     {
         "action": "PrintText",
-        "end": 48000,
+        "end": 48233,
         "persona": "Макото",
         "start": 46250,
         "text": "А...^"
     },
     {
         "action": "PlayVoice",
-        "end": 48000,
+        "end": 48233,
         "file": "Voice05/05-A2/05-A2-F00/05-A2-F00-0110",
         "layer": 1,
         "persona": "mak",
@@ -148,14 +152,14 @@
     },
     {
         "action": "PrintText",
-        "end": 55000,
+        "end": 55366,
         "persona": "Макото",
         "start": 49283,
         "text": "Цветы?.. Сэкаи тоже приходила.^"
     },
     {
         "action": "PlayVoice",
-        "end": 55000,
+        "end": 55366,
         "file": "Voice05/05-A2/05-A2-F00/05-A2-F00-0130",
         "layer": 1,
         "persona": "mak",
@@ -169,14 +173,14 @@
     },
     {
         "action": "PrintText",
-        "end": 64000,
+        "end": 64333,
         "persona": "Макото",
         "start": 57150,
         "text": "Так и вышло... Что лишь в день её смерти, мы с Сэкаи вспоминаем друг о друге...^"
     },
     {
         "action": "PlayVoice",
-        "end": 64000,
+        "end": 64333,
         "file": "Voice05/05-A2/05-A2-F00/05-A2-F00-0140",
         "layer": 1,
         "persona": "xxx",
@@ -184,14 +188,14 @@
     },
     {
         "action": "PrintText",
-        "end": 70000,
+        "end": 70333,
         "persona": "Макото",
         "start": 66033,
         "text": "Всё так, как в последних словах Котонохи...^"
     },
     {
         "action": "PlayVoice",
-        "end": 70000,
+        "end": 70333,
         "file": "Voice05/05-A2/05-A2-F00/05-A2-F00-0150",
         "layer": 1,
         "persona": "xxx",
@@ -199,14 +203,14 @@
     },
     {
         "action": "PrintText",
-        "end": 73000,
+        "end": 73150,
         "persona": "Макото",
         "start": 72150,
         "text": "Всегда...^"
     },
     {
         "action": "PlayVoice",
-        "end": 73000,
+        "end": 73150,
         "file": "Voice05/05-A2/05-A2-F00/05-A2-F00-0160",
         "layer": 1,
         "persona": "xxx",
@@ -220,14 +224,18 @@
     },
     {
         "action": "EndRoll",
-        "end": 244000,
+        "end": 244183,
         "file": "Movie05/ENDROLL/06-6",
         "start": 77000
     },
     {
         "action": "EndBGM",
-        "end": 244000,
+        "end": 244133,
         "file": "BGM/Vocal/SDV10",
         "start": 77000
+    },
+    {
+        "action": "Next",
+        "start": 245183
     }
 ]

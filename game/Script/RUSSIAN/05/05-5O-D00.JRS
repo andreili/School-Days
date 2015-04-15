@@ -1,7 +1,11 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 10250
+    },
+    {
         "action": "PlayBgm",
-        "end": 10000,
+        "end": 10250,
         "file": "BGM/SD_BGM/sdbgm20",
         "start": 0
     },
@@ -19,23 +23,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10250,
         "file": "Event05/05-5O/05-5O-D00/05-5O-D00-003",
         "start": 6000
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9216,
         "persona": "Макото",
         "start": 6133,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9216,
         "file": "Voice05/05-5O/05-5O-D00/05-5O-D00-0040",
         "layer": 1,
         "persona": "xxx",
         "start": 6133
+    },
+    {
+        "action": "Next",
+        "start": 10250
     }
 ]

@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 15050
+    },
+    {
         "action": "PlayBgm",
-        "end": 15000,
+        "end": 15050,
         "file": "BGM/SD_BGM/sdbgm20",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 15000,
+        "end": 15050,
         "file": "Event03/03-BK/03-BK-A05/03-BK-A05-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1216,
         "persona": "Макото",
         "start": 0,
         "text": "Котоноха...^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1216,
         "file": "Voice03/03-BK/03-BK-A05/03-BK-A05-0030",
         "layer": 1,
         "persona": "mak",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7200,
         "persona": "Макото",
         "start": 2033,
         "text": "Чего она себе думает?.. Весь день просто сияла, а под вечер вдруг стала мрачнее тучи.^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7200,
         "file": "Voice03/03-BK/03-BK-A05/03-BK-A05-0040",
         "layer": 1,
         "persona": "mak",
@@ -43,14 +47,14 @@
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10266,
         "persona": "Макото",
         "start": 8000,
         "text": "И вдруг захотела, чтобы я её поцеловал...^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10266,
         "file": "Voice03/03-BK/03-BK-A05/03-BK-A05-0050",
         "layer": 1,
         "persona": "mak",
@@ -58,14 +62,14 @@
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12216,
         "persona": "Макото",
         "start": 11066,
         "text": "Я просто не понимаю...^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12216,
         "file": "Voice03/03-BK/03-BK-A05/03-BK-A05-0060",
         "layer": 1,
         "persona": "mak",
@@ -73,17 +77,21 @@
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14250,
         "persona": "Макото",
         "start": 13016,
         "text": "Хех...^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14250,
         "file": "Voice03/03-BK/03-BK-A05/03-BK-A05-0070",
         "layer": 1,
         "persona": "mak",
         "start": 13016
+    },
+    {
+        "action": "Next",
+        "start": 15050
     }
 ]

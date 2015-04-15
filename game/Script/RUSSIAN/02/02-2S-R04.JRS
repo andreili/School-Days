@@ -1,5 +1,9 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 13000
+    },
+    {
         "action": "PlayBgm",
         "end": 13000,
         "file": "BGM/SD_BGM/sdbgm07",
@@ -7,20 +11,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 2000,
+        "end": 2283,
         "file": "Movie02/02-2S/02-2S-R04/02-2S-R04-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1333,
         "persona": "Макото",
         "start": 0,
         "text": "На самом деле Сэкаи не люблю?^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1333,
         "file": "Voice02/02-2S/02-2S-R04/02-2S-R04-0030",
         "layer": 1,
         "persona": "xxx",
@@ -28,20 +32,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4333,
         "file": "Event02/02-2S/02-2S-R04/02-2S-R04-002",
         "start": 2283
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4150,
         "persona": "Макото",
         "start": 3016,
         "text": "Нет, глупости!^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4150,
         "file": "Voice02/02-2S/02-2S-R04/02-2S-R04-0060",
         "layer": 1,
         "persona": "xxx",
@@ -49,20 +53,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10066,
         "file": "Event02/02-2S/02-2S-R04/02-2S-R04-003",
         "start": 4333
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9200,
         "persona": "Макото",
         "start": 5133,
         "text": "И всё-таки Котоноха не идёт из головы...^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9200,
         "file": "Voice02/02-2S/02-2S-R04/02-2S-R04-0070",
         "layer": 1,
         "persona": "xxx",
@@ -73,5 +77,9 @@
         "end": 13000,
         "file": "Event02/02-2S/02-2S-R04/02-2S-R04-004",
         "start": 10066
+    },
+    {
+        "action": "Next",
+        "start": 13000
     }
 ]

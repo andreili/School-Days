@@ -1,5 +1,9 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 10000
+    },
+    {
         "action": "PlayBgm",
         "end": 10000,
         "file": "BGM/SD_BGM/sdbgm25",
@@ -7,20 +11,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 4000,
+        "end": 4250,
         "file": "Movie03/03-KB/03-KB-N09/03-KB-N09-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2150,
         "persona": "Котоноха",
         "start": 0,
         "text": "Значит...^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2150,
         "file": "Voice03/03-KB/03-KB-N09/03-KB-N09-0030",
         "layer": 0,
         "persona": "kot",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3050,
         "persona": "Макото",
         "start": 2250,
         "text": "М?^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3050,
         "file": "Voice03/03-KB/03-KB-N09/03-KB-N09-0040",
         "layer": 1,
         "persona": "mak",
@@ -43,14 +47,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4166,
         "persona": "Котоноха",
         "start": 3116,
         "text": "Мы будем первые друг у друга.^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4166,
         "file": "Voice03/03-KB/03-KB-N09/03-KB-N09-0050",
         "layer": 0,
         "persona": "kot",
@@ -64,14 +68,14 @@
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7016,
         "persona": "Макото",
         "start": 5166,
         "text": "Да.^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7016,
         "file": "Voice03/03-KB/03-KB-N09/03-KB-N09-0060",
         "layer": 1,
         "persona": "mak",
@@ -79,14 +83,14 @@
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8183,
         "persona": "Котоноха",
         "start": 7083,
         "text": "Я так рада...^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8183,
         "file": "Voice03/03-KB/03-KB-N09/03-KB-N09-0070",
         "layer": 0,
         "persona": "kot",
@@ -94,17 +98,21 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9233,
         "persona": "Макото",
         "start": 8283,
         "text": "Я тоже...^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9233,
         "file": "Voice03/03-KB/03-KB-N09/03-KB-N09-0080",
         "layer": 1,
         "persona": "mak",
         "start": 8283
+    },
+    {
+        "action": "Next",
+        "start": 10000
     }
 ]

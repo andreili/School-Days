@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 132266
+    },
+    {
         "action": "PlayBgm",
-        "end": 132000,
+        "end": 132266,
         "file": "BGM/SD_BGM/sdbgm13",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 28000,
+        "end": 28250,
         "file": "Event04/04-KB/04-KB-A00/04-KB-A00-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4183,
         "persona": "Отец Котонохи",
         "start": 200,
         "text": "Давненько у нас так вся семья не собиралась...^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4183,
         "file": "Voice04/04-KB/04-KB-A00/04-KB-A00-0070",
         "layer": 1,
         "persona": "tit",
@@ -43,14 +47,14 @@
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13316,
         "persona": "Отец Котонохи",
         "start": 6350,
         "text": "Ну а что я могу поделать? Чтобы недвижимостью торговать надо постоянно по городу бегать!^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13316,
         "file": "Voice04/04-KB/04-KB-A00/04-KB-A00-0090",
         "layer": 1,
         "persona": "tit",
@@ -58,14 +62,14 @@
     },
     {
         "action": "PrintText",
-        "end": 18000,
+        "end": 18383,
         "persona": "Манами",
         "start": 12366,
         "text": "Да-да. Я и сама в постоянных заграничных командировках. Ничего не поделаешь.^"
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18383,
         "file": "Voice04/04-KB/04-KB-A00/04-KB-A00-0100",
         "layer": 0,
         "persona": "man",
@@ -73,14 +77,14 @@
     },
     {
         "action": "PrintText",
-        "end": 29000,
+        "end": 29033,
         "persona": "Отец Котонохи",
         "start": 18300,
         "text": "Ну, да... Дети даже и не жалуются, что мы постоянно в разъездах да дома не бываем.^"
     },
     {
         "action": "PlayVoice",
-        "end": 29000,
+        "end": 29033,
         "file": "Voice04/04-KB/04-KB-A00/04-KB-A00-0110",
         "layer": 1,
         "persona": "tit",
@@ -88,20 +92,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 71000,
+        "end": 71333,
         "file": "Event04/04-KB/04-KB-A00/04-KB-A00-002",
         "start": 28250
     },
     {
         "action": "PrintText",
-        "end": 35000,
+        "end": 35033,
         "persona": "Манами",
         "start": 28250,
         "text": "Точно. Они и без нас прекрасно справляются.^"
     },
     {
         "action": "PlayVoice",
-        "end": 35000,
+        "end": 35033,
         "file": "Voice04/04-KB/04-KB-A00/04-KB-A00-0120",
         "layer": 0,
         "persona": "man",
@@ -109,14 +113,14 @@
     },
     {
         "action": "PrintText",
-        "end": 38000,
+        "end": 38083,
         "persona": "Отец Котонохи",
         "start": 35016,
         "text": "Справляться-то может и справляются, но...^"
     },
     {
         "action": "PlayVoice",
-        "end": 38000,
+        "end": 38083,
         "file": "Voice04/04-KB/04-KB-A00/04-KB-A00-0130",
         "layer": 1,
         "persona": "tit",
@@ -124,14 +128,14 @@
     },
     {
         "action": "PrintText",
-        "end": 43000,
+        "end": 43133,
         "persona": "Манами",
         "start": 38016,
         "text": "Котонохе вон, вообще с парнем гулять интереснее, чем с нами сидеть.^"
     },
     {
         "action": "PlayVoice",
-        "end": 43000,
+        "end": 43133,
         "file": "Voice04/04-KB/04-KB-A00/04-KB-A00-0140",
         "layer": 0,
         "persona": "man",
@@ -139,14 +143,14 @@
     },
     {
         "action": "PrintText",
-        "end": 46000,
+        "end": 46016,
         "persona": "Отец Котонохи",
         "start": 43083,
         "text": "С этим, что ли?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 46000,
+        "end": 46016,
         "file": "Voice04/04-KB/04-KB-A00/04-KB-A00-0150",
         "layer": 1,
         "persona": "tit",
@@ -154,14 +158,14 @@
     },
     {
         "action": "PrintText",
-        "end": 49000,
+        "end": 49216,
         "persona": "Манами",
         "start": 45250,
         "text": "Будешь к нему так относиться, Котоноха обидится.^"
     },
     {
         "action": "PlayVoice",
-        "end": 49000,
+        "end": 49216,
         "file": "Voice04/04-KB/04-KB-A00/04-KB-A00-0160",
         "layer": 0,
         "persona": "man",
@@ -169,14 +173,14 @@
     },
     {
         "action": "PrintText",
-        "end": 50000,
+        "end": 50016,
         "persona": "Отец Котонохи",
         "start": 49050,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 50000,
+        "end": 50016,
         "file": "Voice04/04-KB/04-KB-A00/04-KB-A00-0170",
         "layer": 1,
         "persona": "tit",
@@ -184,14 +188,14 @@
     },
     {
         "action": "PrintText",
-        "end": 54000,
+        "end": 54383,
         "persona": "Манами",
         "start": 50083,
         "text": "Да и Кокоро себе скоро кавалера найдёт.^"
     },
     {
         "action": "PlayVoice",
-        "end": 54000,
+        "end": 54383,
         "file": "Voice04/04-KB/04-KB-A00/04-KB-A00-0180",
         "layer": 0,
         "persona": "man",
@@ -199,14 +203,14 @@
     },
     {
         "action": "PrintText",
-        "end": 59000,
+        "end": 59033,
         "persona": "Отец Котонохи",
         "start": 53200,
         "text": "Рано ей ещё! Рано! Да и Котонохе!..^"
     },
     {
         "action": "PlayVoice",
-        "end": 59000,
+        "end": 59033,
         "file": "Voice04/04-KB/04-KB-A00/04-KB-A00-0190",
         "layer": 1,
         "persona": "tit",
@@ -214,14 +218,14 @@
     },
     {
         "action": "PrintText",
-        "end": 59000,
+        "end": 59166,
         "persona": "Манами",
         "start": 58083,
         "text": "Да-да, конечно.^"
     },
     {
         "action": "PlayVoice",
-        "end": 59000,
+        "end": 59166,
         "file": "Voice04/04-KB/04-KB-A00/04-KB-A00-0200",
         "layer": 0,
         "persona": "man",
@@ -229,14 +233,14 @@
     },
     {
         "action": "PrintText",
-        "end": 63000,
+        "end": 63083,
         "persona": "Отец Котонохи",
         "start": 60133,
         "text": "Так вот, дорогая...^"
     },
     {
         "action": "PlayVoice",
-        "end": 63000,
+        "end": 63083,
         "file": "Voice04/04-KB/04-KB-A00/04-KB-A00-0220",
         "layer": 1,
         "persona": "tit",
@@ -244,14 +248,14 @@
     },
     {
         "action": "PrintText",
-        "end": 65000,
+        "end": 65100,
         "persona": "Манами",
         "start": 63016,
         "text": "Чего это ты так официально?^"
     },
     {
         "action": "PlayVoice",
-        "end": 65000,
+        "end": 65100,
         "file": "Voice04/04-KB/04-KB-A00/04-KB-A00-0230",
         "layer": 0,
         "persona": "man",
@@ -259,14 +263,14 @@
     },
     {
         "action": "PrintText",
-        "end": 69000,
+        "end": 69066,
         "persona": "Отец Котонохи",
         "start": 65133,
         "text": "Проводить время с семьёй - дело важное.^"
     },
     {
         "action": "PlayVoice",
-        "end": 69000,
+        "end": 69066,
         "file": "Voice04/04-KB/04-KB-A00/04-KB-A00-0240",
         "layer": 1,
         "persona": "tit",
@@ -274,14 +278,14 @@
     },
     {
         "action": "PrintText",
-        "end": 70000,
+        "end": 70133,
         "persona": "Манами",
         "start": 69000,
         "text": "Да...^"
     },
     {
         "action": "PlayVoice",
-        "end": 70000,
+        "end": 70133,
         "file": "Voice04/04-KB/04-KB-A00/04-KB-A00-0250",
         "layer": 0,
         "persona": "man",
@@ -289,14 +293,14 @@
     },
     {
         "action": "PrintText",
-        "end": 78000,
+        "end": 78216,
         "persona": "Отец Котонохи",
         "start": 70233,
         "text": "Я тут билеты в аквапарк достал. Может, сходим все вместе?^"
     },
     {
         "action": "PlayVoice",
-        "end": 78000,
+        "end": 78216,
         "file": "Voice04/04-KB/04-KB-A00/04-KB-A00-0260",
         "layer": 1,
         "persona": "tit",
@@ -304,20 +308,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 90000,
+        "end": 90383,
         "file": "Event04/04-KB/04-KB-A00/04-KB-A00-003",
         "start": 71333
     },
     {
         "action": "PrintText",
-        "end": 79000,
+        "end": 79083,
         "persona": "Манами",
         "start": 77216,
         "text": "Не сходим.^"
     },
     {
         "action": "PlayVoice",
-        "end": 79000,
+        "end": 79083,
         "file": "Voice04/04-KB/04-KB-A00/04-KB-A00-0270",
         "layer": 0,
         "persona": "man",
@@ -325,14 +329,14 @@
     },
     {
         "action": "PrintText",
-        "end": 81000,
+        "end": 81066,
         "persona": "Отец Котонохи",
         "start": 78316,
         "text": "П-почему?^"
     },
     {
         "action": "PlayVoice",
-        "end": 81000,
+        "end": 81066,
         "file": "Voice04/04-KB/04-KB-A00/04-KB-A00-0280",
         "layer": 1,
         "persona": "tit",
@@ -340,14 +344,14 @@
     },
     {
         "action": "PrintText",
-        "end": 84000,
+        "end": 84166,
         "persona": "Манами",
         "start": 80250,
         "text": "Я обещала на выходных в Сидней слетать.^"
     },
     {
         "action": "PlayVoice",
-        "end": 84000,
+        "end": 84166,
         "file": "Voice04/04-KB/04-KB-A00/04-KB-A00-0290",
         "layer": 0,
         "persona": "man",
@@ -355,14 +359,14 @@
     },
     {
         "action": "PrintText",
-        "end": 91000,
+        "end": 91333,
         "persona": "Отец Котонохи",
         "start": 84150,
         "text": "Н-ну и в басейн сходить было бы неплохо! Все вместе! Семьёй! Тут и недалеко!^"
     },
     {
         "action": "PlayVoice",
-        "end": 91000,
+        "end": 91333,
         "file": "Voice04/04-KB/04-KB-A00/04-KB-A00-0300",
         "layer": 1,
         "persona": "tit",
@@ -370,20 +374,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 106000,
+        "end": 106383,
         "file": "Event04/04-KB/04-KB-A00/04-KB-A00-002",
         "start": 90383
     },
     {
         "action": "PrintText",
-        "end": 96000,
+        "end": 96066,
         "persona": "Манами",
         "start": 90383,
         "text": "Нет уж. Есть для этих билетов лучшее применение.^"
     },
     {
         "action": "PlayVoice",
-        "end": 96000,
+        "end": 96066,
         "file": "Voice04/04-KB/04-KB-A00/04-KB-A00-0310",
         "layer": 0,
         "persona": "man",
@@ -391,14 +395,14 @@
     },
     {
         "action": "PrintText",
-        "end": 98000,
+        "end": 98216,
         "persona": "Отец Котонохи",
         "start": 96066,
         "text": "Лучшее?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 98000,
+        "end": 98216,
         "file": "Voice04/04-KB/04-KB-A00/04-KB-A00-0320",
         "layer": 1,
         "persona": "tit",
@@ -406,14 +410,14 @@
     },
     {
         "action": "PrintText",
-        "end": 103000,
+        "end": 103083,
         "persona": "Манами",
         "start": 98233,
         "text": "Такое, что доченька будет любимого папочку ещё долго благодарить.^"
     },
     {
         "action": "PlayVoice",
-        "end": 103000,
+        "end": 103083,
         "file": "Voice04/04-KB/04-KB-A00/04-KB-A00-0330",
         "layer": 0,
         "persona": "man",
@@ -421,14 +425,14 @@
     },
     {
         "action": "PrintText",
-        "end": 105000,
+        "end": 105350,
         "persona": "Отец Котонохи",
         "start": 103116,
         "text": "Ч-что ещё за применение-то такое?^"
     },
     {
         "action": "PlayVoice",
-        "end": 105000,
+        "end": 105350,
         "file": "Voice04/04-KB/04-KB-A00/04-KB-A00-0340",
         "layer": 1,
         "persona": "tit",
@@ -436,14 +440,14 @@
     },
     {
         "action": "PrintText",
-        "end": 107000,
+        "end": 107033,
         "persona": "Манами",
         "start": 105350,
         "text": "Котоноха!..^"
     },
     {
         "action": "PlayVoice",
-        "end": 107000,
+        "end": 107033,
         "file": "Voice04/04-KB/04-KB-A00/04-KB-A00-0350",
         "layer": 0,
         "persona": "man",
@@ -451,20 +455,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 114000,
+        "end": 114033,
         "file": "Event04/04-KB/04-KB-A00/04-KB-A00-005",
         "start": 106383
     },
     {
         "action": "PrintText",
-        "end": 108000,
+        "end": 108366,
         "persona": "Котоноха",
         "start": 106383,
         "text": "Что, мам?^"
     },
     {
         "action": "PlayVoice",
-        "end": 108000,
+        "end": 108366,
         "file": "Voice04/04-KB/04-KB-A00/04-KB-A00-0360",
         "layer": 0,
         "persona": "kot",
@@ -472,14 +476,14 @@
     },
     {
         "action": "PrintText",
-        "end": 112000,
+        "end": 112100,
         "persona": "Манами",
         "start": 109050,
         "text": "У папы для тебя подарок есть!^"
     },
     {
         "action": "PlayVoice",
-        "end": 112000,
+        "end": 112100,
         "file": "Voice04/04-KB/04-KB-A00/04-KB-A00-0370",
         "layer": 0,
         "persona": "man",
@@ -487,14 +491,14 @@
     },
     {
         "action": "PrintText",
-        "end": 114000,
+        "end": 114066,
         "persona": "Котоноха",
         "start": 112033,
         "text": "Э? Какой?^"
     },
     {
         "action": "PlayVoice",
-        "end": 114000,
+        "end": 114066,
         "file": "Voice04/04-KB/04-KB-A00/04-KB-A00-0380",
         "layer": 0,
         "persona": "kot",
@@ -502,20 +506,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 125000,
+        "end": 125183,
         "file": "Event04/04-KB/04-KB-A00/04-KB-A00-006",
         "start": 114033
     },
     {
         "action": "PrintText",
-        "end": 115000,
+        "end": 115333,
         "persona": "Отец Котонохи",
         "start": 114033,
         "text": "Ты же не?!.^"
     },
     {
         "action": "PlayVoice",
-        "end": 115000,
+        "end": 115333,
         "file": "Voice04/04-KB/04-KB-A00/04-KB-A00-0390",
         "layer": 1,
         "persona": "tit",
@@ -523,14 +527,14 @@
     },
     {
         "action": "PrintText",
-        "end": 120000,
+        "end": 120183,
         "persona": "Манами",
         "start": 115333,
         "text": "Такой, что отношения с Макото ещё лучше станут!^"
     },
     {
         "action": "PlayVoice",
-        "end": 120000,
+        "end": 120183,
         "file": "Voice04/04-KB/04-KB-A00/04-KB-A00-0400",
         "layer": 0,
         "persona": "man",
@@ -538,14 +542,14 @@
     },
     {
         "action": "PrintText",
-        "end": 123000,
+        "end": 123383,
         "persona": "Котоноха",
         "start": 120166,
         "text": "Это какой же?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 123000,
+        "end": 123383,
         "file": "Voice04/04-KB/04-KB-A00/04-KB-A00-0410",
         "layer": 0,
         "persona": "kot",
@@ -553,14 +557,14 @@
     },
     {
         "action": "PrintText",
-        "end": 125000,
+        "end": 125216,
         "persona": "Манами",
         "start": 123350,
         "text": "Ну давай же, папа!^"
     },
     {
         "action": "PlayVoice",
-        "end": 125000,
+        "end": 125216,
         "file": "Voice04/04-KB/04-KB-A00/04-KB-A00-0420",
         "layer": 0,
         "persona": "man",
@@ -568,23 +572,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 132000,
+        "end": 132266,
         "file": "Event04/04-KB/04-KB-A00/04-KB-A00-003",
         "start": 125183
     },
     {
         "action": "PrintText",
-        "end": 132000,
+        "end": 132266,
         "persona": "Отец Котонохи",
         "start": 125183,
         "text": "Вот... Котоноха... Вместе с друзьями...^"
     },
     {
         "action": "PlayVoice",
-        "end": 132000,
+        "end": 132266,
         "file": "Voice04/04-KB/04-KB-A00/04-KB-A00-0430",
         "layer": 1,
         "persona": "tit",
         "start": 125183
+    },
+    {
+        "action": "Next",
+        "start": 132266
     }
 ]

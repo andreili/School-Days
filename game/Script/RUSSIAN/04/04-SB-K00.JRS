@@ -1,32 +1,36 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 7266
+    },
+    {
         "action": "PlayBgm",
-        "end": 7000,
+        "end": 7266,
         "file": "BGM/SD_BGM/sdbgm19",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2166,
         "file": "Event04/04-SB/04-SB-K00/04-SB-K00-001",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3350,
         "file": "Event04/04-SB/04-SB-K00/04-SB-K00-002",
         "start": 2166
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3233,
         "persona": "Хикари",
         "start": 2216,
         "text": "А...^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3233,
         "file": "Voice04/04-SB/04-SB-K00/04-SB-K00-0040",
         "layer": 0,
         "persona": "hik",
@@ -34,23 +38,27 @@
     },
     {
         "action": "PlayMovie",
-        "end": 7000,
+        "end": 7266,
         "file": "Movie04/04-SB/04-SB-K00/04-SB-K00-003",
         "start": 3350
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7216,
         "persona": "Хикари",
         "start": 6100,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7216,
         "file": "Voice04/04-SB/04-SB-K00/04-SB-K00-0060",
         "layer": 0,
         "persona": "xxx",
         "start": 6100
+    },
+    {
+        "action": "Next",
+        "start": 7266
     }
 ]

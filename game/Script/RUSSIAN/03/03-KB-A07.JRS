@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 12150
+    },
+    {
         "action": "PlayBgm",
-        "end": 18000,
+        "end": 18166,
         "file": "BGM/SD_BGM/sdbgm19",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 18000,
+        "end": 18166,
         "file": "Se03/03-KB/03-KB-A07/SE03-KB-A07-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8150,
         "file": "Event03/03-KB/03-KB-A07/03-KB-A07-001A",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8200,
         "persona": "Макото",
         "start": 50,
         "text": "Нам лучше какое-то время не видеться... А как это сделать, если в параллельных классах учимся?^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8200,
         "file": "Voice03/03-KB/03-KB-A07/03-KB-A07-0030",
         "layer": 1,
         "persona": "mak",
@@ -35,20 +39,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 18000,
+        "end": 18166,
         "file": "Event03/03-KB/03-KB-A07/03-KB-A07-001B",
         "start": 8150
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9316,
         "persona": "Макото",
         "start": 8250,
         "text": "Хех...^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9316,
         "file": "Voice03/03-KB/03-KB-A07/03-KB-A07-0040",
         "layer": 1,
         "persona": "mak",
@@ -56,14 +60,14 @@
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13100,
         "persona": "Макото",
         "start": 9383,
         "text": "Котоноха...^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13100,
         "file": "Voice03/03-KB/03-KB-A07/03-KB-A07-0050",
         "layer": 1,
         "persona": "mak",
@@ -73,7 +77,11 @@
         "action": "SetSELECT",
         "answer1": "Я до сих пор люблю её...^",
         "answer2": "Мы стали совсем чужими друг другу...^",
-        "end": 17000,
+        "end": 17166,
         "start": 12150
+    },
+    {
+        "action": "Next",
+        "start": 18166
     }
 ]

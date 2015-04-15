@@ -1,38 +1,42 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 52050
+    },
+    {
         "action": "PlayBgm",
-        "end": 42000,
+        "end": 42316,
         "file": "BGM/SD_BGM/sdbgm29",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2333,
         "file": "Event03/03-KB/03-KB-G00/03-KB-G00-001",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5200,
         "file": "Event02/02-2K/02-2K-L00/02-2K-L00-005",
         "start": 2333
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8100,
         "file": "Event03/03-KB/03-KB-G00/03-KB-G00-003",
         "start": 5200
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15283,
         "persona": "Котоноха",
         "start": 8083,
         "text": "Макото, ты пойдешь со мной на фестиваль?^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15283,
         "file": "Voice03/03-KB/03-KB-G00/03-KB-G00-0040",
         "layer": 0,
         "persona": "kot",
@@ -40,20 +44,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 32000,
+        "end": 32383,
         "file": "Event03/03-KB/03-KB-G00/03-KB-G00-004",
         "start": 8100
     },
     {
         "action": "PrintText",
-        "end": 32000,
+        "end": 32383,
         "persona": "Котоноха",
         "start": 15283,
         "text": "Макото, давай пойдем на фестиваль вдвоём... Макото, давай проведём этот день вместе...^"
     },
     {
         "action": "PlayVoice",
-        "end": 32000,
+        "end": 32383,
         "file": "Voice03/03-KB/03-KB-G00/03-KB-G00-0041",
         "layer": 0,
         "persona": "kot",
@@ -61,20 +65,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 40000,
+        "end": 40350,
         "file": "Event03/03-KB/03-KB-G00/03-KB-G00-003",
         "start": 32383
     },
     {
         "action": "PrintText",
-        "end": 40000,
+        "end": 40366,
         "persona": "Котоноха",
         "start": 32383,
         "text": "Всё не то... Я даже не могу набраться смелости позвонить ему...^"
     },
     {
         "action": "PlayVoice",
-        "end": 40000,
+        "end": 40366,
         "file": "Voice03/03-KB/03-KB-G00/03-KB-G00-0050",
         "layer": 0,
         "persona": "kot",
@@ -88,14 +92,14 @@
     },
     {
         "action": "PrintText",
-        "end": 44000,
+        "end": 44250,
         "persona": "Кокоро",
         "start": 40366,
         "text": "Сестрёнка, мама спрашивает, ты мыться идёшь?^"
     },
     {
         "action": "PlayVoice",
-        "end": 44000,
+        "end": 44250,
         "file": "Voice03/03-KB/03-KB-G00/03-KB-G00-0070",
         "layer": 0,
         "persona": "kok",
@@ -103,14 +107,14 @@
     },
     {
         "action": "PrintText",
-        "end": 45000,
+        "end": 45383,
         "persona": "Котоноха",
         "start": 44250,
         "text": "Да, сейчас.^"
     },
     {
         "action": "PlayVoice",
-        "end": 45000,
+        "end": 45383,
         "file": "Voice03/03-KB/03-KB-G00/03-KB-G00-0080",
         "layer": 0,
         "persona": "kot",
@@ -118,14 +122,14 @@
     },
     {
         "action": "PrintText",
-        "end": 46000,
+        "end": 46333,
         "persona": "Котоноха",
         "start": 45383,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 46000,
+        "end": 46333,
         "file": "Voice03/03-KB/03-KB-G00/03-KB-G00-0100",
         "layer": 0,
         "persona": "kot",
@@ -133,7 +137,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 46000,
+        "end": 46350,
         "file": "Event03/03-KB/03-KB-G00/03-KB-G00-008",
         "start": 46000
     },
@@ -154,8 +158,12 @@
     },
     {
         "action": "CreateBG",
-        "end": 52000,
+        "end": 52050,
         "file": "Event03/03-KB/03-KB-G00/03-KB-G00-006",
         "start": 46350
+    },
+    {
+        "action": "Next",
+        "start": 52050
     }
 ]

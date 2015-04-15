@@ -1,27 +1,31 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 8083
+    },
+    {
         "action": "PlaySe",
-        "end": 14000,
+        "end": 14150,
         "file": "Se01/01-00/01-00-E00/SE01-00-E00-001",
         "layer": 2,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1350,
         "file": "Event02/02-2K/02-2K-F05/02-2K-F05-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1133,
         "persona": "Макото",
         "start": 0,
         "text": "У тебя нежная грудь...^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1133,
         "file": "Voice02/02-2K/02-2K-F05/02-2K-F05-0030",
         "layer": 1,
         "persona": "mak",
@@ -29,20 +33,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6200,
         "file": "Event02/02-2K/02-2K-F03/02-2K-F03-002",
         "start": 1350
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2350,
         "persona": "Котоноха",
         "start": 1350,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2350,
         "file": "Voice02/02-2K/02-2K-F05/02-2K-F05-0040",
         "layer": 0,
         "persona": "kot",
@@ -50,21 +54,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 6000,
+        "end": 6116,
         "file": "Voice02/02-2K/02-2K-F05/02-2K-F05-0050",
         "layer": 1,
         "start": 3016
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6050,
         "persona": "Макото",
         "start": 5100,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6050,
         "file": "Voice02/02-2K/02-2K-F05/02-2K-F05-0060",
         "layer": 1,
         "persona": "mak",
@@ -72,20 +76,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 14000,
+        "end": 14150,
         "file": "Event02/02-2K/02-2K-F03/02-2K-F03-003",
         "start": 6200
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9300,
         "persona": "Котоноха",
         "start": 6316,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13083,
         "file": "Voice02/02-2K/02-2K-F05/02-2K-F05-0070",
         "layer": 0,
         "persona": "xxx",
@@ -95,7 +99,11 @@
         "action": "SetSELECT",
         "answer1": "Извини!^",
         "answer2": "Что-то не так?^",
-        "end": 13000,
+        "end": 13083,
         "start": 8083
+    },
+    {
+        "action": "Next",
+        "start": 14150
     }
 ]

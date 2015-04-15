@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 12200
+    },
+    {
         "action": "PlayBgm",
-        "end": 12000,
+        "end": 12200,
         "file": "BGM/SD_BGM/sdbgm20",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8316,
         "file": "Event05/05-KC/05-KC-A07/05-KC-A07-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3116,
         "persona": "Сэкаи",
         "start": 0,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3116,
         "file": "Voice05/05-KC/05-KC-A08/05-KC-A08-0040",
         "layer": 0,
         "persona": "sek",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5183,
         "persona": "Сэкаи",
         "start": 3116,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5183,
         "file": "Voice05/05-KC/05-KC-A08/05-KC-A08-0060",
         "layer": 0,
         "persona": "sek",
@@ -43,14 +47,14 @@
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8316,
         "persona": "Сэкаи",
         "start": 5183,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8316,
         "file": "Voice05/05-KC/05-KC-A08/05-KC-A08-0080",
         "layer": 0,
         "persona": "sek",
@@ -58,20 +62,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10166,
         "file": "Event05/05-KC/05-KC-A07/05-KC-A07-002",
         "start": 8316
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10150,
         "persona": "Сэкаи",
         "start": 8316,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10150,
         "file": "Voice05/05-KC/05-KC-A08/05-KC-A08-0100",
         "layer": 0,
         "persona": "xxx",
@@ -79,8 +83,12 @@
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12200,
         "file": "Event05/05-KC/05-KC-A07/05-KC-A07-003",
         "start": 10166
+    },
+    {
+        "action": "Next",
+        "start": 12200
     }
 ]

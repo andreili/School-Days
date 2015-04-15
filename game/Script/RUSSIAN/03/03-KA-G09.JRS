@@ -1,20 +1,24 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 33100
+    },
+    {
         "action": "PlayBgm",
-        "end": 33000,
+        "end": 33100,
         "file": "BGM/SD_BGM/sdbgm06",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 33000,
+        "end": 33100,
         "file": "Se03/03-KA/03-KA-G09/SE03-KA-G09-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4083,
         "file": "Event03/03-KA/03-KA-G09/03-KA-G09-001",
         "start": 0
     },
@@ -35,14 +39,14 @@
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1333,
         "persona": "Сэцуна",
         "start": 1000,
         "text": "Понятно.^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1333,
         "file": "Voice03/03-KA/03-KA-G09/03-KA-G09-0040",
         "layer": 0,
         "persona": "set",
@@ -50,14 +54,14 @@
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8050,
         "persona": "Макото",
         "start": 2216,
         "text": "Ну... Таисукэ и остальные, наверное, в столовке, я думал к нему пойти.^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8050,
         "file": "Voice03/03-KA/03-KA-G09/03-KA-G09-0050",
         "layer": 1,
         "persona": "mak",
@@ -65,26 +69,26 @@
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8050,
         "file": "Event03/03-KA/03-KA-G09/03-KA-G09-002",
         "start": 4083
     },
     {
         "action": "CreateBG",
-        "end": 11000,
+        "end": 11116,
         "file": "Event03/03-KA/03-KA-G09/03-KA-G09-003",
         "start": 8050
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11050,
         "persona": "Сэцуна",
         "start": 8083,
         "text": "Саванага сейчас в учительской.^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11050,
         "file": "Voice03/03-KA/03-KA-G09/03-KA-G09-0060",
         "layer": 0,
         "persona": "set",
@@ -92,14 +96,14 @@
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13233,
         "persona": "Макото",
         "start": 10383,
         "text": "Откуда ты знаешь?^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13233,
         "file": "Voice03/03-KA/03-KA-G09/03-KA-G09-0070",
         "layer": 1,
         "persona": "mak",
@@ -107,26 +111,26 @@
     },
     {
         "action": "CreateBG",
-        "end": 13000,
+        "end": 13216,
         "file": "Event03/03-KA/03-KA-G09/03-KA-G09-004",
         "start": 11116
     },
     {
         "action": "CreateBG",
-        "end": 18000,
+        "end": 18100,
         "file": "Event03/03-KA/03-KA-G09/03-KA-G09-005A",
         "start": 13216
     },
     {
         "action": "PrintText",
-        "end": 18000,
+        "end": 18016,
         "persona": "Сэцуна",
         "start": 13216,
         "text": "Он сегодня третий раз за месяц опоздал, так что его теперь завуч воспитывает...^"
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18016,
         "file": "Voice03/03-KA/03-KA-G09/03-KA-G09-0080",
         "layer": 0,
         "persona": "set",
@@ -134,7 +138,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 22000,
+        "end": 22316,
         "file": "Event03/03-KA/03-KA-G09/03-KA-G09-005B",
         "start": 18100
     },
@@ -155,20 +159,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 23000,
+        "end": 23366,
         "file": "Event03/03-KA/03-KA-G09/03-KA-G09-005C",
         "start": 22316
     },
     {
         "action": "PrintText",
-        "end": 23000,
+        "end": 23316,
         "persona": "Сэцуна",
         "start": 23066,
         "text": "Угу.^"
     },
     {
         "action": "PlayVoice",
-        "end": 23000,
+        "end": 23316,
         "file": "Voice03/03-KA/03-KA-G09/03-KA-G09-0100",
         "layer": 0,
         "persona": "set",
@@ -176,20 +180,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 27000,
+        "end": 27316,
         "file": "Event03/03-KA/03-KA-G09/03-KA-G09-005D",
         "start": 23366
     },
     {
         "action": "PrintText",
-        "end": 27000,
+        "end": 27266,
         "persona": "Макото",
         "start": 24000,
         "text": "Ладно, пообедаем вместе.^"
     },
     {
         "action": "PlayVoice",
-        "end": 27000,
+        "end": 27266,
         "file": "Voice03/03-KA/03-KA-G09/03-KA-G09-0110",
         "layer": 1,
         "persona": "mak",
@@ -197,20 +201,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 33000,
+        "end": 33100,
         "file": "Event03/03-KA/03-KA-G09/03-KA-G09-006",
         "start": 27316
     },
     {
         "action": "PrintText",
-        "end": 30000,
+        "end": 30050,
         "persona": "Сэцуна",
         "start": 27366,
         "text": "Хочешь, поделюсь с тобой булкой.^"
     },
     {
         "action": "PlayVoice",
-        "end": 30000,
+        "end": 30050,
         "file": "Voice03/03-KA/03-KA-G09/03-KA-G09-0120",
         "layer": 0,
         "persona": "set",
@@ -234,7 +238,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 33000,
+        "end": 33100,
         "start": 32100
+    },
+    {
+        "action": "Next",
+        "start": 33100
     }
 ]

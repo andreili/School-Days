@@ -1,19 +1,23 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 52200
+    },
+    {
         "action": "PlayBgm",
-        "end": 58000,
+        "end": 58200,
         "file": "BGM/SD_BGM/sdbgm07",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7350,
         "file": "Event01/01-1K/01-1K-C05/01-1K-C05-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4366,
         "persona": "Макото",
         "start": 0,
         "text": "На эти фильмы скидка не действует, ну и ладно.^"
@@ -27,7 +31,7 @@
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4366,
         "file": "Voice01/01-1K/01-1K-C05/01-1K-C05-0030",
         "layer": 1,
         "persona": "mak",
@@ -35,21 +39,21 @@
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7200,
         "persona": "Макото",
         "start": 5150,
         "text": "Что там ещё показывают...^"
     },
     {
         "action": "PlaySe",
-        "end": 6000,
+        "end": 6150,
         "file": "Se01/01-1K/01-1K-C00/2CLICK",
         "layer": 1,
         "start": 5150
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7200,
         "file": "Voice01/01-1K/01-1K-C05/01-1K-C05-0040",
         "layer": 1,
         "persona": "mak",
@@ -57,21 +61,21 @@
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12300,
         "persona": "Макото",
         "start": 7350,
         "text": "Так... «Школа мертвецов», нашествие зомби...^"
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17300,
         "persona": "Макото",
         "start": 12300,
         "text": "Ужасы, наверное...^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17300,
         "file": "Voice01/01-1K/01-1K-C05/01-1K-C05-0050",
         "layer": 1,
         "persona": "mak",
@@ -79,26 +83,26 @@
     },
     {
         "action": "PlayMovie",
-        "end": 17000,
+        "end": 17350,
         "file": "Movie01/01-1K/01-1K-C00/DEAD10S",
         "start": 7350
     },
     {
         "action": "PlaySe",
-        "end": 17000,
+        "end": 17350,
         "file": "Se01/01-1K/01-1K-C00/10SEK",
         "layer": 1,
         "start": 7350
     },
     {
         "action": "CreateBG",
-        "end": 26000,
+        "end": 26366,
         "file": "Event01/01-1K/01-1K-C03/01-1K-C03-001",
         "start": 17350
     },
     {
         "action": "PrintText",
-        "end": 23000,
+        "end": 23383,
         "persona": "Макото",
         "start": 18200,
         "text": "А ещё есть... Фильмы для взрослых.^"
@@ -112,7 +116,7 @@
     },
     {
         "action": "PlayVoice",
-        "end": 23000,
+        "end": 23383,
         "file": "Voice01/01-1K/01-1K-C05/01-1K-C05-0060",
         "layer": 1,
         "persona": "mak",
@@ -127,14 +131,14 @@
     },
     {
         "action": "PrintText",
-        "end": 26000,
+        "end": 26183,
         "persona": "Макото",
         "start": 24233,
         "text": "Хм... Эротика...^"
     },
     {
         "action": "PlayVoice",
-        "end": 26000,
+        "end": 26183,
         "file": "Voice01/01-1K/01-1K-C05/01-1K-C05-0070",
         "layer": 1,
         "persona": "mak",
@@ -142,7 +146,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 34000,
+        "end": 34133,
         "file": "Event01/01-1K/01-1K-C00/00-00-F00-010WIN",
         "start": 26366
     },
@@ -155,14 +159,14 @@
     },
     {
         "action": "PrintText",
-        "end": 34000,
+        "end": 34133,
         "persona": "Макото",
         "start": 30000,
         "text": "«Приключения на горячих источниках»,^"
     },
     {
         "action": "PlayVoice",
-        "end": 34000,
+        "end": 34133,
         "file": "Voice01/01-1K/01-1K-C05/01-1K-C05-0080",
         "layer": 1,
         "persona": "mak",
@@ -170,7 +174,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 45000,
+        "end": 45333,
         "file": "Event01/01-1K/01-1K-C07/01-1K-C07-002",
         "start": 34133
     },
@@ -183,14 +187,14 @@
     },
     {
         "action": "PrintText",
-        "end": 41000,
+        "end": 41200,
         "persona": "Макото",
         "start": 37000,
         "text": "Три короткометражные эротические истории.^"
     },
     {
         "action": "PlayVoice",
-        "end": 41000,
+        "end": 41200,
         "file": "Voice01/01-1K/01-1K-C05/01-1K-C05-0081",
         "layer": 1,
         "persona": "mak",
@@ -198,14 +202,14 @@
     },
     {
         "action": "PrintText",
-        "end": 45000,
+        "end": 45333,
         "persona": "Макото",
         "start": 42066,
         "text": "И-интересно...^"
     },
     {
         "action": "PlayVoice",
-        "end": 45000,
+        "end": 45333,
         "file": "Voice01/01-1K/01-1K-C05/01-1K-C05-0090",
         "layer": 1,
         "persona": "mak",
@@ -213,20 +217,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 58000,
+        "end": 58200,
         "file": "Event01/01-1K/01-1K-C00/00-00-F00-010WIN",
         "start": 45333
     },
     {
         "action": "PrintText",
-        "end": 49000,
+        "end": 49100,
         "persona": "Макото",
         "start": 45333,
         "text": "Так...^"
     },
     {
         "action": "PlayVoice",
-        "end": 49000,
+        "end": 49100,
         "file": "Voice01/01-1K/01-1K-C05/01-1K-C05-0100",
         "layer": 1,
         "persona": "mak",
@@ -234,14 +238,14 @@
     },
     {
         "action": "PrintText",
-        "end": 53000,
+        "end": 53066,
         "persona": "Макото",
         "start": 49233,
         "text": "На какой фильм пойти мне с Котонохой...^"
     },
     {
         "action": "PlayVoice",
-        "end": 53000,
+        "end": 53066,
         "file": "Voice01/01-1K/01-1K-C05/01-1K-C05-0110",
         "layer": 1,
         "persona": "mak",
@@ -251,7 +255,11 @@
         "action": "SetSELECT",
         "answer1": "Пойти на «Школу мертвецов».^",
         "answer2": "Пойти на эротику.^",
-        "end": 57000,
+        "end": 57200,
         "start": 52200
+    },
+    {
+        "action": "Next",
+        "start": 58200
     }
 ]

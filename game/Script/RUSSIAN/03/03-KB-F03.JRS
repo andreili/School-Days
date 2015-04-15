@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 61383
+    },
+    {
         "action": "PlayBgm",
-        "end": 61000,
+        "end": 61383,
         "file": "BGM/SD_BGM/sdbgm29",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6116,
         "file": "Event03/03-KB/03-KB-F03/03-KB-F03-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1066,
         "persona": "Сэкаи",
         "start": 0,
         "text": "Завтра...^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1066,
         "file": "Voice03/03-KB/03-KB-F03/03-KB-F03-0030",
         "layer": 0,
         "persona": "sek",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1366,
         "persona": "Макото",
         "start": 1066,
         "text": "Да?^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1366,
         "file": "Voice03/03-KB/03-KB-F03/03-KB-F03-0040",
         "layer": 1,
         "persona": "mak",
@@ -43,14 +47,14 @@
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3233,
         "persona": "Сэкаи",
         "start": 1350,
         "text": "Завтра...^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3233,
         "file": "Voice03/03-KB/03-KB-F03/03-KB-F03-0060",
         "layer": 0,
         "persona": "sek",
@@ -58,14 +62,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6116,
         "persona": "Макото",
         "start": 3250,
         "text": "Да что там завтра?^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6116,
         "file": "Voice03/03-KB/03-KB-F03/03-KB-F03-0070",
         "layer": 1,
         "persona": "mak",
@@ -73,14 +77,14 @@
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8283,
         "persona": "Сэкаи",
         "start": 6100,
         "text": "Давай завтра постараемся!^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8283,
         "file": "Voice03/03-KB/03-KB-F03/03-KB-F03-0080",
         "layer": 0,
         "persona": "sek",
@@ -88,20 +92,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 13000,
+        "end": 13283,
         "file": "Event03/03-KB/03-KB-F03/03-KB-F03-002",
         "start": 6116
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10300,
         "persona": "Макото",
         "start": 8283,
         "text": "О... Да, обязательно!^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10300,
         "file": "Voice03/03-KB/03-KB-F03/03-KB-F03-0090",
         "layer": 1,
         "persona": "mak",
@@ -109,14 +113,14 @@
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13266,
         "persona": "Сэкаи",
         "start": 10316,
         "text": "Ты завтра на кухне работаешь? Верно?^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13266,
         "file": "Voice03/03-KB/03-KB-F03/03-KB-F03-0100",
         "layer": 0,
         "persona": "sek",
@@ -124,14 +128,14 @@
     },
     {
         "action": "PrintText",
-        "end": 18000,
+        "end": 18183,
         "persona": "Макото",
         "start": 13266,
         "text": "Ага. Будут наливать чай и нарезать тортики.^"
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18183,
         "file": "Voice03/03-KB/03-KB-F03/03-KB-F03-0110",
         "layer": 1,
         "persona": "mak",
@@ -139,20 +143,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 18000,
+        "end": 18200,
         "file": "Event03/03-KB/03-KB-F03/03-KB-F03-003A",
         "start": 13283
     },
     {
         "action": "PrintText",
-        "end": 19000,
+        "end": 19183,
         "persona": "Сэкаи",
         "start": 18183,
         "text": "Понятно.^"
     },
     {
         "action": "PlayVoice",
-        "end": 19000,
+        "end": 19183,
         "file": "Voice03/03-KB/03-KB-F03/03-KB-F03-0120",
         "layer": 0,
         "persona": "sek",
@@ -160,20 +164,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 19000,
+        "end": 19200,
         "file": "Event03/03-KB/03-KB-F03/03-KB-F03-003B",
         "start": 18200
     },
     {
         "action": "PrintText",
-        "end": 21000,
+        "end": 21200,
         "persona": "Макото",
         "start": 19183,
         "text": "А ты будешь официанткой, верно?^"
     },
     {
         "action": "PlayVoice",
-        "end": 21000,
+        "end": 21200,
         "file": "Voice03/03-KB/03-KB-F03/03-KB-F03-0130",
         "layer": 1,
         "persona": "mak",
@@ -181,20 +185,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 27000,
+        "end": 27366,
         "file": "Event03/03-KB/03-KB-F03/03-KB-F03-003C",
         "start": 19200
     },
     {
         "action": "PrintText",
-        "end": 22000,
+        "end": 22383,
         "persona": "Сэкаи",
         "start": 21200,
         "text": "Ага!^"
     },
     {
         "action": "PlayVoice",
-        "end": 22000,
+        "end": 22383,
         "file": "Voice03/03-KB/03-KB-F03/03-KB-F03-0140",
         "layer": 0,
         "persona": "sek",
@@ -202,14 +206,14 @@
     },
     {
         "action": "PrintText",
-        "end": 24000,
+        "end": 24300,
         "persona": "Макото",
         "start": 22366,
         "text": "Ты ведь платье ещё не закончила?^"
     },
     {
         "action": "PlayVoice",
-        "end": 24000,
+        "end": 24300,
         "file": "Voice03/03-KB/03-KB-F03/03-KB-F03-0150",
         "layer": 1,
         "persona": "mak",
@@ -217,14 +221,14 @@
     },
     {
         "action": "PrintText",
-        "end": 27000,
+        "end": 27350,
         "persona": "Сэкаи",
         "start": 24300,
         "text": "Как раз сейчас им и занимаюсь...^"
     },
     {
         "action": "PlayVoice",
-        "end": 27000,
+        "end": 27350,
         "file": "Voice03/03-KB/03-KB-F03/03-KB-F03-0160",
         "layer": 0,
         "persona": "sek",
@@ -232,14 +236,14 @@
     },
     {
         "action": "PrintText",
-        "end": 30000,
+        "end": 30300,
         "persona": "Макото",
         "start": 27350,
         "text": "Ну здорово, завтра увижу тебя в костюме официантки!^"
     },
     {
         "action": "PlayVoice",
-        "end": 30000,
+        "end": 30300,
         "file": "Voice03/03-KB/03-KB-F03/03-KB-F03-0170",
         "layer": 1,
         "persona": "mak",
@@ -247,20 +251,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 35000,
+        "end": 35366,
         "file": "Event03/03-KB/03-KB-F03/03-KB-F03-003A",
         "start": 27366
     },
     {
         "action": "PrintText",
-        "end": 31000,
+        "end": 31283,
         "persona": "Сэкаи",
         "start": 30316,
         "text": "Э?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 31000,
+        "end": 31283,
         "file": "Voice03/03-KB/03-KB-F03/03-KB-F03-0180",
         "layer": 0,
         "persona": "sek",
@@ -268,14 +272,14 @@
     },
     {
         "action": "PrintText",
-        "end": 35000,
+        "end": 35366,
         "persona": "Макото",
         "start": 31283,
         "text": "Ладно, пойду-ка я спать.^"
     },
     {
         "action": "PlayVoice",
-        "end": 35000,
+        "end": 35366,
         "file": "Voice03/03-KB/03-KB-F03/03-KB-F03-0190",
         "layer": 1,
         "persona": "mak",
@@ -283,20 +287,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 41000,
+        "end": 41116,
         "file": "Event03/03-KB/03-KB-F03/03-KB-F03-005",
         "start": 35366
     },
     {
         "action": "PrintText",
-        "end": 39000,
+        "end": 39116,
         "persona": "Сэкаи",
         "start": 35366,
         "text": "Хорошо. Давай завтра постараемся!^"
     },
     {
         "action": "PlayVoice",
-        "end": 39000,
+        "end": 39116,
         "file": "Voice03/03-KB/03-KB-F03/03-KB-F03-0200",
         "layer": 0,
         "persona": "sek",
@@ -304,14 +308,14 @@
     },
     {
         "action": "PrintText",
-        "end": 41000,
+        "end": 41100,
         "persona": "Макото",
         "start": 39116,
         "text": "Да. Спокойной ночи...^"
     },
     {
         "action": "PlayVoice",
-        "end": 41000,
+        "end": 41100,
         "file": "Voice03/03-KB/03-KB-F03/03-KB-F03-0210",
         "layer": 1,
         "persona": "mak",
@@ -319,14 +323,14 @@
     },
     {
         "action": "PrintText",
-        "end": 42000,
+        "end": 42183,
         "persona": "Сэкаи",
         "start": 41100,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 42000,
+        "end": 42183,
         "file": "Voice03/03-KB/03-KB-F03/03-KB-F03-0230",
         "layer": 0,
         "persona": "sek",
@@ -334,20 +338,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 51000,
+        "end": 51383,
         "file": "Event03/03-KB/03-KB-F03/03-KB-F03-006",
         "start": 41116
     },
     {
         "action": "PrintText",
-        "end": 43000,
+        "end": 43233,
         "persona": "Сэцуна",
         "start": 42183,
         "text": "Это было жалкое зрелище!^"
     },
     {
         "action": "PlayVoice",
-        "end": 43000,
+        "end": 43233,
         "file": "Voice03/03-KB/03-KB-F03/03-KB-F03-0240",
         "layer": 0,
         "persona": "set",
@@ -355,14 +359,14 @@
     },
     {
         "action": "PrintText",
-        "end": 49000,
+        "end": 49266,
         "persona": "Сэкаи",
         "start": 43233,
         "text": "У-у-у... Слушай, ну он ведь сказал, что будет рад увидеть меня в форме официантки...^"
     },
     {
         "action": "PlayVoice",
-        "end": 49000,
+        "end": 49266,
         "file": "Voice03/03-KB/03-KB-F03/03-KB-F03-0250",
         "layer": 0,
         "persona": "sek",
@@ -370,14 +374,14 @@
     },
     {
         "action": "PrintText",
-        "end": 51000,
+        "end": 51383,
         "persona": "Сэцуна",
         "start": 49266,
         "text": "Хех... Понятно.^"
     },
     {
         "action": "PlayVoice",
-        "end": 51000,
+        "end": 51383,
         "file": "Voice03/03-KB/03-KB-F03/03-KB-F03-0260",
         "layer": 0,
         "persona": "set",
@@ -385,20 +389,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 56000,
+        "end": 56383,
         "file": "Event03/03-KB/03-KB-F03/03-KB-F03-007",
         "start": 51383
     },
     {
         "action": "PrintText",
-        "end": 53000,
+        "end": 53266,
         "persona": "Сэкаи",
         "start": 51383,
         "text": "Надо бы мне засесть за шитьё!^"
     },
     {
         "action": "PlayVoice",
-        "end": 53000,
+        "end": 53266,
         "file": "Voice03/03-KB/03-KB-F03/03-KB-F03-0270",
         "layer": 0,
         "persona": "sek",
@@ -421,20 +425,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 61000,
+        "end": 61383,
         "file": "Event03/03-KB/03-KB-F03/03-KB-F03-008",
         "start": 56383
     },
     {
         "action": "PrintText",
-        "end": 60000,
+        "end": 60116,
         "persona": "Сэкаи",
         "start": 57000,
         "text": "Я займусь этим завтра.^"
     },
     {
         "action": "PlayVoice",
-        "end": 60000,
+        "end": 60116,
         "file": "Voice03/03-KB/03-KB-F03/03-KB-F03-0290",
         "layer": 0,
         "persona": "sek",
@@ -442,17 +446,21 @@
     },
     {
         "action": "PrintText",
-        "end": 61000,
+        "end": 61166,
         "persona": "Сэцуна",
         "start": 60116,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 61000,
+        "end": 61166,
         "file": "Voice03/03-KB/03-KB-F03/03-KB-F03-0300",
         "layer": 0,
         "persona": "set",
         "start": 60116
+    },
+    {
+        "action": "Next",
+        "start": 61383
     }
 ]

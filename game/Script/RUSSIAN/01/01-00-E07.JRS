@@ -1,27 +1,31 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 12016
+    },
+    {
         "action": "PlaySe",
-        "end": 12000,
+        "end": 12016,
         "file": "Se01/01-00/01-00-E00/SE01-00-E00-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3250,
         "file": "Event01/01-00/01-00-E07/01-00-E07-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4100,
         "persona": "Котоноха",
         "start": 100,
         "text": "Сейчас урок начнётся!^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4100,
         "file": "Voice01/01-00/01-00-E07/01-00-E07-0030",
         "layer": 0,
         "persona": "kot",
@@ -29,20 +33,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5100,
         "file": "Event01/01-00/01-00-E07/01-00-E07-002",
         "start": 3250
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5133,
         "persona": "Макото",
         "start": 3250,
         "text": "Да... Точно!^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5133,
         "file": "Voice01/01-00/01-00-E07/01-00-E07-0040",
         "layer": 1,
         "persona": "mak",
@@ -50,20 +54,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9050,
         "file": "Event01/01-00/01-00-E07/01-00-E07-003",
         "start": 5100
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6166,
         "persona": "Котоноха",
         "start": 5100,
         "text": "Идём скорее!^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6166,
         "file": "Voice01/01-00/01-00-E07/01-00-E07-0050",
         "layer": 0,
         "persona": "kot",
@@ -71,20 +75,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12016,
         "file": "Event01/01-00/01-00-E07/01-00-E07-004",
         "start": 9050
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10133,
         "persona": "Макото",
         "start": 9166,
         "text": "Хм-м...^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10133,
         "file": "Voice01/01-00/01-00-E07/01-00-E07-0070",
         "layer": 1,
         "persona": "xxx",
@@ -93,7 +97,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 12000,
+        "end": 12016,
         "start": 11016
+    },
+    {
+        "action": "Next",
+        "start": 12016
     }
 ]

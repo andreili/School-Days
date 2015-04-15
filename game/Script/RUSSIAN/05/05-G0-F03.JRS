@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 16216
+    },
+    {
         "action": "PlayBgm",
-        "end": 16000,
+        "end": 16216,
         "file": "BGM/SD_BGM/sdbgm01",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 16000,
+        "end": 16216,
         "file": "SysSe/SE_all/station_train/train_in",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1333,
         "file": "Event05/05-KB/05-KB-F03/05-KB-F03-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1333,
         "persona": "Макото",
         "start": 0,
         "text": "Котоноха?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1333,
         "file": "Voice05/05-KB/05-KB-F03/05-KB-F03-0030",
         "layer": 1,
         "persona": "mak",
@@ -41,14 +45,14 @@
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3033,
         "persona": "Котоноха",
         "start": 1333,
         "text": "Макото.^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3033,
         "file": "Voice05/05-KB/05-KB-F03/05-KB-F03-0040",
         "layer": 0,
         "persona": "kot",
@@ -56,14 +60,14 @@
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5383,
         "persona": "Макото",
         "start": 3050,
         "text": "Что-то не так?^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5383,
         "file": "Voice05/05-KB/05-KB-F03/05-KB-F03-0050",
         "layer": 1,
         "persona": "mak",
@@ -71,20 +75,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9316,
         "file": "Event05/05-KB/05-KB-F03/05-KB-F03-003",
         "start": 6000
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9316,
         "persona": "Котоноха",
         "start": 7316,
         "text": "Да нет, ничего...^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9316,
         "file": "Voice05/05-KB/05-KB-F03/05-KB-F03-0070",
         "layer": 0,
         "persona": "kot",
@@ -92,14 +96,14 @@
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11216,
         "persona": "Макото",
         "start": 9300,
         "text": "Правда?^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11216,
         "file": "Voice05/05-KB/05-KB-F03/05-KB-F03-0080",
         "layer": 1,
         "persona": "mak",
@@ -113,14 +117,14 @@
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14283,
         "persona": "Нанами",
         "start": 11216,
         "text": "К-к-кстати, ты вчера телек смотрел?^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14283,
         "file": "Voice05/05-KB/05-KB-F03/05-KB-F03-0090",
         "layer": 0,
         "persona": "nan",
@@ -128,23 +132,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 16000,
+        "end": 16216,
         "file": "Event05/05-KB/05-KB-F03/05-KB-F03-006",
         "start": 13000
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16183,
         "persona": "Макото",
         "start": 14283,
         "text": "Что именно?^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16183,
         "file": "Voice05/05-KB/05-KB-F03/05-KB-F03-0100",
         "layer": 1,
         "persona": "mak",
         "start": 14283
+    },
+    {
+        "action": "Next",
+        "start": 16216
     }
 ]

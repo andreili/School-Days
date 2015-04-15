@@ -1,38 +1,42 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 94233
+    },
+    {
         "action": "PlayBgm",
-        "end": 94000,
+        "end": 94233,
         "file": "BGM/SD_BGM/sdbgm03",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1200,
         "file": "Event04/04-SC/04-SC-A00/04-SC-A00-001",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4100,
         "file": "Event04/04-SC/04-SC-A00/04-SC-A00-002",
         "start": 1200
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6016,
         "file": "Event04/04-SC/04-SC-A00/04-SC-A00-003",
         "start": 4100
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6100,
         "persona": "Кокоро",
         "start": 4100,
         "text": "Ванна готова!^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6100,
         "file": "Voice04/04-SC/04-SC-A00/04-SC-A00-0070",
         "layer": 0,
         "persona": "kok",
@@ -40,20 +44,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7083,
         "file": "Event04/04-SC/04-SC-A00/04-SC-A00-004",
         "start": 6016
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7150,
         "persona": "Котоноха",
         "start": 6100,
         "text": "Потом пойду.^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7150,
         "file": "Voice04/04-SC/04-SC-A00/04-SC-A00-0080",
         "layer": 0,
         "persona": "kot",
@@ -61,20 +65,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9200,
         "file": "Event04/04-SC/04-SC-A00/04-SC-A00-005",
         "start": 7083
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9250,
         "persona": "Кокоро",
         "start": 7150,
         "text": "Мама злится.^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9250,
         "file": "Voice04/04-SC/04-SC-A00/04-SC-A00-0090",
         "layer": 0,
         "persona": "kok",
@@ -82,20 +86,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 16000,
+        "end": 16283,
         "file": "Event04/04-SC/04-SC-A00/04-SC-A00-006",
         "start": 9200
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11383,
         "persona": "Котоноха",
         "start": 9250,
         "text": "Да пойду я уже скоро.^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11383,
         "file": "Voice04/04-SC/04-SC-A00/04-SC-A00-0100",
         "layer": 0,
         "persona": "kot",
@@ -103,14 +107,14 @@
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13116,
         "persona": "Кокоро",
         "start": 11383,
         "text": "Опять смс-ки?^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13116,
         "file": "Voice04/04-SC/04-SC-A00/04-SC-A00-0110",
         "layer": 0,
         "persona": "kok",
@@ -118,14 +122,14 @@
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13383,
         "persona": "Котоноха",
         "start": 13116,
         "text": "Угу.^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13383,
         "file": "Voice04/04-SC/04-SC-A00/04-SC-A00-0120",
         "layer": 0,
         "persona": "kot",
@@ -133,14 +137,14 @@
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14366,
         "persona": "Кокоро",
         "start": 13383,
         "text": "От парня?^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14366,
         "file": "Voice04/04-SC/04-SC-A00/04-SC-A00-0130",
         "layer": 0,
         "persona": "kok",
@@ -148,14 +152,14 @@
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16350,
         "persona": "Котоноха",
         "start": 14366,
         "text": "Тебя не касается.^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16350,
         "file": "Voice04/04-SC/04-SC-A00/04-SC-A00-0140",
         "layer": 0,
         "persona": "kot",
@@ -163,20 +167,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 25000,
+        "end": 25216,
         "file": "Event04/04-SC/04-SC-A00/04-SC-A00-007",
         "start": 16283
     },
     {
         "action": "PrintText",
-        "end": 25000,
+        "end": 25266,
         "persona": "Кокоро",
         "start": 16350,
         "text": "Везёт... Поскорее бы мама и мне телефон купила... Попроси и ты её?^"
     },
     {
         "action": "PlayVoice",
-        "end": 25000,
+        "end": 25266,
         "file": "Voice04/04-SC/04-SC-A00/04-SC-A00-0150",
         "layer": 0,
         "persona": "kok",
@@ -184,20 +188,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 27000,
+        "end": 27250,
         "file": "Event04/04-SC/04-SC-A00/04-SC-A00-008",
         "start": 25216
     },
     {
         "action": "PrintText",
-        "end": 27000,
+        "end": 27316,
         "persona": "Котоноха",
         "start": 25266,
         "text": "Рано ещё.^"
     },
     {
         "action": "PlayVoice",
-        "end": 27000,
+        "end": 27316,
         "file": "Voice04/04-SC/04-SC-A00/04-SC-A00-0160",
         "layer": 0,
         "persona": "kot",
@@ -205,20 +209,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 31000,
+        "end": 31250,
         "file": "Event04/04-SC/04-SC-A00/04-SC-A00-009",
         "start": 27250
     },
     {
         "action": "PrintText",
-        "end": 31000,
+        "end": 31300,
         "persona": "Кокоро",
         "start": 27316,
         "text": "А вот и нет! У нас много у кого есть уже!^"
     },
     {
         "action": "PlayVoice",
-        "end": 31000,
+        "end": 31300,
         "file": "Voice04/04-SC/04-SC-A00/04-SC-A00-0170",
         "layer": 0,
         "persona": "kok",
@@ -226,20 +230,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 34000,
+        "end": 34183,
         "file": "Event04/04-SC/04-SC-A00/04-SC-A00-010",
         "start": 31250
     },
     {
         "action": "PrintText",
-        "end": 32000,
+        "end": 32383,
         "persona": "Котоноха",
         "start": 31283,
         "text": "Да-да.^"
     },
     {
         "action": "PlayVoice",
-        "end": 32000,
+        "end": 32383,
         "file": "Voice04/04-SC/04-SC-A00/04-SC-A00-0180",
         "layer": 0,
         "persona": "kot",
@@ -247,14 +251,14 @@
     },
     {
         "action": "PrintText",
-        "end": 39000,
+        "end": 39366,
         "persona": "Кокоро",
         "start": 33000,
         "text": "Ну... О, точно! Ты же с мамой на кухне что-то стряпала?^"
     },
     {
         "action": "PlayVoice",
-        "end": 39000,
+        "end": 39366,
         "file": "Voice04/04-SC/04-SC-A00/04-SC-A00-0200",
         "layer": 0,
         "persona": "kok",
@@ -262,7 +266,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 39000,
+        "end": 39300,
         "file": "Event04/04-SC/04-SC-A00/04-SC-A00-011",
         "start": 34183
     },
@@ -274,14 +278,14 @@
     },
     {
         "action": "PrintText",
-        "end": 42000,
+        "end": 42083,
         "persona": "Котоноха",
         "start": 39366,
         "text": "Ага, сэндвичи.^"
     },
     {
         "action": "PlayVoice",
-        "end": 42000,
+        "end": 42083,
         "file": "Voice04/04-SC/04-SC-A00/04-SC-A00-0210",
         "layer": 0,
         "persona": "kot",
@@ -289,14 +293,14 @@
     },
     {
         "action": "PrintText",
-        "end": 44000,
+        "end": 44366,
         "persona": "Кокоро",
         "start": 42083,
         "text": "А! Парню на обед!^"
     },
     {
         "action": "PlayVoice",
-        "end": 44000,
+        "end": 44366,
         "file": "Voice04/04-SC/04-SC-A00/04-SC-A00-0220",
         "layer": 0,
         "persona": "kok",
@@ -304,20 +308,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 46000,
+        "end": 46383,
         "file": "Event04/04-SC/04-SC-A00/04-SC-A00-012B",
         "start": 43000
     },
     {
         "action": "PrintText",
-        "end": 47000,
+        "end": 47033,
         "persona": "Котоноха",
         "start": 44366,
         "text": "Именно. А что?^"
     },
     {
         "action": "PlayVoice",
-        "end": 47000,
+        "end": 47033,
         "file": "Voice04/04-SC/04-SC-A00/04-SC-A00-0230",
         "layer": 0,
         "persona": "kot",
@@ -325,20 +329,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 50000,
+        "end": 50216,
         "file": "Event04/04-SC/04-SC-A00/04-SC-A00-013",
         "start": 46383
     },
     {
         "action": "PrintText",
-        "end": 50000,
+        "end": 50283,
         "persona": "Кокоро",
         "start": 47033,
         "text": "А! Признала! Парню! Парню!^"
     },
     {
         "action": "PlayVoice",
-        "end": 50000,
+        "end": 50283,
         "file": "Voice04/04-SC/04-SC-A00/04-SC-A00-0240",
         "layer": 0,
         "persona": "kok",
@@ -346,20 +350,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 52000,
+        "end": 52016,
         "file": "Event04/04-SC/04-SC-A00/04-SC-A00-014",
         "start": 50216
     },
     {
         "action": "PrintText",
-        "end": 52000,
+        "end": 52016,
         "persona": "Котоноха",
         "start": 50283,
         "text": "Блин...^"
     },
     {
         "action": "PlayVoice",
-        "end": 52000,
+        "end": 52016,
         "file": "Voice04/04-SC/04-SC-A00/04-SC-A00-0250",
         "layer": 0,
         "persona": "kot",
@@ -373,14 +377,14 @@
     },
     {
         "action": "PrintText",
-        "end": 54000,
+        "end": 54033,
         "persona": "Кокоро",
         "start": 52016,
         "text": "Слушай-слушай!^"
     },
     {
         "action": "PlayVoice",
-        "end": 54000,
+        "end": 54033,
         "file": "Voice04/04-SC/04-SC-A00/04-SC-A00-0260",
         "layer": 0,
         "persona": "kok",
@@ -388,20 +392,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 59000,
+        "end": 59016,
         "file": "Event04/04-SC/04-SC-A00/04-SC-A00-015B",
         "start": 54000
     },
     {
         "action": "PrintText",
-        "end": 55000,
+        "end": 55166,
         "persona": "Котоноха",
         "start": 54033,
         "text": "Что?^"
     },
     {
         "action": "PlayVoice",
-        "end": 55000,
+        "end": 55166,
         "file": "Voice04/04-SC/04-SC-A00/04-SC-A00-0270",
         "layer": 0,
         "persona": "kot",
@@ -409,14 +413,14 @@
     },
     {
         "action": "PrintText",
-        "end": 58000,
+        "end": 58100,
         "persona": "Кокоро",
         "start": 55166,
         "text": "Приведи его к нам! Посмотреть на него хочу!^"
     },
     {
         "action": "PlayVoice",
-        "end": 58000,
+        "end": 58100,
         "file": "Voice04/04-SC/04-SC-A00/04-SC-A00-0280",
         "layer": 0,
         "persona": "kok",
@@ -424,14 +428,14 @@
     },
     {
         "action": "PrintText",
-        "end": 59000,
+        "end": 59066,
         "persona": "Котоноха",
         "start": 58116,
         "text": "Нет уж.^"
     },
     {
         "action": "PlayVoice",
-        "end": 59000,
+        "end": 59066,
         "file": "Voice04/04-SC/04-SC-A00/04-SC-A00-0290",
         "layer": 0,
         "persona": "kot",
@@ -439,20 +443,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 61000,
+        "end": 61083,
         "file": "Event04/04-SC/04-SC-A00/04-SC-A00-016",
         "start": 59016
     },
     {
         "action": "PrintText",
-        "end": 59000,
+        "end": 59383,
         "persona": "Кокоро",
         "start": 59050,
         "text": "Вредина.^"
     },
     {
         "action": "PlayVoice",
-        "end": 59000,
+        "end": 59383,
         "file": "Voice04/04-SC/04-SC-A00/04-SC-A00-0300",
         "layer": 0,
         "persona": "kok",
@@ -460,14 +464,14 @@
     },
     {
         "action": "PrintText",
-        "end": 61000,
+        "end": 61133,
         "persona": "Котоноха",
         "start": 60000,
         "text": "Вовсе нет.^"
     },
     {
         "action": "PlayVoice",
-        "end": 61000,
+        "end": 61133,
         "file": "Voice04/04-SC/04-SC-A00/04-SC-A00-0310",
         "layer": 0,
         "persona": "kot",
@@ -475,20 +479,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 67000,
+        "end": 67266,
         "file": "Event04/04-SC/04-SC-A00/04-SC-A00-017",
         "start": 61083
     },
     {
         "action": "PrintText",
-        "end": 67000,
+        "end": 67300,
         "persona": "Кокоро",
         "start": 61116,
         "text": "Не приведёшь, я папе скажу, что ты со своим парнем во все тяжкие пускаешься.^"
     },
     {
         "action": "PlayVoice",
-        "end": 67000,
+        "end": 67300,
         "file": "Voice04/04-SC/04-SC-A00/04-SC-A00-0320",
         "layer": 0,
         "persona": "kok",
@@ -496,20 +500,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 70000,
+        "end": 70366,
         "file": "Event04/04-SC/04-SC-A00/04-SC-A00-018",
         "start": 67266
     },
     {
         "action": "PrintText",
-        "end": 71000,
+        "end": 71083,
         "persona": "Котоноха",
         "start": 67283,
         "text": "Пускаюсь?.. Т-ты чего такое говоришь! Нет, конечно!^"
     },
     {
         "action": "PlayVoice",
-        "end": 71000,
+        "end": 71083,
         "file": "Voice04/04-SC/04-SC-A00/04-SC-A00-0330",
         "layer": 0,
         "persona": "kot",
@@ -517,20 +521,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 71000,
+        "end": 71350,
         "file": "Event04/04-SC/04-SC-A00/04-SC-A00-019",
         "start": 70366
     },
     {
         "action": "PrintText",
-        "end": 72000,
+        "end": 72050,
         "persona": "Кокоро",
         "start": 71150,
         "text": "Ух.^"
     },
     {
         "action": "PlayVoice",
-        "end": 72000,
+        "end": 72050,
         "file": "Voice04/04-SC/04-SC-A00/04-SC-A00-0340",
         "layer": 0,
         "persona": "kok",
@@ -538,20 +542,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 74000,
+        "end": 74116,
         "file": "Event04/04-SC/04-SC-A00/04-SC-A00-020",
         "start": 71350
     },
     {
         "action": "PrintText",
-        "end": 74000,
+        "end": 74133,
         "persona": "Котоноха",
         "start": 72000,
         "text": "Что за «ух» ещё?^"
     },
     {
         "action": "PlayVoice",
-        "end": 74000,
+        "end": 74133,
         "file": "Voice04/04-SC/04-SC-A00/04-SC-A00-0350",
         "layer": 0,
         "persona": "kot",
@@ -559,20 +563,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 77000,
+        "end": 77283,
         "file": "Event04/04-SC/04-SC-A00/04-SC-A00-021",
         "start": 74116
     },
     {
         "action": "PrintText",
-        "end": 77000,
+        "end": 77333,
         "persona": "Кокоро",
         "start": 74133,
         "text": "Бедный твой парень...^"
     },
     {
         "action": "PlayVoice",
-        "end": 77000,
+        "end": 77333,
         "file": "Voice04/04-SC/04-SC-A00/04-SC-A00-0360",
         "layer": 0,
         "persona": "kok",
@@ -580,20 +584,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 79000,
+        "end": 79133,
         "file": "Event04/04-SC/04-SC-A00/04-SC-A00-022",
         "start": 77283
     },
     {
         "action": "PrintText",
-        "end": 79000,
+        "end": 79150,
         "persona": "Котоноха",
         "start": 77316,
         "text": "С чего вдруг?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 79000,
+        "end": 79150,
         "file": "Voice04/04-SC/04-SC-A00/04-SC-A00-0370",
         "layer": 0,
         "persona": "kot",
@@ -601,20 +605,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 82000,
+        "end": 82350,
         "file": "Event04/04-SC/04-SC-A00/04-SC-A00-023",
         "start": 79133
     },
     {
         "action": "PrintText",
-        "end": 82000,
+        "end": 82383,
         "persona": "Кокоро",
         "start": 79150,
         "text": "Пойду-ка я всё маме расскажу!^"
     },
     {
         "action": "PlayVoice",
-        "end": 82000,
+        "end": 82383,
         "file": "Voice04/04-SC/04-SC-A00/04-SC-A00-0380",
         "layer": 0,
         "persona": "kok",
@@ -622,20 +626,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 87000,
+        "end": 87166,
         "file": "Event04/04-SC/04-SC-A00/04-SC-A00-024",
         "start": 82350
     },
     {
         "action": "PrintText",
-        "end": 86000,
+        "end": 86216,
         "persona": "Котоноха",
         "start": 82383,
         "text": "А ну стой! Кокоро!^"
     },
     {
         "action": "PlayVoice",
-        "end": 86000,
+        "end": 86216,
         "file": "Voice04/04-SC/04-SC-A00/04-SC-A00-0400",
         "layer": 0,
         "persona": "kot",
@@ -643,7 +647,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 94000,
+        "end": 94200,
         "file": "Event04/04-SC/04-SC-A00/04-SC-A00-025",
         "start": 87166
     },
@@ -661,5 +665,9 @@
         "layer": 0,
         "persona": "kot",
         "start": 88216
+    },
+    {
+        "action": "Next",
+        "start": 94233
     }
 ]

@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 13383
+    },
+    {
         "action": "PlayBgm",
-        "end": 13000,
+        "end": 13383,
         "file": "BGM/SD_BGM/sdbgm12",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1333,
         "file": "Event04/04-SA/04-SA-L01/04-SA-L01-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1366,
         "persona": "Сэкаи",
         "start": 0,
         "text": "А Макото где?^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1366,
         "file": "Voice04/04-SA/04-SA-L01/04-SA-L01-0030",
         "layer": 0,
         "persona": "sek",
@@ -28,20 +32,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5166,
         "file": "Event04/04-SA/04-SA-L01/04-SA-L01-001B",
         "start": 1333
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5166,
         "persona": "Таисукэ",
         "start": 1366,
         "text": "Сказал, что плохо себя чувствует...^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5166,
         "file": "Voice04/04-SA/04-SA-L01/04-SA-L01-0040",
         "layer": 1,
         "persona": "tai",
@@ -55,14 +59,14 @@
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7016,
         "persona": "Сэкаи",
         "start": 5166,
         "text": "Понятно...^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7016,
         "file": "Voice04/04-SA/04-SA-L01/04-SA-L01-0050",
         "layer": 0,
         "persona": "sek",
@@ -70,20 +74,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8116,
         "file": "Event04/04-SA/04-SA-L01/04-SA-L01-001D",
         "start": 7000
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8183,
         "persona": "Котоноха",
         "start": 7000,
         "text": "Жалость какая...^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8183,
         "file": "Voice04/04-SA/04-SA-L01/04-SA-L01-0060",
         "layer": 0,
         "persona": "kot",
@@ -91,20 +95,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12100,
         "file": "Event04/04-SA/04-SA-L01/04-SA-L01-002",
         "start": 8116
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12083,
         "persona": "Таисукэ",
         "start": 8200,
         "text": "Ну-с, нам значит надо и за Макото оторваться!^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12083,
         "file": "Voice04/04-SA/04-SA-L01/04-SA-L01-0070",
         "layer": 1,
         "persona": "tai",
@@ -112,14 +116,14 @@
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13216,
         "persona": "Котоноха",
         "start": 12083,
         "text": "Действительно.^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13216,
         "file": "Voice04/04-SA/04-SA-L01/04-SA-L01-0080",
         "layer": 0,
         "persona": "kot",
@@ -127,8 +131,12 @@
     },
     {
         "action": "CreateBG",
-        "end": 13000,
+        "end": 13383,
         "file": "Event04/04-SA/04-SA-L01/04-SA-L01-003",
         "start": 12100
+    },
+    {
+        "action": "Next",
+        "start": 13383
     }
 ]

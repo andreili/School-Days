@@ -1,27 +1,31 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 27000
+    },
+    {
         "action": "PlaySe",
-        "end": 33000,
+        "end": 33016,
         "file": "SysSe/SE_all/gaya/kyousitu_rouka",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10100,
         "file": "Event05/05-KF/05-KF-G06/05-KF-G06-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3183,
         "persona": "Макото",
         "start": 0,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3183,
         "file": "Voice05/05-KF/05-KF-G06/05-KF-G06-0030",
         "layer": 1,
         "persona": "xxx",
@@ -29,14 +33,14 @@
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7116,
         "persona": "Котоноха",
         "start": 3183,
         "text": "Скажи, что пошутил!..^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7116,
         "file": "Voice05/05-KF/05-KF-G06/05-KF-G06-0040",
         "layer": 0,
         "persona": "kot",
@@ -44,14 +48,14 @@
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10033,
         "persona": "Макото",
         "start": 7100,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10033,
         "file": "Voice05/05-KF/05-KF-G06/05-KF-G06-0050",
         "layer": 1,
         "persona": "xxx",
@@ -59,14 +63,14 @@
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15366,
         "persona": "Котоноха",
         "start": 10033,
         "text": "Иначе... Я... Расплачусь!..^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15366,
         "file": "Voice05/05-KF/05-KF-G06/05-KF-G06-0060",
         "layer": 0,
         "persona": "kot",
@@ -74,20 +78,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 24000,
+        "end": 24183,
         "file": "Event05/05-KF/05-KF-G06/05-KF-G06-002",
         "start": 10100
     },
     {
         "action": "PrintText",
-        "end": 18000,
+        "end": 18216,
         "persona": "Макото",
         "start": 15366,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18216,
         "file": "Voice05/05-KF/05-KF-G06/05-KF-G06-0070",
         "layer": 1,
         "persona": "xxx",
@@ -95,14 +99,14 @@
     },
     {
         "action": "PrintText",
-        "end": 22000,
+        "end": 22116,
         "persona": "Котоноха",
         "start": 18233,
         "text": "Правда... Расплачусь...^"
     },
     {
         "action": "PlayVoice",
-        "end": 22000,
+        "end": 22116,
         "file": "Voice05/05-KF/05-KF-G06/05-KF-G06-0080",
         "layer": 0,
         "persona": "kot",
@@ -110,14 +114,14 @@
     },
     {
         "action": "PrintText",
-        "end": 24000,
+        "end": 24200,
         "persona": "Макото",
         "start": 22116,
         "text": "Котоноха...^"
     },
     {
         "action": "PlayVoice",
-        "end": 24000,
+        "end": 24200,
         "file": "Voice05/05-KF/05-KF-G06/05-KF-G06-0090",
         "layer": 1,
         "persona": "mak",
@@ -125,20 +129,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 33000,
+        "end": 33016,
         "file": "Event05/05-KF/05-KF-G06/05-KF-G06-003",
         "start": 24183
     },
     {
         "action": "PrintText",
-        "end": 25000,
+        "end": 25200,
         "persona": "Котоноха",
         "start": 24183,
         "text": "Да?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 25000,
+        "end": 25200,
         "file": "Voice05/05-KF/05-KF-G06/05-KF-G06-0100",
         "layer": 0,
         "persona": "kot",
@@ -165,5 +169,9 @@
         "answer2": "NULL",
         "end": 32000,
         "start": 27000
+    },
+    {
+        "action": "Next",
+        "start": 33016
     }
 ]

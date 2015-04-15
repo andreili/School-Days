@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 29133
+    },
+    {
         "action": "PlayBgm",
-        "end": 29000,
+        "end": 29133,
         "file": "BGM/SD_BGM/sdbgm19",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2366,
         "file": "Event04/04-SE/04-SE-C00/04-SE-C00-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2033,
         "persona": "Котоноха",
         "start": 0,
         "text": "Макото...^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2033,
         "file": "Voice04/04-SE/04-SE-C00/04-SE-C00-0040",
         "layer": 0,
         "persona": "kot",
@@ -28,20 +32,20 @@
     },
     {
         "action": "PlaySe",
-        "end": 5000,
+        "end": 5050,
         "file": "SysSe/SE_all/keitai/keitai_vib",
         "layer": 1,
         "start": 2283
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5100,
         "file": "Event04/04-SE/04-SE-C00/04-SE-C00-002",
         "start": 2366
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8033,
         "file": "Event04/04-SE/04-SE-C00/04-SE-C00-003",
         "start": 5100
     },
@@ -62,20 +66,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9333,
         "file": "Event04/04-SE/04-SE-C00/04-SE-C00-004",
         "start": 8033
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9050,
         "persona": "Котоноха",
         "start": 8033,
         "text": "А...^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9050,
         "file": "Voice04/04-SE/04-SE-C00/04-SE-C00-0080",
         "layer": 0,
         "persona": "kot",
@@ -83,27 +87,27 @@
     },
     {
         "action": "PlaySe",
-        "end": 8000,
+        "end": 8216,
         "file": "Se04/04-SE/04-SE-C00/SE04-SE-C00-001",
         "layer": 1,
         "start": 8133
     },
     {
         "action": "CreateBG",
-        "end": 16000,
+        "end": 16083,
         "file": "Event04/04-SE/04-SE-C00/04-SE-C00-002",
         "start": 9333
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15116,
         "persona": "Котоноха",
         "start": 14133,
         "text": "Нет...^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15116,
         "file": "Voice04/04-SE/04-SE-C00/04-SE-C00-0100",
         "layer": 0,
         "persona": "kot",
@@ -111,20 +115,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 22000,
+        "end": 22133,
         "file": "Event04/04-SE/04-SE-C00/04-SE-C00-007",
         "start": 16083
     },
     {
         "action": "PrintText",
-        "end": 19000,
+        "end": 19150,
         "persona": "Котоноха",
         "start": 16083,
         "text": "Макото...^"
     },
     {
         "action": "PlayVoice",
-        "end": 19000,
+        "end": 19150,
         "file": "Voice04/04-SE/04-SE-C00/04-SE-C00-0120",
         "layer": 0,
         "persona": "kot",
@@ -132,20 +136,24 @@
     },
     {
         "action": "CreateBG",
-        "end": 25000,
+        "end": 25083,
         "file": "Event04/04-SE/04-SE-C00/04-SE-C00-002",
         "start": 22133
     },
     {
         "action": "CreateBG",
-        "end": 29000,
+        "end": 29133,
         "file": "Event04/04-SE/04-SE-C00/04-SE-C00-009",
         "start": 25083
     },
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 29000,
+        "end": 29133,
         "start": 28133
+    },
+    {
+        "action": "Next",
+        "start": 29133
     }
 ]

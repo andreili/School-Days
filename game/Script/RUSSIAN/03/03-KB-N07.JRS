@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 17033
+    },
+    {
         "action": "PlayBgm",
-        "end": 17000,
+        "end": 17033,
         "file": "BGM/SD_BGM/sdbgm25",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 17000,
+        "end": 17033,
         "file": "SysSe/SE_all/h/h_04",
         "layer": 1,
         "start": 0
     },
     {
         "action": "PlayMovie",
-        "end": 7000,
+        "end": 7383,
         "file": "Movie03/03-KB/03-KB-N00/H3-KB-N00-004",
         "start": 0
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5150,
         "file": "Voice03/03-KB/03-KB-N07/03-KB-N07-0040",
         "layer": 0,
         "persona": "kot",
@@ -28,21 +32,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 2000,
+        "end": 2266,
         "file": "SysSe/SE_all/h/nuno1",
         "layer": 2,
         "start": 1033
     },
     {
         "action": "PlaySe",
-        "end": 3000,
+        "end": 3316,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 2,
         "start": 3016
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9116,
         "file": "Voice03/03-KB/03-KB-N07/03-KB-N07-0050",
         "layer": 1,
         "persona": "mak",
@@ -50,13 +54,13 @@
     },
     {
         "action": "PlayMovie",
-        "end": 17000,
+        "end": 17033,
         "file": "Movie03/03-KB/03-KB-N00/H3-KB-N00-004",
         "start": 7383
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11350,
         "file": "Voice03/03-KB/03-KB-N07/03-KB-N07-0060",
         "layer": 0,
         "persona": "kot",
@@ -64,17 +68,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 12000,
+        "end": 12016,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 2,
         "start": 11116
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17033,
         "file": "Voice03/03-KB/03-KB-N07/03-KB-N07-0070",
         "layer": 1,
         "persona": "mak",
         "start": 11350
+    },
+    {
+        "action": "Next",
+        "start": 17033
     }
 ]

@@ -1,7 +1,11 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 10100
+    },
+    {
         "action": "PlayBgm",
-        "end": 10000,
+        "end": 10100,
         "file": "BGM/SD_BGM/sdbgm26",
         "start": 0
     },
@@ -19,23 +23,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10100,
         "file": "Event02/02-2K/02-2K-K00/02-2K-K00-002",
         "start": 8000
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9050,
         "persona": "Макото",
         "start": 8100,
         "text": "Чёрт!^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9050,
         "file": "Voice02/02-2K/02-2K-K03/02-2K-K03-0040",
         "layer": 1,
         "persona": "mak",
         "start": 8100
+    },
+    {
+        "action": "Next",
+        "start": 10100
     }
 ]

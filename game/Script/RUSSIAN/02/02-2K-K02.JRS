@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 15216
+    },
+    {
         "action": "PlayBgm",
-        "end": 15000,
+        "end": 15216,
         "file": "BGM/SD_BGM/sdbgm26",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4250,
         "file": "Event02/02-2K/02-2K-K02/02-2K-K02-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3366,
         "persona": "Макото",
         "start": 366,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3366,
         "file": "Voice02/02-2K/02-2K-K02/02-2K-K02-0040",
         "layer": 1,
         "persona": "xxx",
@@ -29,24 +33,24 @@
     {
         "action": "WhiteFade",
         "dir": "OUT",
-        "end": 4000,
+        "end": 4250,
         "start": 4050
     },
     {
         "action": "PlayMovie",
-        "end": 10000,
+        "end": 10100,
         "file": "Movie02/02-2K/02-2K-K02/02-2K-K02-002",
         "start": 4250
     },
     {
         "action": "WhiteFade",
         "dir": "IN",
-        "end": 5000,
+        "end": 5050,
         "start": 4250
     },
     {
         "action": "PlaySe",
-        "end": 10000,
+        "end": 10083,
         "file": "Voice02/02-2K/02-2K-J10/02-2K-J10-0240",
         "layer": 1,
         "start": 5050
@@ -54,34 +58,38 @@
     {
         "action": "WhiteFade",
         "dir": "OUT",
-        "end": 10000,
+        "end": 10100,
         "start": 9300
     },
     {
         "action": "CreateBG",
-        "end": 15000,
+        "end": 15216,
         "file": "Event02/02-2K/02-2K-K02/02-2K-K02-003",
         "start": 10100
     },
     {
         "action": "WhiteFade",
         "dir": "IN",
-        "end": 10000,
+        "end": 10300,
         "start": 10100
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15083,
         "persona": "Макото",
         "start": 10300,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15083,
         "file": "Voice02/02-2K/02-2K-K02/02-2K-K02-0060",
         "layer": 1,
         "persona": "mak",
         "start": 10300
+    },
+    {
+        "action": "Next",
+        "start": 15216
     }
 ]

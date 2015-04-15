@@ -1,7 +1,11 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 47200
+    },
+    {
         "action": "PlayBgm",
-        "end": 47000,
+        "end": 47200,
         "file": "BGM/SD_BGM/sdbgm12",
         "start": 0
     },
@@ -13,20 +17,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5100,
         "file": "Event04/04-SA/04-SA-Q00/04-SA-Q00-002",
         "start": 3000
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5083,
         "persona": "Таисукэ",
         "start": 3000,
         "text": "Блин, опаздывает...^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5083,
         "file": "Voice04/04-SA/04-SA-Q00/04-SA-Q00-0040",
         "layer": 1,
         "persona": "tai",
@@ -34,14 +38,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6116,
         "persona": "Сэкаи",
         "start": 5083,
         "text": "Да уж...^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6116,
         "file": "Voice04/04-SA/04-SA-Q00/04-SA-Q00-0050",
         "layer": 0,
         "persona": "sek",
@@ -55,14 +59,14 @@
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8166,
         "persona": "Хикари",
         "start": 6116,
         "text": "Ты где потерялся...^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8166,
         "file": "Voice04/04-SA/04-SA-Q00/04-SA-Q00-0060",
         "layer": 0,
         "persona": "hik",
@@ -70,20 +74,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 14000,
+        "end": 14383,
         "file": "Event04/04-SA/04-SA-Q00/04-SA-Q00-004",
         "start": 9000
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11083,
         "persona": "Макото",
         "start": 9000,
         "text": "Пардон! Задержаться пришлось!^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11083,
         "file": "Voice04/04-SA/04-SA-Q00/04-SA-Q00-0090",
         "layer": 1,
         "persona": "mak",
@@ -91,14 +95,14 @@
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12250,
         "persona": "Таисукэ",
         "start": 11100,
         "text": "Тормоз.^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12250,
         "file": "Voice04/04-SA/04-SA-Q00/04-SA-Q00-0100",
         "layer": 1,
         "persona": "tai",
@@ -106,14 +110,14 @@
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14366,
         "persona": "Макото",
         "start": 12250,
         "text": "Только выходить собрался, задержали.^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14366,
         "file": "Voice04/04-SA/04-SA-Q00/04-SA-Q00-0110",
         "layer": 1,
         "persona": "mak",
@@ -121,14 +125,14 @@
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16083,
         "persona": "Таисукэ",
         "start": 14366,
         "text": "По дому припахали?^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16083,
         "file": "Voice04/04-SA/04-SA-Q00/04-SA-Q00-0120",
         "layer": 1,
         "persona": "tai",
@@ -142,14 +146,14 @@
     },
     {
         "action": "PrintText",
-        "end": 21000,
+        "end": 21033,
         "persona": "Макото",
         "start": 16066,
         "text": "Да сестра приезжала... Хотела со мной пойти.^"
     },
     {
         "action": "PlayVoice",
-        "end": 21000,
+        "end": 21033,
         "file": "Voice04/04-SA/04-SA-Q00/04-SA-Q00-0130",
         "layer": 1,
         "persona": "mak",
@@ -157,14 +161,14 @@
     },
     {
         "action": "PrintText",
-        "end": 22000,
+        "end": 22383,
         "persona": "Таисукэ",
         "start": 21033,
         "text": "Ну и привёл бы.^"
     },
     {
         "action": "PlayVoice",
-        "end": 22000,
+        "end": 22383,
         "file": "Voice04/04-SA/04-SA-Q00/04-SA-Q00-0140",
         "layer": 1,
         "persona": "tai",
@@ -172,14 +176,14 @@
     },
     {
         "action": "PrintText",
-        "end": 29000,
+        "end": 29333,
         "persona": "Макото",
         "start": 22383,
         "text": "Ну... Она, оказывается, от бати удрала... Пришлось назад отвозить.^"
     },
     {
         "action": "PlayVoice",
-        "end": 29000,
+        "end": 29333,
         "file": "Voice04/04-SA/04-SA-Q00/04-SA-Q00-0150",
         "layer": 1,
         "persona": "mak",
@@ -187,7 +191,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 29000,
+        "end": 29350,
         "file": "Event04/04-SA/04-SA-Q00/04-SA-Q00-005A",
         "start": 23000
     },
@@ -208,20 +212,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 41000,
+        "end": 41200,
         "file": "Event04/04-SA/04-SA-Q00/04-SA-Q00-005B",
         "start": 29350
     },
     {
         "action": "PrintText",
-        "end": 41000,
+        "end": 41133,
         "persona": "Макото",
         "start": 33000,
         "text": "День рождения её на этой недели праздновали. Ей так понравилось, что она у нас жить захотела.^"
     },
     {
         "action": "PlayVoice",
-        "end": 41000,
+        "end": 41133,
         "file": "Voice04/04-SA/04-SA-Q00/04-SA-Q00-0170",
         "layer": 1,
         "persona": "mak",
@@ -229,20 +233,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 47000,
+        "end": 47200,
         "file": "Event04/04-SA/04-SA-Q00/04-SA-Q00-005C",
         "start": 41200
     },
     {
         "action": "PrintText",
-        "end": 44000,
+        "end": 44233,
         "persona": "Макото",
         "start": 41200,
         "text": "В общем, правда, простите!^"
     },
     {
         "action": "PlayVoice",
-        "end": 44000,
+        "end": 44233,
         "file": "Voice04/04-SA/04-SA-Q00/04-SA-Q00-0171",
         "layer": 1,
         "persona": "mak",
@@ -250,17 +254,21 @@
     },
     {
         "action": "PrintText",
-        "end": 47000,
+        "end": 47016,
         "persona": "Таисукэ",
         "start": 45000,
         "text": "Да ерунда. Пошли уже.^"
     },
     {
         "action": "PlayVoice",
-        "end": 47000,
+        "end": 47016,
         "file": "Voice04/04-SA/04-SA-Q00/04-SA-Q00-0180",
         "layer": 1,
         "persona": "tai",
         "start": 45000
+    },
+    {
+        "action": "Next",
+        "start": 47200
     }
 ]

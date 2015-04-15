@@ -1,5 +1,9 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 18000
+    },
+    {
         "action": "PlayBgm",
         "end": 24000,
         "file": "BGM/SD_BGM/sdbgm03",
@@ -20,7 +24,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4333,
         "file": "Event03/03-KA/03-KA-B04/03-KA-B04-001B",
         "start": 3000
     },
@@ -41,20 +45,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5166,
         "file": "Event03/03-KA/03-KA-B04/03-KA-B04-001C",
         "start": 4333
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5166,
         "persona": "Макото",
         "start": 4333,
         "text": "М?^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5166,
         "file": "Voice03/03-KA/03-KA-B04/03-KA-B04-0050",
         "layer": 1,
         "persona": "mak",
@@ -62,20 +66,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 9000,
+        "end": 9366,
         "file": "Movie00/00-00/00-00-G00/00-00-G00-025",
         "start": 5166
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9283,
         "persona": "Котоноха",
         "start": 5200,
         "text": "Я не знала, что ты теперь тоже в исполнительном комитете.^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9283,
         "file": "Voice03/03-KA/03-KA-B04/03-KA-B04-0060",
         "layer": 0,
         "persona": "kot",
@@ -83,20 +87,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 13000,
+        "end": 13266,
         "file": "Event03/03-KA/03-KA-B04/03-KA-B04-003",
         "start": 9366
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13283,
         "persona": "Макото",
         "start": 10000,
         "text": "А, да, я сам узнал только на прошлой неделе.^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13283,
         "file": "Voice03/03-KA/03-KA-B04/03-KA-B04-0070",
         "layer": 1,
         "persona": "mak",
@@ -110,14 +114,14 @@
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15366,
         "persona": "Котоноха",
         "start": 13300,
         "text": "На прошлой неделе?^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15366,
         "file": "Voice03/03-KA/03-KA-B04/03-KA-B04-0080",
         "layer": 0,
         "persona": "kot",
@@ -125,14 +129,14 @@
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16283,
         "persona": "Макото",
         "start": 16000,
         "text": "Ага.^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16283,
         "file": "Voice03/03-KA/03-KA-B04/03-KA-B04-0090",
         "layer": 1,
         "persona": "mak",
@@ -144,5 +148,9 @@
         "answer2": "Я совсем забыл.^",
         "end": 23000,
         "start": 18000
+    },
+    {
+        "action": "Next",
+        "start": 24000
     }
 ]

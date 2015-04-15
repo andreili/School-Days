@@ -1,27 +1,31 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 9166
+    },
+    {
         "action": "PlayBgm",
-        "end": 9000,
+        "end": 9166,
         "file": "BGM/SD_BGM/sdbgm20",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 9000,
+        "end": 9166,
         "file": "SysSe/SE_all/station_train/gakuenmae_yuugata",
         "layer": 1,
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1050,
         "persona": "Макото",
         "start": 0,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1050,
         "file": "Voice04/04-SB/04-SB-C02/04-SB-C02-0030",
         "layer": 1,
         "persona": "xxx",
@@ -29,13 +33,13 @@
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1066,
         "file": "Event04/04-SB/04-SB-C02/04-SB-C02-001",
         "start": 16
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3300,
         "file": "Voice04/04-SB/04-SB-C02/04-SB-C02-0040",
         "layer": -1,
         "persona": "",
@@ -43,26 +47,26 @@
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3100,
         "file": "Event04/04-SB/04-SB-C02/04-SB-C02-002",
         "start": 1066
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4200,
         "file": "Event04/04-SB/04-SB-C02/04-SB-C02-003",
         "start": 3100
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4183,
         "persona": "Макото",
         "start": 3300,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4183,
         "file": "Voice04/04-SB/04-SB-C02/04-SB-C02-0050",
         "layer": 1,
         "persona": "mak",
@@ -76,20 +80,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7216,
         "file": "Event04/04-SB/04-SB-C02/04-SB-C02-008",
         "start": 6000
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7133,
         "persona": "Макото",
         "start": 6033,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7133,
         "file": "Voice04/04-SB/04-SB-C02/04-SB-C02-0070",
         "layer": 1,
         "persona": "xxx",
@@ -97,20 +101,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9166,
         "file": "Event04/04-SB/04-SB-C02/04-SB-C02-009",
         "start": 7216
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8100,
         "persona": "Котоноха",
         "start": 7266,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8100,
         "file": "Voice04/04-SB/04-SB-C02/04-SB-C02-0080",
         "layer": 0,
         "persona": "kot",
@@ -118,17 +122,21 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9100,
         "persona": "Макото",
         "start": 8166,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9100,
         "file": "Voice04/04-SB/04-SB-C02/04-SB-C02-0100",
         "layer": 1,
         "persona": "xxx",
         "start": 8166
+    },
+    {
+        "action": "Next",
+        "start": 9166
     }
 ]

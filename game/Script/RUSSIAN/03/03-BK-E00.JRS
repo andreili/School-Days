@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 4266
+    },
+    {
         "action": "PlayBgm",
-        "end": 4000,
+        "end": 4266,
         "file": "BGM/SD_BGM/sdbgm06",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 4000,
+        "end": 4266,
         "file": "Se03/03-BK/03-BK-E00/SE03-BK-E00-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4266,
         "file": "Event03/03-BK/03-BK-E00/03-BK-E00-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2150,
         "persona": "Макото",
         "start": 200,
         "text": "О чём ты хотел поговорить?^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2150,
         "file": "Voice03/03-BK/03-BK-E00/03-BK-E00-0030",
         "layer": 1,
         "persona": "mak",
@@ -35,17 +39,21 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4133,
         "persona": "Таисукэ",
         "start": 2266,
         "text": "Ну, сейчас узнаешь.^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4133,
         "file": "Voice03/03-BK/03-BK-E00/03-BK-E00-0040",
         "layer": 1,
         "persona": "tai",
         "start": 2266
+    },
+    {
+        "action": "Next",
+        "start": 4266
     }
 ]

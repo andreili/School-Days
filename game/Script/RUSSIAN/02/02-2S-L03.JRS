@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 12183
+    },
+    {
         "action": "PlayBgm",
-        "end": 12000,
+        "end": 12150,
         "file": "BGM/SD_BGM/sdbgm06",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 12000,
+        "end": 12183,
         "file": "Se01/01-00/01-00-B00/SE01-00-B00-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3150,
         "file": "Event02/02-2S/02-2S-L03/02-2S-L03-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1183,
         "persona": "Макото",
         "start": 0,
         "text": "Давай я тебя провожу?^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1183,
         "file": "Voice02/02-2S/02-2S-L03/02-2S-L03-0030",
         "layer": 1,
         "persona": "mak",
@@ -35,14 +39,14 @@
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2083,
         "persona": "Котоноха",
         "start": 1183,
         "text": "Конечно!^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2083,
         "file": "Voice02/02-2S/02-2S-L03/02-2S-L03-0040",
         "layer": 0,
         "persona": "kot",
@@ -50,26 +54,30 @@
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5366,
         "file": "Event02/02-2S/02-2S-L03/02-2S-L03-002",
         "start": 3150
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8283,
         "file": "Event02/02-2S/02-2S-L03/02-2S-L03-003",
         "start": 5366
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12150,
         "file": "Event02/02-2S/02-2S-L03/02-2S-L03-004",
         "start": 8283
     },
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 12000,
+        "end": 12183,
         "start": 11183
+    },
+    {
+        "action": "Next",
+        "start": 12183
     }
 ]

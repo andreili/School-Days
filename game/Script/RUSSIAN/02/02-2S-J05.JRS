@@ -1,7 +1,11 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 15216
+    },
+    {
         "action": "PlayBgm",
-        "end": 15000,
+        "end": 15216,
         "file": "BGM/SD_BGM/sdbgm07",
         "start": 0
     },
@@ -13,45 +17,49 @@
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5033,
         "file": "Event02/02-2S/02-2S-J05/02-2S-J05-002",
         "start": 2000
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7133,
         "file": "Event02/02-2S/02-2S-J05/02-2S-J05-003",
         "start": 5033
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9283,
         "file": "Event02/02-2S/02-2S-J05/02-2S-J05-004",
         "start": 7133
     },
     {
         "action": "PlaySe",
-        "end": 9000,
+        "end": 9033,
         "file": "Voice02/02-2S/02-2S-J05/02-2S-J05-0050",
         "layer": 1,
         "start": 7316
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12050,
         "file": "Event02/02-2S/02-2S-J05/02-2S-J05-005",
         "start": 9283
     },
     {
         "action": "CreateBG",
-        "end": 15000,
+        "end": 15216,
         "file": "Event02/02-2S/02-2S-J05/02-2S-J05-006",
         "start": 12050
     },
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 15000,
+        "end": 15216,
         "start": 14216
+    },
+    {
+        "action": "Next",
+        "start": 15216
     }
 ]

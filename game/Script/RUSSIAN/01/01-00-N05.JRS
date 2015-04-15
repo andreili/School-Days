@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 11150
+    },
+    {
         "action": "PlayBgm",
-        "end": 11000,
+        "end": 11150,
         "file": "BGM/SD_BGM/sdbgm07",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8383,
         "file": "Event01/01-00/01-00-N05/01-00-N05-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2033,
         "persona": "Макото",
         "start": 316,
         "text": "Я ей позвоню!^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2033,
         "file": "Voice01/01-00/01-00-N05/01-00-N05-0030",
         "layer": 1,
         "persona": "mak",
@@ -28,21 +32,21 @@
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5450,
         "persona": "Макото",
         "start": 3116,
         "text": "Не буду из неё ничего вытягивать,^"
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8133,
         "persona": "Макото",
         "start": 5450,
         "text": "просто попробую поговорить.^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8133,
         "file": "Voice01/01-00/01-00-N05/01-00-N05-0040",
         "layer": 1,
         "persona": "mak",
@@ -50,23 +54,27 @@
     },
     {
         "action": "PlayMovie",
-        "end": 11000,
+        "end": 11150,
         "file": "Movie01/01-00/01-00-N05/01-00-N05-002",
         "start": 8383
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10216,
         "persona": "Макото",
         "start": 9250,
         "text": "Кацура...^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10216,
         "file": "Voice01/01-00/01-00-N05/01-00-N05-0060",
         "layer": 1,
         "persona": "mak",
         "start": 9250
+    },
+    {
+        "action": "Next",
+        "start": 11150
     }
 ]

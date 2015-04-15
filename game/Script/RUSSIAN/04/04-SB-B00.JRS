@@ -1,7 +1,11 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 61283
+    },
+    {
         "action": "PlayBgm",
-        "end": 61000,
+        "end": 61283,
         "file": "BGM/SD_BGM/sdbgm28",
         "start": 0
     },
@@ -13,20 +17,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3216,
         "file": "Event04/04-SB/04-SB-B00/04-SB-B00-002",
         "start": 2000
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3283,
         "persona": "Макото",
         "start": 2183,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3283,
         "file": "Voice04/04-SB/04-SB-B00/04-SB-B00-0050",
         "layer": 1,
         "persona": "xxx",
@@ -35,31 +39,31 @@
     {
         "action": "WhiteFade",
         "dir": "OUT",
-        "end": 3000,
+        "end": 3216,
         "start": 3116
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8266,
         "file": "Event04/04-SB/04-SB-B00/04-SB-B00-003",
         "start": 3216
     },
     {
         "action": "WhiteFade",
         "dir": "IN",
-        "end": 3000,
+        "end": 3316,
         "start": 3216
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5183,
         "persona": "Таисукэ",
         "start": 3383,
         "text": "Поздоровайся хоть, что ли.^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5183,
         "file": "Voice04/04-SB/04-SB-B00/04-SB-B00-0080",
         "layer": 1,
         "persona": "tai",
@@ -67,14 +71,14 @@
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8366,
         "persona": "Котоноха",
         "start": 5183,
         "text": "Я... Кацура Котоноха.^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8366,
         "file": "Voice04/04-SB/04-SB-B00/04-SB-B00-0090",
         "layer": 0,
         "persona": "kot",
@@ -82,7 +86,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 19000,
+        "end": 19166,
         "file": "Event04/04-SB/04-SB-B00/04-SB-B00-004",
         "start": 8266
     },
@@ -103,14 +107,14 @@
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14100,
         "persona": "Котоноха",
         "start": 11350,
         "text": "Действительно...^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14100,
         "file": "Voice04/04-SB/04-SB-B00/04-SB-B00-0110",
         "layer": 0,
         "persona": "kot",
@@ -118,14 +122,14 @@
     },
     {
         "action": "PrintText",
-        "end": 19000,
+        "end": 19083,
         "persona": "Сэкаи",
         "start": 14100,
         "text": "Но, чего не ожидала, того не ожидала. Когда вы только успели?^"
     },
     {
         "action": "PlayVoice",
-        "end": 19000,
+        "end": 19083,
         "file": "Voice04/04-SB/04-SB-B00/04-SB-B00-0120",
         "layer": 0,
         "persona": "sek",
@@ -133,20 +137,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 23000,
+        "end": 23100,
         "file": "Event04/04-SB/04-SB-B00/04-SB-B00-005",
         "start": 19166
     },
     {
         "action": "PrintText",
-        "end": 23000,
+        "end": 23216,
         "persona": "Котоноха",
         "start": 19216,
         "text": "На школьном фестивале.^"
     },
     {
         "action": "PlayVoice",
-        "end": 23000,
+        "end": 23216,
         "file": "Voice04/04-SB/04-SB-B00/04-SB-B00-0130",
         "layer": 0,
         "persona": "kot",
@@ -154,7 +158,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 31000,
+        "end": 31066,
         "file": "Event04/04-SB/04-SB-B00/04-SB-B00-006",
         "start": 23100
     },
@@ -175,14 +179,14 @@
     },
     {
         "action": "PrintText",
-        "end": 31000,
+        "end": 31166,
         "persona": "Макото",
         "start": 29000,
         "text": "Ага...^"
     },
     {
         "action": "PlayVoice",
-        "end": 31000,
+        "end": 31166,
         "file": "Voice04/04-SB/04-SB-B00/04-SB-B00-0150",
         "layer": 1,
         "persona": "mak",
@@ -190,20 +194,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 40000,
+        "end": 40366,
         "file": "Event04/04-SB/04-SB-B00/04-SB-B00-007",
         "start": 31066
     },
     {
         "action": "PrintText",
-        "end": 36000,
+        "end": 36033,
         "persona": "Сэкаи",
         "start": 31166,
         "text": "Саванага, а ты у нас парень не промах, на фестивале подружку себе нашёл.^"
     },
     {
         "action": "PlayVoice",
-        "end": 36000,
+        "end": 36033,
         "file": "Voice04/04-SB/04-SB-B00/04-SB-B00-0160",
         "layer": 0,
         "persona": "sek",
@@ -211,14 +215,14 @@
     },
     {
         "action": "PrintText",
-        "end": 38000,
+        "end": 38183,
         "persona": "Таисукэ",
         "start": 36033,
         "text": "Думаешь?^"
     },
     {
         "action": "PlayVoice",
-        "end": 38000,
+        "end": 38183,
         "file": "Voice04/04-SB/04-SB-B00/04-SB-B00-0170",
         "layer": 1,
         "persona": "tai",
@@ -226,14 +230,14 @@
     },
     {
         "action": "PrintText",
-        "end": 41000,
+        "end": 41016,
         "persona": "Сэкаи",
         "start": 38200,
         "text": "Как ты её покорил-то?^"
     },
     {
         "action": "PlayVoice",
-        "end": 41000,
+        "end": 41016,
         "file": "Voice04/04-SB/04-SB-B00/04-SB-B00-0180",
         "layer": 0,
         "persona": "sek",
@@ -241,20 +245,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 46000,
+        "end": 46066,
         "file": "Event04/04-SB/04-SB-B00/04-SB-B00-008",
         "start": 40366
     },
     {
         "action": "PrintText",
-        "end": 46000,
+        "end": 46150,
         "persona": "Таисукэ",
         "start": 41000,
         "text": "Скажем так, без труда не вытащишь и рыбки из пруда!^"
     },
     {
         "action": "PlayVoice",
-        "end": 46000,
+        "end": 46150,
         "file": "Voice04/04-SB/04-SB-B00/04-SB-B00-0190",
         "layer": 1,
         "persona": "tai",
@@ -262,20 +266,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 50000,
+        "end": 50016,
         "file": "Event04/04-SB/04-SB-B00/04-SB-B00-009",
         "start": 46066
     },
     {
         "action": "PrintText",
-        "end": 48000,
+        "end": 48050,
         "persona": "Сэкаи",
         "start": 46150,
         "text": "И какого же?^"
     },
     {
         "action": "PlayVoice",
-        "end": 48000,
+        "end": 48050,
         "file": "Voice04/04-SB/04-SB-B00/04-SB-B00-0200",
         "layer": 0,
         "persona": "sek",
@@ -283,14 +287,14 @@
     },
     {
         "action": "PrintText",
-        "end": 48000,
+        "end": 48300,
         "persona": "Таисукэ",
         "start": 48050,
         "text": "Э?^"
     },
     {
         "action": "PlayVoice",
-        "end": 48000,
+        "end": 48300,
         "file": "Voice04/04-SB/04-SB-B00/04-SB-B00-0210",
         "layer": 1,
         "persona": "tai",
@@ -298,14 +302,14 @@
     },
     {
         "action": "PrintText",
-        "end": 50000,
+        "end": 50083,
         "persona": "Сэкаи",
         "start": 48283,
         "text": "Какого труда?^"
     },
     {
         "action": "PlayVoice",
-        "end": 50000,
+        "end": 50083,
         "file": "Voice04/04-SB/04-SB-B00/04-SB-B00-0220",
         "layer": 0,
         "persona": "sek",
@@ -313,20 +317,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 55000,
+        "end": 55016,
         "file": "Event04/04-SB/04-SB-B00/04-SB-B00-010",
         "start": 50016
     },
     {
         "action": "PrintText",
-        "end": 55000,
+        "end": 55166,
         "persona": "Таисукэ",
         "start": 50083,
         "text": "Э... Дай подумать... Напор!^"
     },
     {
         "action": "PlayVoice",
-        "end": 55000,
+        "end": 55166,
         "file": "Voice04/04-SB/04-SB-B00/04-SB-B00-0230",
         "layer": 1,
         "persona": "tai",
@@ -334,20 +338,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 61000,
+        "end": 61283,
         "file": "Event04/04-SB/04-SB-B00/04-SB-B00-011",
         "start": 55016
     },
     {
         "action": "PrintText",
-        "end": 58000,
+        "end": 58016,
         "persona": "Сэкаи",
         "start": 55166,
         "text": "Что-то ничего не вяжется.^"
     },
     {
         "action": "PlayVoice",
-        "end": 58000,
+        "end": 58016,
         "file": "Voice04/04-SB/04-SB-B00/04-SB-B00-0240",
         "layer": 0,
         "persona": "sek",
@@ -355,17 +359,21 @@
     },
     {
         "action": "PrintText",
-        "end": 61000,
+        "end": 61083,
         "persona": "Таисукэ",
         "start": 58016,
         "text": "Ну...^"
     },
     {
         "action": "PlayVoice",
-        "end": 61000,
+        "end": 61083,
         "file": "Voice04/04-SB/04-SB-B00/04-SB-B00-0250",
         "layer": 1,
         "persona": "tai",
         "start": 58016
+    },
+    {
+        "action": "Next",
+        "start": 61283
     }
 ]

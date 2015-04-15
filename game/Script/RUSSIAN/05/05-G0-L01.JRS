@@ -1,40 +1,44 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 58166
+    },
+    {
         "action": "PlayBgm",
-        "end": 58000,
+        "end": 58166,
         "file": "BGM/SD_BGM/sdbgm33",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 5000,
+        "end": 5066,
         "file": "SysSe/SE_all/door/door_mansyon",
         "layer": 1,
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 58000,
+        "end": 58166,
         "file": "SysSe/SE_all/gaya/okujou",
         "layer": 4,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7283,
         "file": "Event05/05-KB/05-KB-L01/05-KB-L01-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6233,
         "persona": "Макото",
         "start": 4266,
         "text": "Котоноха!^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6233,
         "file": "Voice05/05-KB/05-KB-L01/05-KB-L01-0030",
         "layer": 1,
         "persona": "mak",
@@ -42,14 +46,14 @@
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7266,
         "persona": "Котоноха",
         "start": 6233,
         "text": "Да.^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7266,
         "file": "Voice05/05-KB/05-KB-L01/05-KB-L01-0040",
         "layer": 0,
         "persona": "kot",
@@ -57,14 +61,14 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9366,
         "persona": "Макото",
         "start": 7266,
         "text": "Я булок купил.^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9366,
         "file": "Voice05/05-KB/05-KB-L01/05-KB-L01-0070",
         "layer": 1,
         "persona": "mak",
@@ -72,20 +76,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9383,
         "file": "Event05/05-KB/05-KB-L01/05-KB-L01-004",
         "start": 7283
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12033,
         "persona": "Котоноха",
         "start": 9366,
         "text": "Я тогда чаю налью.^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12033,
         "file": "Voice05/05-KB/05-KB-L01/05-KB-L01-0080",
         "layer": 0,
         "persona": "kot",
@@ -93,20 +97,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 13000,
+        "end": 13283,
         "file": "Event05/05-KB/05-KB-L01/05-KB-L01-003",
         "start": 9383
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13283,
         "persona": "Макото",
         "start": 12033,
         "text": "Ага.^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13283,
         "file": "Voice05/05-KB/05-KB-L01/05-KB-L01-0090",
         "layer": 1,
         "persona": "mak",
@@ -114,27 +118,27 @@
     },
     {
         "action": "PlaySe",
-        "end": 30000,
+        "end": 30266,
         "file": "SysSe/SE_all/school/chime",
         "layer": 1,
         "start": 12100
     },
     {
         "action": "CreateBG",
-        "end": 28000,
+        "end": 28116,
         "file": "Event05/05-KB/05-KB-L01/05-KB-L01-004",
         "start": 13283
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17083,
         "persona": "Котоноха",
         "start": 15283,
         "text": "А...^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17083,
         "file": "Voice05/05-KB/05-KB-L01/05-KB-L01-0110",
         "layer": 0,
         "persona": "kot",
@@ -142,14 +146,14 @@
     },
     {
         "action": "PrintText",
-        "end": 20000,
+        "end": 20083,
         "persona": "Макото",
         "start": 17083,
         "text": "Пойдём в класс?^"
     },
     {
         "action": "PlayVoice",
-        "end": 20000,
+        "end": 20083,
         "file": "Voice05/05-KB/05-KB-L01/05-KB-L01-0120",
         "layer": 1,
         "persona": "mak",
@@ -157,14 +161,14 @@
     },
     {
         "action": "PrintText",
-        "end": 22000,
+        "end": 22183,
         "persona": "Котоноха",
         "start": 20083,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 22000,
+        "end": 22183,
         "file": "Voice05/05-KB/05-KB-L01/05-KB-L01-0130",
         "layer": 0,
         "persona": "xxx",
@@ -172,14 +176,14 @@
     },
     {
         "action": "PrintText",
-        "end": 24000,
+        "end": 24066,
         "persona": "Макото",
         "start": 22183,
         "text": "Котоноха.^"
     },
     {
         "action": "PlayVoice",
-        "end": 24000,
+        "end": 24066,
         "file": "Voice05/05-KB/05-KB-L01/05-KB-L01-0140",
         "layer": 1,
         "persona": "mak",
@@ -187,14 +191,14 @@
     },
     {
         "action": "PrintText",
-        "end": 28000,
+        "end": 28116,
         "persona": "Котоноха",
         "start": 24066,
         "text": "И ведь... В кои-то веки...^"
     },
     {
         "action": "PlayVoice",
-        "end": 28000,
+        "end": 28116,
         "file": "Voice05/05-KB/05-KB-L01/05-KB-L01-0150",
         "layer": 0,
         "persona": "kot",
@@ -202,20 +206,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 38000,
+        "end": 38166,
         "file": "Event05/05-KB/05-KB-L01/05-KB-L01-005B",
         "start": 28116
     },
     {
         "action": "PrintText",
-        "end": 32000,
+        "end": 32033,
         "persona": "Макото",
         "start": 28116,
         "text": "Да, зря только покупал...^"
     },
     {
         "action": "PlayVoice",
-        "end": 32000,
+        "end": 32033,
         "file": "Voice05/05-KB/05-KB-L01/05-KB-L01-0160",
         "layer": 1,
         "persona": "mak",
@@ -223,14 +227,14 @@
     },
     {
         "action": "PrintText",
-        "end": 36000,
+        "end": 36100,
         "persona": "Котоноха",
         "start": 32033,
         "text": "Прости... Всё из-за меня...^"
     },
     {
         "action": "PlayVoice",
-        "end": 36000,
+        "end": 36100,
         "file": "Voice05/05-KB/05-KB-L01/05-KB-L01-0170",
         "layer": 0,
         "persona": "kot",
@@ -238,14 +242,14 @@
     },
     {
         "action": "PrintText",
-        "end": 38000,
+        "end": 38150,
         "persona": "Макото",
         "start": 36116,
         "text": "Ничего.^"
     },
     {
         "action": "PlayVoice",
-        "end": 38000,
+        "end": 38150,
         "file": "Voice05/05-KB/05-KB-L01/05-KB-L01-0180",
         "layer": 1,
         "persona": "mak",
@@ -253,14 +257,14 @@
     },
     {
         "action": "PrintText",
-        "end": 40000,
+        "end": 40383,
         "persona": "Котоноха",
         "start": 38150,
         "text": "Постоянно... Мешаюсь... Тебе...^"
     },
     {
         "action": "PlayVoice",
-        "end": 40000,
+        "end": 40383,
         "file": "Voice05/05-KB/05-KB-L01/05-KB-L01-0190",
         "layer": 0,
         "persona": "kot",
@@ -268,41 +272,41 @@
     },
     {
         "action": "PlayMovie",
-        "end": 44000,
+        "end": 44033,
         "file": "Movie05/05-KB/05-KB-L01/05-KB-L01-006",
         "start": 38166
     },
     {
         "action": "PlaySe",
-        "end": 40000,
+        "end": 40300,
         "file": "SysSe/SE_all/footsteps/asioto_okugai",
         "layer": 1,
         "start": 39083
     },
     {
         "action": "PlaySe",
-        "end": 40000,
+        "end": 40283,
         "file": "SysSe/SE_all/h/nuno2",
         "layer": 3,
         "start": 39266
     },
     {
         "action": "PlaySe",
-        "end": 41000,
+        "end": 41316,
         "file": "SysSe/SE_all/h/nuno1",
         "layer": 2,
         "start": 40100
     },
     {
         "action": "PrintText",
-        "end": 42000,
+        "end": 42083,
         "persona": "Котоноха",
         "start": 40383,
         "text": "А...^"
     },
     {
         "action": "PlayVoice",
-        "end": 42000,
+        "end": 42083,
         "file": "Voice05/05-KB/05-KB-L01/05-KB-L01-0210",
         "layer": 0,
         "persona": "kot",
@@ -310,14 +314,14 @@
     },
     {
         "action": "PrintText",
-        "end": 46000,
+        "end": 46200,
         "persona": "Макото",
         "start": 42083,
         "text": "Давай и завтра вместе поедим.^"
     },
     {
         "action": "PlayVoice",
-        "end": 46000,
+        "end": 46200,
         "file": "Voice05/05-KB/05-KB-L01/05-KB-L01-0220",
         "layer": 1,
         "persona": "mak",
@@ -325,20 +329,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 56000,
+        "end": 56016,
         "file": "Event05/05-KB/05-KB-L01/05-KB-L01-007A",
         "start": 44033
     },
     {
         "action": "PrintText",
-        "end": 48000,
+        "end": 48166,
         "persona": "Котоноха",
         "start": 46200,
         "text": "И завтра?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 48000,
+        "end": 48166,
         "file": "Voice05/05-KB/05-KB-L01/05-KB-L01-0230",
         "layer": 0,
         "persona": "kot",
@@ -346,14 +350,14 @@
     },
     {
         "action": "PrintText",
-        "end": 53000,
+        "end": 53100,
         "persona": "Макото",
         "start": 48166,
         "text": "Я на завтра тоже что-нибудь приготовлю, угостим друг друга.^"
     },
     {
         "action": "PlayVoice",
-        "end": 53000,
+        "end": 53100,
         "file": "Voice05/05-KB/05-KB-L01/05-KB-L01-0240",
         "layer": 1,
         "persona": "mak",
@@ -361,14 +365,14 @@
     },
     {
         "action": "PrintText",
-        "end": 54000,
+        "end": 54133,
         "persona": "Котоноха",
         "start": 53100,
         "text": "А...^"
     },
     {
         "action": "PlayVoice",
-        "end": 54000,
+        "end": 54133,
         "file": "Voice05/05-KB/05-KB-L01/05-KB-L01-0250",
         "layer": 0,
         "persona": "kot",
@@ -391,14 +395,14 @@
     },
     {
         "action": "PrintText",
-        "end": 56000,
+        "end": 56383,
         "persona": "Котоноха",
         "start": 56000,
         "text": "Давай!^"
     },
     {
         "action": "PlayVoice",
-        "end": 56000,
+        "end": 56383,
         "file": "Voice05/05-KB/05-KB-L01/05-KB-L01-0270",
         "layer": 0,
         "persona": "kot",
@@ -406,14 +410,18 @@
     },
     {
         "action": "CreateBG",
-        "end": 58000,
+        "end": 58166,
         "file": "Event05/05-KB/05-KB-L01/05-KB-L01-008",
         "start": 56016
     },
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 58000,
+        "end": 58166,
         "start": 57166
+    },
+    {
+        "action": "Next",
+        "start": 58166
     }
 ]

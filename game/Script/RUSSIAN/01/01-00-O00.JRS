@@ -1,27 +1,35 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 7216
+    },
+    {
         "action": "PlayBgm",
-        "end": 7000,
+        "end": 7216,
         "file": "BGM/SD_BGM/sdbgm20",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3200,
         "file": "Event01/01-00/01-00-O00/01-00-O00-001",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 7000,
+        "end": 7216,
         "file": "Se01/01-00/01-00-O00/SE01-00-O00-001",
         "layer": 1,
         "start": 133
     },
     {
         "action": "PlayMovie",
-        "end": 7000,
+        "end": 7216,
         "file": "Movie01/01-00/01-00-O00/01-00-O00-002",
         "start": 3200
+    },
+    {
+        "action": "Next",
+        "start": 7216
     }
 ]

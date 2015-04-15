@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 9383
+    },
+    {
         "action": "PlayBgm",
-        "end": 9000,
+        "end": 9383,
         "file": "BGM/SD_BGM/sdbgm08",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7100,
         "file": "Event04/04-KA/04-KA-I02/04-KA-I02-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1033,
         "persona": "Макото",
         "start": 0,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1033,
         "file": "Voice04/04-KA/04-KA-I04/04-KA-I04-0030",
         "layer": 1,
         "persona": "xxx",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3150,
         "persona": "Котоноха",
         "start": 1033,
         "text": "Только?^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3150,
         "file": "Voice04/04-KA/04-KA-I04/04-KA-I04-0040",
         "layer": 0,
         "persona": "kot",
@@ -43,14 +47,14 @@
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7083,
         "persona": "Макото",
         "start": 3150,
         "text": "Да нет, ничего. Пошли вниз.^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7083,
         "file": "Voice04/04-KA/04-KA-I04/04-KA-I04-0050",
         "layer": 1,
         "persona": "mak",
@@ -58,14 +62,14 @@
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7366,
         "persona": "Котоноха",
         "start": 7066,
         "text": "Хорошо.^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7366,
         "file": "Voice04/04-KA/04-KA-I04/04-KA-I04-0060",
         "layer": 0,
         "persona": "kot",
@@ -73,8 +77,12 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9383,
         "file": "Event04/04-KA/04-KA-I02/04-KA-I02-004",
         "start": 7100
+    },
+    {
+        "action": "Next",
+        "start": 9383
     }
 ]

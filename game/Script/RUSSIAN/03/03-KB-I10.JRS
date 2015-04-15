@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 11100
+    },
+    {
         "action": "PlayBgm",
-        "end": 17000,
+        "end": 17116,
         "file": "BGM/SD_BGM/sdbgm13",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 17000,
+        "end": 17116,
         "file": "Se03/03-KB/03-KB-I10/SE03-KB-I10-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3283,
         "file": "Event03/03-KB/03-KB-I10/03-KB-I10-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1216,
         "persona": "Таисукэ",
         "start": 0,
         "text": "Пошли со мной!^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1216,
         "file": "Voice03/03-KB/03-KB-I10/03-KB-I10-0060",
         "layer": 1,
         "persona": "tai",
@@ -35,14 +39,14 @@
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3283,
         "persona": "Макото",
         "start": 1200,
         "text": "Что это на тебя нашло?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3283,
         "file": "Voice03/03-KB/03-KB-I10/03-KB-I10-0070",
         "layer": 1,
         "persona": "mak",
@@ -50,20 +54,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5116,
         "file": "Event03/03-KB/03-KB-I10/03-KB-I10-002",
         "start": 3283
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5116,
         "persona": "Котоноха",
         "start": 3283,
         "text": "Макото...^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5116,
         "file": "Voice03/03-KB/03-KB-I10/03-KB-I10-0080",
         "layer": 0,
         "persona": "kot",
@@ -71,14 +75,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6033,
         "persona": "Макото",
         "start": 5100,
         "text": "А!^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6033,
         "file": "Voice03/03-KB/03-KB-I10/03-KB-I10-0090",
         "layer": 1,
         "persona": "mak",
@@ -86,20 +90,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 17000,
+        "end": 17116,
         "file": "Event03/03-KB/03-KB-I10/03-KB-I10-003",
         "start": 5116
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10133,
         "persona": "Таисукэ",
         "start": 6033,
         "text": "Твоя девушка - Кацура? Верно?^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10133,
         "file": "Voice03/03-KB/03-KB-I10/03-KB-I10-0100",
         "layer": 1,
         "persona": "tai",
@@ -107,14 +111,14 @@
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11233,
         "persona": "Макото",
         "start": 10133,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11233,
         "file": "Voice03/03-KB/03-KB-I10/03-KB-I10-0110",
         "layer": 1,
         "persona": "xxx",
@@ -124,7 +128,11 @@
         "action": "SetSELECT",
         "answer1": "Да, это так.^",
         "answer2": "Мы расстались!",
-        "end": 16000,
+        "end": 16100,
         "start": 11100
+    },
+    {
+        "action": "Next",
+        "start": 17116
     }
 ]

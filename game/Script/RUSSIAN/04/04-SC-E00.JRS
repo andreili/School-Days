@@ -1,32 +1,36 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 26116
+    },
+    {
         "action": "PlayBgm",
-        "end": 26000,
+        "end": 26116,
         "file": "BGM/SD_BGM/sdbgm20",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1066,
         "file": "Event04/04-SC/04-SC-E00/04-SC-E00-001",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6016,
         "file": "Event04/04-SC/04-SC-E00/04-SC-E00-002",
         "start": 1066
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6066,
         "persona": "Котоноха",
         "start": 1166,
         "text": "Как задержали-то...^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6066,
         "file": "Voice04/04-SC/04-SC-E00/04-SC-E00-0040",
         "layer": 0,
         "persona": "kot",
@@ -34,20 +38,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7033,
         "file": "Event04/04-SC/04-SC-E00/04-SC-E00-003",
         "start": 6016
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7033,
         "persona": "Нанами",
         "start": 6050,
         "text": "Кацура.^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7033,
         "file": "Voice04/04-SC/04-SC-E00/04-SC-E00-0050",
         "layer": 0,
         "persona": "nan",
@@ -55,20 +59,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 11000,
+        "end": 11016,
         "file": "Event04/04-SC/04-SC-E00/04-SC-E00-004",
         "start": 7033
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9383,
         "persona": "Котоноха",
         "start": 7033,
         "text": "Канродзи?^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9383,
         "file": "Voice04/04-SC/04-SC-E00/04-SC-E00-0060",
         "layer": 0,
         "persona": "kot",
@@ -76,14 +80,14 @@
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11033,
         "persona": "Нанами",
         "start": 9383,
         "text": "Можно тебя на минутку?^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11033,
         "file": "Voice04/04-SC/04-SC-E00/04-SC-E00-0070",
         "layer": 0,
         "persona": "nan",
@@ -91,20 +95,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 14000,
+        "end": 14250,
         "file": "Event04/04-SC/04-SC-E00/04-SC-E00-005",
         "start": 11016
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14300,
         "persona": "Котоноха",
         "start": 11016,
         "text": "Я... Спешу.^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14300,
         "file": "Voice04/04-SC/04-SC-E00/04-SC-E00-0080",
         "layer": 0,
         "persona": "kot",
@@ -112,20 +116,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 16000,
+        "end": 16083,
         "file": "Event04/04-SC/04-SC-E00/04-SC-E00-006",
         "start": 14250
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16133,
         "persona": "Нанами",
         "start": 14316,
         "text": "К Ито что ли?^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16133,
         "file": "Voice04/04-SC/04-SC-E00/04-SC-E00-0090",
         "layer": 0,
         "persona": "nan",
@@ -133,20 +137,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 17000,
+        "end": 17050,
         "file": "Event04/04-SC/04-SC-E00/04-SC-E00-007",
         "start": 16083
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17066,
         "persona": "Котоноха",
         "start": 16116,
         "text": "Э?^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17066,
         "file": "Voice04/04-SC/04-SC-E00/04-SC-E00-0100",
         "layer": 0,
         "persona": "kot",
@@ -154,20 +158,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 26000,
+        "end": 26116,
         "file": "Event04/04-SC/04-SC-E00/04-SC-E00-007B",
         "start": 17050
     },
     {
         "action": "PrintText",
-        "end": 18000,
+        "end": 18083,
         "persona": "Нанами",
         "start": 17066,
         "text": "Так как?^"
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18083,
         "file": "Voice04/04-SC/04-SC-E00/04-SC-E00-0110",
         "layer": 0,
         "persona": "nan",
@@ -175,14 +179,14 @@
     },
     {
         "action": "PrintText",
-        "end": 19000,
+        "end": 19083,
         "persona": "Котоноха",
         "start": 18083,
         "text": "Да.^"
     },
     {
         "action": "PlayVoice",
-        "end": 19000,
+        "end": 19083,
         "file": "Voice04/04-SC/04-SC-E00/04-SC-E00-0120",
         "layer": 0,
         "persona": "kot",
@@ -190,14 +194,14 @@
     },
     {
         "action": "PrintText",
-        "end": 24000,
+        "end": 24183,
         "persona": "Нанами",
         "start": 19083,
         "text": "Вот о нём-то я как раз и хотела поговорить. Ты же не против?^"
     },
     {
         "action": "PlayVoice",
-        "end": 24000,
+        "end": 24183,
         "file": "Voice04/04-SC/04-SC-E00/04-SC-E00-0130",
         "layer": 0,
         "persona": "nan",
@@ -205,17 +209,21 @@
     },
     {
         "action": "PrintText",
-        "end": 25000,
+        "end": 25116,
         "persona": "Котоноха",
         "start": 24183,
         "text": "Нет...^"
     },
     {
         "action": "PlayVoice",
-        "end": 25000,
+        "end": 25116,
         "file": "Voice04/04-SC/04-SC-E00/04-SC-E00-0140",
         "layer": 0,
         "persona": "kot",
         "start": 24183
+    },
+    {
+        "action": "Next",
+        "start": 26116
     }
 ]

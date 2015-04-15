@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 18183
+    },
+    {
         "action": "PlayBgm",
-        "end": 18000,
+        "end": 18166,
         "file": "BGM/SD_BGM/sdbgm12",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5350,
         "file": "Event03/03-KB/03-KB-D05/03-KB-D05-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1266,
         "persona": "Макото",
         "start": 0,
         "text": "Кто тебе сказал?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1266,
         "file": "Voice03/03-KB/03-KB-D05/03-KB-D05-0030",
         "layer": 1,
         "persona": "mak",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5350,
         "persona": "Таисукэ",
         "start": 1266,
         "text": "Ну знаешь, слухи...^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5350,
         "file": "Voice03/03-KB/03-KB-D05/03-KB-D05-0040",
         "layer": 1,
         "persona": "tai",
@@ -43,20 +47,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 18000,
+        "end": 18183,
         "file": "Event03/03-KB/03-KB-D05/03-KB-D05-002",
         "start": 5350
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7283,
         "persona": "Макото",
         "start": 5350,
         "text": "Девчонки в классе болтают?^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7283,
         "file": "Voice03/03-KB/03-KB-D05/03-KB-D05-0050",
         "layer": 1,
         "persona": "mak",
@@ -64,14 +68,14 @@
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11283,
         "persona": "Таисукэ",
         "start": 7283,
         "text": "Ну, в общем да, типа того.^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11283,
         "file": "Voice03/03-KB/03-KB-D05/03-KB-D05-0060",
         "layer": 1,
         "persona": "tai",
@@ -79,14 +83,14 @@
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17116,
         "persona": "Макото",
         "start": 11266,
         "text": "Блин, лезут не в своё дело...^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17116,
         "file": "Voice03/03-KB/03-KB-D05/03-KB-D05-0070",
         "layer": 1,
         "persona": "mak",
@@ -94,17 +98,21 @@
     },
     {
         "action": "PrintText",
-        "end": 18000,
+        "end": 18166,
         "persona": "Таисукэ",
         "start": 17116,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18166,
         "file": "Voice03/03-KB/03-KB-D05/03-KB-D05-0080",
         "layer": 1,
         "persona": "tai",
         "start": 17116
+    },
+    {
+        "action": "Next",
+        "start": 18183
     }
 ]

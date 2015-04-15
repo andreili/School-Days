@@ -1,7 +1,11 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 17116
+    },
+    {
         "action": "PlayBgm",
-        "end": 17000,
+        "end": 17116,
         "file": "BGM/SD_BGM/sdbgm20",
         "start": 0
     },
@@ -43,20 +47,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12100,
         "file": "Event05/05-KG/05-KG-C02/05-KG-C02-002",
         "start": 5000
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12183,
         "persona": "Макото",
         "start": 8250,
         "text": "Иначе, отчего бы так сердце-то стучало?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12183,
         "file": "Voice05/05-KG/05-KG-C02/05-KG-C02-0050",
         "layer": 1,
         "persona": "xxx",
@@ -64,23 +68,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 17000,
+        "end": 17100,
         "file": "Event05/05-KG/05-KG-C03/05-KG-C03-003",
         "start": 12100
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16383,
         "persona": "Макото",
         "start": 13216,
         "text": "Люблю я её... Люблю.^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16383,
         "file": "Voice05/05-KG/05-KG-C02/05-KG-C02-0060",
         "layer": 1,
         "persona": "xxx",
         "start": 13216
+    },
+    {
+        "action": "Next",
+        "start": 17116
     }
 ]

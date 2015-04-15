@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 80033
+    },
+    {
         "action": "PlayBgm",
-        "end": 80000,
+        "end": 80016,
         "file": "BGM/SD_BGM/sdbgm25",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 27000,
+        "end": 27366,
         "file": "Event03/03-KB/03-KB-O04/03-KB-O04-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6333,
         "persona": "Котоноха",
         "start": 0,
         "text": "Ничего. Саиёндзи была с тобой уже давно знакома.^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6333,
         "file": "Voice03/03-KB/03-KB-O04/03-KB-O04-0030",
         "layer": 0,
         "persona": "kot",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8133,
         "persona": "Макото",
         "start": 6333,
         "text": "Но ведь...^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8133,
         "file": "Voice03/03-KB/03-KB-O04/03-KB-O04-0040",
         "layer": 1,
         "persona": "mak",
@@ -43,14 +47,14 @@
     },
     {
         "action": "PrintText",
-        "end": 25000,
+        "end": 25016,
         "persona": "Котоноха",
         "start": 8116,
         "text": "Она красивее меня. Милее... Добрее... И тебе с ней нравится быть больше.^"
     },
     {
         "action": "PlayVoice",
-        "end": 25000,
+        "end": 25016,
         "file": "Voice03/03-KB/03-KB-O04/03-KB-O04-0050",
         "layer": 0,
         "persona": "kot",
@@ -58,14 +62,14 @@
     },
     {
         "action": "PrintText",
-        "end": 27000,
+        "end": 27366,
         "persona": "Макото",
         "start": 25033,
         "text": "Котоноха! Говорю же, всё не так!^"
     },
     {
         "action": "PlayVoice",
-        "end": 27000,
+        "end": 27366,
         "file": "Voice03/03-KB/03-KB-O04/03-KB-O04-0060",
         "layer": 1,
         "persona": "mak",
@@ -73,14 +77,14 @@
     },
     {
         "action": "PrintText",
-        "end": 34000,
+        "end": 34066,
         "persona": "Котоноха",
         "start": 27350,
         "text": "Но... Хотя бы сейчас...^"
     },
     {
         "action": "PlayVoice",
-        "end": 34000,
+        "end": 34066,
         "file": "Voice03/03-KB/03-KB-O04/03-KB-O04-0070",
         "layer": 0,
         "persona": "kot",
@@ -88,20 +92,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 48000,
+        "end": 48316,
         "file": "Movie03/03-KB/03-KB-O04/03-KB-O04-002",
         "start": 27366
     },
     {
         "action": "PrintText",
-        "end": 36000,
+        "end": 36016,
         "persona": "Макото",
         "start": 34066,
         "text": "Говорю же, послушай меня!^"
     },
     {
         "action": "PlayVoice",
-        "end": 36000,
+        "end": 36016,
         "file": "Voice03/03-KB/03-KB-O04/03-KB-O04-0080",
         "layer": 1,
         "persona": "mak",
@@ -109,14 +113,14 @@
     },
     {
         "action": "PrintText",
-        "end": 37000,
+        "end": 37083,
         "persona": "Котоноха",
         "start": 36016,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 37000,
+        "end": 37083,
         "file": "Voice03/03-KB/03-KB-O04/03-KB-O04-0090",
         "layer": 0,
         "persona": "xxx",
@@ -124,14 +128,14 @@
     },
     {
         "action": "PrintText",
-        "end": 41000,
+        "end": 41300,
         "persona": "Макото",
         "start": 37083,
         "text": "Да, было дело, я признавался Сэкаи в любви.^"
     },
     {
         "action": "PlayVoice",
-        "end": 41000,
+        "end": 41300,
         "file": "Voice03/03-KB/03-KB-O04/03-KB-O04-0100",
         "layer": 1,
         "persona": "mak",
@@ -139,14 +143,14 @@
     },
     {
         "action": "PrintText",
-        "end": 43000,
+        "end": 43033,
         "persona": "Котоноха",
         "start": 41300,
         "text": "Так и знала...^"
     },
     {
         "action": "PlayVoice",
-        "end": 43000,
+        "end": 43033,
         "file": "Voice03/03-KB/03-KB-O04/03-KB-O04-0110",
         "layer": 0,
         "persona": "kot",
@@ -154,14 +158,14 @@
     },
     {
         "action": "PrintText",
-        "end": 50000,
+        "end": 50233,
         "persona": "Макото",
         "start": 43033,
         "text": "Но она отвергла меня!.. И с тобой я начал встречаться не из-за этого!^"
     },
     {
         "action": "PlayVoice",
-        "end": 50000,
+        "end": 50233,
         "file": "Voice03/03-KB/03-KB-O04/03-KB-O04-0120",
         "layer": 1,
         "persona": "mak",
@@ -169,20 +173,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 63000,
+        "end": 63100,
         "file": "Event03/03-KB/03-KB-O04/03-KB-O04-001",
         "start": 48316
     },
     {
         "action": "PrintText",
-        "end": 51000,
+        "end": 51016,
         "persona": "Котоноха",
         "start": 50233,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 51000,
+        "end": 51016,
         "file": "Voice03/03-KB/03-KB-O04/03-KB-O04-0130",
         "layer": 0,
         "persona": "xxx",
@@ -190,14 +194,14 @@
     },
     {
         "action": "PrintText",
-        "end": 63000,
+        "end": 63083,
         "persona": "Макото",
         "start": 51033,
         "text": "Она узнала, что я влюбился в тебя. Предложила помочь. И...^"
     },
     {
         "action": "PlayVoice",
-        "end": 63000,
+        "end": 63083,
         "file": "Voice03/03-KB/03-KB-O04/03-KB-O04-0140",
         "layer": 1,
         "persona": "mak",
@@ -205,14 +209,14 @@
     },
     {
         "action": "PrintText",
-        "end": 65000,
+        "end": 65083,
         "persona": "Котоноха",
         "start": 63083,
         "text": "Макото...^"
     },
     {
         "action": "PlayVoice",
-        "end": 65000,
+        "end": 65083,
         "file": "Voice03/03-KB/03-KB-O04/03-KB-O04-0150",
         "layer": 0,
         "persona": "kot",
@@ -220,20 +224,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 77000,
+        "end": 77216,
         "file": "Movie03/03-KB/03-KB-N04/03-KB-N04-001",
         "start": 63100
     },
     {
         "action": "PrintText",
-        "end": 68000,
+        "end": 68333,
         "persona": "Макото",
         "start": 65083,
         "text": "Люблю тебя!.. И всегда буду!^"
     },
     {
         "action": "PlayVoice",
-        "end": 68000,
+        "end": 68333,
         "file": "Voice03/03-KB/03-KB-O04/03-KB-O04-0160",
         "layer": 1,
         "persona": "mak",
@@ -241,14 +245,14 @@
     },
     {
         "action": "PrintText",
-        "end": 69000,
+        "end": 69183,
         "persona": "Котоноха",
         "start": 68333,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 69000,
+        "end": 69183,
         "file": "Voice03/03-KB/03-KB-O04/03-KB-O04-0170",
         "layer": 0,
         "persona": "kot",
@@ -256,14 +260,14 @@
     },
     {
         "action": "PrintText",
-        "end": 70000,
+        "end": 70366,
         "persona": "Макото",
         "start": 69183,
         "text": "Не веришь?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 70000,
+        "end": 70366,
         "file": "Voice03/03-KB/03-KB-O04/03-KB-O04-0180",
         "layer": 1,
         "persona": "mak",
@@ -271,14 +275,14 @@
     },
     {
         "action": "PrintText",
-        "end": 72000,
+        "end": 72100,
         "persona": "Котоноха",
         "start": 70366,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 72000,
+        "end": 72100,
         "file": "Voice03/03-KB/03-KB-O04/03-KB-O04-0190",
         "layer": 0,
         "persona": "xxx",
@@ -286,14 +290,14 @@
     },
     {
         "action": "PrintText",
-        "end": 76000,
+        "end": 76200,
         "persona": "Макото",
         "start": 72100,
         "text": "Я очень люблю тебя!^"
     },
     {
         "action": "PlayVoice",
-        "end": 76000,
+        "end": 76200,
         "file": "Voice03/03-KB/03-KB-O04/03-KB-O04-0210",
         "layer": 1,
         "persona": "mak",
@@ -301,14 +305,14 @@
     },
     {
         "action": "PrintText",
-        "end": 77000,
+        "end": 77216,
         "persona": "Котоноха",
         "start": 76216,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 77000,
+        "end": 77216,
         "file": "Voice03/03-KB/03-KB-O04/03-KB-O04-0220",
         "layer": 0,
         "persona": "kot",
@@ -316,20 +320,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 80000,
+        "end": 80033,
         "file": "Movie03/03-KB/03-KB-N00/03-KB-N00-005",
         "start": 77216
     },
     {
         "action": "PrintText",
-        "end": 78000,
+        "end": 78316,
         "persona": "Макото",
         "start": 77216,
         "text": "Котоноха...^"
     },
     {
         "action": "PlayVoice",
-        "end": 78000,
+        "end": 78316,
         "file": "Voice03/03-KB/03-KB-O04/03-KB-O04-0230",
         "layer": 1,
         "persona": "mak",
@@ -337,17 +341,21 @@
     },
     {
         "action": "PrintText",
-        "end": 80000,
+        "end": 80016,
         "persona": "Котоноха",
         "start": 78316,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 80000,
+        "end": 80016,
         "file": "Voice03/03-KB/03-KB-O04/03-KB-O04-0240",
         "layer": 0,
         "persona": "kot",
         "start": 78316
+    },
+    {
+        "action": "Next",
+        "start": 80033
     }
 ]

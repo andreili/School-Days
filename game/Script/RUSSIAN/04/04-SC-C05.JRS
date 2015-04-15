@@ -1,27 +1,31 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 9350
+    },
+    {
         "action": "PlaySe",
-        "end": 9000,
+        "end": 9350,
         "file": "SysSe/SE_all/gaya/kyousitu_rouka",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2250,
         "file": "Event04/04-SC/04-SC-C05/04-SC-C05-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2283,
         "persona": "Нанами",
         "start": 0,
         "text": "На фестивале вроде...^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2283,
         "file": "Voice04/04-SC/04-SC-C05/04-SC-C05-0030",
         "layer": 0,
         "persona": "nan",
@@ -29,20 +33,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4016,
         "file": "Event04/04-SC/04-SC-C05/04-SC-C05-002",
         "start": 2250
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4050,
         "persona": "Сэкаи",
         "start": 2283,
         "text": "На фестивале?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4050,
         "file": "Voice04/04-SC/04-SC-C05/04-SC-C05-0040",
         "layer": 0,
         "persona": "sek",
@@ -50,20 +54,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8116,
         "file": "Event04/04-SC/04-SC-C05/04-SC-C05-003",
         "start": 4016
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8150,
         "persona": "Нанами",
         "start": 4033,
         "text": "И мы вместе их и разлучили...^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8150,
         "file": "Voice04/04-SC/04-SC-C05/04-SC-C05-0050",
         "layer": 0,
         "persona": "nan",
@@ -71,23 +75,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9350,
         "file": "Event04/04-SC/04-SC-C05/04-SC-C05-004",
         "start": 8116
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9350,
         "persona": "Сэкаи",
         "start": 8150,
         "text": "Ясно...^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9350,
         "file": "Voice04/04-SC/04-SC-C05/04-SC-C05-0060",
         "layer": 0,
         "persona": "sek",
         "start": 8150
+    },
+    {
+        "action": "Next",
+        "start": 9350
     }
 ]

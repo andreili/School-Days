@@ -1,5 +1,9 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 18000
+    },
+    {
         "action": "PlayBgm",
         "end": 18000,
         "file": "BGM/SD_BGM/sdbgm13",
@@ -20,14 +24,14 @@
     },
     {
         "action": "PrintText",
-        "end": 0,
+        "end": 316,
         "persona": "Нанами",
         "start": 0,
         "text": "Ну?^"
     },
     {
         "action": "PlayVoice",
-        "end": 0,
+        "end": 316,
         "file": "Voice03/03-SB/03-SB-I06/03-SB-I06-0040",
         "layer": 0,
         "persona": "nan",
@@ -35,14 +39,14 @@
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2050,
         "persona": "Сэцуна",
         "start": 316,
         "text": "Ничего не получилось.^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2050,
         "file": "Voice03/03-SB/03-SB-I06/03-SB-I06-0050",
         "layer": 0,
         "persona": "set",
@@ -50,14 +54,14 @@
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3100,
         "persona": "Нанами",
         "start": 2066,
         "text": "Э?^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3100,
         "file": "Voice03/03-SB/03-SB-I06/03-SB-I06-0060",
         "layer": 0,
         "persona": "nan",
@@ -65,14 +69,14 @@
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8016,
         "persona": "Сэцуна",
         "start": 3116,
         "text": "Нужно было ничего не спрашивать, а просто взять его и увести.^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8016,
         "file": "Voice03/03-SB/03-SB-I06/03-SB-I06-0070",
         "layer": 0,
         "persona": "set",
@@ -80,14 +84,14 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9233,
         "persona": "Нанами",
         "start": 8016,
         "text": "Ну, ничего не поделаешь.^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9233,
         "file": "Voice03/03-SB/03-SB-I06/03-SB-I06-0080",
         "layer": 0,
         "persona": "nan",
@@ -95,21 +99,21 @@
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12366,
         "persona": "Нанами",
         "start": 9233,
         "text": "Да, нужно было как-то по-другому. Ито часто на наши просьбы забивал.^"
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16366,
         "persona": "Нанами",
         "start": 12366,
         "text": "В любом случае больше мы ничего сделать не можем.^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16366,
         "file": "Voice03/03-SB/03-SB-I06/03-SB-I06-0081",
         "layer": 0,
         "persona": "nan",
@@ -117,17 +121,21 @@
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17300,
         "persona": "Сэцуна",
         "start": 16366,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17300,
         "file": "Voice03/03-SB/03-SB-I06/03-SB-I06-0090",
         "layer": 0,
         "persona": "xxx",
         "start": 16366
+    },
+    {
+        "action": "Next",
+        "start": 18000
     }
 ]

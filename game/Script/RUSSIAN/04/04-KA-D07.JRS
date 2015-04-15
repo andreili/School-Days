@@ -1,31 +1,35 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 12216
+    },
+    {
         "action": "PlayBgm",
-        "end": 12000,
+        "end": 12216,
         "file": "BGM/SD_BGM/sdbgm26",
         "start": 0
     },
     {
         "action": "PlayMovie",
-        "end": 4000,
+        "end": 4366,
         "file": "Movie04/04-KA/04-KA-D04/04-KA-D04-001",
         "start": 0
     },
     {
         "action": "MoveSom",
-        "end": 4000,
+        "end": 4366,
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2200,
         "persona": "Макото",
         "start": 50,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2200,
         "file": "Voice04/04-KA/04-KA-D07/04-KA-D07-0040",
         "layer": 1,
         "persona": "mak",
@@ -33,14 +37,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4366,
         "persona": "Котоноха",
         "start": 2200,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4366,
         "file": "Voice04/04-KA/04-KA-D07/04-KA-D07-0050",
         "layer": 0,
         "persona": "xxx",
@@ -48,20 +52,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 12000,
+        "end": 12216,
         "file": "Movie02/02-2K/02-2K-J05/02-2K-J05-001",
         "start": 4366
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7266,
         "persona": "Макото",
         "start": 4366,
         "text": "Котоноха...^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7266,
         "file": "Voice04/04-KA/04-KA-D07/04-KA-D07-0060",
         "layer": 1,
         "persona": "mak",
@@ -69,19 +73,19 @@
     },
     {
         "action": "MoveSom",
-        "end": 12000,
+        "end": 12216,
         "start": 4366
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8150,
         "persona": "Котоноха",
         "start": 7266,
         "text": "Да.^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8150,
         "file": "Voice04/04-KA/04-KA-D07/04-KA-D07-0070",
         "layer": 0,
         "persona": "kot",
@@ -89,14 +93,14 @@
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11266,
         "persona": "Макото",
         "start": 8150,
         "text": "Ты не поняла...^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11266,
         "file": "Voice04/04-KA/04-KA-D07/04-KA-D07-0080",
         "layer": 1,
         "persona": "mak",
@@ -104,17 +108,21 @@
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12150,
         "persona": "Котоноха",
         "start": 11266,
         "text": "Да.^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12150,
         "file": "Voice04/04-KA/04-KA-D07/04-KA-D07-0090",
         "layer": 0,
         "persona": "kot",
         "start": 11266
+    },
+    {
+        "action": "Next",
+        "start": 12216
     }
 ]

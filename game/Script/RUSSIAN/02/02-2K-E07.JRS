@@ -1,7 +1,11 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 28133
+    },
+    {
         "action": "PlayBgm",
-        "end": 28000,
+        "end": 28133,
         "file": "BGM/SD_BGM/sdbgm20",
         "start": 0
     },
@@ -13,32 +17,32 @@
     },
     {
         "action": "PlaySe",
-        "end": 15000,
+        "end": 15250,
         "file": "Voice02/02-2K/02-2K-E07/02-2K-E07-0040",
         "layer": 1,
         "start": 3000
     },
     {
         "action": "CreateBG",
-        "end": 15000,
+        "end": 15266,
         "file": "Event02/02-2K/02-2K-E07/02-2K-E07-002",
         "start": 3000
     },
     {
         "action": "PlayMovie",
-        "end": 19000,
+        "end": 19233,
         "file": "Movie02/02-2K/02-2K-E07/02-2K-E07-003",
         "start": 15266
     },
     {
         "action": "CreateBG",
-        "end": 25000,
+        "end": 25183,
         "file": "Event02/02-2K/02-2K-E07/02-2K-E07-004",
         "start": 19233
     },
     {
         "action": "PlayVoice",
-        "end": 24000,
+        "end": 24350,
         "file": "Voice02/02-2K/02-2K-E07/02-2K-E07-0040A",
         "layer": 1,
         "persona": "",
@@ -46,13 +50,13 @@
     },
     {
         "action": "CreateBG",
-        "end": 28000,
+        "end": 28133,
         "file": "Event02/02-2K/02-2K-E07/02-2K-E07-005",
         "start": 25183
     },
     {
         "action": "PlayVoice",
-        "end": 26000,
+        "end": 26166,
         "file": "Voice02/02-2K/02-2K-E07/02-2K-E07-0060",
         "layer": 0,
         "persona": "",
@@ -61,7 +65,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 28000,
+        "end": 28133,
         "start": 27133
+    },
+    {
+        "action": "Next",
+        "start": 28133
     }
 ]

@@ -1,7 +1,11 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 9000
+    },
+    {
         "action": "PlaySe",
-        "end": 14000,
+        "end": 14383,
         "file": "SysSe/SE_all/gaya/kyousitu_rouka",
         "layer": 1,
         "start": 0
@@ -14,20 +18,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6283,
         "file": "Event05/05-A0/05-A0-H00/05-A0-H00-002",
         "start": 1000
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2066,
         "persona": "Нанами",
         "start": 1116,
         "text": "Ито.^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2066,
         "file": "Voice05/05-A0/05-A0-H00/05-A0-H00-0050",
         "layer": 0,
         "persona": "nan",
@@ -35,14 +39,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6283,
         "persona": "Нанами",
         "start": 2133,
         "text": "Сэкаи ведь из-за тебя такая была?^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6283,
         "file": "Voice05/05-A0/05-A0-H00/05-A0-H00-0080",
         "layer": 0,
         "persona": "nan",
@@ -50,20 +54,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 14000,
+        "end": 14383,
         "file": "Event05/05-A0/05-A0-H00/05-A0-H00-003",
         "start": 6283
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9066,
         "persona": "Макото",
         "start": 6316,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9066,
         "file": "Voice05/05-A0/05-A0-H00/05-A0-H00-0090",
         "layer": 1,
         "persona": "xxx",
@@ -90,5 +94,9 @@
         "layer": 0,
         "persona": "nan",
         "start": 9066
+    },
+    {
+        "action": "Next",
+        "start": 14383
     }
 ]

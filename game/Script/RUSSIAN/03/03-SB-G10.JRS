@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 25166
+    },
+    {
         "action": "PlayBgm",
-        "end": 31000,
+        "end": 31183,
         "file": "BGM/SD_BGM/sdbgm16",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 31000,
+        "end": 31183,
         "file": "Se03/03-SB/03-SB-G10/SE03-SB-G10-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8316,
         "file": "Event03/03-SB/03-SB-G10/03-SB-G10-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 0,
+        "end": 300,
         "persona": "Макото",
         "start": 0,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 0,
+        "end": 300,
         "file": "Voice03/03-SB/03-SB-G10/03-SB-G10-0030",
         "layer": 1,
         "persona": "xxx",
@@ -35,14 +39,14 @@
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2100,
         "persona": "Сэцуна",
         "start": 300,
         "text": "Ты точно не можешь?^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2100,
         "file": "Voice03/03-SB/03-SB-G10/03-SB-G10-0040",
         "layer": 0,
         "persona": "set",
@@ -50,14 +54,14 @@
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7350,
         "persona": "Макото",
         "start": 2100,
         "text": "Ну не то чтобы не могу. Но моя смена ведь только что закончилась.^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7350,
         "file": "Voice03/03-SB/03-SB-G10/03-SB-G10-0050",
         "layer": 1,
         "persona": "mak",
@@ -65,14 +69,14 @@
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8333,
         "persona": "Сэцуна",
         "start": 7333,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8333,
         "file": "Voice03/03-SB/03-SB-G10/03-SB-G10-0060",
         "layer": 0,
         "persona": "xxx",
@@ -80,20 +84,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 22000,
+        "end": 22366,
         "file": "Event03/03-SB/03-SB-G10/03-SB-G10-002",
         "start": 8300
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16300,
         "persona": "Нанами",
         "start": 8333,
         "text": "Ну пожалуйста. На кухне все просто зашиваются, у нас столько клиентов.^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16300,
         "file": "Voice03/03-SB/03-SB-G10/03-SB-G10-0070",
         "layer": 0,
         "persona": "nan",
@@ -101,14 +105,14 @@
     },
     {
         "action": "PrintText",
-        "end": 19000,
+        "end": 19066,
         "persona": "Макото",
         "start": 16300,
         "text": "Да, это верно, всё утро я был очень занят на кухне.^"
     },
     {
         "action": "PlayVoice",
-        "end": 19000,
+        "end": 19066,
         "file": "Voice03/03-SB/03-SB-G10/03-SB-G10-0080",
         "layer": 1,
         "persona": "mak",
@@ -116,14 +120,14 @@
     },
     {
         "action": "PrintText",
-        "end": 21000,
+        "end": 21350,
         "persona": "Нанами",
         "start": 19066,
         "text": "Ну хотя бы ненадолго...^"
     },
     {
         "action": "PlayVoice",
-        "end": 21000,
+        "end": 21350,
         "file": "Voice03/03-SB/03-SB-G10/03-SB-G10-0090",
         "layer": 0,
         "persona": "nan",
@@ -131,14 +135,14 @@
     },
     {
         "action": "PrintText",
-        "end": 23000,
+        "end": 23133,
         "persona": "Макото",
         "start": 21350,
         "text": "Ненадолго...^"
     },
     {
         "action": "PlayVoice",
-        "end": 23000,
+        "end": 23133,
         "file": "Voice03/03-SB/03-SB-G10/03-SB-G10-0100",
         "layer": 1,
         "persona": "mak",
@@ -146,20 +150,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 31000,
+        "end": 31183,
         "file": "Event03/03-SB/03-SB-G10/03-SB-G10-003",
         "start": 22366
     },
     {
         "action": "PrintText",
-        "end": 24000,
+        "end": 24150,
         "persona": "Сэцуна",
         "start": 23133,
         "text": "Пожалуйста.^"
     },
     {
         "action": "PlayVoice",
-        "end": 24000,
+        "end": 24150,
         "file": "Voice03/03-SB/03-SB-G10/03-SB-G10-0110",
         "layer": 0,
         "persona": "set",
@@ -167,14 +171,14 @@
     },
     {
         "action": "PrintText",
-        "end": 25000,
+        "end": 25150,
         "persona": "Макото",
         "start": 24150,
         "text": "Хм-м...^"
     },
     {
         "action": "PlayVoice",
-        "end": 25000,
+        "end": 25150,
         "file": "Voice03/03-SB/03-SB-G10/03-SB-G10-0120",
         "layer": 1,
         "persona": "mak",
@@ -184,7 +188,11 @@
         "action": "SetSELECT",
         "answer1": "Ну, хорошо.^",
         "answer2": "NULL",
-        "end": 30000,
+        "end": 30166,
         "start": 25166
+    },
+    {
+        "action": "Next",
+        "start": 31183
     }
 ]

@@ -1,39 +1,43 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 7116
+    },
+    {
         "action": "PlayBgm",
-        "end": 7000,
+        "end": 7116,
         "file": "BGM/SD_BGM/sdbgm07",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 2000,
+        "end": 2183,
         "file": "SysSe/SE_all/door/door_mansyon",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2200,
         "file": "Event02/02-2S/02-2S-W01/02-2S-W01-001",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7116,
         "file": "Event02/02-2S/02-2S-W01/02-2S-W01-002",
         "start": 2200
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5050,
         "persona": "Сэкаи",
         "start": 2200,
         "text": "Вот я и пришла!^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5050,
         "file": "Voice02/02-2S/02-2S-W01/02-2S-W01-0040",
         "layer": 0,
         "persona": "sek",
@@ -41,14 +45,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6016,
         "persona": "Макото",
         "start": 5116,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6016,
         "file": "Voice02/02-2S/02-2S-W01/02-2S-W01-0050",
         "layer": 1,
         "persona": "mak",
@@ -57,7 +61,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 7000,
+        "end": 7116,
         "start": 6116
+    },
+    {
+        "action": "Next",
+        "start": 7116
     }
 ]

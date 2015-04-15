@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 10333
+    },
+    {
         "action": "PlayBgm",
-        "end": 10000,
+        "end": 10333,
         "file": "BGM/SD_BGM/sdbgm20",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 10000,
+        "end": 10333,
         "file": "Se01/01-00/01-00-E00/SE01-00-E00-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4066,
         "file": "Event02/02-2K/02-2K-G01/02-2K-G01-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1233,
         "persona": "Макото",
         "start": 0,
         "text": "Время же ещё есть!^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1233,
         "file": "Voice02/02-2K/02-2K-G01/02-2K-G01-0030",
         "layer": 1,
         "persona": "mak",
@@ -35,14 +39,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4066,
         "persona": "Котоноха",
         "start": 1250,
         "text": "Я совсем забыла, мне тут ещё кое-что сделать нужно.^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4066,
         "file": "Voice02/02-2K/02-2K-G01/02-2K-G01-0040",
         "layer": 0,
         "persona": "kot",
@@ -50,14 +54,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4366,
         "persona": "Макото",
         "start": 4050,
         "text": "Правда?^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4366,
         "file": "Voice02/02-2K/02-2K-G01/02-2K-G01-0050",
         "layer": 1,
         "persona": "mak",
@@ -65,20 +69,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7050,
         "file": "Event02/02-2K/02-2K-G01/02-2K-G01-002",
         "start": 4066
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7033,
         "persona": "Котоноха",
         "start": 4383,
         "text": "Да, идём скорее.^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7033,
         "file": "Voice02/02-2K/02-2K-G01/02-2K-G01-0060",
         "layer": 0,
         "persona": "kot",
@@ -101,14 +105,18 @@
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10333,
         "file": "Event02/02-2K/02-2K-E04/02-2K-E04-001",
         "start": 7050
     },
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 10000,
+        "end": 10333,
         "start": 9333
+    },
+    {
+        "action": "Next",
+        "start": 10333
     }
 ]

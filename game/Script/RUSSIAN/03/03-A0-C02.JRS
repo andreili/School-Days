@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 12316
+    },
+    {
         "action": "PlayBgm",
-        "end": 12000,
+        "end": 12316,
         "file": "BGM/SD_BGM/sdbgm19",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4283,
         "file": "Event03/03-A0/03-A0-C02/03-A0-C02-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 0,
+        "end": 366,
         "persona": "Сэцуна",
         "start": 0,
         "text": "Сэкаи...^"
     },
     {
         "action": "PlayVoice",
-        "end": 0,
+        "end": 366,
         "file": "Voice03/03-A0/03-A0-C02/03-A0-C02-0030",
         "layer": 0,
         "persona": "set",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1150,
         "persona": "Сэкаи",
         "start": 350,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1150,
         "file": "Voice03/03-A0/03-A0-C02/03-A0-C02-0040",
         "layer": 0,
         "persona": "xxx",
@@ -43,14 +47,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4166,
         "persona": "Сэцуна",
         "start": 1366,
         "text": "Ты на фестиваль пойдешь?^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4166,
         "file": "Voice03/03-A0/03-A0-C02/03-A0-C02-0050",
         "layer": 0,
         "persona": "set",
@@ -58,20 +62,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7033,
         "file": "Event03/03-A0/03-A0-C00/03-A0-C00-003",
         "start": 4283
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5383,
         "persona": "Сэкаи",
         "start": 5000,
         "text": "Нет...^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5383,
         "file": "Voice03/03-A0/03-A0-C02/03-A0-C02-0060",
         "layer": 0,
         "persona": "sek",
@@ -79,14 +83,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6383,
         "persona": "Сэцуна",
         "start": 6083,
         "text": "Понятно.^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6383,
         "file": "Voice03/03-A0/03-A0-C02/03-A0-C02-0070",
         "layer": 0,
         "persona": "set",
@@ -94,20 +98,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12316,
         "file": "Event03/03-A0/03-A0-C02/03-A0-C02-003",
         "start": 7033
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7283,
         "persona": "Сэкаи",
         "start": 7100,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7283,
         "file": "Voice03/03-A0/03-A0-C02/03-A0-C02-0080",
         "layer": 0,
         "persona": "xxx",
@@ -115,14 +119,14 @@
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8383,
         "persona": "Сэцуна",
         "start": 8050,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8383,
         "file": "Voice03/03-A0/03-A0-C02/03-A0-C02-0090",
         "layer": 0,
         "persona": "xxx",
@@ -130,14 +134,14 @@
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10166,
         "persona": "Сэкаи",
         "start": 9150,
         "text": "Прости...^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10166,
         "file": "Voice03/03-A0/03-A0-C02/03-A0-C02-0100",
         "layer": 0,
         "persona": "sek",
@@ -145,14 +149,14 @@
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11200,
         "persona": "Сэцуна",
         "start": 10233,
         "text": "Ничего.^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11200,
         "file": "Voice03/03-A0/03-A0-C02/03-A0-C02-0110",
         "layer": 0,
         "persona": "set",
@@ -161,7 +165,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 12000,
+        "end": 12316,
         "start": 11316
+    },
+    {
+        "action": "Next",
+        "start": 12316
     }
 ]

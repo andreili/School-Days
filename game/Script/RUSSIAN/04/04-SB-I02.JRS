@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 32200
+    },
+    {
         "action": "PlayBgm",
-        "end": 38000,
+        "end": 38233,
         "file": "BGM/SD_BGM/sdbgm26",
         "start": 0
     },
     {
         "action": "PlayMovie",
-        "end": 19000,
+        "end": 19016,
         "file": "Movie04/04-SB/04-SB-I02/04-SB-I02-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2050,
         "persona": "Макото",
         "start": 216,
         "text": "Вот они выделывают...^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2050,
         "file": "Voice04/04-SB/04-SB-I02/04-SB-I02-0030",
         "layer": 1,
         "persona": "mak",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3133,
         "persona": "Хикари",
         "start": 2216,
         "text": "Угу...^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3133,
         "file": "Voice04/04-SB/04-SB-I02/04-SB-I02-0040",
         "layer": 0,
         "persona": "hik",
@@ -43,14 +47,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6016,
         "persona": "Макото",
         "start": 4316,
         "text": "Настолько...^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6016,
         "file": "Voice04/04-SB/04-SB-I02/04-SB-I02-0050",
         "layer": 1,
         "persona": "mak",
@@ -58,14 +62,14 @@
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12366,
         "persona": "Котоноха",
         "start": 6333,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12366,
         "file": "Voice04/04-SB/04-SB-I02/04-SB-I02-0060",
         "layer": 0,
         "persona": "kot",
@@ -73,14 +77,14 @@
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15350,
         "persona": "Таисукэ",
         "start": 12300,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15350,
         "file": "Voice04/04-SB/04-SB-I02/04-SB-I02-0070",
         "layer": 1,
         "persona": "tai",
@@ -88,14 +92,14 @@
     },
     {
         "action": "PrintText",
-        "end": 18000,
+        "end": 18316,
         "persona": "Макото",
         "start": 17133,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18316,
         "file": "Voice04/04-SB/04-SB-I02/04-SB-I02-0100",
         "layer": 1,
         "persona": "xxx",
@@ -103,20 +107,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 24000,
+        "end": 24150,
         "file": "Event04/04-SB/04-SB-I02/04-SB-I02-002",
         "start": 19016
     },
     {
         "action": "PrintText",
-        "end": 22000,
+        "end": 22283,
         "persona": "Макото",
         "start": 19116,
         "text": "Блин! Что мне в голову-то лезет?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 22000,
+        "end": 22283,
         "file": "Voice04/04-SB/04-SB-I02/04-SB-I02-0110",
         "layer": 1,
         "persona": "mak",
@@ -139,20 +143,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 38000,
+        "end": 38233,
         "file": "Movie04/04-SB/04-SB-I02/04-SB-I02-003",
         "start": 24150
     },
     {
         "action": "PrintText",
-        "end": 26000,
+        "end": 26366,
         "persona": "Макото",
         "start": 24266,
         "text": "Да так... Ничего...^"
     },
     {
         "action": "PlayVoice",
-        "end": 26000,
+        "end": 26366,
         "file": "Voice04/04-SB/04-SB-I02/04-SB-I02-0130",
         "layer": 1,
         "persona": "mak",
@@ -160,14 +164,14 @@
     },
     {
         "action": "PrintText",
-        "end": 28000,
+        "end": 28300,
         "persona": "Хикари",
         "start": 27283,
         "text": "Угу...^"
     },
     {
         "action": "PlayVoice",
-        "end": 28000,
+        "end": 28300,
         "file": "Voice04/04-SB/04-SB-I02/04-SB-I02-0140",
         "layer": 0,
         "persona": "hik",
@@ -175,14 +179,14 @@
     },
     {
         "action": "PrintText",
-        "end": 34000,
+        "end": 34050,
         "persona": "Макото",
         "start": 31133,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 34000,
+        "end": 34050,
         "file": "Voice04/04-SB/04-SB-I02/04-SB-I02-0160",
         "layer": 1,
         "persona": "xxx",
@@ -192,7 +196,11 @@
         "action": "SetSELECT",
         "answer1": "Смотреть тошно.",
         "answer2": "Поласкать Куроду...",
-        "end": 37000,
+        "end": 37200,
         "start": 32200
+    },
+    {
+        "action": "Next",
+        "start": 38233
     }
 ]

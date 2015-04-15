@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 8233
+    },
+    {
         "action": "PlayBgm",
-        "end": 8000,
+        "end": 8233,
         "file": "BGM/SD_BGM/sdbgm19",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 8000,
+        "end": 8233,
         "file": "Se03/03-KB/03-KB-A08/SE03-KB-A08-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3133,
         "file": "Event03/03-KB/03-KB-A08/03-KB-A08-001A",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3183,
         "persona": "Макото",
         "start": 50,
         "text": "Всё-таки у меня до сих пор есть к ней чувства...^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3183,
         "file": "Voice03/03-KB/03-KB-A08/03-KB-A08-0030",
         "layer": 1,
         "persona": "mak",
@@ -35,20 +39,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8233,
         "file": "Event03/03-KB/03-KB-A08/03-KB-A08-001B",
         "start": 3133
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7033,
         "persona": "Макото",
         "start": 3283,
         "text": "И я всё время думаю о ней...^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7033,
         "file": "Voice03/03-KB/03-KB-A08/03-KB-A08-0040",
         "layer": 1,
         "persona": "mak",
@@ -56,17 +60,21 @@
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8183,
         "persona": "Макото",
         "start": 7150,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8183,
         "file": "Voice03/03-KB/03-KB-A08/03-KB-A08-0050",
         "layer": 1,
         "persona": "mak",
         "start": 7150
+    },
+    {
+        "action": "Next",
+        "start": 8233
     }
 ]

@@ -55,6 +55,7 @@ QString QScript::serialize()
         case QScriptAction::SkipFRAME:
         case QScriptAction::Next:
             obj[idx] = action_obj;
+            obj.append(action_obj);
             idx++;
             continue;
         case QScriptAction::PrintText:
@@ -70,6 +71,7 @@ QString QScript::serialize()
         case QScriptAction::CreateBG:
         case QScriptAction::PlayMovie:
         case QScriptAction::PlayBgm:
+        case QScriptAction::PlayES:
         case QScriptAction::EndBGM:
         case QScriptAction::EndRoll:
             action_obj["file"] = action->getFile();
@@ -123,6 +125,7 @@ void QScript::export_txt(QString file_name)
         case QScriptAction::PlayMovie:
         case QScriptAction::PlayBgm:
         case QScriptAction::PlaySe:
+        case QScriptAction::PlayES:
         case QScriptAction::PlayVoice:
         case QScriptAction::Next:
         case QScriptAction::EndBGM:
@@ -143,7 +146,7 @@ void QScript::import_txt(QString file_name)
     if (!text.open(QFile::ReadOnly))
         return;
 
-    QFile ors(file_name + ".ORS");
+    QFile ors(file_name.replace(".txt", "", Qt::CaseInsensitive) + ".ENG.ORS");
     QTextStream ors_stream(&ors);
     if (!ors.open(QFile::WriteOnly))
         return;
@@ -167,6 +170,7 @@ void QScript::import_txt(QString file_name)
         case QScriptAction::PlayMovie:
         case QScriptAction::PlayBgm:
         case QScriptAction::PlaySe:
+        case QScriptAction::PlayES:
         case QScriptAction::PlayVoice:
         case QScriptAction::Next:
         case QScriptAction::EndBGM:

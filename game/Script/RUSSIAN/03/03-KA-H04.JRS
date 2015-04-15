@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 15216
+    },
+    {
         "action": "PlayBgm",
-        "end": 21000,
+        "end": 21216,
         "file": "BGM/SD_BGM/sdbgm07",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 21000,
+        "end": 21216,
         "file": "Se03/03-KA/03-KA-H04/SE03-KA-H04-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 21000,
+        "end": 21216,
         "file": "Event03/03-KA/03-KA-H04/03-KA-H04-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1266,
         "persona": "Макото",
         "start": 0,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1266,
         "file": "Voice03/03-KA/03-KA-H04/03-KA-H04-0040",
         "layer": 1,
         "persona": "xxx",
@@ -35,14 +39,14 @@
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3333,
         "persona": "Сэцуна",
         "start": 1266,
         "text": "Кацура...^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3333,
         "file": "Voice03/03-KA/03-KA-H04/03-KA-H04-0050",
         "layer": 0,
         "persona": "set",
@@ -50,14 +54,14 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9066,
         "persona": "Макото",
         "start": 3333,
         "text": "Киора? Ты только вошла.^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9066,
         "file": "Voice03/03-KA/03-KA-H04/03-KA-H04-0060",
         "layer": 1,
         "persona": "mak",
@@ -65,14 +69,14 @@
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10100,
         "persona": "Сэцуна",
         "start": 9083,
         "text": "Знакомая?^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10100,
         "file": "Voice03/03-KA/03-KA-H04/03-KA-H04-0070",
         "layer": 0,
         "persona": "set",
@@ -80,14 +84,14 @@
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12383,
         "persona": "Макото",
         "start": 10100,
         "text": "Ну да, типа того...^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12383,
         "file": "Voice03/03-KA/03-KA-H04/03-KA-H04-0080",
         "layer": 1,
         "persona": "mak",
@@ -95,14 +99,14 @@
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14216,
         "persona": "Сэцуна",
         "start": 12383,
         "text": "Ты с ней встречаешься?^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14216,
         "file": "Voice03/03-KA/03-KA-H04/03-KA-H04-0090",
         "layer": 0,
         "persona": "set",
@@ -110,14 +114,14 @@
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15300,
         "persona": "Макото",
         "start": 14216,
         "text": "Ну, это...^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15300,
         "file": "Voice03/03-KA/03-KA-H04/03-KA-H04-0100",
         "layer": 1,
         "persona": "mak",
@@ -127,7 +131,11 @@
         "action": "SetSELECT",
         "answer1": "Не твоё дело!^",
         "answer2": "Нет, не встречаюсь.^",
-        "end": 20000,
+        "end": 20216,
         "start": 15216
+    },
+    {
+        "action": "Next",
+        "start": 21216
     }
 ]

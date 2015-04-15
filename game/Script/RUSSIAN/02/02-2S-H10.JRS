@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 6200
+    },
+    {
         "action": "PlayBgm",
-        "end": 6000,
+        "end": 6200,
         "file": "BGM/SD_BGM/sdbgm03",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 6000,
+        "end": 6200,
         "file": "Se01/01-00/01-00-E00/SE01-00-E00-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3150,
         "file": "Event02/02-2S/02-2S-H10/02-2S-H10-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3150,
         "persona": "Макото",
         "start": 0,
         "text": "Нет... ничего...^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3150,
         "file": "Voice02/02-2S/02-2S-H10/02-2S-H10-0030",
         "layer": 1,
         "persona": "mak",
@@ -35,7 +39,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6200,
         "file": "Event02/02-2S/02-2S-H10/02-2S-H10-002",
         "start": 3150
     },
@@ -57,7 +61,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 6000,
+        "end": 6200,
         "start": 5200
+    },
+    {
+        "action": "Next",
+        "start": 6200
     }
 ]

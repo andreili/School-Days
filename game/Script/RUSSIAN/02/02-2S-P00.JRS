@@ -1,13 +1,17 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 8300
+    },
+    {
         "action": "PlayBgm",
-        "end": 14000,
+        "end": 14333,
         "file": "BGM/SD_BGM/sdbgm19",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 14000,
+        "end": 14333,
         "file": "Se02/02-2K/02-2K-R00/SE02-2K-R00-001",
         "layer": 1,
         "start": 0
@@ -20,14 +24,14 @@
     },
     {
         "action": "PrintText",
-        "end": 0,
+        "end": 350,
         "persona": "Сэкаи",
         "start": 100,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 0,
+        "end": 350,
         "file": "Voice02/02-2S/02-2S-P00/02-2S-P00-0040",
         "layer": 0,
         "persona": "xxx",
@@ -35,14 +39,14 @@
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3250,
         "persona": "Макото",
         "start": 1116,
         "text": "Прости, что так поздно...^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3250,
         "file": "Voice02/02-2S/02-2S-P00/02-2S-P00-0050",
         "layer": 1,
         "persona": "mak",
@@ -50,14 +54,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4216,
         "persona": "Сэкаи",
         "start": 3383,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4216,
         "file": "Voice02/02-2S/02-2S-P00/02-2S-P00-0060",
         "layer": 0,
         "persona": "xxx",
@@ -65,20 +69,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 14000,
+        "end": 14333,
         "file": "Event02/02-2S/02-2S-P00/02-2S-P00-002",
         "start": 5000
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6283,
         "persona": "Макото",
         "start": 5050,
         "text": "Знаешь, я...^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6283,
         "file": "Voice02/02-2S/02-2S-P00/02-2S-P00-0070",
         "layer": 1,
         "persona": "mak",
@@ -86,14 +90,14 @@
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7283,
         "persona": "Сэкаи",
         "start": 7033,
         "text": "Да?^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7283,
         "file": "Voice02/02-2S/02-2S-P00/02-2S-P00-0080",
         "layer": 0,
         "persona": "sek",
@@ -101,14 +105,14 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9066,
         "persona": "Макото",
         "start": 8116,
         "text": "Я...^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9066,
         "file": "Voice02/02-2S/02-2S-P00/02-2S-P00-0090",
         "layer": 1,
         "persona": "mak",
@@ -118,7 +122,11 @@
         "action": "SetSELECT",
         "answer1": "Сэкаи, я думаю...^",
         "answer2": "Котоноха для меня...^",
-        "end": 13000,
+        "end": 13300,
         "start": 8300
+    },
+    {
+        "action": "Next",
+        "start": 14333
     }
 ]

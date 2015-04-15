@@ -1,7 +1,11 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 14050
+    },
+    {
         "action": "PlayBgm",
-        "end": 20000,
+        "end": 20066,
         "file": "BGM/SD_BGM/sdbgm07",
         "start": 0
     },
@@ -13,14 +17,14 @@
     },
     {
         "action": "PrintText",
-        "end": 0,
+        "end": 333,
         "persona": "Макото",
         "start": 0,
         "text": "...^"
     },
     {
         "action": "PlayVoice",
-        "end": 0,
+        "end": 333,
         "file": "Voice03/03-SB/03-SB-F04/03-SB-F04-0030",
         "layer": 1,
         "persona": "xxx",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4033,
         "persona": "Котоноха",
         "start": 333,
         "text": "Макото?^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4033,
         "file": "Voice03/03-SB/03-SB-F04/03-SB-F04-0040",
         "layer": 0,
         "persona": "kot",
@@ -43,20 +47,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10200,
         "file": "Event03/03-SB/03-SB-F04/03-SB-F04-002",
         "start": 4000
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7316,
         "persona": "Макото",
         "start": 4033,
         "text": "Ой, прости, я тебя не расслышал, что ты сказала?^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7316,
         "file": "Voice03/03-SB/03-SB-F04/03-SB-F04-0050",
         "layer": 1,
         "persona": "mak",
@@ -64,14 +68,14 @@
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10233,
         "persona": "Котоноха",
         "start": 7316,
         "text": "Пойдём на школьный фестиваль вдвоём?^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10233,
         "file": "Voice03/03-SB/03-SB-F04/03-SB-F04-0060",
         "layer": 0,
         "persona": "kot",
@@ -79,20 +83,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 20000,
+        "end": 20066,
         "file": "Event03/03-SB/03-SB-F04/03-SB-F04-003",
         "start": 10200
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14050,
         "persona": "Макото",
         "start": 10233,
         "text": "А, точно, школьный фестиваль. В общем...^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14050,
         "file": "Voice03/03-SB/03-SB-F04/03-SB-F04-0070",
         "layer": 1,
         "persona": "mak",
@@ -102,7 +106,11 @@
         "action": "SetSELECT",
         "answer1": "Конечно!^",
         "answer2": "Я не могу!^",
-        "end": 19000,
+        "end": 19050,
         "start": 14050
+    },
+    {
+        "action": "Next",
+        "start": 20066
     }
 ]

@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 256083
+    },
+    {
         "action": "PlayBgm",
-        "end": 256000,
+        "end": 256083,
         "file": "BGM/SD_BGM/sdbgm28",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6333,
         "file": "Event03/03-AS/03-AS-D00/03-AS-D00-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3016,
         "persona": "Сэцуна",
         "start": 0,
         "text": "Сэкаи, ты спишь?^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3016,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0050",
         "layer": 0,
         "persona": "set",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6233,
         "persona": "Сэцуна",
         "start": 3350,
         "text": "Вижу, что не спишь.^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6233,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0070",
         "layer": 0,
         "persona": "set",
@@ -43,20 +47,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8166,
         "file": "Event03/03-AS/03-AS-D00/03-AS-D00-002",
         "start": 6333
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7266,
         "persona": "Сэцуна",
         "start": 6383,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7266,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0090",
         "layer": 0,
         "persona": "xxx",
@@ -65,31 +69,31 @@
     {
         "action": "WhiteFade",
         "dir": "OUT",
-        "end": 8000,
+        "end": 8166,
         "start": 7366
     },
     {
         "action": "CreateBG",
-        "end": 17000,
+        "end": 17333,
         "file": "Event03/03-AS/03-AS-D00/03-AS-D00-003",
         "start": 8166
     },
     {
         "action": "WhiteFade",
         "dir": "IN",
-        "end": 8000,
+        "end": 8366,
         "start": 8166
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11300,
         "persona": "Сэкаи",
         "start": 8366,
         "text": "Сэцуна, что там Ямамото сказал?^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11300,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0140",
         "layer": 0,
         "persona": "sek",
@@ -97,14 +101,14 @@
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12366,
         "persona": "Сэцуна",
         "start": 11216,
         "text": "Сказал, что будет всех пересаживать.^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12366,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0150",
         "layer": 0,
         "persona": "set",
@@ -112,14 +116,14 @@
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17283,
         "persona": "Сэкаи",
         "start": 13116,
         "text": "Что? Зачем? Ведь только начало второго семестра!^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17283,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0160",
         "layer": 0,
         "persona": "sek",
@@ -127,20 +131,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 41000,
+        "end": 41233,
         "file": "Event03/03-AS/03-AS-D00/03-AS-D00-004",
         "start": 17333
     },
     {
         "action": "PrintText",
-        "end": 22000,
+        "end": 22133,
         "persona": "Сэцуна",
         "start": 18016,
         "text": "Говорит, все в классе много болтают, а так потише будет.^"
     },
     {
         "action": "PlayVoice",
-        "end": 22000,
+        "end": 22133,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0170",
         "layer": 0,
         "persona": "set",
@@ -148,14 +152,14 @@
     },
     {
         "action": "PrintText",
-        "end": 28000,
+        "end": 28366,
         "persona": "Сэкаи",
         "start": 22166,
         "text": "Блин... Можно было бы только Саванагу пересадить, он ведь самый шумный.^"
     },
     {
         "action": "PlayVoice",
-        "end": 28000,
+        "end": 28366,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0180",
         "layer": 0,
         "persona": "sek",
@@ -163,14 +167,14 @@
     },
     {
         "action": "PrintText",
-        "end": 29000,
+        "end": 29150,
         "persona": "Сэцуна",
         "start": 29000,
         "text": "Угу.^"
     },
     {
         "action": "PlayVoice",
-        "end": 29000,
+        "end": 29150,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0190",
         "layer": 0,
         "persona": "set",
@@ -178,14 +182,14 @@
     },
     {
         "action": "PrintText",
-        "end": 33000,
+        "end": 33333,
         "persona": "Сэкаи",
         "start": 30016,
         "text": "Да... Но знаешь, вдруг произойдет что-нибудь хорошее.^"
     },
     {
         "action": "PlayVoice",
-        "end": 33000,
+        "end": 33333,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0200",
         "layer": 0,
         "persona": "sek",
@@ -193,14 +197,14 @@
     },
     {
         "action": "PrintText",
-        "end": 35000,
+        "end": 35083,
         "persona": "Сэцуна",
         "start": 34100,
         "text": "Например?^"
     },
     {
         "action": "PlayVoice",
-        "end": 35000,
+        "end": 35083,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0210",
         "layer": 0,
         "persona": "set",
@@ -208,14 +212,14 @@
     },
     {
         "action": "PrintText",
-        "end": 39000,
+        "end": 39383,
         "persona": "Сэкаи",
         "start": 35100,
         "text": "Ну, выпадет сидеть с интересным человеком...^"
     },
     {
         "action": "PlayVoice",
-        "end": 39000,
+        "end": 39383,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0220",
         "layer": 0,
         "persona": "sek",
@@ -223,14 +227,14 @@
     },
     {
         "action": "PrintText",
-        "end": 41000,
+        "end": 41133,
         "persona": "Сэцуна",
         "start": 40016,
         "text": "Тебе в классе кто-то нравится?^"
     },
     {
         "action": "PlayVoice",
-        "end": 41000,
+        "end": 41133,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0230",
         "layer": 0,
         "persona": "set",
@@ -238,20 +242,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 76000,
+        "end": 76066,
         "file": "Event03/03-AS/03-AS-D00/03-AS-D00-005",
         "start": 41233
     },
     {
         "action": "PrintText",
-        "end": 44000,
+        "end": 44150,
         "persona": "Сэкаи",
         "start": 41233,
         "text": "Нет! Ничего подобного!^"
     },
     {
         "action": "PlayVoice",
-        "end": 44000,
+        "end": 44150,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0240",
         "layer": 0,
         "persona": "sek",
@@ -259,14 +263,14 @@
     },
     {
         "action": "PrintText",
-        "end": 47000,
+        "end": 47050,
         "persona": "Сэцуна",
         "start": 44166,
         "text": "Сэкаи, да ты влюбилась.^"
     },
     {
         "action": "PlayVoice",
-        "end": 47000,
+        "end": 47050,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0270",
         "layer": 0,
         "persona": "set",
@@ -274,14 +278,14 @@
     },
     {
         "action": "PrintText",
-        "end": 49000,
+        "end": 49066,
         "persona": "Сэкаи",
         "start": 47083,
         "text": "Н-нет!^"
     },
     {
         "action": "PlayVoice",
-        "end": 49000,
+        "end": 49066,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0280",
         "layer": 0,
         "persona": "sek",
@@ -289,14 +293,14 @@
     },
     {
         "action": "PrintText",
-        "end": 60000,
+        "end": 60133,
         "persona": "Сэкаи",
         "start": 49066,
         "text": "В смысле есть один парень, но он мне просто нравится. Мы даже не общаемся толком...^"
     },
     {
         "action": "PlayVoice",
-        "end": 60000,
+        "end": 60133,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0281",
         "layer": 0,
         "persona": "sek",
@@ -304,14 +308,14 @@
     },
     {
         "action": "PrintText",
-        "end": 66000,
+        "end": 66366,
         "persona": "Сэкаи",
         "start": 60133,
         "text": "Он мне давно нравится, но ничего такого, понимаешь?^"
     },
     {
         "action": "PlayVoice",
-        "end": 66000,
+        "end": 66366,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0282",
         "layer": 0,
         "persona": "sek",
@@ -319,14 +323,14 @@
     },
     {
         "action": "PrintText",
-        "end": 73000,
+        "end": 73116,
         "persona": "Сэцуна",
         "start": 67000,
         "text": "Вот у нас Сэкаи и стала совсем взрослой...^"
     },
     {
         "action": "PlayVoice",
-        "end": 73000,
+        "end": 73116,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0290",
         "layer": 0,
         "persona": "set",
@@ -334,14 +338,14 @@
     },
     {
         "action": "PrintText",
-        "end": 75000,
+        "end": 75366,
         "persona": "Сэкаи",
         "start": 73200,
         "text": "Хватит меня подкалывать!^"
     },
     {
         "action": "PlayVoice",
-        "end": 75000,
+        "end": 75366,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0300",
         "layer": 0,
         "persona": "sek",
@@ -349,20 +353,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 92000,
+        "end": 92100,
         "file": "Event03/03-AS/03-AS-D00/03-AS-D00-006",
         "start": 76066
     },
     {
         "action": "PrintText",
-        "end": 79000,
+        "end": 79033,
         "persona": "Сэцуна",
         "start": 76066,
         "text": "Ладно, ладно. В кого ты влюбилась?^"
     },
     {
         "action": "PlayVoice",
-        "end": 79000,
+        "end": 79033,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0310",
         "layer": 0,
         "persona": "set",
@@ -370,14 +374,14 @@
     },
     {
         "action": "PrintText",
-        "end": 82000,
+        "end": 82300,
         "persona": "Сэкаи",
         "start": 79150,
         "text": "Да говорю же, ничего такого! Просто нравится один человек.^"
     },
     {
         "action": "PlayVoice",
-        "end": 82000,
+        "end": 82300,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0320",
         "layer": 0,
         "persona": "sek",
@@ -385,14 +389,14 @@
     },
     {
         "action": "PrintText",
-        "end": 90000,
+        "end": 90383,
         "persona": "Сэцуна",
         "start": 83000,
         "text": "Ну и ладно. Тяни номерок с новым местом и помоги мне остальным на столы разложить.^"
     },
     {
         "action": "PlayVoice",
-        "end": 90000,
+        "end": 90383,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0330",
         "layer": 0,
         "persona": "set",
@@ -400,14 +404,14 @@
     },
     {
         "action": "PrintText",
-        "end": 91000,
+        "end": 91233,
         "persona": "Сэкаи",
         "start": 91033,
         "text": "Ага.^"
     },
     {
         "action": "PlayVoice",
-        "end": 91000,
+        "end": 91233,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0340",
         "layer": 0,
         "persona": "sek",
@@ -416,12 +420,12 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 92000,
+        "end": 92100,
         "start": 91300
     },
     {
         "action": "CreateBG",
-        "end": 94000,
+        "end": 94033,
         "file": "Event03/03-AS/03-AS-D00/03-AS-D00-007",
         "start": 92100
     },
@@ -442,20 +446,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 95000,
+        "end": 95150,
         "file": "Event03/03-AS/03-AS-D00/03-AS-D00-008",
         "start": 94033
     },
     {
         "action": "PrintText",
-        "end": 95000,
+        "end": 95116,
         "persona": "Сэцуна",
         "start": 94066,
         "text": "И кто тебе выпал?^"
     },
     {
         "action": "PlayVoice",
-        "end": 95000,
+        "end": 95116,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0380",
         "layer": 0,
         "persona": "set",
@@ -463,20 +467,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 117000,
+        "end": 117200,
         "file": "Event03/03-AS/03-AS-D00/03-AS-D00-009",
         "start": 95150
     },
     {
         "action": "PrintText",
-        "end": 101000,
+        "end": 101100,
         "persona": "Сэкаи",
         "start": 95183,
         "text": "Вообще кошмар, первая парта возле окна.^"
     },
     {
         "action": "PlayVoice",
-        "end": 101000,
+        "end": 101100,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0390",
         "layer": 0,
         "persona": "sek",
@@ -484,14 +488,14 @@
     },
     {
         "action": "PrintText",
-        "end": 105000,
+        "end": 105066,
         "persona": "Сэцуна",
         "start": 101133,
         "text": "Ну и в чём кошмар? Первая парта, конечно...^"
     },
     {
         "action": "PlayVoice",
-        "end": 105000,
+        "end": 105066,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0400",
         "layer": 0,
         "persona": "set",
@@ -499,14 +503,14 @@
     },
     {
         "action": "PrintText",
-        "end": 110000,
+        "end": 110083,
         "persona": "Сэкаи",
         "start": 105083,
         "text": "Да первая парта это ещё ладно... Сэцуна, тебе что выпало?^"
     },
     {
         "action": "PlayVoice",
-        "end": 110000,
+        "end": 110083,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0410",
         "layer": 0,
         "persona": "sek",
@@ -514,14 +518,14 @@
     },
     {
         "action": "PrintText",
-        "end": 112000,
+        "end": 112200,
         "persona": "Сэцуна",
         "start": 110100,
         "text": "А? Да...^"
     },
     {
         "action": "PlayVoice",
-        "end": 112000,
+        "end": 112200,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0420",
         "layer": 0,
         "persona": "set",
@@ -529,14 +533,14 @@
     },
     {
         "action": "PrintText",
-        "end": 117000,
+        "end": 117150,
         "persona": "Сэкаи",
         "start": 112333,
         "text": "Что такое?! Покажи!^"
     },
     {
         "action": "PlayVoice",
-        "end": 117000,
+        "end": 117150,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0430",
         "layer": 0,
         "persona": "sek",
@@ -544,20 +548,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 124000,
+        "end": 124316,
         "file": "Event03/03-AS/03-AS-D00/03-AS-D00-010",
         "start": 117200
     },
     {
         "action": "PrintText",
-        "end": 121000,
+        "end": 121166,
         "persona": "Сэцуна",
         "start": 117250,
         "text": "Последняя парта у окна.^"
     },
     {
         "action": "PlayVoice",
-        "end": 121000,
+        "end": 121166,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0440",
         "layer": 0,
         "persona": "set",
@@ -565,14 +569,14 @@
     },
     {
         "action": "PrintText",
-        "end": 124000,
+        "end": 124016,
         "persona": "Сэкаи",
         "start": 121166,
         "text": "Ух ты! Хорошее место.^"
     },
     {
         "action": "PlayVoice",
-        "end": 124000,
+        "end": 124016,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0450",
         "layer": 0,
         "persona": "sek",
@@ -580,14 +584,14 @@
     },
     {
         "action": "PrintText",
-        "end": 124000,
+        "end": 124250,
         "persona": "Сэцуна",
         "start": 124000,
         "text": "Да...^"
     },
     {
         "action": "PlayVoice",
-        "end": 124000,
+        "end": 124250,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0460",
         "layer": 0,
         "persona": "set",
@@ -595,7 +599,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 145000,
+        "end": 145166,
         "file": "Event03/03-AS/03-AS-D00/03-AS-D00-011",
         "start": 124316
     },
@@ -623,14 +627,14 @@
     },
     {
         "action": "PrintText",
-        "end": 142000,
+        "end": 142283,
         "persona": "Сэкаи",
         "start": 138000,
         "text": "и дзюдо занимается. Мне не по себе рядом с ним.^"
     },
     {
         "action": "PlayVoice",
-        "end": 142000,
+        "end": 142283,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0471",
         "layer": 0,
         "persona": "sek",
@@ -638,14 +642,14 @@
     },
     {
         "action": "PrintText",
-        "end": 143000,
+        "end": 143166,
         "persona": "Сэцуна",
         "start": 142316,
         "text": "Угу...^"
     },
     {
         "action": "PlayVoice",
-        "end": 143000,
+        "end": 143166,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0480",
         "layer": 0,
         "persona": "set",
@@ -653,14 +657,14 @@
     },
     {
         "action": "PrintText",
-        "end": 145000,
+        "end": 145116,
         "persona": "Сэкаи",
         "start": 143250,
         "text": "А у тебя кто сосед по парте?^"
     },
     {
         "action": "PlayVoice",
-        "end": 145000,
+        "end": 145116,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0490",
         "layer": 0,
         "persona": "sek",
@@ -668,20 +672,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 150000,
+        "end": 150250,
         "file": "Event03/03-AS/03-AS-D00/03-AS-D00-012A",
         "start": 145166
     },
     {
         "action": "PrintText",
-        "end": 146000,
+        "end": 146283,
         "persona": "Сэцуна",
         "start": 145216,
         "text": "У меня...^"
     },
     {
         "action": "PlayVoice",
-        "end": 146000,
+        "end": 146283,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0500",
         "layer": 0,
         "persona": "set",
@@ -689,14 +693,14 @@
     },
     {
         "action": "PrintText",
-        "end": 147000,
+        "end": 147100,
         "persona": "Сэкаи",
         "start": 146333,
         "text": "Угу...^"
     },
     {
         "action": "PlayVoice",
-        "end": 147000,
+        "end": 147100,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0510",
         "layer": 0,
         "persona": "sek",
@@ -704,14 +708,14 @@
     },
     {
         "action": "PrintText",
-        "end": 150000,
+        "end": 150216,
         "persona": "Сэцуна",
         "start": 147266,
         "text": "Ну... Ито...^"
     },
     {
         "action": "PlayVoice",
-        "end": 150000,
+        "end": 150216,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0520",
         "layer": 0,
         "persona": "set",
@@ -719,20 +723,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 151000,
+        "end": 151216,
         "file": "Event03/03-AS/03-AS-D00/03-AS-D00-012B",
         "start": 150250
     },
     {
         "action": "PrintText",
-        "end": 151000,
+        "end": 151133,
         "persona": "Сэкаи",
         "start": 150250,
         "text": "Что?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 151000,
+        "end": 151133,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0530",
         "layer": 0,
         "persona": "sek",
@@ -740,20 +744,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 168000,
+        "end": 168100,
         "file": "Event03/03-AS/03-AS-D00/03-AS-D00-012A",
         "start": 151216
     },
     {
         "action": "PrintText",
-        "end": 153000,
+        "end": 153100,
         "persona": "Сэцуна",
         "start": 151216,
         "text": "Слушай...^"
     },
     {
         "action": "PlayVoice",
-        "end": 153000,
+        "end": 153100,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0540",
         "layer": 0,
         "persona": "set",
@@ -761,14 +765,14 @@
     },
     {
         "action": "PrintText",
-        "end": 163000,
+        "end": 163066,
         "persona": "Сэцуна",
         "start": 153116,
         "text": "Мне так случайно выпало, я ничего не подтасовывала! Мы ведь с Ито тоже едва знакомы.^"
     },
     {
         "action": "PlayVoice",
-        "end": 163000,
+        "end": 163066,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0541",
         "layer": 0,
         "persona": "set",
@@ -776,14 +780,14 @@
     },
     {
         "action": "PrintText",
-        "end": 168000,
+        "end": 168066,
         "persona": "Сэцуна",
         "start": 163250,
         "text": "Я это, знаешь... Сэкаи?^"
     },
     {
         "action": "PlayVoice",
-        "end": 168000,
+        "end": 168066,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0542",
         "layer": 0,
         "persona": "set",
@@ -791,20 +795,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 178000,
+        "end": 178033,
         "file": "Event03/03-AS/03-AS-D00/03-AS-D00-013",
         "start": 168100
     },
     {
         "action": "PrintText",
-        "end": 169000,
+        "end": 169166,
         "persona": "Сэкаи",
         "start": 168100,
         "text": "Сэцуна!^"
     },
     {
         "action": "PlayVoice",
-        "end": 169000,
+        "end": 169166,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0550",
         "layer": 0,
         "persona": "sek",
@@ -827,14 +831,14 @@
     },
     {
         "action": "PrintText",
-        "end": 171000,
+        "end": 171050,
         "persona": "Сэкаи",
         "start": 170000,
         "text": "Пожалуйста, поменяйся со мной!^"
     },
     {
         "action": "PlayVoice",
-        "end": 171000,
+        "end": 171050,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0570",
         "layer": 0,
         "persona": "sek",
@@ -842,14 +846,14 @@
     },
     {
         "action": "PrintText",
-        "end": 171000,
+        "end": 171383,
         "persona": "Сэцуна",
         "start": 171100,
         "text": "Но...^"
     },
     {
         "action": "PlayVoice",
-        "end": 171000,
+        "end": 171383,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0580",
         "layer": 0,
         "persona": "set",
@@ -872,14 +876,14 @@
     },
     {
         "action": "PrintText",
-        "end": 176000,
+        "end": 176033,
         "persona": "Сэцуна",
         "start": 174333,
         "text": "Сэкаи...^"
     },
     {
         "action": "PlayVoice",
-        "end": 176000,
+        "end": 176033,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0600",
         "layer": 0,
         "persona": "set",
@@ -902,20 +906,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 186000,
+        "end": 186133,
         "file": "Event03/03-AS/03-AS-D00/03-AS-D00-010",
         "start": 178033
     },
     {
         "action": "PrintText",
-        "end": 180000,
+        "end": 180166,
         "persona": "Сэцуна",
         "start": 178033,
         "text": "Понятно...^"
     },
     {
         "action": "PlayVoice",
-        "end": 180000,
+        "end": 180166,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0630",
         "layer": 0,
         "persona": "set",
@@ -923,14 +927,14 @@
     },
     {
         "action": "PrintText",
-        "end": 181000,
+        "end": 181316,
         "persona": "Сэкаи",
         "start": 180200,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 181000,
+        "end": 181316,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0640",
         "layer": 0,
         "persona": "xxx",
@@ -938,14 +942,14 @@
     },
     {
         "action": "PrintText",
-        "end": 186000,
+        "end": 186100,
         "persona": "Сэцуна",
         "start": 181350,
         "text": "Значит, тебе Ито нравится?^"
     },
     {
         "action": "PlayVoice",
-        "end": 186000,
+        "end": 186100,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0650",
         "layer": 0,
         "persona": "set",
@@ -953,20 +957,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 204000,
+        "end": 204166,
         "file": "Event03/03-AS/03-AS-D00/03-AS-D00-013",
         "start": 186133
     },
     {
         "action": "PrintText",
-        "end": 187000,
+        "end": 187266,
         "persona": "Сэкаи",
         "start": 186133,
         "text": "Да...^"
     },
     {
         "action": "PlayVoice",
-        "end": 187000,
+        "end": 187266,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0660",
         "layer": 0,
         "persona": "sek",
@@ -974,14 +978,14 @@
     },
     {
         "action": "PrintText",
-        "end": 188000,
+        "end": 188150,
         "persona": "Сэцуна",
         "start": 187233,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 188000,
+        "end": 188150,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0670",
         "layer": 0,
         "persona": "xxx",
@@ -996,14 +1000,14 @@
     },
     {
         "action": "PrintText",
-        "end": 200000,
+        "end": 200266,
         "persona": "Сэкаи",
         "start": 194000,
         "text": "ну и ещё думала, вы друг другу подходите, но потом...^"
     },
     {
         "action": "PlayVoice",
-        "end": 200000,
+        "end": 200266,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0680",
         "layer": 0,
         "persona": "sek",
@@ -1011,14 +1015,14 @@
     },
     {
         "action": "PrintText",
-        "end": 204000,
+        "end": 204133,
         "persona": "Сэкаи",
         "start": 200266,
         "text": "Я в него влюбилась...^"
     },
     {
         "action": "PlayVoice",
-        "end": 204000,
+        "end": 204133,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0681",
         "layer": 0,
         "persona": "sek",
@@ -1026,20 +1030,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 233000,
+        "end": 233083,
         "file": "Event03/03-AS/03-AS-D00/03-AS-D00-016",
         "start": 204166
     },
     {
         "action": "PrintText",
-        "end": 205000,
+        "end": 205050,
         "persona": "Сэцуна",
         "start": 204200,
         "text": "Угу...^"
     },
     {
         "action": "PlayVoice",
-        "end": 205000,
+        "end": 205050,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0690",
         "layer": 0,
         "persona": "set",
@@ -1047,14 +1051,14 @@
     },
     {
         "action": "PrintText",
-        "end": 211000,
+        "end": 211050,
         "persona": "Сэкаи",
         "start": 205100,
         "text": "Сэцуна, ты как старостой стала, часто с Ито разговариваешь...^"
     },
     {
         "action": "PlayVoice",
-        "end": 211000,
+        "end": 211050,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0700",
         "layer": 0,
         "persona": "sek",
@@ -1062,14 +1066,14 @@
     },
     {
         "action": "PrintText",
-        "end": 221000,
+        "end": 221333,
         "persona": "Сэкаи",
         "start": 211050,
         "text": "А я на вас смотрела и думала, какой Макото классный, и тебе завидовала...^"
     },
     {
         "action": "PlayVoice",
-        "end": 221000,
+        "end": 221333,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0701",
         "layer": 0,
         "persona": "sek",
@@ -1077,14 +1081,14 @@
     },
     {
         "action": "PrintText",
-        "end": 222000,
+        "end": 222283,
         "persona": "Сэцуна",
         "start": 222033,
         "text": "Угу...^"
     },
     {
         "action": "PlayVoice",
-        "end": 222000,
+        "end": 222283,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0710",
         "layer": 0,
         "persona": "set",
@@ -1092,14 +1096,14 @@
     },
     {
         "action": "PrintText",
-        "end": 232000,
+        "end": 232116,
         "persona": "Сэкаи",
         "start": 223166,
         "text": "Для меня это последний шанс с ним сблизиться, понимаешь? Я так этого хочу!^"
     },
     {
         "action": "PlayVoice",
-        "end": 232000,
+        "end": 232116,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0720",
         "layer": 0,
         "persona": "sek",
@@ -1107,14 +1111,14 @@
     },
     {
         "action": "PrintText",
-        "end": 232000,
+        "end": 232350,
         "persona": "Сэцуна",
         "start": 232183,
         "text": "Угу...^"
     },
     {
         "action": "PlayVoice",
-        "end": 232000,
+        "end": 232350,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0730",
         "layer": 0,
         "persona": "set",
@@ -1122,20 +1126,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 243000,
+        "end": 243150,
         "file": "Event03/03-AS/03-AS-D00/03-AS-D00-017",
         "start": 233083
     },
     {
         "action": "PrintText",
-        "end": 239000,
+        "end": 239200,
         "persona": "Сэкаи",
         "start": 233133,
         "text": "Сэцуна, ты ведь мне поможешь? Ты же сама говорила, какой Ито хороший парень!^"
     },
     {
         "action": "PlayVoice",
-        "end": 239000,
+        "end": 239200,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0740",
         "layer": 0,
         "persona": "sek",
@@ -1143,14 +1147,14 @@
     },
     {
         "action": "PrintText",
-        "end": 240000,
+        "end": 240166,
         "persona": "Сэцуна",
         "start": 239250,
         "text": "Угу...^"
     },
     {
         "action": "PlayVoice",
-        "end": 240000,
+        "end": 240166,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0750",
         "layer": 0,
         "persona": "set",
@@ -1158,14 +1162,14 @@
     },
     {
         "action": "PrintText",
-        "end": 243000,
+        "end": 243083,
         "persona": "Сэкаи",
         "start": 240266,
         "text": "Поэтому прошу тебя!^"
     },
     {
         "action": "PlayVoice",
-        "end": 243000,
+        "end": 243083,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0760",
         "layer": 0,
         "persona": "sek",
@@ -1173,20 +1177,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 248000,
+        "end": 248316,
         "file": "Event03/03-AS/03-AS-D00/03-AS-D00-010",
         "start": 243150
     },
     {
         "action": "PrintText",
-        "end": 244000,
+        "end": 244116,
         "persona": "Сэцуна",
         "start": 243150,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 244000,
+        "end": 244116,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0770",
         "layer": 0,
         "persona": "xxx",
@@ -1194,14 +1198,14 @@
     },
     {
         "action": "PrintText",
-        "end": 246000,
+        "end": 246016,
         "persona": "Сэкаи",
         "start": 244166,
         "text": "Сэцуна...^"
     },
     {
         "action": "PlayVoice",
-        "end": 246000,
+        "end": 246016,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0780",
         "layer": 0,
         "persona": "sek",
@@ -1209,14 +1213,14 @@
     },
     {
         "action": "PrintText",
-        "end": 247000,
+        "end": 247150,
         "persona": "Сэцуна",
         "start": 246150,
         "text": "Хорошо...^"
     },
     {
         "action": "PlayVoice",
-        "end": 247000,
+        "end": 247150,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0790",
         "layer": 0,
         "persona": "set",
@@ -1224,14 +1228,14 @@
     },
     {
         "action": "PrintText",
-        "end": 248000,
+        "end": 248266,
         "persona": "Сэкаи",
         "start": 247100,
         "text": "Сэцуна...^"
     },
     {
         "action": "PlayVoice",
-        "end": 248000,
+        "end": 248266,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0800",
         "layer": 0,
         "persona": "sek",
@@ -1239,20 +1243,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 250000,
+        "end": 250033,
         "file": "Event03/03-AS/03-AS-D00/03-AS-D00-016",
         "start": 248316
     },
     {
         "action": "PrintText",
-        "end": 249000,
+        "end": 249383,
         "persona": "Сэцуна",
         "start": 248350,
         "text": "Удачи...^"
     },
     {
         "action": "PlayVoice",
-        "end": 249000,
+        "end": 249383,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0810",
         "layer": 0,
         "persona": "set",
@@ -1260,20 +1264,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 251000,
+        "end": 251283,
         "file": "Event03/03-AS/03-AS-D00/03-AS-D00-020",
         "start": 250033
     },
     {
         "action": "PrintText",
-        "end": 251000,
+        "end": 251016,
         "persona": "Сэкаи",
         "start": 250066,
         "text": "Да!^"
     },
     {
         "action": "PlayVoice",
-        "end": 251000,
+        "end": 251016,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0830",
         "layer": 0,
         "persona": "sek",
@@ -1282,31 +1286,31 @@
     {
         "action": "WhiteFade",
         "dir": "OUT",
-        "end": 251000,
+        "end": 251283,
         "start": 251083
     },
     {
         "action": "CreateBG",
-        "end": 256000,
+        "end": 256083,
         "file": "Event03/03-AS/03-AS-D00/03-AS-D00-002",
         "start": 251283
     },
     {
         "action": "WhiteFade",
         "dir": "IN",
-        "end": 252000,
+        "end": 252083,
         "start": 251283
     },
     {
         "action": "PrintText",
-        "end": 253000,
+        "end": 253050,
         "persona": "Сэцуна",
         "start": 252083,
         "text": "Сэкаи...^"
     },
     {
         "action": "PlayVoice",
-        "end": 253000,
+        "end": 253050,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0860",
         "layer": 0,
         "persona": "set",
@@ -1314,14 +1318,14 @@
     },
     {
         "action": "PrintText",
-        "end": 254000,
+        "end": 254366,
         "persona": "Сэцуна",
         "start": 253383,
         "text": "Я вхожу...^"
     },
     {
         "action": "PlayVoice",
-        "end": 254000,
+        "end": 254366,
         "file": "Voice03/03-AS/03-AS-D00/03-AS-D00-0880",
         "layer": 0,
         "persona": "set",
@@ -1330,7 +1334,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 256000,
+        "end": 256083,
         "start": 255083
+    },
+    {
+        "action": "Next",
+        "start": 256083
     }
 ]

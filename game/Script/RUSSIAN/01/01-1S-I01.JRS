@@ -1,7 +1,11 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 31233
+    },
+    {
         "action": "PlayBgm",
-        "end": 31000,
+        "end": 31233,
         "file": "BGM/SD_BGM/sdbgm21",
         "start": 0
     },
@@ -13,20 +17,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8100,
         "file": "Event01/01-1S/01-1S-I01/01-1S-I01-002",
         "start": 3000
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7166,
         "persona": "Макото",
         "start": 3350,
         "text": "Немного тороплюсь...^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7166,
         "file": "Voice01/01-1S/01-1S-I01/01-1S-I01-0040",
         "layer": 1,
         "persona": "xxx",
@@ -34,20 +38,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12266,
         "file": "Event01/01-00/01-00-B06/01-00-B06-001",
         "start": 8100
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12050,
         "persona": "Макото",
         "start": 8383,
         "text": "Застенчивая девушка... Чёрт!^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12050,
         "file": "Voice01/01-1S/01-1S-I01/01-1S-I01-0050",
         "layer": 1,
         "persona": "xxx",
@@ -55,20 +59,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 17000,
+        "end": 17350,
         "file": "Movie01/01-1S/01-1S-I01/01-1S-I01-004",
         "start": 12266
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17133,
         "persona": "Макото",
         "start": 13016,
         "text": "Да мы толком даже за руки не подержались.^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17133,
         "file": "Voice01/01-1S/01-1S-I01/01-1S-I01-0060",
         "layer": 1,
         "persona": "xxx",
@@ -76,27 +80,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 25000,
+        "end": 25133,
         "file": "Event01/01-1S/01-1S-I01/01-1S-I01-005",
         "start": 17350
     },
     {
         "action": "PrintText",
-        "end": 22000,
+        "end": 22333,
         "persona": "Макото",
         "start": 18166,
         "text": "Я тут перед Сэкаи выпендривался,^"
     },
     {
         "action": "PrintText",
-        "end": 24000,
+        "end": 24333,
         "persona": "Макото",
         "start": 22350,
         "text": "что всё прошло отлично...^"
     },
     {
         "action": "PlayVoice",
-        "end": 24000,
+        "end": 24333,
         "file": "Voice01/01-1S/01-1S-I01/01-1S-I01-0070",
         "layer": 1,
         "persona": "xxx",
@@ -104,27 +108,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 31000,
+        "end": 31233,
         "file": "Event01/01-1S/01-1S-I01/01-1S-I01-006",
         "start": 25133
     },
     {
         "action": "PrintText",
-        "end": 27000,
+        "end": 27666,
         "persona": "Макото",
         "start": 25383,
         "text": "Но на самом деле я хочу от Котонохи намного большего,^"
     },
     {
         "action": "PrintText",
-        "end": 30000,
+        "end": 30033,
         "persona": "Макото",
         "start": 27683,
         "text": "стоит ли нам встречаться дальше?^"
     },
     {
         "action": "PlayVoice",
-        "end": 30000,
+        "end": 30033,
         "file": "Voice01/01-1S/01-1S-I01/01-1S-I01-0080",
         "layer": 1,
         "persona": "xxx",
@@ -133,7 +137,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 31000,
+        "end": 31233,
         "start": 30233
+    },
+    {
+        "action": "Next",
+        "start": 31233
     }
 ]

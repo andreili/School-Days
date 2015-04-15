@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 7083
+    },
+    {
         "action": "PlayBgm",
-        "end": 7000,
+        "end": 7083,
         "file": "BGM/SD_BGM/sdbgm07",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7083,
         "file": "Event01/01-1K/01-1K-C00/00-00-F00-010WIN",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1350,
         "persona": "Макото",
         "start": 0,
         "text": "Даже не знаю...^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1350,
         "file": "Voice01/01-1K/01-1K-C06/01-1K-C06-0030",
         "layer": 1,
         "persona": "mak",
@@ -28,17 +32,21 @@
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7083,
         "persona": "Макото",
         "start": 2150,
         "text": "Не могу определиться... Ладно...^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7083,
         "file": "Voice01/01-1K/01-1K-C06/01-1K-C06-0040",
         "layer": 1,
         "persona": "mak",
         "start": 2150
+    },
+    {
+        "action": "Next",
+        "start": 7083
     }
 ]

@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 19033
+    },
+    {
         "action": "PlaySe",
-        "end": 19000,
+        "end": 19033,
         "file": "SysSe/SE_all/station_train/station",
         "layer": 1,
         "start": 0
     },
     {
         "action": "PlayMovie",
-        "end": 4000,
+        "end": 4266,
         "file": "Movie05/05-KB/05-KB-J03/05-KB-J03-001",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7050,
         "file": "Event05/05-KB/05-KB-J03/05-KB-J03-002",
         "start": 4266
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6366,
         "persona": "Котоноха",
         "start": 4266,
         "text": "Макото.^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6366,
         "file": "Voice05/05-KB/05-KB-J03/05-KB-J03-0040",
         "layer": 0,
         "persona": "kot",
@@ -35,20 +39,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10300,
         "file": "Event05/05-KB/05-KB-J03/05-KB-J03-003",
         "start": 7050
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10283,
         "persona": "Макото",
         "start": 7183,
         "text": "Что это у тебя?^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10283,
         "file": "Voice05/05-KB/05-KB-J03/05-KB-J03-0100",
         "layer": 1,
         "persona": "mak",
@@ -56,20 +60,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 14000,
+        "end": 14033,
         "file": "Event05/05-KB/05-KB-J03/05-KB-J03-004",
         "start": 10300
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14033,
         "persona": "Котоноха",
         "start": 10300,
         "text": "Потом узнаешь!^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14033,
         "file": "Voice05/05-KB/05-KB-J03/05-KB-J03-0110",
         "layer": 0,
         "persona": "kot",
@@ -77,14 +81,18 @@
     },
     {
         "action": "CreateBG",
-        "end": 19000,
+        "end": 19033,
         "file": "Event05/05-KB/05-KB-J03/05-KB-J03-005",
         "start": 14033
     },
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 19000,
+        "end": 19033,
         "start": 18033
+    },
+    {
+        "action": "Next",
+        "start": 19033
     }
 ]

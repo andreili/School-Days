@@ -1,5 +1,9 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 6000
+    },
+    {
         "action": "PlayBgm",
         "end": 6000,
         "file": "BGM/SD_BGM/sdbgm20",
@@ -7,20 +11,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3233,
         "file": "Event05/05-5O/05-5O-E08/05-5O-E08-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3016,
         "persona": "Макото",
         "start": 216,
         "text": "Почему бы и нет... Пошли.^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3016,
         "file": "Voice05/05-5O/05-5O-E08/05-5O-E08-0030",
         "layer": 1,
         "persona": "mak",
@@ -34,17 +38,21 @@
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5233,
         "persona": "Таисукэ",
         "start": 3333,
         "text": "Вот и отлично!^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5233,
         "file": "Voice05/05-5O/05-5O-E08/05-5O-E08-0040",
         "layer": 1,
         "persona": "tai",
         "start": 3333
+    },
+    {
+        "action": "Next",
+        "start": 6000
     }
 ]

@@ -1,7 +1,11 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 12266
+    },
+    {
         "action": "PlayBgm",
-        "end": 18000,
+        "end": 18266,
         "file": "BGM/SD_BGM/sdbgm01",
         "start": 0
     },
@@ -13,13 +17,13 @@
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4066,
         "file": "Event03/03-SA/03-SA-B00/03-SA-B00-002",
         "start": 2000
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7016,
         "file": "Event03/03-SA/03-SA-B00/03-SA-B00-003",
         "start": 4066
     },
@@ -40,20 +44,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 18000,
+        "end": 18266,
         "file": "Event03/03-SA/03-SA-B00/03-SA-B00-004",
         "start": 7016
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7300,
         "persona": "Макото",
         "start": 7016,
         "text": "Ух ты!^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7300,
         "file": "Voice03/03-SA/03-SA-B00/03-SA-B00-0070",
         "layer": 1,
         "persona": "mak",
@@ -61,14 +65,14 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9383,
         "persona": "Сэкаи",
         "start": 7300,
         "text": "Ну и как я тебе?^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9383,
         "file": "Voice03/03-SA/03-SA-B00/03-SA-B00-0080",
         "layer": 0,
         "persona": "sek",
@@ -76,14 +80,14 @@
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12250,
         "persona": "Макото",
         "start": 9383,
         "text": "Ну...^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12250,
         "file": "Voice03/03-SA/03-SA-B00/03-SA-B00-0090",
         "layer": 1,
         "persona": "mak",
@@ -93,7 +97,11 @@
         "action": "SetSELECT",
         "answer1": "Просто принцесса!^",
         "answer2": "Ну так ничего.^",
-        "end": 17000,
+        "end": 17266,
         "start": 12266
+    },
+    {
+        "action": "Next",
+        "start": 18266
     }
 ]

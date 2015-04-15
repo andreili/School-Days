@@ -1,27 +1,31 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 16200
+    },
+    {
         "action": "PlaySe",
-        "end": 16000,
+        "end": 16200,
         "file": "SysSe/SE_all/gaya/kyousitu_rouka",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2166,
         "file": "Event05/05-A0/05-A0-H02/05-A0-H02-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2150,
         "persona": "Макото",
         "start": 150,
         "text": "Нет.^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2150,
         "file": "Voice05/05-A0/05-A0-H02/05-A0-H02-0040",
         "layer": 1,
         "persona": "mak",
@@ -29,20 +33,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6366,
         "file": "Event05/05-A0/05-A0-H02/05-A0-H02-002",
         "start": 2166
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4050,
         "persona": "Нанами",
         "start": 2166,
         "text": "Всё придуриваешься?^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4050,
         "file": "Voice05/05-A0/05-A0-H02/05-A0-H02-0050",
         "layer": 0,
         "persona": "nan",
@@ -50,14 +54,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6333,
         "persona": "Макото",
         "start": 4183,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6333,
         "file": "Voice05/05-A0/05-A0-H02/05-A0-H02-0060",
         "layer": 1,
         "persona": "xxx",
@@ -65,14 +69,14 @@
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13150,
         "persona": "Нанами",
         "start": 6350,
         "text": "Сэкаи... Когда ревела... Тихонечко твоё имя прошептала. Я и услышала.^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13150,
         "file": "Voice05/05-A0/05-A0-H02/05-A0-H02-0070",
         "layer": 0,
         "persona": "nan",
@@ -80,23 +84,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 16000,
+        "end": 16200,
         "file": "Event05/05-A0/05-A0-H02/05-A0-H02-003",
         "start": 6366
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15366,
         "persona": "Макото",
         "start": 13183,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15366,
         "file": "Voice05/05-A0/05-A0-H02/05-A0-H02-0080",
         "layer": 1,
         "persona": "xxx",
         "start": 13183
+    },
+    {
+        "action": "Next",
+        "start": 16200
     }
 ]

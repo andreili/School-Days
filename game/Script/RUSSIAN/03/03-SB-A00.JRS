@@ -1,5 +1,9 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 6000
+    },
+    {
         "action": "PlayBgm",
         "end": 6000,
         "file": "BGM/SD_BGM/sdbgm21",
@@ -7,7 +11,7 @@
     },
     {
         "action": "PlaySe",
-        "end": 1000,
+        "end": 1316,
         "file": "SysSe/SE_all/bed/bed_kisimi01",
         "layer": 1,
         "start": 0
@@ -33,7 +37,7 @@
     },
     {
         "action": "PlaySe",
-        "end": 2000,
+        "end": 2050,
         "file": "SysSe/SE_all/h/h_01",
         "layer": 3,
         "start": 166
@@ -48,30 +52,34 @@
     },
     {
         "action": "PlaySe",
-        "end": 3000,
+        "end": 3333,
         "file": "SysSe/SE_all/bed/bed_kisimi01",
         "layer": 1,
         "start": 2000
     },
     {
         "action": "PlaySe",
-        "end": 4000,
+        "end": 4033,
         "file": "SysSe/SE_all/h/h_01",
         "layer": 3,
         "start": 2150
     },
     {
         "action": "PlaySe",
-        "end": 5000,
+        "end": 5333,
         "file": "SysSe/SE_all/bed/bed_kisimi01",
         "layer": 1,
         "start": 4016
     },
     {
         "action": "PlaySe",
-        "end": 5000,
+        "end": 5316,
         "file": "SysSe/SE_all/h/h_01",
         "layer": 3,
         "start": 4133
+    },
+    {
+        "action": "Next",
+        "start": 6000
     }
 ]

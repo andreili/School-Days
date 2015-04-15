@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 3183
+    },
+    {
         "action": "PlayBgm",
-        "end": 3000,
+        "end": 3183,
         "file": "BGM/SD_BGM/sdbgm06",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 3000,
+        "end": 3183,
         "file": "Se03/03-KA/03-KA-C06/SE03-KA-C06-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3183,
         "file": "Event03/03-KA/03-KA-C06/03-KA-C06-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1133,
         "persona": "Макото",
         "start": 0,
         "text": "Я в столовку.^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1133,
         "file": "Voice03/03-KA/03-KA-C06/03-KA-C06-0030",
         "layer": 1,
         "persona": "mak",
@@ -35,14 +39,14 @@
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2066,
         "persona": "Сэцуна",
         "start": 1216,
         "text": "Угу.^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2066,
         "file": "Voice03/03-KA/03-KA-C06/03-KA-C06-0040",
         "layer": 0,
         "persona": "set",
@@ -51,7 +55,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 3000,
+        "end": 3183,
         "start": 2183
+    },
+    {
+        "action": "Next",
+        "start": 3183
     }
 ]

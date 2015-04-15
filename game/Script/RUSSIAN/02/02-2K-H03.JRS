@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 3233
+    },
+    {
         "action": "PlayBgm",
-        "end": 3000,
+        "end": 3233,
         "file": "BGM/SD_BGM/sdbgm20",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3233,
         "file": "Event02/02-2K/02-2K-H00/02-2K-H00-004",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2033,
         "persona": "Макото",
         "start": 0,
         "text": "Да ну её...^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2033,
         "file": "Voice02/02-2K/02-2K-H03/02-2K-H03-0030",
         "layer": 1,
         "persona": "xxx",
@@ -29,7 +33,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 3000,
+        "end": 3233,
         "start": 2233
+    },
+    {
+        "action": "Next",
+        "start": 3233
     }
 ]

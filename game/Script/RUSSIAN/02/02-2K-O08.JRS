@@ -1,5 +1,9 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 11000
+    },
+    {
         "action": "PlaySe",
         "end": 11000,
         "file": "SysSe/SE_all/gaya/kyousitu_rouka",
@@ -8,7 +12,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3016,
         "file": "Event02/02-2K/02-2K-O04/02-2K-O04-009",
         "start": 0
     },
@@ -29,14 +33,14 @@
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3050,
         "persona": "Сэкаи",
         "start": 1316,
         "text": "Я же говорила!^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3050,
         "file": "Voice02/02-2K/02-2K-O08/02-2K-O08-0040",
         "layer": 0,
         "persona": "sek",
@@ -44,14 +48,14 @@
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5233,
         "persona": "Макото",
         "start": 2350,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5233,
         "file": "Voice02/02-2K/02-2K-O08/02-2K-O08-0050",
         "layer": 1,
         "persona": "mak",
@@ -59,13 +63,13 @@
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5166,
         "file": "Event02/02-2K/02-2K-N00/02-2K-N00-008",
         "start": 3016
     },
     {
         "action": "PlaySe",
-        "end": 9000,
+        "end": 9383,
         "file": "SysSe/SE_all/footsteps/asioto_out_walk",
         "layer": 1,
         "start": 4250
@@ -88,5 +92,9 @@
         "dir": "OUT",
         "end": 11000,
         "start": 10000
+    },
+    {
+        "action": "Next",
+        "start": 11000
     }
 ]

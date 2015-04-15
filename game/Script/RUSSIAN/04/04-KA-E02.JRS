@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 12366
+    },
+    {
         "action": "PlayBgm",
-        "end": 12000,
+        "end": 12366,
         "file": "BGM/SD_BGM/sdbgm07",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1316,
         "file": "Event04/04-KA/04-KA-E02/04-KA-E02-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1150,
         "persona": "Котоноха",
         "start": 150,
         "text": "Макото.^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1150,
         "file": "Voice04/04-KA/04-KA-E02/04-KA-E02-0050",
         "layer": 0,
         "persona": "kot",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2333,
         "persona": "Макото",
         "start": 1283,
         "text": "Котоноха...^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2333,
         "file": "Voice04/04-KA/04-KA-E02/04-KA-E02-0060",
         "layer": 1,
         "persona": "mak",
@@ -43,26 +47,26 @@
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3133,
         "file": "Event04/04-KA/04-KA-E02/04-KA-E02-002A",
         "start": 1316
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4233,
         "file": "Event04/04-KA/04-KA-E02/04-KA-E02-002B",
         "start": 3133
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4166,
         "persona": "Котоноха",
         "start": 3133,
         "text": "Поехали?^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4166,
         "file": "Voice04/04-KA/04-KA-E02/04-KA-E02-0070",
         "layer": 0,
         "persona": "kot",
@@ -70,20 +74,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12366,
         "file": "Event04/04-KA/04-KA-E02/04-KA-E02-002C",
         "start": 4233
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5100,
         "persona": "Макото",
         "start": 4233,
         "text": "Ага.^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5100,
         "file": "Voice04/04-KA/04-KA-E02/04-KA-E02-0080",
         "layer": 1,
         "persona": "mak",
@@ -91,14 +95,14 @@
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10183,
         "persona": "Котоноха",
         "start": 5216,
         "text": "Ничего, если я сейчас к тебе поеду?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10183,
         "file": "Voice04/04-KA/04-KA-E02/04-KA-E02-0090",
         "layer": 0,
         "persona": "kot",
@@ -106,14 +110,14 @@
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11266,
         "persona": "Макото",
         "start": 11000,
         "text": "Ничего.^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11266,
         "file": "Voice04/04-KA/04-KA-E02/04-KA-E02-0110",
         "layer": 1,
         "persona": "mak",
@@ -122,7 +126,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 12000,
+        "end": 12366,
         "start": 11366
+    },
+    {
+        "action": "Next",
+        "start": 12366
     }
 ]

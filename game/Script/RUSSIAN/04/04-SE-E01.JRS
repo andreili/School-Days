@@ -1,27 +1,31 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 31166
+    },
+    {
         "action": "PlaySe",
-        "end": 31000,
+        "end": 31166,
         "file": "SysSe/SE_all/gaya/kyousitu_rouka",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1083,
         "file": "Event04/04-SE/04-SE-E01/04-SE-E01-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1100,
         "persona": "Макото",
         "start": 0,
         "text": "Вполне хорошие.^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1100,
         "file": "Voice04/04-SE/04-SE-E01/04-SE-E01-0030",
         "layer": 1,
         "persona": "mak",
@@ -29,20 +33,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 11000,
+        "end": 11083,
         "file": "Event04/04-SE/04-SE-E01/04-SE-E01-002",
         "start": 1083
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2033,
         "persona": "Сэкаи",
         "start": 1100,
         "text": "Э?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2033,
         "file": "Voice04/04-SE/04-SE-E01/04-SE-E01-0040",
         "layer": 0,
         "persona": "sek",
@@ -50,14 +54,14 @@
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8050,
         "persona": "Макото",
         "start": 2016,
         "text": "В средней школе она была одной из лучших моих друзей. Весело тогда было.^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8050,
         "file": "Voice04/04-SE/04-SE-E01/04-SE-E01-0050",
         "layer": 1,
         "persona": "mak",
@@ -65,14 +69,14 @@
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11083,
         "persona": "Сэкаи",
         "start": 8050,
         "text": "Не то, что сейчас...^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11083,
         "file": "Voice04/04-SE/04-SE-E01/04-SE-E01-0060",
         "layer": 0,
         "persona": "sek",
@@ -80,20 +84,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 16000,
+        "end": 16050,
         "file": "Event04/04-SE/04-SE-E01/04-SE-E01-003",
         "start": 11083
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14266,
         "persona": "Макото",
         "start": 11083,
         "text": "О, неужели ревнуешь?^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14266,
         "file": "Voice04/04-SE/04-SE-E01/04-SE-E01-0070",
         "layer": 1,
         "persona": "mak",
@@ -101,14 +105,14 @@
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16016,
         "persona": "Сэкаи",
         "start": 14283,
         "text": "Да не особо.^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16016,
         "file": "Voice04/04-SE/04-SE-E01/04-SE-E01-0080",
         "layer": 0,
         "persona": "sek",
@@ -116,14 +120,14 @@
     },
     {
         "action": "PrintText",
-        "end": 25000,
+        "end": 25183,
         "persona": "Макото",
         "start": 16016,
         "text": "Глупая. Мы просто друзья. В старой школе у нас все дружили: и парни, и девчонки.^"
     },
     {
         "action": "PlayVoice",
-        "end": 25000,
+        "end": 25183,
         "file": "Voice04/04-SE/04-SE-E01/04-SE-E01-0090",
         "layer": 1,
         "persona": "mak",
@@ -131,20 +135,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 31000,
+        "end": 31166,
         "file": "Event04/04-SE/04-SE-E01/04-SE-E01-004",
         "start": 16050
     },
     {
         "action": "PrintText",
-        "end": 26000,
+        "end": 26283,
         "persona": "Сэкаи",
         "start": 25183,
         "text": "Пошляк.^"
     },
     {
         "action": "PlayVoice",
-        "end": 26000,
+        "end": 26283,
         "file": "Voice04/04-SE/04-SE-E01/04-SE-E01-0100",
         "layer": 0,
         "persona": "sek",
@@ -152,14 +156,14 @@
     },
     {
         "action": "PrintText",
-        "end": 29000,
+        "end": 29366,
         "persona": "Макото",
         "start": 26283,
         "text": "Какая муха тебя укусила? Говорю же, просто друзья.^"
     },
     {
         "action": "PlayVoice",
-        "end": 29000,
+        "end": 29366,
         "file": "Voice04/04-SE/04-SE-E01/04-SE-E01-0110",
         "layer": 1,
         "persona": "mak",
@@ -179,5 +183,9 @@
         "layer": 0,
         "persona": "sek",
         "start": 29383
+    },
+    {
+        "action": "Next",
+        "start": 31166
     }
 ]

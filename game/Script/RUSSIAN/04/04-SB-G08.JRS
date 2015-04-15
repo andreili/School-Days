@@ -1,5 +1,9 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 16000
+    },
+    {
         "action": "PlayBgm",
         "end": 16000,
         "file": "BGM/SD_BGM/sdbgm29",
@@ -7,20 +11,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2283,
         "file": "Event04/04-SB/04-SB-G08/04-SB-G08-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1133,
         "persona": "Макото",
         "start": 0,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1133,
         "file": "Voice04/04-SB/04-SB-G08/04-SB-G08-0030",
         "layer": 1,
         "persona": "xxx",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2266,
         "persona": "Хикари",
         "start": 1133,
         "text": "Хватит с меня!^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2266,
         "file": "Voice04/04-SB/04-SB-G08/04-SB-G08-0040",
         "layer": 0,
         "persona": "hik",
@@ -43,14 +47,14 @@
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3200,
         "persona": "Макото",
         "start": 2266,
         "text": "Э?^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3200,
         "file": "Voice04/04-SB/04-SB-G08/04-SB-G08-0050",
         "layer": 1,
         "persona": "mak",
@@ -58,20 +62,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 11000,
+        "end": 11216,
         "file": "Event04/04-SB/04-SB-G07/04-SB-G07-001",
         "start": 2283
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5166,
         "persona": "Хикари",
         "start": 3200,
         "text": "Пошли в класс...^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5166,
         "file": "Voice04/04-SB/04-SB-G08/04-SB-G08-0060",
         "layer": 0,
         "persona": "hik",
@@ -94,14 +98,14 @@
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11216,
         "persona": "Хикари",
         "start": 8000,
         "text": "Ну а смысл тут дальше тусоваться, будто подглядываем...^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11216,
         "file": "Voice04/04-SB/04-SB-G08/04-SB-G08-0080",
         "layer": 0,
         "persona": "hik",
@@ -115,14 +119,14 @@
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12366,
         "persona": "Макото",
         "start": 11216,
         "text": "Может и так...^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12366,
         "file": "Voice04/04-SB/04-SB-G08/04-SB-G08-0090",
         "layer": 1,
         "persona": "mak",
@@ -130,14 +134,14 @@
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13316,
         "persona": "Хикари",
         "start": 12350,
         "text": "Пошли.^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13316,
         "file": "Voice04/04-SB/04-SB-G08/04-SB-G08-0100",
         "layer": 0,
         "persona": "hik",
@@ -145,17 +149,21 @@
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15216,
         "persona": "Макото",
         "start": 13316,
         "text": "Ага.^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15216,
         "file": "Voice04/04-SB/04-SB-G08/04-SB-G08-0110",
         "layer": 1,
         "persona": "mak",
         "start": 13316
+    },
+    {
+        "action": "Next",
+        "start": 16000
     }
 ]

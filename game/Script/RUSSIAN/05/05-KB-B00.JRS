@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 11050
+    },
+    {
         "action": "PlayBgm",
-        "end": 11000,
+        "end": 11050,
         "file": "BGM/SD_BGM/sdbgm21",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2283,
         "file": "Event05/05-KB/05-KB-B00/05-KB-B00-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2150,
         "persona": "Сэкаи",
         "start": 1300,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2150,
         "file": "Voice05/05-KB/05-KB-B00/05-KB-B00-0040",
         "layer": 0,
         "persona": "sek",
@@ -28,26 +32,26 @@
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6366,
         "file": "Event05/05-KB/05-KB-B00/05-KB-B00-002",
         "start": 2283
     },
     {
         "action": "CreateBG",
-        "end": 11000,
+        "end": 11050,
         "file": "Event05/05-KB/05-KB-B00/05-KB-B00-003",
         "start": 6366
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7316,
         "persona": "Сэкаи",
         "start": 7033,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7316,
         "file": "Voice05/05-KB/05-KB-B00/05-KB-B00-0070",
         "layer": 0,
         "persona": "xxx",
@@ -56,7 +60,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 11000,
+        "end": 11050,
         "start": 10050
+    },
+    {
+        "action": "Next",
+        "start": 11050
     }
 ]

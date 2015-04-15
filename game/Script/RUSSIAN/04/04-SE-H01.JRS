@@ -1,5 +1,9 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 10000
+    },
+    {
         "action": "PlayBgm",
         "end": 10000,
         "file": "BGM/SD_BGM/sdbgm21",
@@ -7,20 +11,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9383,
         "file": "Event04/04-SE/04-SE-H01/04-SE-H01-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2133,
         "persona": "Сэкаи",
         "start": 0,
         "text": "Като Отомэ...^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2133,
         "file": "Voice04/04-SE/04-SE-H01/04-SE-H01-0030",
         "layer": 0,
         "persona": "sek",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5150,
         "persona": "Макото",
         "start": 3016,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5150,
         "file": "Voice04/04-SE/04-SE-H01/04-SE-H01-0040",
         "layer": 1,
         "persona": "mak",
@@ -55,5 +59,9 @@
         "layer": 0,
         "persona": "xxx",
         "start": 6033
+    },
+    {
+        "action": "Next",
+        "start": 10000
     }
 ]

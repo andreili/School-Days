@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 25250
+    },
+    {
         "action": "PlayBgm",
-        "end": 25000,
+        "end": 25250,
         "file": "BGM/SD_BGM/sdbgm16",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 25000,
+        "end": 25250,
         "file": "Se03/03-KB/03-KB-I01/SE03-KB-I01-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1066,
         "file": "Event03/03-KB/03-KB-I01/03-KB-I01-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1033,
         "persona": "Таисукэ",
         "start": 66,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1033,
         "file": "Voice03/03-KB/03-KB-I01/03-KB-I01-0030",
         "layer": 1,
         "persona": "xxx",
@@ -35,20 +39,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 20000,
+        "end": 20366,
         "file": "Event03/03-KB/03-KB-I01/03-KB-I01-002",
         "start": 1066
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5216,
         "persona": "Макото",
         "start": 1066,
         "text": "Блин, что это с ним?^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5216,
         "file": "Voice03/03-KB/03-KB-I01/03-KB-I01-0050",
         "layer": 1,
         "persona": "mak",
@@ -56,14 +60,14 @@
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10050,
         "persona": "Макото",
         "start": 5216,
         "text": "Кроме него все на сегодня взяли отгул, а он просто испарился...^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10050,
         "file": "Voice03/03-KB/03-KB-I01/03-KB-I01-0060",
         "layer": 1,
         "persona": "mak",
@@ -71,14 +75,14 @@
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14316,
         "persona": "Макото",
         "start": 10050,
         "text": "Если он не вернётся, я так до конца дня и застряну на кухне...^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14316,
         "file": "Voice03/03-KB/03-KB-I01/03-KB-I01-0070",
         "layer": 1,
         "persona": "mak",
@@ -86,14 +90,14 @@
     },
     {
         "action": "PrintText",
-        "end": 20000,
+        "end": 20366,
         "persona": "Макото",
         "start": 14316,
         "text": "Впрочем, у меня всё равно нет особых планов на сегодня.^"
     },
     {
         "action": "PlayVoice",
-        "end": 20000,
+        "end": 20366,
         "file": "Voice03/03-KB/03-KB-I01/03-KB-I01-0080",
         "layer": 1,
         "persona": "mak",
@@ -101,8 +105,12 @@
     },
     {
         "action": "CreateBG",
-        "end": 25000,
+        "end": 25250,
         "file": "Event03/03-KB/03-KB-I01/03-KB-I01-003",
         "start": 20366
+    },
+    {
+        "action": "Next",
+        "start": 25250
     }
 ]

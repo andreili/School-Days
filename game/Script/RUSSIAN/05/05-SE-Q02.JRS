@@ -1,80 +1,84 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 45216
+    },
+    {
         "action": "PlaySe",
-        "end": 8000,
+        "end": 8200,
         "file": "Se05/05-KF/05-KF-I02/SE05-KF-I02-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 45000,
+        "end": 45216,
         "file": "SysSe/SE_all/station_train/gakuenmae_yuugata",
         "layer": 4,
         "start": 0
     },
     {
         "action": "PlayMovie",
-        "end": 8000,
+        "end": 8200,
         "file": "Movie05/05-SE/05-SE-Q02/05-SE-Q02-001",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 13000,
+        "end": 13166,
         "file": "SysSe/SE_all/footsteps/asioto_okugai",
         "layer": 3,
         "start": 8200
     },
     {
         "action": "PlayMovie",
-        "end": 13000,
+        "end": 13166,
         "file": "Movie05/05-SE/05-SE-Q02/05-SE-Q02-002",
         "start": 8200
     },
     {
         "action": "PlaySe",
-        "end": 18000,
+        "end": 18083,
         "file": "SysSe/SE_all/station_train/train_door_close",
         "layer": 2,
         "start": 13166
     },
     {
         "action": "CreateBG",
-        "end": 23000,
+        "end": 23250,
         "file": "Event05/05-SE/05-SE-Q00/05-SE-Q00-005",
         "start": 13166
     },
     {
         "action": "PlaySe",
-        "end": 43000,
+        "end": 43200,
         "file": "SysSe/SE_all/station_train/train_start",
         "layer": 1,
         "start": 17116
     },
     {
         "action": "PlayMovie",
-        "end": 40000,
+        "end": 40133,
         "file": "Movie05/05-SE/05-SE-Q02/05-SE-Q02-004",
         "start": 23250
     },
     {
         "action": "PlaySe",
-        "end": 39000,
+        "end": 39250,
         "file": "SysSe/SE_all/footsteps/asioto_okugai",
         "layer": 3,
         "start": 38116
     },
     {
         "action": "PrintText",
-        "end": 41000,
+        "end": 41383,
         "persona": "Сэкаи",
         "start": 38166,
         "text": "Макото! Заждался?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 41000,
+        "end": 41383,
         "file": "Voice05/05-SE/05-SE-Q02/05-SE-Q02-0060",
         "layer": 0,
         "persona": "sek",
@@ -82,7 +86,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 45000,
+        "end": 45216,
         "file": "Event05/05-SE/05-SE-Q02/05-SE-Q02-005",
         "start": 40133
     },
@@ -100,5 +104,9 @@
         "layer": 0,
         "persona": "sek",
         "start": 44016
+    },
+    {
+        "action": "Next",
+        "start": 45216
     }
 ]

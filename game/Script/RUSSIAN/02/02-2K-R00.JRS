@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 191283
+    },
+    {
         "action": "PlayBgm",
-        "end": 57000,
+        "end": 57083,
         "file": "BGM/SD_BGM/sdbgm07",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 71000,
+        "end": 71300,
         "file": "Se02/02-2K/02-2K-R00/SE02-2K-R00-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2266,
         "file": "Event02/02-2K/02-2K-R00/02-2K-R00-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2250,
         "persona": "Макото",
         "start": 0,
         "text": "Да, припозднились мы...^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2250,
         "file": "Voice02/02-2K/02-2K-R00/02-2K-R00-0050",
         "layer": 1,
         "persona": "mak",
@@ -35,20 +39,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5016,
         "file": "Event02/02-2K/02-2K-R00/02-2K-R00-002",
         "start": 2266
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5016,
         "persona": "Сэкаи",
         "start": 2266,
         "text": "А тебя мама не хватится?^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5016,
         "file": "Voice02/02-2K/02-2K-R00/02-2K-R00-0060",
         "layer": 0,
         "persona": "sek",
@@ -56,20 +60,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7200,
         "file": "Event02/02-2K/02-2K-R00/02-2K-R00-003",
         "start": 5016
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7183,
         "persona": "Макото",
         "start": 5016,
         "text": "К счастью, она сегодня тоже работает в ночную смену.^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7183,
         "file": "Voice02/02-2K/02-2K-R00/02-2K-R00-0070",
         "layer": 1,
         "persona": "mak",
@@ -77,20 +81,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12350,
         "file": "Event02/02-2K/02-2K-R00/02-2K-R00-004",
         "start": 7200
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12350,
         "persona": "Сэкаи",
         "start": 7200,
         "text": "Ух-ты! Ух-ты! Значит, мы могли и к тебе пойти?^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12350,
         "file": "Voice02/02-2K/02-2K-R00/02-2K-R00-0080",
         "layer": 0,
         "persona": "sek",
@@ -98,14 +102,14 @@
     },
     {
         "action": "PrintText",
-        "end": 22000,
+        "end": 22083,
         "persona": "Макото",
         "start": 12333,
         "text": "Наверное... Тогда был бы мой черёд говорить: «Я ничего такого не планировал!»^"
     },
     {
         "action": "PlayVoice",
-        "end": 22000,
+        "end": 22083,
         "file": "Voice02/02-2K/02-2K-R00/02-2K-R00-0090",
         "layer": 1,
         "persona": "mak",
@@ -113,26 +117,26 @@
     },
     {
         "action": "CreateBG",
-        "end": 22000,
+        "end": 22066,
         "file": "Event02/02-2K/02-2K-R00/02-2K-R00-003",
         "start": 12350
     },
     {
         "action": "PlaySe",
-        "end": 31000,
+        "end": 31083,
         "file": "SysSe/SE_all/station_train/train_stopping",
         "layer": 2,
         "start": 14216
     },
     {
         "action": "CreateBG",
-        "end": 23000,
+        "end": 23333,
         "file": "Event02/02-2K/02-2K-R00/02-2K-R00-006",
         "start": 22066
     },
     {
         "action": "PlayVoice",
-        "end": 23000,
+        "end": 23283,
         "file": "Voice02/02-2K/02-2K-R00/02-2K-R00-0100",
         "layer": 0,
         "persona": "sek",
@@ -140,20 +144,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 31000,
+        "end": 31083,
         "file": "Movie02/02-2K/02-2K-R00/02-2K-R00-007",
         "start": 23333
     },
     {
         "action": "PrintText",
-        "end": 24000,
+        "end": 24383,
         "persona": "Макото",
         "start": 24066,
         "text": "Ладно, я поехал.^"
     },
     {
         "action": "PlayVoice",
-        "end": 24000,
+        "end": 24383,
         "file": "Voice02/02-2K/02-2K-R00/02-2K-R00-0120",
         "layer": 1,
         "persona": "mak",
@@ -161,14 +165,14 @@
     },
     {
         "action": "PrintText",
-        "end": 27000,
+        "end": 27150,
         "persona": "Сэкаи",
         "start": 25200,
         "text": "Ага, бай-бай!^"
     },
     {
         "action": "PlayVoice",
-        "end": 27000,
+        "end": 27150,
         "file": "Voice02/02-2K/02-2K-R00/02-2K-R00-0130",
         "layer": 0,
         "persona": "sek",
@@ -176,14 +180,14 @@
     },
     {
         "action": "PrintText",
-        "end": 28000,
+        "end": 28183,
         "persona": "Макото",
         "start": 27233,
         "text": "Спокойной ночи.^"
     },
     {
         "action": "PlayVoice",
-        "end": 28000,
+        "end": 28183,
         "file": "Voice02/02-2K/02-2K-R00/02-2K-R00-0140",
         "layer": 1,
         "persona": "mak",
@@ -191,20 +195,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 35000,
+        "end": 35083,
         "file": "Event02/02-2K/02-2K-R00/02-2K-R00-008",
         "start": 31083
     },
     {
         "action": "PrintText",
-        "end": 32000,
+        "end": 32133,
         "persona": "Сэкаи",
         "start": 31166,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 32000,
+        "end": 32133,
         "file": "Voice02/02-2K/02-2K-R00/02-2K-R00-0150",
         "layer": 0,
         "persona": "sek",
@@ -212,14 +216,14 @@
     },
     {
         "action": "PrintText",
-        "end": 33000,
+        "end": 33183,
         "persona": "Макото",
         "start": 32200,
         "text": "Да?^"
     },
     {
         "action": "PlayVoice",
-        "end": 33000,
+        "end": 33183,
         "file": "Voice02/02-2K/02-2K-R00/02-2K-R00-0160",
         "layer": 1,
         "persona": "mak",
@@ -227,21 +231,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 35000,
+        "end": 35066,
         "file": "SysSe/SE_all/station_train/train_door_open",
         "layer": 3,
         "start": 33050
     },
     {
         "action": "PrintText",
-        "end": 34000,
+        "end": 34300,
         "persona": "Сэкаи",
         "start": 33283,
         "text": "Слушай...^"
     },
     {
         "action": "PlayVoice",
-        "end": 34000,
+        "end": 34300,
         "file": "Voice02/02-2K/02-2K-R00/02-2K-R00-0170",
         "layer": 0,
         "persona": "sek",
@@ -249,20 +253,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 38000,
+        "end": 38250,
         "file": "Event02/02-2K/02-2K-R00/02-2K-R00-009",
         "start": 35083
     },
     {
         "action": "PrintText",
-        "end": 38000,
+        "end": 38250,
         "persona": "Макото",
         "start": 35133,
         "text": "Что случилось? Поезд уже подошёл!^"
     },
     {
         "action": "PlayVoice",
-        "end": 38000,
+        "end": 38250,
         "file": "Voice02/02-2K/02-2K-R00/02-2K-R00-0180",
         "layer": 1,
         "persona": "mak",
@@ -270,20 +274,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 43000,
+        "end": 43200,
         "file": "Event02/02-2K/02-2K-R00/02-2K-R00-010",
         "start": 38250
     },
     {
         "action": "PrintText",
-        "end": 43000,
+        "end": 43316,
         "persona": "Сэкаи",
         "start": 38250,
         "text": "Я Кацуре ничего не скажу.^"
     },
     {
         "action": "PlayVoice",
-        "end": 43000,
+        "end": 43316,
         "file": "Voice02/02-2K/02-2K-R00/02-2K-R00-0200",
         "layer": 0,
         "persona": "sek",
@@ -291,27 +295,27 @@
     },
     {
         "action": "PlaySe",
-        "end": 45000,
+        "end": 45233,
         "file": "SysSe/SE_all/station_train/start_bell",
         "layer": 2,
         "start": 41083
     },
     {
         "action": "CreateBG",
-        "end": 44000,
+        "end": 44383,
         "file": "Event02/02-2K/02-2K-R00/02-2K-R00-011",
         "start": 43200
     },
     {
         "action": "PrintText",
-        "end": 44000,
+        "end": 44166,
         "persona": "Макото",
         "start": 43266,
         "text": "?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 44000,
+        "end": 44166,
         "file": "Voice02/02-2K/02-2K-R00/02-2K-R00-0210",
         "layer": 1,
         "persona": "mak",
@@ -319,20 +323,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 49000,
+        "end": 49066,
         "file": "Event02/02-2K/02-2K-R00/02-2K-R00-012",
         "start": 44383
     },
     {
         "action": "PrintText",
-        "end": 48000,
+        "end": 48250,
         "persona": "Сэкаи",
         "start": 44383,
         "text": "Так что на этом тренировка окончена! Спокойной ночи!^"
     },
     {
         "action": "PlayVoice",
-        "end": 48000,
+        "end": 48250,
         "file": "Voice02/02-2K/02-2K-R00/02-2K-R00-0220",
         "layer": 0,
         "persona": "sek",
@@ -340,7 +344,7 @@
     },
     {
         "action": "PlaySe",
-        "end": 66000,
+        "end": 66316,
         "file": "SysSe/SE_all/station_train/train_start",
         "layer": 2,
         "start": 48100
@@ -353,26 +357,30 @@
     },
     {
         "action": "EndBGM",
-        "end": 193000,
+        "end": 193133,
         "file": "BGM/Vocal/SDV05A",
         "start": 57000
     },
     {
         "action": "CreateBG",
-        "end": 74000,
+        "end": 74116,
         "file": "Event02/02-2K/02-2K-R00/02-2K-R00-015",
         "start": 68000
     },
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 74000,
+        "end": 74116,
         "start": 73116
     },
     {
         "action": "EndRoll",
-        "end": 191000,
+        "end": 191283,
         "file": "Movie02/ENDROLL/03-2",
         "start": 74116
+    },
+    {
+        "action": "Next",
+        "start": 192283
     }
 ]

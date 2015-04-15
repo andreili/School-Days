@@ -1,27 +1,31 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 71133
+    },
+    {
         "action": "PlaySe",
-        "end": 79000,
+        "end": 79333,
         "file": "SysSe/SE_all/gaya/kyousitu_rouka",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9333,
         "file": "Event05/05-KF/05-KF-G01/05-KF-G01-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1233,
         "persona": "Макото",
         "start": 0,
         "text": "Давай расстанемся.^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1233,
         "file": "Voice05/05-KF/05-KF-G01/05-KF-G01-0030",
         "layer": 1,
         "persona": "mak",
@@ -29,14 +33,14 @@
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2183,
         "persona": "Котоноха",
         "start": 1250,
         "text": "Э?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2183,
         "file": "Voice05/05-KF/05-KF-G01/05-KF-G01-0040",
         "layer": 0,
         "persona": "kot",
@@ -44,14 +48,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6250,
         "persona": "Макото",
         "start": 2183,
         "text": "У нас... Нет будущего.^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6250,
         "file": "Voice05/05-KF/05-KF-G01/05-KF-G01-0050",
         "layer": 1,
         "persona": "mak",
@@ -59,14 +63,14 @@
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13283,
         "persona": "Котоноха",
         "start": 6250,
         "text": "А... Я... Так сильно тебя разозлила?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13283,
         "file": "Voice05/05-KF/05-KF-G01/05-KF-G01-0060",
         "layer": 0,
         "persona": "kot",
@@ -74,20 +78,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 19000,
+        "end": 19333,
         "file": "Event05/05-KF/05-KF-G01/05-KF-G01-002",
         "start": 9333
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16200,
         "persona": "Макото",
         "start": 13300,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16200,
         "file": "Voice05/05-KF/05-KF-G01/05-KF-G01-0070",
         "layer": 1,
         "persona": "xxx",
@@ -95,14 +99,14 @@
     },
     {
         "action": "PrintText",
-        "end": 22000,
+        "end": 22266,
         "persona": "Котоноха",
         "start": 16200,
         "text": "Правда, я правда извиняюсь за сегодняшнее! Я больше никогда не предложу у меня в классе есть!^"
     },
     {
         "action": "PlayVoice",
-        "end": 22000,
+        "end": 22266,
         "file": "Voice05/05-KF/05-KF-G01/05-KF-G01-0080",
         "layer": 0,
         "persona": "kot",
@@ -110,20 +114,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 29000,
+        "end": 29333,
         "file": "Event05/05-KF/05-KF-G01/05-KF-G01-003",
         "start": 19333
     },
     {
         "action": "PrintText",
-        "end": 27000,
+        "end": 27350,
         "persona": "Котоноха",
         "start": 22266,
         "text": "Е-если... Если тебе не нравится со мной вместе обедать, я буду есть одна!.. И!..^"
     },
     {
         "action": "PlayVoice",
-        "end": 27000,
+        "end": 27350,
         "file": "Voice05/05-KF/05-KF-G01/05-KF-G01-0081",
         "layer": 0,
         "persona": "kot",
@@ -131,14 +135,14 @@
     },
     {
         "action": "PrintText",
-        "end": 32000,
+        "end": 32200,
         "persona": "Макото",
         "start": 27333,
         "text": "Котоноха, прости.^"
     },
     {
         "action": "PlayVoice",
-        "end": 32000,
+        "end": 32200,
         "file": "Voice05/05-KF/05-KF-G01/05-KF-G01-0090",
         "layer": 1,
         "persona": "mak",
@@ -146,20 +150,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 39000,
+        "end": 39333,
         "file": "Event05/05-KF/05-KF-G01/05-KF-G01-004",
         "start": 29333
     },
     {
         "action": "PrintText",
-        "end": 42000,
+        "end": 42316,
         "persona": "Котоноха",
         "start": 32183,
         "text": "Простить?.. Но... Я ничего не понимаю... Почему?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 42000,
+        "end": 42316,
         "file": "Voice05/05-KF/05-KF-G01/05-KF-G01-0100",
         "layer": 0,
         "persona": "kot",
@@ -167,20 +171,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 44000,
+        "end": 44333,
         "file": "Event05/05-SE/05-SE-G00/05-SE-G00-015",
         "start": 39333
     },
     {
         "action": "PrintText",
-        "end": 45000,
+        "end": 45016,
         "persona": "Макото",
         "start": 42316,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 45000,
+        "end": 45016,
         "file": "Voice05/05-KF/05-KF-G01/05-KF-G01-0110",
         "layer": 1,
         "persona": "xxx",
@@ -188,20 +192,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 54000,
+        "end": 54333,
         "file": "Event05/05-KF/05-KF-G01/05-KF-G01-006",
         "start": 44333
     },
     {
         "action": "PrintText",
-        "end": 51000,
+        "end": 51066,
         "persona": "Котоноха",
         "start": 45016,
         "text": "Может... Не только сегодня в обед?.. Ещё раньше... Я чем-то тебя задела?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 51000,
+        "end": 51066,
         "file": "Voice05/05-KF/05-KF-G01/05-KF-G01-0120",
         "layer": 0,
         "persona": "kot",
@@ -209,14 +213,14 @@
     },
     {
         "action": "PrintText",
-        "end": 58000,
+        "end": 58116,
         "persona": "Котоноха",
         "start": 51066,
         "text": "Но я исправлюсь! Я буду такой, какая тебе понравится!^"
     },
     {
         "action": "PlayVoice",
-        "end": 58000,
+        "end": 58116,
         "file": "Voice05/05-KF/05-KF-G01/05-KF-G01-0121",
         "layer": 0,
         "persona": "kot",
@@ -224,20 +228,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 59000,
+        "end": 59333,
         "file": "Event05/05-SE/05-SE-G00/05-SE-G00-017",
         "start": 54333
     },
     {
         "action": "PrintText",
-        "end": 61000,
+        "end": 61133,
         "persona": "Макото",
         "start": 58100,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 61000,
+        "end": 61133,
         "file": "Voice05/05-KF/05-KF-G01/05-KF-G01-0130",
         "layer": 1,
         "persona": "xxx",
@@ -245,20 +249,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 69000,
+        "end": 69333,
         "file": "Event05/05-KF/05-KF-G01/05-KF-G01-008",
         "start": 59333
     },
     {
         "action": "PrintText",
-        "end": 68000,
+        "end": 68133,
         "persona": "Котоноха",
         "start": 61133,
         "text": "Я... Я не хочу с тобой расставаться...^"
     },
     {
         "action": "PlayVoice",
-        "end": 68000,
+        "end": 68133,
         "file": "Voice05/05-KF/05-KF-G01/05-KF-G01-0140",
         "layer": 0,
         "persona": "kot",
@@ -266,14 +270,14 @@
     },
     {
         "action": "PrintText",
-        "end": 71000,
+        "end": 71133,
         "persona": "Макото",
         "start": 68133,
         "text": "Котоноха...^"
     },
     {
         "action": "PlayVoice",
-        "end": 71000,
+        "end": 71133,
         "file": "Voice05/05-KF/05-KF-G01/05-KF-G01-0160",
         "layer": 1,
         "persona": "mak",
@@ -281,7 +285,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 79000,
+        "end": 79333,
         "file": "Event05/05-KF/05-KF-G01/05-KF-G01-009",
         "start": 69333
     },
@@ -289,7 +293,11 @@
         "action": "SetSELECT",
         "answer1": "Я пошутил.",
         "answer2": "Пожалуйста, пойми!..",
-        "end": 76000,
+        "end": 76150,
         "start": 71133
+    },
+    {
+        "action": "Next",
+        "start": 79333
     }
 ]

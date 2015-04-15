@@ -1,7 +1,11 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 5133
+    },
+    {
         "action": "PlaySe",
-        "end": 5000,
+        "end": 5133,
         "file": "SysSe/SE_all/station_train/train_in",
         "layer": 1,
         "start": 0
@@ -14,20 +18,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 5000,
+        "end": 5133,
         "file": "Movie05/05-5O/05-5O-I00/05-5O-I00-002",
         "start": 3000
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3233,
         "persona": "Макото",
         "start": 3083,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3233,
         "file": "Voice05/05-5O/05-5O-I00/05-5O-I00-0040",
         "layer": 1,
         "persona": "xxx",
@@ -35,17 +39,21 @@
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5050,
         "persona": "Котоноха",
         "start": 3333,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5050,
         "file": "Voice05/05-5O/05-5O-I00/05-5O-I00-0050",
         "layer": 0,
         "persona": "xxx",
         "start": 3333
+    },
+    {
+        "action": "Next",
+        "start": 5133
     }
 ]

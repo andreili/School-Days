@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 9216
+    },
+    {
         "action": "PlayBgm",
-        "end": 9000,
+        "end": 9216,
         "file": "BGM/SD_BGM/sdbgm08",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1133,
         "file": "Event05/05-SD/05-SD-A02/05-SD-A02-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2016,
         "persona": "Макото",
         "start": 200,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2016,
         "file": "Voice05/05-SD/05-SD-A02/05-SD-A02-0040",
         "layer": 1,
         "persona": "xxx",
@@ -28,23 +32,27 @@
     },
     {
         "action": "PlayMovie",
-        "end": 9000,
+        "end": 9216,
         "file": "Movie05/05-SD/05-SD-A02/H5-SD-A02-002",
         "start": 1133
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8350,
         "persona": "Сэцуна",
         "start": 7183,
         "text": "Приступим.^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8350,
         "file": "Voice05/05-SD/05-SD-A02/05-SD-A02-0060",
         "layer": 0,
         "persona": "set",
         "start": 7183
+    },
+    {
+        "action": "Next",
+        "start": 9216
     }
 ]

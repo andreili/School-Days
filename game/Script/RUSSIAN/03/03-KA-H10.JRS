@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 9100
+    },
+    {
         "action": "PlayBgm",
-        "end": 9000,
+        "end": 9100,
         "file": "BGM/SD_BGM/sdbgm07",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 9000,
+        "end": 9100,
         "file": "Se03/03-KA/03-KA-H10/SE03-KA-H10-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1016,
         "file": "Event03/03-KA/03-KA-H10/03-KA-H10-001A",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 0,
+        "end": 366,
         "persona": "Макото",
         "start": 0,
         "text": "Да, пойдем...^"
     },
     {
         "action": "PlayVoice",
-        "end": 0,
+        "end": 366,
         "file": "Voice03/03-KA/03-KA-H10/03-KA-H10-0030",
         "layer": 1,
         "persona": "mak",
@@ -35,20 +39,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2016,
         "file": "Event03/03-KA/03-KA-H10/03-KA-H10-001B",
         "start": 1016
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1383,
         "persona": "Сэцуна",
         "start": 1050,
         "text": "Ито?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1383,
         "file": "Voice03/03-KA/03-KA-H10/03-KA-H10-0040",
         "layer": 0,
         "persona": "set",
@@ -56,20 +60,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5266,
         "file": "Event03/03-KA/03-KA-H10/03-KA-H10-001C",
         "start": 2016
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5216,
         "persona": "Макото",
         "start": 2066,
         "text": "Прости, потом расскажешь, ладно?^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5216,
         "file": "Voice03/03-KA/03-KA-H10/03-KA-H10-0050",
         "layer": 1,
         "persona": "mak",
@@ -77,20 +81,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9100,
         "file": "Event03/03-KA/03-KA-H10/03-KA-H10-002",
         "start": 5266
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7283,
         "persona": "Сэцуна",
         "start": 6300,
         "text": "Ито...^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7283,
         "file": "Voice03/03-KA/03-KA-H10/03-KA-H10-0060",
         "layer": 0,
         "persona": "set",
@@ -99,7 +103,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 9000,
+        "end": 9100,
         "start": 8100
+    },
+    {
+        "action": "Next",
+        "start": 9100
     }
 ]

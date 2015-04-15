@@ -1,20 +1,24 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 3033
+    },
+    {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1183,
         "file": "Event05/05-5O/05-5O-E01/05-5O-E01-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1066,
         "persona": "Макото",
         "start": 150,
         "text": "Да.^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1066,
         "file": "Voice05/05-5O/05-5O-E01/05-5O-E01-0030",
         "layer": 1,
         "persona": "mak",
@@ -22,23 +26,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3033,
         "file": "Event05/05-5O/05-5O-E01/05-5O-E01-002",
         "start": 1183
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2316,
         "persona": "Сэцуна",
         "start": 1266,
         "text": "Спасибо.^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2316,
         "file": "Voice05/05-5O/05-5O-E01/05-5O-E01-0040",
         "layer": 0,
         "persona": "set",
         "start": 1266
+    },
+    {
+        "action": "Next",
+        "start": 3033
     }
 ]

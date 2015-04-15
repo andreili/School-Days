@@ -1,20 +1,24 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 54383
+    },
+    {
         "action": "PlayBgm",
-        "end": 54000,
+        "end": 54383,
         "file": "BGM/SD_BGM/sdbgm16",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 54000,
+        "end": 54383,
         "file": "Se03/03-SB/03-SB-H04/SE03-SB-H04-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1266,
         "file": "Event03/03-SB/03-SB-H04/03-SB-H04-001",
         "start": 0
     },
@@ -35,14 +39,14 @@
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1250,
         "persona": "Котоноха",
         "start": 1000,
         "text": "Э?^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1250,
         "file": "Voice03/03-SB/03-SB-H04/03-SB-H04-0040",
         "layer": 0,
         "persona": "kot",
@@ -50,14 +54,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4300,
         "persona": "Макото",
         "start": 1250,
         "text": "Никуда не хочешь сходить?^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4300,
         "file": "Voice03/03-SB/03-SB-H04/03-SB-H04-0050",
         "layer": 1,
         "persona": "mak",
@@ -65,20 +69,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8016,
         "file": "Event03/03-SB/03-SB-H04/03-SB-H04-002",
         "start": 1266
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7183,
         "persona": "Котоноха",
         "start": 4300,
         "text": "Я?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7183,
         "file": "Voice03/03-SB/03-SB-H04/03-SB-H04-0060",
         "layer": 0,
         "persona": "kot",
@@ -86,14 +90,14 @@
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8033,
         "persona": "Макото",
         "start": 7183,
         "text": "Да.^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8033,
         "file": "Voice03/03-SB/03-SB-H04/03-SB-H04-0070",
         "layer": 1,
         "persona": "mak",
@@ -101,20 +105,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 13000,
+        "end": 13133,
         "file": "Event03/03-SB/03-SB-H04/03-SB-H04-003",
         "start": 8000
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13100,
         "persona": "Котоноха",
         "start": 8016,
         "text": "Ну, например... Вон туда!^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13100,
         "file": "Voice03/03-SB/03-SB-H04/03-SB-H04-0080",
         "layer": 0,
         "persona": "kot",
@@ -122,14 +126,14 @@
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15333,
         "persona": "Макото",
         "start": 13100,
         "text": "Сюда что ли?^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15333,
         "file": "Voice03/03-SB/03-SB-H04/03-SB-H04-0090",
         "layer": 1,
         "persona": "mak",
@@ -137,20 +141,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 19000,
+        "end": 19166,
         "file": "Event03/03-SB/03-SB-H04/03-SB-H04-004",
         "start": 13116
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16283,
         "persona": "Котоноха",
         "start": 15333,
         "text": "Ага.^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16283,
         "file": "Voice03/03-SB/03-SB-H04/03-SB-H04-0100",
         "layer": 0,
         "persona": "kot",
@@ -158,14 +162,14 @@
     },
     {
         "action": "PrintText",
-        "end": 19000,
+        "end": 19166,
         "persona": "Макото",
         "start": 16283,
         "text": "Гадания... Увлекаешься?^"
     },
     {
         "action": "PlayVoice",
-        "end": 19000,
+        "end": 19166,
         "file": "Voice03/03-SB/03-SB-H04/03-SB-H04-0110",
         "layer": 1,
         "persona": "mak",
@@ -173,20 +177,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 23000,
+        "end": 23250,
         "file": "Event03/03-SB/03-SB-H04/03-SB-H04-005",
         "start": 19166
     },
     {
         "action": "PrintText",
-        "end": 23000,
+        "end": 23266,
         "persona": "Котоноха",
         "start": 19166,
         "text": "Не то чтобы увлекаюсь... Просто нравится.^"
     },
     {
         "action": "PlayVoice",
-        "end": 23000,
+        "end": 23266,
         "file": "Voice03/03-SB/03-SB-H04/03-SB-H04-0120",
         "layer": 0,
         "persona": "kot",
@@ -194,20 +198,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 25000,
+        "end": 25250,
         "file": "Event03/03-SB/03-SB-H04/03-SB-H04-006",
         "start": 23250
     },
     {
         "action": "PrintText",
-        "end": 25000,
+        "end": 25250,
         "persona": "Макото",
         "start": 23266,
         "text": "На что обычно гадаешь?^"
     },
     {
         "action": "PlayVoice",
-        "end": 25000,
+        "end": 25250,
         "file": "Voice03/03-SB/03-SB-H04/03-SB-H04-0130",
         "layer": 1,
         "persona": "mak",
@@ -215,20 +219,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 36000,
+        "end": 36366,
         "file": "Event03/03-SB/03-SB-H04/03-SB-H04-006B",
         "start": 25250
     },
     {
         "action": "PrintText",
-        "end": 36000,
+        "end": 36100,
         "persona": "Котоноха",
         "start": 25250,
         "text": "Гадаю?.. Я обычно смотрю. «Некромантию» Гербера, «Сверхъестественное». Ничего особенного.^"
     },
     {
         "action": "PlayVoice",
-        "end": 36000,
+        "end": 36100,
         "file": "Voice03/03-SB/03-SB-H04/03-SB-H04-0140",
         "layer": 0,
         "persona": "kot",
@@ -236,14 +240,14 @@
     },
     {
         "action": "PrintText",
-        "end": 40000,
+        "end": 40333,
         "persona": "Макото",
         "start": 36100,
         "text": "Н-ничего не понял... Правда ничего особенного?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 40000,
+        "end": 40333,
         "file": "Voice03/03-SB/03-SB-H04/03-SB-H04-0150",
         "layer": 1,
         "persona": "mak",
@@ -251,20 +255,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 44000,
+        "end": 44300,
         "file": "Event03/03-SB/03-SB-H04/03-SB-H04-006C",
         "start": 36366
     },
     {
         "action": "PrintText",
-        "end": 44000,
+        "end": 44333,
         "persona": "Котоноха",
         "start": 40333,
         "text": "Обычно, девушки не гадают, им гадают.^"
     },
     {
         "action": "PlayVoice",
-        "end": 44000,
+        "end": 44333,
         "file": "Voice03/03-SB/03-SB-H04/03-SB-H04-0160",
         "layer": 0,
         "persona": "kot",
@@ -272,20 +276,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 49000,
+        "end": 49383,
         "file": "Event03/03-SB/03-SB-H04/03-SB-H04-007",
         "start": 44300
     },
     {
         "action": "PrintText",
-        "end": 53000,
+        "end": 53116,
         "persona": "Макото",
         "start": 44333,
         "text": "Ну, девушки любят гадать. Может, так оно и есть. Ну что, пойдём, заглянем?^"
     },
     {
         "action": "PlayVoice",
-        "end": 53000,
+        "end": 53116,
         "file": "Voice03/03-SB/03-SB-H04/03-SB-H04-0170",
         "layer": 1,
         "persona": "mak",
@@ -293,23 +297,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 54000,
+        "end": 54383,
         "file": "Event03/03-SB/03-SB-H04/03-SB-H04-008",
         "start": 49383
     },
     {
         "action": "PrintText",
-        "end": 54000,
+        "end": 54033,
         "persona": "Котоноха",
         "start": 53116,
         "text": "Да!^"
     },
     {
         "action": "PlayVoice",
-        "end": 54000,
+        "end": 54033,
         "file": "Voice03/03-SB/03-SB-H04/03-SB-H04-0180",
         "layer": 0,
         "persona": "kot",
         "start": 53116
+    },
+    {
+        "action": "Next",
+        "start": 54383
     }
 ]

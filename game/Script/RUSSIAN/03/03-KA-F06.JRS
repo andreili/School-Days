@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 20016
+    },
+    {
         "action": "PlayBgm",
-        "end": 20000,
+        "end": 20016,
         "file": "BGM/SD_BGM/sdbgm33",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9016,
         "file": "Event03/03-KA/03-KA-F02/03-KA-F02-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1016,
         "persona": "Макото",
         "start": 0,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1016,
         "file": "Voice03/03-KA/03-KA-F06/03-KA-F06-0030",
         "layer": 1,
         "persona": "xxx",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6133,
         "persona": "Макото",
         "start": 2016,
         "text": "Да и ладно. «Я хочу большего от наших отношений». И так сойдет.^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6133,
         "file": "Voice03/03-KA/03-KA-F06/03-KA-F06-0040",
         "layer": 1,
         "persona": "mak",
@@ -43,14 +47,14 @@
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8333,
         "persona": "Макото",
         "start": 7066,
         "text": "«Отправить»^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8333,
         "file": "Voice03/03-KA/03-KA-F06/03-KA-F06-0050",
         "layer": 1,
         "persona": "mak",
@@ -58,7 +62,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 20000,
+        "end": 20016,
         "file": "Event03/03-KA/03-KA-F06/03-KA-F06-003",
         "start": 9016
     },
@@ -79,14 +83,14 @@
     },
     {
         "action": "PrintText",
-        "end": 19000,
+        "end": 19033,
         "persona": "Макото",
         "start": 17316,
         "text": "Нужно выспаться...^"
     },
     {
         "action": "PlayVoice",
-        "end": 19000,
+        "end": 19033,
         "file": "Voice03/03-KA/03-KA-F06/03-KA-F06-0080",
         "layer": 1,
         "persona": "mak",
@@ -95,7 +99,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 20000,
+        "end": 20016,
         "start": 19016
+    },
+    {
+        "action": "Next",
+        "start": 20016
     }
 ]

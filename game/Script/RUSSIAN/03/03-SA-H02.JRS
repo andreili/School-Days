@@ -1,7 +1,11 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 7350
+    },
+    {
         "action": "PlaySe",
-        "end": 7000,
+        "end": 7350,
         "file": "Se03/03-SA/03-SA-H02/SE03-SA-H02-001",
         "layer": 1,
         "start": 0
@@ -14,14 +18,14 @@
     },
     {
         "action": "PrintText",
-        "end": 0,
+        "end": 383,
         "persona": "Макото",
         "start": 0,
         "text": "Хорошо.^"
     },
     {
         "action": "PlayVoice",
-        "end": 0,
+        "end": 383,
         "file": "Voice03/03-SA/03-SA-H02/03-SA-H02-0030",
         "layer": 1,
         "persona": "mak",
@@ -29,20 +33,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5100,
         "file": "Event03/03-SA/03-SA-H02/03-SA-H02-002",
         "start": 1000
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3116,
         "persona": "Сэкаи",
         "start": 1000,
         "text": "Спасибо!^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3116,
         "file": "Voice03/03-SA/03-SA-H02/03-SA-H02-0040",
         "layer": 0,
         "persona": "sek",
@@ -50,14 +54,14 @@
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5083,
         "persona": "Макото",
         "start": 3100,
         "text": "Ладно, до встречи.^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5083,
         "file": "Voice03/03-SA/03-SA-H02/03-SA-H02-0050",
         "layer": 1,
         "persona": "mak",
@@ -65,20 +69,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5333,
         "file": "Event03/03-SA/03-SA-H02/03-SA-H02-003",
         "start": 5100
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5350,
         "persona": "Сэкаи",
         "start": 5100,
         "text": "Ага.^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5350,
         "file": "Voice03/03-SA/03-SA-H02/03-SA-H02-0060",
         "layer": 0,
         "persona": "sek",
@@ -86,23 +90,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7350,
         "file": "Event03/03-SA/03-SA-H02/03-SA-H02-004",
         "start": 5333
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7283,
         "persona": "Макото",
         "start": 5350,
         "text": "Танцы...^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7283,
         "file": "Voice03/03-SA/03-SA-H02/03-SA-H02-0080",
         "layer": 1,
         "persona": "mak",
         "start": 5350
+    },
+    {
+        "action": "Next",
+        "start": 7350
     }
 ]

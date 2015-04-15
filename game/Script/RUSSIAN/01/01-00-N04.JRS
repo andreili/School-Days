@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 1333
+    },
+    {
         "action": "PlayBgm",
-        "end": 7000,
+        "end": 7333,
         "file": "BGM/SD_BGM/sdbgm07",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7333,
         "file": "Event01/01-00/01-00-N00/01-00-N00-002",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1250,
         "persona": "Макото",
         "start": 300,
         "text": "Я...^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1250,
         "file": "Voice01/01-00/01-00-N04/01-00-N04-0030",
         "layer": 1,
         "persona": "mak",
@@ -30,7 +34,11 @@
         "action": "SetSELECT",
         "answer1": "Позвоню Кацуре.^",
         "answer2": "Поговорю с ней завтра.^",
-        "end": 6000,
+        "end": 6333,
         "start": 1333
+    },
+    {
+        "action": "Next",
+        "start": 7333
     }
 ]

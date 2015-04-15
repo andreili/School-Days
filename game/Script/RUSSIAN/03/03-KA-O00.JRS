@@ -1,13 +1,17 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 14016
+    },
+    {
         "action": "PlayBgm",
-        "end": 14000,
+        "end": 14016,
         "file": "BGM/SD_BGM/sdbgm19",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 1000,
+        "end": 1050,
         "file": "Se03/03-KA/03-KA-O00/SE03-KA-O00-001",
         "layer": 1,
         "start": 0
@@ -20,7 +24,7 @@
     },
     {
         "action": "PlaySe",
-        "end": 2000,
+        "end": 2100,
         "file": "Se03/03-KA/03-KA-O00/SE03-KA-O00-001",
         "layer": 2,
         "start": 1050
@@ -34,27 +38,27 @@
     },
     {
         "action": "PlaySe",
-        "end": 11000,
+        "end": 11016,
         "file": "Se03/03-KA/03-KA-O00/SE03-KA-O00-002",
         "layer": 3,
         "start": 3000
     },
     {
         "action": "CreateBG",
-        "end": 11000,
+        "end": 11016,
         "file": "Event03/03-KA/03-KA-O00/03-KA-O00-002",
         "start": 3000
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5233,
         "persona": "Котоноха",
         "start": 3033,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5233,
         "file": "Voice03/03-KA/03-KA-O00/03-KA-O00-0040",
         "layer": 0,
         "persona": "xxx",
@@ -62,14 +66,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6200,
         "persona": "Макото",
         "start": 5100,
         "text": "Столько народа.^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6200,
         "file": "Voice03/03-KA/03-KA-O00/03-KA-O00-0050",
         "layer": 1,
         "persona": "mak",
@@ -77,14 +81,14 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9266,
         "persona": "Котоноха",
         "start": 6333,
         "text": "Ну конечно, ведь час пик.^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9266,
         "file": "Voice03/03-KA/03-KA-O00/03-KA-O00-0060",
         "layer": 0,
         "persona": "kot",
@@ -92,14 +96,14 @@
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10250,
         "persona": "Макото",
         "start": 9366,
         "text": "Угу.^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10250,
         "file": "Voice03/03-KA/03-KA-O00/03-KA-O00-0070",
         "layer": 1,
         "persona": "mak",
@@ -107,29 +111,33 @@
     },
     {
         "action": "PlaySe",
-        "end": 12000,
+        "end": 12066,
         "file": "Se03/03-KA/03-KA-O00/SE03-KA-O00-001",
         "layer": 1,
         "start": 11016
     },
     {
         "action": "PlayMovie",
-        "end": 14000,
+        "end": 14016,
         "file": "Movie03/03-KA/03-KA-O00/03-KA-O00-001",
         "start": 11016
     },
     {
         "action": "PlaySe",
-        "end": 13000,
+        "end": 13133,
         "file": "Se03/03-KA/03-KA-O00/SE03-KA-O00-001",
         "layer": 2,
         "start": 12083
     },
     {
         "action": "PlaySe",
-        "end": 14000,
+        "end": 14016,
         "file": "Se03/03-KA/03-KA-O00/SE03-KA-O00-001",
         "layer": 1,
         "start": 13150
+    },
+    {
+        "action": "Next",
+        "start": 14016
     }
 ]

@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 10133
+    },
+    {
         "action": "PlaySe",
-        "end": 10000,
+        "end": 10133,
         "file": "Se01/01-00/01-00-E00/SE01-00-E00-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2183,
         "file": "Event02/02-2K/02-2K-B01/02-2K-B01-001",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10133,
         "file": "Event02/02-2K/02-2K-B01/02-2K-B01-002",
         "start": 2183
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8183,
         "persona": "Котоноха",
         "start": 3383,
         "text": "Макото сегодня опаздывает...^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8183,
         "file": "Voice02/02-2K/02-2K-B01/02-2K-B01-0040",
         "layer": 0,
         "persona": "kot",
@@ -36,7 +40,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 10000,
+        "end": 10133,
         "start": 9133
+    },
+    {
+        "action": "Next",
+        "start": 10133
     }
 ]

@@ -1,27 +1,31 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 10200
+    },
+    {
         "action": "PlaySe",
-        "end": 10000,
+        "end": 10200,
         "file": "SysSe/SE_all/gaya/kyousitu_rouka",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1100,
         "file": "Event04/04-SC/04-SC-C02/04-SC-C02-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1133,
         "persona": "Макото",
         "start": 0,
         "text": "Не особо...^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1133,
         "file": "Voice04/04-SC/04-SC-C02/04-SC-C02-0030",
         "layer": 1,
         "persona": "mak",
@@ -29,20 +33,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8150,
         "file": "Event04/04-SC/04-SC-C02/04-SC-C02-002",
         "start": 1100
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4016,
         "persona": "Котоноха",
         "start": 1133,
         "text": "Но сидите-то рядом...^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4016,
         "file": "Voice04/04-SC/04-SC-C02/04-SC-C02-0040",
         "layer": 0,
         "persona": "kot",
@@ -50,14 +54,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6383,
         "persona": "Макото",
         "start": 4000,
         "text": "Ну так, я и не говорю, что мы не ладим.^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6383,
         "file": "Voice04/04-SC/04-SC-C02/04-SC-C02-0050",
         "layer": 1,
         "persona": "mak",
@@ -65,14 +69,14 @@
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8183,
         "persona": "Котоноха",
         "start": 6383,
         "text": "Понятно...^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8183,
         "file": "Voice04/04-SC/04-SC-C02/04-SC-C02-0060",
         "layer": 0,
         "persona": "kot",
@@ -80,20 +84,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9216,
         "file": "Event04/04-SC/04-SC-C02/04-SC-C02-003",
         "start": 8150
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9250,
         "persona": "Макото",
         "start": 8183,
         "text": "А что такое?^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9250,
         "file": "Voice04/04-SC/04-SC-C02/04-SC-C02-0070",
         "layer": 1,
         "persona": "mak",
@@ -101,23 +105,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10200,
         "file": "Event04/04-SC/04-SC-C02/04-SC-C02-004",
         "start": 9216
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10200,
         "persona": "Котоноха",
         "start": 9250,
         "text": "Ничего...^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10200,
         "file": "Voice04/04-SC/04-SC-C02/04-SC-C02-0080",
         "layer": 0,
         "persona": "kot",
         "start": 9250
+    },
+    {
+        "action": "Next",
+        "start": 10200
     }
 ]

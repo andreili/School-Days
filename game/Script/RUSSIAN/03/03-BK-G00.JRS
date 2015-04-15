@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 94216
+    },
+    {
         "action": "PlayBgm",
-        "end": 94000,
+        "end": 94216,
         "file": "BGM/SD_BGM/sdbgm13",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3100,
         "file": "Event03/03-BK/03-BK-G00/03-BK-G00-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1033,
         "persona": "Котоноха",
         "start": 0,
         "text": "Я дома.^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1033,
         "file": "Voice03/03-BK/03-BK-G00/03-BK-G00-0050",
         "layer": 0,
         "persona": "kot",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2133,
         "persona": "Манами",
         "start": 1033,
         "text": "О, привет!^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2133,
         "file": "Voice03/03-BK/03-BK-G00/03-BK-G00-0060",
         "layer": 0,
         "persona": "man",
@@ -43,14 +47,14 @@
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3100,
         "persona": "Котоноха",
         "start": 2133,
         "text": "Э?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3100,
         "file": "Voice03/03-BK/03-BK-G00/03-BK-G00-0070",
         "layer": 0,
         "persona": "kot",
@@ -58,20 +62,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12150,
         "file": "Event03/03-BK/03-BK-G00/03-BK-G00-002",
         "start": 3100
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5383,
         "persona": "Котоноха",
         "start": 3100,
         "text": "Мама! Ты вернулась?^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5383,
         "file": "Voice03/03-BK/03-BK-G00/03-BK-G00-0090",
         "layer": 0,
         "persona": "kot",
@@ -79,14 +83,14 @@
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12183,
         "persona": "Манами",
         "start": 5316,
         "text": "Да, прилетела сегодня утром. Решила взять выходной, чтобы от смены часовых поясов отдохнуть.^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12183,
         "file": "Voice03/03-BK/03-BK-G00/03-BK-G00-0100",
         "layer": 0,
         "persona": "man",
@@ -94,20 +98,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 16000,
+        "end": 16266,
         "file": "Event03/03-BK/03-BK-G00/03-BK-G00-003",
         "start": 12150
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14350,
         "persona": "Котоноха",
         "start": 12150,
         "text": "Ой как хорошо!^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14350,
         "file": "Voice03/03-BK/03-BK-G00/03-BK-G00-0110",
         "layer": 0,
         "persona": "kot",
@@ -115,14 +119,14 @@
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16333,
         "persona": "Манами",
         "start": 14166,
         "text": "Да? Что-то случилось?^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16333,
         "file": "Voice03/03-BK/03-BK-G00/03-BK-G00-0120",
         "layer": 0,
         "persona": "man",
@@ -130,7 +134,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 23000,
+        "end": 23366,
         "file": "Event03/03-BK/03-BK-G00/03-BK-G00-004",
         "start": 16266
     },
@@ -143,14 +147,14 @@
     },
     {
         "action": "PrintText",
-        "end": 22000,
+        "end": 22116,
         "persona": "Котоноха",
         "start": 19000,
         "text": "Помнишь, я его прошлым летом надевала, когда мы в Ницце были?^"
     },
     {
         "action": "PlayVoice",
-        "end": 22000,
+        "end": 22116,
         "file": "Voice03/03-BK/03-BK-G00/03-BK-G00-0130",
         "layer": 0,
         "persona": "kot",
@@ -158,14 +162,14 @@
     },
     {
         "action": "PrintText",
-        "end": 23000,
+        "end": 23116,
         "persona": "Манами",
         "start": 22066,
         "text": "Купальник?^"
     },
     {
         "action": "PlayVoice",
-        "end": 23000,
+        "end": 23116,
         "file": "Voice03/03-BK/03-BK-G00/03-BK-G00-0150",
         "layer": 0,
         "persona": "man",
@@ -173,14 +177,14 @@
     },
     {
         "action": "PrintText",
-        "end": 23000,
+        "end": 23350,
         "persona": "Котоноха",
         "start": 23066,
         "text": "Ага!^"
     },
     {
         "action": "PlayVoice",
-        "end": 23000,
+        "end": 23350,
         "file": "Voice03/03-BK/03-BK-G00/03-BK-G00-0160",
         "layer": 0,
         "persona": "kot",
@@ -188,20 +192,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 33000,
+        "end": 33200,
         "file": "Event03/03-BK/03-BK-G00/03-BK-G00-005",
         "start": 23366
     },
     {
         "action": "PrintText",
-        "end": 29000,
+        "end": 29200,
         "persona": "Манами",
         "start": 23383,
         "text": "Все купальники, что мы тогда купили, остались в летнем домике в Кастильончелло.^"
     },
     {
         "action": "PlayVoice",
-        "end": 29000,
+        "end": 29200,
         "file": "Voice03/03-BK/03-BK-G00/03-BK-G00-0170",
         "layer": 0,
         "persona": "man",
@@ -209,14 +213,14 @@
     },
     {
         "action": "PrintText",
-        "end": 30000,
+        "end": 30166,
         "persona": "Котоноха",
         "start": 29150,
         "text": "Ох...^"
     },
     {
         "action": "PlayVoice",
-        "end": 30000,
+        "end": 30166,
         "file": "Voice03/03-BK/03-BK-G00/03-BK-G00-0190",
         "layer": 0,
         "persona": "kot",
@@ -224,14 +228,14 @@
     },
     {
         "action": "PrintText",
-        "end": 33000,
+        "end": 33150,
         "persona": "Манами",
         "start": 30150,
         "text": "А что, тебе нужен купальник?^"
     },
     {
         "action": "PlayVoice",
-        "end": 33000,
+        "end": 33150,
         "file": "Voice03/03-BK/03-BK-G00/03-BK-G00-0200",
         "layer": 0,
         "persona": "man",
@@ -239,20 +243,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 37000,
+        "end": 37183,
         "file": "Event03/03-BK/03-BK-G00/03-BK-G00-006",
         "start": 33200
     },
     {
         "action": "PrintText",
-        "end": 37000,
+        "end": 37216,
         "persona": "Котоноха",
         "start": 33216,
         "text": "Да, я тут в аквапарк собралась...^"
     },
     {
         "action": "PlayVoice",
-        "end": 37000,
+        "end": 37216,
         "file": "Voice03/03-BK/03-BK-G00/03-BK-G00-0210",
         "layer": 0,
         "persona": "kot",
@@ -260,7 +264,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 38000,
+        "end": 38283,
         "file": "Event03/03-BK/03-BK-G00/03-BK-G00-005",
         "start": 37183
     },
@@ -281,20 +285,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 57000,
+        "end": 57283,
         "file": "Event03/03-BK/03-BK-G00/03-BK-G00-006",
         "start": 38283
     },
     {
         "action": "PrintText",
-        "end": 45000,
+        "end": 45300,
         "persona": "Котоноха",
         "start": 38283,
         "text": "Нет! С друзьями! Ну... Макото тоже идёт...^"
     },
     {
         "action": "PlayVoice",
-        "end": 45000,
+        "end": 45300,
         "file": "Voice03/03-BK/03-BK-G00/03-BK-G00-0230",
         "layer": 0,
         "persona": "kot",
@@ -302,14 +306,14 @@
     },
     {
         "action": "PrintText",
-        "end": 51000,
+        "end": 51283,
         "persona": "Манами",
         "start": 45150,
         "text": "А... Тогда тебе точно нужен купальник, от которого он взгляд не оторвёт.^"
     },
     {
         "action": "PlayVoice",
-        "end": 51000,
+        "end": 51283,
         "file": "Voice03/03-BK/03-BK-G00/03-BK-G00-0240",
         "layer": 0,
         "persona": "man",
@@ -317,14 +321,14 @@
     },
     {
         "action": "PrintText",
-        "end": 53000,
+        "end": 53316,
         "persona": "Котоноха",
         "start": 51233,
         "text": "Больше не буду ничего рассказывать...^"
     },
     {
         "action": "PlayVoice",
-        "end": 53000,
+        "end": 53316,
         "file": "Voice03/03-BK/03-BK-G00/03-BK-G00-0250",
         "layer": 0,
         "persona": "kot",
@@ -332,14 +336,14 @@
     },
     {
         "action": "PrintText",
-        "end": 57000,
+        "end": 57033,
         "persona": "Манами",
         "start": 53300,
         "text": "Загляни в бумажный пакет на столе.^"
     },
     {
         "action": "PlayVoice",
-        "end": 57000,
+        "end": 57033,
         "file": "Voice03/03-BK/03-BK-G00/03-BK-G00-0260",
         "layer": 0,
         "persona": "man",
@@ -347,14 +351,14 @@
     },
     {
         "action": "PrintText",
-        "end": 57000,
+        "end": 57233,
         "persona": "Котоноха",
         "start": 57016,
         "text": "Э?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 57000,
+        "end": 57233,
         "file": "Voice03/03-BK/03-BK-G00/03-BK-G00-0270",
         "layer": 0,
         "persona": "kot",
@@ -362,20 +366,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 64000,
+        "end": 64250,
         "file": "Event03/03-BK/03-BK-G00/03-BK-G00-009",
         "start": 57283
     },
     {
         "action": "PrintText",
-        "end": 64000,
+        "end": 64316,
         "persona": "Манами",
         "start": 57283,
         "text": "Забавное совпадение, как раз купила тебе новый купальник вместе с другими сувенирами.^"
     },
     {
         "action": "PlayVoice",
-        "end": 64000,
+        "end": 64316,
         "file": "Voice03/03-BK/03-BK-G00/03-BK-G00-0290",
         "layer": 0,
         "persona": "man",
@@ -383,20 +387,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 72000,
+        "end": 72066,
         "file": "Event03/03-BK/03-BK-G00/03-BK-G00-002",
         "start": 64250
     },
     {
         "action": "PrintText",
-        "end": 67000,
+        "end": 67100,
         "persona": "Котоноха",
         "start": 64250,
         "text": "Это же замечательно!^"
     },
     {
         "action": "PlayVoice",
-        "end": 67000,
+        "end": 67100,
         "file": "Voice03/03-BK/03-BK-G00/03-BK-G00-0300",
         "layer": 0,
         "persona": "kot",
@@ -404,14 +408,14 @@
     },
     {
         "action": "PrintText",
-        "end": 68000,
+        "end": 68133,
         "persona": "Манами",
         "start": 66033,
         "text": "Правда?^"
     },
     {
         "action": "PlayVoice",
-        "end": 68000,
+        "end": 68133,
         "file": "Voice03/03-BK/03-BK-G00/03-BK-G00-0310",
         "layer": 0,
         "persona": "man",
@@ -419,14 +423,14 @@
     },
     {
         "action": "PrintText",
-        "end": 72000,
+        "end": 72083,
         "persona": "Котоноха",
         "start": 68116,
         "text": "А как ты догадалась? Мы же только сегодня туда решили пойти!^"
     },
     {
         "action": "PlayVoice",
-        "end": 72000,
+        "end": 72083,
         "file": "Voice03/03-BK/03-BK-G00/03-BK-G00-0320",
         "layer": 0,
         "persona": "kot",
@@ -434,20 +438,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 81000,
+        "end": 81300,
         "file": "Event03/03-BK/03-BK-G00/03-BK-G00-003",
         "start": 72066
     },
     {
         "action": "PrintText",
-        "end": 78000,
+        "end": 78050,
         "persona": "Манами",
         "start": 72066,
         "text": "Ну, если честно, я их для Австралии купила, мы ведь на зимних каникулах собираемся туда поехать.^"
     },
     {
         "action": "PlayVoice",
-        "end": 78000,
+        "end": 78050,
         "file": "Voice03/03-BK/03-BK-G00/03-BK-G00-0330",
         "layer": 0,
         "persona": "man",
@@ -455,14 +459,14 @@
     },
     {
         "action": "PrintText",
-        "end": 81000,
+        "end": 81266,
         "persona": "Манами",
         "start": 78050,
         "text": "Поэтому я для Кокоро тоже взяла.^"
     },
     {
         "action": "PlayVoice",
-        "end": 81000,
+        "end": 81266,
         "file": "Voice03/03-BK/03-BK-G00/03-BK-G00-0331",
         "layer": 0,
         "persona": "man",
@@ -470,20 +474,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 94000,
+        "end": 94216,
         "file": "Event03/03-BK/03-BK-G00/03-BK-G00-004",
         "start": 81300
     },
     {
         "action": "PrintText",
-        "end": 86000,
+        "end": 86233,
         "persona": "Котоноха",
         "start": 81333,
         "text": "Понятно... Как мне повезло!^"
     },
     {
         "action": "PlayVoice",
-        "end": 86000,
+        "end": 86233,
         "file": "Voice03/03-BK/03-BK-G00/03-BK-G00-0340",
         "layer": 0,
         "persona": "kot",
@@ -491,14 +495,14 @@
     },
     {
         "action": "PrintText",
-        "end": 88000,
+        "end": 88333,
         "persona": "Манами",
         "start": 86266,
         "text": "Ну, кому нужно спасибо сказать?^"
     },
     {
         "action": "PlayVoice",
-        "end": 88000,
+        "end": 88333,
         "file": "Voice03/03-BK/03-BK-G00/03-BK-G00-0350",
         "layer": 0,
         "persona": "man",
@@ -506,14 +510,14 @@
     },
     {
         "action": "PrintText",
-        "end": 92000,
+        "end": 92233,
         "persona": "Котоноха",
         "start": 88266,
         "text": "Спасибо! Ты лучшая мамочка на свете!^"
     },
     {
         "action": "PlayVoice",
-        "end": 92000,
+        "end": 92233,
         "file": "Voice03/03-BK/03-BK-G00/03-BK-G00-0360",
         "layer": 0,
         "persona": "kot",
@@ -521,14 +525,14 @@
     },
     {
         "action": "PrintText",
-        "end": 93000,
+        "end": 93116,
         "persona": "Манами",
         "start": 92183,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 93000,
+        "end": 93116,
         "file": "Voice03/03-BK/03-BK-G00/03-BK-G00-0370",
         "layer": 0,
         "persona": "man",
@@ -537,7 +541,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 94000,
+        "end": 94216,
         "start": 93216
+    },
+    {
+        "action": "Next",
+        "start": 94216
     }
 ]

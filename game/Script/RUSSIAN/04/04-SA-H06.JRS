@@ -1,27 +1,31 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 11266
+    },
+    {
         "action": "PlaySe",
-        "end": 11000,
+        "end": 11266,
         "file": "SysSe/SE_all/gaya/kyousitu_rouka",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4016,
         "file": "Event04/04-SA/04-SA-H06/04-SA-H06-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4016,
         "persona": "Макото",
         "start": 66,
         "text": "Уф... Они ж нас убьют, если мы им помешаем...^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4016,
         "file": "Voice04/04-SA/04-SA-H06/04-SA-H06-0030",
         "layer": 1,
         "persona": "mak",
@@ -29,20 +33,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5283,
         "file": "Event04/04-SA/04-SA-H06/04-SA-H06-002",
         "start": 4016
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5283,
         "persona": "Сэкаи",
         "start": 4133,
         "text": "Вот.^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5283,
         "file": "Voice04/04-SA/04-SA-H06/04-SA-H06-0040",
         "layer": 0,
         "persona": "sek",
@@ -50,20 +54,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9283,
         "file": "Event04/04-SA/04-SA-H06/04-SA-H06-003",
         "start": 5283
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9250,
         "persona": "Макото",
         "start": 6000,
         "text": "Ну, что поделаешь, втроём пойдём. Как раньше.^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9250,
         "file": "Voice04/04-SA/04-SA-H06/04-SA-H06-0050",
         "layer": 1,
         "persona": "mak",
@@ -71,23 +75,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 11000,
+        "end": 11266,
         "file": "Event04/04-SA/04-SA-H06/04-SA-H06-004",
         "start": 9283
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11033,
         "persona": "Сэкаи",
         "start": 9366,
         "text": "И то верно.^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11033,
         "file": "Voice04/04-SA/04-SA-H06/04-SA-H06-0060",
         "layer": 0,
         "persona": "sek",
         "start": 9366
+    },
+    {
+        "action": "Next",
+        "start": 11266
     }
 ]

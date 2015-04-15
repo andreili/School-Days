@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 5083
+    },
+    {
         "action": "PlayBgm",
-        "end": 5000,
+        "end": 5083,
         "file": "BGM/SD_BGM/sdbgm07",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5083,
         "file": "Event00/00-00/00-00-F00/00-00-F00-004",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2016,
         "persona": "Макото",
         "start": 100,
         "text": "Может, её в Манга-кафе пригласить?^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2016,
         "file": "Voice00/00-00/00-00-H01/00-00-H01-0030",
         "layer": 1,
         "persona": "mak",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3266,
         "persona": "Сэкаи",
         "start": 2066,
         "text": "По-моему, так себе идея...^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3266,
         "file": "Voice00/00-00/00-00-H01/00-00-H01-0040",
         "layer": 0,
         "persona": "sek",
@@ -55,5 +59,9 @@
         "layer": 1,
         "persona": "mak",
         "start": 3283
+    },
+    {
+        "action": "Next",
+        "start": 5083
     }
 ]

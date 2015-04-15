@@ -1,14 +1,18 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 16033
+    },
+    {
         "action": "PlaySe",
-        "end": 16000,
+        "end": 16033,
         "file": "Se01/01-00/01-00-E00/SE01-00-E00-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 16000,
+        "end": 16033,
         "file": "SysSe/SE_all/school/chime",
         "layer": 2,
         "start": 0
@@ -21,20 +25,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 16000,
+        "end": 16033,
         "file": "Event02/02-2K/02-2K-B02/02-2K-B02-002",
         "start": 10000
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14016,
         "persona": "Котоноха",
         "start": 10233,
         "text": "Он так и не пришёл...^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14016,
         "file": "Voice02/02-2K/02-2K-B02/02-2K-B02-0040",
         "layer": 0,
         "persona": "kot",
@@ -43,7 +47,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 16000,
+        "end": 16033,
         "start": 15033
+    },
+    {
+        "action": "Next",
+        "start": 16033
     }
 ]

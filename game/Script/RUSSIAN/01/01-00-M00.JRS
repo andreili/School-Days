@@ -1,51 +1,55 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 18316
+    },
+    {
         "action": "PlayBgm",
-        "end": 24000,
+        "end": 24316,
         "file": "BGM/SD_BGM/sdbgm19",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 24000,
+        "end": 24316,
         "file": "Se01/01-00/01-00-L00/SE01-00-L00-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2100,
         "file": "Event01/01-00/01-00-M00/01-00-M00-001",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5050,
         "file": "Event01/01-00/01-00-M00/01-00-M00-002",
         "start": 2100
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8100,
         "file": "Event01/01-00/01-00-M00/01-00-M00-003",
         "start": 5050
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10033,
         "file": "Event01/01-00/01-00-M00/01-00-M00-004",
         "start": 8100
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10033,
         "persona": "Сэкаи",
         "start": 8100,
         "text": "Чего такой хмурый?^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10033,
         "file": "Voice01/01-00/01-00-M00/01-00-M00-0040",
         "layer": 0,
         "persona": "sek",
@@ -53,20 +57,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12333,
         "file": "Event01/01-00/01-00-M00/01-00-M00-005",
         "start": 10033
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12316,
         "persona": "Макото",
         "start": 10033,
         "text": "Да нет, всё в порядке.^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12316,
         "file": "Voice01/01-00/01-00-M00/01-00-M00-0050",
         "layer": 1,
         "persona": "mak",
@@ -74,20 +78,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 14000,
+        "end": 14366,
         "file": "Event01/01-00/01-00-M00/01-00-M00-006",
         "start": 12333
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14350,
         "persona": "Сэкаи",
         "start": 12333,
         "text": "У тебя довольно унылый вид.^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14350,
         "file": "Voice01/01-00/01-00-M00/01-00-M00-0060",
         "layer": 0,
         "persona": "sek",
@@ -95,20 +99,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 24000,
+        "end": 24316,
         "file": "Event01/01-00/01-00-M00/01-00-M00-007",
         "start": 14366
     },
     {
         "action": "PrintText",
-        "end": 18000,
+        "end": 18283,
         "persona": "Макото",
         "start": 14366,
         "text": "Знаешь...^"
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18283,
         "file": "Voice01/01-00/01-00-M00/01-00-M00-0070",
         "layer": 1,
         "persona": "mak",
@@ -118,7 +122,11 @@
         "action": "SetSELECT",
         "answer1": "Тебя это не касается!^",
         "answer2": "Да, есть немного.^",
-        "end": 23000,
+        "end": 23316,
         "start": 18316
+    },
+    {
+        "action": "Next",
+        "start": 24316
     }
 ]

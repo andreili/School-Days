@@ -1,5 +1,9 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 13000
+    },
+    {
         "action": "PlayBgm",
         "end": 13000,
         "file": "BGM/SD_BGM/sdbgm29",
@@ -14,20 +18,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4150,
         "file": "Event05/05-KF/05-KF-H02/05-KF-H02-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1350,
         "persona": "Сэкаи",
         "start": 0,
         "text": "А у тебя как прошло, Макото?^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1350,
         "file": "Voice05/05-KF/05-KF-H03/05-KF-H03-0030",
         "layer": 0,
         "persona": "sek",
@@ -35,14 +39,14 @@
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3250,
         "persona": "Макото",
         "start": 1350,
         "text": "У меня?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3250,
         "file": "Voice05/05-KF/05-KF-H03/05-KF-H03-0040",
         "layer": 1,
         "persona": "mak",
@@ -50,14 +54,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4133,
         "persona": "Сэкаи",
         "start": 3250,
         "text": "Угу.^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4133,
         "file": "Voice05/05-KF/05-KF-H03/05-KF-H03-0050",
         "layer": 0,
         "persona": "sek",
@@ -65,14 +69,14 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9133,
         "persona": "Макото",
         "start": 4133,
         "text": "Ну... Я ей сказал, да.^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9133,
         "file": "Voice05/05-KF/05-KF-H03/05-KF-H03-0060",
         "layer": 1,
         "persona": "mak",
@@ -93,14 +97,14 @@
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10183,
         "persona": "Сэкаи",
         "start": 9133,
         "text": "Сказал...^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10183,
         "file": "Voice05/05-KF/05-KF-H03/05-KF-H03-0070",
         "layer": 0,
         "persona": "sek",
@@ -108,17 +112,21 @@
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12183,
         "persona": "Макото",
         "start": 10183,
         "text": "Типа того.^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12183,
         "file": "Voice05/05-KF/05-KF-H03/05-KF-H03-0080",
         "layer": 1,
         "persona": "mak",
         "start": 10183
+    },
+    {
+        "action": "Next",
+        "start": 13000
     }
 ]

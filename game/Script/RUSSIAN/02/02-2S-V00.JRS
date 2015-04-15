@@ -1,5 +1,9 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 37000
+    },
+    {
         "action": "PlayBgm",
         "end": 37000,
         "file": "BGM/SD_BGM/sdbgm07",
@@ -14,32 +18,32 @@
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2350,
         "file": "Event02/02-2S/02-2S-V00/02-2S-V00-001",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5383,
         "file": "Event02/02-2S/02-2S-V00/02-2S-V00-002",
         "start": 2350
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8216,
         "file": "Event02/02-2S/02-2S-V00/02-2S-V00-003",
         "start": 5383
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6366,
         "persona": "Отомэ",
         "start": 6083,
         "text": "А...^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6366,
         "file": "Voice02/02-2S/02-2S-V00/02-2S-V00-0050",
         "layer": 0,
         "persona": "oto",
@@ -47,14 +51,14 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9333,
         "persona": "Макото",
         "start": 7083,
         "text": "Привет, Като. На тренировку собираешься?^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9333,
         "file": "Voice02/02-2S/02-2S-V00/02-2S-V00-0060",
         "layer": 1,
         "persona": "mak",
@@ -62,20 +66,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 15000,
+        "end": 15233,
         "file": "Event02/02-2S/02-2S-V00/02-2S-V00-004",
         "start": 8216
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11150,
         "persona": "Отомэ",
         "start": 9350,
         "text": "Угу...^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11150,
         "file": "Voice02/02-2S/02-2S-V00/02-2S-V00-0070",
         "layer": 0,
         "persona": "oto",
@@ -83,14 +87,14 @@
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13300,
         "persona": "Макото",
         "start": 11150,
         "text": "Что это с тобой? Ты чего такая хмурая?^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13300,
         "file": "Voice02/02-2S/02-2S-V00/02-2S-V00-0080",
         "layer": 1,
         "persona": "mak",
@@ -98,14 +102,14 @@
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15233,
         "persona": "Отомэ",
         "start": 13266,
         "text": "Нет, у меня всё нормально!^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15233,
         "file": "Voice02/02-2S/02-2S-V00/02-2S-V00-0090",
         "layer": 0,
         "persona": "oto",
@@ -113,20 +117,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 19000,
+        "end": 19333,
         "file": "Event02/02-2S/02-2S-V00/02-2S-V00-005",
         "start": 15233
     },
     {
         "action": "PrintText",
-        "end": 18000,
+        "end": 18050,
         "persona": "Макото",
         "start": 15250,
         "text": "Вот как? Ну ладно тогда. Пока.^"
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18050,
         "file": "Voice02/02-2S/02-2S-V00/02-2S-V00-0100",
         "layer": 1,
         "persona": "mak",
@@ -134,14 +138,14 @@
     },
     {
         "action": "PrintText",
-        "end": 19000,
+        "end": 19383,
         "persona": "Отомэ",
         "start": 18250,
         "text": "Ито...^"
     },
     {
         "action": "PlayVoice",
-        "end": 19000,
+        "end": 19383,
         "file": "Voice02/02-2S/02-2S-V00/02-2S-V00-0110",
         "layer": 0,
         "persona": "oto",
@@ -149,20 +153,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 23000,
+        "end": 23083,
         "file": "Event02/02-2S/02-2S-V00/02-2S-V00-006",
         "start": 19333
     },
     {
         "action": "PrintText",
-        "end": 21000,
+        "end": 21033,
         "persona": "Макото",
         "start": 19333,
         "text": "Что?^"
     },
     {
         "action": "PlayVoice",
-        "end": 21000,
+        "end": 21033,
         "file": "Voice02/02-2S/02-2S-V00/02-2S-V00-0120",
         "layer": 1,
         "persona": "mak",
@@ -170,14 +174,14 @@
     },
     {
         "action": "PrintText",
-        "end": 27000,
+        "end": 27183,
         "persona": "Отомэ",
         "start": 21133,
         "text": "Макото, послушай.... Ка... А нет, ничего.^"
     },
     {
         "action": "PlayVoice",
-        "end": 27000,
+        "end": 27183,
         "file": "Voice02/02-2S/02-2S-V00/02-2S-V00-0130",
         "layer": 0,
         "persona": "oto",
@@ -185,26 +189,26 @@
     },
     {
         "action": "CreateBG",
-        "end": 25000,
+        "end": 25016,
         "file": "Event02/02-2S/02-2S-V00/02-2S-V00-007",
         "start": 23083
     },
     {
         "action": "CreateBG",
-        "end": 33000,
+        "end": 33266,
         "file": "Event02/02-2S/02-2S-V00/02-2S-V00-008",
         "start": 25016
     },
     {
         "action": "PrintText",
-        "end": 32000,
+        "end": 32216,
         "persona": "Макото",
         "start": 27100,
         "text": "М? Ладно, удачи тебе на тренировке.^"
     },
     {
         "action": "PlayVoice",
-        "end": 32000,
+        "end": 32216,
         "file": "Voice02/02-2S/02-2S-V00/02-2S-V00-0140",
         "layer": 1,
         "persona": "mak",
@@ -212,14 +216,14 @@
     },
     {
         "action": "PrintText",
-        "end": 33000,
+        "end": 33150,
         "persona": "Отомэ",
         "start": 32250,
         "text": "Угу...^"
     },
     {
         "action": "PlayVoice",
-        "end": 33000,
+        "end": 33150,
         "file": "Voice02/02-2S/02-2S-V00/02-2S-V00-0150",
         "layer": 0,
         "persona": "oto",
@@ -237,5 +241,9 @@
         "end": 37000,
         "file": "Event02/02-2S/02-2S-V00/02-2S-V00-009",
         "start": 33266
+    },
+    {
+        "action": "Next",
+        "start": 37000
     }
 ]

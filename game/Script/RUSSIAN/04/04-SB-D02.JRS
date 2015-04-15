@@ -1,27 +1,31 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 12016
+    },
+    {
         "action": "PlaySe",
-        "end": 12000,
+        "end": 12016,
         "file": "SysSe/SE_all/station_train/train_in",
         "layer": 1,
         "start": 0
     },
     {
         "action": "PlayMovie",
-        "end": 12000,
+        "end": 12016,
         "file": "Movie04/04-SB/04-SB-D02/04-SB-D02-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1050,
         "persona": "Макото",
         "start": 50,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1050,
         "file": "Voice04/04-SB/04-SB-D02/04-SB-D02-0030",
         "layer": 1,
         "persona": "xxx",
@@ -45,7 +49,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 12000,
+        "end": 12016,
         "start": 11016
+    },
+    {
+        "action": "Next",
+        "start": 12016
     }
 ]

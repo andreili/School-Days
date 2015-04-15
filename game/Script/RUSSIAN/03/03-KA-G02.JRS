@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 16333
+    },
+    {
         "action": "PlayBgm",
-        "end": 16000,
+        "end": 16333,
         "file": "BGM/SD_BGM/sdbgm06",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 16000,
+        "end": 16333,
         "file": "Se03/03-KA/03-KA-G02/SE03-KA-G02-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2100,
         "file": "Event03/03-KA/03-KA-G02/03-KA-G02-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1350,
         "persona": "Макото",
         "start": 183,
         "text": "Ладно, ладно.^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1350,
         "file": "Voice03/03-KA/03-KA-G02/03-KA-G02-0030",
         "layer": 1,
         "persona": "mak",
@@ -35,25 +39,25 @@
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4283,
         "file": "Event03/03-KA/03-KA-G02/03-KA-G02-002",
         "start": 2100
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5383,
         "file": "Event03/03-KA/03-KA-G02/03-KA-G02-003",
         "start": 4283
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9366,
         "file": "Event03/03-KA/03-KA-G02/03-KA-G02-004",
         "start": 5383
     },
     {
         "action": "CreateBG",
-        "end": 14000,
+        "end": 14366,
         "file": "Event03/03-KA/03-KA-G02/03-KA-G02-006",
         "start": 9366
     },
@@ -74,20 +78,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 16000,
+        "end": 16333,
         "file": "Movie03/03-KA/03-KA-G02/03-KA-G02-006",
         "start": 14366
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15316,
         "persona": "Макото",
         "start": 15033,
         "text": "Да.^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15316,
         "file": "Voice03/03-KA/03-KA-G02/03-KA-G02-0080",
         "layer": 1,
         "persona": "mak",
@@ -96,7 +100,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 16000,
+        "end": 16333,
         "start": 15333
+    },
+    {
+        "action": "Next",
+        "start": 16333
     }
 ]

@@ -1,39 +1,43 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 15133
+    },
+    {
         "action": "PlayBgm",
-        "end": 15000,
+        "end": 15133,
         "file": "BGM/SD_BGM/sdbgm20",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2300,
         "file": "Event01/01-00/01-00-O00/01-00-O00-001",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 7000,
+        "end": 7250,
         "file": "SysSe/SE_all/footsteps/asioto_room",
         "layer": 1,
         "start": 2300
     },
     {
         "action": "PlayMovie",
-        "end": 7000,
+        "end": 7266,
         "file": "Movie01/01-00/01-00-O01/01-00-O01-002",
         "start": 2300
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7166,
         "persona": "Котоноха",
         "start": 6300,
         "text": "А?^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7166,
         "file": "Voice01/01-00/01-00-O01/01-00-O01-0050",
         "layer": 0,
         "persona": "kot",
@@ -41,13 +45,13 @@
     },
     {
         "action": "PlayMovie",
-        "end": 9000,
+        "end": 9333,
         "file": "Movie01/01-00/01-00-O01/01-00-O01-003",
         "start": 7266
     },
     {
         "action": "PlayMovie",
-        "end": 15000,
+        "end": 15133,
         "file": "Movie01/01-00/01-00-O01/01-00-O01-004",
         "start": 9333
     },
@@ -69,7 +73,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 15000,
+        "end": 15133,
         "start": 14133
+    },
+    {
+        "action": "Next",
+        "start": 15133
     }
 ]

@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 19233
+    },
+    {
         "action": "PlayBgm",
-        "end": 19000,
+        "end": 19233,
         "file": "BGM/SD_BGM/sdbgm29",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1133,
         "file": "Event04/04-SA/04-SA-O06/04-SA-O06-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1116,
         "persona": "Макото",
         "start": 0,
         "text": "Мы расстались.^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1116,
         "file": "Voice04/04-SA/04-SA-O06/04-SA-O06-0030",
         "layer": 1,
         "persona": "mak",
@@ -28,20 +32,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5350,
         "file": "Event04/04-SA/04-SA-O06/04-SA-O06-002",
         "start": 1133
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2066,
         "persona": "Сэкаи",
         "start": 1133,
         "text": "Не ври.^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2066,
         "file": "Voice04/04-SA/04-SA-O06/04-SA-O06-0040",
         "layer": 0,
         "persona": "sek",
@@ -49,14 +53,14 @@
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3266,
         "persona": "Макото",
         "start": 2066,
         "text": "А я и не вру!^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3266,
         "file": "Voice04/04-SA/04-SA-O06/04-SA-O06-0050",
         "layer": 1,
         "persona": "mak",
@@ -64,14 +68,14 @@
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5333,
         "persona": "Сэкаи",
         "start": 3266,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5333,
         "file": "Voice04/04-SA/04-SA-O06/04-SA-O06-0060",
         "layer": 0,
         "persona": "xxx",
@@ -79,14 +83,14 @@
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10016,
         "persona": "Макото",
         "start": 5333,
         "text": "Перед фестивалем ещё отношения испортились... Вот с тех пор.^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10016,
         "file": "Voice04/04-SA/04-SA-O06/04-SA-O06-0070",
         "layer": 1,
         "persona": "mak",
@@ -94,13 +98,13 @@
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10016,
         "file": "Event04/04-SA/04-SA-O06/04-SA-O06-003",
         "start": 5350
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12016,
         "file": "Event04/04-SA/04-SA-O06/04-SA-O06-004",
         "start": 10016
     },
@@ -121,14 +125,14 @@
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15133,
         "persona": "Макото",
         "start": 12000,
         "text": "Неудобно мне с ней...^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15133,
         "file": "Voice04/04-SA/04-SA-O06/04-SA-O06-0090",
         "layer": 1,
         "persona": "mak",
@@ -136,26 +140,26 @@
     },
     {
         "action": "CreateBG",
-        "end": 15000,
+        "end": 15183,
         "file": "Event04/04-SA/04-SA-O06/04-SA-O06-005",
         "start": 12016
     },
     {
         "action": "CreateBG",
-        "end": 16000,
+        "end": 16300,
         "file": "Event04/04-SA/04-SA-O06/04-SA-O06-005B",
         "start": 15183
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16133,
         "persona": "Сэкаи",
         "start": 15183,
         "text": "Ясно...^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16133,
         "file": "Voice04/04-SA/04-SA-O06/04-SA-O06-0100",
         "layer": 0,
         "persona": "sek",
@@ -163,14 +167,14 @@
     },
     {
         "action": "PrintText",
-        "end": 19000,
+        "end": 19233,
         "persona": "Макото",
         "start": 16283,
         "text": "Не могу я без тебя никак... Сэкаи.^"
     },
     {
         "action": "PlayVoice",
-        "end": 19000,
+        "end": 19233,
         "file": "Voice04/04-SA/04-SA-O06/04-SA-O06-0110",
         "layer": 1,
         "persona": "mak",
@@ -178,8 +182,12 @@
     },
     {
         "action": "CreateBG",
-        "end": 19000,
+        "end": 19233,
         "file": "Event04/04-SA/04-SA-O06/04-SA-O06-005",
         "start": 16300
+    },
+    {
+        "action": "Next",
+        "start": 19233
     }
 ]

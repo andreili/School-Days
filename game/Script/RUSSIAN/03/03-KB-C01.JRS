@@ -1,7 +1,11 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 10333
+    },
+    {
         "action": "PlaySe",
-        "end": 10000,
+        "end": 10333,
         "file": "Se03/03-KB/03-KB-C01/SE03-KB-C01-001",
         "layer": 1,
         "start": 0
@@ -14,14 +18,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4200,
         "persona": "Сэкаи",
         "start": 0,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4200,
         "file": "Voice03/03-KB/03-KB-C01/03-KB-C01-0050",
         "layer": 0,
         "persona": "sek",
@@ -29,20 +33,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10333,
         "file": "Event03/03-KB/03-KB-C01/03-KB-C01-002",
         "start": 4000
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6183,
         "persona": "Сэкаи",
         "start": 4283,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6183,
         "file": "Voice03/03-KB/03-KB-C01/03-KB-C01-0060",
         "layer": 0,
         "persona": "xxx",
@@ -50,17 +54,21 @@
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10233,
         "persona": "Сэкаи",
         "start": 7116,
         "text": "Мне тебя нельзя пригласить?^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10233,
         "file": "Voice03/03-KB/03-KB-C01/03-KB-C01-0070",
         "layer": 0,
         "persona": "sek",
         "start": 7116
+    },
+    {
+        "action": "Next",
+        "start": 10333
     }
 ]

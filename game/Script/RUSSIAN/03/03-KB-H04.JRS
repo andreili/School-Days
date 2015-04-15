@@ -1,7 +1,11 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 139066
+    },
+    {
         "action": "PlayBgm",
-        "end": 7000,
+        "end": 7016,
         "file": "BGM/SD_BGM/sdbgm18",
         "start": 0
     },
@@ -13,7 +17,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3016,
         "file": "Event03/03-KB/03-KB-H04/03-KB-H04-002",
         "start": 2000
     },
@@ -34,20 +38,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 6000,
+        "end": 6050,
         "file": "Movie03/03-KB/03-KB-H04/03-KB-H04-003",
         "start": 3016
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4366,
         "persona": "Макото",
         "start": 3266,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4366,
         "file": "Voice03/03-KB/03-KB-H04/03-KB-H04-0070",
         "layer": 1,
         "persona": "xxx",
@@ -55,38 +59,42 @@
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7166,
         "file": "Event03/03-KB/03-KB-H04/03-KB-H04-004",
         "start": 6050
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9150,
         "file": "Event03/03-KB/03-KB-H04/03-KB-H04-005A",
         "start": 7166
     },
     {
         "action": "EndBGM",
-        "end": 139000,
+        "end": 139050,
         "file": "BGM/Vocal/SDV17",
         "start": 7166
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10250,
         "file": "Event03/03-KB/03-KB-H04/03-KB-H04-005B",
         "start": 9150
     },
     {
         "action": "PlayMovie",
-        "end": 12000,
+        "end": 12083,
         "file": "Movie03/03-KB/03-KB-H04/03-KB-H04-006",
         "start": 10250
     },
     {
         "action": "EndRoll",
-        "end": 139000,
+        "end": 139066,
         "file": "Movie03/ENDROLL/04-8",
         "start": 12083
+    },
+    {
+        "action": "Next",
+        "start": 140066
     }
 ]

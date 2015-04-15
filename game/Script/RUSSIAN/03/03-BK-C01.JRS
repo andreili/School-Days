@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 21083
+    },
+    {
         "action": "PlayBgm",
-        "end": 21000,
+        "end": 21083,
         "file": "BGM/SD_BGM/sdbgm25",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 5000,
+        "end": 5133,
         "file": "Se03/03-BK/03-BK-C01/SE03-BK-C01-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7200,
         "file": "Event03/03-BK/03-BK-C01/03-BK-C01-001",
         "start": 0
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7183,
         "file": "Voice03/03-BK/03-BK-C01/03-BK-C01-0030",
         "layer": -1,
         "persona": "",
@@ -28,21 +32,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 7000,
+        "end": 7200,
         "file": "Se03/03-BK/03-BK-C01/SE03-BK-C01-001",
         "layer": 2,
         "start": 5133
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13083,
         "persona": "Макото",
         "start": 7183,
         "text": "Теперь... Я знаю...^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13083,
         "file": "Voice03/03-BK/03-BK-C01/03-BK-C01-0040",
         "layer": 1,
         "persona": "mak",
@@ -50,20 +54,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 21000,
+        "end": 21083,
         "file": "Event03/03-BK/03-BK-C01/03-BK-C01-002",
         "start": 7200
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17066,
         "persona": "Макото",
         "start": 13083,
         "text": "Кто мне действительно дорог...^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17066,
         "file": "Voice03/03-BK/03-BK-C01/03-BK-C01-0050",
         "layer": 1,
         "persona": "mak",
@@ -71,14 +75,14 @@
     },
     {
         "action": "PrintText",
-        "end": 20000,
+        "end": 20050,
         "persona": "Макото",
         "start": 17066,
         "text": "Кого я по-настоящему люблю...^"
     },
     {
         "action": "PlayVoice",
-        "end": 20000,
+        "end": 20050,
         "file": "Voice03/03-BK/03-BK-C01/03-BK-C01-0060",
         "layer": 1,
         "persona": "mak",
@@ -87,7 +91,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 21000,
+        "end": 21083,
         "start": 20083
+    },
+    {
+        "action": "Next",
+        "start": 21083
     }
 ]

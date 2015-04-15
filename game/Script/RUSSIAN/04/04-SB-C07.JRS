@@ -1,5 +1,9 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 105300
+    },
+    {
         "action": "PlaySe",
         "end": 100000,
         "file": "SysSe/SE_all/station_train/gakuenmae_yuugata",
@@ -8,20 +12,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 11000,
+        "end": 11250,
         "file": "Event04/04-SB/04-SB-C01/04-SB-C01-006",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10333,
         "persona": "Котоноха",
         "start": 0,
         "text": "В моём классе... Ошибочно посчитали, что я с ним встречаюсь... И вместо того, чтобы это опровергнуть... Он предложил мне поговорить...^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10333,
         "file": "Voice04/04-SB/04-SB-C07/04-SB-C07-0030",
         "layer": 0,
         "persona": "kot",
@@ -29,14 +33,14 @@
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11266,
         "persona": "Макото",
         "start": 10350,
         "text": "Ага...^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11266,
         "file": "Voice04/04-SB/04-SB-C07/04-SB-C07-0040",
         "layer": 1,
         "persona": "mak",
@@ -44,20 +48,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 40000,
+        "end": 40283,
         "file": "Event04/04-SB/04-SB-C07/04-SB-C07-002",
         "start": 11250
     },
     {
         "action": "PrintText",
-        "end": 22000,
+        "end": 22150,
         "persona": "Котоноха",
         "start": 11266,
         "text": "Сказал, что вы с Саиёндзи встречаетесь... Чтобы я забыла тебя, и ушла к нему... Насильно...^"
     },
     {
         "action": "PlayVoice",
-        "end": 22000,
+        "end": 22150,
         "file": "Voice04/04-SB/04-SB-C07/04-SB-C07-0050",
         "layer": 0,
         "persona": "kot",
@@ -65,14 +69,14 @@
     },
     {
         "action": "PrintText",
-        "end": 23000,
+        "end": 23266,
         "persona": "Макото",
         "start": 22150,
         "text": "Но...^"
     },
     {
         "action": "PlayVoice",
-        "end": 23000,
+        "end": 23266,
         "file": "Voice04/04-SB/04-SB-C07/04-SB-C07-0060",
         "layer": 1,
         "persona": "mak",
@@ -80,14 +84,14 @@
     },
     {
         "action": "PrintText",
-        "end": 30000,
+        "end": 30316,
         "persona": "Котоноха",
         "start": 23283,
         "text": "Но... Я думала, что ты её на самом деле не любишь...^"
     },
     {
         "action": "PlayVoice",
-        "end": 30000,
+        "end": 30316,
         "file": "Voice04/04-SB/04-SB-C07/04-SB-C07-0070",
         "layer": 0,
         "persona": "kot",
@@ -95,14 +99,14 @@
     },
     {
         "action": "PrintText",
-        "end": 40000,
+        "end": 40316,
         "persona": "Котоноха",
         "start": 30316,
         "text": "Но я сама... Отдавшаяся другому... Запятнанная... Не имею никакого на тебя права...^"
     },
     {
         "action": "PlayVoice",
-        "end": 40000,
+        "end": 40316,
         "file": "Voice04/04-SB/04-SB-C07/04-SB-C07-0071",
         "layer": 0,
         "persona": "kot",
@@ -110,20 +114,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 48000,
+        "end": 48016,
         "file": "Event04/04-SB/04-SB-C07/04-SB-C07-003",
         "start": 40283
     },
     {
         "action": "PrintText",
-        "end": 42000,
+        "end": 42116,
         "persona": "Макото",
         "start": 40333,
         "text": "Вовсе...^"
     },
     {
         "action": "PlayVoice",
-        "end": 42000,
+        "end": 42116,
         "file": "Voice04/04-SB/04-SB-C07/04-SB-C07-0080",
         "layer": 1,
         "persona": "mak",
@@ -131,14 +135,14 @@
     },
     {
         "action": "PrintText",
-        "end": 43000,
+        "end": 43183,
         "persona": "Котоноха",
         "start": 42116,
         "text": "Нет?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 43000,
+        "end": 43183,
         "file": "Voice04/04-SB/04-SB-C07/04-SB-C07-0090",
         "layer": 0,
         "persona": "kot",
@@ -146,14 +150,14 @@
     },
     {
         "action": "PrintText",
-        "end": 45000,
+        "end": 45066,
         "persona": "Макото",
         "start": 43200,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 45000,
+        "end": 45066,
         "file": "Voice04/04-SB/04-SB-C07/04-SB-C07-0100",
         "layer": 1,
         "persona": "mak",
@@ -161,14 +165,14 @@
     },
     {
         "action": "PrintText",
-        "end": 50000,
+        "end": 50366,
         "persona": "Котоноха",
         "start": 45066,
         "text": "Ты расстанешься с Саиёндзи?.. Примешь меня?^"
     },
     {
         "action": "PlayVoice",
-        "end": 50000,
+        "end": 50366,
         "file": "Voice04/04-SB/04-SB-C07/04-SB-C07-0110",
         "layer": 0,
         "persona": "kot",
@@ -182,14 +186,14 @@
     },
     {
         "action": "PrintText",
-        "end": 52000,
+        "end": 52116,
         "persona": "Макото",
         "start": 50383,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 52000,
+        "end": 52116,
         "file": "Voice04/04-SB/04-SB-C07/04-SB-C07-0120",
         "layer": 1,
         "persona": "xxx",
@@ -197,14 +201,14 @@
     },
     {
         "action": "PrintText",
-        "end": 58000,
+        "end": 58383,
         "persona": "Котоноха",
         "start": 52133,
         "text": "Не можешь, да?.. Понимаю... Да...^"
     },
     {
         "action": "PlayVoice",
-        "end": 58000,
+        "end": 58383,
         "file": "Voice04/04-SB/04-SB-C07/04-SB-C07-0130",
         "layer": 0,
         "persona": "kot",
@@ -212,20 +216,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 60000,
+        "end": 60033,
         "file": "Event04/04-SB/04-SB-C07/04-SB-C07-005",
         "start": 59000
     },
     {
         "action": "PrintText",
-        "end": 60000,
+        "end": 60050,
         "persona": "Макото",
         "start": 59000,
         "text": "Но всё равно!..^"
     },
     {
         "action": "PlayVoice",
-        "end": 60000,
+        "end": 60050,
         "file": "Voice04/04-SB/04-SB-C07/04-SB-C07-0140",
         "layer": 1,
         "persona": "mak",
@@ -233,20 +237,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 75000,
+        "end": 75166,
         "file": "Event04/04-SB/04-SB-C07/04-SB-C07-006",
         "start": 60033
     },
     {
         "action": "PrintText",
-        "end": 66000,
+        "end": 66266,
         "persona": "Котоноха",
         "start": 60033,
         "text": "Потому... Мне больше ничего и не остаётся, как сделать так, как сказал Саванага.^"
     },
     {
         "action": "PlayVoice",
-        "end": 66000,
+        "end": 66266,
         "file": "Voice04/04-SB/04-SB-C07/04-SB-C07-0150",
         "layer": 0,
         "persona": "kot",
@@ -254,14 +258,14 @@
     },
     {
         "action": "PrintText",
-        "end": 67000,
+        "end": 67216,
         "persona": "Макото",
         "start": 66283,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 67000,
+        "end": 67216,
         "file": "Voice04/04-SB/04-SB-C07/04-SB-C07-0160",
         "layer": 1,
         "persona": "xxx",
@@ -269,14 +273,14 @@
     },
     {
         "action": "PrintText",
-        "end": 75000,
+        "end": 75200,
         "persona": "Котоноха",
         "start": 67216,
         "text": "У него на уме одни лишь пошлости!.. И мне это всё так противно!..^"
     },
     {
         "action": "PlayVoice",
-        "end": 75000,
+        "end": 75200,
         "file": "Voice04/04-SB/04-SB-C07/04-SB-C07-0170",
         "layer": 0,
         "persona": "kot",
@@ -284,20 +288,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 76000,
+        "end": 76216,
         "file": "Event04/04-SB/04-SB-C07/04-SB-C07-007",
         "start": 75166
     },
     {
         "action": "PrintText",
-        "end": 76000,
+        "end": 76216,
         "persona": "Макото",
         "start": 75233,
         "text": "Ну тогда!..^"
     },
     {
         "action": "PlayVoice",
-        "end": 76000,
+        "end": 76216,
         "file": "Voice04/04-SB/04-SB-C07/04-SB-C07-0180",
         "layer": 1,
         "persona": "mak",
@@ -305,20 +309,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 98000,
+        "end": 98316,
         "file": "Event04/04-SB/04-SB-C07/04-SB-C07-008",
         "start": 76216
     },
     {
         "action": "PrintText",
-        "end": 98000,
+        "end": 98166,
         "persona": "Котоноха",
         "start": 76216,
         "text": "Но!.. Он говорит, что любит!.. Что я нужна ему!.. Он желает меня!.. Называет своей!.. И я!..^"
     },
     {
         "action": "PlayVoice",
-        "end": 98000,
+        "end": 98166,
         "file": "Voice04/04-SB/04-SB-C07/04-SB-C07-0190",
         "layer": 0,
         "persona": "kot",
@@ -326,15 +330,19 @@
     },
     {
         "action": "PlaySe",
-        "end": 105000,
+        "end": 105300,
         "file": "SysSe/SE_all/station_train/train_start",
         "layer": 2,
         "start": 98316
     },
     {
         "action": "CreateBG",
-        "end": 105000,
+        "end": 105300,
         "file": "Event04/04-SB/04-SB-C03/04-SB-C03-007",
         "start": 98316
+    },
+    {
+        "action": "Next",
+        "start": 105300
     }
 ]

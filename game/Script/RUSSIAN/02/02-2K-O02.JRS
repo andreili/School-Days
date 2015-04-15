@@ -1,27 +1,31 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 19316
+    },
+    {
         "action": "PlaySe",
-        "end": 19000,
+        "end": 19316,
         "file": "SysSe/SE_all/gaya/kyousitu_rouka",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9083,
         "file": "Event02/02-2K/02-2K-O02/02-2K-O02-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1316,
         "persona": "Макото",
         "start": 0,
         "text": " Нет, это будет неправильно.^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1316,
         "file": "Voice02/02-2K/02-2K-O02/02-2K-O02-0030",
         "layer": 1,
         "persona": "mak",
@@ -29,14 +33,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4050,
         "persona": "Сэкаи",
         "start": 1316,
         "text": "Наверное, ты прав...^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4050,
         "file": "Voice02/02-2K/02-2K-O02/02-2K-O02-0040",
         "layer": 0,
         "persona": "sek",
@@ -44,14 +48,14 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9083,
         "persona": "Макото",
         "start": 4066,
         "text": "Сэкаи, не то чтобы ты мне не нравилась... Но я люблю Котоноху...^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9083,
         "file": "Voice02/02-2K/02-2K-O02/02-2K-O02-0050",
         "layer": 1,
         "persona": "mak",
@@ -59,20 +63,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 19000,
+        "end": 19316,
         "file": "Event02/02-2K/02-2K-O00/02-2K-O00-003",
         "start": 9083
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17050,
         "persona": "Сэкаи",
         "start": 9083,
         "text": "Я просто подумала, что это хорошая идея. Извини, забудь об этом разговоре.^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17050,
         "file": "Voice02/02-2K/02-2K-O02/02-2K-O02-0060",
         "layer": 0,
         "persona": "sek",
@@ -80,17 +84,21 @@
     },
     {
         "action": "PrintText",
-        "end": 19000,
+        "end": 19100,
         "persona": "Макото",
         "start": 17050,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 19000,
+        "end": 19100,
         "file": "Voice02/02-2K/02-2K-O02/02-2K-O02-0070",
         "layer": 1,
         "persona": "mak",
         "start": 17050
+    },
+    {
+        "action": "Next",
+        "start": 19316
     }
 ]

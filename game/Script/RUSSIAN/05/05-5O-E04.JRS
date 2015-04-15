@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 8366
+    },
+    {
         "action": "PlayBgm",
-        "end": 14000,
+        "end": 14366,
         "file": "BGM/SD_BGM/sdbgm20",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5350,
         "file": "Event05/05-5O/05-5O-E04/05-5O-E04-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1116,
         "persona": "Макото",
         "start": 166,
         "text": "Нет!^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1116,
         "file": "Voice05/05-5O/05-5O-E04/05-5O-E04-0030",
         "layer": 1,
         "persona": "mak",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4050,
         "persona": "Сэцуна",
         "start": 1216,
         "text": "Ты её не любишь?^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4050,
         "file": "Voice05/05-5O/05-5O-E04/05-5O-E04-0040",
         "layer": 0,
         "persona": "set",
@@ -43,14 +47,14 @@
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5366,
         "persona": "Макото",
         "start": 4100,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5366,
         "file": "Voice05/05-5O/05-5O-E04/05-5O-E04-0050",
         "layer": 1,
         "persona": "mak",
@@ -58,20 +62,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8366,
         "file": "Event05/05-5O/05-5O-E04/05-5O-E04-002",
         "start": 5350
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8300,
         "persona": "Сэцуна",
         "start": 6050,
         "text": "Если так, то можешь не приходить.^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8300,
         "file": "Voice05/05-5O/05-5O-E04/05-5O-E04-0060",
         "layer": 0,
         "persona": "set",
@@ -79,20 +83,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 14000,
+        "end": 14366,
         "file": "Event05/05-5O/05-5O-E04/05-5O-E04-003",
         "start": 8366
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10050,
         "persona": "Макото",
         "start": 8366,
         "text": "Я...^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10050,
         "file": "Voice05/05-5O/05-5O-E04/05-5O-E04-0070",
         "layer": 1,
         "persona": "mak",
@@ -102,7 +106,11 @@
         "action": "SetSELECT",
         "answer1": "Люблю, но...",
         "answer2": "Не знаю!..",
-        "end": 13000,
+        "end": 13366,
         "start": 8366
+    },
+    {
+        "action": "Next",
+        "start": 14366
     }
 ]

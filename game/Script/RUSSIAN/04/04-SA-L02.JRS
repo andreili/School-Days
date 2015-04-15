@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 20016
+    },
+    {
         "action": "PlayBgm",
-        "end": 20000,
+        "end": 20016,
         "file": "BGM/SD_BGM/sdbgm12",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5133,
         "file": "Event04/04-SA/04-SA-L02/04-SA-L02-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 0,
+        "end": 350,
         "persona": "Таисукэ",
         "start": 0,
         "text": "А Макото где?^"
     },
     {
         "action": "PlayVoice",
-        "end": 0,
+        "end": 350,
         "file": "Voice04/04-SA/04-SA-L02/04-SA-L02-0030",
         "layer": 1,
         "persona": "tai",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5166,
         "persona": "Сэкаи",
         "start": 350,
         "text": "Сказал, что плохо себя чувствует и сегодня не придёт...^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5166,
         "file": "Voice04/04-SA/04-SA-L02/04-SA-L02-0040",
         "layer": 0,
         "persona": "sek",
@@ -43,20 +47,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 15000,
+        "end": 15050,
         "file": "Event04/04-SA/04-SA-L02/04-SA-L02-002",
         "start": 5133
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6050,
         "persona": "Котоноха",
         "start": 5166,
         "text": "Э...^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6050,
         "file": "Voice04/04-SA/04-SA-L02/04-SA-L02-0050",
         "layer": 0,
         "persona": "kot",
@@ -64,14 +68,14 @@
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11166,
         "persona": "Сэкаи",
         "start": 6050,
         "text": "Вот что с него возьмёшь? Заболеть перед самой поездкой, как дитё малое.^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11166,
         "file": "Voice04/04-SA/04-SA-L02/04-SA-L02-0060",
         "layer": 0,
         "persona": "sek",
@@ -79,14 +83,14 @@
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13116,
         "persona": "Таисукэ",
         "start": 11166,
         "text": "Это уж точно!^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13116,
         "file": "Voice04/04-SA/04-SA-L02/04-SA-L02-0070",
         "layer": 1,
         "persona": "tai",
@@ -94,14 +98,14 @@
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15066,
         "persona": "Котоноха",
         "start": 13116,
         "text": "Как он там?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15066,
         "file": "Voice04/04-SA/04-SA-L02/04-SA-L02-0080",
         "layer": 0,
         "persona": "kot",
@@ -109,20 +113,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 17000,
+        "end": 17116,
         "file": "Event04/04-SA/04-SA-L02/04-SA-L02-003",
         "start": 15050
     },
     {
         "action": "PrintText",
-        "end": 19000,
+        "end": 19266,
         "persona": "Таисукэ",
         "start": 15066,
         "text": "Кацура, мы же говорим о Макото, нет никакого повода для беспокойства.^"
     },
     {
         "action": "PlayVoice",
-        "end": 19000,
+        "end": 19266,
         "file": "Voice04/04-SA/04-SA-L02/04-SA-L02-0090",
         "layer": 1,
         "persona": "tai",
@@ -130,8 +134,12 @@
     },
     {
         "action": "CreateBG",
-        "end": 20000,
+        "end": 20016,
         "file": "Event04/04-SA/04-SA-L02/04-SA-L02-004",
         "start": 17116
+    },
+    {
+        "action": "Next",
+        "start": 20016
     }
 ]

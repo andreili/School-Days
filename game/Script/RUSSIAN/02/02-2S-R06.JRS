@@ -1,5 +1,9 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 10000
+    },
+    {
         "action": "PlayBgm",
         "end": 10000,
         "file": "BGM/SD_BGM/sdbgm07",
@@ -7,20 +11,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 3000,
+        "end": 3200,
         "file": "Movie02/02-2S/02-2S-R06/02-2S-R06-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2133,
         "persona": "Макото",
         "start": 0,
         "text": "Как же мне поступить...^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2133,
         "file": "Voice02/02-2S/02-2S-R06/02-2S-R06-0030",
         "layer": 1,
         "persona": "xxx",
@@ -28,7 +32,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6216,
         "file": "Event02/02-2S/02-2S-R06/02-2S-R06-002",
         "start": 3200
     },
@@ -43,5 +47,9 @@
         "dir": "OUT",
         "end": 10000,
         "start": 9000
+    },
+    {
+        "action": "Next",
+        "start": 10000
     }
 ]

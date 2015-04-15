@@ -1,32 +1,36 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 7316
+    },
+    {
         "action": "PlayBgm",
-        "end": 13000,
+        "end": 13350,
         "file": "BGM/SD_BGM/sdbgm20",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2283,
         "file": "Event04/04-SA/04-SA-I00/04-SA-I00-001",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 13000,
+        "end": 13350,
         "file": "Event04/04-SA/04-SA-I00/04-SA-I00-002",
         "start": 2283
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5050,
         "persona": "Макото",
         "start": 3366,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5050,
         "file": "Voice04/04-SA/04-SA-I00/04-SA-I00-0040",
         "layer": 1,
         "persona": "mak",
@@ -34,14 +38,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6383,
         "persona": "Макото",
         "start": 5150,
         "text": "Что же делать...^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6383,
         "file": "Voice04/04-SA/04-SA-I00/04-SA-I00-0050",
         "layer": 1,
         "persona": "mak",
@@ -51,7 +55,11 @@
         "action": "SetSELECT",
         "answer1": "Посоветоваться с Сэкаи.",
         "answer2": "Никуда не идти.",
-        "end": 12000,
+        "end": 12316,
         "start": 7316
+    },
+    {
+        "action": "Next",
+        "start": 13350
     }
 ]

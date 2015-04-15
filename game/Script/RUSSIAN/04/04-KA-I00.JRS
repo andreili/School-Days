@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 7083
+    },
+    {
         "action": "PlayBgm",
-        "end": 7000,
+        "end": 7083,
         "file": "BGM/SD_BGM/sdbgm20",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4050,
         "file": "Event04/04-KA/04-KA-I00/04-KA-I00-001",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 3000,
+        "end": 3100,
         "file": "SysSe/SE_all/home/makoto_door_opn",
         "layer": 1,
         "start": 166
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4133,
         "persona": "Макото",
         "start": 2216,
         "text": "Извините...^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4133,
         "file": "Voice04/04-KA/04-KA-I00/04-KA-I00-0040",
         "layer": 1,
         "persona": "mak",
@@ -35,23 +39,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7083,
         "file": "Event04/04-KA/04-KA-I00/04-KA-I00-002",
         "start": 4050
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6050,
         "persona": "Котоноха",
         "start": 4300,
         "text": "Заходи.^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6050,
         "file": "Voice04/04-KA/04-KA-I00/04-KA-I00-0060",
         "layer": 0,
         "persona": "kot",
         "start": 4300
+    },
+    {
+        "action": "Next",
+        "start": 7083
     }
 ]

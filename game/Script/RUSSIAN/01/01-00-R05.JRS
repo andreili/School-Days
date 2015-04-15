@@ -1,85 +1,93 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 18100
+    },
+    {
         "action": "PlayBgm",
-        "end": 18000,
+        "end": 18100,
         "file": "BGM/SD_BGM/sdbgm06",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 14000,
+        "end": 14316,
         "file": "Voice01/01-00/01-00-R00/01-00-R00-0055",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2350,
         "file": "Event01/01-00/01-00-R05/01-00-R05-001",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4333,
         "file": "Event01/01-00/01-00-B00/01-00-B00-003",
         "start": 2350
     },
     {
         "action": "PlayMovie",
-        "end": 7000,
+        "end": 7233,
         "file": "Movie01/01-00/01-00-R05/01-00-R05-003",
         "start": 4333
     },
     {
         "action": "PlayMovie",
-        "end": 10000,
+        "end": 10150,
         "file": "Movie01/01-00/01-00-R05/01-00-R05-004",
         "start": 7233
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10350,
         "file": "Event01/01-00/01-00-B00/01-00-B00-003",
         "start": 10150
     },
     {
         "action": "CreateBG",
-        "end": 13000,
+        "end": 13100,
         "file": "Event01/01-00/01-00-R05/01-00-R05-006",
         "start": 10350
     },
     {
         "action": "CreateBG",
-        "end": 15000,
+        "end": 15150,
         "file": "Event01/01-00/01-00-R05/01-00-R05-007",
         "start": 13100
     },
     {
         "action": "PlaySe",
-        "end": 18000,
+        "end": 18100,
         "file": "Voice01/01-00/01-00-R00/01-00-R00-0056",
         "layer": 2,
         "start": 14316
     },
     {
         "action": "CreateBG",
-        "end": 18000,
+        "end": 18100,
         "file": "Event01/01-00/01-00-R05/01-00-R05-008",
         "start": 15150
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17200,
         "persona": "Макото",
         "start": 15316,
         "text": "Как будто это можно так просто забыть...^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17200,
         "file": "Voice01/01-00/01-00-R05/01-00-R05-0090",
         "layer": 1,
         "persona": "mak",
         "start": 15316
+    },
+    {
+        "action": "Next",
+        "start": 18100
     }
 ]

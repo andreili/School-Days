@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 14150
+    },
+    {
         "action": "PlaySe",
-        "end": 20000,
+        "end": 20200,
         "file": "SysSe/SE_all/gaya/okujou",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1266,
         "file": "Event05/05-KA/05-KA-C00/05-KA-C00-001",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4383,
         "file": "Event05/05-KA/05-KA-C00/05-KA-C00-002",
         "start": 1266
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4300,
         "persona": "Сэкаи",
         "start": 1266,
         "text": "На фестивале... Ты где был?^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4300,
         "file": "Voice05/05-KA/05-KA-C00/05-KA-C00-0050",
         "layer": 0,
         "persona": "sek",
@@ -35,20 +39,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5350,
         "file": "Event05/05-KA/05-KA-C00/05-KA-C00-003",
         "start": 4383
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5233,
         "persona": "Макото",
         "start": 4383,
         "text": "Э?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5233,
         "file": "Voice05/05-KA/05-KA-C00/05-KA-C00-0060",
         "layer": 1,
         "persona": "mak",
@@ -56,20 +60,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8283,
         "file": "Event05/05-KA/05-KA-C00/05-KA-C00-004",
         "start": 5350
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8216,
         "persona": "Сэкаи",
         "start": 5350,
         "text": "Почему на танцы не пришёл?^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8216,
         "file": "Voice05/05-KA/05-KA-C00/05-KA-C00-0070",
         "layer": 0,
         "persona": "sek",
@@ -77,20 +81,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12066,
         "file": "Event05/05-KA/05-KA-C00/05-KA-C00-005",
         "start": 8283
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12016,
         "persona": "Макото",
         "start": 8283,
         "text": "А... Ты опять об этом?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12016,
         "file": "Voice05/05-KA/05-KA-C00/05-KA-C00-0080",
         "layer": 1,
         "persona": "mak",
@@ -98,20 +102,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 13000,
+        "end": 13166,
         "file": "Event05/05-KA/05-KA-C00/05-KA-C00-006",
         "start": 12066
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13083,
         "persona": "Сэкаи",
         "start": 12066,
         "text": "Ответь.^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13083,
         "file": "Voice05/05-KA/05-KA-C00/05-KA-C00-0090",
         "layer": 0,
         "persona": "sek",
@@ -119,20 +123,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 20000,
+        "end": 20200,
         "file": "Event05/05-KA/05-KA-C00/05-KA-C00-007",
         "start": 13166
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14150,
         "persona": "Макото",
         "start": 13166,
         "text": "Ну...^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14150,
         "file": "Voice05/05-KA/05-KA-C00/05-KA-C00-0100",
         "layer": 1,
         "persona": "mak",
@@ -142,7 +146,11 @@
         "action": "SetSELECT",
         "answer1": "Я заснул в классе.",
         "answer2": "Я был с Котонохой.",
-        "end": 19000,
+        "end": 19150,
         "start": 14150
+    },
+    {
+        "action": "Next",
+        "start": 20200
     }
 ]

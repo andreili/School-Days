@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 14100
+    },
+    {
         "action": "PlayBgm",
-        "end": 14000,
+        "end": 14100,
         "file": "BGM/SD_BGM/sdbgm08",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1016,
         "file": "Event04/04-SC/04-SC-B01/04-SC-B01-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1066,
         "persona": "Макото",
         "start": 0,
         "text": "Давай!^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1066,
         "file": "Voice04/04-SC/04-SC-B01/04-SC-B01-0030",
         "layer": 1,
         "persona": "mak",
@@ -28,20 +32,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2100,
         "file": "Event04/04-SC/04-SC-B01/04-SC-B01-002",
         "start": 1016
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2133,
         "persona": "Сэкаи",
         "start": 1066,
         "text": "Вот!^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2133,
         "file": "Voice04/04-SC/04-SC-B01/04-SC-B01-0040",
         "layer": 0,
         "persona": "sek",
@@ -49,7 +53,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5366,
         "file": "Event04/04-SC/04-SC-B01/04-SC-B01-003",
         "start": 2100
     },
@@ -70,20 +74,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9266,
         "file": "Event04/04-SC/04-SC-B01/04-SC-B01-004",
         "start": 5366
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9300,
         "persona": "Сэкаи",
         "start": 6000,
         "text": "Ну, жди завтра! Я такое забацаю!^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9300,
         "file": "Voice04/04-SC/04-SC-B01/04-SC-B01-0060",
         "layer": 0,
         "persona": "sek",
@@ -91,20 +95,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10266,
         "file": "Event04/04-SC/04-SC-B01/04-SC-B01-005",
         "start": 9266
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10166,
         "persona": "Макото",
         "start": 9316,
         "text": "А...^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10166,
         "file": "Voice04/04-SC/04-SC-B01/04-SC-B01-0070",
         "layer": 1,
         "persona": "mak",
@@ -112,8 +116,12 @@
     },
     {
         "action": "CreateBG",
-        "end": 14000,
+        "end": 14100,
         "file": "Event04/04-SC/04-SC-B01/04-SC-B01-006",
         "start": 10266
+    },
+    {
+        "action": "Next",
+        "start": 14100
     }
 ]

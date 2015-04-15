@@ -1,27 +1,31 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 12233
+    },
+    {
         "action": "PlaySe",
-        "end": 12000,
+        "end": 12233,
         "file": "Se01/01-00/01-00-B00/SE01-00-B00-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4066,
         "file": "Event01/01-00/01-00-F03/01-00-F03-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4033,
         "persona": "Сэкаи",
         "start": 100,
         "text": "Что ты молчишь? Что-то случилось?^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4033,
         "file": "Voice01/01-00/01-00-F03/01-00-F03-0030",
         "layer": 0,
         "persona": "sek",
@@ -29,20 +33,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5283,
         "file": "Event01/01-00/01-00-F03/01-00-F03-002",
         "start": 4066
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5166,
         "persona": "Макото",
         "start": 4183,
         "text": "Ничего...^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5166,
         "file": "Voice01/01-00/01-00-F03/01-00-F03-0040",
         "layer": 1,
         "persona": "mak",
@@ -50,20 +54,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7250,
         "file": "Event01/01-00/01-00-F03/01-00-F03-003",
         "start": 5283
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7183,
         "persona": "Сэкаи",
         "start": 5333,
         "text": "Вы что, поругались?^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7183,
         "file": "Voice01/01-00/01-00-F03/01-00-F03-0050",
         "layer": 0,
         "persona": "sek",
@@ -71,20 +75,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12233,
         "file": "Event01/01-00/01-00-F00/01-00-F00-001",
         "start": 7250
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8250,
         "persona": "Макото",
         "start": 7383,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8250,
         "file": "Voice01/01-00/01-00-F03/01-00-F03-0060",
         "layer": 1,
         "persona": "mak",
@@ -92,14 +96,14 @@
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10283,
         "persona": "Сэкаи",
         "start": 9216,
         "text": "Макото!^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10283,
         "file": "Voice01/01-00/01-00-F03/01-00-F03-0070",
         "layer": 0,
         "persona": "sek",
@@ -108,7 +112,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 12000,
+        "end": 12233,
         "start": 11233
+    },
+    {
+        "action": "Next",
+        "start": 12233
     }
 ]

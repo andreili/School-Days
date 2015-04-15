@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 41250
+    },
+    {
         "action": "PlayBgm",
-        "end": 41000,
+        "end": 41250,
         "file": "BGM/SD_BGM/sdbgm29",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8316,
         "file": "Event03/03-KB/03-KB-F01/03-KB-F01-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4083,
         "persona": "Сэкаи",
         "start": 0,
         "text": "Ну если только позвонить, наверное, это ничего...^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4083,
         "file": "Voice03/03-KB/03-KB-F01/03-KB-F01-0030",
         "layer": 0,
         "persona": "sek",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8300,
         "persona": "Сэцуна",
         "start": 4066,
         "text": "Просто возьми трубку и набери его номер. Это ведь так просто! Я не думаю, что он уже спать лёг.^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8300,
         "file": "Voice03/03-KB/03-KB-F01/03-KB-F01-0040",
         "layer": 0,
         "persona": "set",
@@ -43,14 +47,14 @@
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12050,
         "persona": "Сэкаи",
         "start": 8300,
         "text": "Но у него, наверное, уже есть планы! Я уверена в этом!^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12050,
         "file": "Voice03/03-KB/03-KB-F01/03-KB-F01-0050",
         "layer": 0,
         "persona": "sek",
@@ -58,20 +62,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 18000,
+        "end": 18283,
         "file": "Event03/03-KB/03-KB-F01/03-KB-F01-002",
         "start": 8316
     },
     {
         "action": "PrintText",
-        "end": 18000,
+        "end": 18266,
         "persona": "Сэцуна",
         "start": 12050,
         "text": "С кем? Зная его, кого он может пригласить кроме тебя?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18266,
         "file": "Voice03/03-KB/03-KB-F01/03-KB-F01-0060",
         "layer": 0,
         "persona": "set",
@@ -79,14 +83,14 @@
     },
     {
         "action": "PrintText",
-        "end": 23000,
+        "end": 23383,
         "persona": "Сэкаи",
         "start": 18266,
         "text": "Ну конечно может! Кацуру например!^"
     },
     {
         "action": "PlayVoice",
-        "end": 23000,
+        "end": 23383,
         "file": "Voice03/03-KB/03-KB-F01/03-KB-F01-0070",
         "layer": 0,
         "persona": "sek",
@@ -100,14 +104,14 @@
     },
     {
         "action": "PrintText",
-        "end": 24000,
+        "end": 24233,
         "persona": "Сэцуна",
         "start": 23383,
         "text": "Хм?^"
     },
     {
         "action": "PlayVoice",
-        "end": 24000,
+        "end": 24233,
         "file": "Voice03/03-KB/03-KB-F01/03-KB-F01-0080",
         "layer": 0,
         "persona": "set",
@@ -115,20 +119,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 27000,
+        "end": 27033,
         "file": "Event03/03-KB/03-KB-F01/03-KB-F01-004",
         "start": 24000
     },
     {
         "action": "PrintText",
-        "end": 27000,
+        "end": 27033,
         "persona": "Сэкаи",
         "start": 24233,
         "text": "Нет, ничего!^"
     },
     {
         "action": "PlayVoice",
-        "end": 27000,
+        "end": 27033,
         "file": "Voice03/03-KB/03-KB-F01/03-KB-F01-0090",
         "layer": 0,
         "persona": "sek",
@@ -136,20 +140,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 36000,
+        "end": 36250,
         "file": "Event03/03-KB/03-KB-F01/03-KB-F01-005",
         "start": 27033
     },
     {
         "action": "PrintText",
-        "end": 29000,
+        "end": 29366,
         "persona": "Сэцуна",
         "start": 27033,
         "text": "Ну же! Позвони ему!^"
     },
     {
         "action": "PlayVoice",
-        "end": 29000,
+        "end": 29366,
         "file": "Voice03/03-KB/03-KB-F01/03-KB-F01-0100",
         "layer": 0,
         "persona": "set",
@@ -157,14 +161,14 @@
     },
     {
         "action": "PrintText",
-        "end": 32000,
+        "end": 32383,
         "persona": "Сэкаи",
         "start": 29366,
         "text": "Хорошо, сейчас наберу его!^"
     },
     {
         "action": "PlayVoice",
-        "end": 32000,
+        "end": 32383,
         "file": "Voice03/03-KB/03-KB-F01/03-KB-F01-0110",
         "layer": 0,
         "persona": "sek",
@@ -172,14 +176,14 @@
     },
     {
         "action": "PrintText",
-        "end": 33000,
+        "end": 33233,
         "persona": "Сэцуна",
         "start": 32383,
         "text": "Угу.^"
     },
     {
         "action": "PlayVoice",
-        "end": 33000,
+        "end": 33233,
         "file": "Voice03/03-KB/03-KB-F01/03-KB-F01-0120",
         "layer": 0,
         "persona": "set",
@@ -187,14 +191,14 @@
     },
     {
         "action": "PrintText",
-        "end": 36000,
+        "end": 36250,
         "persona": "Сэкаи",
         "start": 33233,
         "text": "Если через пять гудков он не снимет трубку, я отключусь!^"
     },
     {
         "action": "PlayVoice",
-        "end": 36000,
+        "end": 36250,
         "file": "Voice03/03-KB/03-KB-F01/03-KB-F01-0130",
         "layer": 0,
         "persona": "sek",
@@ -202,20 +206,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 41000,
+        "end": 41250,
         "file": "Event03/03-KB/03-KB-F01/03-KB-F01-006",
         "start": 36250
     },
     {
         "action": "PrintText",
-        "end": 37000,
+        "end": 37116,
         "persona": "Сэцуна",
         "start": 36250,
         "text": "?^"
     },
     {
         "action": "PlayVoice",
-        "end": 37000,
+        "end": 37116,
         "file": "Voice03/03-KB/03-KB-F01/03-KB-F01-0140",
         "layer": 0,
         "persona": "set",
@@ -223,17 +227,21 @@
     },
     {
         "action": "PrintText",
-        "end": 40000,
+        "end": 40033,
         "persona": "Сэкаи",
         "start": 37116,
         "text": "Всё решили! Я ему сейчас звоню!^"
     },
     {
         "action": "PlayVoice",
-        "end": 40000,
+        "end": 40033,
         "file": "Voice03/03-KB/03-KB-F01/03-KB-F01-0150",
         "layer": 0,
         "persona": "sek",
         "start": 37116
+    },
+    {
+        "action": "Next",
+        "start": 41250
     }
 ]

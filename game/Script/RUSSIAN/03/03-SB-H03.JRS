@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 11283
+    },
+    {
         "action": "PlayBgm",
-        "end": 17000,
+        "end": 17283,
         "file": "BGM/SD_BGM/sdbgm16",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 17000,
+        "end": 17283,
         "file": "Se03/03-SB/03-SB-H03/SE03-SB-H03-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 0,
+        "end": 233,
         "file": "Event03/03-SB/03-SB-H03/03-SB-H03-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 0,
+        "end": 216,
         "persona": "Макото",
         "start": 0,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 0,
+        "end": 216,
         "file": "Voice03/03-SB/03-SB-H03/03-SB-H03-0030",
         "layer": 1,
         "persona": "xxx",
@@ -35,14 +39,14 @@
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3083,
         "persona": "Котоноха",
         "start": 216,
         "text": "Макото?^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3083,
         "file": "Voice03/03-SB/03-SB-H03/03-SB-H03-0040",
         "layer": 0,
         "persona": "kot",
@@ -56,14 +60,14 @@
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5116,
         "persona": "Макото",
         "start": 3083,
         "text": "М? Да?^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5116,
         "file": "Voice03/03-SB/03-SB-H03/03-SB-H03-0050",
         "layer": 1,
         "persona": "mak",
@@ -71,14 +75,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6366,
         "persona": "Котоноха",
         "start": 5133,
         "text": "Так куда бы ты хотел пойти?^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6366,
         "file": "Voice03/03-SB/03-SB-H03/03-SB-H03-0060",
         "layer": 0,
         "persona": "kot",
@@ -86,14 +90,14 @@
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11266,
         "persona": "Макото",
         "start": 6366,
         "text": "А...Точно!^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11266,
         "file": "Voice03/03-SB/03-SB-H03/03-SB-H03-0070",
         "layer": 1,
         "persona": "mak",
@@ -101,7 +105,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 17000,
+        "end": 17283,
         "file": "Event03/03-SB/03-SB-H03/03-SB-H03-003",
         "start": 7000
     },
@@ -109,7 +113,11 @@
         "action": "SetSELECT",
         "answer1": "А куда бы ты хотела пойти, Котоноха?^",
         "answer2": "NULL",
-        "end": 16000,
+        "end": 16283,
         "start": 11283
+    },
+    {
+        "action": "Next",
+        "start": 17283
     }
 ]

@@ -1,7 +1,11 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 16116
+    },
+    {
         "action": "PlayBgm",
-        "end": 16000,
+        "end": 16116,
         "file": "BGM/SD_BGM/sdbgm25",
         "start": 0
     },
@@ -13,38 +17,42 @@
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5333,
         "file": "Event02/02-2K/02-2K-E05/02-2K-E05-002",
         "start": 3000
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9033,
         "file": "Event02/02-2K/02-2K-E05/02-2K-E05-003",
         "start": 5333
     },
     {
         "action": "CreateBG",
-        "end": 11000,
+        "end": 11233,
         "file": "Event02/02-2K/02-2K-E05/02-2K-E05-004",
         "start": 9033
     },
     {
         "action": "CreateBG",
-        "end": 13000,
+        "end": 13016,
         "file": "Event02/02-2K/02-2K-E05/02-2K-E05-005",
         "start": 11233
     },
     {
         "action": "CreateBG",
-        "end": 16000,
+        "end": 16116,
         "file": "Event02/02-2K/02-2K-E05/02-2K-E05-006",
         "start": 13016
     },
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 16000,
+        "end": 16116,
         "start": 15116
+    },
+    {
+        "action": "Next",
+        "start": 16116
     }
 ]

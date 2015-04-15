@@ -1,14 +1,22 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 3083
+    },
+    {
         "action": "PlayBgm",
-        "end": 2000,
+        "end": 2383,
         "file": "BGM/SD_BGM/sdbgm21",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3083,
         "file": "Event04/04-SE/04-SE-D10/04-SE-D10-001",
         "start": 0
+    },
+    {
+        "action": "Next",
+        "start": 3083
     }
 ]

@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 12133
+    },
+    {
         "action": "PlayBgm",
-        "end": 12000,
+        "end": 12133,
         "file": "BGM/SD_BGM/sdbgm03",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 12000,
+        "end": 12133,
         "file": "Se01/01-00/01-00-E00/SE01-00-E00-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3383,
         "file": "Event01/01-00/01-00-H04/01-00-H04-006",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5116,
         "persona": "Макото",
         "start": 0,
         "text": "Ладно... можешь...^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5116,
         "file": "Voice01/01-00/01-00-S03/01-00-S03-0030",
         "layer": 1,
         "persona": "mak",
@@ -35,20 +39,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12133,
         "file": "Event01/01-00/01-00-S04/01-00-S04-008",
         "start": 3383
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6300,
         "persona": "Сэкаи",
         "start": 6000,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6300,
         "file": "Voice01/01-00/01-00-S03/01-00-S03-0050",
         "layer": 0,
         "persona": "sek",
@@ -56,14 +60,14 @@
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11033,
         "persona": "Макото",
         "start": 7316,
         "text": "Да она уже уснула...^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11033,
         "file": "Voice01/01-00/01-00-S03/01-00-S03-0060",
         "layer": 1,
         "persona": "mak",
@@ -72,7 +76,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 12000,
+        "end": 12133,
         "start": 11133
+    },
+    {
+        "action": "Next",
+        "start": 12133
     }
 ]

@@ -1,7 +1,11 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 8050
+    },
+    {
         "action": "PlaySe",
-        "end": 8000,
+        "end": 8050,
         "file": "Se03/03-KA/03-KA-M03/SE03-KA-M03-001",
         "layer": 1,
         "start": 0
@@ -21,20 +25,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3200,
         "file": "Event03/03-KA/03-KA-M03/03-KA-M03-002",
         "start": 2000
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3116,
         "persona": "Макото",
         "start": 2116,
         "text": "Итак...^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3116,
         "file": "Voice03/03-KA/03-KA-M03/03-KA-M03-0050",
         "layer": 1,
         "persona": "mak",
@@ -42,20 +46,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4316,
         "file": "Event03/03-KA/03-KA-M03/03-KA-M03-003",
         "start": 3200
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4266,
         "persona": "Сэцуна",
         "start": 3316,
         "text": "Пошли?^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4266,
         "file": "Voice03/03-KA/03-KA-M03/03-KA-M03-0060",
         "layer": 0,
         "persona": "set",
@@ -63,20 +67,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8050,
         "file": "Event03/03-KA/03-KA-M03/03-KA-M03-004",
         "start": 4316
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6266,
         "persona": "Макото",
         "start": 4350,
         "text": "Я готов!^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6266,
         "file": "Voice03/03-KA/03-KA-M03/03-KA-M03-0070",
         "layer": 1,
         "persona": "mak",
@@ -85,7 +89,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 8000,
+        "end": 8050,
         "start": 7050
+    },
+    {
+        "action": "Next",
+        "start": 8050
     }
 ]

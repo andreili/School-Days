@@ -1,20 +1,24 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 14050
+    },
+    {
         "action": "PlayBgm",
-        "end": 14000,
+        "end": 14050,
         "file": "BGM/SD_BGM/sdbgm06",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 14000,
+        "end": 14050,
         "file": "Se03/03-KA/03-KA-G10/SE03-KA-G10-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1350,
         "file": "Event03/03-KA/03-KA-G10/03-KA-G10-001",
         "start": 0
     },
@@ -35,20 +39,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3083,
         "file": "Event03/03-KA/03-KA-G10/03-KA-G10-002",
         "start": 1350
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3066,
         "persona": "Сэцуна",
         "start": 2066,
         "text": "Я так и думала.^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3066,
         "file": "Voice03/03-KA/03-KA-G10/03-KA-G10-0040",
         "layer": 0,
         "persona": "set",
@@ -56,20 +60,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7316,
         "file": "Event03/03-KA/03-KA-G10/03-KA-G10-003",
         "start": 3083
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4150,
         "persona": "Макото",
         "start": 3083,
         "text": "Послушай...^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4150,
         "file": "Voice03/03-KA/03-KA-G10/03-KA-G10-0050",
         "layer": 1,
         "persona": "mak",
@@ -77,14 +81,14 @@
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5366,
         "persona": "Сэцуна",
         "start": 4116,
         "text": "Что у вас там с Кацурой?^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5366,
         "file": "Voice03/03-KA/03-KA-G10/03-KA-G10-0060",
         "layer": 0,
         "persona": "set",
@@ -92,14 +96,14 @@
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7350,
         "persona": "Макото",
         "start": 5166,
         "text": "Сегодня я тоже в классе с тобой пообедаю.^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7350,
         "file": "Voice03/03-KA/03-KA-G10/03-KA-G10-0070",
         "layer": 1,
         "persona": "mak",
@@ -107,20 +111,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8383,
         "file": "Event03/03-KA/03-KA-G10/03-KA-G10-004",
         "start": 7316
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8316,
         "persona": "Сэцуна",
         "start": 8083,
         "text": "Э?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8316,
         "file": "Voice03/03-KA/03-KA-G10/03-KA-G10-0080",
         "layer": 0,
         "persona": "set",
@@ -128,20 +132,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 14000,
+        "end": 14050,
         "file": "Event03/03-KA/03-KA-G09/03-KA-G09-005A",
         "start": 8383
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11316,
         "persona": "Макото",
         "start": 8383,
         "text": "Ты ведь не против?^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11316,
         "file": "Voice03/03-KA/03-KA-G10/03-KA-G10-0090",
         "layer": 1,
         "persona": "mak",
@@ -149,14 +153,14 @@
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12316,
         "persona": "Сэцуна",
         "start": 12050,
         "text": "Угу...^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12316,
         "file": "Voice03/03-KA/03-KA-G10/03-KA-G10-0100",
         "layer": 0,
         "persona": "set",
@@ -165,7 +169,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 14000,
+        "end": 14050,
         "start": 13050
+    },
+    {
+        "action": "Next",
+        "start": 14050
     }
 ]

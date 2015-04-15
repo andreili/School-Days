@@ -1,32 +1,36 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 41200
+    },
+    {
         "action": "PlayBgm",
-        "end": 41000,
+        "end": 41200,
         "file": "BGM/SD_BGM/sdbgm06",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1100,
         "file": "Event04/04-SE/04-SE-D04/04-SE-D04-001",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2033,
         "file": "Event04/04-SE/04-SE-D04/04-SE-D04-001B",
         "start": 1100
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3083,
         "persona": "Макото",
         "start": 1100,
         "text": "А...^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3083,
         "file": "Voice04/04-SE/04-SE-D04/04-SE-D04-0050",
         "layer": 1,
         "persona": "mak",
@@ -34,7 +38,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3083,
         "file": "Event04/04-SE/04-SE-D04/04-SE-D04-002",
         "start": 2033
     },
@@ -46,14 +50,14 @@
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5016,
         "persona": "Макото",
         "start": 3083,
         "text": "Ну да ладно...^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5016,
         "file": "Voice04/04-SE/04-SE-D04/04-SE-D04-0060",
         "layer": 1,
         "persona": "xxx",
@@ -61,13 +65,13 @@
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5016,
         "file": "Event04/04-SE/04-SE-D04/04-SE-D04-004",
         "start": 4000
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6300,
         "file": "Event04/04-SE/04-SE-D04/04-SE-D04-005",
         "start": 5016
     },
@@ -79,73 +83,73 @@
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10283,
         "file": "Event04/04-SE/04-SE-D04/04-SE-D04-007",
         "start": 9000
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12383,
         "file": "Event04/04-SE/04-SE-D04/04-SE-D04-006",
         "start": 10283
     },
     {
         "action": "CreateBG",
-        "end": 14000,
+        "end": 14350,
         "file": "Event04/04-SE/04-SE-D04/04-SE-D04-009A",
         "start": 12383
     },
     {
         "action": "CreateBG",
-        "end": 15000,
+        "end": 15333,
         "file": "Event04/04-SE/04-SE-D04/04-SE-D04-009B",
         "start": 14350
     },
     {
         "action": "CreateBG",
-        "end": 17000,
+        "end": 17200,
         "file": "Event04/04-SE/04-SE-D04/04-SE-D04-010",
         "start": 15333
     },
     {
         "action": "CreateBG",
-        "end": 19000,
+        "end": 19183,
         "file": "Event04/04-SE/04-SE-D04/04-SE-D04-010B",
         "start": 17200
     },
     {
         "action": "CreateBG",
-        "end": 21000,
+        "end": 21050,
         "file": "Event04/04-SE/04-SE-D04/04-SE-D04-010C",
         "start": 19183
     },
     {
         "action": "CreateBG",
-        "end": 23000,
+        "end": 23050,
         "file": "Event04/04-SE/04-SE-D04/04-SE-D04-010D",
         "start": 21050
     },
     {
         "action": "CreateBG",
-        "end": 24000,
+        "end": 24216,
         "file": "Event04/04-SE/04-SE-D04/04-SE-D04-010E",
         "start": 23050
     },
     {
         "action": "CreateBG",
-        "end": 27000,
+        "end": 27033,
         "file": "Event04/04-SE/04-SE-D04/04-SE-D04-010F",
         "start": 24216
     },
     {
         "action": "CreateBG",
-        "end": 28000,
+        "end": 28266,
         "file": "Event04/04-SE/04-SE-D04/04-SE-D04-010G",
         "start": 27033
     },
     {
         "action": "CreateBG",
-        "end": 30000,
+        "end": 30283,
         "file": "Event04/04-SE/04-SE-D04/04-SE-D04-010H",
         "start": 28266
     },
@@ -157,28 +161,32 @@
     },
     {
         "action": "CreateBG",
-        "end": 34000,
+        "end": 34200,
         "file": "Event04/04-SE/04-SE-D04/04-SE-D04-010J",
         "start": 32000
     },
     {
         "action": "CreateBG",
-        "end": 36000,
+        "end": 36200,
         "file": "Event04/04-SE/04-SE-D04/04-SE-D04-011",
         "start": 34200
     },
     {
         "action": "CreateBG",
-        "end": 41000,
+        "end": 41200,
         "file": "Event04/04-SE/04-SE-D04/04-SE-D04-012",
         "start": 36200
     },
     {
         "action": "PlayVoice",
-        "end": 38000,
+        "end": 38033,
         "file": "Voice04/04-SE/04-SE-D04/04-SE-D04-0260",
         "layer": -1,
         "persona": "",
         "start": 37016
+    },
+    {
+        "action": "Next",
+        "start": 41200
     }
 ]

@@ -1,20 +1,24 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 7016
+    },
+    {
         "action": "PlayBgm",
-        "end": 7000,
+        "end": 7016,
         "file": "BGM/SD_BGM/sdbgm19",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 7000,
+        "end": 7016,
         "file": "Se01/01-00/01-00-L00/SE01-00-L00-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3016,
         "file": "Event01/01-00/01-00-L00/01-00-L00-001",
         "start": 0
     },
@@ -26,14 +30,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4116,
         "persona": "Сэкаи",
         "start": 3116,
         "text": "Макото!^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4116,
         "file": "Voice01/01-00/01-00-L00/01-00-L00-0030",
         "layer": 0,
         "persona": "sek",
@@ -41,23 +45,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7016,
         "file": "Event01/01-00/01-00-L00/01-00-L00-003",
         "start": 5000
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6050,
         "persona": "Макото",
         "start": 5083,
         "text": "Сэкаи...^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6050,
         "file": "Voice01/01-00/01-00-L00/01-00-L00-0040",
         "layer": 1,
         "persona": "mak",
         "start": 5083
+    },
+    {
+        "action": "Next",
+        "start": 7016
     }
 ]

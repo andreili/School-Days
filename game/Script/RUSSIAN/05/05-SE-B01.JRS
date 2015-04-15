@@ -1,7 +1,11 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 114200
+    },
+    {
         "action": "PlayBgm",
-        "end": 114000,
+        "end": 114200,
         "file": "BGM/SD_BGM/sdbgm17",
         "start": 0
     },
@@ -14,33 +18,33 @@
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3216,
         "file": "Event05/05-SE/05-SE-B01/05-SE-B01-001",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 3000,
+        "end": 3100,
         "file": "SysSe/SE_all/keitai/keitai_sousa",
         "layer": 1,
         "start": 3066
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6383,
         "file": "Event05/05-SE/05-SE-B01/05-SE-B01-002",
         "start": 3216
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4116,
         "persona": "Макото",
         "start": 3216,
         "text": "Привет.^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4116,
         "file": "Voice05/05-SE/05-SE-B01/05-SE-B01-0050",
         "layer": 1,
         "persona": "mak",
@@ -48,14 +52,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6366,
         "persona": "Таисукэ",
         "start": 4100,
         "text": "Макото!^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6366,
         "file": "Voice05/05-SE/05-SE-B01/05-SE-B01-0060",
         "layer": 1,
         "persona": "tai",
@@ -63,14 +67,14 @@
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7350,
         "persona": "Макото",
         "start": 6366,
         "text": "Таисукэ...^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7350,
         "file": "Voice05/05-SE/05-SE-B01/05-SE-B01-0070",
         "layer": 1,
         "persona": "mak",
@@ -78,20 +82,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 21000,
+        "end": 21150,
         "file": "Event05/05-SE/05-SE-B01/05-SE-B01-003",
         "start": 6383
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10133,
         "persona": "Таисукэ",
         "start": 7350,
         "text": "Ты только послушай!..^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10133,
         "file": "Voice05/05-SE/05-SE-B01/05-SE-B01-0080",
         "layer": 1,
         "persona": "tai",
@@ -99,14 +103,14 @@
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11050,
         "persona": "Макото",
         "start": 10133,
         "text": "Да?^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11050,
         "file": "Voice05/05-SE/05-SE-B01/05-SE-B01-0090",
         "layer": 1,
         "persona": "mak",
@@ -114,14 +118,14 @@
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15250,
         "persona": "Таисукэ",
         "start": 11050,
         "text": "Она меня бросила!...^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15250,
         "file": "Voice05/05-SE/05-SE-B01/05-SE-B01-0100",
         "layer": 1,
         "persona": "tai",
@@ -129,14 +133,14 @@
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16116,
         "persona": "Макото",
         "start": 15233,
         "text": "Ага...^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16116,
         "file": "Voice05/05-SE/05-SE-B01/05-SE-B01-0110",
         "layer": 1,
         "persona": "mak",
@@ -144,14 +148,14 @@
     },
     {
         "action": "PrintText",
-        "end": 20000,
+        "end": 20150,
         "persona": "Таисукэ",
         "start": 16116,
         "text": "Сэкаи... Ни с того ни с сего после уроков выдала, что хочет расстаться...^"
     },
     {
         "action": "PlayVoice",
-        "end": 20000,
+        "end": 20150,
         "file": "Voice05/05-SE/05-SE-B01/05-SE-B01-0120",
         "layer": 1,
         "persona": "tai",
@@ -159,14 +163,14 @@
     },
     {
         "action": "PrintText",
-        "end": 21000,
+        "end": 21150,
         "persona": "Макото",
         "start": 20150,
         "text": "Ясно...^"
     },
     {
         "action": "PlayVoice",
-        "end": 21000,
+        "end": 21150,
         "file": "Voice05/05-SE/05-SE-B01/05-SE-B01-0130",
         "layer": 1,
         "persona": "mak",
@@ -174,20 +178,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 44000,
+        "end": 44133,
         "file": "Event05/05-SE/05-SE-B01/05-SE-B01-004",
         "start": 21150
     },
     {
         "action": "PrintText",
-        "end": 31000,
+        "end": 31166,
         "persona": "Таисукэ",
         "start": 21150,
         "text": "Спрашивал почему, а она упёрлась, всё говорила, что любимого нашла... Я теперь даже и не знаю, что делать...^"
     },
     {
         "action": "PlayVoice",
-        "end": 31000,
+        "end": 31166,
         "file": "Voice05/05-SE/05-SE-B01/05-SE-B01-0140",
         "layer": 1,
         "persona": "tai",
@@ -195,14 +199,14 @@
     },
     {
         "action": "PrintText",
-        "end": 33000,
+        "end": 33050,
         "persona": "Макото",
         "start": 31166,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 33000,
+        "end": 33050,
         "file": "Voice05/05-SE/05-SE-B01/05-SE-B01-0150",
         "layer": 1,
         "persona": "xxx",
@@ -210,14 +214,14 @@
     },
     {
         "action": "PrintText",
-        "end": 37000,
+        "end": 37250,
         "persona": "Таисукэ",
         "start": 33050,
         "text": "Макото! Ты знаешь, кто ей нравиться-то может?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 37000,
+        "end": 37250,
         "file": "Voice05/05-SE/05-SE-B01/05-SE-B01-0160",
         "layer": 1,
         "persona": "tai",
@@ -225,14 +229,14 @@
     },
     {
         "action": "PrintText",
-        "end": 38000,
+        "end": 38133,
         "persona": "Макото",
         "start": 37250,
         "text": "Э?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 38000,
+        "end": 38133,
         "file": "Voice05/05-SE/05-SE-B01/05-SE-B01-0170",
         "layer": 1,
         "persona": "mak",
@@ -240,14 +244,14 @@
     },
     {
         "action": "PrintText",
-        "end": 42000,
+        "end": 42016,
         "persona": "Таисукэ",
         "start": 38133,
         "text": "Вы с ней что родственники, наверняка ведь знаешь!^"
     },
     {
         "action": "PlayVoice",
-        "end": 42000,
+        "end": 42016,
         "file": "Voice05/05-SE/05-SE-B01/05-SE-B01-0180",
         "layer": 1,
         "persona": "tai",
@@ -255,14 +259,14 @@
     },
     {
         "action": "PrintText",
-        "end": 44000,
+        "end": 44133,
         "persona": "Макото",
         "start": 42016,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 44000,
+        "end": 44133,
         "file": "Voice05/05-SE/05-SE-B01/05-SE-B01-0190",
         "layer": 1,
         "persona": "xxx",
@@ -270,20 +274,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 64000,
+        "end": 64300,
         "file": "Event05/05-SE/05-SE-B01/05-SE-B01-005",
         "start": 44133
     },
     {
         "action": "PrintText",
-        "end": 45000,
+        "end": 45116,
         "persona": "Макото",
         "start": 44133,
         "text": "Я это...^"
     },
     {
         "action": "PlayVoice",
-        "end": 45000,
+        "end": 45116,
         "file": "Voice05/05-SE/05-SE-B01/05-SE-B01-0220",
         "layer": 1,
         "persona": "mak",
@@ -291,14 +295,14 @@
     },
     {
         "action": "PrintText",
-        "end": 46000,
+        "end": 46066,
         "persona": "Таисукэ",
         "start": 45116,
         "text": "Э?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 46000,
+        "end": 46066,
         "file": "Voice05/05-SE/05-SE-B01/05-SE-B01-0230",
         "layer": 1,
         "persona": "tai",
@@ -306,14 +310,14 @@
     },
     {
         "action": "PrintText",
-        "end": 52000,
+        "end": 52283,
         "persona": "Макото",
         "start": 46083,
         "text": "Я... Всё это время любил её... И предложил встречаться...^"
     },
     {
         "action": "PlayVoice",
-        "end": 52000,
+        "end": 52283,
         "file": "Voice05/05-SE/05-SE-B01/05-SE-B01-0240",
         "layer": 1,
         "persona": "mak",
@@ -321,14 +325,14 @@
     },
     {
         "action": "PrintText",
-        "end": 56000,
+        "end": 56116,
         "persona": "Таисукэ",
         "start": 52283,
         "text": "Врёшь?! У тебя ведь Кацура есть!..^"
     },
     {
         "action": "PlayVoice",
-        "end": 56000,
+        "end": 56116,
         "file": "Voice05/05-SE/05-SE-B01/05-SE-B01-0250",
         "layer": 1,
         "persona": "tai",
@@ -336,14 +340,14 @@
     },
     {
         "action": "PrintText",
-        "end": 59000,
+        "end": 59066,
         "persona": "Макото",
         "start": 56116,
         "text": "С Котонохой... Мы сегодня расстались.^"
     },
     {
         "action": "PlayVoice",
-        "end": 59000,
+        "end": 59066,
         "file": "Voice05/05-SE/05-SE-B01/05-SE-B01-0260",
         "layer": 1,
         "persona": "mak",
@@ -351,14 +355,14 @@
     },
     {
         "action": "PrintText",
-        "end": 60000,
+        "end": 60200,
         "persona": "Таисукэ",
         "start": 59083,
         "text": "Э?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 60000,
+        "end": 60200,
         "file": "Voice05/05-SE/05-SE-B01/05-SE-B01-0270",
         "layer": 1,
         "persona": "tai",
@@ -366,14 +370,14 @@
     },
     {
         "action": "PrintText",
-        "end": 64000,
+        "end": 64300,
         "persona": "Макото",
         "start": 60200,
         "text": "Ты извини, конечно, что так вышло, но...^"
     },
     {
         "action": "PlayVoice",
-        "end": 64000,
+        "end": 64300,
         "file": "Voice05/05-SE/05-SE-B01/05-SE-B01-0280",
         "layer": 1,
         "persona": "mak",
@@ -381,20 +385,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 80000,
+        "end": 80066,
         "file": "Event05/05-SE/05-SE-B01/05-SE-B01-005A",
         "start": 64300
     },
     {
         "action": "PrintText",
-        "end": 67000,
+        "end": 67216,
         "persona": "Таисукэ",
         "start": 64300,
         "text": "Иди ты.^"
     },
     {
         "action": "PlayVoice",
-        "end": 67000,
+        "end": 67216,
         "file": "Voice05/05-SE/05-SE-B01/05-SE-B01-0290",
         "layer": 1,
         "persona": "tai",
@@ -402,14 +406,14 @@
     },
     {
         "action": "PrintText",
-        "end": 68000,
+        "end": 68216,
         "persona": "Макото",
         "start": 67216,
         "text": "А...^"
     },
     {
         "action": "PlayVoice",
-        "end": 68000,
+        "end": 68216,
         "file": "Voice05/05-SE/05-SE-B01/05-SE-B01-0300",
         "layer": 1,
         "persona": "mak",
@@ -417,14 +421,14 @@
     },
     {
         "action": "PrintText",
-        "end": 72000,
+        "end": 72133,
         "persona": "Таисукэ",
         "start": 68216,
         "text": "Всё с тобой... Ясно.^"
     },
     {
         "action": "PlayVoice",
-        "end": 72000,
+        "end": 72133,
         "file": "Voice05/05-SE/05-SE-B01/05-SE-B01-0310",
         "layer": 1,
         "persona": "tai",
@@ -432,14 +436,14 @@
     },
     {
         "action": "PrintText",
-        "end": 73000,
+        "end": 73250,
         "persona": "Макото",
         "start": 72133,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 73000,
+        "end": 73250,
         "file": "Voice05/05-SE/05-SE-B01/05-SE-B01-0320",
         "layer": 1,
         "persona": "xxx",
@@ -447,14 +451,14 @@
     },
     {
         "action": "PrintText",
-        "end": 76000,
+        "end": 76116,
         "persona": "Таисукэ",
         "start": 73250,
         "text": "Я... Я-то тебя за друга считал.^"
     },
     {
         "action": "PlayVoice",
-        "end": 76000,
+        "end": 76116,
         "file": "Voice05/05-SE/05-SE-B01/05-SE-B01-0330",
         "layer": 1,
         "persona": "tai",
@@ -462,14 +466,14 @@
     },
     {
         "action": "PrintText",
-        "end": 80000,
+        "end": 80066,
         "persona": "Макото",
         "start": 76116,
         "text": "И я тебя другом считаю...^"
     },
     {
         "action": "PlayVoice",
-        "end": 80000,
+        "end": 80066,
         "file": "Voice05/05-SE/05-SE-B01/05-SE-B01-0340",
         "layer": 1,
         "persona": "mak",
@@ -477,20 +481,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 85000,
+        "end": 85233,
         "file": "Event05/05-SE/05-SE-B01/05-SE-B01-006",
         "start": 80066
     },
     {
         "action": "PrintText",
-        "end": 84000,
+        "end": 84250,
         "persona": "Таисукэ",
         "start": 80066,
         "text": "Сдурел?! Друзья так не поступают!^"
     },
     {
         "action": "PlayVoice",
-        "end": 84000,
+        "end": 84250,
         "file": "Voice05/05-SE/05-SE-B01/05-SE-B01-0350",
         "layer": 1,
         "persona": "tai",
@@ -498,14 +502,14 @@
     },
     {
         "action": "PrintText",
-        "end": 85000,
+        "end": 85233,
         "persona": "Макото",
         "start": 84233,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 85000,
+        "end": 85233,
         "file": "Voice05/05-SE/05-SE-B01/05-SE-B01-0360",
         "layer": 1,
         "persona": "mak",
@@ -513,20 +517,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 91000,
+        "end": 91266,
         "file": "Event05/05-SE/05-SE-B01/05-SE-B01-002",
         "start": 85233
     },
     {
         "action": "PrintText",
-        "end": 87000,
+        "end": 87066,
         "persona": "Таисукэ",
         "start": 85283,
         "text": "Чтоб тебя...^"
     },
     {
         "action": "PlayVoice",
-        "end": 87000,
+        "end": 87066,
         "file": "Voice05/05-SE/05-SE-B01/05-SE-B01-0370",
         "layer": 1,
         "persona": "tai",
@@ -534,14 +538,14 @@
     },
     {
         "action": "PrintText",
-        "end": 88000,
+        "end": 88333,
         "persona": "Макото",
         "start": 87383,
         "text": "Прости...^"
     },
     {
         "action": "PlayVoice",
-        "end": 88000,
+        "end": 88333,
         "file": "Voice05/05-SE/05-SE-B01/05-SE-B01-0380",
         "layer": 1,
         "persona": "mak",
@@ -549,14 +553,14 @@
     },
     {
         "action": "PrintText",
-        "end": 91000,
+        "end": 91216,
         "persona": "Таисукэ",
         "start": 90166,
         "text": "Чёрт!..^"
     },
     {
         "action": "PlayVoice",
-        "end": 91000,
+        "end": 91216,
         "file": "Voice05/05-SE/05-SE-B01/05-SE-B01-0390",
         "layer": 1,
         "persona": "tai",
@@ -564,34 +568,34 @@
     },
     {
         "action": "PlaySe",
-        "end": 91000,
+        "end": 91233,
         "file": "SysSe/SE_all/keitai/keitai_sousa",
         "layer": 2,
         "start": 91200
     },
     {
         "action": "PlaySe",
-        "end": 93000,
+        "end": 93283,
         "file": "SysSe/SE_all/keitai/hanasityuu",
         "layer": 1,
         "start": 91266
     },
     {
         "action": "CreateBG",
-        "end": 98000,
+        "end": 98200,
         "file": "Event00/00-00/00-00-H00/00-00-H00-002",
         "start": 91266
     },
     {
         "action": "PrintText",
-        "end": 95000,
+        "end": 95216,
         "persona": "Макото",
         "start": 94183,
         "text": "Таисукэ...^"
     },
     {
         "action": "PlayVoice",
-        "end": 95000,
+        "end": 95216,
         "file": "Voice05/05-SE/05-SE-B01/05-SE-B01-0410",
         "layer": 1,
         "persona": "mak",
@@ -599,14 +603,14 @@
     },
     {
         "action": "PrintText",
-        "end": 97000,
+        "end": 97266,
         "persona": "Макото",
         "start": 97016,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 97000,
+        "end": 97266,
         "file": "Voice05/05-SE/05-SE-B01/05-SE-B01-0420",
         "layer": 1,
         "persona": "xxx",
@@ -614,26 +618,26 @@
     },
     {
         "action": "CreateBG",
-        "end": 101000,
+        "end": 101200,
         "file": "Event05/05-SE/05-SE-B01/05-SE-B01-009",
         "start": 98200
     },
     {
         "action": "CreateBG",
-        "end": 102000,
+        "end": 102200,
         "file": "Event05/05-SE/05-SE-B01/05-SE-B01-010",
         "start": 101200
     },
     {
         "action": "PrintText",
-        "end": 102000,
+        "end": 102100,
         "persona": "Макото",
         "start": 101200,
         "text": "Привет.^"
     },
     {
         "action": "PlayVoice",
-        "end": 102000,
+        "end": 102100,
         "file": "Voice05/05-SE/05-SE-B01/05-SE-B01-0460",
         "layer": 1,
         "persona": "mak",
@@ -641,20 +645,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 109000,
+        "end": 109116,
         "file": "Event05/05-SE/05-SE-B01/05-SE-B01-011",
         "start": 102200
     },
     {
         "action": "PrintText",
-        "end": 103000,
+        "end": 103300,
         "persona": "Сэкаи",
         "start": 102200,
         "text": "Вот и я...^"
     },
     {
         "action": "PlayVoice",
-        "end": 103000,
+        "end": 103300,
         "file": "Voice05/05-SE/05-SE-B01/05-SE-B01-0480",
         "layer": 0,
         "persona": "sek",
@@ -662,14 +666,14 @@
     },
     {
         "action": "PrintText",
-        "end": 105000,
+        "end": 105100,
         "persona": "Макото",
         "start": 103300,
         "text": "Ага.^"
     },
     {
         "action": "PlayVoice",
-        "end": 105000,
+        "end": 105100,
         "file": "Voice05/05-SE/05-SE-B01/05-SE-B01-0490",
         "layer": 1,
         "persona": "mak",
@@ -677,14 +681,14 @@
     },
     {
         "action": "PrintText",
-        "end": 109000,
+        "end": 109100,
         "persona": "Сэкаи",
         "start": 105100,
         "text": "Пришла доложить... Что разошлась с Таисукэ.^"
     },
     {
         "action": "PlayVoice",
-        "end": 109000,
+        "end": 109100,
         "file": "Voice05/05-SE/05-SE-B01/05-SE-B01-0500",
         "layer": 0,
         "persona": "sek",
@@ -692,14 +696,14 @@
     },
     {
         "action": "PrintText",
-        "end": 110000,
+        "end": 110150,
         "persona": "Макото",
         "start": 109100,
         "text": "Знаю.^"
     },
     {
         "action": "PlayVoice",
-        "end": 110000,
+        "end": 110150,
         "file": "Voice05/05-SE/05-SE-B01/05-SE-B01-0510",
         "layer": 1,
         "persona": "mak",
@@ -707,20 +711,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 114000,
+        "end": 114200,
         "file": "Event05/05-SE/05-SE-B01/05-SE-B01-012",
         "start": 109116
     },
     {
         "action": "PrintText",
-        "end": 112000,
+        "end": 112216,
         "persona": "Сэкаи",
         "start": 110150,
         "text": "Саванага рассказал?^"
     },
     {
         "action": "PlayVoice",
-        "end": 112000,
+        "end": 112216,
         "file": "Voice05/05-SE/05-SE-B01/05-SE-B01-0530",
         "layer": 0,
         "persona": "sek",
@@ -728,14 +732,14 @@
     },
     {
         "action": "PrintText",
-        "end": 113000,
+        "end": 113083,
         "persona": "Макото",
         "start": 112216,
         "text": "Ага.^"
     },
     {
         "action": "PlayVoice",
-        "end": 113000,
+        "end": 113083,
         "file": "Voice05/05-SE/05-SE-B01/05-SE-B01-0540",
         "layer": 1,
         "persona": "mak",
@@ -743,17 +747,21 @@
     },
     {
         "action": "PrintText",
-        "end": 114000,
+        "end": 114100,
         "persona": "Сэкаи",
         "start": 113083,
         "text": "Ясно...^"
     },
     {
         "action": "PlayVoice",
-        "end": 114000,
+        "end": 114100,
         "file": "Voice05/05-SE/05-SE-B01/05-SE-B01-0550",
         "layer": 0,
         "persona": "sek",
         "start": 113083
+    },
+    {
+        "action": "Next",
+        "start": 114200
     }
 ]

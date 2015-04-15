@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 8166
+    },
+    {
         "action": "PlayBgm",
-        "end": 8000,
+        "end": 8166,
         "file": "BGM/SD_BGM/sdbgm07",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4083,
         "file": "Event02/02-2K/02-2K-K04/02-2K-K04-003",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3016,
         "persona": "Макото",
         "start": 0,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3016,
         "file": "Voice02/02-2K/02-2K-K07/02-2K-K07-0030",
         "layer": 1,
         "persona": "xxx",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4083,
         "persona": "Котоноха",
         "start": 3033,
         "text": "Макото?^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4083,
         "file": "Voice02/02-2K/02-2K-K07/02-2K-K07-0040",
         "layer": 0,
         "persona": "kot",
@@ -43,14 +47,14 @@
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7250,
         "persona": "Макото",
         "start": 4066,
         "text": "Ничего, извини! Спокойной ночи.^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7250,
         "file": "Voice02/02-2K/02-2K-K07/02-2K-K07-0050",
         "layer": 1,
         "persona": "mak",
@@ -58,8 +62,12 @@
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8166,
         "file": "Event02/02-2K/02-2K-K00/02-2K-K00-002",
         "start": 4083
+    },
+    {
+        "action": "Next",
+        "start": 8166
     }
 ]

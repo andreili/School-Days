@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 139116
+    },
+    {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1166,
         "file": "Event04/04-KE/04-KE-I01/04-KE-I01-001",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2216,
         "file": "Event04/04-KE/04-KE-I01/04-KE-I01-002",
         "start": 1166
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2216,
         "persona": "Макото",
         "start": 1200,
         "text": "Сэкаи!^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2216,
         "file": "Voice04/04-KE/04-KE-I01/04-KE-I01-0040",
         "layer": 1,
         "persona": "mak",
@@ -28,41 +32,41 @@
     },
     {
         "action": "PlaySe",
-        "end": 3000,
+        "end": 3166,
         "file": "SysSe/SE_all/h/nuno1",
         "layer": 3,
         "start": 1333
     },
     {
         "action": "PlaySe",
-        "end": 2000,
+        "end": 2383,
         "file": "SysSe/SE_all/h/nuno2",
         "layer": 2,
         "start": 1350
     },
     {
         "action": "PlaySe",
-        "end": 10000,
+        "end": 10316,
         "file": "SysSe/SE_all/station_train/train_start",
         "layer": 1,
         "start": 2200
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3250,
         "file": "Event04/04-KE/04-KE-I01/04-KE-I01-003",
         "start": 2216
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3266,
         "persona": "Сэкаи",
         "start": 2216,
         "text": "А...^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3266,
         "file": "Voice04/04-KE/04-KE-I01/04-KE-I01-0060",
         "layer": 0,
         "persona": "sek",
@@ -70,27 +74,27 @@
     },
     {
         "action": "PlaySe",
-        "end": 3000,
+        "end": 3166,
         "file": "SysSe/SE_all/h/nuno3",
         "layer": 2,
         "start": 3050
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8050,
         "file": "Event04/04-KE/04-KE-I01/04-KE-I01-004",
         "start": 3250
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8083,
         "persona": "Макото",
         "start": 3266,
         "text": "Видишь, всё не так сложно...^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8083,
         "file": "Voice04/04-KE/04-KE-I01/04-KE-I01-0070",
         "layer": 1,
         "persona": "mak",
@@ -98,20 +102,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 11000,
+        "end": 11050,
         "file": "Movie04/04-KE/04-KE-I01/04-KE-I01-005",
         "start": 8050
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10250,
         "persona": "Сэкаи",
         "start": 8083,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10250,
         "file": "Voice04/04-KE/04-KE-I01/04-KE-I01-0090",
         "layer": 0,
         "persona": "sek",
@@ -119,14 +123,18 @@
     },
     {
         "action": "EndBGM",
-        "end": 138000,
+        "end": 138383,
         "file": "BGM/Vocal/SDV04",
         "start": 8100
     },
     {
         "action": "EndRoll",
-        "end": 139000,
+        "end": 139116,
         "file": "Movie04/ENDROLL/05-13",
         "start": 11050
+    },
+    {
+        "action": "Next",
+        "start": 140116
     }
 ]

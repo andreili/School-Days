@@ -1,7 +1,11 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 15233
+    },
+    {
         "action": "PlayBgm",
-        "end": 15000,
+        "end": 15233,
         "file": "BGM/SD_BGM/sdbgm01",
         "start": 0
     },
@@ -13,14 +17,14 @@
     },
     {
         "action": "PrintText",
-        "end": 0,
+        "end": 383,
         "persona": "Макото",
         "start": 0,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 0,
+        "end": 383,
         "file": "Voice04/04-KB/04-KB-B07/04-KB-B07-0030",
         "layer": 1,
         "persona": "xxx",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5383,
         "persona": "Макото",
         "start": 383,
         "text": "Такая большая и мягкая грудь на расстоянии руки, но...^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5383,
         "file": "Voice04/04-KB/04-KB-B07/04-KB-B07-0040",
         "layer": 1,
         "persona": "xxx",
@@ -43,20 +47,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10233,
         "file": "Event04/04-KB/04-KB-B07/04-KB-B07-002",
         "start": 1000
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10216,
         "persona": "Макото",
         "start": 5383,
         "text": "После фестиваля она мне так больше никогда и не позволяла...^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10216,
         "file": "Voice04/04-KB/04-KB-B07/04-KB-B07-0050",
         "layer": 1,
         "persona": "xxx",
@@ -64,14 +68,14 @@
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11283,
         "persona": "Котоноха",
         "start": 10216,
         "text": "Макото?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11283,
         "file": "Voice04/04-KB/04-KB-B07/04-KB-B07-0060",
         "layer": 0,
         "persona": "kot",
@@ -79,23 +83,27 @@
     },
     {
         "action": "PlayMovie",
-        "end": 15000,
+        "end": 15233,
         "file": "Movie04/04-KB/04-KB-B07/04-KB-B07-003",
         "start": 10233
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15133,
         "persona": "Котоноха",
         "start": 14200,
         "text": "Э?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15133,
         "file": "Voice04/04-KB/04-KB-B07/04-KB-B07-0080",
         "layer": 0,
         "persona": "kot",
         "start": 14200
+    },
+    {
+        "action": "Next",
+        "start": 15233
     }
 ]

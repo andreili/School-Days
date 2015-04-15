@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 5033
+    },
+    {
         "action": "PlaySe",
-        "end": 5000,
+        "end": 5033,
         "file": "SysSe/SE_all/gaya/kyousitu_rouka",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1083,
         "file": "Event01/01-00/01-00-B00/01-00-B00-001",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5033,
         "file": "Event01/01-00/01-00-C06/01-00-C06-002",
         "start": 1083
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3383,
         "persona": "Котоноха",
         "start": 1233,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3383,
         "file": "Voice01/01-00/01-00-C06/01-00-C06-0040",
         "layer": 0,
         "persona": "xxx",
@@ -36,7 +40,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 5000,
+        "end": 5033,
         "start": 4033
+    },
+    {
+        "action": "Next",
+        "start": 5033
     }
 ]

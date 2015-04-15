@@ -1,27 +1,31 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 1183
+    },
+    {
         "action": "PlaySe",
-        "end": 7000,
+        "end": 7183,
         "file": "SysSe/SE_all/station_train/start_bell",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1316,
         "file": "Event04/04-SB/04-SB-C10/04-SB-C10-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1133,
         "persona": "Макото",
         "start": 150,
         "text": "Постой!^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1133,
         "file": "Voice04/04-SB/04-SB-C10/04-SB-C10-0030",
         "layer": 1,
         "persona": "mak",
@@ -31,13 +35,17 @@
         "action": "SetSELECT",
         "answer1": "Я тоже тебя люблю!^",
         "answer2": "NULL",
-        "end": 6000,
+        "end": 6183,
         "start": 1183
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7183,
         "file": "Event04/04-SB/04-SB-C10/04-SB-C10-002",
         "start": 1316
+    },
+    {
+        "action": "Next",
+        "start": 7183
     }
 ]

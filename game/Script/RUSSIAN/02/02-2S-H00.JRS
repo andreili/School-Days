@@ -1,45 +1,49 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 31000
+    },
+    {
         "action": "PlayBgm",
-        "end": 36000,
+        "end": 36083,
         "file": "BGM/SD_BGM/sdbgm03",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 36000,
+        "end": 36083,
         "file": "Se01/01-00/01-00-E00/SE01-00-E00-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2366,
         "file": "Event02/02-2S/02-2S-H00/02-2S-H00-001",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5333,
         "file": "Event02/02-2S/02-2S-H00/02-2S-H00-002",
         "start": 2366
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7266,
         "file": "Event02/02-2S/02-2S-H00/02-2S-H00-003",
         "start": 5333
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7133,
         "persona": "Котоноха",
         "start": 6033,
         "text": "Приятного аппетита.^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7133,
         "file": "Voice02/02-2S/02-2S-H00/02-2S-H00-0050",
         "layer": 0,
         "persona": "kot",
@@ -47,20 +51,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10283,
         "file": "Event02/02-2S/02-2S-H00/02-2S-H00-004",
         "start": 7266
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10200,
         "persona": "Сэкаи",
         "start": 7366,
         "text": "Приятного...^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10200,
         "file": "Voice02/02-2S/02-2S-H00/02-2S-H00-0060",
         "layer": 0,
         "persona": "sek",
@@ -74,14 +78,14 @@
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12316,
         "persona": "Макото",
         "start": 10333,
         "text": "Давайте перекусим.^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12316,
         "file": "Voice02/02-2S/02-2S-H00/02-2S-H00-0070",
         "layer": 1,
         "persona": "mak",
@@ -89,20 +93,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 19000,
+        "end": 19283,
         "file": "Event02/02-2S/02-2S-H00/02-2S-H00-006",
         "start": 13000
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16066,
         "persona": "Котоноха",
         "start": 13116,
         "text": "Макото, вот лимонад, попробуй.^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16066,
         "file": "Voice02/02-2S/02-2S-H00/02-2S-H00-0080",
         "layer": 0,
         "persona": "kot",
@@ -110,14 +114,14 @@
     },
     {
         "action": "PrintText",
-        "end": 18000,
+        "end": 18233,
         "persona": "Макото",
         "start": 16100,
         "text": "С-спасибо...^"
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18233,
         "file": "Voice02/02-2S/02-2S-H00/02-2S-H00-0090",
         "layer": 1,
         "persona": "mak",
@@ -125,14 +129,14 @@
     },
     {
         "action": "PrintText",
-        "end": 19000,
+        "end": 19233,
         "persona": "Котоноха",
         "start": 18150,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 19000,
+        "end": 19233,
         "file": "Voice02/02-2S/02-2S-H00/02-2S-H00-0100",
         "layer": 0,
         "persona": "kot",
@@ -140,20 +144,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 36000,
+        "end": 36083,
         "file": "Event02/02-2S/02-2S-H00/02-2S-H00-007",
         "start": 19283
     },
     {
         "action": "PrintText",
-        "end": 22000,
+        "end": 22016,
         "persona": "Макото",
         "start": 19283,
         "text": "Как же мне поступить...^"
     },
     {
         "action": "PlayVoice",
-        "end": 22000,
+        "end": 22016,
         "file": "Voice02/02-2S/02-2S-H00/02-2S-H00-0110",
         "layer": 1,
         "persona": "xxx",
@@ -161,14 +165,14 @@
     },
     {
         "action": "PrintText",
-        "end": 29000,
+        "end": 29083,
         "persona": "Макото",
         "start": 22183,
         "text": "Не знаю почему, но сегодня Котоноха такая счастливая...^"
     },
     {
         "action": "PlayVoice",
-        "end": 29000,
+        "end": 29083,
         "file": "Voice02/02-2S/02-2S-H00/02-2S-H00-0120",
         "layer": 1,
         "persona": "xxx",
@@ -195,5 +199,9 @@
         "answer2": "NULL",
         "end": 35000,
         "start": 31000
+    },
+    {
+        "action": "Next",
+        "start": 36083
     }
 ]

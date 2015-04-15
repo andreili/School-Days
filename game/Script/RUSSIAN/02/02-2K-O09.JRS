@@ -1,5 +1,9 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 21000
+    },
+    {
         "action": "PlaySe",
         "end": 21000,
         "file": "SysSe/SE_all/gaya/kyousitu_rouka",
@@ -8,20 +12,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2333,
         "file": "Event02/02-2K/02-2K-O00/02-2K-O00-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2316,
         "persona": "Сэкаи",
         "start": 0,
         "text": "Ладно, я в класс.^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2316,
         "file": "Voice02/02-2K/02-2K-O09/02-2K-O09-0030",
         "layer": 0,
         "persona": "sek",
@@ -29,20 +33,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9250,
         "file": "Event02/02-2K/02-2K-O00/02-2K-O00-002",
         "start": 2333
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8183,
         "persona": "Макото",
         "start": 2333,
         "text": "Прости, что накричал...^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8183,
         "file": "Voice02/02-2K/02-2K-O09/02-2K-O09-0040",
         "layer": 1,
         "persona": "mak",
@@ -50,14 +54,14 @@
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10300,
         "persona": "Сэкаи",
         "start": 8183,
         "text": "Это ерунда. Пока.^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10300,
         "file": "Voice02/02-2K/02-2K-O09/02-2K-O09-0050",
         "layer": 0,
         "persona": "sek",
@@ -65,20 +69,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 11000,
+        "end": 11300,
         "file": "Event02/02-2K/02-2K-O09/02-2K-O09-003",
         "start": 9250
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11183,
         "persona": "Макото",
         "start": 10316,
         "text": "Пока...^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11183,
         "file": "Voice02/02-2K/02-2K-O09/02-2K-O09-0060",
         "layer": 1,
         "persona": "mak",
@@ -86,20 +90,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 13000,
+        "end": 13250,
         "file": "Event02/02-2K/02-2K-N00/02-2K-N00-008",
         "start": 11300
     },
     {
         "action": "PlaySe",
-        "end": 17000,
+        "end": 17050,
         "file": "SysSe/SE_all/footsteps/asioto_out_walk",
         "layer": 1,
         "start": 11316
     },
     {
         "action": "PlayMovie",
-        "end": 15000,
+        "end": 15266,
         "file": "Movie02/02-2K/02-2K-O09/02-2K-O09-005",
         "start": 13250
     },
@@ -111,14 +115,14 @@
     },
     {
         "action": "PrintText",
-        "end": 19000,
+        "end": 19266,
         "persona": "Макото",
         "start": 15266,
         "text": "Спасибо тебе...^"
     },
     {
         "action": "PlayVoice",
-        "end": 19000,
+        "end": 19266,
         "file": "Voice02/02-2K/02-2K-O09/02-2K-O09-0090",
         "layer": 1,
         "persona": "mak",
@@ -129,5 +133,9 @@
         "dir": "OUT",
         "end": 21000,
         "start": 20000
+    },
+    {
+        "action": "Next",
+        "start": 21000
     }
 ]

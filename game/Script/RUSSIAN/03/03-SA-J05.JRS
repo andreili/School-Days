@@ -1,27 +1,31 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 9166
+    },
+    {
         "action": "PlaySe",
-        "end": 9000,
+        "end": 9166,
         "file": "Se03/03-SA/03-SA-J05/SE03-SA-J05-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "PlayMovie",
-        "end": 7000,
+        "end": 7183,
         "file": "Movie03/03-SA/03-SA-J05/03-SA-J05-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 0,
+        "end": 333,
         "persona": "Макото",
         "start": 0,
         "text": "...^"
     },
     {
         "action": "PlayVoice",
-        "end": 0,
+        "end": 333,
         "file": "Voice03/03-SA/03-SA-J05/03-SA-J05-0030",
         "layer": 1,
         "persona": "xxx",
@@ -29,14 +33,14 @@
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3300,
         "persona": "Котоноха",
         "start": 333,
         "text": "Макото... Я...^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3300,
         "file": "Voice03/03-SA/03-SA-J05/03-SA-J05-0040",
         "layer": 0,
         "persona": "kot",
@@ -44,14 +48,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4233,
         "persona": "Макото",
         "start": 3316,
         "text": "Прости...^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4233,
         "file": "Voice03/03-SA/03-SA-J05/03-SA-J05-0050",
         "layer": 1,
         "persona": "mak",
@@ -59,14 +63,14 @@
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5200,
         "persona": "Котоноха",
         "start": 4233,
         "text": "Что?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5200,
         "file": "Voice03/03-SA/03-SA-J05/03-SA-J05-0060",
         "layer": 0,
         "persona": "kot",
@@ -74,14 +78,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6250,
         "persona": "Макото",
         "start": 5200,
         "text": "Прощай!^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6250,
         "file": "Voice03/03-SA/03-SA-J05/03-SA-J05-0070",
         "layer": 1,
         "persona": "mak",
@@ -89,14 +93,14 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9116,
         "persona": "Котоноха",
         "start": 6250,
         "text": "Нет! Макото!^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9116,
         "file": "Voice03/03-SA/03-SA-J05/03-SA-J05-0080",
         "layer": 0,
         "persona": "kot",
@@ -104,8 +108,12 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9166,
         "file": "Event03/03-SA/03-SA-J05/03-SA-J05-002",
         "start": 7183
+    },
+    {
+        "action": "Next",
+        "start": 9166
     }
 ]

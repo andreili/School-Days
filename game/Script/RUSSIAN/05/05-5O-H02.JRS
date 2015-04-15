@@ -1,27 +1,31 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 11016
+    },
+    {
         "action": "PlaySe",
-        "end": 11000,
+        "end": 11016,
         "file": "SysSe/SE_all/gaya/kyousitu_rouka",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4116,
         "file": "Event05/05-5O/05-5O-H02/05-5O-H02-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1200,
         "persona": "Макото",
         "start": 50,
         "text": "Иду Сэкаи проведать.^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1200,
         "file": "Voice05/05-5O/05-5O-H02/05-5O-H02-0030",
         "layer": 1,
         "persona": "mak",
@@ -29,14 +33,14 @@
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2233,
         "persona": "Котоноха",
         "start": 1283,
         "text": "Э?^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2233,
         "file": "Voice05/05-5O/05-5O-H02/05-5O-H02-0040",
         "layer": 0,
         "persona": "kot",
@@ -44,14 +48,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4100,
         "persona": "Макото",
         "start": 2300,
         "text": "Всё равно со мной пойдёшь?^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4100,
         "file": "Voice05/05-5O/05-5O-H02/05-5O-H02-0050",
         "layer": 1,
         "persona": "mak",
@@ -59,20 +63,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 7000,
+        "end": 7300,
         "file": "Event05/05-5O/05-5O-H02/05-5O-H02-002",
         "start": 4116
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5066,
         "persona": "Котоноха",
         "start": 4166,
         "text": "Да.^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5066,
         "file": "Voice05/05-5O/05-5O-H02/05-5O-H02-0060",
         "layer": 0,
         "persona": "kot",
@@ -80,14 +84,14 @@
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5366,
         "persona": "Макото",
         "start": 5150,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5366,
         "file": "Voice05/05-5O/05-5O-H02/05-5O-H02-0070",
         "layer": 1,
         "persona": "xxx",
@@ -95,14 +99,14 @@
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7283,
         "persona": "Котоноха",
         "start": 6033,
         "text": "Я хочу пойти с тобой.^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7283,
         "file": "Voice05/05-5O/05-5O-H02/05-5O-H02-0080",
         "layer": 0,
         "persona": "kot",
@@ -110,20 +114,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9116,
         "file": "Event05/05-5O/05-5O-H02/05-5O-H02-003",
         "start": 7300
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9050,
         "persona": "Макото",
         "start": 7333,
         "text": "Ну, хозяин - барин.^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9050,
         "file": "Voice05/05-5O/05-5O-H02/05-5O-H02-0090",
         "layer": 1,
         "persona": "mak",
@@ -131,23 +135,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 11000,
+        "end": 11016,
         "file": "Event05/05-5O/05-5O-H00/05-5O-H00-001",
         "start": 9116
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10333,
         "persona": "Котоноха",
         "start": 9150,
         "text": "Именно.^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10333,
         "file": "Voice05/05-5O/05-5O-H02/05-5O-H02-0100",
         "layer": 0,
         "persona": "kot",
         "start": 9150
+    },
+    {
+        "action": "Next",
+        "start": 11016
     }
 ]

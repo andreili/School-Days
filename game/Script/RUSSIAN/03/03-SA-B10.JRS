@@ -1,5 +1,9 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 207000
+    },
+    {
         "action": "PlayBgm",
         "end": 205000,
         "file": "BGM/SD_BGM/sdbgm26",
@@ -13,20 +17,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 3000,
+        "end": 3100,
         "file": "Event03/03-SA/03-SA-B10/03-SA-B10-002",
         "start": 2000
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3066,
         "persona": "Отомэ",
         "start": 2000,
         "text": "Вот дура!^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3066,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0070",
         "layer": 0,
         "persona": "oto",
@@ -34,14 +38,14 @@
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8183,
         "persona": "Таисукэ",
         "start": 3066,
         "text": "А что здесь... Блин! Это что, использованный?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8183,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0120",
         "layer": 1,
         "persona": "tai",
@@ -49,20 +53,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 12000,
+        "end": 12300,
         "file": "Event03/03-KB/03-KB-O07/03-KB-O07-010",
         "start": 3100
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10200,
         "persona": "Котоноха",
         "start": 8183,
         "text": "Какой-то здесь странный запах.^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10200,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0130",
         "layer": 0,
         "persona": "kot",
@@ -70,14 +74,14 @@
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12033,
         "persona": "Таисукэ",
         "start": 10216,
         "text": "Да уж...^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12033,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0140",
         "layer": 1,
         "persona": "tai",
@@ -85,14 +89,14 @@
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12300,
         "persona": "Котоноха",
         "start": 12016,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12300,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0150",
         "layer": 0,
         "persona": "xxx",
@@ -100,14 +104,14 @@
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16233,
         "persona": "Таисукэ",
         "start": 12283,
         "text": "Слушай... Не расстраивайся ты так!^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16233,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0160",
         "layer": 1,
         "persona": "tai",
@@ -115,7 +119,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 22000,
+        "end": 22250,
         "file": "Event03/03-SA/03-SA-B10/03-SA-B10-004",
         "start": 12300
     },
@@ -136,14 +140,14 @@
     },
     {
         "action": "PrintText",
-        "end": 25000,
+        "end": 25283,
         "persona": "Таисукэ",
         "start": 18000,
         "text": "Со временем всё забудется. Ну и я тебя всегда поддержу.^"
     },
     {
         "action": "PlayVoice",
-        "end": 25000,
+        "end": 25283,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0180",
         "layer": 1,
         "persona": "tai",
@@ -151,20 +155,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 32000,
+        "end": 32100,
         "file": "Event03/03-SA/03-SA-B10/03-SA-B10-005",
         "start": 22250
     },
     {
         "action": "PrintText",
-        "end": 27000,
+        "end": 27300,
         "persona": "Котоноха",
         "start": 25283,
         "text": "Я же сказала, все нормально!^"
     },
     {
         "action": "PlayVoice",
-        "end": 27000,
+        "end": 27300,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0190",
         "layer": 0,
         "persona": "kot",
@@ -172,14 +176,14 @@
     },
     {
         "action": "PrintText",
-        "end": 30000,
+        "end": 30166,
         "persona": "Таисукэ",
         "start": 27300,
         "text": "Ну чего ты злишься?^"
     },
     {
         "action": "PlayVoice",
-        "end": 30000,
+        "end": 30166,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0200",
         "layer": 1,
         "persona": "tai",
@@ -187,14 +191,14 @@
     },
     {
         "action": "PrintText",
-        "end": 32000,
+        "end": 32083,
         "persona": "Котоноха",
         "start": 30183,
         "text": "Я не злюсь!^"
     },
     {
         "action": "PlayVoice",
-        "end": 32000,
+        "end": 32083,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0210",
         "layer": 0,
         "persona": "kot",
@@ -202,14 +206,14 @@
     },
     {
         "action": "PrintText",
-        "end": 37000,
+        "end": 37166,
         "persona": "Таисукэ",
         "start": 32083,
         "text": "Так или иначе, он к тебе не вернётся! Почему бы тебе не подумать о ком-нибудь другом?^"
     },
     {
         "action": "PlayVoice",
-        "end": 37000,
+        "end": 37166,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0220",
         "layer": 1,
         "persona": "tai",
@@ -217,20 +221,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 37000,
+        "end": 37166,
         "file": "Event03/03-SA/03-SA-B10/03-SA-B10-004",
         "start": 32100
     },
     {
         "action": "PrintText",
-        "end": 47000,
+        "end": 47116,
         "persona": "Котоноха",
         "start": 37150,
         "text": "Хватит! Я пойду за ним! Это всё была просто ошибка! На самом деле он меня любит!^"
     },
     {
         "action": "PlayVoice",
-        "end": 47000,
+        "end": 47116,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0230",
         "layer": 0,
         "persona": "kot",
@@ -238,20 +242,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 52000,
+        "end": 52083,
         "file": "Event03/03-SA/03-SA-B10/03-SA-B10-007",
         "start": 37166
     },
     {
         "action": "PrintText",
-        "end": 50000,
+        "end": 50033,
         "persona": "Таисукэ",
         "start": 47116,
         "text": "Значит, всё не можешь его забыть?^"
     },
     {
         "action": "PlayVoice",
-        "end": 50000,
+        "end": 50033,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0240",
         "layer": 1,
         "persona": "tai",
@@ -259,14 +263,14 @@
     },
     {
         "action": "PrintText",
-        "end": 52000,
+        "end": 52066,
         "persona": "Котоноха",
         "start": 50016,
         "text": "Да как я могу!^"
     },
     {
         "action": "PlayVoice",
-        "end": 52000,
+        "end": 52066,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0250",
         "layer": 0,
         "persona": "kot",
@@ -274,14 +278,14 @@
     },
     {
         "action": "PrintText",
-        "end": 53000,
+        "end": 53233,
         "persona": "Таисукэ",
         "start": 52066,
         "text": "Вот упрямая!^"
     },
     {
         "action": "PlayVoice",
-        "end": 53000,
+        "end": 53233,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0260",
         "layer": 1,
         "persona": "tai",
@@ -289,20 +293,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 55000,
+        "end": 55033,
         "file": "Event03/03-SA/03-SA-B10/03-SA-B10-008",
         "start": 52083
     },
     {
         "action": "PrintText",
-        "end": 55000,
+        "end": 55016,
         "persona": "Котоноха",
         "start": 53233,
         "text": "А что в этом плохого?^"
     },
     {
         "action": "PlayVoice",
-        "end": 55000,
+        "end": 55016,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0270",
         "layer": 0,
         "persona": "kot",
@@ -310,14 +314,14 @@
     },
     {
         "action": "PrintText",
-        "end": 59000,
+        "end": 59016,
         "persona": "Отомэ",
         "start": 55016,
         "text": "Если девушку хоть раз в постель затащить, пусть даже и силой, она к тебе потом привяжется.^"
     },
     {
         "action": "PlayVoice",
-        "end": 59000,
+        "end": 59016,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0290",
         "layer": 0,
         "persona": "oto",
@@ -325,7 +329,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 59000,
+        "end": 59033,
         "file": "Event03/03-SA/03-SA-B10/03-SA-B10-009",
         "start": 55033
     },
@@ -339,20 +343,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 60000,
+        "end": 60016,
         "file": "Event03/03-SA/03-SA-B10/03-SA-B10-008",
         "start": 59033
     },
     {
         "action": "PrintText",
-        "end": 68000,
+        "end": 68050,
         "persona": "Котоноха",
         "start": 60000,
         "text": "И вот ещё, Саванага, не нужно было говорить всем, что я твоя девушка... Это не так!^"
     },
     {
         "action": "PlayVoice",
-        "end": 68000,
+        "end": 68050,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0320",
         "layer": 0,
         "persona": "kot",
@@ -360,20 +364,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 73000,
+        "end": 73066,
         "file": "Movie03/03-SA/03-SA-B10/03-SA-B10-010",
         "start": 60016
     },
     {
         "action": "PrintText",
-        "end": 70000,
+        "end": 70350,
         "persona": "Котоноха",
         "start": 68050,
         "text": "Давай подумаем, как всем объяснить, что это была ошибка.^"
     },
     {
         "action": "PlayVoice",
-        "end": 70000,
+        "end": 70350,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0340",
         "layer": 0,
         "persona": "kot",
@@ -381,14 +385,14 @@
     },
     {
         "action": "PrintText",
-        "end": 72000,
+        "end": 72083,
         "persona": "Таисукэ",
         "start": 70350,
         "text": "Кацура!^"
     },
     {
         "action": "PlayVoice",
-        "end": 72000,
+        "end": 72083,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0350",
         "layer": 1,
         "persona": "tai",
@@ -396,21 +400,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 73000,
+        "end": 73016,
         "file": "SysSe/SE_all/h/nuno2",
         "layer": 1,
         "start": 72000
     },
     {
         "action": "PrintText",
-        "end": 73000,
+        "end": 73050,
         "persona": "Котоноха",
         "start": 72083,
         "text": "Нет!^"
     },
     {
         "action": "PlayVoice",
-        "end": 73000,
+        "end": 73050,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0360",
         "layer": 0,
         "persona": "kot",
@@ -418,20 +422,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 97000,
+        "end": 97133,
         "file": "Movie03/03-SA/03-SA-B10/03-SA-B10-011",
         "start": 73066
     },
     {
         "action": "PrintText",
-        "end": 74000,
+        "end": 74133,
         "persona": "Котоноха",
         "start": 73066,
         "text": "Перестань!!!^"
     },
     {
         "action": "PlayVoice",
-        "end": 74000,
+        "end": 74133,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0380",
         "layer": 0,
         "persona": "kot",
@@ -439,28 +443,28 @@
     },
     {
         "action": "PlaySe",
-        "end": 74000,
+        "end": 74050,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 73150
     },
     {
         "action": "PlaySe",
-        "end": 73000,
+        "end": 73383,
         "file": "SysSe/SE_all/h/bed4",
         "layer": 2,
         "start": 73266
     },
     {
         "action": "PrintText",
-        "end": 77000,
+        "end": 77383,
         "persona": "Таисукэ",
         "start": 74116,
         "text": "Я ведь тебя люблю! Кацура!^"
     },
     {
         "action": "PlayVoice",
-        "end": 77000,
+        "end": 77383,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0390",
         "layer": 1,
         "persona": "tai",
@@ -468,14 +472,14 @@
     },
     {
         "action": "PrintText",
-        "end": 82000,
+        "end": 82050,
         "persona": "Котоноха",
         "start": 78000,
         "text": "Пожалуйста! Не надо! У меня уже есть любимый!^"
     },
     {
         "action": "PlayVoice",
-        "end": 82000,
+        "end": 82050,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0400",
         "layer": 0,
         "persona": "kot",
@@ -498,14 +502,14 @@
     },
     {
         "action": "PrintText",
-        "end": 89000,
+        "end": 89383,
         "persona": "Котоноха",
         "start": 85000,
         "text": "Неправда! Перестань!^"
     },
     {
         "action": "PlayVoice",
-        "end": 89000,
+        "end": 89383,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0420",
         "layer": 0,
         "persona": "kot",
@@ -513,63 +517,63 @@
     },
     {
         "action": "PlaySe",
-        "end": 87000,
+        "end": 87100,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 86200
     },
     {
         "action": "PlaySe",
-        "end": 87000,
+        "end": 87350,
         "file": "SysSe/SE_all/h/nuno2",
         "layer": 2,
         "start": 86333
     },
     {
         "action": "PlaySe",
-        "end": 88000,
+        "end": 88066,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 87166
     },
     {
         "action": "PlaySe",
-        "end": 89000,
+        "end": 89033,
         "file": "SysSe/SE_all/h/nuno2",
         "layer": 2,
         "start": 88016
     },
     {
         "action": "PlaySe",
-        "end": 89000,
+        "end": 89016,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 88116
     },
     {
         "action": "PlaySe",
-        "end": 89000,
+        "end": 89383,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 89083
     },
     {
         "action": "PlaySe",
-        "end": 90000,
+        "end": 90166,
         "file": "SysSe/SE_all/h/nuno2",
         "layer": 2,
         "start": 89133
     },
     {
         "action": "PrintText",
-        "end": 91000,
+        "end": 91350,
         "persona": "Таисукэ",
         "start": 89383,
         "text": "Да тихо ты!^"
     },
     {
         "action": "PlayVoice",
-        "end": 91000,
+        "end": 91350,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0430",
         "layer": 1,
         "persona": "tai",
@@ -577,35 +581,35 @@
     },
     {
         "action": "PlaySe",
-        "end": 90000,
+        "end": 90333,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 90033
     },
     {
         "action": "PlaySe",
-        "end": 91000,
+        "end": 91300,
         "file": "SysSe/SE_all/h/nuno2",
         "layer": 2,
         "start": 90283
     },
     {
         "action": "PlaySe",
-        "end": 91000,
+        "end": 91300,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 91000
     },
     {
         "action": "PrintText",
-        "end": 97000,
+        "end": 97116,
         "persona": "Котоноха",
         "start": 91350,
         "text": "Не надо! Помогите! Кто-нибудь! Помогите!!!^"
     },
     {
         "action": "PlayVoice",
-        "end": 97000,
+        "end": 97116,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0440",
         "layer": 0,
         "persona": "kot",
@@ -613,75 +617,75 @@
     },
     {
         "action": "PlaySe",
-        "end": 92000,
+        "end": 92266,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 91366
     },
     {
         "action": "PlaySe",
-        "end": 93000,
+        "end": 93100,
         "file": "SysSe/SE_all/h/nuno2",
         "layer": 2,
         "start": 92083
     },
     {
         "action": "PlaySe",
-        "end": 93000,
+        "end": 93233,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 92333
     },
     {
         "action": "PlaySe",
-        "end": 94000,
+        "end": 94200,
         "file": "SysSe/SE_all/h/nuno2",
         "layer": 2,
         "start": 93166
     },
     {
         "action": "PlaySe",
-        "end": 94000,
+        "end": 94216,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 93316
     },
     {
         "action": "PlaySe",
-        "end": 95000,
+        "end": 95183,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 94283
     },
     {
         "action": "PlaySe",
-        "end": 95000,
+        "end": 95350,
         "file": "SysSe/SE_all/h/nuno2",
         "layer": 2,
         "start": 94333
     },
     {
         "action": "CreateBG",
-        "end": 98000,
+        "end": 98150,
         "file": "Event03/03-SA/03-SA-B10/03-SA-B10-012",
         "start": 97133
     },
     {
         "action": "CreateBG",
-        "end": 99000,
+        "end": 99200,
         "file": "Event03/03-SA/03-SA-B10/03-SA-B10-013",
         "start": 98150
     },
     {
         "action": "PrintText",
-        "end": 99000,
+        "end": 99183,
         "persona": "Минами",
         "start": 98150,
         "text": "Хм...^"
     },
     {
         "action": "PlayVoice",
-        "end": 99000,
+        "end": 99183,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0470",
         "layer": 0,
         "persona": "xxx",
@@ -689,20 +693,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 101000,
+        "end": 101183,
         "file": "Movie03/03-SA/03-SA-B10/03-SA-B10-014",
         "start": 99200
     },
     {
         "action": "PrintText",
-        "end": 105000,
+        "end": 105233,
         "persona": "Котоноха",
         "start": 99200,
         "text": "Макото! Нет! Макото!^"
     },
     {
         "action": "PlayVoice",
-        "end": 105000,
+        "end": 105233,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0490",
         "layer": 0,
         "persona": "kot",
@@ -710,96 +714,96 @@
     },
     {
         "action": "PlaySe",
-        "end": 100000,
+        "end": 100250,
         "file": "SysSe/SE_all/h/nuno2",
         "layer": 2,
         "start": 99216
     },
     {
         "action": "PlaySe",
-        "end": 100000,
+        "end": 100150,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 99250
     },
     {
         "action": "PlaySe",
-        "end": 101000,
+        "end": 101100,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 100200
     },
     {
         "action": "PlaySe",
-        "end": 101000,
+        "end": 101333,
         "file": "SysSe/SE_all/h/nuno2",
         "layer": 2,
         "start": 100316
     },
     {
         "action": "PlaySe",
-        "end": 102000,
+        "end": 102066,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 101166
     },
     {
         "action": "PlayMovie",
-        "end": 102000,
+        "end": 102366,
         "file": "Movie03/03-SA/03-SA-B10/03-SA-B10-015",
         "start": 101183
     },
     {
         "action": "CreateBG",
-        "end": 110000,
+        "end": 110083,
         "file": "Event03/03-SA/03-SA-B10/03-SA-B10-016",
         "start": 102366
     },
     {
         "action": "PlaySe",
-        "end": 104000,
+        "end": 104016,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 103116
     },
     {
         "action": "PlaySe",
-        "end": 104000,
+        "end": 104166,
         "file": "SysSe/SE_all/h/nuno2",
         "layer": 2,
         "start": 103150
     },
     {
         "action": "PlaySe",
-        "end": 104000,
+        "end": 104383,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 104083
     },
     {
         "action": "PlaySe",
-        "end": 105000,
+        "end": 105266,
         "file": "SysSe/SE_all/h/nuno2",
         "layer": 2,
         "start": 104250
     },
     {
         "action": "PlaySe",
-        "end": 105000,
+        "end": 105316,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 105016
     },
     {
         "action": "PrintText",
-        "end": 110000,
+        "end": 110083,
         "persona": "Таисукэ",
         "start": 105233,
         "text": "Ну что ты такое говоришь... Кацура...^"
     },
     {
         "action": "PlayVoice",
-        "end": 110000,
+        "end": 110083,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0500",
         "layer": 1,
         "persona": "tai",
@@ -807,83 +811,83 @@
     },
     {
         "action": "PlaySe",
-        "end": 106000,
+        "end": 106366,
         "file": "SysSe/SE_all/h/nuno2",
         "layer": 2,
         "start": 105350
     },
     {
         "action": "PlaySe",
-        "end": 106000,
+        "end": 106266,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 105383
     },
     {
         "action": "PlaySe",
-        "end": 107000,
+        "end": 107233,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 106333
     },
     {
         "action": "PlaySe",
-        "end": 108000,
+        "end": 108066,
         "file": "SysSe/SE_all/h/nuno2",
         "layer": 2,
         "start": 107033
     },
     {
         "action": "PlaySe",
-        "end": 108000,
+        "end": 108183,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 107283
     },
     {
         "action": "PlaySe",
-        "end": 109000,
+        "end": 109150,
         "file": "SysSe/SE_all/h/nuno2",
         "layer": 2,
         "start": 108133
     },
     {
         "action": "PlaySe",
-        "end": 109000,
+        "end": 109150,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 108250
     },
     {
         "action": "PlaySe",
-        "end": 110000,
+        "end": 110133,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 109233
     },
     {
         "action": "PlaySe",
-        "end": 110000,
+        "end": 110266,
         "file": "SysSe/SE_all/h/nuno2",
         "layer": 2,
         "start": 109250
     },
     {
         "action": "PlayMovie",
-        "end": 113000,
+        "end": 113350,
         "file": "Movie03/03-SA/03-SA-B10/03-SA-B10-017",
         "start": 110083
     },
     {
         "action": "PrintText",
-        "end": 113000,
+        "end": 113350,
         "persona": "Котоноха",
         "start": 110083,
         "text": "Макото! Макото!^"
     },
     {
         "action": "PlayVoice",
-        "end": 113000,
+        "end": 113350,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0510",
         "layer": 0,
         "persona": "kot",
@@ -891,28 +895,28 @@
     },
     {
         "action": "PlaySe",
-        "end": 111000,
+        "end": 111116,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 110216
     },
     {
         "action": "PlaySe",
-        "end": 111000,
+        "end": 111366,
         "file": "SysSe/SE_all/h/nuno2",
         "layer": 2,
         "start": 110333
     },
     {
         "action": "PlaySe",
-        "end": 113000,
+        "end": 113166,
         "file": "SysSe/SE_all/h/nuno2",
         "layer": 2,
         "start": 112150
     },
     {
         "action": "PlaySe",
-        "end": 113000,
+        "end": 113200,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 112300
@@ -934,62 +938,62 @@
     },
     {
         "action": "CreateBG",
-        "end": 119000,
+        "end": 119016,
         "file": "Event03/03-SA/03-SA-B10/03-SA-B10-018",
         "start": 113350
     },
     {
         "action": "PlaySe",
-        "end": 114000,
+        "end": 114333,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 114050
     },
     {
         "action": "PlaySe",
-        "end": 115000,
+        "end": 115266,
         "file": "SysSe/SE_all/h/nuno2",
         "layer": 2,
         "start": 114250
     },
     {
         "action": "PlaySe",
-        "end": 116000,
+        "end": 116383,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 116083
     },
     {
         "action": "PlaySe",
-        "end": 117000,
+        "end": 117283,
         "file": "SysSe/SE_all/h/nuno2",
         "layer": 2,
         "start": 116266
     },
     {
         "action": "PlaySe",
-        "end": 118000,
+        "end": 118350,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 118050
     },
     {
         "action": "PlaySe",
-        "end": 119000,
+        "end": 119233,
         "file": "SysSe/SE_all/h/nuno2",
         "layer": 2,
         "start": 118216
     },
     {
         "action": "PrintText",
-        "end": 123000,
+        "end": 123216,
         "persona": "Котоноха",
         "start": 119000,
         "text": "Да! Поэтому, пожалуйста, отпусти меня!^"
     },
     {
         "action": "PlayVoice",
-        "end": 123000,
+        "end": 123216,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0530",
         "layer": 0,
         "persona": "kot",
@@ -997,55 +1001,55 @@
     },
     {
         "action": "PlayMovie",
-        "end": 123000,
+        "end": 123233,
         "file": "Movie03/03-SA/03-SA-B10/03-SA-B10-019",
         "start": 119016
     },
     {
         "action": "PlaySe",
-        "end": 120000,
+        "end": 120250,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 119350
     },
     {
         "action": "PlaySe",
-        "end": 121000,
+        "end": 121166,
         "file": "SysSe/SE_all/h/nuno2",
         "layer": 2,
         "start": 120150
     },
     {
         "action": "PlaySe",
-        "end": 121000,
+        "end": 121333,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 121050
     },
     {
         "action": "PlaySe",
-        "end": 122000,
+        "end": 122383,
         "file": "SysSe/SE_all/h/nuno2",
         "layer": 2,
         "start": 121366
     },
     {
         "action": "PlaySe",
-        "end": 123000,
+        "end": 123166,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 122266
     },
     {
         "action": "PrintText",
-        "end": 127000,
+        "end": 127383,
         "persona": "Таисукэ",
         "start": 123216,
         "text": "Макото сейчас с Саиёндзи!^"
     },
     {
         "action": "PlayVoice",
-        "end": 127000,
+        "end": 127383,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0540",
         "layer": 1,
         "persona": "tai",
@@ -1053,62 +1057,62 @@
     },
     {
         "action": "CreateBG",
-        "end": 131000,
+        "end": 131300,
         "file": "Event03/03-SA/03-SA-B10/03-SA-B10-018",
         "start": 123233
     },
     {
         "action": "PlaySe",
-        "end": 124000,
+        "end": 124333,
         "file": "SysSe/SE_all/h/nuno2",
         "layer": 2,
         "start": 123316
     },
     {
         "action": "PlaySe",
-        "end": 124000,
+        "end": 124316,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 124016
     },
     {
         "action": "PlaySe",
-        "end": 126000,
+        "end": 126116,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 125216
     },
     {
         "action": "PlaySe",
-        "end": 126000,
+        "end": 126366,
         "file": "SysSe/SE_all/h/nuno2",
         "layer": 2,
         "start": 125350
     },
     {
         "action": "PlaySe",
-        "end": 127000,
+        "end": 127250,
         "file": "SysSe/SE_all/h/bed1",
         "layer": 1,
         "start": 126266
     },
     {
         "action": "PlaySe",
-        "end": 128000,
+        "end": 128150,
         "file": "SysSe/SE_all/h/nuno4",
         "layer": 2,
         "start": 127133
     },
     {
         "action": "PrintText",
-        "end": 128000,
+        "end": 128383,
         "persona": "Котоноха",
         "start": 127383,
         "text": "!!!^"
     },
     {
         "action": "PlayVoice",
-        "end": 128000,
+        "end": 128383,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0550",
         "layer": 0,
         "persona": "kot",
@@ -1116,21 +1120,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 128000,
+        "end": 128333,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 128033
     },
     {
         "action": "PrintText",
-        "end": 131000,
+        "end": 131300,
         "persona": "Таисукэ",
         "start": 128383,
         "text": "Макото и Саиёндзи встречаются!^"
     },
     {
         "action": "PlayVoice",
-        "end": 131000,
+        "end": 131300,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0560",
         "layer": 1,
         "persona": "tai",
@@ -1138,42 +1142,42 @@
     },
     {
         "action": "PlaySe",
-        "end": 129000,
+        "end": 129300,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 129000
     },
     {
         "action": "PlaySe",
-        "end": 130000,
+        "end": 130050,
         "file": "SysSe/SE_all/h/nuno2",
         "layer": 2,
         "start": 129016
     },
     {
         "action": "PlaySe",
-        "end": 131000,
+        "end": 131116,
         "file": "SysSe/SE_all/h/bed1",
         "layer": 1,
         "start": 130133
     },
     {
         "action": "PlaySe",
-        "end": 131000,
+        "end": 131316,
         "file": "SysSe/SE_all/h/nuno2",
         "layer": 2,
         "start": 130283
     },
     {
         "action": "PrintText",
-        "end": 140000,
+        "end": 140216,
         "persona": "Котоноха",
         "start": 131283,
         "text": "Неправда! Саиёндзи... Саиёндзи... Она просто...^"
     },
     {
         "action": "PlayVoice",
-        "end": 140000,
+        "end": 140216,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0570",
         "layer": 0,
         "persona": "kot",
@@ -1181,34 +1185,34 @@
     },
     {
         "action": "PlayMovie",
-        "end": 140000,
+        "end": 140233,
         "file": "Movie03/03-SA/03-SA-B10/03-SA-B10-021",
         "start": 131300
     },
     {
         "action": "PlaySe",
-        "end": 132000,
+        "end": 132250,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 131366
     },
     {
         "action": "PlaySe",
-        "end": 133000,
+        "end": 133200,
         "file": "SysSe/SE_all/h/nuno2",
         "layer": 2,
         "start": 132183
     },
     {
         "action": "PlaySe",
-        "end": 133000,
+        "end": 133316,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 133016
     },
     {
         "action": "PlaySe",
-        "end": 135000,
+        "end": 135183,
         "file": "SysSe/SE_all/h/nuno1",
         "layer": 2,
         "start": 133350
@@ -1222,83 +1226,83 @@
     },
     {
         "action": "PlaySe",
-        "end": 136000,
+        "end": 136033,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 135133
     },
     {
         "action": "PlaySe",
-        "end": 136000,
+        "end": 136366,
         "file": "SysSe/SE_all/h/nuno2",
         "layer": 2,
         "start": 135350
     },
     {
         "action": "PlaySe",
-        "end": 137000,
+        "end": 137066,
         "file": "SysSe/SE_all/h/bed2",
         "layer": 1,
         "start": 136166
     },
     {
         "action": "PlaySe",
-        "end": 138000,
+        "end": 138050,
         "file": "SysSe/SE_all/h/nuno2",
         "layer": 2,
         "start": 137033
     },
     {
         "action": "PlaySe",
-        "end": 138000,
+        "end": 138050,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 137150
     },
     {
         "action": "PlaySe",
-        "end": 139000,
+        "end": 139150,
         "file": "SysSe/SE_all/h/nuno4",
         "layer": 2,
         "start": 138133
     },
     {
         "action": "PlaySe",
-        "end": 139000,
+        "end": 139133,
         "file": "SysSe/SE_all/h/bed1",
         "layer": 1,
         "start": 138150
     },
     {
         "action": "PlaySe",
-        "end": 140000,
+        "end": 140116,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 139216
     },
     {
         "action": "PlaySe",
-        "end": 141000,
+        "end": 141166,
         "file": "SysSe/SE_all/h/nuno1",
         "layer": 2,
         "start": 139333
     },
     {
         "action": "CreateBG",
-        "end": 142000,
+        "end": 142033,
         "file": "Event03/03-SA/03-SA-B10/03-SA-B10-018",
         "start": 140233
     },
     {
         "action": "PrintText",
-        "end": 142000,
+        "end": 142016,
         "persona": "Таисукэ",
         "start": 140233,
         "text": "Я говорю правду!^"
     },
     {
         "action": "PlayVoice",
-        "end": 142000,
+        "end": 142016,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0580",
         "layer": 1,
         "persona": "tai",
@@ -1306,35 +1310,35 @@
     },
     {
         "action": "PlaySe",
-        "end": 141000,
+        "end": 141283,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 141000
     },
     {
         "action": "PlaySe",
-        "end": 142000,
+        "end": 142366,
         "file": "SysSe/SE_all/h/bed1",
         "layer": 1,
         "start": 141383
     },
     {
         "action": "PlaySe",
-        "end": 143000,
+        "end": 143033,
         "file": "SysSe/SE_all/h/nuno4",
         "layer": 2,
         "start": 142000
     },
     {
         "action": "PrintText",
-        "end": 152000,
+        "end": 152333,
         "persona": "Котоноха",
         "start": 142016,
         "text": "Они только раз... Макото говорил, что это была ошибка... Я его простила... Поэтому...^"
     },
     {
         "action": "PlayVoice",
-        "end": 152000,
+        "end": 152333,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0590",
         "layer": 0,
         "persona": "kot",
@@ -1342,118 +1346,118 @@
     },
     {
         "action": "PlayMovie",
-        "end": 152000,
+        "end": 152350,
         "file": "Movie03/03-SA/03-SA-B10/03-SA-B10-023",
         "start": 142033
     },
     {
         "action": "PlaySe",
-        "end": 144000,
+        "end": 144066,
         "file": "SysSe/SE_all/h/bed1",
         "layer": 1,
         "start": 143083
     },
     {
         "action": "PlaySe",
-        "end": 144000,
+        "end": 144183,
         "file": "SysSe/SE_all/h/nuno4",
         "layer": 2,
         "start": 143166
     },
     {
         "action": "PlaySe",
-        "end": 145000,
+        "end": 145066,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 144183
     },
     {
         "action": "PlaySe",
-        "end": 146000,
+        "end": 146066,
         "file": "SysSe/SE_all/h/nuno4",
         "layer": 2,
         "start": 145033
     },
     {
         "action": "PlaySe",
-        "end": 146000,
+        "end": 146116,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 145216
     },
     {
         "action": "PlaySe",
-        "end": 147000,
+        "end": 147133,
         "file": "SysSe/SE_all/h/nuno4",
         "layer": 2,
         "start": 146116
     },
     {
         "action": "PlaySe",
-        "end": 147000,
+        "end": 147216,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 146316
     },
     {
         "action": "PlaySe",
-        "end": 148000,
+        "end": 148300,
         "file": "SysSe/SE_all/h/bed1",
         "layer": 1,
         "start": 147316
     },
     {
         "action": "PlaySe",
-        "end": 149000,
+        "end": 149033,
         "file": "SysSe/SE_all/h/nuno2",
         "layer": 2,
         "start": 148016
     },
     {
         "action": "PlaySe",
-        "end": 150000,
+        "end": 150016,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 149116
     },
     {
         "action": "PlaySe",
-        "end": 150000,
+        "end": 150333,
         "file": "SysSe/SE_all/h/nuno4",
         "layer": 2,
         "start": 149316
     },
     {
         "action": "PlaySe",
-        "end": 151000,
+        "end": 151116,
         "file": "SysSe/SE_all/h/bed1",
         "layer": 1,
         "start": 150133
     },
     {
         "action": "PlaySe",
-        "end": 152000,
+        "end": 152116,
         "file": "SysSe/SE_all/h/nuno2",
         "layer": 2,
         "start": 151083
     },
     {
         "action": "PlaySe",
-        "end": 152000,
+        "end": 152216,
         "file": "SysSe/SE_all/h/bed1",
         "layer": 1,
         "start": 151216
     },
     {
         "action": "PrintText",
-        "end": 157000,
+        "end": 157100,
         "persona": "Таисукэ",
         "start": 152333,
         "text": "Так ты знала, что они встречаются?^"
     },
     {
         "action": "PlayVoice",
-        "end": 157000,
+        "end": 157100,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0600",
         "layer": 1,
         "persona": "tai",
@@ -1461,76 +1465,76 @@
     },
     {
         "action": "PlaySe",
-        "end": 153000,
+        "end": 153333,
         "file": "SysSe/SE_all/h/bed1",
         "layer": 1,
         "start": 152350
     },
     {
         "action": "PlayMovie",
-        "end": 157000,
+        "end": 157116,
         "file": "Movie03/03-SA/03-SA-B10/03-SA-B10-024",
         "start": 152350
     },
     {
         "action": "PlaySe",
-        "end": 154000,
+        "end": 154333,
         "file": "SysSe/SE_all/h/nuno1",
         "layer": 2,
         "start": 153100
     },
     {
         "action": "PlaySe",
-        "end": 154000,
+        "end": 154316,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 154016
     },
     {
         "action": "PlaySe",
-        "end": 155000,
+        "end": 155133,
         "file": "SysSe/SE_all/h/bed6",
         "layer": 1,
         "start": 155016
     },
     {
         "action": "PlaySe",
-        "end": 156000,
+        "end": 156216,
         "file": "SysSe/SE_all/h/nuno2",
         "layer": 2,
         "start": 155200
     },
     {
         "action": "PlaySe",
-        "end": 156000,
+        "end": 156316,
         "file": "SysSe/SE_all/h/bed1",
         "layer": 1,
         "start": 155333
     },
     {
         "action": "PlaySe",
-        "end": 157000,
+        "end": 157316,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 157033
     },
     {
         "action": "PlaySe",
-        "end": 158000,
+        "end": 158100,
         "file": "SysSe/SE_all/h/nuno4",
         "layer": 2,
         "start": 157066
     },
     {
         "action": "PrintText",
-        "end": 160000,
+        "end": 160316,
         "persona": "Котоноха",
         "start": 157100,
         "text": "Они не встречаются! Не встречаются!^"
     },
     {
         "action": "PlayVoice",
-        "end": 160000,
+        "end": 160316,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0610",
         "layer": 0,
         "persona": "kot",
@@ -1538,55 +1542,55 @@
     },
     {
         "action": "PlayMovie",
-        "end": 160000,
+        "end": 160333,
         "file": "Movie03/03-SA/03-SA-B10/03-SA-B10-025",
         "start": 157116
     },
     {
         "action": "PlaySe",
-        "end": 158000,
+        "end": 158316,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 158016
     },
     {
         "action": "PlaySe",
-        "end": 160000,
+        "end": 160100,
         "file": "SysSe/SE_all/h/nuno1",
         "layer": 2,
         "start": 158266
     },
     {
         "action": "PlaySe",
-        "end": 160000,
+        "end": 160083,
         "file": "SysSe/SE_all/h/bed1",
         "layer": 1,
         "start": 159100
     },
     {
         "action": "PlaySe",
-        "end": 162000,
+        "end": 162066,
         "file": "SysSe/SE_all/h/nuno1",
         "layer": 2,
         "start": 160233
     },
     {
         "action": "PlaySe",
-        "end": 161000,
+        "end": 161250,
         "file": "SysSe/SE_all/h/bed1",
         "layer": 1,
         "start": 160266
     },
     {
         "action": "PrintText",
-        "end": 164000,
+        "end": 164200,
         "persona": "Таисукэ",
         "start": 160316,
         "text": "Да забудь ты о них!^"
     },
     {
         "action": "PlayVoice",
-        "end": 164000,
+        "end": 164200,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0620",
         "layer": 1,
         "persona": "tai",
@@ -1594,41 +1598,41 @@
     },
     {
         "action": "CreateBG",
-        "end": 169000,
+        "end": 169316,
         "file": "Event03/03-SA/03-SA-B10/03-SA-B10-018",
         "start": 160333
     },
     {
         "action": "PlaySe",
-        "end": 163000,
+        "end": 163200,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 162300
     },
     {
         "action": "PlaySe",
-        "end": 165000,
+        "end": 165016,
         "file": "SysSe/SE_all/h/bed1",
         "layer": 1,
         "start": 164033
     },
     {
         "action": "PlaySe",
-        "end": 165000,
+        "end": 165350,
         "file": "SysSe/SE_all/h/nuno1",
         "layer": 2,
         "start": 164116
     },
     {
         "action": "PrintText",
-        "end": 166000,
+        "end": 166066,
         "persona": "Котоноха",
         "start": 164200,
         "text": "Никогда!^"
     },
     {
         "action": "PlayVoice",
-        "end": 166000,
+        "end": 166066,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0630",
         "layer": 0,
         "persona": "kot",
@@ -1636,21 +1640,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 166000,
+        "end": 166050,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 165150
     },
     {
         "action": "PrintText",
-        "end": 169000,
+        "end": 169300,
         "persona": "Таисукэ",
         "start": 166066,
         "text": "Ну тогда я тебе помогу...^"
     },
     {
         "action": "PlayVoice",
-        "end": 169000,
+        "end": 169300,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0640",
         "layer": 1,
         "persona": "tai",
@@ -1658,49 +1662,49 @@
     },
     {
         "action": "PlaySe",
-        "end": 167000,
+        "end": 167133,
         "file": "SysSe/SE_all/h/nuno2",
         "layer": 2,
         "start": 166100
     },
     {
         "action": "PlaySe",
-        "end": 167000,
+        "end": 167333,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 167033
     },
     {
         "action": "PlaySe",
-        "end": 169000,
+        "end": 169233,
         "file": "SysSe/SE_all/h/nuno1",
         "layer": 2,
         "start": 168000
     },
     {
         "action": "PlaySe",
-        "end": 169000,
+        "end": 169150,
         "file": "SysSe/SE_all/h/bed1",
         "layer": 1,
         "start": 168166
     },
     {
         "action": "PlaySe",
-        "end": 170000,
+        "end": 170133,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 169233
     },
     {
         "action": "PrintText",
-        "end": 172000,
+        "end": 172033,
         "persona": "Котоноха",
         "start": 169300,
         "text": "Неееееет!!!^"
     },
     {
         "action": "PlayVoice",
-        "end": 172000,
+        "end": 172033,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0650",
         "layer": 0,
         "persona": "kot",
@@ -1708,41 +1712,41 @@
     },
     {
         "action": "PlayMovie",
-        "end": 173000,
+        "end": 173233,
         "file": "Movie03/03-SA/03-SA-B10/03-SA-B10-027",
         "start": 169316
     },
     {
         "action": "PlaySe",
-        "end": 170000,
+        "end": 170216,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 2,
         "start": 169333
     },
     {
         "action": "PlaySe",
-        "end": 171000,
+        "end": 171050,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 170150
     },
     {
         "action": "PlaySe",
-        "end": 171000,
+        "end": 171133,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 2,
         "start": 170233
     },
     {
         "action": "PlaySe",
-        "end": 171000,
+        "end": 171350,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 171050
     },
     {
         "action": "PlaySe",
-        "end": 172000,
+        "end": 172033,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 2,
         "start": 171133
@@ -1750,12 +1754,12 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 173000,
+        "end": 173233,
         "start": 171233
     },
     {
         "action": "PlaySe",
-        "end": 172000,
+        "end": 172283,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 171383
@@ -1769,26 +1773,26 @@
     },
     {
         "action": "CreateBG",
-        "end": 176000,
+        "end": 176050,
         "file": "Event03/03-SA/03-SA-B10/03-SA-B10-028",
         "start": 173233
     },
     {
         "action": "CreateBG",
-        "end": 181000,
+        "end": 181333,
         "file": "Event03/03-SA/03-SA-B10/03-SA-B10-029",
         "start": 176050
     },
     {
         "action": "PrintText",
-        "end": 178000,
+        "end": 178266,
         "persona": "Таисукэ",
         "start": 176050,
         "text": "Ха...^"
     },
     {
         "action": "PlayVoice",
-        "end": 178000,
+        "end": 178266,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0710",
         "layer": 1,
         "persona": "tai",
@@ -1797,33 +1801,33 @@
     {
         "action": "BlackFade",
         "dir": "IN",
-        "end": 177000,
+        "end": 177050,
         "start": 176050
     },
     {
         "action": "PlaySe",
-        "end": 176000,
+        "end": 176383,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 176083
     },
     {
         "action": "PlaySe",
-        "end": 178000,
+        "end": 178366,
         "file": "SysSe/SE_all/h/nuno1",
         "layer": 2,
         "start": 177133
     },
     {
         "action": "PrintText",
-        "end": 181000,
+        "end": 181316,
         "persona": "Котоноха",
         "start": 178266,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 181000,
+        "end": 181316,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0720",
         "layer": 0,
         "persona": "xxx",
@@ -1831,35 +1835,35 @@
     },
     {
         "action": "PlaySe",
-        "end": 179000,
+        "end": 179183,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 178283
     },
     {
         "action": "PlaySe",
-        "end": 181000,
+        "end": 181200,
         "file": "SysSe/SE_all/h/nuno1",
         "layer": 2,
         "start": 179366
     },
     {
         "action": "PlaySe",
-        "end": 182000,
+        "end": 182083,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 181183
     },
     {
         "action": "PrintText",
-        "end": 186000,
+        "end": 186383,
         "persona": "Таисукэ",
         "start": 181316,
         "text": "Господи, как же хорошо...^"
     },
     {
         "action": "PlayVoice",
-        "end": 186000,
+        "end": 186383,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0730",
         "layer": 1,
         "persona": "tai",
@@ -1873,27 +1877,27 @@
     },
     {
         "action": "PlaySe",
-        "end": 184000,
+        "end": 184366,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 2,
         "start": 184066
     },
     {
         "action": "CreateBG",
-        "end": 199000,
+        "end": 199266,
         "file": "Event03/03-SA/03-SA-B10/03-SA-B10-031",
         "start": 187000
     },
     {
         "action": "PrintText",
-        "end": 190000,
+        "end": 190033,
         "persona": "Котоноха",
         "start": 187000,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 190000,
+        "end": 190033,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0740",
         "layer": 0,
         "persona": "xxx",
@@ -1901,21 +1905,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 189000,
+        "end": 189033,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 188133
     },
     {
         "action": "PrintText",
-        "end": 199000,
+        "end": 199250,
         "persona": "Таисукэ",
         "start": 190033,
         "text": "Слушай... Я это... Правда тебя люблю и всё такое... Серьёзно, давай встречаться!^"
     },
     {
         "action": "PlayVoice",
-        "end": 199000,
+        "end": 199250,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0750",
         "layer": 1,
         "persona": "tai",
@@ -1923,21 +1927,21 @@
     },
     {
         "action": "PlaySe",
-        "end": 194000,
+        "end": 194216,
         "file": "SysSe/SE_all/h/nuno1",
         "layer": 2,
         "start": 192383
     },
     {
         "action": "PrintText",
-        "end": 202000,
+        "end": 202333,
         "persona": "Котоноха",
         "start": 199250,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 202000,
+        "end": 202333,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0760",
         "layer": 0,
         "persona": "xxx",
@@ -1945,27 +1949,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 204000,
+        "end": 204016,
         "file": "Event03/03-SA/03-SA-B10/03-SA-B10-030",
         "start": 199266
     },
     {
         "action": "PlaySe",
-        "end": 202000,
+        "end": 202316,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 202016
     },
     {
         "action": "PrintText",
-        "end": 204000,
+        "end": 204016,
         "persona": "Таисукэ",
         "start": 202333,
         "text": "Кацура?^"
     },
     {
         "action": "PlayVoice",
-        "end": 204000,
+        "end": 204016,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0770",
         "layer": 1,
         "persona": "tai",
@@ -1973,7 +1977,7 @@
     },
     {
         "action": "PlayVoice",
-        "end": 205000,
+        "end": 205233,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0780",
         "layer": -1,
         "persona": "",
@@ -1981,27 +1985,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 205000,
+        "end": 205250,
         "file": "Event03/03-SA/03-SA-B10/03-SA-B10-016",
         "start": 204016
     },
     {
         "action": "PlaySe",
-        "end": 204000,
+        "end": 204383,
         "file": "SysSe/SE_all/h/bed3",
         "layer": 1,
         "start": 204083
     },
     {
         "action": "PrintText",
-        "end": 206000,
+        "end": 206100,
         "persona": "Таисукэ",
         "start": 205233,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 206000,
+        "end": 206100,
         "file": "Voice03/03-SA/03-SA-B10/03-SA-B10-0790",
         "layer": 1,
         "persona": "tai",
@@ -2012,5 +2016,9 @@
         "end": 207000,
         "file": "Event03/03-SA/03-SA-B10/03-SA-B10-034",
         "start": 205250
+    },
+    {
+        "action": "Next",
+        "start": 207000
     }
 ]

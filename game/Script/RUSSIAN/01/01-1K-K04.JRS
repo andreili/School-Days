@@ -1,40 +1,44 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 15383
+    },
+    {
         "action": "PlayBgm",
-        "end": 15000,
+        "end": 15383,
         "file": "BGM/SD_BGM/sdbgm06",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 15000,
+        "end": 15383,
         "file": "Se01/01-00/01-00-B00/SE01-00-B00-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 15000,
+        "end": 15383,
         "file": "SysSe/SE_all/school/chime",
         "layer": 2,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 11000,
+        "end": 11216,
         "file": "Event01/01-1K/01-1K-K04/01-1K-K04-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11200,
         "persona": "Макото",
         "start": 10200,
         "text": "Так, ладно!^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11200,
         "file": "Voice01/01-1K/01-1K-K04/01-1K-K04-0040",
         "layer": 1,
         "persona": "mak",
@@ -42,35 +46,39 @@
     },
     {
         "action": "CreateBG",
-        "end": 13000,
+        "end": 13033,
         "file": "Event01/01-1K/01-1K-K04/01-1K-K04-002",
         "start": 11216
     },
     {
         "action": "CreateBG",
-        "end": 14000,
+        "end": 14366,
         "file": "Event01/01-1K/01-1K-K04/01-1K-K04-003",
         "start": 13033
     },
     {
         "action": "CreateBG",
-        "end": 15000,
+        "end": 15383,
         "file": "Event01/01-1K/01-1K-K04/01-1K-K04-003B",
         "start": 14366
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15233,
         "persona": "Макото",
         "start": 14366,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15233,
         "file": "Voice01/01-1K/01-1K-K04/01-1K-K04-0060",
         "layer": 1,
         "persona": "mak",
         "start": 14366
+    },
+    {
+        "action": "Next",
+        "start": 15383
     }
 ]

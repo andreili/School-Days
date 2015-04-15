@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 19250
+    },
+    {
         "action": "PlayBgm",
-        "end": 19000,
+        "end": 19250,
         "file": "BGM/SD_BGM/sdbgm07",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 19000,
+        "end": 19250,
         "file": "Se03/03-SB/03-SB-I10/SE03-SB-I10-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8300,
         "file": "Event03/03-SB/03-SB-I10/03-SB-I10-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 0,
+        "end": 200,
         "persona": "Макото",
         "start": 0,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 0,
+        "end": 200,
         "file": "Voice03/03-SB/03-SB-I10/03-SB-I10-0030",
         "layer": 1,
         "persona": "xxx",
@@ -35,14 +39,14 @@
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1200,
         "persona": "Сэкаи",
         "start": 200,
         "text": "Макото?^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1200,
         "file": "Voice03/03-SB/03-SB-I10/03-SB-I10-0040",
         "layer": 0,
         "persona": "sek",
@@ -50,14 +54,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4300,
         "persona": "Макото",
         "start": 1200,
         "text": "Ой! Извини...^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4300,
         "file": "Voice03/03-SB/03-SB-I10/03-SB-I10-0050",
         "layer": 1,
         "persona": "mak",
@@ -65,14 +69,14 @@
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5316,
         "persona": "Сэкаи",
         "start": 4300,
         "text": "Что-то не так?^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5316,
         "file": "Voice03/03-SB/03-SB-I10/03-SB-I10-0060",
         "layer": 0,
         "persona": "sek",
@@ -80,14 +84,14 @@
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8300,
         "persona": "Макото",
         "start": 5316,
         "text": "Я просто засмотрелся на тебя...^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8300,
         "file": "Voice03/03-SB/03-SB-I10/03-SB-I10-0070",
         "layer": 1,
         "persona": "mak",
@@ -95,20 +99,20 @@
     },
     {
         "action": "PlayMovie",
-        "end": 19000,
+        "end": 19250,
         "file": "Movie03/03-SB/03-SB-I10/03-SB-I10-002",
         "start": 8300
     },
     {
         "action": "PrintText",
-        "end": 12000,
+        "end": 12250,
         "persona": "Сэкаи",
         "start": 8300,
         "text": "Ой! Ну перестань! Я смущаюсь...^"
     },
     {
         "action": "PlayVoice",
-        "end": 12000,
+        "end": 12250,
         "file": "Voice03/03-SB/03-SB-I10/03-SB-I10-0080",
         "layer": 0,
         "persona": "sek",
@@ -116,14 +120,14 @@
     },
     {
         "action": "PrintText",
-        "end": 13000,
+        "end": 13300,
         "persona": "Макото",
         "start": 12233,
         "text": "Извини.^"
     },
     {
         "action": "PlayVoice",
-        "end": 13000,
+        "end": 13300,
         "file": "Voice03/03-SB/03-SB-I10/03-SB-I10-0090",
         "layer": 1,
         "persona": "mak",
@@ -131,14 +135,14 @@
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14383,
         "persona": "Сэкаи",
         "start": 13283,
         "text": "Ничего, я не против.^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14383,
         "file": "Voice03/03-SB/03-SB-I10/03-SB-I10-0100",
         "layer": 0,
         "persona": "sek",
@@ -146,17 +150,21 @@
     },
     {
         "action": "PrintText",
-        "end": 19000,
+        "end": 19083,
         "persona": "Макото",
         "start": 14383,
         "text": "Да кстати, Сэкаи...^"
     },
     {
         "action": "PlayVoice",
-        "end": 19000,
+        "end": 19083,
         "file": "Voice03/03-SB/03-SB-I10/03-SB-I10-0110",
         "layer": 1,
         "persona": "mak",
         "start": 14383
+    },
+    {
+        "action": "Next",
+        "start": 19250
     }
 ]

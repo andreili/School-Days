@@ -1,27 +1,31 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 25366
+    },
+    {
         "action": "PlaySe",
-        "end": 31000,
+        "end": 31383,
         "file": "SysSe/SE_all/gaya/syoutengai",
         "layer": 2,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5083,
         "file": "Event04/04-SA/04-SA-J00/04-SA-J00-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 0,
+        "end": 333,
         "persona": "Макото",
         "start": 100,
         "text": "А.^"
     },
     {
         "action": "PlayVoice",
-        "end": 0,
+        "end": 333,
         "file": "Voice04/04-SA/04-SA-J00/04-SA-J00-0030",
         "layer": 1,
         "persona": "mak",
@@ -29,14 +33,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4116,
         "persona": "Макото",
         "start": 333,
         "text": "Надо же Итару подарок купить!^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4116,
         "file": "Voice04/04-SA/04-SA-J00/04-SA-J00-0040",
         "layer": 1,
         "persona": "mak",
@@ -45,12 +49,12 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 5000,
+        "end": 5083,
         "start": 4266
     },
     {
         "action": "PlaySe",
-        "end": 6000,
+        "end": 6183,
         "file": "SysSe/SE_all/other/register",
         "layer": 1,
         "start": 5083
@@ -63,14 +67,14 @@
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8050,
         "persona": "Продавец",
         "start": 6166,
         "text": "Спасибо за покупку!^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8050,
         "file": "Voice04/04-SA/04-SA-J00/04-SA-J00-0060",
         "layer": 0,
         "persona": "ten",
@@ -78,26 +82,26 @@
     },
     {
         "action": "CreateBG",
-        "end": 18000,
+        "end": 18050,
         "file": "Event04/04-SA/04-SA-J00/04-SA-J00-003B",
         "start": 8000
     },
     {
         "action": "BlackFade",
         "dir": "IN",
-        "end": 8000,
+        "end": 8183,
         "start": 8000
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10283,
         "persona": "Макото",
         "start": 9033,
         "text": "Ну и цены...^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10283,
         "file": "Voice04/04-SA/04-SA-J00/04-SA-J00-0080",
         "layer": 1,
         "persona": "mak",
@@ -105,14 +109,14 @@
     },
     {
         "action": "PrintText",
-        "end": 18000,
+        "end": 18066,
         "persona": "Макото",
         "start": 11033,
         "text": "Так... Осталось... 2000 йен.^"
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18066,
         "file": "Voice04/04-SA/04-SA-J00/04-SA-J00-0090",
         "layer": 1,
         "persona": "mak",
@@ -120,20 +124,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 31000,
+        "end": 31383,
         "file": "Event04/04-SA/04-SA-J00/04-SA-J00-004",
         "start": 18050
     },
     {
         "action": "PrintText",
-        "end": 22000,
+        "end": 22033,
         "persona": "Макото",
         "start": 18183,
         "text": "Сколько там билет в бассейн стоит?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 22000,
+        "end": 22033,
         "file": "Voice04/04-SA/04-SA-J00/04-SA-J00-0100",
         "layer": 1,
         "persona": "mak",
@@ -141,14 +145,14 @@
     },
     {
         "action": "PrintText",
-        "end": 25000,
+        "end": 25183,
         "persona": "Макото",
         "start": 22166,
         "text": "Не хватало ещё, чтобы денег не хватило...^"
     },
     {
         "action": "PlayVoice",
-        "end": 25000,
+        "end": 25183,
         "file": "Voice04/04-SA/04-SA-J00/04-SA-J00-0110",
         "layer": 1,
         "persona": "mak",
@@ -158,7 +162,11 @@
         "action": "SetSELECT",
         "answer1": "Проверить.",
         "answer2": "NULL",
-        "end": 30000,
+        "end": 30366,
         "start": 25366
+    },
+    {
+        "action": "Next",
+        "start": 31383
     }
 ]

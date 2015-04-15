@@ -1,27 +1,31 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 5333
+    },
+    {
         "action": "PlaySe",
-        "end": 5000,
+        "end": 5316,
         "file": "Se03/03-KA/03-KA-L01/SE03-KA-L01-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1166,
         "file": "Event03/03-KA/03-KA-L01/03-KA-L01-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 0,
+        "end": 383,
         "persona": "Макото",
         "start": 0,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 0,
+        "end": 383,
         "file": "Voice03/03-KA/03-KA-L01/03-KA-L01-0030",
         "layer": 1,
         "persona": "xxx",
@@ -29,20 +33,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2150,
         "file": "Event03/03-KA/03-KA-L01/03-KA-L01-002",
         "start": 1166
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2100,
         "persona": "Сэцуна",
         "start": 1183,
         "text": "Смотри!^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2100,
         "file": "Voice03/03-KA/03-KA-L01/03-KA-L01-0040",
         "layer": 0,
         "persona": "set",
@@ -50,20 +54,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5333,
         "file": "Event03/03-KA/03-KA-L01/03-KA-L01-003",
         "start": 2150
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4216,
         "persona": "Макото",
         "start": 2250,
         "text": "Да понял я!^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4216,
         "file": "Voice03/03-KA/03-KA-L01/03-KA-L01-0050",
         "layer": 1,
         "persona": "mak",
@@ -72,7 +76,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 5000,
+        "end": 5333,
         "start": 4333
+    },
+    {
+        "action": "Next",
+        "start": 5333
     }
 ]

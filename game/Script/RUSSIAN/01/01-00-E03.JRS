@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 21283
+    },
+    {
         "action": "PlayBgm",
-        "end": 21000,
+        "end": 21283,
         "file": "BGM/SD_BGM/sdbgm03",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 21000,
+        "end": 21283,
         "file": "Se01/01-00/01-00-E00/SE01-00-E00-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2366,
         "file": "Event01/01-00/01-00-E02/01-00-E02-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1383,
         "persona": "Макото",
         "start": 100,
         "text": "Не знаю...^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1383,
         "file": "Voice01/01-00/01-00-E03/01-00-E03-0030",
         "layer": 1,
         "persona": "mak",
@@ -35,14 +39,14 @@
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2283,
         "persona": "Котоноха",
         "start": 1300,
         "text": "Что?^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2283,
         "file": "Voice01/01-00/01-00-E03/01-00-E03-0040",
         "layer": 0,
         "persona": "kot",
@@ -50,20 +54,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8266,
         "file": "Event01/01-00/01-00-E03/01-00-E03-002",
         "start": 2366
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8216,
         "persona": "Макото",
         "start": 3033,
         "text": "Характер у неё такой. Решила с нами больше не обедать...^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8216,
         "file": "Voice01/01-00/01-00-E03/01-00-E03-0050",
         "layer": 1,
         "persona": "mak",
@@ -71,20 +75,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10366,
         "file": "Event01/01-00/01-00-E03/01-00-E03-003",
         "start": 8266
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10300,
         "persona": "Котоноха",
         "start": 8366,
         "text": "Саиёндзи...^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10300,
         "file": "Voice01/01-00/01-00-E03/01-00-E03-0060",
         "layer": 0,
         "persona": "kot",
@@ -92,20 +96,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 16000,
+        "end": 16283,
         "file": "Event01/01-00/01-00-E01/01-00-E01-004",
         "start": 10366
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16200,
         "persona": "Макото",
         "start": 11050,
         "text": "Сначала она нас познакомила, теперь избегает. Нам ведь втроём весело было...^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16200,
         "file": "Voice01/01-00/01-00-E03/01-00-E03-0070",
         "layer": 1,
         "persona": "mak",
@@ -113,20 +117,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 21000,
+        "end": 21283,
         "file": "Event01/01-00/01-00-E03/01-00-E03-005",
         "start": 16283
     },
     {
         "action": "PrintText",
-        "end": 19000,
+        "end": 19316,
         "persona": "Котоноха",
         "start": 17300,
         "text": "Да, наверное...^"
     },
     {
         "action": "PlayVoice",
-        "end": 19000,
+        "end": 19316,
         "file": "Voice01/01-00/01-00-E03/01-00-E03-0080",
         "layer": 0,
         "persona": "kot",
@@ -135,7 +139,11 @@
     {
         "action": "BlackFade",
         "dir": "OUT",
-        "end": 21000,
+        "end": 21283,
         "start": 20283
+    },
+    {
+        "action": "Next",
+        "start": 21283
     }
 ]

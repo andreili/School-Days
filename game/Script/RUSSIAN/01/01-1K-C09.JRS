@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 10133
+    },
+    {
         "action": "PlayBgm",
-        "end": 10000,
+        "end": 10133,
         "file": "BGM/SD_BGM/sdbgm07",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4316,
         "file": "Event01/01-1K/01-1K-C01/01-1K-C01-002",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4083,
         "persona": "Макото",
         "start": 0,
         "text": "Что-то ничего в голову не приходит...^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4083,
         "file": "Voice01/01-1K/01-1K-C09/01-1K-C09-0030",
         "layer": 1,
         "persona": "mak",
@@ -28,7 +32,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 10000,
+        "end": 10133,
         "file": "Event01/01-1K/01-1K-C00/00-00-F00-010WIN",
         "start": 4316
     },
@@ -41,17 +45,21 @@
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10116,
         "persona": "Макото",
         "start": 8000,
         "text": "так что доверимся её мнению!^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10116,
         "file": "Voice01/01-1K/01-1K-C09/01-1K-C09-0040",
         "layer": 1,
         "persona": "mak",
         "start": 5116
+    },
+    {
+        "action": "Next",
+        "start": 10133
     }
 ]

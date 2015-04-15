@@ -1,5 +1,9 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 83000
+    },
+    {
         "action": "PlayBgm",
         "end": 83000,
         "file": "BGM/SD_BGM/sdbgm20",
@@ -14,7 +18,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 11000,
+        "end": 11300,
         "file": "Event03/03-SA/03-SA-J10/03-SA-J10-001",
         "start": 0
     },
@@ -35,14 +39,14 @@
     },
     {
         "action": "PrintText",
-        "end": 3000,
+        "end": 3350,
         "persona": "Минами",
         "start": 3000,
         "text": "Вот-вот!^"
     },
     {
         "action": "PlayVoice",
-        "end": 3000,
+        "end": 3350,
         "file": "Voice03/03-SA/03-SA-J10/03-SA-J10-0050",
         "layer": 0,
         "persona": "min",
@@ -50,14 +54,14 @@
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7050,
         "persona": "Отомэ",
         "start": 3350,
         "text": "«Соврала, чтобы покрасоваться. Извините». Ну!^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7050,
         "file": "Voice03/03-SA/03-SA-J10/03-SA-J10-0060",
         "layer": 0,
         "persona": "oto",
@@ -65,14 +69,14 @@
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8383,
         "persona": "Котоноха",
         "start": 7066,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8383,
         "file": "Voice03/03-SA/03-SA-J10/03-SA-J10-0070",
         "layer": 0,
         "persona": "xxx",
@@ -80,14 +84,14 @@
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10033,
         "persona": "Отомэ",
         "start": 8383,
         "text": "Кацура!^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10033,
         "file": "Voice03/03-SA/03-SA-J10/03-SA-J10-0080",
         "layer": 0,
         "persona": "oto",
@@ -95,14 +99,14 @@
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11283,
         "persona": "Котоноха",
         "start": 10033,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11283,
         "file": "Voice03/03-SA/03-SA-J10/03-SA-J10-0090",
         "layer": 0,
         "persona": "xxx",
@@ -110,20 +114,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 18000,
+        "end": 18033,
         "file": "Event03/03-SA/03-SA-F06/03-SA-F06-024",
         "start": 11300
     },
     {
         "action": "PrintText",
-        "end": 18000,
+        "end": 18016,
         "persona": "Объявление",
         "start": 11300,
         "text": "Двадцать четвёртый фестиваль старшей школы Сакакино объявляется закрытым.^"
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18016,
         "file": "Voice03/03-SA/03-SA-J10/03-SA-J10-0110",
         "layer": 1,
         "persona": "ana",
@@ -131,14 +135,14 @@
     },
     {
         "action": "PrintText",
-        "end": 18000,
+        "end": 18283,
         "persona": "Котоноха",
         "start": 18016,
         "text": "А...^"
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18283,
         "file": "Voice03/03-SA/03-SA-J10/03-SA-J10-0120",
         "layer": 0,
         "persona": "kot",
@@ -146,7 +150,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 18000,
+        "end": 18300,
         "file": "Event03/03-SA/03-SA-J10/03-SA-J10-003",
         "start": 18033
     },
@@ -158,14 +162,14 @@
     },
     {
         "action": "PrintText",
-        "end": 21000,
+        "end": 21116,
         "persona": "Минами",
         "start": 18300,
         "text": "Всё. Лгунья.^"
     },
     {
         "action": "PlayVoice",
-        "end": 21000,
+        "end": 21116,
         "file": "Voice03/03-SA/03-SA-J10/03-SA-J10-0130",
         "layer": 0,
         "persona": "min",
@@ -173,14 +177,14 @@
     },
     {
         "action": "PrintText",
-        "end": 24000,
+        "end": 24016,
         "persona": "Нацуми",
         "start": 21116,
         "text": "И чего до последнего тянула?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 24000,
+        "end": 24016,
         "file": "Voice03/03-SA/03-SA-J10/03-SA-J10-0140",
         "layer": 0,
         "persona": "nat",
@@ -188,14 +192,14 @@
     },
     {
         "action": "PrintText",
-        "end": 25000,
+        "end": 25383,
         "persona": "Куми",
         "start": 24033,
         "text": "Бесит прямо!..^"
     },
     {
         "action": "PlayVoice",
-        "end": 25000,
+        "end": 25383,
         "file": "Voice03/03-SA/03-SA-J10/03-SA-J10-0150",
         "layer": 0,
         "persona": "kum",
@@ -203,7 +207,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 44000,
+        "end": 44183,
         "file": "Event03/03-SA/03-SA-J10/03-SA-J10-001",
         "start": 26000
     },
@@ -224,14 +228,14 @@
     },
     {
         "action": "PrintText",
-        "end": 27000,
+        "end": 27350,
         "persona": "Котоноха",
         "start": 27016,
         "text": "Что?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 27000,
+        "end": 27350,
         "file": "Voice03/03-SA/03-SA-J10/03-SA-J10-0170",
         "layer": 0,
         "persona": "kot",
@@ -239,14 +243,14 @@
     },
     {
         "action": "PrintText",
-        "end": 34000,
+        "end": 34233,
         "persona": "Отомэ",
         "start": 27333,
         "text": "Завтра будешь сама всё убирать. А то мы из-за тебя тут замотались.^"
     },
     {
         "action": "PlayVoice",
-        "end": 34000,
+        "end": 34233,
         "file": "Voice03/03-SA/03-SA-J10/03-SA-J10-0180",
         "layer": 0,
         "persona": "oto",
@@ -254,14 +258,14 @@
     },
     {
         "action": "PrintText",
-        "end": 35000,
+        "end": 35116,
         "persona": "Котоноха",
         "start": 34233,
         "text": "Хорошо.^"
     },
     {
         "action": "PlayVoice",
-        "end": 35000,
+        "end": 35116,
         "file": "Voice03/03-SA/03-SA-J10/03-SA-J10-0190",
         "layer": 0,
         "persona": "kot",
@@ -269,14 +273,14 @@
     },
     {
         "action": "PrintText",
-        "end": 40000,
+        "end": 40316,
         "persona": "Отомэ",
         "start": 35116,
         "text": "Вот ведь... Призналась бы, что не встречаешься с ним, мы бы тебя простили.^"
     },
     {
         "action": "PlayVoice",
-        "end": 40000,
+        "end": 40316,
         "file": "Voice03/03-SA/03-SA-J10/03-SA-J10-0200",
         "layer": 0,
         "persona": "oto",
@@ -284,14 +288,14 @@
     },
     {
         "action": "PrintText",
-        "end": 44000,
+        "end": 44183,
         "persona": "Котоноха",
         "start": 40333,
         "text": "А я... Встречаюсь.^"
     },
     {
         "action": "PlayVoice",
-        "end": 44000,
+        "end": 44183,
         "file": "Voice03/03-SA/03-SA-J10/03-SA-J10-0210",
         "layer": 0,
         "persona": "kot",
@@ -299,20 +303,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 45000,
+        "end": 45366,
         "file": "Event03/03-SA/03-SA-J10/03-SA-J10-006",
         "start": 44183
     },
     {
         "action": "PrintText",
-        "end": 45000,
+        "end": 45366,
         "persona": "Отомэ",
         "start": 44183,
         "text": "Опять за своё?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 45000,
+        "end": 45366,
         "file": "Voice03/03-SA/03-SA-J10/03-SA-J10-0220",
         "layer": 0,
         "persona": "oto",
@@ -320,20 +324,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 63000,
+        "end": 63050,
         "file": "Event03/03-SA/03-SA-J10/03-SA-J10-007",
         "start": 45366
     },
     {
         "action": "PrintText",
-        "end": 72000,
+        "end": 72216,
         "persona": "Котоноха",
         "start": 45366,
         "text": "Просто он сейчас обижен на меня. Но потом... Скажет, что любит. И простит...^"
     },
     {
         "action": "PlayVoice",
-        "end": 72000,
+        "end": 72216,
         "file": "Voice03/03-SA/03-SA-J10/03-SA-J10-0230",
         "layer": 0,
         "persona": "kot",
@@ -341,20 +345,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 75000,
+        "end": 75316,
         "file": "Event03/03-SA/03-SA-J10/03-SA-J10-008",
         "start": 63050
     },
     {
         "action": "PrintText",
-        "end": 74000,
+        "end": 74250,
         "persona": "Отомэ",
         "start": 72233,
         "text": "Пошлите уже.^"
     },
     {
         "action": "PlayVoice",
-        "end": 74000,
+        "end": 74250,
         "file": "Voice03/03-SA/03-SA-J10/03-SA-J10-0250",
         "layer": 0,
         "persona": "oto",
@@ -362,14 +366,14 @@
     },
     {
         "action": "PrintText",
-        "end": 75000,
+        "end": 75316,
         "persona": "Минами",
         "start": 74266,
         "text": "Ага!^"
     },
     {
         "action": "PlayVoice",
-        "end": 75000,
+        "end": 75316,
         "file": "Voice03/03-SA/03-SA-J10/03-SA-J10-0260",
         "layer": 0,
         "persona": "min",
@@ -389,17 +393,21 @@
     },
     {
         "action": "PrintText",
-        "end": 79000,
+        "end": 79100,
         "persona": "Сэкаи",
         "start": 78000,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 79000,
+        "end": 79100,
         "file": "Voice03/03-SA/03-SA-J10/03-SA-J10-0290",
         "layer": 0,
         "persona": "sek",
         "start": 78000
+    },
+    {
+        "action": "Next",
+        "start": 83000
     }
 ]

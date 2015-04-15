@@ -1,33 +1,37 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 16083
+    },
+    {
         "action": "PlayBgm",
-        "end": 16000,
+        "end": 16083,
         "file": "BGM/SD_BGM/sdbgm26",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 16000,
+        "end": 16083,
         "file": "Se03/03-A0/03-A0-A07/SE03-A0-A07-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "PlayMovie",
-        "end": 3000,
+        "end": 3016,
         "file": "Movie02/02-2K/02-2K-J05/02-2K-J05-003",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1116,
         "persona": "Макото",
         "start": 0,
         "text": "Ещё чуть-чуть...^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1116,
         "file": "Voice03/03-A0/03-A0-A07/03-A0-A07-0040",
         "layer": 1,
         "persona": "xxx",
@@ -35,26 +39,26 @@
     },
     {
         "action": "PlayMovie",
-        "end": 6000,
+        "end": 6283,
         "file": "Movie02/02-2K/02-2K-J05/02-2K-J05-002",
         "start": 3016
     },
     {
         "action": "PlayMovie",
-        "end": 9000,
+        "end": 9300,
         "file": "Movie02/02-2K/02-2K-J05/02-2K-J05-003",
         "start": 6283
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8050,
         "persona": "Макото",
         "start": 6283,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8050,
         "file": "Voice03/03-A0/03-A0-A07/03-A0-A07-0070",
         "layer": 1,
         "persona": "xxx",
@@ -62,14 +66,14 @@
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10316,
         "persona": "Котоноха",
         "start": 8066,
         "text": "Макото...^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10316,
         "file": "Voice03/03-A0/03-A0-A07/03-A0-A07-0080",
         "layer": 0,
         "persona": "kot",
@@ -77,7 +81,7 @@
     },
     {
         "action": "PlayMovie",
-        "end": 16000,
+        "end": 16083,
         "file": "Movie02/02-2K/02-2K-J05/02-2K-J05-001",
         "start": 9300
     },
@@ -105,7 +109,7 @@
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16016,
         "persona": "Котоноха",
         "start": 15000,
         "text": "Не надо...^"
@@ -120,17 +124,21 @@
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17033,
         "persona": "Макото",
         "start": 16000,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16033,
         "file": "Voice03/03-A0/03-A0-A07/03-A0-A07-0110",
         "layer": 1,
         "persona": "xxx",
         "start": 16000
+    },
+    {
+        "action": "Next",
+        "start": 16083
     }
 ]

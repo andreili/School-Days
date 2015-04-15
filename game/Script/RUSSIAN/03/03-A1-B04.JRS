@@ -1,40 +1,44 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 8333
+    },
+    {
         "action": "PlayBgm",
-        "end": 14000,
+        "end": 14350,
         "file": "BGM/SD_BGM/sdbgm01",
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 14000,
+        "end": 14350,
         "file": "Se03/03-A1/03-A1-B04/SE03-A1-B04-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "PlaySe",
-        "end": 14000,
+        "end": 14350,
         "file": "Se03/03-A1/03-A1-B04/SE03-A1-B04-002",
         "layer": 2,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 1000,
+        "end": 1100,
         "file": "Event03/03-A1/03-A1-B04/03-A1-B04-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1166,
         "persona": "Макото",
         "start": 133,
         "text": "Я же вижу!^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1166,
         "file": "Voice03/03-A1/03-A1-B04/03-A1-B04-0030",
         "layer": 1,
         "persona": "mak",
@@ -42,20 +46,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 6000,
+        "end": 6200,
         "file": "Event03/03-A1/03-A1-B04/03-A1-B04-002",
         "start": 1100
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2083,
         "persona": "Котоноха",
         "start": 1100,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2083,
         "file": "Voice03/03-A1/03-A1-B04/03-A1-B04-0040",
         "layer": 0,
         "persona": "kot",
@@ -63,14 +67,14 @@
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4083,
         "persona": "Макото",
         "start": 1383,
         "text": "Ладно, ничего...^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4083,
         "file": "Voice03/03-A1/03-A1-B04/03-A1-B04-0060",
         "layer": 1,
         "persona": "mak",
@@ -78,14 +82,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6050,
         "persona": "Котоноха",
         "start": 4133,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6050,
         "file": "Voice03/03-A1/03-A1-B04/03-A1-B04-0070",
         "layer": 0,
         "persona": "xxx",
@@ -93,20 +97,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 14000,
+        "end": 14350,
         "file": "Event03/03-A1/03-A1-B04/03-A1-B04-003",
         "start": 6200
     },
     {
         "action": "PrintText",
-        "end": 7000,
+        "end": 7383,
         "persona": "Макото",
         "start": 6250,
         "text": "Проехали...^"
     },
     {
         "action": "PlayVoice",
-        "end": 7000,
+        "end": 7383,
         "file": "Voice03/03-A1/03-A1-B04/03-A1-B04-0080",
         "layer": 1,
         "persona": "mak",
@@ -114,14 +118,14 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9116,
         "persona": "Макото",
         "start": 8100,
         "text": "Поэтому...^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9116,
         "file": "Voice03/03-A1/03-A1-B04/03-A1-B04-0090",
         "layer": 1,
         "persona": "mak",
@@ -131,7 +135,11 @@
         "action": "SetSELECT",
         "answer1": "Я не буду больше тебя трогать!^",
         "answer2": "NULL",
-        "end": 13000,
+        "end": 13333,
         "start": 8333
+    },
+    {
+        "action": "Next",
+        "start": 14350
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 89216
+    },
+    {
         "action": "PlayBgm",
         "end": 89000,
         "file": "BGM/SD_BGM/sdbgm07",
@@ -14,20 +18,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2350,
         "file": "Event03/03-SB/03-SB-H10/03-SB-H10-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2350,
         "persona": "Макото",
         "start": 0,
         "text": "Может, всё-таки стоило с Котонохой пойти?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2350,
         "file": "Voice03/03-SB/03-SB-H10/03-SB-H10-0030",
         "layer": 1,
         "persona": "mak",
@@ -41,14 +45,14 @@
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5016,
         "persona": "Нацуми",
         "start": 2350,
         "text": "А, Отомэ, гляди!..^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5016,
         "file": "Voice03/03-SB/03-SB-H10/03-SB-H10-0040",
         "layer": 0,
         "persona": "nat",
@@ -56,20 +60,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5366,
         "file": "Event03/03-SB/03-SB-H10/03-SB-H10-003",
         "start": 5000
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5366,
         "persona": "Отомэ",
         "start": 5016,
         "text": "А?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 5000,
+        "end": 5366,
         "file": "Voice03/03-SB/03-SB-H10/03-SB-H10-0060",
         "layer": 0,
         "persona": "oto",
@@ -77,20 +81,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 8000,
+        "end": 8116,
         "file": "Event03/03-SB/03-SB-H10/03-SB-H10-004",
         "start": 5350
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6366,
         "persona": "Макото",
         "start": 5366,
         "text": "Что?^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6366,
         "file": "Voice03/03-SB/03-SB-H10/03-SB-H10-0070",
         "layer": 1,
         "persona": "mak",
@@ -98,14 +102,14 @@
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8116,
         "persona": "Отомэ",
         "start": 6366,
         "text": "Чем занят?^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8116,
         "file": "Voice03/03-SB/03-SB-H10/03-SB-H10-0080",
         "layer": 0,
         "persona": "oto",
@@ -113,20 +117,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 15000,
+        "end": 15183,
         "file": "Event03/03-SB/03-SB-H10/03-SB-H10-005",
         "start": 8116
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14183,
         "persona": "Макото",
         "start": 8116,
         "text": "Ничем. В классе помогал, вот освободился. Думаю, чем заняться.^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14183,
         "file": "Voice03/03-SB/03-SB-H10/03-SB-H10-0090",
         "layer": 1,
         "persona": "mak",
@@ -134,14 +138,14 @@
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15216,
         "persona": "Отомэ",
         "start": 14183,
         "text": "О?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15216,
         "file": "Voice03/03-SB/03-SB-H10/03-SB-H10-0100",
         "layer": 0,
         "persona": "oto",
@@ -149,20 +153,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 18000,
+        "end": 18383,
         "file": "Event03/03-SB/03-SB-H10/03-SB-H10-006",
         "start": 15183
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16166,
         "persona": "Нацуми",
         "start": 15216,
         "text": "Отомэ!^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16166,
         "file": "Voice03/03-SB/03-SB-H10/03-SB-H10-0110",
         "layer": 0,
         "persona": "nat",
@@ -170,14 +174,14 @@
     },
     {
         "action": "PrintText",
-        "end": 17000,
+        "end": 17366,
         "persona": "Отомэ",
         "start": 16166,
         "text": "Ч-что?^"
     },
     {
         "action": "PlayVoice",
-        "end": 17000,
+        "end": 17366,
         "file": "Voice03/03-SB/03-SB-H10/03-SB-H10-0120",
         "layer": 0,
         "persona": "oto",
@@ -185,14 +189,14 @@
     },
     {
         "action": "PrintText",
-        "end": 18000,
+        "end": 18366,
         "persona": "Нацуми",
         "start": 17366,
         "text": "Шанс!^"
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18366,
         "file": "Voice03/03-SB/03-SB-H10/03-SB-H10-0130",
         "layer": 0,
         "persona": "nat",
@@ -200,14 +204,14 @@
     },
     {
         "action": "PrintText",
-        "end": 20000,
+        "end": 20350,
         "persona": "Отомэ",
         "start": 18366,
         "text": "Какой?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 20000,
+        "end": 20350,
         "file": "Voice03/03-SB/03-SB-H10/03-SB-H10-0140",
         "layer": 0,
         "persona": "oto",
@@ -215,26 +219,26 @@
     },
     {
         "action": "CreateBG",
-        "end": 20000,
+        "end": 20333,
         "file": "Event03/03-SB/03-SB-H10/03-SB-H10-007",
         "start": 18383
     },
     {
         "action": "CreateBG",
-        "end": 23000,
+        "end": 23100,
         "file": "Event03/03-SB/03-SB-H10/03-SB-H10-008",
         "start": 20333
     },
     {
         "action": "PrintText",
-        "end": 22000,
+        "end": 22016,
         "persona": "Нацуми",
         "start": 20350,
         "text": "Мне сказать?^"
     },
     {
         "action": "PlayVoice",
-        "end": 22000,
+        "end": 22016,
         "file": "Voice03/03-SB/03-SB-H10/03-SB-H10-0150",
         "layer": 0,
         "persona": "nat",
@@ -242,14 +246,14 @@
     },
     {
         "action": "PrintText",
-        "end": 23000,
+        "end": 23100,
         "persona": "Отомэ",
         "start": 22016,
         "text": "Не вздумай!^"
     },
     {
         "action": "PlayVoice",
-        "end": 23000,
+        "end": 23100,
         "file": "Voice03/03-SB/03-SB-H10/03-SB-H10-0160",
         "layer": 0,
         "persona": "oto",
@@ -257,20 +261,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 28000,
+        "end": 28083,
         "file": "Event03/03-SB/03-SB-H10/03-SB-H10-009",
         "start": 23100
     },
     {
         "action": "PrintText",
-        "end": 24000,
+        "end": 24383,
         "persona": "Нацуми",
         "start": 23100,
         "text": "Ну тогда давай сама!^"
     },
     {
         "action": "PlayVoice",
-        "end": 24000,
+        "end": 24383,
         "file": "Voice03/03-SB/03-SB-H10/03-SB-H10-0170",
         "layer": 0,
         "persona": "nat",
@@ -278,14 +282,14 @@
     },
     {
         "action": "PrintText",
-        "end": 28000,
+        "end": 28083,
         "persona": "Макото",
         "start": 24383,
         "text": "Что такое? Ко мне какие претензии?^"
     },
     {
         "action": "PlayVoice",
-        "end": 28000,
+        "end": 28083,
         "file": "Voice03/03-SB/03-SB-H10/03-SB-H10-0180",
         "layer": 1,
         "persona": "mak",
@@ -293,20 +297,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 29000,
+        "end": 29200,
         "file": "Event03/03-SB/03-SB-H10/03-SB-H10-009B",
         "start": 28083
     },
     {
         "action": "PrintText",
-        "end": 29000,
+        "end": 29216,
         "persona": "Отомэ",
         "start": 28083,
         "text": "А... Нет!^"
     },
     {
         "action": "PlayVoice",
-        "end": 29000,
+        "end": 29216,
         "file": "Voice03/03-SB/03-SB-H10/03-SB-H10-0190",
         "layer": 0,
         "persona": "oto",
@@ -314,20 +318,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 32000,
+        "end": 32233,
         "file": "Event03/03-SB/03-SB-H10/03-SB-H10-009C",
         "start": 29200
     },
     {
         "action": "PrintText",
-        "end": 32000,
+        "end": 32233,
         "persona": "Макото",
         "start": 29216,
         "text": "Не помню, чтобы сделал что-то, за что меня девчонки из четвертого могли бы невзлюбить...^"
     },
     {
         "action": "PlayVoice",
-        "end": 32000,
+        "end": 32233,
         "file": "Voice03/03-SB/03-SB-H10/03-SB-H10-0200",
         "layer": 1,
         "persona": "mak",
@@ -335,20 +339,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 34000,
+        "end": 34183,
         "file": "Event03/03-SB/03-SB-H10/03-SB-H10-009D",
         "start": 32233
     },
     {
         "action": "PrintText",
-        "end": 34000,
+        "end": 34183,
         "persona": "Отомэ",
         "start": 32233,
         "text": "Да говорю же, нет!^"
     },
     {
         "action": "PlayVoice",
-        "end": 34000,
+        "end": 34183,
         "file": "Voice03/03-SB/03-SB-H10/03-SB-H10-0210",
         "layer": 0,
         "persona": "oto",
@@ -356,20 +360,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 35000,
+        "end": 35233,
         "file": "Event03/03-SB/03-SB-H10/03-SB-H10-010",
         "start": 34183
     },
     {
         "action": "PrintText",
-        "end": 35000,
+        "end": 35216,
         "persona": "Макото",
         "start": 34183,
         "text": "Ну а что тогда?^"
     },
     {
         "action": "PlayVoice",
-        "end": 35000,
+        "end": 35216,
         "file": "Voice03/03-SB/03-SB-H10/03-SB-H10-0220",
         "layer": 1,
         "persona": "mak",
@@ -377,14 +381,14 @@
     },
     {
         "action": "PrintText",
-        "end": 37000,
+        "end": 37116,
         "persona": "Отомэ",
         "start": 35216,
         "text": "Слушай...^"
     },
     {
         "action": "PlayVoice",
-        "end": 37000,
+        "end": 37116,
         "file": "Voice03/03-SB/03-SB-H10/03-SB-H10-0230",
         "layer": 0,
         "persona": "oto",
@@ -392,26 +396,26 @@
     },
     {
         "action": "CreateBG",
-        "end": 37000,
+        "end": 37133,
         "file": "Event03/03-SB/03-SB-H10/03-SB-H10-011",
         "start": 35233
     },
     {
         "action": "CreateBG",
-        "end": 38000,
+        "end": 38033,
         "file": "Event03/03-SB/03-SB-H10/03-SB-H10-012",
         "start": 37133
     },
     {
         "action": "PrintText",
-        "end": 38000,
+        "end": 38016,
         "persona": "Макото",
         "start": 37133,
         "text": "Ну?^"
     },
     {
         "action": "PlayVoice",
-        "end": 38000,
+        "end": 38016,
         "file": "Voice03/03-SB/03-SB-H10/03-SB-H10-0240",
         "layer": 1,
         "persona": "mak",
@@ -440,20 +444,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 44000,
+        "end": 44316,
         "file": "Event03/03-SB/03-SB-H10/03-SB-H10-014",
         "start": 42000
     },
     {
         "action": "PrintText",
-        "end": 43000,
+        "end": 43083,
         "persona": "Макото",
         "start": 42000,
         "text": "Оно и видно.^"
     },
     {
         "action": "PlayVoice",
-        "end": 43000,
+        "end": 43083,
         "file": "Voice03/03-SB/03-SB-H10/03-SB-H10-0260",
         "layer": 1,
         "persona": "mak",
@@ -461,14 +465,14 @@
     },
     {
         "action": "PrintText",
-        "end": 44000,
+        "end": 44316,
         "persona": "Отомэ",
         "start": 43083,
         "text": "Пойдём вместе гулять?^"
     },
     {
         "action": "PlayVoice",
-        "end": 44000,
+        "end": 44316,
         "file": "Voice03/03-SB/03-SB-H10/03-SB-H10-0270",
         "layer": 0,
         "persona": "oto",
@@ -476,20 +480,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 46000,
+        "end": 46016,
         "file": "Event03/03-SB/03-SB-H10/03-SB-H10-015",
         "start": 44316
     },
     {
         "action": "PrintText",
-        "end": 48000,
+        "end": 48200,
         "persona": "Макото",
         "start": 44316,
         "text": "Да ну... Замучаюсь я с вами.^"
     },
     {
         "action": "PlayVoice",
-        "end": 48000,
+        "end": 48200,
         "file": "Voice03/03-SB/03-SB-H10/03-SB-H10-0280",
         "layer": 1,
         "persona": "mak",
@@ -497,32 +501,32 @@
     },
     {
         "action": "CreateBG",
-        "end": 47000,
+        "end": 47200,
         "file": "Event03/03-SB/03-SB-H10/03-SB-H10-015B",
         "start": 46016
     },
     {
         "action": "CreateBG",
-        "end": 48000,
+        "end": 48200,
         "file": "Event03/03-SB/03-SB-H10/03-SB-H10-015C",
         "start": 47200
     },
     {
         "action": "CreateBG",
-        "end": 54000,
+        "end": 54133,
         "file": "Event03/03-SB/03-SB-H10/03-SB-H10-016",
         "start": 48200
     },
     {
         "action": "PrintText",
-        "end": 52000,
+        "end": 52050,
         "persona": "Нацуми",
         "start": 48200,
         "text": "А мы сейчас по делам уйдём.^"
     },
     {
         "action": "PlayVoice",
-        "end": 52000,
+        "end": 52050,
         "file": "Voice03/03-SB/03-SB-H10/03-SB-H10-0290",
         "layer": 0,
         "persona": "nat",
@@ -530,14 +534,14 @@
     },
     {
         "action": "PrintText",
-        "end": 53000,
+        "end": 53300,
         "persona": "Минами",
         "start": 52066,
         "text": "Правда что ли?..^"
     },
     {
         "action": "PlayVoice",
-        "end": 53000,
+        "end": 53300,
         "file": "Voice03/03-SB/03-SB-H10/03-SB-H10-0300",
         "layer": 0,
         "persona": "min",
@@ -545,27 +549,27 @@
     },
     {
         "action": "PlaySe",
-        "end": 54000,
+        "end": 54266,
         "file": "SysSe/SE_all/action/tsuneru",
         "layer": 2,
         "start": 53383
     },
     {
         "action": "CreateBG",
-        "end": 55000,
+        "end": 55050,
         "file": "Event03/03-SB/03-SB-H10/03-SB-H10-016B",
         "start": 54133
     },
     {
         "action": "PrintText",
-        "end": 55000,
+        "end": 55116,
         "persona": "Минами",
         "start": 54183,
         "text": "....^"
     },
     {
         "action": "PlayVoice",
-        "end": 55000,
+        "end": 55116,
         "file": "Voice03/03-SB/03-SB-H10/03-SB-H10-0320",
         "layer": 0,
         "persona": "min",
@@ -573,20 +577,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 61000,
+        "end": 61066,
         "file": "Event03/03-SB/03-SB-H10/03-SB-H10-017",
         "start": 55050
     },
     {
         "action": "PrintText",
-        "end": 58000,
+        "end": 58283,
         "persona": "Нацуми",
         "start": 55066,
         "text": "Надо девчонок в классе сменить! Забыла, Минами?^"
     },
     {
         "action": "PlayVoice",
-        "end": 58000,
+        "end": 58283,
         "file": "Voice03/03-SB/03-SB-H10/03-SB-H10-0330",
         "layer": 0,
         "persona": "nat",
@@ -594,14 +598,14 @@
     },
     {
         "action": "PrintText",
-        "end": 59000,
+        "end": 59383,
         "persona": "Макото",
         "start": 58266,
         "text": "Правда?^"
     },
     {
         "action": "PlayVoice",
-        "end": 59000,
+        "end": 59383,
         "file": "Voice03/03-SB/03-SB-H10/03-SB-H10-0340",
         "layer": 1,
         "persona": "mak",
@@ -609,14 +613,14 @@
     },
     {
         "action": "PrintText",
-        "end": 61000,
+        "end": 61066,
         "persona": "Минами",
         "start": 59383,
         "text": "Д-да...^"
     },
     {
         "action": "PlayVoice",
-        "end": 61000,
+        "end": 61066,
         "file": "Voice03/03-SB/03-SB-H10/03-SB-H10-0350",
         "layer": 0,
         "persona": "min",
@@ -624,20 +628,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 65000,
+        "end": 65083,
         "file": "Event03/03-SB/03-SB-H10/03-SB-H10-018",
         "start": 61066
     },
     {
         "action": "PrintText",
-        "end": 65000,
+        "end": 65083,
         "persona": "Макото",
         "start": 61066,
         "text": "Вы ведь там все вместе работаете?^"
     },
     {
         "action": "PlayVoice",
-        "end": 65000,
+        "end": 65083,
         "file": "Voice03/03-SB/03-SB-H10/03-SB-H10-0360",
         "layer": 1,
         "persona": "mak",
@@ -651,14 +655,14 @@
     },
     {
         "action": "PrintText",
-        "end": 66000,
+        "end": 66133,
         "persona": "Нацуми",
         "start": 65083,
         "text": "Да!^"
     },
     {
         "action": "PlayVoice",
-        "end": 66000,
+        "end": 66133,
         "file": "Voice03/03-SB/03-SB-H10/03-SB-H10-0370",
         "layer": 0,
         "persona": "nat",
@@ -666,14 +670,14 @@
     },
     {
         "action": "PrintText",
-        "end": 70000,
+        "end": 70050,
         "persona": "Макото",
         "start": 66133,
         "text": "А я слышал, что у вас каждый делает всё, что в голову взбредёт.^"
     },
     {
         "action": "PlayVoice",
-        "end": 70000,
+        "end": 70050,
         "file": "Voice03/03-SB/03-SB-H10/03-SB-H10-0380",
         "layer": 1,
         "persona": "mak",
@@ -681,20 +685,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 71000,
+        "end": 71316,
         "file": "Event03/03-SB/03-SB-H10/03-SB-H10-020",
         "start": 70000
     },
     {
         "action": "PrintText",
-        "end": 71000,
+        "end": 71383,
         "persona": "Отомэ",
         "start": 70050,
         "text": "Нет конечно!^"
     },
     {
         "action": "PlayVoice",
-        "end": 71000,
+        "end": 71383,
         "file": "Voice03/03-SB/03-SB-H10/03-SB-H10-0390",
         "layer": 0,
         "persona": "oto",
@@ -702,20 +706,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 75000,
+        "end": 75133,
         "file": "Event03/03-SB/03-SB-H10/03-SB-H10-021",
         "start": 71316
     },
     {
         "action": "PrintText",
-        "end": 75000,
+        "end": 75150,
         "persona": "Макото",
         "start": 71383,
         "text": "Вот как... Значит, ты одна ничем не занята?^"
     },
     {
         "action": "PlayVoice",
-        "end": 75000,
+        "end": 75150,
         "file": "Voice03/03-SB/03-SB-H10/03-SB-H10-0400",
         "layer": 1,
         "persona": "mak",
@@ -723,20 +727,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 77000,
+        "end": 77333,
         "file": "Event03/03-SB/03-SB-H10/03-SB-H10-022",
         "start": 75133
     },
     {
         "action": "PrintText",
-        "end": 77000,
+        "end": 77350,
         "persona": "Отомэ",
         "start": 75150,
         "text": "Получается так.^"
     },
     {
         "action": "PlayVoice",
-        "end": 77000,
+        "end": 77350,
         "file": "Voice03/03-SB/03-SB-H10/03-SB-H10-0410",
         "layer": 0,
         "persona": "oto",
@@ -744,20 +748,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 83000,
+        "end": 83033,
         "file": "Event03/03-SB/03-SB-H10/03-SB-H10-023",
         "start": 77333
     },
     {
         "action": "PrintText",
-        "end": 81000,
+        "end": 81050,
         "persona": "Макото",
         "start": 77350,
         "text": "Ну ладно давай как раньше, повеселимся!^"
     },
     {
         "action": "PlayVoice",
-        "end": 81000,
+        "end": 81050,
         "file": "Voice03/03-SB/03-SB-H10/03-SB-H10-0420",
         "layer": 1,
         "persona": "mak",
@@ -765,14 +769,14 @@
     },
     {
         "action": "PrintText",
-        "end": 81000,
+        "end": 81383,
         "persona": "Отомэ",
         "start": 81033,
         "text": "Ага!^"
     },
     {
         "action": "PlayVoice",
-        "end": 81000,
+        "end": 81383,
         "file": "Voice03/03-SB/03-SB-H10/03-SB-H10-0430",
         "layer": 0,
         "persona": "oto",
@@ -780,14 +784,14 @@
     },
     {
         "action": "PrintText",
-        "end": 83000,
+        "end": 83066,
         "persona": "Макото",
         "start": 81383,
         "text": "Ну пошли.^"
     },
     {
         "action": "PlayVoice",
-        "end": 83000,
+        "end": 83066,
         "file": "Voice03/03-SB/03-SB-H10/03-SB-H10-0440",
         "layer": 1,
         "persona": "mak",
@@ -795,27 +799,27 @@
     },
     {
         "action": "PlaySe",
-        "end": 89000,
+        "end": 89216,
         "file": "SysSe/SE_all/footsteps/asioto_school",
         "layer": 2,
         "start": 83033
     },
     {
         "action": "CreateBG",
-        "end": 84000,
+        "end": 84016,
         "file": "Event03/03-SB/03-SB-H10/03-SB-H10-024",
         "start": 83033
     },
     {
         "action": "PrintText",
-        "end": 84000,
+        "end": 84050,
         "persona": "Отомэ",
         "start": 83066,
         "text": "А...^"
     },
     {
         "action": "PlayVoice",
-        "end": 84000,
+        "end": 84050,
         "file": "Voice03/03-SB/03-SB-H10/03-SB-H10-0460",
         "layer": 0,
         "persona": "oto",
@@ -829,14 +833,14 @@
     },
     {
         "action": "PrintText",
-        "end": 85000,
+        "end": 85033,
         "persona": "Нацуми",
         "start": 84033,
         "text": "Успехов!^"
     },
     {
         "action": "PlayVoice",
-        "end": 85000,
+        "end": 85033,
         "file": "Voice03/03-SB/03-SB-H10/03-SB-H10-0470",
         "layer": 0,
         "persona": "nat",
@@ -844,20 +848,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 86000,
+        "end": 86366,
         "file": "Event03/03-SB/03-SB-H10/03-SB-H10-024C",
         "start": 85000
     },
     {
         "action": "PrintText",
-        "end": 86000,
+        "end": 86016,
         "persona": "Отомэ",
         "start": 85033,
         "text": "Спасибо!^"
     },
     {
         "action": "PlayVoice",
-        "end": 86000,
+        "end": 86016,
         "file": "Voice03/03-SB/03-SB-H10/03-SB-H10-0480",
         "layer": 0,
         "persona": "oto",
@@ -865,14 +869,14 @@
     },
     {
         "action": "PrintText",
-        "end": 86000,
+        "end": 86383,
         "persona": "Макото",
         "start": 86033,
         "text": "Что такое?^"
     },
     {
         "action": "PlayVoice",
-        "end": 86000,
+        "end": 86383,
         "file": "Voice03/03-SB/03-SB-H10/03-SB-H10-0490",
         "layer": 1,
         "persona": "mak",
@@ -880,23 +884,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 89000,
+        "end": 89216,
         "file": "Event03/03-SB/03-SB-H10/03-SB-H10-025",
         "start": 86366
     },
     {
         "action": "PrintText",
-        "end": 89000,
+        "end": 89100,
         "persona": "Отомэ",
         "start": 86383,
         "text": "Да так! Уже иду!^"
     },
     {
         "action": "PlayVoice",
-        "end": 89000,
+        "end": 89100,
         "file": "Voice03/03-SB/03-SB-H10/03-SB-H10-0500",
         "layer": 0,
         "persona": "oto",
         "start": 86383
+    },
+    {
+        "action": "Next",
+        "start": 89216
     }
 ]

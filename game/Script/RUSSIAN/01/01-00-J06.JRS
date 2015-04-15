@@ -1,27 +1,31 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 25083
+    },
+    {
         "action": "PlaySe",
-        "end": 25000,
+        "end": 25083,
         "file": "Se01/01-00/01-00-B00/SE01-00-B00-001",
         "layer": 1,
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2166,
         "file": "Event01/01-00/01-00-J06/01-00-J06-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2166,
         "persona": "Котоноха",
         "start": 0,
         "text": "Прости...^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2166,
         "file": "Voice01/01-00/01-00-J06/01-00-J06-0040",
         "layer": 0,
         "persona": "kot",
@@ -29,27 +33,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9100,
         "file": "Event01/01-00/01-00-J06/01-00-J06-002",
         "start": 2166
     },
     {
         "action": "PrintText",
-        "end": 5000,
+        "end": 5416,
         "persona": "Макото",
         "start": 2166,
         "text": "Не извиняйся. Я сам виноват,^"
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9083,
         "persona": "Макото",
         "start": 5416,
         "text": "из-за меня вышло это недоразумение.^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9083,
         "file": "Voice01/01-00/01-00-J06/01-00-J06-0050",
         "layer": 1,
         "persona": "mak",
@@ -57,14 +61,14 @@
     },
     {
         "action": "PrintText",
-        "end": 10000,
+        "end": 10166,
         "persona": "Котоноха",
         "start": 9083,
         "text": "Но...^"
     },
     {
         "action": "PlayVoice",
-        "end": 10000,
+        "end": 10166,
         "file": "Voice01/01-00/01-00-J06/01-00-J06-0060",
         "layer": 0,
         "persona": "kot",
@@ -72,20 +76,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 11000,
+        "end": 11366,
         "file": "Event01/01-00/01-00-J06/01-00-J06-003",
         "start": 9100
     },
     {
         "action": "PrintText",
-        "end": 11000,
+        "end": 11350,
         "persona": "Макото",
         "start": 10166,
         "text": "Ладно, проехали.^"
     },
     {
         "action": "PlayVoice",
-        "end": 11000,
+        "end": 11350,
         "file": "Voice01/01-00/01-00-J06/01-00-J06-0070",
         "layer": 1,
         "persona": "mak",
@@ -93,20 +97,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 18000,
+        "end": 18250,
         "file": "Event01/01-00/01-00-J06/01-00-J06-001",
         "start": 11366
     },
     {
         "action": "PrintText",
-        "end": 14000,
+        "end": 14316,
         "persona": "Котоноха",
         "start": 11366,
         "text": "Спасибо...^"
     },
     {
         "action": "PlayVoice",
-        "end": 14000,
+        "end": 14316,
         "file": "Voice01/01-00/01-00-J06/01-00-J06-0080",
         "layer": 0,
         "persona": "kot",
@@ -114,14 +118,14 @@
     },
     {
         "action": "PrintText",
-        "end": 15000,
+        "end": 15383,
         "persona": "Макото",
         "start": 14316,
         "text": "Кстати...^"
     },
     {
         "action": "PlayVoice",
-        "end": 15000,
+        "end": 15383,
         "file": "Voice01/01-00/01-00-J06/01-00-J06-0090",
         "layer": 1,
         "persona": "mak",
@@ -129,14 +133,14 @@
     },
     {
         "action": "PrintText",
-        "end": 16000,
+        "end": 16266,
         "persona": "Котоноха",
         "start": 15383,
         "text": "Да?^"
     },
     {
         "action": "PlayVoice",
-        "end": 16000,
+        "end": 16266,
         "file": "Voice01/01-00/01-00-J06/01-00-J06-0100",
         "layer": 0,
         "persona": "kot",
@@ -144,14 +148,14 @@
     },
     {
         "action": "PrintText",
-        "end": 18000,
+        "end": 18250,
         "persona": "Макото",
         "start": 16283,
         "text": "У тебя сегодня тоже собрание?^"
     },
     {
         "action": "PlayVoice",
-        "end": 18000,
+        "end": 18250,
         "file": "Voice01/01-00/01-00-J06/01-00-J06-0110",
         "layer": 1,
         "persona": "mak",
@@ -159,20 +163,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 25000,
+        "end": 25083,
         "file": "Event01/01-00/01-00-J06/01-00-J06-005",
         "start": 18250
     },
     {
         "action": "PrintText",
-        "end": 22000,
+        "end": 22316,
         "persona": "Котоноха",
         "start": 18250,
         "text": "Нет, сегодня и завтра нет.^"
     },
     {
         "action": "PlayVoice",
-        "end": 22000,
+        "end": 22316,
         "file": "Voice01/01-00/01-00-J06/01-00-J06-0120",
         "layer": 0,
         "persona": "kot",
@@ -180,17 +184,21 @@
     },
     {
         "action": "PrintText",
-        "end": 25000,
+        "end": 25050,
         "persona": "Макото",
         "start": 22316,
         "text": "Вот как? Тогда...^"
     },
     {
         "action": "PlayVoice",
-        "end": 25000,
+        "end": 25050,
         "file": "Voice01/01-00/01-00-J06/01-00-J06-0130",
         "layer": 1,
         "persona": "mak",
         "start": 22316
+    },
+    {
+        "action": "Next",
+        "start": 25083
     }
 ]

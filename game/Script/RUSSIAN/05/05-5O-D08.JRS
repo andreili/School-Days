@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 9250
+    },
+    {
         "action": "PlayBgm",
-        "end": 9000,
+        "end": 9250,
         "file": "BGM/SD_BGM/sdbgm08",
         "start": 0
     },
     {
         "action": "PlayMovie",
-        "end": 7000,
+        "end": 7016,
         "file": "Movie05/05-5O/05-5O-D08/05-5O-D08-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1216,
         "persona": "Итару",
         "start": 0,
         "text": "Страшная...^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1216,
         "file": "Voice05/05-5O/05-5O-D08/05-5O-D08-0030",
         "layer": 0,
         "persona": "ita",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2116,
         "persona": "Макото",
         "start": 1166,
         "text": "Э?!^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2116,
         "file": "Voice05/05-5O/05-5O-D08/05-5O-D08-0040",
         "layer": 1,
         "persona": "mak",
@@ -43,14 +47,14 @@
     },
     {
         "action": "PrintText",
-        "end": 6000,
+        "end": 6316,
         "persona": "Итару",
         "start": 2083,
         "text": "Не знаю почему... Но я её не люблю!^"
     },
     {
         "action": "PlayVoice",
-        "end": 6000,
+        "end": 6316,
         "file": "Voice05/05-5O/05-5O-D08/05-5O-D08-0050",
         "layer": 0,
         "persona": "ita",
@@ -58,20 +62,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 9000,
+        "end": 9250,
         "file": "Event05/05-5O/05-5O-D07/05-5O-D07-002",
         "start": 7016
     },
     {
         "action": "PrintText",
-        "end": 8000,
+        "end": 8233,
         "persona": "Макото",
         "start": 7183,
         "text": "Понятно...^"
     },
     {
         "action": "PlayVoice",
-        "end": 8000,
+        "end": 8233,
         "file": "Voice05/05-5O/05-5O-D08/05-5O-D08-0060",
         "layer": 1,
         "persona": "mak",
@@ -79,17 +83,21 @@
     },
     {
         "action": "PrintText",
-        "end": 9000,
+        "end": 9150,
         "persona": "Итару",
         "start": 8166,
         "text": "Вот.^"
     },
     {
         "action": "PlayVoice",
-        "end": 9000,
+        "end": 9150,
         "file": "Voice05/05-5O/05-5O-D08/05-5O-D08-0070",
         "layer": 0,
         "persona": "ita",
         "start": 8166
+    },
+    {
+        "action": "Next",
+        "start": 9250
     }
 ]

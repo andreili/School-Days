@@ -1,26 +1,30 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 5116
+    },
+    {
         "action": "PlayBgm",
-        "end": 11000,
+        "end": 11166,
         "file": "BGM/SD_BGM/sdbgm08",
         "start": 0
     },
     {
         "action": "CreateBG",
-        "end": 2000,
+        "end": 2350,
         "file": "Event04/04-SA/04-SA-O00/04-SA-O00-001",
         "start": 0
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2050,
         "persona": "Сэкаи",
         "start": 0,
         "text": "Ты не обращай на неё особого внимания...^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2050,
         "file": "Voice04/04-SA/04-SA-O00/04-SA-O00-0030",
         "layer": 0,
         "persona": "sek",
@@ -28,14 +32,14 @@
     },
     {
         "action": "PrintText",
-        "end": 2000,
+        "end": 2300,
         "persona": "Макото",
         "start": 2066,
         "text": "Э?^"
     },
     {
         "action": "PlayVoice",
-        "end": 2000,
+        "end": 2300,
         "file": "Voice04/04-SA/04-SA-O00/04-SA-O00-0040",
         "layer": 1,
         "persona": "mak",
@@ -43,20 +47,20 @@
     },
     {
         "action": "CreateBG",
-        "end": 5000,
+        "end": 5016,
         "file": "Event04/04-SA/04-SA-O00/04-SA-O00-002",
         "start": 2350
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4383,
         "persona": "Сэкаи",
         "start": 2366,
         "text": "Я про маму...^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4383,
         "file": "Voice04/04-SA/04-SA-O00/04-SA-O00-0050",
         "layer": 0,
         "persona": "sek",
@@ -64,7 +68,7 @@
     },
     {
         "action": "CreateBG",
-        "end": 11000,
+        "end": 11166,
         "file": "Event04/04-SA/04-SA-O00/04-SA-O00-003",
         "start": 5016
     },
@@ -87,7 +91,11 @@
         "action": "SetSELECT",
         "answer1": "Она у тебя красивая.",
         "answer2": "Она у тебя весёлая.",
-        "end": 10000,
+        "end": 10116,
         "start": 5116
+    },
+    {
+        "action": "Next",
+        "start": 11166
     }
 ]

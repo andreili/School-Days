@@ -1,7 +1,11 @@
 [
     {
+        "action": "SkipFRAME",
+        "start": 4133
+    },
+    {
         "action": "PlaySe",
-        "end": 4000,
+        "end": 4133,
         "file": "SysSe/SE_all/gaya/kyousitu_rouka",
         "layer": 1,
         "start": 0
@@ -14,14 +18,14 @@
     },
     {
         "action": "PrintText",
-        "end": 1000,
+        "end": 1166,
         "persona": "Макото",
         "start": 166,
         "text": "Хорошо.^"
     },
     {
         "action": "PlayVoice",
-        "end": 1000,
+        "end": 1166,
         "file": "Voice05/05-5O/05-5O-H07/05-5O-H07-0030",
         "layer": 1,
         "persona": "mak",
@@ -29,23 +33,27 @@
     },
     {
         "action": "CreateBG",
-        "end": 4000,
+        "end": 4133,
         "file": "Event05/05-5O/05-5O-H07/05-5O-H07-002",
         "start": 2000
     },
     {
         "action": "PrintText",
-        "end": 4000,
+        "end": 4033,
         "persona": "Котоноха",
         "start": 2050,
         "text": "Значит, пошли.^"
     },
     {
         "action": "PlayVoice",
-        "end": 4000,
+        "end": 4033,
         "file": "Voice05/05-5O/05-5O-H07/05-5O-H07-0040",
         "layer": 0,
         "persona": "kot",
         "start": 2050
+    },
+    {
+        "action": "Next",
+        "start": 4133
     }
 ]
