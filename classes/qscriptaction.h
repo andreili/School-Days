@@ -31,6 +31,15 @@ public:
 
     explicit QScriptAction(Action action, QStringList *params, QObject *parent = 0);
 
+    int getStartTime() { return this->start; }
+    int getEndTime() { return this->end; }
+
+    QString getFile() { return this->file_name; }
+
+    QString getDirection() { return this->direction; }
+
+    int getLayer() { return this->layer; }
+
     Action getAction() { return this->action; }
 
     QString getText() { return this->text; }

@@ -6,7 +6,6 @@
 
 int convert_time(QString time)
 {
-    qDebug() << time;
     QStringList times = time.split(':');
     return (times[0].toInt() * 60 +         // minutes
             times[1].toInt()) * 1000 +      //seconds

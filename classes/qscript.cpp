@@ -2,6 +2,9 @@
 #include <QTextStream>
 #include <QFile>
 #include <QMetaEnum>
+#include <QJsonArray>
+#include <QJsonObject>
+#include <QJsonDocument>
 #include <QDebug>
 
 QScript::QScript(QObject *parent) :
@@ -37,7 +40,60 @@ void QScript::load_from_ORS(QIODevice *io)
 
 QString QScript::serialize()
 {
-    return "";
+    QJsonArray obj;
+    int idx = 0;
+    foreach(QScriptAction* action, actions)
+    {
+        QJsonObject action_obj;
+
+        QMetaEnum en = QScriptAction::staticMetaObject.enumerator(0);
+        action_obj["action"] = QString(en.valueToKey(action->getAction()));
+        action_obj["start"] = action->getStartTime();
+
+        switch (action->getAction())
+        {
+        case QScriptAction::SkipFRAME:
+        case QScriptAction::Next:
+            obj[idx] = action_obj;
+            idx++;
+            continue;
+        case QScriptAction::PrintText:
+            action_obj["text"] = action->getText();
+            action_obj["persona"] = action->getPersona();
+            break;
+        case QScriptAction::SetSELECT:
+            action_obj["answer1"] = action->getAnswer1();
+            action_obj["answer2"] = action->getAnswer2();
+            break;
+        case QScriptAction::PlaySe:
+            action_obj["layer"] = action->getLayer();
+        case QScriptAction::CreateBG:
+        case QScriptAction::PlayMovie:
+        case QScriptAction::PlayBgm:
+        case QScriptAction::EndBGM:
+        case QScriptAction::EndRoll:
+            action_obj["file"] = action->getFile();
+            break;
+        case QScriptAction::BlackFade:
+        case QScriptAction::WhiteFade:
+            action_obj["dir"] = action->getDirection();
+            break;
+        case QScriptAction::PlayVoice:
+            action_obj["file"] = action->getFile();
+            action_obj["layer"] = action->getLayer();
+            action_obj["persona"] = action->getPersona();
+            break;
+        case QScriptAction::MoveSom:
+            break;
+        }
+
+        action_obj["end"] = action->getEndTime();
+        obj.append(action_obj);
+        idx++;
+    }
+
+    QJsonDocument doc(obj);
+    return QString(doc.toJson());
 }
 
 void QScript::export_txt(QString file_name)

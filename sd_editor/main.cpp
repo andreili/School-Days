@@ -33,15 +33,23 @@ int main(int argc, char *argv[])
         {
             qDebug() << file;
             QScript* script = new QScript();
-            QFile scr(path + "/" + folder + "/" + file);
+            QString fn = path + "/" + folder + "/" + file;
+            QFile scr(fn);
             if (scr.open(QFile::ReadOnly))
             {
                 qDebug() << "open";
                 script->load_from_ORS(&scr);
                 qDebug() << "export";
-                script->export_txt(path + "/" + folder + "/" + file + ".txt");
+                script->export_txt(fn + ".txt");
                 qDebug() << "import";
-                script->import_txt(path + "/" + folder + "/" + file + ".txt");
+                script->import_txt(fn + ".txt");
+                qDebug() << "to jrs";
+                QFile jrs(fn.replace(".ENG.ORS", ".JRS"));
+                jrs.open(QFile::WriteOnly);
+                QTextStream str(&jrs);
+                str << script->serialize();
+                str.flush();
+                jrs.close();
             }
             else
                 qDebug() << scr.errorString();
