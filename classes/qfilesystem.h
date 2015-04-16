@@ -2,19 +2,33 @@
 #define QFILESYSTEM_H
 
 #include <QObject>
+#include <QList>
+#include "qgpk.h"
+#include "qgpkfile.h"
 
 class QFileSystem : public QObject
 {
     Q_OBJECT
 public:
-    explicit QFileSystem(QObject *parent = 0);
+    explicit QFileSystem(QString gameRoot, QObject *parent = 0);
+    ~QFileSystem();
 
-    void init(QString root_dir = "packs/");
+    QGPKFile *open(QString filename);
+
+    QStringList list(QString mask);
 
 signals:
 
 public slots:
 
+private:
+    QString root;
+    QList<QGPK*> gpks;
+
+    void findArchives();
+    void mountGPK(QString fileName);
+
+    inline QString normalize_name(QString name);
 };
 
 #endif // QFILESYSTEM_H

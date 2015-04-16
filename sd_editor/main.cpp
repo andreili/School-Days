@@ -1,5 +1,5 @@
-//#include "mainwindow.h"
-//#include <QApplication>
+#include "mainwindow.h"
+#include <QApplication>
 #include <QTextCodec>
 
 #include <QDebug>
@@ -12,7 +12,7 @@ int main(int argc, char *argv[])
     QTextCodec *utfCodec = QTextCodec::codecForName("UTF-8");
     QTextCodec::setCodecForLocale(utfCodec);
 
-    if (argc < 1)
+    /*if (argc < 1)
         return 1;
 
     QString path = "/media/work/Dev/Games/LD/ENGLISH";
@@ -57,11 +57,11 @@ int main(int argc, char *argv[])
         }
     }
 
-    return 0;
+    return 0;*/
 
-    /*QApplication a(argc, argv);
+    QApplication a(argc, argv);
     MainWindow w;
     w.show();
 
-    return a.exec();*/
+    return a.exec();
 }

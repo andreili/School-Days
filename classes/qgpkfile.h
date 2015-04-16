@@ -2,17 +2,45 @@
 #define QGPKFILE_H
 
 #include <QtCore/qiodevice.h>
+#include <QFile>
+#include "qgpk.h"
 
 class QGPKFile : public QIODevice
 {
     Q_OBJECT
 public:
-    explicit QGPKFile(QObject *parent = 0);
+    explicit QGPKFile(QString realname, QObject *parent = 0);
+    explicit QGPKFile(GPKEntryHeader* entry_header, QString pkg, QObject *parent = 0);
+    ~QGPKFile();
+
+    qint64 read(char *data, qint64 maxlen);
+    qint64 pos() { return this->posistion; }
+    bool atEnd() { return (this->isPKG) ? (this->realfile.atEnd()) : (this->posistion >= entry.comprlen); }
+    bool seek(qint64 offset);
+    qint64 size() { return this->entry.comprlen; }
+    void close();
+
+    /* ??? */
+    /*bool isSequential() { return false; }
+    bool open(OpenMode mode) { return true; }
+    bool reset() { return false; }
+    qint64 bytesAvailable() { return size() - pos(); }
+    qint64 bytesToWrite() { return 0; }*/
 
 signals:
 
 public slots:
 
+private:
+    QFile realfile;
+    bool isPKG;
+    bool compressed;
+    GPKEntryHeader entry;
+    qint64 posistion;
+
+
+    qint64 readData(char *data, qint64 maxlen);
+    qint64 writeData(const char *data, qint64 len);
 };
 
 #endif // QGPKFILE_H
