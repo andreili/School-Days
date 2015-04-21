@@ -26,8 +26,8 @@ QGPKFile* QFileSystem::open(QString filename)
         return new QGPKFile(filename);
     }
 
-    QString pkg = filename.left(filename.indexOf(QDir::separator()));
-    filename.remove(0, filename.indexOf(QDir::separator()) + 1);
+    QString pkg = filename.left(filename.indexOf('/'));
+    filename.remove(0, filename.indexOf('/') + 1);
     filename = normalize_name(filename);
     foreach (QGPK* gpk, this->gpks)
     {

@@ -23,7 +23,7 @@ void MainWindow::SetGameFolder()
     QString game_dir = QFileDialog::getExistingDirectory(this, "Укажите папку с игрой");
     fs = new QFileSystem(game_dir, this);
 
-    QStringList scripts = fs->list("Script/.*");
+    QStringList scripts = fs->list(QString("Script") + QDir::separator() + ".*");
     QTreeWidgetItem* top = NULL;
     ui->twScripts->clear();
     foreach (QString name, scripts)

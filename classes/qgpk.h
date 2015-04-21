@@ -18,19 +18,19 @@ const unsigned char CIPHERCODE[16] = {0x82, 0xEE, 0x1D, 0xB3,
 typedef struct
 {
     char        sig0[12];
-    u_int32_t   pidx_length;
+    quint32     pidx_length;
     char        sig1[16];
 } GPKsig;
 
 typedef struct
 {
-    u_int16_t   sub_version;		// same as script.gpk.* suffix
-    u_int16_t   version;			// major version(always 1)
-    u_int16_t   zero;              // always 0
-    u_int32_t   offset;			// pidx data file offset
-    u_int32_t   comprlen;			// compressed pidx data length
+    quint16     sub_version;		// same as script.gpk.* suffix
+    quint16     version;			// major version(always 1)
+    quint16     zero;               // always 0
+    quint32     offset;             // pidx data file offset
+    quint32     comprlen;			// compressed pidx data length
     char        dflt[4];			// magic "DFLT" or "    "
-    u_int32_t   uncomprlen;		// raw pidx data length(if magic isn't DFLT, then this filed always zero)
+    quint32     uncomprlen;         // raw pidx data length(if magic isn't DFLT, then this filed always zero)
     char        comprheadlen;		// pidx data header length
 } GPKEntryHeader;
 
