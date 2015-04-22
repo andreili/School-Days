@@ -5,7 +5,7 @@
 #include <QFile>
 #include "qgpk.h"
 
-class QGPKFile : public QIODevice
+class QGPKFile : public QObject
 {
     Q_OBJECT
 public:
@@ -15,7 +15,7 @@ public:
 
     qint64 read(char *data, qint64 maxlen);
     qint64 pos() { return this->posistion; }
-    bool atEnd() { return (this->isPKG) ? (this->posistion >= entry.comprlen) : (this->realfile.atEnd()); }
+    bool atEnd() { return (this->isPKG) ? (this->posistion >= entry.comprlen) : (this->realfile->atEnd()); }
     bool seek(qint64 offset);
     qint64 size() { return this->entry.comprlen; }
     void close();
@@ -26,7 +26,7 @@ signals:
 public slots:
 
 private:
-    QFile realfile;
+    QFile* realfile;
     bool isPKG;
     bool compressed;
     GPKEntryHeader entry;

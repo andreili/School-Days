@@ -8,6 +8,7 @@ QFileSystem::QFileSystem(QString gameRoot, QObject *parent) :
     QObject(parent)
 {
     this->root = gameRoot;
+    this->pack_dir = this->root + QDir::separator() + "packs" + QDir::separator();
     findArchives();
 }
 
@@ -21,9 +22,9 @@ QFileSystem::~QFileSystem()
 
 QGPKFile* QFileSystem::open(QString filename)
 {
-    if (QFile::exists(filename))
+    if (QFile::exists(this->pack_dir + filename))
     {
-        return new QGPKFile(filename);
+        return new QGPKFile(this->pack_dir, this);
     }
 
     QString pkg = filename.left(filename.indexOf('/'));
@@ -58,13 +59,13 @@ void QFileSystem::unpack_all()
 {
     foreach (QGPK* gpk, this->gpks)
     {
-        gpk->unpack_all(this->root + QDir::separator() + "packs" + QDir::separator() + gpk->getName() + QDir::separator());
+        gpk->unpack_all(this->pack_dir + gpk->getName() + QDir::separator());
     }
 }
 
 void QFileSystem::findArchives()
 {
-    QString packsRoot = this->root + QDir::separator() + "packs";
+    QString packsRoot = this->pack_dir;
     QDir packsDir(packsRoot, "*.GPK");
     QStringList packs = packsDir.entryList();
     foreach (QString pack_name, packs) {

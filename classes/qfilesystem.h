@@ -25,6 +25,7 @@ public slots:
 
 private:
     QString root;
+    QString pack_dir;
     QList<QGPK*> gpks;
 
     void findArchives();
