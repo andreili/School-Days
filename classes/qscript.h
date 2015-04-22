@@ -6,6 +6,7 @@
 #include <QObject>
 #include <QStringList>
 #include "qscriptaction.h"
+#include "qgpkfile.h"
 
 class QScript : public QObject
 {
@@ -14,7 +15,7 @@ public:
     explicit QScript(QObject *parent = 0);
     ~QScript();
 
-    void load_from_ORS(QIODevice *io);
+    void load_from_ORS(QGPKFile *file);
 
     QString serialize();
 

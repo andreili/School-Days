@@ -5,27 +5,21 @@
 #include <QFile>
 #include "qgpk.h"
 
-class QGPKFile : public QIODevice
+class QGPKFile : public QObject
 {
     Q_OBJECT
 public:
-    explicit QGPKFile(QString realname, QObject *parent = 0);
-    explicit QGPKFile(GPKEntryHeader* entry_header, QString pkg, QObject *parent = 0);
+    explicit QGPKFile(QString realname, QObject  *parent = 0);
+    explicit QGPKFile(GPKEntryHeader* entry_header, QString pkg, QObject  *parent = 0);
     ~QGPKFile();
 
     qint64 read(char *data, qint64 maxlen);
     qint64 pos() { return this->posistion; }
-    bool atEnd() { return (this->isPKG) ? (this->realfile.atEnd()) : (this->posistion >= entry.comprlen); }
+    bool atEnd() { return (this->isPKG) ? (this->posistion >= entry.comprlen) : (this->realfile.atEnd()); }
     bool seek(qint64 offset);
     qint64 size() { return this->entry.comprlen; }
     void close();
-
-    /* ??? */
-    /*bool isSequential() { return false; }
-    bool open(OpenMode mode) { return true; }
-    bool reset() { return false; }
-    qint64 bytesAvailable() { return size() - pos(); }
-    qint64 bytesToWrite() { return 0; }*/
+    QByteArray readLine(qint64 maxlen = 0);
 
 signals:
 

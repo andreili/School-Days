@@ -1,7 +1,7 @@
 #include "qgpkfile.h"
 
-QGPKFile::QGPKFile(QString realname, QObject *parent) :
-    QIODevice(parent)
+QGPKFile::QGPKFile(QString realname, QObject  *parent) :
+    QObject (parent)
 {
     this->isPKG = false;
     this->realfile.setFileName(realname);
@@ -9,7 +9,7 @@ QGPKFile::QGPKFile(QString realname, QObject *parent) :
 }
 
 QGPKFile::QGPKFile(GPKEntryHeader *entry_header, QString pkg, QObject *parent) :
-    QIODevice(parent)
+    QObject(parent)
 {
     this->isPKG = true;
     this->entry = *entry_header;
@@ -57,9 +57,22 @@ void QGPKFile::close()
         this->realfile.close();
 }
 
+QByteArray QGPKFile::readLine(qint64 maxlen)
+{
+    if (this->isPKG)
+    {
+        this->realfile.seek(this->entry.offset + this->posistion);
+        QByteArray line = this->realfile.readLine(maxlen);
+        this->posistion += line.size();
+        return line;
+    }
+    else
+        return this->realfile.readLine(maxlen);
+}
+
 qint64 QGPKFile::readData(char *data, qint64 maxlen)
 {
-    return 0;
+    return read(data, maxlen);
 }
 
 qint64 QGPKFile::writeData(const char *data, qint64 maxlen)

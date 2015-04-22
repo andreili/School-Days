@@ -48,5 +48,5 @@ void MainWindow::on_twScripts_doubleClicked(const QModelIndex &index)
     QString fn = "Script/ENGLISH/" + ui->twScripts->currentItem()->parent()->text(0) + "/" +
             ui->twScripts->currentItem()->text(0);
     this->activeScript = new QScript();
-    this->activeScript->load_from_ORS(fs->open(fn));    // TODO
+    this->activeScript->load_from_ORS(fs->open(fn));
 }

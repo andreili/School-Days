@@ -24,12 +24,11 @@ QScript::~QScript()
     }
 }
 
-void QScript::load_from_ORS(QIODevice *io)
+void QScript::load_from_ORS(QGPKFile *file)
 {
-    QTextStream stream(io);
-    while (!stream.atEnd())
+    while (!file->atEnd())
     {
-        QString line = stream.readLine();
+        QString line = file->readLine();
         if ((line.length() == 0) || (line[0] != '['))
             continue;
 
