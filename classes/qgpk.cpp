@@ -76,7 +76,7 @@ QGPKFile *QGPK::open(QString filename)
 {
     foreach (GPKentry entry, this->entries)
     {
-        if (entry.name.compare(filename) == 0)
+        if (entry.name.compare(filename,Qt::CaseInsensitive) == 0)
             return new QGPKFile(&entry.header, this->name, this);
     }
     return NULL;
@@ -96,4 +96,25 @@ QStringList QGPK::list(QString mask)
 QString QGPK::getName()
 {
     return this->name.right(this->name.length() - this->name.lastIndexOf(QDir::separator()) - 1).replace(".GPK", "");
+}
+
+void QGPK::unpack_all(QString dir)
+{
+    QFile package(this->name);
+    if (!package.open(QFile::ReadOnly))
+            return;
+
+    QDir root_dir(dir);
+
+    foreach (GPKentry entry, this->entries)
+    {
+        package.seek(entry.header.offset);
+        root_dir.mkpath(dir + entry.name.section("/", 0, -2));
+        QFile out(dir + entry.name);
+        out.open(QFile::WriteOnly);
+        QByteArray buf = package.read(entry.header.comprlen);
+        out.write(buf);
+        out.close();
+    }
+    package.close();
 }

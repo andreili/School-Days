@@ -17,6 +17,8 @@ public:
 
     QStringList list(QString mask);
 
+    void unpack_all();
+
 signals:
 
 public slots:
@@ -28,7 +30,7 @@ private:
     void findArchives();
     void mountGPK(QString fileName);
 
-    inline QString normalize_name(QString name);
+    inline QString normalize_name(QString pkg, QString name);
 };
 
 #endif // QFILESYSTEM_H

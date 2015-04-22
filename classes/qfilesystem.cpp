@@ -28,7 +28,7 @@ QGPKFile* QFileSystem::open(QString filename)
 
     QString pkg = filename.left(filename.indexOf('/'));
     filename.remove(0, filename.indexOf('/') + 1);
-    filename = normalize_name(filename);
+    filename = normalize_name(pkg, filename);
     foreach (QGPK* gpk, this->gpks)
     {
         if (gpk->getName().compare(pkg, Qt::CaseInsensitive) == 0)
@@ -54,6 +54,14 @@ QStringList QFileSystem::list(QString mask)
     return res;
 }
 
+void QFileSystem::unpack_all()
+{
+    foreach (QGPK* gpk, this->gpks)
+    {
+        gpk->unpack_all(this->root + QDir::separator() + "packs" + QDir::separator() + gpk->getName() + QDir::separator());
+    }
+}
+
 void QFileSystem::findArchives()
 {
     QString packsRoot = this->root + QDir::separator() + "packs";
@@ -76,9 +84,10 @@ void QFileSystem::mountGPK(QString fileName)
     }
 }
 
-QString QFileSystem::normalize_name(QString name)
+QString QFileSystem::normalize_name(QString pkg, QString name)
 {
-    if ((name.startsWith("BGM")) || (name.startsWith("SysSe")))
+    if ((pkg.startsWith("BGM")) || (pkg.startsWith("SysSe")) ||
+            (pkg.startsWith("Se")) || (pkg.startsWith("Voice")))
     {
         return name + ".ogg";
     }

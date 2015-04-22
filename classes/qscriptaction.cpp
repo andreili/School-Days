@@ -162,5 +162,59 @@ QString QScriptAction::toString()
 
 void QScriptAction::execute()
 {
-    // TODO
+    switch (this->action)
+    {
+    case PlaySe:
+        this->sound = new QSound(this->file_name);
+        this->sound->play();
+        this->end_timer = new QTimer();
+        this->end_timer->setInterval(this->end - this->start);
+        this->end_timer->setSingleShot(true);
+        connect(this->end_timer, SIGNAL(timeout()), this, SLOT(stop()));
+        this->end_timer->start();
+        break;
+    case PrintText:
+    case SetSELECT:
+    case CreateBG:
+    case BlackFade:
+    case WhiteFade:
+    case PlayMovie:
+    case PlayBgm:
+    case PlayES:
+    case PlayVoice:
+    case EndBGM:
+    case EndRoll:
+    case Next:
+        break;
+    case SkipFRAME:
+    case MoveSom:
+        break;
+    }
+}
+
+void QScriptAction::stop()
+{
+    switch (this->action)
+    {
+    case PlaySe:
+        delete this->sound;
+        delete this->end_timer;
+        break;
+    case PrintText:
+    case SetSELECT:
+    case CreateBG:
+    case BlackFade:
+    case WhiteFade:
+    case PlayMovie:
+    case PlayBgm:
+    case PlayES:
+    case PlayVoice:
+    case EndBGM:
+    case EndRoll:
+    case Next:
+        break;
+    case SkipFRAME:
+    case MoveSom:
+        break;
+    }
 }

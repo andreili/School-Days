@@ -7,6 +7,16 @@
 #include <QJsonDocument>
 #include <QDebug>
 
+// проигрывание:
+//  PlayMovie
+//  PlaySe
+//  CreateBG
+//  BlackFade
+//  PrintText
+//  PlayBgm
+//  PlayVoice
+//
+
 QScript::QScript(QObject *parent) :
     QObject(parent)
 {
@@ -184,6 +194,40 @@ void QScript::import_txt(QString file_name)
     text.close();
     ors_stream.flush();
     ors.close();
+}
+
+void QScript::execute()
+{
+    foreach(QScriptAction* action, actions)
+    {
+        QTimer* timer;
+        switch (action->getAction())
+        {
+        case QScriptAction::PrintText:
+        case QScriptAction::SetSELECT:
+        case QScriptAction::CreateBG:
+        case QScriptAction::BlackFade:
+        case QScriptAction::WhiteFade:
+        case QScriptAction::PlayMovie:
+        case QScriptAction::PlayBgm:
+        case QScriptAction::PlaySe:
+        case QScriptAction::PlayES:
+        case QScriptAction::PlayVoice:
+        case QScriptAction::EndBGM:
+        case QScriptAction::EndRoll:
+            timer = new QTimer(this);
+            timer->setInterval(action->getStartTime());
+            timer->setSingleShot(true);
+            connect(timer, SIGNAL(timeout()), action, SLOT(execute()));
+            timer->start();
+            this->timers.append(timer);
+            break;
+        case QScriptAction::SkipFRAME:
+        case QScriptAction::Next:
+        case QScriptAction::MoveSom:
+            break;
+        }
+    }
 }
 
 void QScript::add_action_by_ors(QString action, QStringList params)

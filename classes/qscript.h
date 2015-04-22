@@ -31,6 +31,7 @@ private:
 signals:
 
 public slots:
+    void execute();
 
 };
 

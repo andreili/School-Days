@@ -55,6 +55,8 @@ public:
 
     QString getName();
 
+    void unpack_all(QString dir);
+
 signals:
 
 public slots:

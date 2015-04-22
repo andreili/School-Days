@@ -3,12 +3,27 @@
 
 #include <QFileDialog>
 #include <QDir>
+#include <QtMultimediaWidgets/QVideoWidget>
 
 MainWindow::MainWindow(QWidget *parent) :
     QMainWindow(parent),
     ui(new Ui::MainWindow)
 {
     ui->setupUi(this);
+
+   /* QMediaPlayer *player = new QMediaPlayer();
+   // QFile * str = new QFile("h:\\Music\\nya_nyako_nya.mp3");
+    //str->open(QFile::ReadOnly);
+    //player->setMedia(QMediaContent(), str);
+    QVideoWidget *videoWidget = new QVideoWidget;
+    player->setVideoOutput(videoWidget);
+    this->setCentralWidget(videoWidget);
+    videoWidget->show();
+
+    player->setMedia(QUrl::fromLocalFile("h:\\1.ogg"));
+    player->setVolume(255);
+    player->play();
+    qDebug() << player->errorString();*/
 
     connect(ui->mSetGameFolder, SIGNAL(triggered()), this, SLOT(SetGameFolder()));
 }
@@ -45,8 +60,17 @@ void MainWindow::SetGameFolder()
 
 void MainWindow::on_twScripts_doubleClicked(const QModelIndex &index)
 {
-    QString fn = "Script/ENGLISH/" + ui->twScripts->currentItem()->parent()->text(0) + "/" +
-            ui->twScripts->currentItem()->text(0);
-    this->activeScript = new QScript();
-    this->activeScript->load_from_ORS(fs->open(fn));
+    if (ui->twScripts->currentItem()->parent() != NULL)
+    {
+        QString fn = "Script/ENGLISH/" + ui->twScripts->currentItem()->parent()->text(0) + "/" +
+                ui->twScripts->currentItem()->text(0);
+        this->activeScript = new QScript();
+        this->activeScript->load_from_ORS(fs->open(fn));
+        this->activeScript->execute();
+       /* QMediaPlayer *player = new QMediaPlayer();
+        //player->setMedia(QMediaContent(), fs->open("System/OP/SDHQ_OP"));
+        player->setMedia(QMediaContent(), fs->open("Se00/00-00/00-00-A02/SE00-00-A02-001"));
+        player->setVolume(50);
+        player->play();*/
+    }
 }

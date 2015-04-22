@@ -1,7 +1,7 @@
 #include "qgpkfile.h"
 
 QGPKFile::QGPKFile(QString realname, QObject  *parent) :
-    QObject (parent)
+    QIODevice (parent)
 {
     this->isPKG = false;
     this->realfile.setFileName(realname);
@@ -9,7 +9,7 @@ QGPKFile::QGPKFile(QString realname, QObject  *parent) :
 }
 
 QGPKFile::QGPKFile(GPKEntryHeader *entry_header, QString pkg, QObject *parent) :
-    QObject(parent)
+    QIODevice(parent)
 {
     this->isPKG = true;
     this->entry = *entry_header;

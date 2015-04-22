@@ -5,7 +5,7 @@
 #include <QFile>
 #include "qgpk.h"
 
-class QGPKFile : public QObject
+class QGPKFile : public QIODevice
 {
     Q_OBJECT
 public:

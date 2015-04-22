@@ -3,7 +3,9 @@
 
 #include <QObject>
 #include <QTime>
+#include <QTimer>
 #include <QStringList>
+#include <QtMultimedia/QSound>
 
 class QScriptAction : public QObject
 {
@@ -72,6 +74,10 @@ private:
     int start;
     int end;
 
+    QSound* sound;
+    QTimer* end_timer;
+
+    void stop();
 };
 
 #endif // QSCRIPTACTION_H
