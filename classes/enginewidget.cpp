@@ -11,7 +11,6 @@ EngineWidget::EngineWidget(QWidget *parent) :
 void EngineWidget::SetLayerImage(int layer, QImage* img)
 {
     this->layers[layer] = img;
-    this->repaint();
 }
 
 void EngineWidget::paintEvent(QPaintEvent *) {
@@ -22,7 +21,4 @@ void EngineWidget::paintEvent(QPaintEvent *) {
         if (this->layers[i] != 0)
             p.drawImage(0,0, *this->layers[i],
                         0,0, -1,-1, Qt::AlphaDither_Mask);
-
-    /*p.setPen(QPen(Qt::red,1,Qt::SolidLine)); // Настройки рисования
-    p.drawLine(0,0,width(),height()); // Рисование линии*/
 }

@@ -53,7 +53,7 @@ bool compareActionByEnd(QScript::QScriptAction* a1, QScript::QScriptAction* a2)
 }
 
 QScript::QScript(QFileSystem* fs, QObject *parent) :
-    QObject(parent)
+    QAbstractVideoSurface(parent)
 {
     this->fs = fs;
 }
@@ -79,6 +79,7 @@ QScript::~QScript()
             case PlayES:
             case PlaySe:
             case EndBGM:
+                delete_if_not_NULL(action->player);
                 break;
             case CreateBG:
                 delete_if_not_NULL(action->image);
@@ -239,6 +240,21 @@ void QScript::import_txt(QString file_name)
     ors.close();
 }
 
+QList<QVideoFrame::PixelFormat>  QScript::supportedPixelFormats(QAbstractVideoBuffer::HandleType handleType) const
+{
+    Q_UNUSED(handleType);
+    QList<QVideoFrame::PixelFormat> lst;
+
+    //lst.push_back(QVideoFrame::Format_YUYV);//Qt currently does not support this format, because the internal Qt with QImage to process video frames.
+    lst.push_back(QVideoFrame::Format_RGB24);
+    lst.push_back(QVideoFrame::Format_ARGB32);
+    lst.push_back(QVideoFrame::Format_BGR24);
+    lst.push_back(QVideoFrame::Format_RGB32);
+    lst.push_back(QVideoFrame::Format_BGR32);
+
+    return lst;
+}
+
 void QScript::execute()
 {
     this->start_time = QDateTime::currentMSecsSinceEpoch();
@@ -251,6 +267,7 @@ void QScript::action_sheduler(void* current_action)
     // TODO: preload data
 
     checkStopActions();
+    bool pic_change = false;
 
     int startIdx = actions.indexOf((QScriptAction*)current_action);
     int endIdx = actions.length();
@@ -269,7 +286,8 @@ void QScript::action_sheduler(void* current_action)
             break;
         }
 
-        runAction(action);
+        if (runAction(action))
+            pic_change = true;
     }
     if (queue_stop.length() > 0)
     {
@@ -277,6 +295,8 @@ void QScript::action_sheduler(void* current_action)
         //QScriptAction* action = queue_stop.at(0);
         //new QSingleActionTimer(action, action->end - time, this, SLOT(action_sheduler(void*)));
     }
+    if (pic_change)
+        emit repaintCanvas();
 }
 
 void QScript::checkStopActions()
@@ -302,7 +322,7 @@ void QScript::checkStopActions()
     }
 }
 
-void QScript::runAction(QScriptAction* action)
+bool QScript::runAction(QScriptAction* action)
 {
 #ifdef QT_DEBUG
     QMetaEnum en = staticMetaObject.enumerator(0);
@@ -310,9 +330,11 @@ void QScript::runAction(QScriptAction* action)
                 " rel_end:" << action->end - action->start;
 #endif
 
+    bool ret = false;
+
     QString fn;
     if (action->file_name.length() > 0)
-        fn = fs->getPackDir() + fs->normalize_name(action->file_name);
+        fn = fs->getRoot() + fs->normalize_name(action->file_name);
 
     switch (action->action)
     {
@@ -320,7 +342,7 @@ void QScript::runAction(QScriptAction* action)
         if (this->latest_bg_fn.length() > 0)
         {
             action->sync_phaze = 0;
-            QString fns = fs->getPackDir() + this->latest_bg_fn + action->persona.toUpper() + '.';
+            QString fns = fs->getRoot() + this->latest_bg_fn + action->persona.toUpper() + '.';
             action->sync[0] = new QImage(fns + 'A' + ".PNG");
             action->sync[1] = new QImage(fns + 'B' + ".PNG");
             action->sync[2] = new QImage(fns + 'C' + ".PNG");
@@ -333,19 +355,28 @@ void QScript::runAction(QScriptAction* action)
     case PlayES:
     case PlaySe:
     case EndBGM:
-        //action->sound = new QSound(fn);
-        //action->sound->play();
+        action->player = new QMediaPlayer();
+        action->player->setMedia(QUrl::fromLocalFile(fn));
+        action->player->play();
         break;
     case CreateBG:
         this->latest_bg_fn = action->file_name;
         action->image = new QImage(fn);
         emit SetLayerImage(0, action->image);
+        ret = true;
+        break;
+    case PlayMovie:
+        fn += ".WMV";
+        action->player = new QMediaPlayer();
+        action->player->setMedia(QUrl::fromLocalFile(fn));
+        action->player->setVideoOutput(this);
+        playing_video = action;
+        action->player->play();
         break;
     case PrintText:
     case SetSELECT:
     case BlackFade:
     case WhiteFade:
-    case PlayMovie:
     case EndRoll:
     case Next:
         break;
@@ -355,6 +386,7 @@ void QScript::runAction(QScriptAction* action)
     }
     action->running = true;
     queue_stop.append(action);
+    return ret;
 }
 
 void QScript::action_stop(void* data)
@@ -380,18 +412,20 @@ void QScript::action_stop(void* data)
     case PlayES:
     case PlaySe:
     case EndBGM:
-        //delete_if_not_NULL(action->sound);
+        delete_if_not_NULL(action->player);
         break;
     case CreateBG:
         this->latest_bg_fn.clear();
         emit SetLayerImage(0, NULL);
         delete_if_not_NULL(action->image);
         break;
+    case PlayMovie:
+        delete_if_not_NULL(action->player);
+        break;
     case PrintText:
     case SetSELECT:
     case BlackFade:
     case WhiteFade:
-    case PlayMovie:
     case EndRoll:
     case Next:
         break;
@@ -408,12 +442,36 @@ void QScript::action_sync(void* data)
     {
     case PlayVoice:
         emit SetLayerImage(1, action->sync[action->sync_phaze]);
+        emit repaintCanvas();
         action->sync_phaze++;
         if (action->sync_phaze >= 3)
             action->sync_phaze = 0;
     default:
         break;
     }
+}
+
+bool QScript::present(const QVideoFrame &frame)
+{
+    if (frame.isValid())
+    {
+        //playing_video->prev_frame = playing_video->image;
+        QVideoFrame cloneFrame(frame);
+        cloneFrame.map(QAbstractVideoBuffer::ReadOnly);
+        QImage::Format format = QVideoFrame::imageFormatFromPixelFormat(cloneFrame.pixelFormat());
+        QImage frame_img = QImage(cloneFrame.bits(),
+                         cloneFrame.width(),
+                         cloneFrame.height(),
+                         cloneFrame.bytesPerLine(),
+                         format).mirrored();
+        //playing_video->image = &frame_img;
+        emit SetLayerImage(0, &frame_img);
+        emit repaintCanvas();
+        //delete_if_not_NULL(playing_video->prev_frame);
+        return true;
+    }
+    else
+        return false;
 }
 
 void QScript::add_action_by_ors(QString action, QStringList params)
@@ -430,6 +488,7 @@ void QScript::add_action_by_ors(QString action, QStringList params)
     action_rec->sync[2] = NULL;
     action_rec->sync[3] = NULL;
     action_rec->image = NULL;
+    action_rec->prev_frame = NULL;
 
     action_rec->layer = -1;
     action_rec->end = -1;

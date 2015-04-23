@@ -18,7 +18,6 @@ public:
     QStringList list(QString mask);
 
     QString getRoot() { return this->root; }
-    QString getPackDir() { return this->pack_dir; }
 
     void unpack_all();
 
@@ -30,7 +29,6 @@ public slots:
 
 private:
     QString root;
-    QString pack_dir;
     QList<QGPK*> gpks;
 
     void findArchives();

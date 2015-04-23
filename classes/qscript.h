@@ -5,11 +5,13 @@
 #include <QImage>
 #include <QObject>
 #include <QStringList>
+#include <QtMultimedia/QMediaPlayer>
+#include <QtMultimedia/QAbstractVideoSurface>
 #include "qgpkfile.h"
 #include "qfilesystem.h"
 #include "qactiontimer.h"
 
-class QScript : public QObject
+class QScript : public QAbstractVideoSurface
 {
     Q_OBJECT
     Q_ENUMS(Action)
@@ -59,16 +61,21 @@ public:
         bool running;
         int sync_phaze;
 
-        //QSound* sound;
+        QMediaPlayer* player;
         QActionTimer* sync_timer;
         QImage* image;
+        QImage* prev_frame;
         QImage* sync[3];
     } QScriptAction;
+
+    virtual QList<QVideoFrame::PixelFormat> supportedPixelFormats(
+                QAbstractVideoBuffer::HandleType handleType = QAbstractVideoBuffer::NoHandle) const;
 
 private:
     QFileSystem* fs;
     QList<QScriptAction*> actions;
     QList<QScriptAction*> queue_stop;
+    QScriptAction* playing_video;
     QSingleActionTimer* current_timer;
     QString latest_bg_fn;
     qint64 start_time;
@@ -76,10 +83,11 @@ private:
     void add_action_by_ors(QString action, QStringList params);
     QString actionToString(QScriptAction* action);
     void checkStopActions();
-    void runAction(QScriptAction* action);
+    bool runAction(QScriptAction* action);
 
 signals:
     void SetLayerImage(int layer, QImage* img);
+    void repaintCanvas();
 
 public slots:
     void execute();
@@ -87,6 +95,8 @@ public slots:
     void action_stop(void* data);
     void action_sync(void* data);
 
+private slots:
+    virtual bool present(const QVideoFrame &frame);
 };
 
 #endif // QSCRIPT_H

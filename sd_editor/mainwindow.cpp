@@ -41,7 +41,8 @@ MainWindow::~MainWindow()
 void MainWindow::SetGameFolder()
 {
     //QString game_dir = QFileDialog::getExistingDirectory(this, "Укажите папку с игрой");
-    QString game_dir = "/media/work/Dev/Games/SD";
+    //QString game_dir = "/media/work/Dev/Games/SD";
+    QString game_dir = "h:\\Games\\Школьные Дни HQ\\";
     fs = new QFileSystem(game_dir, this);
 
     QStringList scripts = fs->list(QString("Script") + QDir::separator() + ".*");
@@ -79,6 +80,8 @@ void MainWindow::on_twScripts_doubleClicked(const QModelIndex &index)
         //this->activeScript->load_from_ORS(new QGPKFile(fn));
         connect(this->activeScript, SIGNAL(SetLayerImage(int,QImage*)), this->engine_widget,
                 SLOT(SetLayerImage(int,QImage*)));
+        connect(this->activeScript, SIGNAL(repaintCanvas()), this->engine_widget,
+                SLOT(repaint()));
         this->activeScript->execute();
        /* QMediaPlayer *player = new QMediaPlayer();
         //player->setMedia(QMediaContent(), fs->open("System/OP/SDHQ_OP"));

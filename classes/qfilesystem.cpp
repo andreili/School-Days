@@ -9,7 +9,6 @@ QFileSystem::QFileSystem(QString gameRoot, QObject *parent) :
 {
     this->root = gameRoot;
     QDir::setCurrent(gameRoot);
-    this->pack_dir = this->root + QDir::separator() + "packs" + QDir::separator();
     findArchives();
 }
 
@@ -23,9 +22,9 @@ QFileSystem::~QFileSystem()
 
 QGPKFile* QFileSystem::open(QString filename)
 {
-    if (QFile::exists(this->pack_dir + filename))
+    if (QFile::exists(this->root + filename))
     {
-        return new QGPKFile(this->pack_dir + filename, this);
+        return new QGPKFile(this->root + filename, this);
     }
 
     QString pkg = filename.left(filename.indexOf('/'));
@@ -63,13 +62,13 @@ void QFileSystem::unpack_all()
 #ifdef QT_DEBUG
         qDebug() << "Unpacking:" << gpk->getName() << endl;
 #endif
-        gpk->unpack_all(this->pack_dir + gpk->getName() + QDir::separator());
+        gpk->unpack_all(this->root + gpk->getName() + QDir::separator());
     }
 }
 
 void QFileSystem::findArchives()
 {
-    QString packsRoot = this->pack_dir;
+    QString packsRoot = this->root + QDir::separator() + "packs" + QDir::separator();
     QDir packsDir(packsRoot, "*.GPK");
     QStringList packs = packsDir.entryList();
     foreach (QString pack_name, packs) {
@@ -96,15 +95,18 @@ QString QFileSystem::normalize_name(QString name)
 
 QString QFileSystem::normalize_name(QString pkg, QString name)
 {
-    if ((pkg.startsWith("BGM")) || (pkg.startsWith("SysSe")) ||
-            (pkg.startsWith("Se")) || (pkg.startsWith("Voice")))
+    if ((pkg.startsWith("SysSe")) || (pkg.startsWith("Se")) || (pkg.startsWith("Voice")))
     {
         return name + ".ogg";
     }
+    else if ((pkg.startsWith("BGM")))
+    {
+        return name + "_loop.ogg";
+    }
     else if ((pkg.startsWith("Event")))
-     {
-         return name + ".PNG";
-     }
-     else
+    {
+        return name + ".PNG";
+    }
+    else
         return name;
 }
