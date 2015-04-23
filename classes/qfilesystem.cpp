@@ -8,6 +8,7 @@ QFileSystem::QFileSystem(QString gameRoot, QObject *parent) :
     QObject(parent)
 {
     this->root = gameRoot;
+    QDir::setCurrent(gameRoot);
     this->pack_dir = this->root + QDir::separator() + "packs" + QDir::separator();
     findArchives();
 }
@@ -24,7 +25,7 @@ QGPKFile* QFileSystem::open(QString filename)
 {
     if (QFile::exists(this->pack_dir + filename))
     {
-        return new QGPKFile(this->pack_dir, this);
+        return new QGPKFile(this->pack_dir + filename, this);
     }
 
     QString pkg = filename.left(filename.indexOf('/'));
@@ -59,6 +60,7 @@ void QFileSystem::unpack_all()
 {
     foreach (QGPK* gpk, this->gpks)
     {
+        qDebug() << "Unpacking:" << gpk->getName() << endl;
         gpk->unpack_all(this->pack_dir + gpk->getName() + QDir::separator());
     }
 }
@@ -85,6 +87,11 @@ void QFileSystem::mountGPK(QString fileName)
     }
 }
 
+QString QFileSystem::normalize_name(QString name)
+{
+    return normalize_name(name.left(name.indexOf('/')), name);
+}
+
 QString QFileSystem::normalize_name(QString pkg, QString name)
 {
     if ((pkg.startsWith("BGM")) || (pkg.startsWith("SysSe")) ||
@@ -92,6 +99,10 @@ QString QFileSystem::normalize_name(QString pkg, QString name)
     {
         return name + ".ogg";
     }
-    else
+    else if ((pkg.startsWith("Event")))
+     {
+         return name + ".PNG";
+     }
+     else
         return name;
 }

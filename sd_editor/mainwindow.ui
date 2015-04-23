@@ -46,7 +46,7 @@
       </property>
       <layout class="QVBoxLayout" name="verticalLayout">
        <item>
-        <widget class="QWidget" name="widget" native="true">
+        <widget class="QWidget" name="wEngine" native="true">
          <property name="minimumSize">
           <size>
            <width>800</width>
@@ -60,9 +60,9 @@
           </size>
          </property>
          <layout class="QGridLayout" name="gridLayout">
-          <item row="0" column="0">
-           <widget class="QGraphicsView" name="graphicsView"/>
-          </item>
+          <property name="margin">
+           <number>0</number>
+          </property>
          </layout>
         </widget>
        </item>
@@ -77,7 +77,7 @@
      <x>0</x>
      <y>0</y>
      <width>1123</width>
-     <height>21</height>
+     <height>25</height>
     </rect>
    </property>
    <widget class="QMenu" name="menu">

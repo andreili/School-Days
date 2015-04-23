@@ -17,7 +17,12 @@ public:
 
     QStringList list(QString mask);
 
+    QString getRoot() { return this->root; }
+    QString getPackDir() { return this->pack_dir; }
+
     void unpack_all();
+
+    QString normalize_name(QString name);
 
 signals:
 

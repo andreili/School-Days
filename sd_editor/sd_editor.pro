@@ -4,7 +4,8 @@
 #
 #-------------------------------------------------
 
-QT       += core gui multimedia multimediawidgets
+QT       += core gui
+#multimedia multimediawidgets
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
@@ -18,16 +19,21 @@ SOURCES += main.cpp\
     ../classes/qgpk.cpp \
     ../classes/qgpkfile.cpp \
     ../classes/qscript.cpp \
-    ../classes/qscriptaction.cpp
+    ../classes/enginewidget.cpp
 
 HEADERS  += mainwindow.h \
     ../classes/qfilesystem.h \
     ../classes/qgpk.h \
     ../classes/qgpkfile.h \
     ../classes/qscript.h \
-    ../classes/qscriptaction.h
+    ../classes/enginewidget.h \
+    ../classes/qactiontimer.h
 
 FORMS    += mainwindow.ui
 
 OTHER_FILES += \
     ../game/game.json
+
+QMAKE_CXXFLAGS += -fprofile-arcs -ftest-coverage
+QMAKE_LDFLAGS += -fprofile-arcs -ftest-coverage
+LIBS += -lgcov

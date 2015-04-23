@@ -9,7 +9,7 @@ QT       += core
 QT       -= gui
 
 TARGET = unpacker
-CONFIG   += console
+CONFIG   += console debug
 CONFIG   -= app_bundle
 
 TEMPLATE = app

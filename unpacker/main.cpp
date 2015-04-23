@@ -9,7 +9,7 @@ int main(int argc, char *argv[])
         return 1;*/
 
     //QFileSystem* fs = new QFileSystem(argv[1]);
-    QFileSystem* fs = new QFileSystem("h:\\Games\\Школьные Дни HQ\\");
+    QFileSystem* fs = new QFileSystem("/media/work/Dev/Games/SD");
     fs->unpack_all();
 
     return a.exec();

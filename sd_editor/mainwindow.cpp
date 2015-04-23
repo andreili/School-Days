@@ -3,7 +3,7 @@
 
 #include <QFileDialog>
 #include <QDir>
-#include <QtMultimediaWidgets/QVideoWidget>
+//#include <QtMultimediaWidgets/QVideoWidget>
 
 MainWindow::MainWindow(QWidget *parent) :
     QMainWindow(parent),
@@ -26,6 +26,9 @@ MainWindow::MainWindow(QWidget *parent) :
     qDebug() << player->errorString();*/
 
     connect(ui->mSetGameFolder, SIGNAL(triggered()), this, SLOT(SetGameFolder()));
+
+    engine_widget = new EngineWidget(this);
+    ui->wEngine->layout()->addWidget(engine_widget);
 }
 
 MainWindow::~MainWindow()
@@ -35,7 +38,8 @@ MainWindow::~MainWindow()
 
 void MainWindow::SetGameFolder()
 {
-    QString game_dir = QFileDialog::getExistingDirectory(this, "Укажите папку с игрой");
+    //QString game_dir = QFileDialog::getExistingDirectory(this, "Укажите папку с игрой");
+    QString game_dir = "/media/work/Dev/Games/SD";
     fs = new QFileSystem(game_dir, this);
 
     QStringList scripts = fs->list(QString("Script") + QDir::separator() + ".*");
@@ -64,8 +68,11 @@ void MainWindow::on_twScripts_doubleClicked(const QModelIndex &index)
     {
         QString fn = "Script/ENGLISH/" + ui->twScripts->currentItem()->parent()->text(0) + "/" +
                 ui->twScripts->currentItem()->text(0);
-        this->activeScript = new QScript();
+        this->activeScript = new QScript(fs);
         this->activeScript->load_from_ORS(fs->open(fn));
+        //this->activeScript->load_from_ORS(new QGPKFile(fn));
+        connect(this->activeScript, SIGNAL(SetLayerImage(int,QImage*)), this->engine_widget,
+                SLOT(SetLayerImage(int,QImage*)));
         this->activeScript->execute();
        /* QMediaPlayer *player = new QMediaPlayer();
         //player->setMedia(QMediaContent(), fs->open("System/OP/SDHQ_OP"));

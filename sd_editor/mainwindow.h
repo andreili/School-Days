@@ -4,6 +4,7 @@
 #include <QMainWindow>
 #include "../classes/qfilesystem.h"
 #include "../classes/qscript.h"
+#include "../classes/enginewidget.h"
 
 namespace Ui {
 class MainWindow;
@@ -27,6 +28,7 @@ private:
     Ui::MainWindow *ui;
     QFileSystem* fs;
     QScript* activeScript;
+    EngineWidget* engine_widget;
 
 };
 
