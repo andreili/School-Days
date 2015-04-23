@@ -39,7 +39,7 @@ QScript::~QScript()
     {
         delete action;
     }
-    foreach(QActionTimer* timer, timers)
+    foreach(QSingleActionTimer* timer, timers)
     {
         delete timer;
     }
@@ -220,7 +220,7 @@ void QScript::execute()
         case PlayVoice:
         case EndBGM:
         case CreateBG:
-            this->timers.append(new QActionTimer(action, action->start, this, SLOT(action_execute(void*))));
+            this->timers.append(new QSingleActionTimer(action, action->start, this, SLOT(action_execute(void*))));
             //QTimer::singleShot(action.start, this, SLOT(action_execute()));
             /*timer = new QTimer(this);
             timer->setInterval(action.start);
@@ -249,16 +249,34 @@ void QScript::action_execute(void* data)
     QScriptAction* action = (QScriptAction*)data;
 #ifdef QT_DEBUG
     QMetaEnum en = staticMetaObject.enumerator(0);
-    qDebug() << "Start action" << en.valueToKey(action->action) << " at " << action->start;
+    qDebug() << "Start action" << en.valueToKey(action->action) << " at " << action->start <<
+                " end:" << action->end - action->start;
 #endif
+
+    QString fn;
+    if (action->file_name.length() > 0)
+        fn = fs->getPackDir() + fs->normalize_name(action->file_name);
+
     switch (action->action)
     {
+    case PlayVoice:
+        if (this->latest_bg_fn.length() > 0)
+        {
+            action->sync_phaze = 0;
+            QString fns = fs->getPackDir() + this->latest_bg_fn + action->persona.toUpper() + '.';
+            action->sync[0] = new QImage(fns + 'A' + ".PNG");
+            action->sync[1] = new QImage(fns + 'B' + ".PNG");
+            action->sync[2] = new QImage(fns + 'C' + ".PNG");
+            action->sync_timer = new QActionTimer(action, 100, this, SLOT(action_sync(void*)));
+        }
+#ifdef QT_DEBUG
+        qDebug() << "Voice:" << action->persona;
+#endif
     case PlayBgm:
     case PlayES:
-    case PlayVoice:
     case PlaySe:
     case EndBGM:
-        //action->sound = new QSound(fs->getPackDir() + fs->normalize_name(thisactionfile_name));
+        //action->sound = new QSound(fn);
         //action->sound->play();
         /*action->end_timer = new QTimer();
         action->end_timer->setInterval(action->end - action->start);
@@ -267,7 +285,8 @@ void QScript::action_execute(void* data)
         action->end_timer->start();*/
         break;
     case CreateBG:
-        action->image = new QImage(fs->getPackDir() + fs->normalize_name(action->file_name));
+        this->latest_bg_fn = action->file_name;
+        action->image = new QImage(fn);
         emit SetLayerImage(0, action->image);
         break;
     case PrintText:
@@ -282,7 +301,7 @@ void QScript::action_execute(void* data)
     case MoveSom:
         break;
     }
-    new QActionTimer(data, action->end - action->start, this, SLOT(action_stop(void*)));
+    new QSingleActionTimer(data, action->end - action->start, this, SLOT(action_stop(void*)));
 }
 
 void QScript::action_stop(void* data)
@@ -294,15 +313,25 @@ void QScript::action_stop(void* data)
 #endif
     switch (action->action)
     {
+    case PlayVoice:
+        if (this->latest_bg_fn.length() > 0)
+        {
+            emit SetLayerImage(1, NULL);
+            delete action->sync_timer;
+            delete action->sync[0];
+            delete action->sync[1];
+            delete action->sync[2];
+        }
+        break;
     case PlayBgm:
     case PlayES:
-    case PlayVoice:
     case PlaySe:
     case EndBGM:
         //delete action->sound;
         //delete action->end_timer;
         break;
     case CreateBG:
+        this->latest_bg_fn.clear();
         emit SetLayerImage(0, NULL);
         delete action->image;
         break;
@@ -314,6 +343,34 @@ void QScript::action_stop(void* data)
     case EndRoll:
     case Next:
         break;
+    case SkipFRAME:
+    case MoveSom:
+        break;
+    }
+}
+
+void QScript::action_sync(void* data)
+{
+    QScriptAction* action = (QScriptAction*)data;
+    switch (action->action)
+    {
+    case PlayVoice:
+        emit SetLayerImage(1, action->sync[action->sync_phaze]);
+        action->sync_phaze++;
+        if (action->sync_phaze >= 3)
+            action->sync_phaze = 0;
+    case PlayBgm:
+    case PlayES:
+    case PlaySe:
+    case EndBGM:
+    case CreateBG:
+    case PrintText:
+    case SetSELECT:
+    case BlackFade:
+    case WhiteFade:
+    case PlayMovie:
+    case EndRoll:
+    case Next:
     case SkipFRAME:
     case MoveSom:
         break;

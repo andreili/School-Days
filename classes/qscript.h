@@ -57,15 +57,19 @@ private:
         int end;
 
         bool runned;
+        int sync_phaze;
 
         //QSound* sound;
-        QActionTimer* end_timer;
+        QSingleActionTimer* end_timer;
+        QActionTimer* sync_timer;
         QImage* image;
+        QImage* sync[3];
     } QScriptAction;
 
     QFileSystem* fs;
     QList<QScriptAction*> actions;
-    QList<QActionTimer*> timers;
+    QList<QSingleActionTimer*> timers;
+    QString latest_bg_fn;
 
     void add_action_by_ors(QString action, QStringList params);
     QString actionToString(QScriptAction* action);
@@ -77,6 +81,7 @@ public slots:
     void execute();
     void action_execute(void* data);
     void action_stop(void* data);
+    void action_sync(void* data);
 
 };
 

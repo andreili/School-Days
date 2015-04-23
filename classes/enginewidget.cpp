@@ -20,7 +20,8 @@ void EngineWidget::paintEvent(QPaintEvent *) {
 
     for (int i=0 ; i<10 ; i++)
         if (this->layers[i] != 0)
-            p.drawImage(0,0, *this->layers[i]);
+            p.drawImage(0,0, *this->layers[i],
+                        0,0, -1,-1, Qt::AlphaDither_Mask);
 
     /*p.setPen(QPen(Qt::red,1,Qt::SolidLine)); // Настройки рисования
     p.drawLine(0,0,width(),height()); // Рисование линии*/

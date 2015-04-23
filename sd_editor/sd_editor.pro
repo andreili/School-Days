@@ -34,6 +34,6 @@ FORMS    += mainwindow.ui
 OTHER_FILES += \
     ../game/game.json
 
-QMAKE_CXXFLAGS += -fprofile-arcs -ftest-coverage
-QMAKE_LDFLAGS += -fprofile-arcs -ftest-coverage
-LIBS += -lgcov
+debug:QMAKE_CXXFLAGS += -fprofile-arcs -ftest-coverage
+debug:QMAKE_LDFLAGS += -fprofile-arcs -ftest-coverage
+debug:LIBS += -lgcov

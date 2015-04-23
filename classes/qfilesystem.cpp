@@ -60,7 +60,9 @@ void QFileSystem::unpack_all()
 {
     foreach (QGPK* gpk, this->gpks)
     {
+#ifdef QT_DEBUG
         qDebug() << "Unpacking:" << gpk->getName() << endl;
+#endif
         gpk->unpack_all(this->pack_dir + gpk->getName() + QDir::separator());
     }
 }
