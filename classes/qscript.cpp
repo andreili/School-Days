@@ -6,6 +6,21 @@
 #include <QJsonObject>
 #include <QJsonDocument>
 #include <QDebug>
+#include "QDateTime"
+
+#define delete_if_not_NULL(obj) \
+    if (obj != NULL) { delete obj; obj = NULL; }
+
+enum {
+    SECS_PER_DAY = 86400,
+    MSECS_PER_DAY = 86400000,
+    SECS_PER_HOUR = 3600,
+    MSECS_PER_HOUR = 3600000,
+    SECS_PER_MIN = 60,
+    MSECS_PER_MIN = 60000,
+    TIME_T_MAX = 2145916799,  // int maximum 2037-12-31T23:59:59 UTC
+    JULIAN_DAY_FOR_EPOCH = 2440588 // result of julianDayFromDate(1970, 1, 1)
+};
 
 int convert_time(QString time)
 {
@@ -27,6 +42,16 @@ QString back_time(int msecs)
             QString("%1").arg(qRound(ms / 16.6667), 2, 10, QChar('0'));
 }
 
+bool compareActionByStart(QScript::QScriptAction* a1, QScript::QScriptAction* a2)
+{
+    return a1->start < a2->start;
+}
+
+bool compareActionByEnd(QScript::QScriptAction* a1, QScript::QScriptAction* a2)
+{
+    return a1->end < a2->end;
+}
+
 QScript::QScript(QFileSystem* fs, QObject *parent) :
     QObject(parent)
 {
@@ -35,14 +60,44 @@ QScript::QScript(QFileSystem* fs, QObject *parent) :
 
 QScript::~QScript()
 {
+    // clear screent
+    for (int i=0 ; i<10 ; i++)
+        emit SetLayerImage(i, NULL);
+
     foreach(QScriptAction* action, actions)
     {
+        if (action->running)
+        {
+            switch (action->action)
+            {
+            case PlayVoice:
+                delete_if_not_NULL(action->sync_timer);
+                delete_if_not_NULL(action->sync[0]);
+                delete_if_not_NULL(action->sync[1]);
+                delete_if_not_NULL(action->sync[2]);
+            case PlayBgm:
+            case PlayES:
+            case PlaySe:
+            case EndBGM:
+                break;
+            case CreateBG:
+                delete_if_not_NULL(action->image);
+                break;
+            case PrintText:
+            case SetSELECT:
+            case BlackFade:
+            case WhiteFade:
+            case PlayMovie:
+            case EndRoll:
+            case Next:
+                break;
+            default:
+                break;
+            }
+        }
         delete action;
     }
-    foreach(QSingleActionTimer* timer, timers)
-    {
-        delete timer;
-    }
+    delete current_timer;
 }
 
 void QScript::load_from_ORS(QGPKFile *file)
@@ -56,6 +111,7 @@ void QScript::load_from_ORS(QGPKFile *file)
         this->add_action_by_ors(line.split('\t')[0].split(QRegExp("[:=\\[\\];]"), QString::SkipEmptyParts)[0],
                 line.split('\t', QString::SkipEmptyParts));
     }
+    qSort(actions.begin(), actions.end(), compareActionByStart);
 }
 
 QString QScript::serialize()
@@ -138,19 +194,7 @@ void QScript::export_txt(QString file_name)
             text_stream << action->answer1 << endl;
             text_stream << action->answer2 << endl;
             break;
-        case SkipFRAME:
-        case CreateBG:
-        case BlackFade:
-        case WhiteFade:
-        case PlayMovie:
-        case PlayBgm:
-        case PlaySe:
-        case PlayES:
-        case PlayVoice:
-        case Next:
-        case EndBGM:
-        case EndRoll:
-        case MoveSom:
+        default:
             break;
         }
     }
@@ -183,19 +227,7 @@ void QScript::import_txt(QString file_name)
             action->answer1 = text_stream.readLine();
             action->answer2 = text_stream.readLine();
             break;
-        case SkipFRAME:
-        case CreateBG:
-        case BlackFade:
-        case WhiteFade:
-        case PlayMovie:
-        case PlayBgm:
-        case PlaySe:
-        case PlayES:
-        case PlayVoice:
-        case Next:
-        case EndBGM:
-        case EndRoll:
-        case MoveSom:
+        default:
             break;
         }
 
@@ -209,48 +241,73 @@ void QScript::import_txt(QString file_name)
 
 void QScript::execute()
 {
+    this->start_time = QDateTime::currentMSecsSinceEpoch();
+    if (actions.length() > 0)
+        action_sheduler(actions.at(0));
+}
+
+void QScript::action_sheduler(void* current_action)
+{
     // TODO: preload data
-    foreach(QScriptAction* action, actions)
+
+    checkStopActions();
+
+    int startIdx = actions.indexOf((QScriptAction*)current_action);
+    int endIdx = actions.length();
+    qint64 time = QDateTime::currentMSecsSinceEpoch() - this->start_time;
+
+    for (int i=startIdx ; i<endIdx ; i++)
     {
-        switch (action->action)
+        QScriptAction* action = actions.at(i);
+
+        if (action->running)
+            continue;
+
+        if (action->start > time)
         {
-        case PlaySe:
-        case PlayBgm:
-        case PlayES:
-        case PlayVoice:
-        case EndBGM:
-        case CreateBG:
-            this->timers.append(new QSingleActionTimer(action, action->start, this, SLOT(action_execute(void*))));
-            //QTimer::singleShot(action.start, this, SLOT(action_execute()));
-            /*timer = new QTimer(this);
-            timer->setInterval(action.start);
-            timer->setSingleShot(true);
-            //connect(timer, SIGNAL(timeout()), action, SLOT(execute()));
-            timer->start();
-            this->timers.append(timer);*/
+            current_timer = new QSingleActionTimer(action, action->start - time, this, SLOT(action_sheduler(void*)));
             break;
-        case PrintText:
-        case SetSELECT:
-        case BlackFade:
-        case WhiteFade:
-        case PlayMovie:
-        case EndRoll:
+        }
+
+        runAction(action);
+    }
+    if (queue_stop.length() > 0)
+    {
+        qSort(queue_stop.begin(), queue_stop.end(), compareActionByEnd);
+        //QScriptAction* action = queue_stop.at(0);
+        //new QSingleActionTimer(action, action->end - time, this, SLOT(action_sheduler(void*)));
+    }
+}
+
+void QScript::checkStopActions()
+{
+    qint64 time = QDateTime::currentMSecsSinceEpoch() - this->start_time;
+    int l = queue_stop.length();
+    for (int i=0 ; i<l ; i++)
+    {
+        QScriptAction* action = queue_stop.at(i);
+
+        if (action->end > time)
             break;
-        case SkipFRAME:
-        case Next:
-        case MoveSom:
-            break;
+
+        if ((action->running) && (action->end <= time))
+        {
+            action_stop(action);
+            action->runned = true;
+            action->running = false;
+            queue_stop.removeOne(action);
+            i--;
+            l--;
         }
     }
 }
 
-void QScript::action_execute(void* data)
+void QScript::runAction(QScriptAction* action)
 {
-    QScriptAction* action = (QScriptAction*)data;
 #ifdef QT_DEBUG
     QMetaEnum en = staticMetaObject.enumerator(0);
     qDebug() << "Start action" << en.valueToKey(action->action) << " at " << action->start <<
-                " end:" << action->end - action->start;
+                " rel_end:" << action->end - action->start;
 #endif
 
     QString fn;
@@ -278,11 +335,6 @@ void QScript::action_execute(void* data)
     case EndBGM:
         //action->sound = new QSound(fn);
         //action->sound->play();
-        /*action->end_timer = new QTimer();
-        action->end_timer->setInterval(action->end - action->start);
-        action->end_timer->setSingleShot(true);
-        connect(action->end_timer, SIGNAL(timeout()), this, SLOT(stop()));
-        action->end_timer->start();*/
         break;
     case CreateBG:
         this->latest_bg_fn = action->file_name;
@@ -301,7 +353,8 @@ void QScript::action_execute(void* data)
     case MoveSom:
         break;
     }
-    new QSingleActionTimer(data, action->end - action->start, this, SLOT(action_stop(void*)));
+    action->running = true;
+    queue_stop.append(action);
 }
 
 void QScript::action_stop(void* data)
@@ -317,23 +370,22 @@ void QScript::action_stop(void* data)
         if (this->latest_bg_fn.length() > 0)
         {
             emit SetLayerImage(1, NULL);
-            delete action->sync_timer;
-            delete action->sync[0];
-            delete action->sync[1];
-            delete action->sync[2];
+            delete_if_not_NULL(action->sync_timer);
+            delete_if_not_NULL(action->sync[0]);
+            delete_if_not_NULL(action->sync[1]);
+            delete_if_not_NULL(action->sync[2]);
         }
         break;
     case PlayBgm:
     case PlayES:
     case PlaySe:
     case EndBGM:
-        //delete action->sound;
-        //delete action->end_timer;
+        //delete_if_not_NULL(action->sound);
         break;
     case CreateBG:
         this->latest_bg_fn.clear();
         emit SetLayerImage(0, NULL);
-        delete action->image;
+        delete_if_not_NULL(action->image);
         break;
     case PrintText:
     case SetSELECT:
@@ -359,20 +411,7 @@ void QScript::action_sync(void* data)
         action->sync_phaze++;
         if (action->sync_phaze >= 3)
             action->sync_phaze = 0;
-    case PlayBgm:
-    case PlayES:
-    case PlaySe:
-    case EndBGM:
-    case CreateBG:
-    case PrintText:
-    case SetSELECT:
-    case BlackFade:
-    case WhiteFade:
-    case PlayMovie:
-    case EndRoll:
-    case Next:
-    case SkipFRAME:
-    case MoveSom:
+    default:
         break;
     }
 }
@@ -383,6 +422,14 @@ void QScript::add_action_by_ors(QString action, QStringList params)
     /*actions.append(new QScriptAction((Action)en.keyToValue(action.toStdString().c_str()),
                                      &params, fs, this));*/
     QScriptAction* action_rec = new QScriptAction;
+
+    action_rec->runned = false;
+    action_rec->running = false;
+    action_rec->sync_timer = NULL;
+    action_rec->sync[0] = NULL;
+    action_rec->sync[2] = NULL;
+    action_rec->sync[3] = NULL;
+    action_rec->image = NULL;
 
     action_rec->layer = -1;
     action_rec->end = -1;

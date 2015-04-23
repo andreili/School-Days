@@ -17,6 +17,11 @@ public:
         this->timerId = QObject::startTimer(msec);
         connect(this, SIGNAL(timeout(void*)), receiver, member);
     }
+    ~QSingleActionTimer()
+    {
+        if (timerId > 0)
+            QObject::killTimer(timerId);
+    }
 
 Q_SIGNALS:
     void timeout(void* data);

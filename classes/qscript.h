@@ -43,7 +43,6 @@ public:
     void export_txt(QString file_name);
     void import_txt(QString file_name);
 
-private:
     typedef struct
     {
         Action action;
@@ -53,33 +52,38 @@ private:
         QString persona;
         QString answer1, answer2;
         int layer;
-        int start;
-        int end;
+        qint64 start;
+        qint64 end;
 
         bool runned;
+        bool running;
         int sync_phaze;
 
         //QSound* sound;
-        QSingleActionTimer* end_timer;
         QActionTimer* sync_timer;
         QImage* image;
         QImage* sync[3];
     } QScriptAction;
 
+private:
     QFileSystem* fs;
     QList<QScriptAction*> actions;
-    QList<QSingleActionTimer*> timers;
+    QList<QScriptAction*> queue_stop;
+    QSingleActionTimer* current_timer;
     QString latest_bg_fn;
+    qint64 start_time;
 
     void add_action_by_ors(QString action, QStringList params);
     QString actionToString(QScriptAction* action);
+    void checkStopActions();
+    void runAction(QScriptAction* action);
 
 signals:
     void SetLayerImage(int layer, QImage* img);
 
 public slots:
     void execute();
-    void action_execute(void* data);
+    void action_sheduler(void* current_action);
     void action_stop(void* data);
     void action_sync(void* data);
 

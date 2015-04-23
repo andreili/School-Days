@@ -29,6 +29,8 @@ MainWindow::MainWindow(QWidget *parent) :
 
     engine_widget = new EngineWidget(this);
     ui->wEngine->layout()->addWidget(engine_widget);
+
+    this->activeScript = NULL;
 }
 
 MainWindow::~MainWindow()
@@ -68,6 +70,10 @@ void MainWindow::on_twScripts_doubleClicked(const QModelIndex &index)
     {
         QString fn = "Script/ENGLISH/" + ui->twScripts->currentItem()->parent()->text(0) + "/" +
                 ui->twScripts->currentItem()->text(0);
+
+        if (this->activeScript != NULL)
+            delete this->activeScript;
+
         this->activeScript = new QScript(fs);
         this->activeScript->load_from_ORS(fs->open(fn));
         //this->activeScript->load_from_ORS(new QGPKFile(fn));
